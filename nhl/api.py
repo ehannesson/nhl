@@ -1,7 +1,8 @@
 # collect_data.py
 import requests
-import time
+import numpy as np
 import pandas as pd
+import time
 
 
 def getTeamIDs(base_url='https://statsapi.web.nhl.com/api/v1', active=True):
@@ -26,6 +27,42 @@ def getTeamIDs(base_url='https://statsapi.web.nhl.com/api/v1', active=True):
         teams = {team['name']: team['id'] for team in all_teams}
 
     return teams
+
+
+def teamIDsDict():
+    team_dict = {
+                'new jersey devils': 1,         'njd': 1,
+                'new york islanders': 2,        'nyi': 2,
+                'new york rangers': 3,          'nyr': 3,
+                'philadelphia flyers': 4,       'phi': 4,
+                'pittsburgh penguins': 5,       'pit': 5,
+                'boston bruins': 6,             'bos': 6,
+                'buffalo sabres': 7,            'buf': 7,
+                'montreal canadiens': 8,        'mtl': 8,
+                'ottawa senators': 9,           'ott': 9,
+                'toronto maple leafs': 10,      'tor': 10,
+                'carolina hurricanes': 12,      'car': 12,
+                'florida panthers': 13,         'fla': 13,
+                'tampa bay lightning': 14,      'tbl': 14,
+                'washington capitals': 15,      'wsh': 15,
+                'chicago blackhawks': 16,       'chi': 16,
+                'detroit red wings': 17,        'det': 17,
+                'nashville predators': 18,      'nsh': 18,
+                'st. louis blues': 19,          'stl': 19,
+                'calgary flames': 20,           'cgy': 20,
+                'colorado avalanche': 21,       'col': 21,
+                'edmonton oilers': 22,          'edm': 22,
+                'vancouver canucks': 23,        'van': 23,
+                'anaheim ducks': 24,            'ana': 24,
+                'dallas stars': 25,             'dal': 25,
+                'los angeles kings': 26,        'lak': 26,
+                'san jose sharks': 28,          'sjs': 28,
+                'columbus blue jackets': 29,    'cbj': 29,
+                'minnesota wild': 30,           'min': 30,
+                'winnipeg jets': 52,            'wpg': 52,
+                'arizona coyotes': 53,          'ari': 53,
+                'vegas golden knights': 54,     'vgk': 54
+                }
 
 
 def getTeamRoster(team_id, season=None, wait=0,
@@ -81,6 +118,49 @@ def getTeamRoster(team_id, season=None, wait=0,
 
     # extract player information
     return team_roster['roster']
+
+
+def getGameIDs(team_id, season=None, include_pre=False, include_post=False,
+                include_future=True, base_url='https://statsapi.web.nhl.com/api/v1'):
+    """
+    Queries the NHL API for a team's schedule and returns a list of each game_id.
+    Basically just wraps getSchedule and extracts only the game IDs.
+
+    Parameters
+    ----------
+    team_id : str or int
+        Team's NHL API id number.
+
+    season : str or list-like ('YYYYYYYY' or (start_date, end_date), default: None)
+        Season to request data from (e.g. '20192020'). If None, defaults to the
+        current season.
+
+        If passing a list, should be of the form ("YYYY-MM-DD", "YYYY-MM-DD"),
+        with the first entry being the start date and the second the end date.
+
+    include_pre : bool (default: False)
+        Whether to include preseason games.
+
+    include_post : bool (default: False)
+        Whether to include postseason games.
+
+    include_future : bool (default : True)
+        Whether to include future (i.e. unplayed/unfinished) games.
+
+    Returns
+    -------
+    schedule : list(dicts)
+        List containing one dictionary per scheduled game for the entire season.
+    """
+    # get the team's schedule
+    schedule = getSchedule(team_id, season=season, include_pre=include_pre,
+                           include_post=include_post, include_future=include_future,
+                           base_url=base_url)
+
+    # get the game id from each game
+    game_ids = [game['games'][0]['gamePk'] for game in schedule]
+
+    return game_ids
 
 
 def getPlayerStats(player_id, season=None, report_type='statsSingleSeason',
@@ -218,7 +298,8 @@ def getPlayerStats(player_id, season=None, report_type='statsSingleSeason',
     return player_stats['stats'][0]['splits']
 
 
-def getSchedule(team_id, season=None, base_url='https://statsapi.web.nhl.com/api/v1'):
+def getSchedule(team_id, season=None, include_pre=False, include_post=False,
+                include_future=True, base_url='https://statsapi.web.nhl.com/api/v1'):
     """
     Queries the NHL API for a team's schedule.
 
@@ -227,9 +308,21 @@ def getSchedule(team_id, season=None, base_url='https://statsapi.web.nhl.com/api
     team_id : str or int
         Team's NHL API id number.
 
-    season : str ('YYYYYYYY', default: None)
+    season : str or list-like ('YYYYYYYY' or (start_date, end_date), default: None)
         Season to request data from (e.g. '20192020'). If None, defaults to the
         current season.
+
+        If passing a list, should be of the form ("YYYY-MM-DD", "YYYY-MM-DD"),
+        with the first entry being the start date and the second the end date.
+
+    include_pre : bool (default: False)
+        Whether to include preseason games.
+
+    include_post : bool (default: False)
+        Whether to include postseason games.
+
+    include_future : bool (default : True)
+        Whether to include future (i.e. unplayed/unfinished) games.
 
     Returns
     -------
@@ -242,10 +335,36 @@ def getSchedule(team_id, season=None, base_url='https://statsapi.web.nhl.com/api
         season = season[0]['seasonId']
 
     # request schedule information
-    schedule = requests.get(base_url + f'/schedule?season={season}&teamId={team_id}')
+    if type(season) is str:
+        schedule = requests.get(base_url + f'/schedule?season={season}&teamId={team_id}')
+    else:
+        modifier = f'teamId={team_id}&startDate={season[0]}&endDate={season[1]}'
+        schedule = requests.get(base_url + f'/schedule?{modifier}')
 
-    # extract/return useful information
-    return schedule.json()['dates']
+    schedule = schedule.json()['dates']
+
+    # filter out preseason/postseason/future games based on parameters
+    if not np.all([include_pre, include_post, include_future]):
+        for game_num in range(len(schedule))[::-1]:
+            # drill down to the level we care about
+            game = schedule[game_num]['games'][0]
+
+            # if we don't want to include future games
+            if not include_future and game['status']['detailedState'] != 'Final':
+                schedule.pop(game_num) # remove from schedule
+                continue
+
+            # if include_pre is False, skip preseason games
+            if not include_pre and game['gameType'] == 'PR':
+                schedule.pop(game_num)
+                continue
+
+            # if include_post is False, skip postseason games
+            if not include_post and game['gameType'] == 'P':
+                schedule.pop(game_num)
+                continue
+
+    return schedule
 
 
 def getBoxScore(game_id, base_url='https://statsapi.web.nhl.com/api/v1'):
@@ -273,7 +392,7 @@ def getBoxScore(game_id, base_url='https://statsapi.web.nhl.com/api/v1'):
     return boxscore['teams']['home'], boxscore['teams']['away']
 
 
-def getLiveData(game_id, diffPatch=False, base_url='https://statsapi.web.nhl.com/api/v1'):
+def getLiveData(game_id, base_url='https://statsapi.web.nhl.com/api/v1'):
     """
     Queries the NHL API for the live data feed of a game.
 
@@ -282,11 +401,6 @@ def getLiveData(game_id, diffPatch=False, base_url='https://statsapi.web.nhl.com
     game_id : str or int (YYYYGGGGGG)
         NHL API game_id. First four characters are the year the season started,
         the final six are unique to this game.
-
-    diffPatch : str ("yyyymmdd_hhmmss", default: False)
-        If `diffPatch` is specified, this will query for data updates since
-        the given `diffPatch` time. Use when streaming game data to reduce
-        overhead.
 
     Returns
     -------
@@ -333,13 +447,8 @@ def getLiveData(game_id, diffPatch=False, base_url='https://statsapi.web.nhl.com
 
 
     """
-    if diffPatch:
-        # if diffPatch is specified, call and return that data
-        endpoint_url = f'/game/{game_id}/feed/live/diffPatch?startTimecode={diffPatch}'
-        live_data = requests.get(base_url + endpoint_url)
-    else:
-        # otherwise just request all the data
-        live_data = requests.get(base_url + f'/game/{game_id}/feed/live')
+    # request all the data
+    live_data = requests.get(base_url + f'/game/{game_id}/feed/live')
 
     return live_data.json()['liveData']
 

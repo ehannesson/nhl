@@ -16,6 +16,9 @@ class Team:
             name, or the team's three letter abbreviation; case insensitive. See
             Additional Information for a complete list of active teams and codes.
 
+        season : str (default : None)
+            The season to pull the team's roster from; if None, defaults to the
+            current season.
 
         Attributes
         ----------
@@ -75,45 +78,45 @@ class Team:
         self.season = season
 
         # case insensitive
-        _team_map = {
-                    'new jersey devils': 1,         'njd': 1,
-                    'new york islanders': 2,        'nyi': 2,
-                    'new york rangers': 3,          'nyr': 3,
-                    'philadelphia flyers': 4,       'phi': 4,
-                    'pittsburgh penguins': 5,       'pit': 5,
-                    'boston bruins': 6,             'bos': 6,
-                    'buffalo sabres': 7,            'buf': 7,
-                    'montreal canadiens': 8,        'mtl': 8,
-                    'ottawa senators': 9,           'ott': 9,
-                    'toronto maple leafs': 10,      'tor': 10,
-                    'carolina hurricanes': 12,      'car': 12,
-                    'florida panthers': 13,         'fla': 13,
-                    'tampa bay lightning': 14,      'tbl': 14,
-                    'washington capitals': 15,      'wsh': 15,
-                    'chicago blackhawks': 16,       'chi': 16,
-                    'detroit red wings': 17,        'det': 17,
-                    'nashville predators': 18,      'nsh': 18,
-                    'st. louis blues': 19,          'stl': 19,
-                    'calgary flames': 20,           'cgy': 20,
-                    'colorado avalanche': 21,       'col': 21,
-                    'edmonton oilers': 22,          'edm': 22,
-                    'vancouver canucks': 23,        'van': 23,
-                    'anaheim ducks': 24,            'ana': 24,
-                    'dallas stars': 25,             'dal': 25,
-                    'los angeles kings': 26,        'lak': 26,
-                    'san jose sharks': 28,          'sjs': 28,
-                    'columbus blue jackets': 29,    'cbj': 29,
-                    'minnesota wild': 30,           'min': 30,
-                    'winnipeg jets': 52,            'wpg': 52,
-                    'arizona coyotes': 53,          'ari': 53,
-                    'vegas golden knights': 54,     'vgk': 54
-                    }
+        self._team_map = {
+                        'new jersey devils': 1,         'njd': 1,
+                        'new york islanders': 2,        'nyi': 2,
+                        'new york rangers': 3,          'nyr': 3,
+                        'philadelphia flyers': 4,       'phi': 4,
+                        'pittsburgh penguins': 5,       'pit': 5,
+                        'boston bruins': 6,             'bos': 6,
+                        'buffalo sabres': 7,            'buf': 7,
+                        'montreal canadiens': 8,        'mtl': 8,
+                        'ottawa senators': 9,           'ott': 9,
+                        'toronto maple leafs': 10,      'tor': 10,
+                        'carolina hurricanes': 12,      'car': 12,
+                        'florida panthers': 13,         'fla': 13,
+                        'tampa bay lightning': 14,      'tbl': 14,
+                        'washington capitals': 15,      'wsh': 15,
+                        'chicago blackhawks': 16,       'chi': 16,
+                        'detroit red wings': 17,        'det': 17,
+                        'nashville predators': 18,      'nsh': 18,
+                        'st. louis blues': 19,          'stl': 19,
+                        'calgary flames': 20,           'cgy': 20,
+                        'colorado avalanche': 21,       'col': 21,
+                        'edmonton oilers': 22,          'edm': 22,
+                        'vancouver canucks': 23,        'van': 23,
+                        'anaheim ducks': 24,            'ana': 24,
+                        'dallas stars': 25,             'dal': 25,
+                        'los angeles kings': 26,        'lak': 26,
+                        'san jose sharks': 28,          'sjs': 28,
+                        'columbus blue jackets': 29,    'cbj': 29,
+                        'minnesota wild': 30,           'min': 30,
+                        'winnipeg jets': 52,            'wpg': 52,
+                        'arizona coyotes': 53,          'ari': 53,
+                        'vegas golden knights': 54,     'vgk': 54
+                        }
 
         # convert teamID to proper format and save as attribute
         if type(team_id) is int:
             self.team_id = str(team_id)
         elif len(team_id) > 2:
-            self.team_id = str(_team_map[team_id.lower()])
+            self.team_id = str(self._team_map[team_id.lower()])
 
         # request the roster and save as attribute
         self.roster = api.getTeamRoster(self.team_id, season=self.season,
@@ -126,3 +129,18 @@ class Team:
         self.offense = [player for player in self.roster if list(player.values())[0][2] in 'LCR']
         self.defense = [player for player in self.roster if list(player.values())[0][2]=='D']
         self.goalies = [player for player in self.roster if list(player.values())[0][2]=='G']
+
+    def getSeasonData(self, season):
+        """
+        """
+        pass
+
+
+    # def makeDataFrames(self, season=None, updateData=False):
+    #     """
+    #
+    #     """
+    #     if self.goal_data is not None and not updateData:
+    #         return self.goal_data
+    #     else:
+    #         self.goal_data = nhl.api.time_series.getGoals()
