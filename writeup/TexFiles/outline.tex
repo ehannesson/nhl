@@ -1,6 +1,8 @@
 \documentclass{notes}
 \usepackage[margin=1in]{geometry}
 
+\usepackage{svg}
+\usepackage{graphicx}
 \usepackage{boldline}
 \usepackage{textcomp}
 \usepackage{listings}
@@ -159,7 +161,7 @@
     \subsection{Previous Research and Efforts}
       Uhmm...regression????\\
 
-      Also, apparently game classification accuracy is currently (?) capped out at only $\tilde 66\%$ (look at link on iPad...).
+      Also, apparently game classification accuracy is currently (?) ``capped'' out at around $66\%$ (reference coming soon...).
       Surely we can beat this, no?
 
     \subsection{Basic Statistical Analysis}
@@ -168,6 +170,90 @@
       \subsubsection{Team and Player Variance}
         We try to create a metric for measuring the variance in both team and individual player performance.
         This is an incredibly helpful statistic, as it can be a hugely influential factor in the models that we build.
+
+    \subsection{Classification Models}
+
+      \subsubsection{Linear Regression}
+      The first thing we wanted to analyze was which events contributed to the number of wins a team gets.
+      Due to the large number of variables we have that participate in our model, we wanted to avoid overfitting by finding the best OLS model that minimizes the AIC.
+      This was done by implementing the "Best Subset Method" which iterates through all subsets of independent variables, and finds the combination that minimizes the AIC.
+      Although this is computationally complex, it is accurate in finding the variables that minimizes AIC since it takes all possible combinations.
+      Without using this method, we found the following as our OLS model: (we are aware that there is currently nothing here; we're working on porting jupyter notebook stuff to here...)\\
+
+      Once we computed the best subset, the following was determined to be the best OLS model that minimizes AIC.
+      Note that while the R-squared value in this model decreased by .008 from the model using all of the variables, we also went from 26 variables to 6 variables.
+      This greatly simplifies our model, while indicating the most important variables in predicting how many games a team will win in a season.
+      (Again, working on transfering from jupyter)\\
+
+      This OLS model suggest that the most important thing a team can do to win more games is not allow any in a game.
+      This is closely followed by the total number of shots a team takes per game.
+      We found it very interesting that it was "shots" that this model used, rather than goals per game scored.
+      We are unsure of the significance of this at the moment, but will continue with our analysis.
+
+      \subsubsection{Random Forest}
+        For random forest we put our data into a random forest model and got the following results.
+        Note that a tree diagram indicating the process of this random forest will be uploaded later.
+        This random forest found a mean accuracy score of .929, which shows an incredible amount of accuracy for a ML algorithm predicting playoff teams.
+
+      \subsubsection{Naive Bayes}
+      Next we implemented a naive bayes algorithm, which resulted in very similar results as the random forest.
+      Here we got an accuracy of .89, which is also extremely good for our analysis.
+
+
+    \subsection{Dimensionality Reduction}
+      There are a billion and one different statistics that are tracked.
+      Figuring out what is important and what is not is pretty important (and nontrivial).
+      Dimensionality reduction can significantly improve signal-to-noise ratios, etc.
+
+      \subsubsection{Principal Component Analysis}
+        We now moved on to classifying whether or not we can predict playoff teams based on the data.
+        We proceed first by implementing a dimension reduction through PCA.
+        We first find best number of components to include by calculating the variance for each respective number of components.
+        This gives us that we should proceed with 2 components.
+        Now, by putting our data into a PCA model we plot the data which results in the scatter plot below.
+        We notice that there isn't any clustering of results, which suggests that PCA doesn't work the best with our dataset.
+
+        \begin{figure}
+          \centering
+          \includegraphics[width=0.8\linewidth]{figures/pca1.png}
+          \caption{Sadly, this is pretty useless...}
+          \label{fig:pca}
+        \end{figure}
+
+
+      % \subsubsection{Nonnegative Matrix Factorization}
+      %   This \emph{might} be useful.
+      %   It is currently here mostly as a reminder to think about it.
+      %
+      % \subsubsection{Randomized Dimensionality Reduction}
+      %   Yeah just read what's under the nonnegative matrix factorization section right now...
+
+
+    % \subsection{Causality??}
+    %   \subsubsection{Causal Diagrams}
+    %     This actually might be a very useful thing to introduce near the beginning, or just use them throughout (causal and just regular DGMs) to help explain the processes attempting to be modeled.
+    %     Particularly in the HMM and Mixture Model sections (obviously)...
+
+
+    \subsection{Time-Series Forecasting}
+
+      \subsubsection{ARIMA Modeling}
+
+        \paragraph{Team Level}
+
+          \begin{itemize}
+            \item[(i)] General performance - wins, goals for, etc.
+
+            \item[(ii)] Specific team performance metrics - PPP, PK, PIM, etc. - to use in classification models for game outcomes \emph{as if} the game already happened (does this make sense?)
+
+          \end{itemize}
+
+        \paragraph{Individual Level (and line level??)}\hfill
+
+          Not particularly different from the team level, just for individuals.
+          Obviously, this will encompass different statistics, and therefore different analysis.
+          Also, there is quite a bit more that \emph{could} be done here compared with the team level, I just can't really remember what at the moment.
+
 
     \subsection{State Estimation}
 
@@ -195,59 +281,11 @@
         \subsubsection{Kalman Filter (Is this useful...?)}
 
 
-
-    \subsection{Time-Series Forecasting}
-
-      \subsubsection{ARIMA Modeling}
-
-        \paragraph{Team Level}
-
-          \begin{itemize}
-            \item[(i)] General performance - wins, goals for, etc.
-
-            \item[(ii)] Specific team performance metrics - PPP, PK, PIM, etc. - to use in classification models for game outcomes \emph{as if} the game already happened (does this make sense?)
-
-          \end{itemize}
-
-        \paragraph{Individual Level (and line level??)}\hfill
-
-          Not particularly different from the team level, just for individuals.
-          Obviously, this will encompass different statistics, and therefore different analysis.
-          Also, there is quite a bit more that \emph{could} be done here compared with the team level, I just can't really remember what at the moment.
-
-
-    \subsection{Classification Models}
-
-      \subsubsection{GDA? Naive Bayes? What seems \emph{actually} good?}
-
-
-    \subsection{Dimensionality Reduction}
-      There are a billion and one different statistics that are tracked.
-      Figuring out what is important and what is not is pretty important (and nontrivial).
-      Dimensionality reduction can significantly improve signal-to-noise ratios, etc.
-
-      \subsubsection{Principal Component Analysis}
-        This will probably be the most useful; I'm not sure if we really need something like NMF...
-
-      \subsubsection{Nonnegative Matrix Factorization}
-        This \emph{might} be useful.
-        It is currently here mostly as a reminder to think about it.
-
-      \subsubsection{Randomized Dimensionality Reduction}
-        Yeah just read what's under the nonnegative matrix factorization section right now...
-
-
-    \subsection{Causality??}
-      \subsubsection{Causal Diagrams}
-        This actually might be a very useful thing to introduce near the beginning, or just use them throughout (causal and just regular DGMs) to help explain the processes attempting to be modeled.
-        Particularly in the HMM and Mixture Model sections (obviously)...
-
-
-
     \subsection{Reinforcement Learning}
       Could we run reinforcement learning on historical data but as if it were a live stream???
       That is, could we train a model that would predict stuff about a game as its unfolding by using the very large amount of historical data available....??????
       That would be awesome.
+
 
   \section{Analysis}
 
@@ -264,10 +302,10 @@
 
 
   \section{Appendix}
-    \begin{figure}
+    \begin{figure}[!htb]
       \label{fig:xkcd-ml}
     \centering
-      \includegraphics[width=0.8\linewidth]{figures/xkcd-ml.png}
+      \includegraphics[width=0.6\linewidth]{figures/xkcd-ml.png}
     \caption{For the less technical readers, this is all you really need to know about machine learning and artificial intelligence. (Source: https://xkcd.com/1838/)}
     \end{figure}
 
