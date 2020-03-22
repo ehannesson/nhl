@@ -1,0 +1,480 @@
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
+41,penalty,Holding,Kailer Yamamoto,Rasmus Andersson,[79. 39.],1,10:40,EDM,CGY,CGY,20,EDM,22,0,2,8479977,8478397.0,Kailer Yamamoto Holding against Rasmus Andersson
+60,penalty,Slashing,Travis Hamonic,Josh Archibald,[71.  2.],1,06:17,CGY,EDM,CGY,20,EDM,22,1,2,8474612,8476326.0,Travis Hamonic Slashing against Josh Archibald
+69,penalty,Fighting,Buddy Robinson,Jujhar Khaira,[46. 11.],1,04:05,CGY,EDM,CGY,20,EDM,22,1,3,8477210,8476915.0,Buddy Robinson Fighting against Jujhar Khaira
+70,penalty,Fighting,Jujhar Khaira,Buddy Robinson,[54. 16.],1,04:05,EDM,CGY,CGY,20,EDM,22,1,3,8476915,8477210.0,Jujhar Khaira Fighting against Buddy Robinson
+86,penalty,Tripping,Darnell Nurse,Elias Lindholm,[55. 12.],2,18:52,EDM,CGY,CGY,20,EDM,22,1,3,8477498,8477496.0,Darnell Nurse Tripping against Elias Lindholm
+174,penalty,Goalie leave crease,Mike Smith,,[82.  1.],2,00:24,EDM,CGY,CGY,20,EDM,22,3,6,8469608,,Mike Smith Goalie leave crease
+175,penalty,Goalie leave crease,Cam Talbot,Andrew Mangiapane,[-82.   0.],2,00:24,CGY,EDM,CGY,20,EDM,22,3,6,8475660,8478233.0,Cam Talbot Goalie leave crease served by Andrew Mangiapane
+176,penalty,Roughing,Cam Talbot,Sam Gagner,[-83.  -3.],2,00:24,CGY,EDM,CGY,20,EDM,22,3,6,8475660,8474040.0,Cam Talbot Roughing against Sam Gagner
+177,penalty,Roughing,Cam Talbot,Sam Gagner,[-85.  -3.],2,00:24,CGY,EDM,CGY,20,EDM,22,3,6,8475660,8474040.0,Cam Talbot Roughing against Sam Gagner
+178,penalty,Fighting,Cam Talbot,Mike Smith,[-8. -8.],2,00:24,CGY,EDM,CGY,20,EDM,22,3,6,8475660,8469608.0,Cam Talbot Fighting against Mike Smith
+179,penalty,Fighting,Mike Smith,Cam Talbot,[-1. -2.],2,00:24,EDM,CGY,CGY,20,EDM,22,3,6,8469608,8475660.0,Mike Smith Fighting against Cam Talbot
+180,penalty,Game misconduct,Cam Talbot,,[-11.  -8.],2,00:24,CGY,EDM,CGY,20,EDM,22,3,6,8475660,,Cam Talbot Game misconduct
+181,penalty,Game misconduct,Mike Smith,,[-1. -2.],2,00:24,EDM,CGY,CGY,20,EDM,22,3,6,8469608,,Mike Smith Game misconduct
+182,penalty,Fighting,Matthew Tkachuk,Ethan Bear,[-51. -11.],2,00:24,CGY,EDM,CGY,20,EDM,22,3,6,8479314,8478451.0,Matthew Tkachuk Fighting against Ethan Bear
+183,penalty,Fighting,Ethan Bear,Matthew Tkachuk,[-38. -12.],2,00:24,EDM,CGY,CGY,20,EDM,22,3,6,8478451,8479314.0,Ethan Bear Fighting against Matthew Tkachuk
+184,penalty,Roughing,Sam Gagner,Mark Giordano,[-80.  -6.],2,00:24,EDM,CGY,CGY,20,EDM,22,3,6,8474040,8470966.0,Sam Gagner Roughing against Mark Giordano
+222,penalty,Roughing,Sam Bennett,Patrick Russell,[80. -8.],3,08:43,CGY,EDM,CGY,20,EDM,22,3,6,8477935,8479466.0,Sam Bennett Roughing against Patrick Russell
+223,penalty,Roughing,Patrick Russell,Sam Bennett,[76. -3.],3,08:43,EDM,CGY,CGY,20,EDM,22,3,6,8479466,8477935.0,Patrick Russell Roughing against Sam Bennett
+234,penalty,Too many men on the ice,Matthew Tkachuk,,[15. 41.],3,05:26,CGY,EDM,CGY,20,EDM,22,3,7,8479314,,Too many men/ice served by Matthew Tkachuk
+248,penalty,PS - Hooking on breakaway,Matthew Tkachuk,Gaetan Haas,[69. -4.],3,01:57,CGY,EDM,CGY,20,EDM,22,3,7,8479314,8481813.0,Matthew Tkachuk PS - Hooking on breakaway against Gaetan Haas
+249,penalty,Misconduct,Matthew Tkachuk,,[60. -1.],3,01:57,CGY,EDM,CGY,20,EDM,22,3,7,8479314,,Matthew Tkachuk Misconduct
+251,penalty,Misconduct,Alex Chiasson,,[ 86. -20.],3,01:57,EDM,CGY,CGY,20,EDM,22,3,8,8475163,,Alex Chiasson Misconduct
+256,penalty,Misconduct,Rasmus Andersson,,[-27.  39.],3,00:44,CGY,EDM,CGY,20,EDM,22,3,8,8478397,,Rasmus Andersson Misconduct
+82,penalty,Hooking,Niklas Hjalmarsson,Kailer Yamamoto,[-78.  -1.],1,02:35,ARI,EDM,ARI,53,EDM,22,0,0,8471769,8479977.0,Niklas Hjalmarsson Hooking against Kailer Yamamoto
+115,penalty,Tripping,Phil Kessel,Kailer Yamamoto,[-53. -34.],2,14:40,ARI,EDM,ARI,53,EDM,22,1,0,8473548,8479977.0,Phil Kessel Tripping against Kailer Yamamoto
+132,penalty,Slashing,Adam Larsson,Carl Soderberg,[-83.   6.],2,10:01,EDM,ARI,ARI,53,EDM,22,2,0,8476457,8471262.0,Adam Larsson Slashing against Carl Soderberg
+140,penalty,Interference,Carl Soderberg,Oscar Klefbom,[-72.   3.],2,05:57,ARI,EDM,ARI,53,EDM,22,2,0,8471262,8476472.0,Carl Soderberg Interference against Oscar Klefbom
+194,penalty,Hi stick - double minor,Alex Chiasson,Carl Soderberg,[50. 17.],3,11:36,EDM,ARI,ARI,53,EDM,22,2,0,8475163,8471262.0,Alex Chiasson Hi stick - double minor against Carl Soderberg
+236,penalty,Unsportsmanlike conduct,Jakob Chychrun,Jujhar Khaira,[0. 2.],3,00:44,ARI,EDM,ARI,53,EDM,22,3,0,8479345,8476915.0,Jakob Chychrun Unsportsmanlike conduct against Jujhar Khaira
+237,penalty,Unsportsmanlike conduct,Jujhar Khaira,Jakob Chychrun,[1. 3.],3,00:44,EDM,ARI,ARI,53,EDM,22,3,0,8476915,8479345.0,Jujhar Khaira Unsportsmanlike conduct against Jakob Chychrun
+41,penalty,Throwing stick,Darnell Nurse,,[-78.  -9.],1,11:45,EDM,SJS,EDM,22,SJS,28,2,0,8477498,,Darnell Nurse Throwing stick
+67,penalty,Tripping,Brent Burns,Leon Draisaitl,[29.  8.],1,06:39,SJS,EDM,EDM,22,SJS,28,2,1,8470613,8477934.0,Brent Burns Tripping against Leon Draisaitl
+78,penalty,Hi stick - double minor,Oscar Klefbom,Melker Karlsson,[-94. -16.],1,03:27,EDM,SJS,EDM,22,SJS,28,2,1,8476472,8477922.0,Oscar Klefbom Hi stick - double minor against Melker Karlsson
+161,penalty,Hooking,Patrick Marleau,Oscar Klefbom,[-65.  -5.],2,05:23,SJS,EDM,EDM,22,SJS,28,2,4,8466139,8476472.0,Patrick Marleau Hooking against Oscar Klefbom
+162,penalty,Embellishment,Oscar Klefbom,Patrick Marleau,[-68.  -1.],2,05:23,EDM,SJS,EDM,22,SJS,28,2,4,8476472,8466139.0,Oscar Klefbom Embellishment against Patrick Marleau
+67,penalty,Hooking,Connor McDavid,Matt Duchene,[29.  6.],1,05:27,EDM,NSH,EDM,22,NSH,18,0,1,8478402,8475168.0,Connor McDavid Hooking against Matt Duchene
+72,penalty,Hi-sticking,Craig Smith,Adam Larsson,[-90. -26.],1,04:43,NSH,EDM,EDM,22,NSH,18,0,1,8475225,8476457.0,Craig Smith Hi-sticking against Adam Larsson
+106,penalty,Holding,Darnell Nurse,Matt Duchene,[ 80. -10.],2,18:27,EDM,NSH,EDM,22,NSH,18,0,1,8477498,8475168.0,Darnell Nurse Holding against Matt Duchene
+178,penalty,Hooking,Dante Fabbro,Kailer Yamamoto,[-85.  -8.],2,01:22,NSH,EDM,EDM,22,NSH,18,0,2,8479371,8479977.0,Dante Fabbro Hooking against Kailer Yamamoto
+205,penalty,Hi-sticking,Sam Gagner,Roman Josi,[49. 37.],3,16:00,EDM,NSH,EDM,22,NSH,18,2,2,8474040,8474600.0,Sam Gagner Hi-sticking against Roman Josi
+237,penalty,Holding,Connor McDavid,Mikael Granlund,[-72.  39.],3,08:47,EDM,NSH,EDM,22,NSH,18,2,2,8478402,8475798.0,Connor McDavid Holding against Mikael Granlund
+238,penalty,Embellishment,Mikael Granlund,Connor McDavid,[-66.  40.],3,08:47,NSH,EDM,EDM,22,NSH,18,2,2,8475798,8478402.0,Mikael Granlund Embellishment against Connor McDavid
+241,penalty,Interference,Jarred Tinordi,Leon Draisaitl,[-57.  38.],3,07:15,NSH,EDM,EDM,22,NSH,18,2,2,8475797,8477934.0,Jarred Tinordi Interference against Leon Draisaitl
+257,penalty,Tripping,Mikael Granlund,Leon Draisaitl,[-93.  -8.],3,05:14,NSH,EDM,EDM,22,NSH,18,3,2,8475798,8477934.0,Mikael Granlund Tripping against Leon Draisaitl
+60,penalty,Too many men on the ice,Alex DeBrincat,,[10. 12.],1,06:47,CHI,EDM,EDM,22,CHI,16,1,1,8479337,,Too many men/ice served by Alex DeBrincat
+69,penalty,Tripping,Jonathan Toews,Riley Sheahan,[ 24. -34.],1,03:41,CHI,EDM,EDM,22,CHI,16,1,2,8473604,8475772.0,Jonathan Toews Tripping against Riley Sheahan
+117,penalty,Slashing,Zack Smith,Gaetan Haas,[-88.  31.],2,16:02,CHI,EDM,EDM,22,CHI,16,3,3,8474250,8481813.0,Zack Smith Slashing against Gaetan Haas
+142,penalty,Holding,Riley Sheahan,Slater Koekkoek,[-93.  -6.],2,10:53,EDM,CHI,EDM,22,CHI,16,4,3,8475772,8476886.0,Riley Sheahan Holding against Slater Koekkoek
+151,penalty,Hooking,Oscar Klefbom,Patrick Kane,[ 76. -11.],2,07:48,EDM,CHI,EDM,22,CHI,16,4,3,8476472,8474141.0,Oscar Klefbom Hooking against Patrick Kane
+197,penalty,Slashing,Riley Sheahan,Adam Boqvist,[-84.  35.],3,15:48,EDM,CHI,EDM,22,CHI,16,4,3,8475772,8480871.0,Riley Sheahan Slashing against Adam Boqvist
+108,penalty,Hooking,Cedric Paquette,Colby Cave,[74. 30.],2,18:42,TBL,EDM,TBL,14,EDM,22,0,0,8476975,8477529.0,Cedric Paquette Hooking against Colby Cave
+149,penalty,Too many men on the ice,Alexander Volkov,,[-36.  41.],2,08:16,TBL,EDM,TBL,14,EDM,22,1,1,8480186,,Too many men/ice served by Alexander Volkov
+65,penalty,Interference - Goalkeeper,Jujhar Khaira,Sam Montembeault,[83. -1.],1,03:17,EDM,FLA,FLA,13,EDM,22,0,1,8476915,8478470.0,Jujhar Khaira Interference - Goalkeeper against Sam Montembeault
+100,penalty,Fighting,Matt Benning,Noel Acciari,[64.  7.],2,14:43,EDM,FLA,FLA,13,EDM,22,0,1,8476988,8478569.0,Matt Benning Fighting against Noel Acciari
+101,penalty,Fighting,Noel Acciari,Matt Benning,[78.  3.],2,14:43,FLA,EDM,FLA,13,EDM,22,0,1,8478569,8476988.0,Noel Acciari Fighting against Matt Benning
+102,penalty,Slashing,Noel Acciari,Evgenii Dadonov,[62.  6.],2,14:43,FLA,EDM,FLA,13,EDM,22,0,1,8478569,8474149.0,Noel Acciari Slashing against Matt Benning served by Evgenii Dadonov
+117,penalty,Fighting,Jujhar Khaira,Josh Brown,[16. -6.],2,09:02,EDM,FLA,FLA,13,EDM,22,0,1,8476915,8477384.0,Jujhar Khaira Fighting against Josh Brown
+118,penalty,Fighting,Josh Brown,Jujhar Khaira,[10. -9.],2,09:02,FLA,EDM,FLA,13,EDM,22,0,1,8477384,8476915.0,Josh Brown Fighting against Jujhar Khaira
+164,penalty,Hi-sticking,Josh Archibald,Dominic Toninato,[53. 40.],3,18:17,EDM,FLA,FLA,13,EDM,22,0,2,8476326,8476952.0,Josh Archibald Hi-sticking against Dominic Toninato
+205,penalty,Slashing,Kailer Yamamoto,Jonathan Huberdeau,[-82. -13.],3,08:59,EDM,FLA,FLA,13,EDM,22,1,2,8479977,8476456.0,Kailer Yamamoto Slashing against Jonathan Huberdeau
+13,penalty,Hi-sticking,Andrei Svechnikov,Kailer Yamamoto,[-80. -39.],1,15:33,CAR,EDM,CAR,12,EDM,22,1,0,8480830,8479977.0,Andrei Svechnikov Hi-sticking against Kailer Yamamoto
+74,penalty,Slashing,Adam Larsson,Andrei Svechnikov,[-85.  -4.],1,00:46,EDM,CAR,CAR,12,EDM,22,1,1,8476457,8480830.0,Adam Larsson Slashing against Andrei Svechnikov
+106,penalty,Roughing,Josh Archibald,Nino Niederreiter,[-82.  -9.],2,13:42,EDM,CAR,CAR,12,EDM,22,2,1,8476326,8475799.0,Josh Archibald Roughing against Nino Niederreiter
+107,penalty,Roughing,Erik Haula,Josh Archibald,[-81.  -6.],2,13:42,CAR,EDM,CAR,12,EDM,22,2,1,8475287,8476326.0,Erik Haula Roughing against Josh Archibald
+108,penalty,Roughing,Nino Niederreiter,Josh Archibald,[-87.  -9.],2,13:42,CAR,EDM,CAR,12,EDM,22,2,1,8475799,8476326.0,Nino Niederreiter Roughing against Josh Archibald
+131,penalty,Hooking,Erik Haula,Matt Benning,[23. 28.],2,06:26,CAR,EDM,CAR,12,EDM,22,2,1,8475287,8476988.0,Erik Haula Hooking against Matt Benning
+165,penalty,Holding,Jujhar Khaira,Haydn Fleury,[89.  5.],3,14:30,EDM,CAR,CAR,12,EDM,22,2,3,8476915,8477938.0,Jujhar Khaira Holding against Haydn Fleury
+176,penalty,Tripping,Colby Cave,Lucas Wallmark,[51.  8.],3,09:17,EDM,CAR,CAR,12,EDM,22,2,3,8477529,8478027.0,Colby Cave Tripping against Lucas Wallmark
+49,penalty,Slashing,Ethan Bear,Brad Marchand,[-80. -10.],1,09:04,EDM,BOS,EDM,22,BOS,6,0,1,8478451,8473419.0,Ethan Bear Slashing against Brad Marchand
+71,penalty,Tripping,Joakim Nordstrom,Gaetan Haas,[-90.  31.],1,04:48,BOS,EDM,EDM,22,BOS,6,0,1,8475807,8481813.0,Joakim Nordstrom Tripping against Gaetan Haas
+75,penalty,Hi stick - double minor,Kailer Yamamoto,Charlie Coyle,[34. 36.],1,03:53,EDM,BOS,EDM,22,BOS,6,0,1,8479977,8475745.0,Kailer Yamamoto Hi stick - double minor against Charlie Coyle
+105,penalty,Slashing,Adam Larsson,Brad Marchand,[86. 10.],2,16:23,EDM,BOS,EDM,22,BOS,6,0,1,8476457,8473419.0,Adam Larsson Slashing against Brad Marchand
+126,penalty,Tripping,Torey Krug,Gaetan Haas,[-27.  26.],2,13:11,BOS,EDM,EDM,22,BOS,6,0,1,8476792,8481813.0,Torey Krug Tripping against Gaetan Haas
+147,penalty,Hooking,Patrice Bergeron,Ethan Bear,[-77.  12.],2,09:04,BOS,EDM,EDM,22,BOS,6,0,1,8470638,8478451.0,Patrice Bergeron Hooking against Ethan Bear
+154,penalty,Holding the stick,Ryan Nugent-Hopkins,Charlie Coyle,[-34. -33.],2,07:45,EDM,BOS,EDM,22,BOS,6,0,1,8476454,8475745.0,Ryan Nugent-Hopkins Holding the stick against Charlie Coyle
+201,penalty,Tripping,Karson Kuhlman,Caleb Jones,[-76.   7.],3,18:01,BOS,EDM,EDM,22,BOS,6,0,1,8480901,8478452.0,Karson Kuhlman Tripping against Caleb Jones
+217,penalty,Too many men on the ice,Kailer Yamamoto,,[-10.  40.],3,14:35,EDM,BOS,EDM,22,BOS,6,1,1,8479977,,Too many men/ice served by Kailer Yamamoto
+236,penalty,Roughing,Joakim Nordstrom,Alex Chiasson,[95.  8.],3,10:26,BOS,EDM,EDM,22,BOS,6,1,1,8475807,8475163.0,Joakim Nordstrom Roughing against Alex Chiasson
+243,penalty,Slashing,Darnell Nurse,Charlie Coyle,[-77.  -1.],3,08:50,EDM,BOS,EDM,22,BOS,6,1,1,8477498,8475745.0,Darnell Nurse Slashing against Charlie Coyle
+262,penalty,Tripping,David Pastrnak,William Lagesson,[-65.  31.],3,02:30,BOS,EDM,EDM,22,BOS,6,1,1,8477956,8478021.0,David Pastrnak Tripping against William Lagesson
+165,penalty,Holding,Carson Soucy,Josh Archibald,[-94.  11.],2,05:09,MIN,EDM,EDM,22,MIN,30,3,3,8477369,8476326.0,Carson Soucy Holding against Josh Archibald
+191,penalty,Slashing,Adam Larsson,Mats Zuccarello,[-95. -19.],3,18:13,EDM,MIN,EDM,22,MIN,30,3,3,8476457,8475692.0,Adam Larsson Slashing against Mats Zuccarello
+233,penalty,Hooking,Alex Chiasson,Kevin Fiala,[ -4. -40.],3,08:20,EDM,MIN,EDM,22,MIN,30,3,4,8475163,8477942.0,Alex Chiasson Hooking against Kevin Fiala
+255,penalty,Tripping,Jared Spurgeon,Caleb Jones,[97.  2.],3,03:49,MIN,EDM,EDM,22,MIN,30,3,4,8474716,8478452.0,Jared Spurgeon Tripping against Caleb Jones
+62,penalty,Slashing,Josh Archibald,Gabriel Vilardi,[-53.  -2.],1,02:38,EDM,LAK,LAK,26,EDM,22,0,0,8476326,8480014.0,Josh Archibald Slashing against Gabriel Vilardi
+65,penalty,Hooking,Sean Walker,Ryan Nugent-Hopkins,[-19.  -6.],1,02:06,LAK,EDM,LAK,26,EDM,22,0,0,8480336,8476454.0,Sean Walker Hooking against Ryan Nugent-Hopkins
+150,penalty,Hi-sticking,Leon Draisaitl,Matt Roy,[ 12. -35.],2,02:04,EDM,LAK,LAK,26,EDM,22,0,3,8477934,8478911.0,Leon Draisaitl Hi-sticking against Matt Roy
+197,penalty,Tripping,Dustin Brown,Gaetan Haas,[ 93. -19.],3,07:52,LAK,EDM,LAK,26,EDM,22,2,3,8470606,8481813.0,Dustin Brown Tripping against Gaetan Haas
+220,penalty,Holding,Jujhar Khaira,Kurtis MacDermid,[74.  5.],3,00:22,EDM,LAK,LAK,26,EDM,22,2,4,8476915,8477073.0,Jujhar Khaira Holding against Kurtis MacDermid
+34,penalty,Slashing,Adam Henrique,Ryan Nugent-Hopkins,[-51.  10.],1,13:04,ANA,EDM,ANA,24,EDM,22,1,0,8474641,8476454.0,Adam Henrique Slashing against Ryan Nugent-Hopkins
+144,penalty,Hooking,Adam Larsson,Rickard Rakell,[-80.  -4.],2,06:08,EDM,ANA,ANA,24,EDM,22,2,1,8476457,8476483.0,Adam Larsson Hooking against Rickard Rakell
+161,penalty,Hooking,Ryan Getzlaf,Connor McDavid,[-67. -21.],2,00:37,ANA,EDM,ANA,24,EDM,22,2,1,8470612,8478402.0,Ryan Getzlaf Hooking against Connor McDavid
+178,penalty,Hi-sticking,Danton Heinen,Riley Sheahan,[ -8. -23.],3,16:30,ANA,EDM,ANA,24,EDM,22,2,1,8478046,8475772.0,Danton Heinen Hi-sticking against Riley Sheahan
+192,penalty,Holding,Caleb Jones,Sonny Milano,[ 82. -23.],3,13:58,EDM,ANA,ANA,24,EDM,22,2,2,8478452,8477947.0,Caleb Jones Holding against Sonny Milano
+245,penalty,Tripping,Connor McDavid,Sonny Milano,[-93.  -5.],4,03:51,EDM,ANA,ANA,24,EDM,22,3,3,8478402,8477947.0,Connor McDavid Tripping against Sonny Milano
+7,penalty,Hooking,Max Pacioretty,Caleb Jones,[50.  1.],1,18:45,VGK,EDM,VGK,54,EDM,22,0,0,8474157,8478452.0,Max Pacioretty Hooking against Caleb Jones
+14,penalty,Tripping,Adam Larsson,Nick Cousins,[-1.  2.],1,16:08,EDM,VGK,VGK,54,EDM,22,0,0,8476457,8476393.0,Adam Larsson Tripping against Nick Cousins
+55,penalty,Tripping,Paul Stastny,Mike Green,[ 74. -39.],1,08:03,VGK,EDM,VGK,54,EDM,22,0,0,8471669,8471242.0,Paul Stastny Tripping against Mike Green
+153,penalty,Tripping,Patrick Russell,Alec Martinez,[-89. -21.],2,04:57,EDM,VGK,VGK,54,EDM,22,1,0,8479466,8474166.0,Patrick Russell Tripping against Alec Martinez
+173,penalty,Too many men on the ice,William Carrier,,[11. 40.],2,00:00,VGK,EDM,VGK,54,EDM,22,1,0,8477478,,Too many men/ice served by William Carrier
+187,penalty,Tripping,Ethan Bear,Chandler Stephenson,[-64. -30.],3,15:58,EDM,VGK,VGK,54,EDM,22,1,0,8478451,8476905.0,Ethan Bear Tripping against Chandler Stephenson
+32,penalty,Tripping,Dylan DeMelo,Josh Archibald,[88.  8.],1,14:38,WPG,EDM,EDM,22,WPG,52,0,0,8476331,8476326.0,Dylan DeMelo Tripping against Josh Archibald
+175,penalty,Cross checking,Ryan Nugent-Hopkins,Mark Scheifele,[ 62. -18.],2,03:09,EDM,WPG,EDM,22,WPG,52,1,2,8476454,8476460.0,Ryan Nugent-Hopkins Cross checking against Mark Scheifele
+182,penalty,Holding,Dmitry Kulikov,Riley Sheahan,[-78. -14.],2,01:26,WPG,EDM,EDM,22,WPG,52,1,2,8475179,8475772.0,Dmitry Kulikov Holding against Riley Sheahan
+251,penalty,Hi-sticking,Caleb Jones,Cody Eakin,[-93.  -8.],3,04:44,EDM,WPG,EDM,22,WPG,52,3,2,8478452,8475236.0,Caleb Jones Hi-sticking against Cody Eakin
+38,penalty,Tripping,Tyler Ennis,Roman Josi,[-56.  18.],1,10:02,EDM,NSH,NSH,18,EDM,22,0,1,8474589,8474600.0,Tyler Ennis Tripping against Roman Josi
+58,penalty,Holding,Ethan Bear,Calle Jarnkrok,[68. 40.],1,04:29,EDM,NSH,NSH,18,EDM,22,0,1,8478451,8475714.0,Ethan Bear Holding against Calle Jarnkrok
+187,penalty,Hooking,Mattias Ekholm,Jujhar Khaira,[ 41. -38.],3,10:15,NSH,EDM,NSH,18,EDM,22,3,7,8475218,8476915.0,Mattias Ekholm Hooking against Jujhar Khaira
+23,penalty,Hooking,Jujhar Khaira,Mattias Janmark,[-69.  35.],1,14:52,EDM,DAL,DAL,25,EDM,22,0,0,8476915,8477406.0,Jujhar Khaira Hooking against Mattias Janmark
+35,penalty,Tripping,Stephen Johns,James Neal,[88. 16.],1,11:39,DAL,EDM,DAL,25,EDM,22,0,0,8475730,8471707.0,Stephen Johns Tripping against James Neal
+66,penalty,Too many men on the ice,Kailer Yamamoto,,[-14.  42.],1,05:16,EDM,DAL,DAL,25,EDM,22,0,0,8479977,,Too many men/ice served by Kailer Yamamoto
+107,penalty,Slashing,Leon Draisaitl,Tyler Seguin,[81. 31.],2,17:39,EDM,DAL,DAL,25,EDM,22,0,0,8477934,8475794.0,Leon Draisaitl Slashing against Tyler Seguin
+122,penalty,Cross checking,Alexander Radulov,Alex Chiasson,[-80.  -4.],2,14:18,DAL,EDM,DAL,25,EDM,22,0,0,8471228,8475163.0,Alexander Radulov Cross checking against Alex Chiasson
+147,penalty,Interference,Corey Perry,Connor McDavid,[ 30. -39.],2,07:08,DAL,EDM,DAL,25,EDM,22,0,1,8470621,8478402.0,Corey Perry Interference against Connor McDavid
+152,penalty,Cross checking,Blake Comeau,Darnell Nurse,[ 98. -10.],2,06:22,DAL,EDM,DAL,25,EDM,22,0,1,8471260,8477498.0,Blake Comeau Cross checking against Darnell Nurse
+167,penalty,Hooking,Andreas Athanasiou,Alexander Radulov,[36. 21.],2,02:58,EDM,DAL,DAL,25,EDM,22,0,1,8476960,8471228.0,Andreas Athanasiou Hooking against Alexander Radulov
+212,penalty,Tripping,Andreas Athanasiou,Roope Hintz,[-94.  14.],3,14:02,EDM,DAL,DAL,25,EDM,22,0,1,8476960,8478449.0,Andreas Athanasiou Tripping against Roope Hintz
+265,penalty,Hi-sticking,Adam Larsson,Radek Faksa,[-98.  11.],3,02:53,EDM,DAL,DAL,25,EDM,22,1,1,8476457,8476889.0,Adam Larsson Hi-sticking against Radek Faksa
+279,penalty,Tripping,Esa Lindell,Ryan Nugent-Hopkins,[-78.  -5.],4,04:24,DAL,EDM,DAL,25,EDM,22,1,1,8476902,8476454.0,Esa Lindell Tripping against Ryan Nugent-Hopkins
+52,penalty,Holding,Ryan Carpenter,Ethan Bear,[-98.   2.],1,08:43,CHI,EDM,CHI,16,EDM,22,0,0,8477846,8478451.0,Ryan Carpenter Holding against Ethan Bear
+66,penalty,Hooking,Tyler Ennis,Slater Koekkoek,[57. 37.],1,03:25,EDM,CHI,CHI,16,EDM,22,1,0,8474589,8476886.0,Tyler Ennis Hooking against Slater Koekkoek
+206,penalty,Too many men on the ice,Tyler Ennis,,[-19.  39.],3,11:08,EDM,CHI,CHI,16,EDM,22,4,3,8474589,,Too many men/ice served by Tyler Ennis
+41,penalty,Hi-sticking,Jujhar Khaira,Devin Shore,[-46.  38.],1,10:00,EDM,CBJ,EDM,22,CBJ,29,1,0,8476915,8476913.0,Jujhar Khaira Hi-sticking against Devin Shore
+124,penalty,Roughing,Darnell Nurse,Pierre-Luc Dubois,[65.  3.],2,12:23,EDM,CBJ,EDM,22,CBJ,29,1,0,8477498,8479400.0,Darnell Nurse Roughing against Pierre-Luc Dubois
+138,penalty,Kneeing,Pierre-Luc Dubois,Caleb Jones,[67.  3.],2,08:54,CBJ,EDM,EDM,22,CBJ,29,1,0,8479400,8478452.0,Pierre-Luc Dubois Kneeing against Caleb Jones
+258,penalty,Slashing,James Neal,Riley Nash,[-19.  39.],3,01:53,EDM,CBJ,EDM,22,CBJ,29,3,0,8471707,8474062.0,James Neal Slashing against Riley Nash
+261,penalty,Holding,Kevin Stenlund,Riley Sheahan,[-40. -31.],3,01:35,CBJ,EDM,EDM,22,CBJ,29,3,0,8478831,8475772.0,Kevin Stenlund Holding against Riley Sheahan
+74,penalty,Cross checking,Oscar Klefbom,Nick Holden,[-81.  40.],1,04:58,EDM,VGK,EDM,22,VGK,54,1,0,8476472,8474207.0,Oscar Klefbom Cross checking against Nick Holden
+261,penalty,Tripping,Alex Chiasson,Jonathan Marchessault,[-27.  -1.],3,12:42,EDM,VGK,EDM,22,VGK,54,2,1,8475163,8476539.0,Alex Chiasson Tripping against Jonathan Marchessault
+53,penalty,Hooking,Kyle Connor,Leon Draisaitl,[75.  0.],1,04:49,WPG,EDM,EDM,22,WPG,52,0,0,8478398,8477934.0,Kyle Connor Hooking against Leon Draisaitl
+14,penalty,Holding,J.T. Miller,Connor McDavid,[55.  0.],1,17:02,VAN,EDM,EDM,22,VAN,23,0,0,8476468,8478402.0,J.T. Miller Holding against Connor McDavid
+120,penalty,Delaying Game - Smothering puck,Colby Cave,,[-56.  35.],2,15:29,EDM,VAN,EDM,22,VAN,23,1,0,8477529,,Colby Cave Delaying Game - Smothering puck
+142,penalty,Too many men on the ice,Joakim Nygard,,[-15.  38.],2,10:03,EDM,VAN,EDM,22,VAN,23,1,0,8481638,,Too many men/ice served by Joakim Nygard
+146,penalty,Too many men on the ice,Micheal Ferland,,[ 4. 39.],2,07:46,VAN,EDM,EDM,22,VAN,23,1,1,8475907,,Too many men/ice served by Micheal Ferland
+161,penalty,Slashing,Matt Benning,Brock Boeser,[81.  0.],2,04:17,EDM,VAN,EDM,22,VAN,23,1,1,8476988,8478444.0,Matt Benning Slashing against Brock Boeser
+199,penalty,Too many men on the ice,Joakim Nygard,,[-12.  39.],3,14:29,EDM,VAN,EDM,22,VAN,23,1,1,8481638,,Too many men/ice served by Joakim Nygard
+27,penalty,Slashing,Drew Doughty,Connor McDavid,[64. 12.],1,14:56,LAK,EDM,EDM,22,LAK,26,1,1,8474563,8478402.0,Drew Doughty Slashing against Connor McDavid
+46,penalty,Tripping,Jeff Carter,Joakim Nygard,[ 93. -12.],1,10:32,LAK,EDM,EDM,22,LAK,26,1,2,8470604,8481638.0,Jeff Carter Tripping against Joakim Nygard
+90,penalty,Holding,Alec Martinez,Jujhar Khaira,[-58.  17.],1,00:09,LAK,EDM,EDM,22,LAK,26,2,3,8474166,8476915.0,Alec Martinez Holding against Jujhar Khaira
+125,penalty,Slashing,Matt Benning,Trevor Lewis,[80. 22.],2,14:29,EDM,LAK,EDM,22,LAK,26,3,3,8476988,8473453.0,Matt Benning Slashing against Trevor Lewis
+177,penalty,Hi-sticking,Anze Kopitar,Leon Draisaitl,[-62. -18.],2,03:03,LAK,EDM,EDM,22,LAK,26,3,3,8471685,8477934.0,Anze Kopitar Hi-sticking against Leon Draisaitl
+203,penalty,Hooking,Connor McDavid,Sean Walker,[-12.  36.],3,15:53,EDM,LAK,EDM,22,LAK,26,3,4,8478402,8480336.0,Connor McDavid Hooking against Sean Walker
+211,penalty,Interference,Dustin Brown,Leon Draisaitl,[-69.   1.],3,14:38,LAK,EDM,EDM,22,LAK,26,3,4,8470606,8477934.0,Dustin Brown Interference against Leon Draisaitl
+216,penalty,Holding,Ethan Bear,Michael Amadio,[-57. -36.],3,14:13,EDM,LAK,EDM,22,LAK,26,4,4,8478451,8478020.0,Ethan Bear Holding against Michael Amadio
+224,penalty,Too many men on the ice,Joel Persson,,[-19.  19.],3,12:46,EDM,LAK,EDM,22,LAK,26,4,4,8480940,,Too many men/ice served by Joel Persson
+251,penalty,Interference,Sean Walker,Connor McDavid,[24.  1.],3,07:23,LAK,EDM,EDM,22,LAK,26,5,5,8480336,8478402.0,Sean Walker Interference against Connor McDavid
+282,penalty,Tripping,James Neal,Anze Kopitar,[ 64. -23.],3,00:46,EDM,LAK,EDM,22,LAK,26,6,5,8471707,8471685.0,James Neal Tripping against Anze Kopitar
+25,penalty,Hooking,Zack Kassian,Brock Nelson,[ 96. -10.],1,14:50,EDM,NYI,NYI,2,EDM,22,0,0,8475178,8475754.0,Zack Kassian Hooking against Brock Nelson
+57,penalty,Interference,Brock Nelson,Connor McDavid,[-53. -38.],1,06:50,NYI,EDM,NYI,2,EDM,22,0,0,8475754,8478402.0,Brock Nelson Interference against Connor McDavid
+82,penalty,Hi stick - double minor,Brock Nelson,Oscar Klefbom,[ 96. -24.],1,01:18,NYI,EDM,NYI,2,EDM,22,1,1,8475754,8476472.0,Brock Nelson Hi stick - double minor against Oscar Klefbom
+104,penalty,Cross checking,Anthony Beauvillier,Darnell Nurse,[-64.   1.],2,14:53,NYI,EDM,NYI,2,EDM,22,1,2,8478463,8477498.0,Anthony Beauvillier Cross checking against Darnell Nurse
+184,penalty,Hooking,Casey Cizikas,Ryan Nugent-Hopkins,[53. 37.],3,17:07,NYI,EDM,NYI,2,EDM,22,1,4,8475231,8476454.0,Casey Cizikas Hooking against Ryan Nugent-Hopkins
+203,penalty,Interference,Ethan Bear,Brock Nelson,[56. 36.],3,12:21,EDM,NYI,NYI,2,EDM,22,1,5,8478451,8475754.0,Ethan Bear Interference against Brock Nelson
+2,penalty,Tripping,Darnell Nurse,Kyle Palmieri,[95. 10.],1,19:36,EDM,NJD,NJD,1,EDM,22,0,0,8477498,8475151.0,Darnell Nurse Tripping against Kyle Palmieri
+94,penalty,Interference,Pavel Zacha,Patrick Russell,[  2. -30.],2,13:01,NJD,EDM,NJD,1,EDM,22,1,1,8478401,8479466.0,Pavel Zacha Interference against Patrick Russell
+133,penalty,Hooking,Tomas Jurco,Sami Vatanen,[-59.  16.],2,04:25,EDM,NJD,NJD,1,EDM,22,2,1,8476430,8475222.0,Tomas Jurco Hooking against Sami Vatanen
+145,penalty,Hooking,Miles Wood,Leon Draisaitl,[78.  4.],2,01:39,NJD,EDM,NJD,1,EDM,22,2,1,8477425,8477934.0,Miles Wood Hooking against Leon Draisaitl
+224,penalty,Tripping,Blake Coleman,Connor McDavid,[-35.   1.],3,01:16,NJD,EDM,NJD,1,EDM,22,3,2,8476399,8478402.0,Blake Coleman Tripping against Connor McDavid
+22,penalty,Hooking,James Neal,Brendan Lemieux,[ 70. -30.],1,14:52,EDM,NYR,NYR,3,EDM,22,0,0,8471707,8477962.0,James Neal Hooking against Brendan Lemieux
+31,penalty,Hi-sticking,Kris Russell,Pavel Buchnevich,[-75.   4.],1,13:31,EDM,NYR,NYR,3,EDM,22,0,0,8471729,8477402.0,Kris Russell Hi-sticking against Pavel Buchnevich
+89,penalty,Interference - Goalkeeper,Zack Kassian,Henrik Lundqvist,[-81.   2.],2,19:26,EDM,NYR,NYR,3,EDM,22,1,0,8475178,8468685.0,Zack Kassian Interference - Goalkeeper against Henrik Lundqvist
+159,penalty,Interference,Brett Howden,Markus Granlund,[-12.  37.],2,02:50,NYR,EDM,NYR,3,EDM,22,1,1,8479353,8476440.0,Brett Howden Interference against Markus Granlund
+196,penalty,Tripping,Connor McDavid,Mika Zibanejad,[ 37. -13.],3,13:40,EDM,NYR,NYR,3,EDM,22,1,1,8478402,8476459.0,Connor McDavid Tripping against Mika Zibanejad
+208,penalty,Interference,Brendan Lemieux,Connor McDavid,[-2. 38.],3,11:27,NYR,EDM,NYR,3,EDM,22,1,1,8477962,8478402.0,Brendan Lemieux Interference against Connor McDavid
+66,penalty,Hi-sticking,Dominik Kubalik,Leon Draisaitl,[67. 13.],1,05:49,CHI,EDM,CHI,16,EDM,22,0,0,8477330,8477934.0,Dominik Kubalik Hi-sticking against Leon Draisaitl
+76,penalty,Holding,Andrew Shaw,Josh Archibald,[15. 31.],1,03:08,CHI,EDM,CHI,16,EDM,22,0,0,8476381,8476326.0,Andrew Shaw Holding against Josh Archibald
+124,penalty,Roughing,Jujhar Khaira,Andrew Shaw,[93. 14.],2,14:48,EDM,CHI,CHI,16,EDM,22,1,0,8476915,8476381.0,Jujhar Khaira Roughing against Andrew Shaw
+151,penalty,Tripping,Ethan Bear,Drake Caggiula,[84. 11.],2,08:55,EDM,CHI,CHI,16,EDM,22,1,0,8478451,8479465.0,Ethan Bear Tripping against Drake Caggiula
+221,penalty,Holding,Jujhar Khaira,Brent Seabrook,[83. 27.],3,13:28,EDM,CHI,CHI,16,EDM,22,2,0,8476915,8470607.0,Jujhar Khaira Holding against Brent Seabrook
+249,penalty,Roughing,Darnell Nurse,Calvin de Haan,[ 61. -37.],3,05:37,EDM,CHI,CHI,16,EDM,22,2,0,8477498,8475177.0,Darnell Nurse Roughing against Calvin de Haan
+250,penalty,Roughing,Calvin de Haan,Darnell Nurse,[ 57. -34.],3,05:37,CHI,EDM,CHI,16,EDM,22,2,0,8475177,8477498.0,Calvin de Haan Roughing against Darnell Nurse
+259,penalty,Slashing,Dominik Kubalik,Darnell Nurse,[64. 40.],3,03:02,CHI,EDM,CHI,16,EDM,22,2,0,8477330,8477498.0,Dominik Kubalik Slashing against Darnell Nurse
+17,penalty,Hooking,Ethan Bear,Sean Couturier,[-76.  17.],1,17:29,EDM,PHI,EDM,22,PHI,4,1,0,8478451,8476461.0,Ethan Bear Hooking against Sean Couturier
+39,penalty,Hooking,Markus Granlund,Shayne Gostisbehere,[-44. -37.],1,12:51,EDM,PHI,EDM,22,PHI,4,1,0,8476440,8476906.0,Markus Granlund Hooking against Shayne Gostisbehere
+172,penalty,Hooking,Sean Couturier,Zack Kassian,[-84.  -6.],2,06:00,PHI,EDM,EDM,22,PHI,4,3,1,8476461,8475178.0,Sean Couturier Hooking against Zack Kassian
+179,penalty,Hi-sticking,Carsen Twarynski,Tomas Jurco,[-36.  40.],2,04:54,PHI,EDM,EDM,22,PHI,4,4,1,8479358,8476430.0,Carsen Twarynski Hi-sticking against Tomas Jurco
+211,penalty,Hooking,Patrick Russell,Claude Giroux,[-18. -39.],3,19:15,EDM,PHI,EDM,22,PHI,4,5,1,8479466,8473512.0,Patrick Russell Hooking against Claude Giroux
+248,penalty,Boarding,Markus Granlund,Travis Konecny,[-44.  41.],3,11:37,EDM,PHI,EDM,22,PHI,4,6,1,8476440,8478439.0,Markus Granlund Boarding against Travis Konecny
+292,penalty,Holding,Darnell Nurse,Connor Bunnaman,[-44. -40.],3,03:09,EDM,PHI,EDM,22,PHI,4,6,2,8477498,8479382.0,Darnell Nurse Holding against Connor Bunnaman
+297,penalty,Too many men on the ice,Jujhar Khaira,,[-23.  37.],3,02:24,EDM,PHI,EDM,22,PHI,4,6,2,8476915,,Too many men/ice served by Jujhar Khaira
+18,penalty,Hooking,Jacob de la Rose,James Neal,[62. 14.],1,16:54,DET,EDM,EDM,22,DET,17,0,0,8477455,8471707.0,Jacob de la Rose Hooking against James Neal
+88,penalty,Slashing,Kris Russell,Andreas Athanasiou,[-73.  -2.],1,01:31,EDM,DET,EDM,22,DET,17,0,0,8471729,8476960.0,Kris Russell Slashing against Andreas Athanasiou
+155,penalty,Holding,Trevor Daley,Jujhar Khaira,[-68.  37.],2,06:05,DET,EDM,EDM,22,DET,17,2,0,8470110,8476915.0,Trevor Daley Holding against Jujhar Khaira
+46,penalty,Tripping,Tucker Poolman,Zack Kassian,[71. 22.],1,01:56,WPG,EDM,WPG,52,EDM,22,0,0,8477359,8475178.0,Tucker Poolman Tripping against Zack Kassian
+72,penalty,Holding,Darnell Nurse,David Gustafsson,[ 89. -33.],2,12:51,EDM,WPG,WPG,52,EDM,22,0,0,8477498,8481019.0,Darnell Nurse Holding against David Gustafsson
+109,penalty,Slashing,Connor McDavid,Blake Wheeler,[-17.  28.],2,04:26,EDM,WPG,WPG,52,EDM,22,0,0,8478402,8471218.0,Connor McDavid Slashing against Blake Wheeler
+123,penalty,Slashing,Bryan Little,Zack Kassian,[26. 34.],2,01:14,WPG,EDM,WPG,52,EDM,22,0,0,8473412,8475178.0,Bryan Little Slashing against Zack Kassian
+132,penalty,Holding,Ryan Nugent-Hopkins,Adam Lowry,[32. 22.],3,19:34,EDM,WPG,WPG,52,EDM,22,0,0,8476454,8476392.0,Ryan Nugent-Hopkins Holding against Adam Lowry
+166,penalty,Holding the stick,Jujhar Khaira,Andrew Copp,[ 85. -33.],3,09:11,EDM,WPG,WPG,52,EDM,22,0,0,8476915,8477429.0,Jujhar Khaira Holding the stick against Andrew Copp
+61,penalty,Holding,Oscar Klefbom,Jason Zucker,[-82.   4.],1,03:20,EDM,MIN,MIN,30,EDM,22,2,0,8476472,8475722.0,Oscar Klefbom Holding against Jason Zucker
+65,penalty,Slashing,Jason Zucker,Brandon Manning,[11. 41.],1,02:26,MIN,EDM,MIN,30,EDM,22,3,0,8475722,8475430.0,Jason Zucker Slashing against Brandon Manning
+66,penalty,Slashing,Brandon Manning,Jason Zucker,[13. 41.],1,02:26,EDM,MIN,MIN,30,EDM,22,3,0,8475430,8475722.0,Brandon Manning Slashing against Jason Zucker
+81,penalty,Interference,Ryan Donato,Brandon Manning,[-70.  -5.],2,18:01,MIN,EDM,MIN,30,EDM,22,3,0,8477987,8475430.0,Ryan Donato Interference against Brandon Manning
+140,penalty,Slashing,Ryan Nugent-Hopkins,Jared Spurgeon,[75. -1.],3,19:13,EDM,MIN,MIN,30,EDM,22,3,0,8476454,8474716.0,Ryan Nugent-Hopkins Slashing against Jared Spurgeon
+148,penalty,Delaying Game - Puck over glass,Luke Kunin,,[96. 11.],3,16:24,MIN,EDM,MIN,30,EDM,22,3,0,8479316,,Luke Kunin Delaying Game - Puck over glass
+173,penalty,Holding,Ethan Bear,Zach Parise,[-84.  -4.],3,10:55,EDM,MIN,MIN,30,EDM,22,3,0,8478451,8470610.0,Ethan Bear Holding against Zach Parise
+22,penalty,Hooking,Evgeny Kuznetsov,James Neal,[80.  8.],1,15:52,WSH,EDM,EDM,22,WSH,15,0,0,8475744,8471707.0,Evgeny Kuznetsov Hooking against James Neal
+80,penalty,Delaying Game - Puck over glass,Markus Granlund,,[-39.  37.],1,02:05,EDM,WSH,EDM,22,WSH,15,1,0,8476440,,Markus Granlund Delaying Game - Puck over glass
+94,penalty,Slashing,Alex Ovechkin,Leon Draisaitl,[43. 14.],2,19:34,WSH,EDM,EDM,22,WSH,15,1,0,8471214,8477934.0,Alex Ovechkin Slashing against Leon Draisaitl
+150,penalty,Closing hand on puck,Matt Benning,,[21. 27.],2,08:01,EDM,WSH,EDM,22,WSH,15,1,2,8476988,,Matt Benning Closing hand on puck
+179,penalty,Roughing,Tom Wilson,Zack Kassian,[-89.  -4.],2,02:02,WSH,EDM,EDM,22,WSH,15,1,3,8476880,8475178.0,Tom Wilson Roughing against Zack Kassian
+181,penalty,Roughing,Zack Kassian,Tom Wilson,[-85.   2.],2,02:02,EDM,WSH,EDM,22,WSH,15,1,3,8475178,8476880.0,Zack Kassian Roughing against Tom Wilson
+47,penalty,Tripping,Jayce Hawryluk,Ryan Nugent-Hopkins,[ 27. -17.],1,06:55,FLA,EDM,EDM,22,FLA,13,0,0,8477963,8476454.0,Jayce Hawryluk Tripping against Ryan Nugent-Hopkins
+64,penalty,Hi-sticking,Sam Gagner,Josh Brown,[82. 37.],1,03:23,EDM,FLA,EDM,22,FLA,13,0,0,8474040,8477384.0,Sam Gagner Hi-sticking against Josh Brown
+105,penalty,Interference,Dryden Hunt,Kris Russell,[79.  2.],2,13:11,FLA,EDM,EDM,22,FLA,13,0,3,8478211,8471729.0,Dryden Hunt Interference against Kris Russell
+172,penalty,Boarding,Mark Pysyk,Ryan Nugent-Hopkins,[94. 25.],3,17:44,FLA,EDM,EDM,22,FLA,13,0,4,8475796,8476454.0,Mark Pysyk Boarding against Ryan Nugent-Hopkins
+34,penalty,Boarding,Leon Draisaitl,Tyler Bertuzzi,[-36. -36.],1,12:41,EDM,DET,DET,17,EDM,22,0,0,8477934,8477479.0,Leon Draisaitl Boarding against Tyler Bertuzzi
+70,penalty,Tripping,Darren Helm,Leon Draisaitl,[-31.  41.],1,01:10,DET,EDM,DET,17,EDM,22,2,0,8471794,8477934.0,Darren Helm Tripping against Leon Draisaitl
+97,penalty,Interference,James Neal,Givani Smith,[59. -3.],2,15:33,EDM,DET,DET,17,EDM,22,2,0,8471707,8479379.0,James Neal Interference against Givani Smith
+117,penalty,Holding,Ethan Bear,Dylan Larkin,[77.  3.],2,08:53,EDM,DET,DET,17,EDM,22,2,0,8478451,8477946.0,Ethan Bear Holding against Dylan Larkin
+127,penalty,Interference,Darren Helm,Connor McDavid,[-20.  36.],2,06:41,DET,EDM,DET,17,EDM,22,2,0,8471794,8478402.0,Darren Helm Interference against Connor McDavid
+199,penalty,Roughing,Andreas Athanasiou,Darnell Nurse,[-91.   5.],3,06:51,DET,EDM,DET,17,EDM,22,2,1,8476960,8477498.0,Andreas Athanasiou Roughing against Darnell Nurse
+200,penalty,Roughing,Darnell Nurse,Andreas Athanasiou,[-91.   5.],3,06:51,EDM,DET,DET,17,EDM,22,2,1,8477498,8476960.0,Darnell Nurse Roughing against Andreas Athanasiou
+202,penalty,Hooking,Dylan Larkin,Leon Draisaitl,[ 23. -21.],3,06:25,DET,EDM,DET,17,EDM,22,2,1,8477946,8477934.0,Dylan Larkin Hooking against Leon Draisaitl
+14,penalty,Holding,Oliver Bjorkstrand,Riley Sheahan,[-69.  40.],1,16:48,CBJ,EDM,CBJ,29,EDM,22,0,0,8477416,8475772.0,Oliver Bjorkstrand Holding against Riley Sheahan
+25,penalty,Tripping,Pierre-Luc Dubois,Ethan Bear,[-19.   3.],1,12:32,CBJ,EDM,CBJ,29,EDM,22,0,0,8479400,8478451.0,Pierre-Luc Dubois Tripping against Ethan Bear
+49,penalty,Interference,Sonny Milano,Matt Benning,[ 24. -29.],1,05:01,CBJ,EDM,CBJ,29,EDM,22,0,1,8477947,8476988.0,Sonny Milano Interference against Matt Benning
+96,penalty,Holding,Ryan Nugent-Hopkins,Boone Jenner,[87. 27.],2,14:54,EDM,CBJ,CBJ,29,EDM,22,0,4,8476454,8476432.0,Ryan Nugent-Hopkins Holding against Boone Jenner
+134,penalty,Holding the stick,Zack Kassian,Gustav Nyquist,[61. 40.],2,04:08,EDM,CBJ,CBJ,29,EDM,22,1,4,8475178,8474679.0,Zack Kassian Holding the stick against Gustav Nyquist
+136,penalty,Hi-sticking,Ethan Bear,Cam Atkinson,[-69. -25.],2,03:55,EDM,CBJ,CBJ,29,EDM,22,1,4,8478451,8474715.0,Ethan Bear Hi-sticking against Cam Atkinson
+149,penalty,Too many men on the ice,Sonny Milano,,[-20.  40.],2,00:21,CBJ,EDM,CBJ,29,EDM,22,1,4,8477947,,Too many men/ice served by Sonny Milano
+203,penalty,Too many men on the ice,Sonny Milano,,[-17.  42.],3,05:15,CBJ,EDM,CBJ,29,EDM,22,1,4,8477947,,Too many men/ice served by Sonny Milano
+141,penalty,Delaying Game - Puck over glass,Matt Benning,,[-67. -35.],2,11:18,EDM,PIT,PIT,5,EDM,22,0,1,8476988,,Matt Benning Delaying Game - Puck over glass
+150,penalty,Hooking,Matt Benning,Alex Galchenyuk,[-59.   9.],2,09:08,EDM,PIT,PIT,5,EDM,22,0,1,8476988,8476851.0,Matt Benning Hooking against Alex Galchenyuk
+175,penalty,Hi-sticking,Darnell Nurse,Brandon Tanev,[ 3. 40.],2,02:29,EDM,PIT,PIT,5,EDM,22,0,1,8477498,8479293.0,Darnell Nurse Hi-sticking against Brandon Tanev
+192,penalty,Holding,Jujhar Khaira,John Marino,[-98.  -6.],3,18:33,EDM,PIT,PIT,5,EDM,22,0,1,8476915,8478507.0,Jujhar Khaira Holding against John Marino
+203,penalty,Hooking,Nick Bjugstad,Markus Granlund,[  1. -35.],3,16:29,PIT,EDM,PIT,5,EDM,22,0,1,8475760,8476440.0,Nick Bjugstad Hooking against Markus Granlund
+241,penalty,Hooking,John Marino,Connor McDavid,[-88. -14.],3,07:38,PIT,EDM,PIT,5,EDM,22,0,1,8478507,8478402.0,John Marino Hooking against Connor McDavid
+247,penalty,Interference,Zack Kassian,Marcus Pettersson,[-11.   8.],3,06:28,EDM,PIT,PIT,5,EDM,22,1,1,8475178,8477969.0,Zack Kassian Interference against Marcus Pettersson
+75,penalty,Holding,Zack Kassian,Derek Stepan,[-11.  39.],2,19:38,EDM,ARI,EDM,22,ARI,53,1,1,8475178,8474613.0,Zack Kassian Holding against Derek Stepan
+135,penalty,Interference,Connor McDavid,Christian Fischer,[-11. -19.],2,07:30,EDM,ARI,EDM,22,ARI,53,1,2,8478402,8478432.0,Connor McDavid Interference against Christian Fischer
+142,penalty,Tripping,Jordan Oesterle,Matt Benning,[-56.  22.],2,04:51,ARI,EDM,EDM,22,ARI,53,1,2,8477851,8476988.0,Jordan Oesterle Tripping against Matt Benning
+167,penalty,Hooking,Carl Soderberg,Connor McDavid,[-82.  -7.],2,00:08,ARI,EDM,EDM,22,ARI,53,1,2,8471262,8478402.0,Carl Soderberg Hooking against Connor McDavid
+180,penalty,Tripping,James Neal,Jason Demers,[ 88. -14.],3,18:36,EDM,ARI,EDM,22,ARI,53,1,2,8471707,8474218.0,James Neal Tripping against Jason Demers
+9,penalty,Holding,Robert Thomas,Brandon Manning,[-97.   9.],1,18:05,STL,EDM,EDM,22,STL,19,0,0,8480023,8475430.0,Robert Thomas Holding against Brandon Manning
+31,penalty,Tripping,Tomas Jurco,Alex Pietrangelo,[ 82. -21.],1,14:16,EDM,STL,EDM,22,STL,19,1,0,8476430,8474565.0,Tomas Jurco Tripping against Alex Pietrangelo
+118,penalty,Interference,Leon Draisaitl,Sammy Blais,[64. 25.],2,13:56,EDM,STL,EDM,22,STL,19,1,1,8477934,8478104.0,Leon Draisaitl Interference against Sammy Blais
+146,penalty,Kneeing,Alex Chiasson,Sammy Blais,[ -7. -11.],2,07:56,EDM,STL,EDM,22,STL,19,1,2,8475163,8478104.0,Alex Chiasson Kneeing against Sammy Blais
+176,penalty,Slashing,Justin Faulk,Jujhar Khaira,[-72.  29.],2,01:00,STL,EDM,EDM,22,STL,19,1,3,8475753,8476915.0,Justin Faulk Slashing against Jujhar Khaira
+255,penalty,Delaying Game - Puck over glass,Brayden Schenn,,[ 71. -35.],3,02:28,STL,EDM,EDM,22,STL,19,2,3,8475170,,Brayden Schenn Delaying Game - Puck over glass
+53,penalty,Hooking,Jack Hughes,Riley Sheahan,[81.  0.],1,07:35,NJD,EDM,EDM,22,NJD,1,0,0,8481559,8475772.0,Jack Hughes Hooking against Riley Sheahan
+81,penalty,Slashing,Darnell Nurse,Miles Wood,[67. -1.],1,01:40,EDM,NJD,EDM,22,NJD,1,0,0,8477498,8477425.0,Darnell Nurse Slashing against Miles Wood
+136,penalty,Closing hand on puck,Oscar Klefbom,,[ 71. -11.],2,09:40,EDM,NJD,EDM,22,NJD,1,1,0,8476472,,Oscar Klefbom Closing hand on puck
+144,penalty,Slashing,P.K. Subban,Connor McDavid,[-96.  -1.],2,06:47,NJD,EDM,EDM,22,NJD,1,1,0,8474056,8478402.0,P.K. Subban Slashing against Connor McDavid
+185,penalty,Too many men on the ice,Gaetan Haas,,[12. 41.],3,17:20,EDM,NJD,EDM,22,NJD,1,3,0,8481813,,Too many men/ice served by Gaetan Haas
+199,penalty,Cross checking,Blake Coleman,Ethan Bear,[-87.   0.],3,14:39,NJD,EDM,EDM,22,NJD,1,3,0,8476399,8478451.0,Blake Coleman Cross checking against Ethan Bear
+216,penalty,Tripping,Alex Chiasson,Damon Severson,[-74.   1.],3,11:22,EDM,NJD,EDM,22,NJD,1,4,0,8475163,8476923.0,Alex Chiasson Tripping against Damon Severson
+33,penalty,Slashing,Connor McDavid,Jakob Silfverberg,[-21. -33.],1,13:56,EDM,ANA,ANA,24,EDM,22,1,1,8478402,8475164.0,Connor McDavid Slashing against Jakob Silfverberg
+38,penalty,Tripping,Rickard Rakell,Oscar Klefbom,[83. -5.],1,13:30,ANA,EDM,ANA,24,EDM,22,1,1,8476483,8476472.0,Rickard Rakell Tripping against Oscar Klefbom
+91,penalty,Tripping,Zack Kassian,Adam Henrique,[-78.  -3.],2,19:03,EDM,ANA,ANA,24,EDM,22,1,2,8475178,8474641.0,Zack Kassian Tripping against Adam Henrique
+105,penalty,Tripping,Connor McDavid,Carter Rowney,[72. -2.],2,15:59,EDM,ANA,ANA,24,EDM,22,1,2,8478402,8477240.0,Connor McDavid Tripping against Carter Rowney
+120,penalty,Tripping,Ryan Getzlaf,Gaetan Haas,[28. -1.],2,12:55,ANA,EDM,ANA,24,EDM,22,1,2,8470612,8481813.0,Ryan Getzlaf Tripping against Gaetan Haas
+126,penalty,Hooking,Kris Russell,Rickard Rakell,[-77.   3.],2,11:51,EDM,ANA,ANA,24,EDM,22,1,3,8471729,8476483.0,Kris Russell Hooking against Rickard Rakell
+138,penalty,Hi-sticking,Alex Chiasson,Derek Grant,[ 96. -13.],2,09:10,EDM,ANA,ANA,24,EDM,22,1,4,8475163,8474683.0,Alex Chiasson Hi-sticking against Derek Grant
+220,penalty,Hooking,Korbinian Holzer,Gaetan Haas,[-54. -37.],3,07:01,ANA,EDM,ANA,24,EDM,22,2,5,8473560,8481813.0,Korbinian Holzer Hooking against Gaetan Haas
+238,penalty,Delaying Game - Puck over glass,Ryan Getzlaf,,[-98.  10.],3,01:40,ANA,EDM,ANA,24,EDM,22,2,6,8470612,,Ryan Getzlaf Delaying Game - Puck over glass
+63,penalty,Hi-sticking,Joakim Nygard,Tim Heed,[-86. -34.],1,04:12,EDM,SJS,SJS,28,EDM,22,3,0,8481638,8475841.0,Joakim Nygard Hi-sticking against Tim Heed
+68,penalty,Hooking,Evander Kane,Leon Draisaitl,[ 63. -29.],1,03:32,SJS,EDM,SJS,28,EDM,22,3,0,8475169,8477934.0,Evander Kane Hooking against Leon Draisaitl
+107,penalty,Hi-sticking,Melker Karlsson,Matt Benning,[-70.  -3.],2,17:12,SJS,EDM,SJS,28,EDM,22,4,0,8477922,8476988.0,Melker Karlsson Hi-sticking against Matt Benning
+140,penalty,Tripping,Ryan Nugent-Hopkins,Patrick Marleau,[-63. -17.],2,07:45,EDM,SJS,SJS,28,EDM,22,4,1,8476454,8466139.0,Ryan Nugent-Hopkins Tripping against Patrick Marleau
+152,penalty,Interference,Tomas Hertl,Connor McDavid,[19.  7.],2,04:33,SJS,EDM,SJS,28,EDM,22,4,1,8476881,8478402.0,Tomas Hertl Interference against Connor McDavid
+153,penalty,Roughing,Zack Kassian,Tomas Hertl,[-12.   0.],2,04:33,EDM,SJS,SJS,28,EDM,22,4,1,8475178,8476881.0,Zack Kassian Roughing against Tomas Hertl
+154,penalty,Fighting,Brandon Manning,Barclay Goodrow,[-7.  4.],2,04:33,EDM,SJS,SJS,28,EDM,22,4,1,8475430,8476624.0,Brandon Manning Fighting against Barclay Goodrow
+155,penalty,Fighting,Barclay Goodrow,Brandon Manning,[-10.  -4.],2,04:33,SJS,EDM,SJS,28,EDM,22,4,1,8476624,8475430.0,Barclay Goodrow Fighting against Brandon Manning
+156,penalty,Game misconduct,Brandon Manning,,[-15.   4.],2,04:33,EDM,SJS,SJS,28,EDM,22,4,1,8475430,,Brandon Manning Game misconduct
+202,penalty,PS - Slash on breakaway,Ethan Bear,Evander Kane,[70. -1.],3,16:24,EDM,SJS,SJS,28,EDM,22,5,1,8478451,8475169.0,Ethan Bear PS - Slash on breakaway against Evander Kane
+211,penalty,Unsportsmanlike conduct,Leon Draisaitl,,[15. 41.],3,14:56,EDM,SJS,SJS,28,EDM,22,5,1,8477934,,Leon Draisaitl Unsportsmanlike conduct
+2,penalty,Fighting,Zack Kassian,Matt Calvert,[-66. -33.],1,19:32,EDM,COL,EDM,22,COL,21,0,0,8475178,8474685.0,Zack Kassian Fighting against Matt Calvert
+3,penalty,Fighting,Matt Calvert,Zack Kassian,[-74. -31.],1,19:32,COL,EDM,EDM,22,COL,21,0,0,8474685,8475178.0,Matt Calvert Fighting against Zack Kassian
+24,penalty,Interference,Darnell Nurse,Nazem Kadri,[-73.  29.],1,16:04,EDM,COL,EDM,22,COL,21,0,1,8477498,8475172.0,Darnell Nurse Interference against Nazem Kadri
+54,penalty,Tripping,Tyson Jost,Alex Chiasson,[78. 29.],1,08:13,COL,EDM,EDM,22,COL,21,1,1,8479370,8475163.0,Tyson Jost Tripping against Alex Chiasson
+76,penalty,Hi-sticking,Ryan Graves,Zack Kassian,[-26. -34.],1,04:30,COL,EDM,EDM,22,COL,21,3,1,8477435,8475178.0,Ryan Graves Hi-sticking against Zack Kassian
+91,penalty,Holding,Ethan Bear,Pierre-Edouard Bellemare,[-97.   4.],1,00:36,EDM,COL,EDM,22,COL,21,4,1,8478451,8477930.0,Ethan Bear Holding against Pierre-Edouard Bellemare
+111,penalty,Tripping,Ryan Graves,Kris Russell,[-68. -35.],2,15:38,COL,EDM,EDM,22,COL,21,4,1,8477435,8471729.0,Ryan Graves Tripping against Kris Russell
+130,penalty,Interference - Goalkeeper,Nazem Kadri,Mike Smith,[87.  4.],2,12:12,COL,EDM,EDM,22,COL,21,4,1,8475172,8469608.0,Nazem Kadri Interference - Goalkeeper against Mike Smith
+141,penalty,Cross checking,Darnell Nurse,Tyson Jost,[-23. -33.],2,10:28,EDM,COL,EDM,22,COL,21,5,1,8477498,8479370.0,Darnell Nurse Cross checking against Tyson Jost
+180,penalty,Too many men on the ice,Vladislav Kamenev,,[33. 40.],2,02:16,COL,EDM,EDM,22,COL,21,5,2,8477973,,Too many men/ice served by Vladislav Kamenev
+191,penalty,Hooking,Ryan Nugent-Hopkins,Kevin Connauton,[74. 32.],2,00:05,EDM,COL,EDM,22,COL,21,6,2,8476454,8475246.0,Ryan Nugent-Hopkins Hooking against Kevin Connauton
+244,penalty,Hi-sticking,Ryan Graves,Joakim Nygard,[68. 38.],3,03:34,COL,EDM,EDM,22,COL,21,6,2,8477435,8481638.0,Ryan Graves Hi-sticking against Joakim Nygard
+254,penalty,Hi-sticking,Darnell Nurse,Cale Makar,[-80. -20.],3,00:23,EDM,COL,EDM,22,COL,21,6,2,8477498,8480069.0,Darnell Nurse Hi-sticking against Cale Makar
+14,penalty,Tripping,Nick Caamano,Markus Granlund,[84.  2.],1,16:46,DAL,EDM,EDM,22,DAL,25,0,0,8479381,8476440.0,Nick Caamano Tripping against Markus Granlund
+104,penalty,Hooking,Nick Caamano,James Neal,[-88.  26.],2,18:43,DAL,EDM,EDM,22,DAL,25,2,2,8479381,8471707.0,Nick Caamano Hooking against James Neal
+182,penalty,Boarding,Blake Comeau,Sam Gagner,[72. 41.],2,03:14,DAL,EDM,EDM,22,DAL,25,3,2,8471260,8474040.0,Blake Comeau Boarding against Sam Gagner
+207,penalty,Hi-sticking,Patrick Russell,Jason Dickinson,[-74.  37.],3,17:32,EDM,DAL,EDM,22,DAL,25,4,2,8479466,8477450.0,Patrick Russell Hi-sticking against Jason Dickinson
+225,penalty,Tripping,Oscar Klefbom,Alexander Radulov,[-63.  15.],3,13:02,EDM,DAL,EDM,22,DAL,25,4,3,8476472,8471228.0,Oscar Klefbom Tripping against Alexander Radulov
+51,penalty,Hooking,Zack Kassian,Kevin Labanc,[ 67. -40.],1,09:41,EDM,SJS,SJS,28,EDM,22,1,2,8475178,8478099.0,Zack Kassian Hooking against Kevin Labanc
+171,penalty,Hooking,Mario Ferraro,Connor McDavid,[80. -5.],2,03:40,SJS,EDM,SJS,28,EDM,22,1,3,8479983,8478402.0,Mario Ferraro Hooking against Connor McDavid
+185,penalty,Interference,Brenden Dillon,Leon Draisaitl,[ 56. -42.],2,01:01,SJS,EDM,SJS,28,EDM,22,1,4,8475455,8477934.0,Brenden Dillon Interference against Leon Draisaitl
+208,penalty,Holding the stick,Connor McDavid,Patrick Marleau,[30. 39.],3,16:00,EDM,SJS,SJS,28,EDM,22,1,4,8478402,8466139.0,Connor McDavid Holding the stick against Patrick Marleau
+34,penalty,Tripping,Josh Archibald,Adrian Kempe,[-44. -20.],1,12:06,EDM,LAK,LAK,26,EDM,22,1,0,8476326,8477960.0,Josh Archibald Tripping against Adrian Kempe
+72,penalty,Tripping,Carl Grundstrom,Jujhar Khaira,[2. 1.],1,05:06,LAK,EDM,LAK,26,EDM,22,2,0,8479336,8476915.0,Carl Grundstrom Tripping against Jujhar Khaira
+109,penalty,Tripping,Ryan Nugent-Hopkins,Tyler Toffoli,[ 6. -7.],2,17:30,EDM,LAK,LAK,26,EDM,22,3,1,8476454,8475726.0,Ryan Nugent-Hopkins Tripping against Tyler Toffoli
+143,penalty,Missing key [PD_151],Gaetan Haas,,[-60.  11.],2,08:44,EDM,LAK,LAK,26,EDM,22,4,1,8481813,,Delaying Game - Unsucc. chlg served by Gaetan Haas
+151,penalty,Holding,Adrian Kempe,Gaetan Haas,[ 41. -37.],2,05:15,LAK,EDM,LAK,26,EDM,22,4,1,8477960,8481813.0,Adrian Kempe Holding against Gaetan Haas
+171,penalty,Hooking,Jujhar Khaira,Alex Iafallo,[ 35. -16.],2,00:31,EDM,LAK,LAK,26,EDM,22,4,1,8476915,8480113.0,Jujhar Khaira Hooking against Alex Iafallo
+205,penalty,Cross checking,Alex Chiasson,Alec Martinez,[92.  8.],3,13:19,EDM,LAK,LAK,26,EDM,22,4,1,8475163,8474166.0,Alex Chiasson Cross checking against Alec Martinez
+220,penalty,Misconduct,Alex Chiasson,,[ -1. -41.],3,08:33,EDM,LAK,LAK,26,EDM,22,4,1,8475163,,Alex Chiasson Misconduct
+227,penalty,Holding,Markus Granlund,Carl Grundstrom,[-5. 40.],3,04:41,EDM,LAK,LAK,26,EDM,22,4,1,8476440,8479336.0,Markus Granlund Holding against Carl Grundstrom
+147,penalty,Interference,Brayden McNabb,Leon Draisaitl,[-80.  34.],2,11:41,VGK,EDM,VGK,54,EDM,22,1,2,8475188,8477934.0,Brayden McNabb Interference against Leon Draisaitl
+211,penalty,Interference,Max Pacioretty,Connor McDavid,[-62. -24.],3,19:21,VGK,EDM,VGK,54,EDM,22,2,3,8474157,8478402.0,Max Pacioretty Interference against Connor McDavid
+241,penalty,Cross checking,Ryan Reaves,James Neal,[21. 19.],3,11:46,VGK,EDM,VGK,54,EDM,22,2,4,8471817,8471707.0,Ryan Reaves Cross checking against James Neal
+4,penalty,Too many men on the ice,Nick Schmaltz,,[-21.  39.],1,18:19,ARI,EDM,ARI,53,EDM,22,0,0,8477951,,Too many men/ice served by Nick Schmaltz
+12,penalty,Tripping,Patrick Russell,Jakob Chychrun,[-75.   3.],1,17:11,EDM,ARI,ARI,53,EDM,22,0,1,8479466,8479345.0,Patrick Russell Tripping against Jakob Chychrun
+37,penalty,Slashing,Joakim Nygard,Conor Garland,[ 56. -37.],1,12:13,EDM,ARI,ARI,53,EDM,22,0,1,8481638,8478856.0,Joakim Nygard Slashing against Conor Garland
+79,penalty,Interference,Josh Archibald,Ian Cole,[95. -3.],1,03:54,EDM,COL,COL,21,EDM,22,0,1,8476326,8474013.0,Josh Archibald Interference against Ian Cole
+106,penalty,Elbowing,Adam Larsson,Gaetan Haas,[ -8. -37.],2,17:15,EDM,COL,COL,21,EDM,22,0,1,8476457,8481813.0,Adam Larsson Elbowing against T.J. Tynan served by Gaetan Haas
+107,penalty,Game misconduct,Adam Larsson,,[ -8. -36.],2,17:15,EDM,COL,COL,21,EDM,22,0,1,8476457,,Adam Larsson Game misconduct
+116,penalty,Tripping,Leon Draisaitl,Cale Makar,[ 35. -23.],2,14:20,EDM,COL,COL,21,EDM,22,0,1,8477934,8480069.0,Leon Draisaitl Tripping against Cale Makar
+146,penalty,Interference,Nikita Zadorov,Josh Archibald,[-54. -28.],2,08:38,COL,EDM,COL,21,EDM,22,1,1,8477507,8476326.0,Nikita Zadorov Interference against Josh Archibald
+147,penalty,Roughing,Josh Archibald,Nikita Zadorov,[-55. -26.],2,08:38,EDM,COL,COL,21,EDM,22,1,1,8476326,8477507.0,Josh Archibald Roughing against Nikita Zadorov
+163,penalty,Tripping,Ian Cole,Jujhar Khaira,[-57.   3.],2,04:50,COL,EDM,COL,21,EDM,22,1,1,8474013,8476915.0,Ian Cole Tripping against Jujhar Khaira
+226,penalty,Tripping,Kris Russell,Tyson Jost,[-57. -33.],3,13:43,EDM,COL,COL,21,EDM,22,4,1,8471729,8479370.0,Kris Russell Tripping against Tyson Jost
+233,penalty,Interference - Goalkeeper,J.T. Compher,Mikko Koskinen,[-85.   1.],3,11:35,COL,EDM,COL,21,EDM,22,4,1,8477456,8475156.0,J.T. Compher Interference - Goalkeeper against Mikko Koskinen
+234,penalty,Roughing,Darnell Nurse,J.T. Compher,[-86.   2.],3,11:35,EDM,COL,COL,21,EDM,22,4,1,8477498,8477456.0,Darnell Nurse Roughing against J.T. Compher
+266,penalty,Charging,Zack Kassian,Nazem Kadri,[-97. -11.],3,00:54,EDM,COL,COL,21,EDM,22,4,1,8475178,8475172.0,Zack Kassian Charging against Nazem Kadri
+267,penalty,Roughing,Nazem Kadri,Zack Kassian,[-92. -11.],3,00:54,COL,EDM,COL,21,EDM,22,4,1,8475172,8475178.0,Nazem Kadri Roughing against Zack Kassian
+268,penalty,Roughing,Zack Kassian,Gaetan Haas,[-94. -11.],3,00:54,EDM,COL,COL,21,EDM,22,4,1,8475178,8481813.0,Zack Kassian Roughing against Nazem Kadri served by Gaetan Haas
+12,penalty,Charging,Zack Kassian,Christopher Tanev,[93.  9.],1,17:56,EDM,VAN,EDM,22,VAN,23,0,0,8475178,8475690.0,Zack Kassian Charging against Christopher Tanev
+61,penalty,Hooking,Loui Eriksson,Caleb Jones,[-75.  35.],1,07:57,VAN,EDM,EDM,22,VAN,23,0,1,8470626,8478452.0,Loui Eriksson Hooking against Caleb Jones
+79,penalty,Interference - Goalkeeper,Markus Granlund,Jacob Markstrom,[95. -6.],1,04:59,EDM,VAN,EDM,22,VAN,23,1,2,8476440,8474593.0,Markus Granlund Interference - Goalkeeper against Jacob Markstrom
+140,penalty,Hi-sticking,Tyler Graovac,Oscar Klefbom,[90. 27.],2,10:20,VAN,EDM,EDM,22,VAN,23,2,2,8476344,8476472.0,Tyler Graovac Hi-sticking against Oscar Klefbom
+193,penalty,Tripping,Adam Gaudette,Gaetan Haas,[0. 2.],3,18:30,VAN,EDM,EDM,22,VAN,23,2,5,8478874,8481813.0,Adam Gaudette Tripping against Gaetan Haas
+208,penalty,Delaying Game - Puck over glass,Ethan Bear,,[-85. -24.],3,12:47,EDM,VAN,EDM,22,VAN,23,2,5,8478451,,Ethan Bear Delaying Game - Puck over glass
+36,penalty,Tripping,Ethan Bear,Elias Pettersson,[-51.  38.],1,08:54,EDM,VAN,VAN,23,EDM,22,0,1,8478451,8480012.0,Ethan Bear Tripping against Elias Pettersson
+72,penalty,Holding,Connor McDavid,Christopher Tanev,[64. 16.],1,00:06,EDM,VAN,VAN,23,EDM,22,1,1,8478402,8475690.0,Connor McDavid Holding against Christopher Tanev
+122,penalty,Hi-sticking,Loui Eriksson,Darnell Nurse,[60. 27.],2,06:36,VAN,EDM,VAN,23,EDM,22,2,1,8470626,8477498.0,Loui Eriksson Hi-sticking against Darnell Nurse
+146,penalty,Interference,Loui Eriksson,Darnell Nurse,[ 74. -24.],2,01:13,VAN,EDM,VAN,23,EDM,22,2,2,8470626,8477498.0,Loui Eriksson Interference against Darnell Nurse
+38,penalty,Slashing,Vladislav Namestnikov,Connor McDavid,[76.  1.],1,10:03,OTT,EDM,EDM,22,OTT,9,0,0,8476480,8478402.0,Vladislav Namestnikov Slashing against Connor McDavid
+59,penalty,Missing key [PD_151],Brady Tkachuk,,[ 26. -29.],1,05:51,OTT,EDM,EDM,22,OTT,9,1,0,8480801,,Delaying Game - Unsucc. chlg served by Brady Tkachuk
+72,penalty,Hi-sticking,Adam Larsson,Anthony Duclair,[-74. -36.],1,02:40,EDM,OTT,EDM,22,OTT,9,1,0,8476457,8477407.0,Adam Larsson Hi-sticking against Anthony Duclair
+100,penalty,Hooking,Jujhar Khaira,Chris Tierney,[78. 34.],2,16:45,EDM,OTT,EDM,22,OTT,9,1,0,8476915,8476919.0,Jujhar Khaira Hooking against Chris Tierney
+152,penalty,Holding,Brady Tkachuk,Joakim Nygard,[ 37. -24.],2,03:48,OTT,EDM,EDM,22,OTT,9,1,3,8480801,8481638.0,Brady Tkachuk Holding against Joakim Nygard
+225,penalty,Tripping,Thomas Chabot,Gaetan Haas,[ 70. -15.],3,04:48,OTT,EDM,EDM,22,OTT,9,2,5,8478469,8481813.0,Thomas Chabot Tripping against Gaetan Haas
+227,penalty,Holding,Leon Draisaitl,Vladislav Namestnikov,[-29. -31.],3,04:16,EDM,OTT,EDM,22,OTT,9,2,5,8477934,8476480.0,Leon Draisaitl Holding against Vladislav Namestnikov
+230,penalty,Hooking,Nikita Zaitsev,Gaetan Haas,[71.  4.],3,03:26,OTT,EDM,EDM,22,OTT,9,2,5,8479458,8481813.0,Nikita Zaitsev Hooking against Gaetan Haas
+232,penalty,Closing hand on puck,Ron Hainsey,,[ 52. -26.],3,03:11,OTT,EDM,EDM,22,OTT,9,2,5,8468493,,Ron Hainsey Closing hand on puck
+238,penalty,Interference,Dylan DeMelo,Connor McDavid,[82.  0.],3,01:22,OTT,EDM,EDM,22,OTT,9,2,5,8476331,8478402.0,Dylan DeMelo Interference against Connor McDavid
+46,penalty,Holding,Adrian Kempe,Kris Russell,[-7. 37.],1,09:50,LAK,EDM,EDM,22,LAK,26,0,0,8477960,8471729.0,Adrian Kempe Holding against Kris Russell
+72,penalty,Hooking,Sean Walker,Joakim Nygard,[68. -1.],1,05:39,LAK,EDM,EDM,22,LAK,26,1,0,8480336,8481638.0,Sean Walker Hooking against Joakim Nygard
+94,penalty,Hooking,Markus Granlund,Adrian Kempe,[-72. -18.],1,01:39,EDM,LAK,EDM,22,LAK,26,2,0,8476440,8477960.0,Markus Granlund Hooking against Adrian Kempe
+178,penalty,Tripping,Jeff Carter,Ethan Bear,[-66. -33.],3,18:35,LAK,EDM,EDM,22,LAK,26,2,0,8470604,8478451.0,Jeff Carter Tripping against Ethan Bear
+201,penalty,Hooking,Kris Russell,Tyler Toffoli,[-68.  23.],3,14:50,EDM,LAK,EDM,22,LAK,26,2,0,8471729,8475726.0,Kris Russell Hooking against Tyler Toffoli
+22,penalty,Tripping,Brandon Montour,James Neal,[62. -6.],1,14:38,BUF,EDM,EDM,22,BUF,7,0,1,8477986,8471707.0,Brandon Montour Tripping against James Neal
+33,penalty,Hi-sticking,Markus Granlund,Zach Bogosian,[73.  5.],1,12:18,EDM,BUF,EDM,22,BUF,7,0,1,8476440,8474567.0,Markus Granlund Hi-sticking against Zach Bogosian
+66,penalty,Hooking,Connor McDavid,Jeff Skinner,[-81. -19.],1,04:34,EDM,BUF,EDM,22,BUF,7,0,2,8478402,8475784.0,Connor McDavid Hooking against Jeff Skinner
+106,penalty,Holding the stick,Zach Bogosian,Ryan Nugent-Hopkins,[-82.   5.],2,14:20,BUF,EDM,EDM,22,BUF,7,0,2,8474567,8476454.0,Zach Bogosian Holding the stick against Ryan Nugent-Hopkins
+133,penalty,Hooking,Zach Bogosian,Jujhar Khaira,[-84.   7.],2,06:03,BUF,EDM,EDM,22,BUF,7,1,2,8474567,8476915.0,Zach Bogosian Hooking against Jujhar Khaira
+146,penalty,Hooking,Joel Persson,Kyle Okposo,[55.  6.],2,02:29,EDM,BUF,EDM,22,BUF,7,2,2,8480940,8473449.0,Joel Persson Hooking against Kyle Okposo
+29,penalty,Hooking,Julien Gauthier,Oscar Klefbom,[-91.  25.],1,13:28,CAR,EDM,EDM,22,CAR,12,0,1,8479328,8476472.0,Julien Gauthier Hooking against Oscar Klefbom
+60,penalty,Tripping,Nino Niederreiter,Leon Draisaitl,[-40. -31.],1,06:45,CAR,EDM,EDM,22,CAR,12,0,1,8475799,8477934.0,Nino Niederreiter Tripping against Leon Draisaitl
+74,penalty,Elbowing,Darnell Nurse,Nino Niederreiter,[-92.  -8.],1,03:20,EDM,CAR,EDM,22,CAR,12,0,1,8477498,8475799.0,Darnell Nurse Elbowing against Nino Niederreiter
+90,penalty,Interference,Zack Kassian,Teuvo Teravainen,[-43. -37.],1,00:10,EDM,CAR,EDM,22,CAR,12,0,2,8475178,8476882.0,Zack Kassian Interference against Teuvo Teravainen
+179,penalty,Hooking,Ryan Nugent-Hopkins,Martin Necas,[52. 31.],2,04:08,EDM,CAR,EDM,22,CAR,12,1,3,8476454,8480039.0,Ryan Nugent-Hopkins Hooking against Martin Necas
+203,penalty,Delaying Game - Puck over glass,Jaccob Slavin,,[93. 18.],3,19:39,CAR,EDM,EDM,22,CAR,12,1,3,8476958,,Jaccob Slavin Delaying Game - Puck over glass
+208,penalty,Hi-sticking,Teuvo Teravainen,Connor McDavid,[61. 35.],3,19:01,CAR,EDM,EDM,22,CAR,12,1,3,8476882,8478402.0,Teuvo Teravainen Hi-sticking against Connor McDavid
+214,penalty,PS - Covering puck in crease,Brett Pesce,,[87.  0.],3,18:12,CAR,EDM,EDM,22,CAR,12,1,3,8477488,,Brett Pesce PS - Covering puck in crease
+255,penalty,Roughing,Zack Kassian,James Reimer,[88.  3.],3,09:00,EDM,CAR,EDM,22,CAR,12,3,4,8475178,8473503.0,Zack Kassian Roughing against James Reimer
+261,penalty,Misconduct,Zack Kassian,,[ -5. -38.],3,07:44,EDM,CAR,EDM,22,CAR,12,3,5,8475178,,Zack Kassian Misconduct
+279,penalty,Slashing,Dougie Hamilton,Markus Granlund,[ 71. -14.],3,01:42,CAR,EDM,EDM,22,CAR,12,3,6,8476462,8476440.0,Dougie Hamilton Slashing against Markus Granlund
+77,penalty,Hooking,Carson Soucy,Oscar Klefbom,[-75. -18.],2,19:11,MIN,EDM,MIN,30,EDM,22,2,1,8477369,8476472.0,Carson Soucy Hooking against Oscar Klefbom
+130,penalty,Fighting,Jordan Greenway,Darnell Nurse,[72. 11.],2,05:32,MIN,EDM,MIN,30,EDM,22,4,2,8478413,8477498.0,Jordan Greenway Fighting against Darnell Nurse
+131,penalty,Fighting,Darnell Nurse,Jordan Greenway,[70. -2.],2,05:32,EDM,MIN,MIN,30,EDM,22,4,2,8477498,8478413.0,Darnell Nurse Fighting against Jordan Greenway
+138,penalty,Holding,Joel Eriksson Ek,Leon Draisaitl,[-80.  20.],2,02:41,MIN,EDM,MIN,30,EDM,22,4,2,8478493,8477934.0,Joel Eriksson Ek Holding against Leon Draisaitl
+142,penalty,Slashing,Oscar Klefbom,Ryan Hartman,[74. -9.],2,02:07,EDM,MIN,MIN,30,EDM,22,4,2,8476472,8477451.0,Oscar Klefbom Slashing against Ryan Hartman
+170,penalty,Holding,Jake Muzzin,Connor McDavid,[-85.  30.],2,05:21,TOR,EDM,EDM,22,TOR,10,0,2,8474162,8478402.0,Jake Muzzin Holding against Connor McDavid
+211,penalty,Delaying Game - Puck over glass,Cody Ceci,,[82. 32.],3,14:17,TOR,EDM,EDM,22,TOR,10,0,2,8476879,,Cody Ceci Delaying Game - Puck over glass
+263,penalty,Tripping,Gaetan Haas,Morgan Rielly,[96. -7.],3,02:21,EDM,TOR,EDM,22,TOR,10,1,3,8481813,8476853.0,Gaetan Haas Tripping against Morgan Rielly
+7,penalty,Tripping,Andrew Cogliano,Ethan Bear,[-96.  11.],1,18:50,DAL,EDM,DAL,25,EDM,22,0,0,8471699,8478451.0,Andrew Cogliano Tripping against Ethan Bear
+55,penalty,Hooking,Jamie Benn,Caleb Jones,[ 81. -13.],1,06:06,DAL,EDM,DAL,25,EDM,22,0,1,8473994,8478452.0,Jamie Benn Hooking against Caleb Jones
+80,penalty,Tripping,Blake Comeau,Adam Larsson,[45. 40.],1,01:48,DAL,EDM,DAL,25,EDM,22,0,2,8471260,8476457.0,Blake Comeau Tripping against Adam Larsson
+85,penalty,Tripping,Joakim Nygard,Roman Polak,[52. 40.],1,00:24,EDM,DAL,DAL,25,EDM,22,0,2,8481638,8471392.0,Joakim Nygard Tripping against Roman Polak
+94,penalty,Tripping,Blake Comeau,Zack Kassian,[73. 40.],2,17:36,DAL,EDM,DAL,25,EDM,22,0,2,8471260,8475178.0,Blake Comeau Tripping against Zack Kassian
+126,penalty,Tripping,Jamie Oleksiak,Josh Archibald,[-46. -38.],2,10:02,DAL,EDM,DAL,25,EDM,22,0,2,8476467,8476326.0,Jamie Oleksiak Tripping against Josh Archibald
+132,penalty,Tripping,Ryan Nugent-Hopkins,Blake Comeau,[-34. -38.],2,08:51,EDM,DAL,DAL,25,EDM,22,0,2,8476454,8471260.0,Ryan Nugent-Hopkins Tripping against Blake Comeau
+192,penalty,Tripping,Andrej Sekera,Ryan Nugent-Hopkins,[34. -7.],3,12:05,DAL,EDM,DAL,25,EDM,22,0,2,8471284,8476454.0,Andrej Sekera Tripping against Ryan Nugent-Hopkins
+215,penalty,Interference,Caleb Jones,Joe Pavelski,[-80.  -6.],3,07:49,EDM,DAL,DAL,25,EDM,22,0,2,8478452,8470794.0,Caleb Jones Interference against Joe Pavelski
+9,penalty,Hooking,Connor McDavid,Justin Faulk,[-53.  15.],1,16:04,EDM,STL,STL,19,EDM,22,0,0,8478402,8475753.0,Connor McDavid Hooking against Justin Faulk
+67,penalty,Holding,Oskar Sundqvist,Ethan Bear,[-91. -23.],1,03:25,STL,EDM,STL,19,EDM,22,0,0,8476897,8478451.0,Oskar Sundqvist Holding against Ethan Bear
+79,penalty,Slashing,Alex Pietrangelo,Gaetan Haas,[-68.  22.],1,00:37,STL,EDM,STL,19,EDM,22,0,0,8474565,8481813.0,Alex Pietrangelo Slashing against Gaetan Haas
+94,penalty,Delaying Game - Puck over glass,Oscar Klefbom,,[-78.  28.],2,16:44,EDM,STL,STL,19,EDM,22,0,0,8476472,,Oscar Klefbom Delaying Game - Puck over glass
+97,penalty,Cross checking,Kris Russell,Brayden Schenn,[-65.  40.],2,16:14,EDM,STL,STL,19,EDM,22,0,0,8471729,8475170.0,Kris Russell Cross checking against Brayden Schenn
+114,penalty,Tripping,Oscar Klefbom,Alex Pietrangelo,[-33.  18.],2,10:42,EDM,STL,STL,19,EDM,22,1,0,8476472,8474565.0,Oscar Klefbom Tripping against Alex Pietrangelo
+120,penalty,Interference,Robert Thomas,Jujhar Khaira,[-23.  10.],2,09:32,STL,EDM,STL,19,EDM,22,1,0,8480023,8476915.0,Robert Thomas Interference against Jujhar Khaira
+136,penalty,Delaying Game - Puck over glass,Ryan Nugent-Hopkins,,[-92. -30.],2,05:47,EDM,STL,STL,19,EDM,22,1,0,8476454,,Ryan Nugent-Hopkins Delaying Game - Puck over glass
+234,penalty,Delay of game,David Perron,,[1. 1.],3,01:50,STL,EDM,STL,19,EDM,22,2,1,8474102,,Delay of Game - Bench served by David Perron
+53,penalty,Hooking,Joseph Blandisi,Riley Sheahan,[12. -4.],1,09:11,PIT,EDM,EDM,22,PIT,5,0,1,8477010,8475772.0,Joseph Blandisi Hooking against Riley Sheahan
+87,penalty,Holding,John Marino,Leon Draisaitl,[79.  2.],1,01:26,PIT,EDM,EDM,22,PIT,5,0,2,8478507,8477934.0,John Marino Holding against Leon Draisaitl
+170,penalty,Tripping,Joakim Nygard,Evgeni Malkin,[86.  3.],2,01:10,EDM,PIT,EDM,22,PIT,5,1,3,8481638,8471215.0,Joakim Nygard Tripping against Evgeni Malkin
+248,penalty,Interference - Goalkeeper,Evgeni Malkin,Mike Smith,[-90.   2.],3,01:24,PIT,EDM,EDM,22,PIT,5,2,5,8471215,8469608.0,Evgeni Malkin Interference - Goalkeeper against Mike Smith
+249,penalty,Roughing,Mike Smith,Joakim Nygard,[-87.   0.],3,01:24,EDM,PIT,EDM,22,PIT,5,2,5,8469608,8481638.0,Mike Smith Roughing against Evgeni Malkin served by Joakim Nygard
+27,penalty,Tripping,Jordan Weal,Adam Larsson,[-92. -20.],1,13:59,MTL,EDM,EDM,22,MTL,8,1,0,8475738,8476457.0,Jordan Weal Tripping against Adam Larsson
+56,penalty,Holding,Phillip Danault,Josh Archibald,[-73. -20.],1,07:32,MTL,EDM,EDM,22,MTL,8,2,0,8476479,8476326.0,Phillip Danault Holding against Josh Archibald
+116,penalty,Holding,Caleb Jones,Nick Cousins,[95. -5.],2,13:20,EDM,MTL,EDM,22,MTL,8,2,1,8478452,8476393.0,Caleb Jones Holding against Nick Cousins
+125,penalty,Fighting,Ben Chiarot,Zack Kassian,[-81.  33.],2,10:50,MTL,EDM,EDM,22,MTL,8,2,2,8475279,8475178.0,Ben Chiarot Fighting against Zack Kassian
+126,penalty,Fighting,Zack Kassian,Ben Chiarot,[-85.  30.],2,10:50,EDM,MTL,EDM,22,MTL,8,2,2,8475178,8475279.0,Zack Kassian Fighting against Ben Chiarot
+153,penalty,Tripping,Jordan Weal,Joakim Nygard,[ 45. -18.],2,05:07,MTL,EDM,EDM,22,MTL,8,2,2,8475738,8481638.0,Jordan Weal Tripping against Joakim Nygard
+206,penalty,Tripping,Cale Fleury,Joakim Nygard,[77. 37.],3,15:06,MTL,EDM,EDM,22,MTL,8,3,3,8479985,8481638.0,Cale Fleury Tripping against Joakim Nygard
+231,penalty,Interference,Nick Cousins,Markus Granlund,[92.  5.],3,06:54,MTL,EDM,EDM,22,MTL,8,4,3,8476393,8476440.0,Nick Cousins Interference against Markus Granlund
+32,penalty,Slashing,Gaetan Haas,Elias Pettersson,[-63.   5.],1,10:46,EDM,VAN,VAN,23,EDM,22,0,0,8481813,8480012.0,Gaetan Haas Slashing against Elias Pettersson
+80,penalty,Interference,Antoine Roussel,Caleb Jones,[67.  2.],2,17:45,VAN,EDM,VAN,23,EDM,22,1,1,8474849,8478452.0,Antoine Roussel Interference against Caleb Jones
+117,penalty,Fighting,Darnell Nurse,Antoine Roussel,[62. 35.],2,08:02,EDM,VAN,VAN,23,EDM,22,1,2,8477498,8474849.0,Darnell Nurse Fighting against Antoine Roussel
+118,penalty,Fighting,Antoine Roussel,Darnell Nurse,[57. 32.],2,08:02,VAN,EDM,VAN,23,EDM,22,1,2,8474849,8477498.0,Antoine Roussel Fighting against Darnell Nurse
+129,penalty,Roughing,Patrick Russell,J.T. Miller,[81.  2.],2,05:48,EDM,VAN,VAN,23,EDM,22,1,2,8479466,8476468.0,Patrick Russell Roughing against J.T. Miller
+130,penalty,Interference - Goalkeeper,Elias Pettersson,Mikko Koskinen,[81.  2.],2,05:48,VAN,EDM,VAN,23,EDM,22,1,2,8480012,8475156.0,Elias Pettersson Interference - Goalkeeper against Mikko Koskinen
+185,penalty,Holding,Tanner Pearson,Leon Draisaitl,[ 70. -38.],3,12:07,VAN,EDM,VAN,23,EDM,22,2,2,8476871,8477934.0,Tanner Pearson Holding against Leon Draisaitl
+201,penalty,Too many men on the ice,Joakim Nygard,,[-50.  24.],3,07:17,EDM,VAN,VAN,23,EDM,22,2,2,8481638,,Too many men/ice served by Joakim Nygard
+132,penalty,Roughing,Alex Chiasson,Rasmus Andersson,[-74. -10.],2,12:43,EDM,CGY,EDM,22,CGY,20,1,3,8475163,8478397.0,Alex Chiasson Roughing against Rasmus Andersson
+159,penalty,Interference,Oliver Kylington,Connor McDavid,[-29.  31.],2,07:17,CGY,EDM,EDM,22,CGY,20,1,3,8478430,8478402.0,Oliver Kylington Interference against Connor McDavid
+189,penalty,Hooking,Elias Lindholm,Jujhar Khaira,[-82.  -2.],2,00:03,CGY,EDM,EDM,22,CGY,20,1,4,8477496,8476915.0,Elias Lindholm Hooking against Jujhar Khaira
+7,penalty,Tripping,Sam Gagner,Kaapo Kakko,[71. 31.],1,18:33,EDM,NYR,EDM,22,NYR,3,1,0,8474040,8481554.0,Sam Gagner Tripping against Kaapo Kakko
+40,penalty,Tripping,Brett Howden,Kris Russell,[21. 18.],1,11:22,NYR,EDM,EDM,22,NYR,3,1,0,8479353,8471729.0,Brett Howden Tripping against Kris Russell
+128,penalty,Hi stick - double minor,Ryan Strome,Pavel Buchnevich,[80.  5.],2,14:40,NYR,EDM,EDM,22,NYR,3,3,0,8476458,8477402.0,Ryan Strome Hi stick - double minor against Ethan Bear served by Pavel Buchnevich
+129,penalty,Hooking,Ryan Nugent-Hopkins,Tony DeAngelo,[69. 31.],2,14:40,EDM,NYR,EDM,22,NYR,3,3,0,8476454,8477950.0,Ryan Nugent-Hopkins Hooking against Tony DeAngelo
+137,penalty,Too many men on the ice,Chris Kreider,,[22. 39.],2,11:29,NYR,EDM,EDM,22,NYR,3,3,0,8475184,,Too many men/ice served by Chris Kreider
+159,penalty,Cross checking,Jujhar Khaira,Ryan Lindgren,[-92.  23.],2,07:47,EDM,NYR,EDM,22,NYR,3,3,0,8476915,8479324.0,Jujhar Khaira Cross checking against Ryan Lindgren
+160,penalty,Cross checking,Ryan Lindgren,Pavel Buchnevich,[-92.  23.],2,07:47,NYR,EDM,EDM,22,NYR,3,3,0,8479324,8477402.0,Ryan Lindgren Cross checking against Jujhar Khaira served by Pavel Buchnevich
+161,penalty,Slashing,Ryan Lindgren,Jujhar Khaira,[-96.  20.],2,07:47,NYR,EDM,EDM,22,NYR,3,3,0,8479324,8476915.0,Ryan Lindgren Slashing against Jujhar Khaira
+166,penalty,Bench,Chris Kreider,,[18. 40.],2,06:49,NYR,EDM,EDM,22,NYR,3,4,0,8475184,,Bench served by Chris Kreider
+193,penalty,Hooking,Filip Chytil,Joakim Nygard,[-24. -21.],2,02:45,NYR,EDM,EDM,22,NYR,3,6,0,8480078,8481638.0,Filip Chytil Hooking against Joakim Nygard
+86,penalty,Hooking,Zack Kassian,Victor Olofsson,[-63. -40.],2,16:04,EDM,BUF,BUF,7,EDM,22,1,2,8475178,8478109.0,Zack Kassian Hooking against Victor Olofsson
+99,penalty,Tripping,Marcus Johansson,Connor McDavid,[76. -9.],2,11:05,BUF,EDM,BUF,7,EDM,22,1,2,8475149,8478402.0,Marcus Johansson Tripping against Connor McDavid
+171,penalty,Slashing,Ryan Nugent-Hopkins,Jack Eichel,[76. 14.],3,08:59,EDM,BUF,BUF,7,EDM,22,2,2,8476454,8478403.0,Ryan Nugent-Hopkins Slashing against Jack Eichel
+197,penalty,PS - Hooking on breakaway,Oscar Klefbom,Jack Eichel,[-74.   1.],4,03:51,EDM,BUF,BUF,7,EDM,22,2,2,8476472,8478403.0,Oscar Klefbom PS - Hooking on breakaway against Jack Eichel
+15,penalty,Elbowing,Leon Draisaitl,Torey Krug,[-77. -30.],1,16:55,EDM,BOS,BOS,6,EDM,22,0,0,8477934,8476792.0,Leon Draisaitl Elbowing against Torey Krug
+66,penalty,Slashing,Gaetan Haas,Brad Marchand,[ 40. -22.],1,04:34,EDM,BOS,BOS,6,EDM,22,1,0,8481813,8473419.0,Gaetan Haas Slashing against Brad Marchand
+97,penalty,Tripping,Sean Kuraly,Gaetan Haas,[-33.  19.],2,17:35,BOS,EDM,BOS,6,EDM,22,1,0,8476374,8481813.0,Sean Kuraly Tripping against Gaetan Haas
+143,penalty,Holding,Zdeno Chara,Joakim Nygard,[ 86. -27.],2,07:57,BOS,EDM,BOS,6,EDM,22,1,1,8465009,8481638.0,Zdeno Chara Holding against Joakim Nygard
+205,penalty,Hi-sticking,Ethan Bear,Charlie Coyle,[79.  8.],3,15:58,EDM,BOS,BOS,6,EDM,22,1,3,8478451,8475745.0,Ethan Bear Hi-sticking against Charlie Coyle
+61,penalty,Interference,Travis Dermott,Kailer Yamamoto,[91. 20.],1,07:03,TOR,EDM,TOR,10,EDM,22,0,1,8478408,8479977.0,Travis Dermott Interference against Kailer Yamamoto
+79,penalty,Holding,Justin Holl,Ethan Bear,[96. 18.],1,04:10,TOR,EDM,TOR,10,EDM,22,0,1,8475718,8478451.0,Justin Holl Holding against Ethan Bear
+130,penalty,Slashing,Kailer Yamamoto,Morgan Rielly,[ 52. -32.],2,14:00,EDM,TOR,TOR,10,EDM,22,1,3,8479977,8476853.0,Kailer Yamamoto Slashing against Morgan Rielly
+134,penalty,Tripping,Riley Sheahan,Mitchell Marner,[-50.  35.],2,13:23,EDM,TOR,TOR,10,EDM,22,1,3,8475772,8478483.0,Riley Sheahan Tripping against Mitchell Marner
+202,penalty,Delaying Game - Puck over glass,Alexander Kerfoot,,[ 41. -37.],3,19:32,TOR,EDM,TOR,10,EDM,22,3,4,8477021,,Alexander Kerfoot Delaying Game - Puck over glass
+228,penalty,Hi-sticking,Justin Holl,Alex Chiasson,[ 72. -35.],3,14:03,TOR,EDM,TOR,10,EDM,22,3,4,8475718,8475163.0,Justin Holl Hi-sticking against Alex Chiasson
+250,penalty,Hi-sticking,Jujhar Khaira,Travis Dermott,[91. -6.],3,10:15,EDM,TOR,TOR,10,EDM,22,3,5,8476915,8478408.0,Jujhar Khaira Hi-sticking against Travis Dermott
+251,penalty,Hi-sticking,Travis Dermott,Jujhar Khaira,[92. -7.],3,10:15,TOR,EDM,TOR,10,EDM,22,3,5,8478408,8476915.0,Travis Dermott Hi-sticking against Jujhar Khaira
+265,penalty,Delaying Game - Puck over glass,Caleb Jones,,[-86.  31.],3,06:58,EDM,TOR,TOR,10,EDM,22,3,6,8478452,,Caleb Jones Delaying Game - Puck over glass
+277,penalty,Holding,Justin Holl,Connor McDavid,[72. -3.],3,04:19,TOR,EDM,TOR,10,EDM,22,4,6,8475718,8478402.0,Justin Holl Holding against Connor McDavid
+287,penalty,Too many men on the ice,Gaetan Haas,,[-19.  17.],3,01:35,EDM,TOR,TOR,10,EDM,22,4,6,8481813,,Too many men/ice served by Gaetan Haas
+18,penalty,Holding the stick,Alex Chiasson,Brett Kulak,[-28. -28.],1,17:45,EDM,MTL,MTL,8,EDM,22,0,0,8475163,8476967.0,Alex Chiasson Holding the stick against Brett Kulak
+36,penalty,Holding,Jeff Petry,Leon Draisaitl,[58. 24.],1,11:40,MTL,EDM,MTL,8,EDM,22,0,0,8473507,8477934.0,Jeff Petry Holding against Leon Draisaitl
+178,penalty,Hooking,Phillip Danault,Connor McDavid,[ 15. -13.],3,18:23,MTL,EDM,MTL,8,EDM,22,2,1,8476479,8478402.0,Phillip Danault Hooking against Connor McDavid
+217,penalty,Hooking,Kris Russell,Brett Kulak,[-47. -39.],3,09:35,EDM,MTL,MTL,8,EDM,22,2,3,8471729,8476967.0,Kris Russell Hooking against Brett Kulak
+183,penalty,Roughing,Zack Kassian,Joakim Nygard,[-87.  27.],2,01:54,EDM,CGY,CGY,20,EDM,22,3,3,8475178,8481638.0,Zack Kassian Roughing against Matthew Tkachuk served by Joakim Nygard
+184,penalty,Roughing,Zack Kassian,Joakim Nygard,[-92.  23.],2,01:54,EDM,CGY,CGY,20,EDM,22,3,3,8475178,8481638.0,Zack Kassian Roughing against Matthew Tkachuk served by Joakim Nygard
+185,penalty,Misconduct,Zack Kassian,Matthew Tkachuk,[-90.  25.],2,01:54,EDM,CGY,CGY,20,EDM,22,3,3,8475178,8479314.0,Zack Kassian Misconduct against Matthew Tkachuk
+248,penalty,Interference,Noah Hanifin,Kailer Yamamoto,[-34. -31.],3,08:35,CGY,EDM,CGY,20,EDM,22,4,3,8478396,8479977.0,Noah Hanifin Interference against Kailer Yamamoto
+65,penalty,Tripping,Darnell Nurse,Yakov Trenin,[-32.  37.],1,06:59,EDM,NSH,EDM,22,NSH,18,1,1,8477498,8478508.0,Darnell Nurse Tripping against Yakov Trenin
+90,penalty,Hooking,Yannick Weber,Kailer Yamamoto,[80. 12.],1,01:09,NSH,EDM,EDM,22,NSH,18,1,2,8474134,8479977.0,Yannick Weber Hooking against Kailer Yamamoto
+177,penalty,Hi-sticking,Mikael Granlund,Gaetan Haas,[48. 12.],2,02:08,NSH,EDM,EDM,22,NSH,18,3,2,8475798,8481813.0,Mikael Granlund Hi-sticking against Gaetan Haas
+179,penalty,Slashing,James Neal,Calle Jarnkrok,[-50. -16.],2,01:47,EDM,NSH,EDM,22,NSH,18,3,2,8471707,8475714.0,James Neal Slashing against Calle Jarnkrok
+225,penalty,Interference,Kailer Yamamoto,Matt Duchene,[-10.   1.],3,11:34,EDM,NSH,EDM,22,NSH,18,3,2,8479977,8475168.0,Kailer Yamamoto Interference against Matt Duchene
+236,penalty,Interference,Rocco Grimaldi,Joakim Nygard,[ 5. 27.],3,08:18,NSH,EDM,EDM,22,NSH,18,3,2,8476428,8481638.0,Rocco Grimaldi Interference against Joakim Nygard
+267,penalty,Too many men on the ice,Calle Jarnkrok,,[-15.  33.],3,01:23,NSH,EDM,EDM,22,NSH,18,3,2,8475714,,Too many men/ice served by Calle Jarnkrok
+17,penalty,Slashing,Sam Gagner,Christian Dvorak,[-65.  -7.],1,16:30,EDM,ARI,EDM,22,ARI,53,0,0,8474040,8477989.0,Sam Gagner Slashing against Christian Dvorak
+47,penalty,Tripping,Phil Kessel,Ethan Bear,[-78. -36.],1,08:23,ARI,EDM,EDM,22,ARI,53,1,0,8473548,8478451.0,Phil Kessel Tripping against Ethan Bear
+78,penalty,Too many men on the ice,Conor Garland,,[12. 39.],1,00:17,ARI,EDM,EDM,22,ARI,53,3,0,8478856,,Too many men/ice served by Conor Garland
+114,penalty,Interference,Connor McDavid,Michael Chaput,[-71.  -6.],2,11:41,EDM,ARI,EDM,22,ARI,53,5,1,8478402,8475808.0,Connor McDavid Interference against Michael Chaput
+123,penalty,Hooking,Derek Stepan,James Neal,[-15.  37.],2,09:25,ARI,EDM,EDM,22,ARI,53,5,2,8474613,8471707.0,Derek Stepan Hooking against James Neal
+155,penalty,Boarding,Adam Larsson,Lawson Crouse,[-39.  41.],2,02:35,EDM,ARI,EDM,22,ARI,53,6,2,8476457,8478474.0,Adam Larsson Boarding against Lawson Crouse
+160,penalty,Tripping,Oliver Ekman-Larsson,Riley Sheahan,[-48. -14.],2,01:43,ARI,EDM,EDM,22,ARI,53,6,2,8475171,8475772.0,Oliver Ekman-Larsson Tripping against Riley Sheahan
+210,penalty,Slashing,Adam Larsson,Clayton Keller,[-75.   4.],3,10:04,EDM,ARI,EDM,22,ARI,53,6,2,8476457,8479343.0,Adam Larsson Slashing against Clayton Keller
+94,penalty,Fighting,Sean Monahan,Ryan Nugent-Hopkins,[-8. 41.],1,03:49,CGY,EDM,EDM,22,CGY,20,0,1,8477497,8476454.0,Sean Monahan Fighting against Ryan Nugent-Hopkins
+95,penalty,Fighting,Ryan Nugent-Hopkins,Sean Monahan,[-2. 41.],1,03:49,EDM,CGY,EDM,22,CGY,20,0,1,8476454,8477497.0,Ryan Nugent-Hopkins Fighting against Sean Monahan
+97,penalty,Cross checking,Sean Monahan,Ryan Nugent-Hopkins,[ 0. 41.],1,03:49,CGY,EDM,EDM,22,CGY,20,0,1,8477497,8476454.0,Sean Monahan Cross checking against Ryan Nugent-Hopkins
+98,penalty,Slashing,Ryan Nugent-Hopkins,Sean Monahan,[ 0. 42.],1,03:49,EDM,CGY,EDM,22,CGY,20,0,1,8476454,8477497.0,Ryan Nugent-Hopkins Slashing against Sean Monahan
+102,penalty,Fighting,Zack Kassian,Matthew Tkachuk,[62.  9.],1,03:25,EDM,CGY,EDM,22,CGY,20,0,1,8475178,8479314.0,Zack Kassian Fighting against Matthew Tkachuk
+103,penalty,Fighting,Matthew Tkachuk,Zack Kassian,[61. 11.],1,03:25,CGY,EDM,EDM,22,CGY,20,0,1,8479314,8475178.0,Matthew Tkachuk Fighting against Zack Kassian
+137,penalty,Delaying Game - Puck over glass,Mike Smith,Jujhar Khaira,[87. -2.],2,17:07,EDM,CGY,EDM,22,CGY,20,0,1,8469608,8476915.0,Mike Smith Delaying Game - Puck over glass served by Jujhar Khaira
+160,penalty,Slashing,Leon Draisaitl,Matthew Tkachuk,[  1. -38.],2,13:24,EDM,CGY,EDM,22,CGY,20,1,1,8477934,8479314.0,Leon Draisaitl Slashing against Matthew Tkachuk
+161,penalty,Slashing,Matthew Tkachuk,Leon Draisaitl,[  0. -38.],2,13:24,CGY,EDM,EDM,22,CGY,20,1,1,8479314,8477934.0,Matthew Tkachuk Slashing against Leon Draisaitl
+198,penalty,Slashing,Mark Giordano,Sam Gagner,[-84.  23.],2,05:52,CGY,EDM,EDM,22,CGY,20,1,2,8470966,8474040.0,Mark Giordano Slashing against Sam Gagner
+242,penalty,Too many men on the ice,Matthew Tkachuk,,[23. 41.],3,16:52,CGY,EDM,EDM,22,CGY,20,2,3,8479314,,Too many men/ice served by Matthew Tkachuk
+255,penalty,Cross checking,Zac Rinaldo,Kris Russell,[-42.  38.],3,12:06,CGY,EDM,EDM,22,CGY,20,2,3,8474736,8471729.0,Zac Rinaldo Cross checking against Kris Russell
+283,penalty,Holding,Buddy Robinson,Ethan Bear,[ 28. -15.],3,04:10,CGY,EDM,EDM,22,CGY,20,3,3,8477210,8478451.0,Buddy Robinson Holding against Ethan Bear
+51,penalty,Holding,Darnell Nurse,Alexander Steen,[-80.  39.],1,10:49,EDM,STL,EDM,22,STL,19,2,0,8477498,8470257.0,Darnell Nurse Holding against Alexander Steen
+109,penalty,Holding,Carl Gunnarsson,Riley Sheahan,[-33. -18.],2,18:10,STL,EDM,EDM,22,STL,19,2,0,8474125,8475772.0,Carl Gunnarsson Holding against Riley Sheahan
+126,penalty,Hooking,Oscar Klefbom,Ryan O'Reilly,[81.  3.],2,13:53,EDM,STL,EDM,22,STL,19,2,0,8476472,8475158.0,Oscar Klefbom Hooking against Ryan O'Reilly
+287,penalty,Tripping,Alex Chiasson,Ryan O'Reilly,[-85.  22.],3,03:00,EDM,STL,EDM,22,STL,19,3,2,8475163,8475158.0,Alex Chiasson Tripping against Ryan O'Reilly

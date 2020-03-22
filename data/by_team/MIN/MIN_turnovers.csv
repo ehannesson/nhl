@@ -1,0 +1,1801 @@
+,event,player_one,coords,period,period_time_remaining,player_one_team,player_two_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,player_one_id,description
+32,giveaway,Charlie McAvoy,[-74. -39.],1,11:38,BOS,MIN,MIN,30,BOS,6,0,0,8479325,Giveaway by Charlie McAvoy
+63,giveaway,Mikko Koivu,[-54.  34.],1,05:25,MIN,BOS,MIN,30,BOS,6,0,1,8469459,Giveaway by Mikko Koivu
+108,giveaway,Jason Zucker,[-46.  25.],2,13:38,MIN,BOS,MIN,30,BOS,6,0,3,8475722,Giveaway by Jason Zucker
+109,giveaway,Eric Staal,[52. 36.],2,12:54,MIN,BOS,MIN,30,BOS,6,0,3,8470595,Giveaway by Eric Staal
+131,giveaway,Jonas Brodin,[-46.  21.],2,06:36,MIN,BOS,MIN,30,BOS,6,0,3,8476463,Giveaway by Jonas Brodin
+162,giveaway,Eric Staal,[92. -8.],3,18:49,MIN,BOS,MIN,30,BOS,6,0,4,8470595,Giveaway by Eric Staal
+181,giveaway,Jason Zucker,[-48. -40.],3,14:17,MIN,BOS,MIN,30,BOS,6,0,4,8475722,Giveaway by Jason Zucker
+183,giveaway,Victor Rask,[-54. -31.],3,13:26,MIN,BOS,MIN,30,BOS,6,0,4,8476437,Giveaway by Victor Rask
+188,giveaway,Chris Wagner,[-83.  36.],3,11:23,BOS,MIN,MIN,30,BOS,6,0,4,8475780,Giveaway by Chris Wagner
+212,giveaway,Eric Staal,[51. 26.],3,04:28,MIN,BOS,MIN,30,BOS,6,1,4,8470595,Giveaway by Eric Staal
+215,giveaway,Jared Spurgeon,[-17.  36.],3,03:55,MIN,BOS,MIN,30,BOS,6,1,4,8474716,Giveaway by Jared Spurgeon
+216,giveaway,Luke Kunin,[-88.  33.],3,03:29,MIN,BOS,MIN,30,BOS,6,1,4,8479316,Giveaway by Luke Kunin
+13,takeaway,Ryan Hartman,[-36.   4.],1,16:46,MIN,BOS,MIN,30,BOS,6,0,0,8477451,Takeaway by Ryan Hartman
+14,takeaway,Anders Bjork,[-36.   1.],1,16:44,BOS,MIN,MIN,30,BOS,6,0,0,8478075,Takeaway by Anders Bjork
+56,takeaway,Par Lindholm,[22. 11.],1,07:10,BOS,MIN,MIN,30,BOS,6,0,1,8480944,Takeaway by Par Lindholm
+62,takeaway,Mikko Koivu,[-88. -11.],1,05:31,MIN,BOS,MIN,30,BOS,6,0,1,8469459,Takeaway by Mikko Koivu
+78,takeaway,Ryan Suter,[32. 31.],1,00:53,MIN,BOS,MIN,30,BOS,6,0,1,8470600,Takeaway by Ryan Suter
+89,takeaway,Carson Soucy,[-82.  36.],2,17:10,MIN,BOS,MIN,30,BOS,6,0,1,8477369,Takeaway by Carson Soucy
+220,takeaway,Joakim Nordstrom,[ 51. -27.],3,02:03,BOS,MIN,MIN,30,BOS,6,1,4,8475807,Takeaway by Joakim Nordstrom
+2,giveaway,Zach Parise,[-44. -13.],1,19:42,MIN,CHI,MIN,30,CHI,16,0,0,8470610,Giveaway by Zach Parise
+3,giveaway,Matt Dumba,[78. 37.],1,19:04,MIN,CHI,MIN,30,CHI,16,0,0,8476856,Giveaway by Matt Dumba
+18,giveaway,Adam Boqvist,[-13. -23.],1,15:19,CHI,MIN,MIN,30,CHI,16,0,0,8480871,Giveaway by Adam Boqvist
+36,giveaway,Connor Murphy,[-11. -34.],1,10:53,CHI,MIN,MIN,30,CHI,16,0,0,8476473,Giveaway by Connor Murphy
+52,giveaway,Jordan Greenway,[-86. -10.],1,05:55,MIN,CHI,MIN,30,CHI,16,0,0,8478413,Giveaway by Jordan Greenway
+55,giveaway,Alex Stalock,[86.  9.],1,05:01,MIN,CHI,MIN,30,CHI,16,0,0,8471774,Giveaway by Alex Stalock
+57,giveaway,Ryan Donato,[-20.  16.],1,04:02,MIN,CHI,MIN,30,CHI,16,0,0,8477987,Giveaway by Ryan Donato
+76,giveaway,Marcus Foligno,[ 46. -30.],2,19:37,MIN,CHI,MIN,30,CHI,16,0,0,8475220,Giveaway by Marcus Foligno
+85,giveaway,Adam Boqvist,[92. 15.],2,16:11,CHI,MIN,MIN,30,CHI,16,0,0,8480871,Giveaway by Adam Boqvist
+109,giveaway,Brad Hunt,[-39.  30.],2,10:03,MIN,CHI,MIN,30,CHI,16,1,0,8476779,Giveaway by Brad Hunt
+122,giveaway,Duncan Keith,[86. -8.],2,05:34,CHI,MIN,MIN,30,CHI,16,1,0,8470281,Giveaway by Duncan Keith
+135,giveaway,Mats Zuccarello,[-94.  25.],2,00:54,MIN,CHI,MIN,30,CHI,16,2,0,8475692,Giveaway by Mats Zuccarello
+137,giveaway,Jared Spurgeon,[ 16. -32.],3,19:34,MIN,CHI,MIN,30,CHI,16,2,0,8474716,Giveaway by Jared Spurgeon
+156,giveaway,Dylan Strome,[9. 9.],3,14:04,CHI,MIN,MIN,30,CHI,16,2,0,8478440,Giveaway by Dylan Strome
+184,giveaway,Matt Dumba,[ 88. -25.],3,08:13,MIN,CHI,MIN,30,CHI,16,2,1,8476856,Giveaway by Matt Dumba
+189,giveaway,Alex Stalock,[85.  7.],3,07:25,MIN,CHI,MIN,30,CHI,16,2,1,8471774,Giveaway by Alex Stalock
+202,giveaway,Alex Stalock,[95. -2.],3,03:55,MIN,CHI,MIN,30,CHI,16,2,1,8471774,Giveaway by Alex Stalock
+213,giveaway,Brandon Saad,[41. 35.],3,01:24,CHI,MIN,MIN,30,CHI,16,2,2,8476438,Giveaway by Brandon Saad
+217,giveaway,Jason Zucker,[43. 30.],3,00:41,MIN,CHI,MIN,30,CHI,16,2,2,8475722,Giveaway by Jason Zucker
+33,takeaway,Connor Murphy,[-53.  -3.],1,11:27,CHI,MIN,MIN,30,CHI,16,0,0,8476473,Takeaway by Connor Murphy
+69,takeaway,Alex DeBrincat,[  5. -29.],1,01:02,CHI,MIN,MIN,30,CHI,16,0,0,8479337,Takeaway by Alex DeBrincat
+91,takeaway,Eric Staal,[ 12. -37.],2,14:38,MIN,CHI,MIN,30,CHI,16,1,0,8470595,Takeaway by Eric Staal
+145,takeaway,Drake Caggiula,[38. 34.],3,17:22,CHI,MIN,MIN,30,CHI,16,2,0,8479465,Takeaway by Drake Caggiula
+155,takeaway,Jordan Greenway,[ 10. -29.],3,14:20,MIN,CHI,MIN,30,CHI,16,2,0,8478413,Takeaway by Jordan Greenway
+178,takeaway,Kevin Fiala,[59. 41.],3,09:53,MIN,CHI,MIN,30,CHI,16,2,1,8477942,Takeaway by Kevin Fiala
+191,takeaway,Mikko Koivu,[-41.  30.],3,06:45,MIN,CHI,MIN,30,CHI,16,2,1,8469459,Takeaway by Mikko Koivu
+228,takeaway,Dylan Strome,[-44. -12.],4,03:13,CHI,MIN,MIN,30,CHI,16,2,2,8478440,Takeaway by Dylan Strome
+229,takeaway,Ryan Suter,[ 47. -14.],4,03:00,MIN,CHI,MIN,30,CHI,16,2,2,8470600,Takeaway by Ryan Suter
+46,giveaway,Tyler Myers,[55.  8.],1,10:11,VAN,MIN,MIN,30,VAN,23,1,0,8474574,Giveaway by Tyler Myers
+50,giveaway,Jacob Markstrom,[-91.  -5.],1,09:24,VAN,MIN,MIN,30,VAN,23,1,0,8474593,Giveaway by Jacob Markstrom
+64,giveaway,Tanner Pearson,[64. 36.],1,06:57,VAN,MIN,MIN,30,VAN,23,2,0,8476871,Giveaway by Tanner Pearson
+139,giveaway,Kevin Fiala,[50. -3.],2,08:40,MIN,VAN,MIN,30,VAN,23,3,1,8477942,Giveaway by Kevin Fiala
+200,giveaway,Alexander Edler,[-95.   9.],3,08:34,VAN,MIN,MIN,30,VAN,23,3,1,8471303,Giveaway by Alexander Edler
+41,takeaway,Christopher Tanev,[-63.  -1.],1,11:01,VAN,MIN,MIN,30,VAN,23,1,0,8475690,Takeaway by Christopher Tanev
+71,takeaway,Christopher Tanev,[-96.  -8.],1,04:03,VAN,MIN,MIN,30,VAN,23,2,0,8475690,Takeaway by Christopher Tanev
+108,takeaway,Jordan Greenway,[  5. -22.],2,14:46,MIN,VAN,MIN,30,VAN,23,3,0,8478413,Takeaway by Jordan Greenway
+193,takeaway,Jason Zucker,[-94.  21.],3,09:48,MIN,VAN,MIN,30,VAN,23,3,1,8475722,Takeaway by Jason Zucker
+205,takeaway,Ryan Suter,[97. 15.],3,06:21,MIN,VAN,MIN,30,VAN,23,3,1,8470600,Takeaway by Ryan Suter
+225,takeaway,Jonas Brodin,[ 69. -20.],3,00:08,MIN,VAN,MIN,30,VAN,23,4,2,8476463,Takeaway by Jonas Brodin
+11,giveaway,Greg Pateryn,[-6.  1.],1,18:13,MIN,DAL,DAL,25,MIN,30,0,0,8474688,Giveaway by Greg Pateryn
+12,giveaway,Blake Comeau,[ 6. 34.],1,18:03,DAL,MIN,DAL,25,MIN,30,0,0,8471260,Giveaway by Blake Comeau
+24,giveaway,Jamie Benn,[-98.  17.],1,15:39,DAL,MIN,DAL,25,MIN,30,0,0,8473994,Giveaway by Jamie Benn
+34,giveaway,Roope Hintz,[98. -2.],1,13:24,DAL,MIN,DAL,25,MIN,30,0,0,8478449,Giveaway by Roope Hintz
+41,giveaway,Eric Staal,[-51. -37.],1,11:55,MIN,DAL,DAL,25,MIN,30,0,0,8470595,Giveaway by Eric Staal
+43,giveaway,Brad Hunt,[-98.  -2.],1,10:56,MIN,DAL,DAL,25,MIN,30,0,0,8476779,Giveaway by Brad Hunt
+47,giveaway,Esa Lindell,[ 98. -22.],1,10:04,DAL,MIN,DAL,25,MIN,30,0,0,8476902,Giveaway by Esa Lindell
+49,giveaway,Ryan Suter,[-97. -21.],1,09:18,MIN,DAL,DAL,25,MIN,30,0,0,8470600,Giveaway by Ryan Suter
+51,giveaway,Jason Dickinson,[-23. -39.],1,08:26,DAL,MIN,DAL,25,MIN,30,0,0,8477450,Giveaway by Jason Dickinson
+56,giveaway,Corey Perry,[70.  0.],1,08:02,DAL,MIN,DAL,25,MIN,30,0,0,8470621,Giveaway by Corey Perry
+58,giveaway,Jamie Oleksiak,[98.  5.],1,07:54,DAL,MIN,DAL,25,MIN,30,0,0,8476467,Giveaway by Jamie Oleksiak
+67,giveaway,Matt Dumba,[ 92. -22.],1,05:17,MIN,DAL,DAL,25,MIN,30,0,0,8476856,Giveaway by Matt Dumba
+98,giveaway,John Klingberg,[-80.  40.],2,19:44,DAL,MIN,DAL,25,MIN,30,1,0,8475906,Giveaway by John Klingberg
+104,giveaway,Alexander Radulov,[ 72. -38.],2,18:33,DAL,MIN,DAL,25,MIN,30,1,0,8471228,Giveaway by Alexander Radulov
+114,giveaway,Blake Comeau,[-37. -19.],2,16:23,DAL,MIN,DAL,25,MIN,30,2,0,8471260,Giveaway by Blake Comeau
+119,giveaway,Tyler Seguin,[-66.  40.],2,15:41,DAL,MIN,DAL,25,MIN,30,2,0,8475794,Giveaway by Tyler Seguin
+131,giveaway,Greg Pateryn,[72.  1.],2,12:45,MIN,DAL,DAL,25,MIN,30,2,0,8474688,Giveaway by Greg Pateryn
+135,giveaway,Jamie Benn,[ 58. -40.],2,12:06,DAL,MIN,DAL,25,MIN,30,2,0,8473994,Giveaway by Jamie Benn
+148,giveaway,Mikko Koivu,[-98.  11.],2,09:26,MIN,DAL,DAL,25,MIN,30,2,1,8469459,Giveaway by Mikko Koivu
+189,giveaway,Blake Comeau,[-27.  17.],3,19:37,DAL,MIN,DAL,25,MIN,30,2,2,8471260,Giveaway by Blake Comeau
+196,giveaway,John Klingberg,[19. 35.],3,18:05,DAL,MIN,DAL,25,MIN,30,2,2,8475906,Giveaway by John Klingberg
+199,giveaway,Roope Hintz,[-51.  37.],3,17:12,DAL,MIN,DAL,25,MIN,30,2,2,8478449,Giveaway by Roope Hintz
+223,giveaway,Jason Zucker,[-56. -14.],3,11:35,MIN,DAL,DAL,25,MIN,30,2,2,8475722,Giveaway by Jason Zucker
+224,giveaway,Ben Bishop,[ 76. -10.],3,11:16,DAL,MIN,DAL,25,MIN,30,2,2,8471750,Giveaway by Ben Bishop
+228,giveaway,Miro Heiskanen,[24. 18.],3,10:09,DAL,MIN,DAL,25,MIN,30,2,2,8480036,Giveaway by Miro Heiskanen
+229,giveaway,Luke Kunin,[-31.  12.],3,10:04,MIN,DAL,DAL,25,MIN,30,2,2,8479316,Giveaway by Luke Kunin
+230,giveaway,Denis Gurianov,[-27. -27.],3,10:00,DAL,MIN,DAL,25,MIN,30,2,2,8478495,Giveaway by Denis Gurianov
+233,giveaway,Zach Parise,[-53. -40.],3,09:25,MIN,DAL,DAL,25,MIN,30,2,2,8470610,Giveaway by Zach Parise
+246,giveaway,Radek Faksa,[-50. -29.],3,05:59,DAL,MIN,DAL,25,MIN,30,2,2,8476889,Giveaway by Radek Faksa
+251,giveaway,Corey Perry,[-68. -37.],3,04:44,DAL,MIN,DAL,25,MIN,30,2,2,8470621,Giveaway by Corey Perry
+31,takeaway,Greg Pateryn,[-97.  -6.],1,14:02,MIN,DAL,DAL,25,MIN,30,0,0,8474688,Takeaway by Greg Pateryn
+33,takeaway,Roope Hintz,[59. 40.],1,13:36,DAL,MIN,DAL,25,MIN,30,0,0,8478449,Takeaway by Roope Hintz
+57,takeaway,Jamie Oleksiak,[98.  0.],1,07:57,DAL,MIN,DAL,25,MIN,30,0,0,8476467,Takeaway by Jamie Oleksiak
+86,takeaway,Kevin Fiala,[-59. -36.],1,02:44,MIN,DAL,DAL,25,MIN,30,1,0,8477942,Takeaway by Kevin Fiala
+88,takeaway,Mats Zuccarello,[-44. -33.],1,02:29,MIN,DAL,DAL,25,MIN,30,1,0,8475692,Takeaway by Mats Zuccarello
+90,takeaway,Mats Zuccarello,[ -6. -18.],1,02:21,MIN,DAL,DAL,25,MIN,30,1,0,8475692,Takeaway by Mats Zuccarello
+109,takeaway,Matt Dumba,[28. 33.],2,17:25,MIN,DAL,DAL,25,MIN,30,1,0,8476856,Takeaway by Matt Dumba
+137,takeaway,Jordan Greenway,[-74.  40.],2,11:53,MIN,DAL,DAL,25,MIN,30,2,0,8478413,Takeaway by Jordan Greenway
+154,takeaway,Radek Faksa,[23.  0.],2,07:45,DAL,MIN,DAL,25,MIN,30,2,2,8476889,Takeaway by Radek Faksa
+170,takeaway,Zach Parise,[-46. -14.],2,02:42,MIN,DAL,DAL,25,MIN,30,2,2,8470610,Takeaway by Zach Parise
+193,takeaway,Tyler Seguin,[-84.  -8.],3,18:37,DAL,MIN,DAL,25,MIN,30,2,2,8475794,Takeaway by Tyler Seguin
+222,takeaway,Eric Staal,[ 20. -38.],3,12:12,MIN,DAL,DAL,25,MIN,30,2,2,8470595,Takeaway by Eric Staal
+271,takeaway,Jamie Benn,[-17.  42.],3,00:20,DAL,MIN,DAL,25,MIN,30,2,3,8473994,Takeaway by Jamie Benn
+12,giveaway,Marcus Foligno,[-13. -37.],1,16:27,MIN,COL,MIN,30,COL,21,0,0,8475220,Giveaway by Marcus Foligno
+47,giveaway,Marcus Foligno,[-44.  12.],1,08:20,MIN,COL,MIN,30,COL,21,0,0,8475220,Giveaway by Marcus Foligno
+64,giveaway,Mikko Koivu,[83. 33.],1,03:42,MIN,COL,MIN,30,COL,21,0,0,8469459,Giveaway by Mikko Koivu
+110,giveaway,Jason Zucker,[98. -1.],2,13:13,MIN,COL,MIN,30,COL,21,1,1,8475722,Giveaway by Jason Zucker
+158,giveaway,Nazem Kadri,[-48.  37.],2,03:03,COL,MIN,MIN,30,COL,21,1,3,8475172,Giveaway by Nazem Kadri
+180,giveaway,Jordan Greenway,[50. 12.],3,19:31,MIN,COL,MIN,30,COL,21,2,3,8478413,Giveaway by Jordan Greenway
+217,giveaway,Jonas Brodin,[99. 10.],3,10:00,MIN,COL,MIN,30,COL,21,2,3,8476463,Giveaway by Jonas Brodin
+234,giveaway,Kevin Fiala,[-47. -16.],3,05:08,MIN,COL,MIN,30,COL,21,2,3,8477942,Giveaway by Kevin Fiala
+246,giveaway,Matt Dumba,[-47.  18.],3,01:05,MIN,COL,MIN,30,COL,21,2,3,8476856,Giveaway by Matt Dumba
+11,takeaway,Cale Makar,[-98.  -5.],1,16:35,COL,MIN,MIN,30,COL,21,0,0,8480069,Takeaway by Cale Makar
+23,takeaway,Carson Soucy,[ 39. -15.],1,13:34,MIN,COL,MIN,30,COL,21,0,0,8477369,Takeaway by Carson Soucy
+27,takeaway,Jason Zucker,[36.  8.],1,12:23,MIN,COL,MIN,30,COL,21,0,0,8475722,Takeaway by Jason Zucker
+34,takeaway,Mikko Rantanen,[-42.   9.],1,10:10,COL,MIN,MIN,30,COL,21,0,0,8478420,Takeaway by Mikko Rantanen
+36,takeaway,Mikko Rantanen,[16. 27.],1,10:02,COL,MIN,MIN,30,COL,21,0,0,8478420,Takeaway by Mikko Rantanen
+68,takeaway,Mikko Rantanen,[ 35. -30.],1,02:26,COL,MIN,MIN,30,COL,21,0,0,8478420,Takeaway by Mikko Rantanen
+119,takeaway,Erik Johnson,[98.  6.],2,12:08,COL,MIN,MIN,30,COL,21,1,2,8473446,Takeaway by Erik Johnson
+125,takeaway,Matt Calvert,[57. 37.],2,10:54,COL,MIN,MIN,30,COL,21,1,2,8474685,Takeaway by Matt Calvert
+141,takeaway,Greg Pateryn,[-74.  -5.],2,07:40,MIN,COL,MIN,30,COL,21,1,3,8474688,Takeaway by Greg Pateryn
+154,takeaway,J.T. Compher,[-52.  38.],2,03:39,COL,MIN,MIN,30,COL,21,1,3,8477456,Takeaway by J.T. Compher
+179,takeaway,Jordan Greenway,[-39.  29.],3,19:40,MIN,COL,MIN,30,COL,21,2,3,8478413,Takeaway by Jordan Greenway
+224,takeaway,Mikko Koivu,[-96. -12.],3,07:28,MIN,COL,MIN,30,COL,21,2,3,8469459,Takeaway by Mikko Koivu
+237,takeaway,Carson Soucy,[57. 20.],3,03:08,MIN,COL,MIN,30,COL,21,2,3,8477369,Takeaway by Carson Soucy
+239,takeaway,Jason Zucker,[11. 35.],3,02:22,MIN,COL,MIN,30,COL,21,2,3,8475722,Takeaway by Jason Zucker
+72,giveaway,Alex Stalock,[96.  9.],1,00:15,MIN,VGK,MIN,30,VGK,54,2,0,8471774,Giveaway by Alex Stalock
+94,giveaway,Luke Kunin,[ 32. -34.],2,14:26,MIN,VGK,MIN,30,VGK,54,2,0,8479316,Giveaway by Luke Kunin
+140,giveaway,Brayden McNabb,[ 97. -16.],2,04:21,VGK,MIN,MIN,30,VGK,54,3,0,8475188,Giveaway by Brayden McNabb
+171,giveaway,Ryan Hartman,[-15. -29.],3,16:40,MIN,VGK,MIN,30,VGK,54,4,0,8477451,Giveaway by Ryan Hartman
+198,giveaway,Alex Galchenyuk,[-48. -36.],3,08:43,MIN,VGK,MIN,30,VGK,54,4,0,8476851,Giveaway by Alex Galchenyuk
+205,giveaway,Alex Stalock,[96.  8.],3,06:11,MIN,VGK,MIN,30,VGK,54,4,0,8471774,Giveaway by Alex Stalock
+210,giveaway,Joel Eriksson Ek,[-20.  35.],3,03:10,MIN,VGK,MIN,30,VGK,54,4,0,8478493,Giveaway by Joel Eriksson Ek
+66,takeaway,Alex Tuch,[ 54. -41.],1,01:42,VGK,MIN,MIN,30,VGK,54,2,0,8477949,Takeaway by Alex Tuch
+80,takeaway,Carson Soucy,[-95.   5.],2,18:26,MIN,VGK,MIN,30,VGK,54,2,0,8477369,Takeaway by Carson Soucy
+93,takeaway,Brayden McNabb,[95.  1.],2,14:30,VGK,MIN,MIN,30,VGK,54,2,0,8475188,Takeaway by Brayden McNabb
+114,takeaway,Jonathan Marchessault,[-42.  19.],2,09:29,VGK,MIN,MIN,30,VGK,54,3,0,8476539,Takeaway by Jonathan Marchessault
+118,takeaway,Shea Theodore,[57. 38.],2,08:53,VGK,MIN,MIN,30,VGK,54,3,0,8477447,Takeaway by Shea Theodore
+132,takeaway,Alex Galchenyuk,[30. -1.],2,05:49,MIN,VGK,MIN,30,VGK,54,3,0,8476851,Takeaway by Alex Galchenyuk
+150,takeaway,Brad Hunt,[-59.  22.],2,02:27,MIN,VGK,MIN,30,VGK,54,4,0,8476779,Takeaway by Brad Hunt
+175,takeaway,Jared Spurgeon,[97. -4.],3,15:19,MIN,VGK,MIN,30,VGK,54,4,0,8474716,Takeaway by Jared Spurgeon
+197,takeaway,Cody Eakin,[-43. -41.],3,09:40,VGK,MIN,MIN,30,VGK,54,4,0,8475236,Takeaway by Cody Eakin
+200,takeaway,Reilly Smith,[-43. -32.],3,07:42,VGK,MIN,MIN,30,VGK,54,4,0,8475191,Takeaway by Reilly Smith
+14,giveaway,Ryan Strome,[  4. -33.],1,15:16,NYR,MIN,MIN,30,NYR,3,0,0,8476458,Giveaway by Ryan Strome
+30,giveaway,Alex Stalock,[96. -5.],1,10:53,MIN,NYR,MIN,30,NYR,3,0,0,8471774,Giveaway by Alex Stalock
+39,giveaway,Jordan Greenway,[-53.  25.],1,09:27,MIN,NYR,MIN,30,NYR,3,1,0,8478413,Giveaway by Jordan Greenway
+43,giveaway,Alexandar Georgiev,[-94.  -7.],1,07:59,NYR,MIN,MIN,30,NYR,3,1,1,8480382,Giveaway by Alexandar Georgiev
+50,giveaway,Kevin Fiala,[-39.   2.],1,06:12,MIN,NYR,MIN,30,NYR,3,1,1,8477942,Giveaway by Kevin Fiala
+52,giveaway,Luke Kunin,[-59.  31.],1,05:46,MIN,NYR,MIN,30,NYR,3,1,1,8479316,Giveaway by Luke Kunin
+57,giveaway,Greg Pateryn,[65. -9.],1,03:45,MIN,NYR,MIN,30,NYR,3,1,1,8474688,Giveaway by Greg Pateryn
+95,giveaway,Chris Kreider,[52. -4.],2,13:24,NYR,MIN,MIN,30,NYR,3,2,1,8475184,Giveaway by Chris Kreider
+167,giveaway,Zach Parise,[-64. -37.],3,14:13,MIN,NYR,MIN,30,NYR,3,3,1,8470610,Giveaway by Zach Parise
+172,giveaway,Filip Chytil,[39. 28.],3,12:22,NYR,MIN,MIN,30,NYR,3,3,1,8480078,Giveaway by Filip Chytil
+176,giveaway,Zach Parise,[-48. -20.],3,10:56,MIN,NYR,MIN,30,NYR,3,3,1,8470610,Giveaway by Zach Parise
+197,giveaway,Artemi Panarin,[86. 23.],3,03:53,NYR,MIN,MIN,30,NYR,3,3,2,8478550,Giveaway by Artemi Panarin
+38,takeaway,Jordan Greenway,[-97.   0.],1,09:34,MIN,NYR,MIN,30,NYR,3,1,0,8478413,Takeaway by Jordan Greenway
+65,takeaway,Adam Fox,[-18. -16.],1,01:48,NYR,MIN,MIN,30,NYR,3,2,1,8479323,Takeaway by Adam Fox
+91,takeaway,Jonas Brodin,[-96.  11.],2,14:27,MIN,NYR,MIN,30,NYR,3,2,1,8476463,Takeaway by Jonas Brodin
+119,takeaway,Marcus Foligno,[-71.   2.],2,08:19,MIN,NYR,MIN,30,NYR,3,2,1,8475220,Takeaway by Marcus Foligno
+125,takeaway,Pavel Buchnevich,[-62. -19.],2,05:16,NYR,MIN,MIN,30,NYR,3,2,1,8477402,Takeaway by Pavel Buchnevich
+128,takeaway,Ryan Donato,[-33.  14.],2,03:52,MIN,NYR,MIN,30,NYR,3,2,1,8477987,Takeaway by Ryan Donato
+145,takeaway,Eric Staal,[-15.  11.],3,18:52,MIN,NYR,MIN,30,NYR,3,3,1,8470595,Takeaway by Eric Staal
+160,takeaway,Joel Eriksson Ek,[43. -5.],3,15:43,MIN,NYR,MIN,30,NYR,3,3,1,8478493,Takeaway by Joel Eriksson Ek
+164,takeaway,Jordan Greenway,[39. -9.],3,15:16,MIN,NYR,MIN,30,NYR,3,3,1,8478413,Takeaway by Jordan Greenway
+191,takeaway,Ryan Strome,[-66.  38.],3,05:57,NYR,MIN,MIN,30,NYR,3,3,2,8476458,Takeaway by Ryan Strome
+192,takeaway,Brendan Smith,[-16.  10.],3,05:10,NYR,MIN,MIN,30,NYR,3,3,2,8474090,Takeaway by Brendan Smith
+6,giveaway,Timo Meier,[-83.  18.],1,18:20,SJS,MIN,MIN,30,SJS,28,0,0,8478414,Giveaway by Timo Meier
+35,giveaway,Tim Heed,[-40. -36.],1,11:14,SJS,MIN,MIN,30,SJS,28,0,0,8475841,Giveaway by Tim Heed
+42,giveaway,Matt Dumba,[45. 32.],1,09:31,MIN,SJS,MIN,30,SJS,28,0,0,8476856,Giveaway by Matt Dumba
+49,giveaway,Jordan Greenway,[11. 33.],1,07:24,MIN,SJS,MIN,30,SJS,28,0,0,8478413,Giveaway by Jordan Greenway
+81,giveaway,Tim Heed,[-39.  36.],2,15:35,SJS,MIN,MIN,30,SJS,28,0,0,8475841,Giveaway by Tim Heed
+201,giveaway,Kevin Fiala,[-12. -23.],3,06:13,MIN,SJS,MIN,30,SJS,28,0,1,8477942,Giveaway by Kevin Fiala
+32,takeaway,Jonas Brodin,[52. 34.],1,11:58,MIN,SJS,MIN,30,SJS,28,0,0,8476463,Takeaway by Jonas Brodin
+64,takeaway,Kevin Fiala,[42. 17.],1,01:34,MIN,SJS,MIN,30,SJS,28,0,0,8477942,Takeaway by Kevin Fiala
+65,takeaway,Melker Karlsson,[-39.   8.],1,00:48,SJS,MIN,MIN,30,SJS,28,0,0,8477922,Takeaway by Melker Karlsson
+74,takeaway,Eric Staal,[57. 39.],2,19:30,MIN,SJS,MIN,30,SJS,28,0,0,8470595,Takeaway by Eric Staal
+105,takeaway,Joe Thornton,[-40.  31.],2,11:41,SJS,MIN,MIN,30,SJS,28,0,0,8466138,Takeaway by Joe Thornton
+115,takeaway,Ryan Hartman,[-51. -32.],2,08:19,MIN,SJS,MIN,30,SJS,28,0,0,8477451,Takeaway by Ryan Hartman
+171,takeaway,Joe Thornton,[-69.   1.],3,14:54,SJS,MIN,MIN,30,SJS,28,0,1,8466138,Takeaway by Joe Thornton
+204,takeaway,Kevin Labanc,[-14. -39.],3,04:50,SJS,MIN,MIN,30,SJS,28,0,1,8478099,Takeaway by Kevin Labanc
+219,takeaway,Melker Karlsson,[-45. -11.],3,00:49,SJS,MIN,MIN,30,SJS,28,0,1,8477922,Takeaway by Melker Karlsson
+56,giveaway,Kevin Fiala,[-55. -35.],1,04:19,MIN,VAN,VAN,23,MIN,30,0,1,8477942,Giveaway by Kevin Fiala
+63,giveaway,Mikko Koivu,[-15.  18.],1,02:29,MIN,VAN,VAN,23,MIN,30,0,1,8469459,Giveaway by Mikko Koivu
+113,giveaway,Carson Soucy,[ 62. -17.],2,10:17,MIN,VAN,VAN,23,MIN,30,1,1,8477369,Giveaway by Carson Soucy
+120,giveaway,Tanner Pearson,[78. 32.],2,08:28,VAN,MIN,VAN,23,MIN,30,1,1,8476871,Giveaway by Tanner Pearson
+135,giveaway,Brandon Sutter,[50. 32.],2,04:54,VAN,MIN,VAN,23,MIN,30,1,2,8474091,Giveaway by Brandon Sutter
+140,giveaway,Quinn Hughes,[-65. -21.],2,04:09,VAN,MIN,VAN,23,MIN,30,1,2,8480800,Giveaway by Quinn Hughes
+181,giveaway,Jake Virtanen,[-52. -19.],3,12:55,VAN,MIN,VAN,23,MIN,30,3,2,8477937,Giveaway by Jake Virtanen
+199,giveaway,Jake Virtanen,[-79. -39.],3,09:45,VAN,MIN,VAN,23,MIN,30,3,2,8477937,Giveaway by Jake Virtanen
+205,giveaway,Jacob Markstrom,[99. -1.],3,07:49,VAN,MIN,VAN,23,MIN,30,3,2,8474593,Giveaway by Jacob Markstrom
+233,giveaway,Jacob Markstrom,[95. -6.],3,01:20,VAN,MIN,VAN,23,MIN,30,3,3,8474593,Giveaway by Jacob Markstrom
+249,giveaway,Jake Virtanen,[-32.  -1.],4,01:42,VAN,MIN,VAN,23,MIN,30,3,3,8477937,Giveaway by Jake Virtanen
+8,takeaway,Tyler Toffoli,[  2. -36.],1,17:50,VAN,MIN,VAN,23,MIN,30,0,1,8475726,Takeaway by Tyler Toffoli
+10,takeaway,Tyler Motte,[-94.  27.],1,17:18,VAN,MIN,VAN,23,MIN,30,0,1,8477353,Takeaway by Tyler Motte
+13,takeaway,Marcus Foligno,[  0. -36.],1,16:43,MIN,VAN,VAN,23,MIN,30,0,1,8475220,Takeaway by Marcus Foligno
+20,takeaway,Jay Beagle,[-96.  17.],1,14:27,VAN,MIN,VAN,23,MIN,30,0,1,8474291,Takeaway by Jay Beagle
+23,takeaway,Jay Beagle,[18. 38.],1,14:10,VAN,MIN,VAN,23,MIN,30,0,1,8474291,Takeaway by Jay Beagle
+33,takeaway,Tyler Myers,[37. 19.],1,11:00,VAN,MIN,VAN,23,MIN,30,0,1,8474574,Takeaway by Tyler Myers
+34,takeaway,Tyler Myers,[39. 18.],1,10:42,VAN,MIN,VAN,23,MIN,30,0,1,8474574,Takeaway by Tyler Myers
+41,takeaway,Loui Eriksson,[-81.  31.],1,08:23,VAN,MIN,VAN,23,MIN,30,0,1,8470626,Takeaway by Loui Eriksson
+72,takeaway,Ryan Suter,[-60.  37.],1,01:16,MIN,VAN,VAN,23,MIN,30,0,1,8470600,Takeaway by Ryan Suter
+105,takeaway,Mats Zuccarello,[-34.  -2.],2,12:44,MIN,VAN,VAN,23,MIN,30,1,1,8475692,Takeaway by Mats Zuccarello
+118,takeaway,Alexander Edler,[  9. -35.],2,09:17,VAN,MIN,VAN,23,MIN,30,1,1,8471303,Takeaway by Alexander Edler
+176,takeaway,Kevin Fiala,[29. -5.],3,14:12,MIN,VAN,VAN,23,MIN,30,3,2,8477942,Takeaway by Kevin Fiala
+33,giveaway,Marcus Foligno,[-97. -13.],1,12:01,MIN,EDM,EDM,22,MIN,30,1,0,8475220,Giveaway by Marcus Foligno
+54,giveaway,Ethan Bear,[-97.   2.],1,07:21,EDM,MIN,EDM,22,MIN,30,1,1,8478451,Giveaway by Ethan Bear
+55,giveaway,Carson Soucy,[-64.  41.],1,07:17,MIN,EDM,EDM,22,MIN,30,1,1,8477369,Giveaway by Carson Soucy
+73,giveaway,Zach Parise,[-97.  11.],1,02:25,MIN,EDM,EDM,22,MIN,30,2,1,8470610,Giveaway by Zach Parise
+75,giveaway,Jujhar Khaira,[-77.   1.],1,02:08,EDM,MIN,EDM,22,MIN,30,2,1,8476915,Giveaway by Jujhar Khaira
+99,giveaway,Tyler Benson,[-33. -37.],2,18:18,EDM,MIN,EDM,22,MIN,30,2,1,8479347,Giveaway by Tyler Benson
+102,giveaway,Jordan Greenway,[ 72. -16.],2,16:56,MIN,EDM,EDM,22,MIN,30,2,1,8478413,Giveaway by Jordan Greenway
+107,giveaway,Leon Draisaitl,[-33. -29.],2,15:29,EDM,MIN,EDM,22,MIN,30,2,1,8477934,Giveaway by Leon Draisaitl
+130,giveaway,Matt Dumba,[ 38. -39.],2,11:04,MIN,EDM,EDM,22,MIN,30,3,2,8476856,Giveaway by Matt Dumba
+143,giveaway,Adam Larsson,[ 88. -25.],2,09:11,EDM,MIN,EDM,22,MIN,30,3,2,8476457,Giveaway by Adam Larsson
+153,giveaway,Ethan Bear,[69. 35.],2,07:20,EDM,MIN,EDM,22,MIN,30,3,3,8478451,Giveaway by Ethan Bear
+157,giveaway,Zach Parise,[57. 41.],2,06:53,MIN,EDM,EDM,22,MIN,30,3,3,8470610,Giveaway by Zach Parise
+159,giveaway,Adam Larsson,[70. 38.],2,06:10,EDM,MIN,EDM,22,MIN,30,3,3,8476457,Giveaway by Adam Larsson
+180,giveaway,William Lagesson,[71. 25.],2,00:46,EDM,MIN,EDM,22,MIN,30,3,3,8478021,Giveaway by William Lagesson
+187,giveaway,Mikko Koivu,[-73. -39.],3,18:50,MIN,EDM,EDM,22,MIN,30,3,3,8469459,Giveaway by Mikko Koivu
+194,giveaway,Riley Sheahan,[-77.   6.],3,17:40,EDM,MIN,EDM,22,MIN,30,3,3,8475772,Giveaway by Riley Sheahan
+210,giveaway,Alex Stalock,[94.  0.],3,13:17,MIN,EDM,EDM,22,MIN,30,3,3,8471774,Giveaway by Alex Stalock
+214,giveaway,Sam Gagner,[-64.  40.],3,12:33,EDM,MIN,EDM,22,MIN,30,3,3,8474040,Giveaway by Sam Gagner
+216,giveaway,Jordan Greenway,[ 76. -28.],3,12:17,MIN,EDM,EDM,22,MIN,30,3,3,8478413,Giveaway by Jordan Greenway
+217,giveaway,Gaetan Haas,[ 49. -26.],3,12:14,EDM,MIN,EDM,22,MIN,30,3,3,8481813,Giveaway by Gaetan Haas
+219,giveaway,Kailer Yamamoto,[ 47. -38.],3,11:28,EDM,MIN,EDM,22,MIN,30,3,3,8479977,Giveaway by Kailer Yamamoto
+227,giveaway,Leon Draisaitl,[-34.  -4.],3,09:43,EDM,MIN,EDM,22,MIN,30,3,4,8477934,Giveaway by Leon Draisaitl
+244,giveaway,Alex Galchenyuk,[-22. -34.],3,06:51,MIN,EDM,EDM,22,MIN,30,3,4,8476851,Giveaway by Alex Galchenyuk
+252,giveaway,Jordan Greenway,[74. 39.],3,04:51,MIN,EDM,EDM,22,MIN,30,3,4,8478413,Giveaway by Jordan Greenway
+253,giveaway,Kevin Fiala,[ 8. 40.],3,03:57,MIN,EDM,EDM,22,MIN,30,3,4,8477942,Giveaway by Kevin Fiala
+264,giveaway,Zach Parise,[ 40. -38.],3,00:33,MIN,EDM,EDM,22,MIN,30,3,5,8470610,Giveaway by Zach Parise
+7,takeaway,Sam Gagner,[ 17. -35.],1,18:12,EDM,MIN,EDM,22,MIN,30,1,0,8474040,Takeaway by Sam Gagner
+25,takeaway,Kevin Fiala,[42. 40.],1,14:09,MIN,EDM,EDM,22,MIN,30,1,0,8477942,Takeaway by Kevin Fiala
+51,takeaway,Adam Larsson,[-73.  -2.],1,08:40,EDM,MIN,EDM,22,MIN,30,1,1,8476457,Takeaway by Adam Larsson
+74,takeaway,Jujhar Khaira,[-83.   6.],1,02:12,EDM,MIN,EDM,22,MIN,30,2,1,8476915,Takeaway by Jujhar Khaira
+96,takeaway,Kailer Yamamoto,[-57.  40.],2,19:09,EDM,MIN,EDM,22,MIN,30,2,1,8479977,Takeaway by Kailer Yamamoto
+98,takeaway,Tyler Benson,[ 51. -34.],2,18:38,EDM,MIN,EDM,22,MIN,30,2,1,8479347,Takeaway by Tyler Benson
+101,takeaway,Gaetan Haas,[-27.  13.],2,17:38,EDM,MIN,EDM,22,MIN,30,2,1,8481813,Takeaway by Gaetan Haas
+155,takeaway,Matt Dumba,[-97.  -5.],2,07:05,MIN,EDM,EDM,22,MIN,30,3,3,8476856,Takeaway by Matt Dumba
+168,takeaway,Greg Pateryn,[-96. -20.],2,03:38,MIN,EDM,EDM,22,MIN,30,3,3,8474688,Takeaway by Greg Pateryn
+178,takeaway,Tyler Benson,[31. 35.],2,01:21,EDM,MIN,EDM,22,MIN,30,3,3,8479347,Takeaway by Tyler Benson
+231,takeaway,Darnell Nurse,[-21.  -3.],3,08:53,EDM,MIN,EDM,22,MIN,30,3,4,8477498,Takeaway by Darnell Nurse
+236,takeaway,Zach Parise,[-97.   3.],3,08:07,MIN,EDM,EDM,22,MIN,30,3,4,8470610,Takeaway by Zach Parise
+3,giveaway,Justin Faulk,[-98.  -6.],1,18:00,STL,MIN,MIN,30,STL,19,0,0,8475753,Giveaway by Justin Faulk
+50,giveaway,Vince Dunn,[-95.  17.],1,06:15,STL,MIN,MIN,30,STL,19,0,1,8478407,Giveaway by Vince Dunn
+54,giveaway,Eric Staal,[ 43. -35.],1,05:20,MIN,STL,MIN,30,STL,19,0,1,8470595,Giveaway by Eric Staal
+57,giveaway,Matt Dumba,[97.  0.],1,04:53,MIN,STL,MIN,30,STL,19,0,2,8476856,Giveaway by Matt Dumba
+68,giveaway,Devan Dubnyk,[83.  3.],1,02:07,MIN,STL,MIN,30,STL,19,0,2,8471227,Giveaway by Devan Dubnyk
+98,giveaway,Marco Scandella,[41. 34.],2,13:01,STL,MIN,MIN,30,STL,19,1,2,8474618,Giveaway by Marco Scandella
+137,giveaway,Carl Gunnarsson,[91. 29.],2,02:30,STL,MIN,MIN,30,STL,19,1,3,8474125,Giveaway by Carl Gunnarsson
+15,takeaway,Jonas Brodin,[72. 12.],1,15:36,MIN,STL,MIN,30,STL,19,0,0,8476463,Takeaway by Jonas Brodin
+18,takeaway,Brad Hunt,[52. 31.],1,14:20,MIN,STL,MIN,30,STL,19,0,0,8476779,Takeaway by Brad Hunt
+44,takeaway,Joel Eriksson Ek,[58. 38.],1,08:00,MIN,STL,MIN,30,STL,19,0,1,8478493,Takeaway by Joel Eriksson Ek
+114,takeaway,Eric Staal,[-70.   8.],2,08:57,MIN,STL,MIN,30,STL,19,1,3,8470595,Takeaway by Eric Staal
+135,takeaway,Jared Spurgeon,[ 74. -27.],2,03:02,MIN,STL,MIN,30,STL,19,1,3,8474716,Takeaway by Jared Spurgeon
+143,takeaway,Marcus Foligno,[-40.  32.],2,00:52,MIN,STL,MIN,30,STL,19,1,3,8475220,Takeaway by Marcus Foligno
+152,takeaway,Alex Pietrangelo,[-62. -19.],3,17:35,STL,MIN,MIN,30,STL,19,1,3,8474565,Takeaway by Alex Pietrangelo
+178,takeaway,Jordan Greenway,[-13.  38.],3,09:45,MIN,STL,MIN,30,STL,19,1,4,8478413,Takeaway by Jordan Greenway
+181,takeaway,Jaden Schwartz,[51. 38.],3,08:58,STL,MIN,MIN,30,STL,19,1,4,8475768,Takeaway by Jaden Schwartz
+188,takeaway,Zach Parise,[-99.  10.],3,06:42,MIN,STL,MIN,30,STL,19,1,4,8470610,Takeaway by Zach Parise
+41,giveaway,Mikko Koivu,[54. 41.],1,08:07,MIN,CBJ,MIN,30,CBJ,29,1,0,8469459,Giveaway by Mikko Koivu
+45,giveaway,Nick Foligno,[-17. -39.],1,07:07,CBJ,MIN,MIN,30,CBJ,29,1,0,8473422,Giveaway by Nick Foligno
+57,giveaway,Stefan Matteau,[-5. 20.],1,02:17,CBJ,MIN,MIN,30,CBJ,29,1,1,8476870,Giveaway by Stefan Matteau
+104,giveaway,Alex Stalock,[90.  8.],2,07:54,MIN,CBJ,MIN,30,CBJ,29,2,1,8471774,Giveaway by Alex Stalock
+114,giveaway,Kevin Fiala,[87. 34.],2,06:28,MIN,CBJ,MIN,30,CBJ,29,3,1,8477942,Giveaway by Kevin Fiala
+162,giveaway,Matt Dumba,[83. -3.],3,16:46,MIN,CBJ,MIN,30,CBJ,29,4,2,8476856,Giveaway by Matt Dumba
+209,giveaway,Nick Foligno,[45. 29.],3,00:10,CBJ,MIN,MIN,30,CBJ,29,5,4,8473422,Giveaway by Nick Foligno
+8,takeaway,Mats Zuccarello,[15. 39.],1,18:00,MIN,CBJ,MIN,30,CBJ,29,1,0,8475692,Takeaway by Mats Zuccarello
+34,takeaway,Jared Spurgeon,[-40.  40.],1,10:14,MIN,CBJ,MIN,30,CBJ,29,1,0,8474716,Takeaway by Jared Spurgeon
+58,takeaway,Mats Zuccarello,[-41.  23.],1,02:11,MIN,CBJ,MIN,30,CBJ,29,1,1,8475692,Takeaway by Mats Zuccarello
+91,takeaway,Pierre-Luc Dubois,[ 68. -33.],2,13:02,CBJ,MIN,MIN,30,CBJ,29,2,1,8479400,Takeaway by Pierre-Luc Dubois
+103,takeaway,Marcus Foligno,[ 38. -34.],2,08:22,MIN,CBJ,MIN,30,CBJ,29,2,1,8475220,Takeaway by Marcus Foligno
+118,takeaway,Gustav Nyquist,[ 18. -37.],2,05:23,CBJ,MIN,MIN,30,CBJ,29,3,1,8474679,Takeaway by Gustav Nyquist
+136,takeaway,Ryan Hartman,[ 83. -22.],2,00:25,MIN,CBJ,MIN,30,CBJ,29,3,1,8477451,Takeaway by Ryan Hartman
+148,takeaway,Devin Shore,[-8. 28.],3,18:34,CBJ,MIN,MIN,30,CBJ,29,4,1,8476913,Takeaway by Devin Shore
+1,giveaway,Jimmy Howard,[98.  7.],1,19:47,DET,MIN,DET,17,MIN,30,0,0,8470657,Giveaway by Jimmy Howard
+3,giveaway,Jordan Greenway,[94. 14.],1,19:17,MIN,DET,DET,17,MIN,30,0,0,8478413,Giveaway by Jordan Greenway
+20,giveaway,Darren Helm,[ 70. -31.],1,13:34,DET,MIN,DET,17,MIN,30,0,0,8471794,Giveaway by Darren Helm
+43,giveaway,Joel Eriksson Ek,[-58.  39.],1,07:01,MIN,DET,DET,17,MIN,30,0,3,8478493,Giveaway by Joel Eriksson Ek
+50,giveaway,Filip Hronek,[-35.  37.],1,05:34,DET,MIN,DET,17,MIN,30,0,3,8479425,Giveaway by Filip Hronek
+72,giveaway,Cody Goloubef,[86. 12.],1,00:27,DET,MIN,DET,17,MIN,30,0,3,8474597,Giveaway by Cody Goloubef
+77,giveaway,Darren Helm,[ 82. -38.],2,19:40,DET,MIN,DET,17,MIN,30,0,3,8471794,Giveaway by Darren Helm
+88,giveaway,Darren Helm,[97.  3.],2,16:48,DET,MIN,DET,17,MIN,30,0,3,8471794,Giveaway by Darren Helm
+92,giveaway,Anthony Mantha,[ 82. -30.],2,15:21,DET,MIN,DET,17,MIN,30,0,3,8477511,Giveaway by Anthony Mantha
+129,giveaway,Marcus Foligno,[ 78. -31.],2,06:04,MIN,DET,DET,17,MIN,30,1,5,8475220,Giveaway by Marcus Foligno
+131,giveaway,Dylan Larkin,[16. -3.],2,05:34,DET,MIN,DET,17,MIN,30,1,5,8477946,Giveaway by Dylan Larkin
+135,giveaway,Dylan Larkin,[ 74. -36.],2,05:06,DET,MIN,DET,17,MIN,30,1,5,8477946,Giveaway by Dylan Larkin
+158,giveaway,Joel Eriksson Ek,[-77. -25.],3,19:02,MIN,DET,DET,17,MIN,30,1,6,8478493,Giveaway by Joel Eriksson Ek
+166,giveaway,Frans Nielsen,[-93.  19.],3,17:12,DET,MIN,DET,17,MIN,30,1,6,8470144,Giveaway by Frans Nielsen
+182,giveaway,Alex Stalock,[-98.   1.],3,13:19,MIN,DET,DET,17,MIN,30,1,6,8471774,Giveaway by Alex Stalock
+183,giveaway,Ryan Suter,[-99.  -1.],3,12:24,MIN,DET,DET,17,MIN,30,1,6,8470600,Giveaway by Ryan Suter
+185,giveaway,Alex Biega,[-20.  15.],3,12:16,DET,MIN,DET,17,MIN,30,1,6,8473415,Giveaway by Alex Biega
+194,giveaway,Jonathan Bernier,[93.  8.],3,09:57,DET,MIN,DET,17,MIN,30,1,7,8473541,Giveaway by Jonathan Bernier
+200,giveaway,Zach Parise,[43.  9.],3,08:31,MIN,DET,DET,17,MIN,30,1,7,8470610,Giveaway by Zach Parise
+208,giveaway,Sam Gagner,[-42. -27.],3,05:26,DET,MIN,DET,17,MIN,30,1,7,8474040,Giveaway by Sam Gagner
+19,takeaway,Alex Biega,[ 36. -15.],1,14:03,DET,MIN,DET,17,MIN,30,0,0,8473415,Takeaway by Alex Biega
+23,takeaway,Mats Zuccarello,[ 19. -31.],1,12:30,MIN,DET,DET,17,MIN,30,0,0,8475692,Takeaway by Mats Zuccarello
+57,takeaway,Ryan Donato,[15. 35.],1,04:09,MIN,DET,DET,17,MIN,30,0,3,8477987,Takeaway by Ryan Donato
+64,takeaway,Joel Eriksson Ek,[-65. -11.],1,02:39,MIN,DET,DET,17,MIN,30,0,3,8478493,Takeaway by Joel Eriksson Ek
+174,takeaway,Dennis Cholowski,[-30. -20.],3,14:34,DET,MIN,DET,17,MIN,30,1,6,8479395,Takeaway by Dennis Cholowski
+186,takeaway,Adam Erne,[38. -9.],3,11:28,DET,MIN,DET,17,MIN,30,1,6,8477454,Takeaway by Adam Erne
+207,takeaway,Brad Hunt,[ 12. -23.],3,05:35,MIN,DET,DET,17,MIN,30,1,7,8476779,Takeaway by Brad Hunt
+6,giveaway,Alex Galchenyuk,[-39.  38.],1,18:10,MIN,CBJ,CBJ,29,MIN,30,0,0,8476851,Giveaway by Alex Galchenyuk
+18,giveaway,Alexander Wennberg,[97. 11.],1,15:27,CBJ,MIN,CBJ,29,MIN,30,0,0,8477505,Giveaway by Alexander Wennberg
+34,giveaway,Alex Galchenyuk,[-86. -33.],1,12:21,MIN,CBJ,CBJ,29,MIN,30,0,2,8476851,Giveaway by Alex Galchenyuk
+38,giveaway,Alex Stalock,[97. -7.],1,11:49,MIN,CBJ,CBJ,29,MIN,30,0,2,8471774,Giveaway by Alex Stalock
+40,giveaway,Ryan Hartman,[34. 39.],1,11:16,MIN,CBJ,CBJ,29,MIN,30,0,2,8477451,Giveaway by Ryan Hartman
+68,giveaway,Jordan Greenway,[ 97. -11.],1,07:04,MIN,CBJ,CBJ,29,MIN,30,0,2,8478413,Giveaway by Jordan Greenway
+81,giveaway,Alex Stalock,[98. -7.],1,03:58,MIN,CBJ,CBJ,29,MIN,30,0,2,8471774,Giveaway by Alex Stalock
+91,giveaway,Jonas Brodin,[ -8. -34.],1,00:19,MIN,CBJ,CBJ,29,MIN,30,0,2,8476463,Giveaway by Jonas Brodin
+108,giveaway,Pierre-Luc Dubois,[-35. -37.],2,16:48,CBJ,MIN,CBJ,29,MIN,30,0,2,8479400,Giveaway by Pierre-Luc Dubois
+115,giveaway,Ryan Suter,[-82.  38.],2,14:58,MIN,CBJ,CBJ,29,MIN,30,0,2,8470600,Giveaway by Ryan Suter
+124,giveaway,Vladislav Gavrikov,[-39. -15.],2,11:39,CBJ,MIN,CBJ,29,MIN,30,0,2,8478882,Giveaway by Vladislav Gavrikov
+130,giveaway,Vladislav Gavrikov,[77. -1.],2,10:23,CBJ,MIN,CBJ,29,MIN,30,0,2,8478882,Giveaway by Vladislav Gavrikov
+132,giveaway,Emil Bemstrom,[98.  8.],2,09:52,CBJ,MIN,CBJ,29,MIN,30,0,2,8480205,Giveaway by Emil Bemstrom
+162,giveaway,Kevin Fiala,[37. 39.],2,02:30,MIN,CBJ,CBJ,29,MIN,30,0,4,8477942,Giveaway by Kevin Fiala
+166,giveaway,Alex Galchenyuk,[ 23. -31.],2,00:48,MIN,CBJ,CBJ,29,MIN,30,0,4,8476851,Giveaway by Alex Galchenyuk
+179,giveaway,Zach Werenski,[40. 35.],3,17:19,CBJ,MIN,CBJ,29,MIN,30,0,4,8478460,Giveaway by Zach Werenski
+182,giveaway,Kevin Stenlund,[ 89. -20.],3,15:29,CBJ,MIN,CBJ,29,MIN,30,0,4,8478831,Giveaway by Kevin Stenlund
+186,giveaway,Zach Werenski,[42. 39.],3,14:36,CBJ,MIN,CBJ,29,MIN,30,0,4,8478460,Giveaway by Zach Werenski
+206,giveaway,Vladislav Gavrikov,[33. 37.],3,10:09,CBJ,MIN,CBJ,29,MIN,30,0,4,8478882,Giveaway by Vladislav Gavrikov
+223,giveaway,Eric Staal,[-44. -26.],3,04:42,MIN,CBJ,CBJ,29,MIN,30,0,5,8470595,Giveaway by Eric Staal
+230,giveaway,Ryan Donato,[-42. -38.],3,01:52,MIN,CBJ,CBJ,29,MIN,30,0,5,8477987,Giveaway by Ryan Donato
+48,takeaway,Nick Foligno,[35. 29.],1,10:17,CBJ,MIN,CBJ,29,MIN,30,0,2,8473422,Takeaway by Nick Foligno
+62,takeaway,Zach Parise,[-21.  39.],1,07:41,MIN,CBJ,CBJ,29,MIN,30,0,2,8470610,Takeaway by Zach Parise
+65,takeaway,Nick Foligno,[-95. -13.],1,07:27,CBJ,MIN,CBJ,29,MIN,30,0,2,8473422,Takeaway by Nick Foligno
+101,takeaway,Gerald Mayhew,[11. -1.],2,18:18,MIN,CBJ,CBJ,29,MIN,30,0,2,8479933,Takeaway by Gerald Mayhew
+111,takeaway,David Savard,[-30. -27.],2,16:07,CBJ,MIN,CBJ,29,MIN,30,0,2,8475233,Takeaway by David Savard
+131,takeaway,Emil Bemstrom,[75. -5.],2,10:14,CBJ,MIN,CBJ,29,MIN,30,0,2,8480205,Takeaway by Emil Bemstrom
+150,takeaway,Andrew Peeke,[89. 25.],2,05:44,CBJ,MIN,CBJ,29,MIN,30,0,4,8479369,Takeaway by Andrew Peeke
+154,takeaway,Zach Parise,[-6. 41.],2,04:38,MIN,CBJ,CBJ,29,MIN,30,0,4,8470610,Takeaway by Zach Parise
+157,takeaway,Nick Foligno,[ 53. -36.],2,04:22,CBJ,MIN,CBJ,29,MIN,30,0,4,8473422,Takeaway by Nick Foligno
+209,takeaway,Matt Dumba,[52. 39.],3,09:10,MIN,CBJ,CBJ,29,MIN,30,0,4,8476856,Takeaway by Matt Dumba
+35,giveaway,Nick Jensen,[-96. -20.],1,10:59,WSH,MIN,MIN,30,WSH,15,1,1,8475324,Giveaway by Nick Jensen
+37,giveaway,Nic Dowd,[-60. -18.],1,10:27,WSH,MIN,MIN,30,WSH,15,1,1,8475343,Giveaway by Nic Dowd
+61,giveaway,Dmitry Orlov,[-78.  38.],1,04:35,WSH,MIN,MIN,30,WSH,15,2,3,8475200,Giveaway by Dmitry Orlov
+86,giveaway,Alex Ovechkin,[8. 5.],2,18:41,WSH,MIN,MIN,30,WSH,15,2,3,8471214,Giveaway by Alex Ovechkin
+123,giveaway,Kevin Fiala,[-98.   5.],2,11:05,MIN,WSH,MIN,30,WSH,15,2,3,8477942,Giveaway by Kevin Fiala
+145,giveaway,Ryan Donato,[-81.  35.],2,03:48,MIN,WSH,MIN,30,WSH,15,2,3,8477987,Giveaway by Ryan Donato
+154,giveaway,Alex Stalock,[-87. -11.],2,01:48,MIN,WSH,MIN,30,WSH,15,2,3,8471774,Giveaway by Alex Stalock
+156,giveaway,Michal Kempny,[89. 25.],2,01:34,WSH,MIN,MIN,30,WSH,15,2,3,8479482,Giveaway by Michal Kempny
+165,giveaway,Ryan Suter,[59. 40.],3,19:22,MIN,WSH,MIN,30,WSH,15,2,3,8470600,Giveaway by Ryan Suter
+175,giveaway,John Carlson,[20. 37.],3,17:33,WSH,MIN,MIN,30,WSH,15,2,4,8474590,Giveaway by John Carlson
+186,giveaway,Jared Spurgeon,[39. 15.],3,14:14,MIN,WSH,MIN,30,WSH,15,2,4,8474716,Giveaway by Jared Spurgeon
+190,giveaway,Greg Pateryn,[32. 29.],3,11:36,MIN,WSH,MIN,30,WSH,15,2,4,8474688,Giveaway by Greg Pateryn
+217,giveaway,Jared Spurgeon,[ 7. 17.],3,04:14,MIN,WSH,MIN,30,WSH,15,3,4,8474716,Giveaway by Jared Spurgeon
+14,takeaway,Nic Dowd,[82. 28.],1,17:09,WSH,MIN,MIN,30,WSH,15,0,0,8475343,Takeaway by Nic Dowd
+144,takeaway,John Carlson,[93. -6.],2,04:05,WSH,MIN,MIN,30,WSH,15,2,3,8474590,Takeaway by John Carlson
+148,takeaway,Ryan Donato,[-44. -26.],2,03:15,MIN,WSH,MIN,30,WSH,15,2,3,8477987,Takeaway by Ryan Donato
+178,takeaway,Mats Zuccarello,[-36. -28.],3,16:28,MIN,WSH,MIN,30,WSH,15,2,4,8475692,Takeaway by Mats Zuccarello
+180,takeaway,Brad Hunt,[-20. -35.],3,15:20,MIN,WSH,MIN,30,WSH,15,2,4,8476779,Takeaway by Brad Hunt
+197,takeaway,John Carlson,[-24. -15.],3,10:02,WSH,MIN,MIN,30,WSH,15,2,4,8474590,Takeaway by John Carlson
+218,takeaway,Ryan Hartman,[-15.  36.],3,03:56,MIN,WSH,MIN,30,WSH,15,3,4,8477451,Takeaway by Ryan Hartman
+1,giveaway,Juuse Saros,[-93.   4.],1,19:40,NSH,MIN,MIN,30,NSH,18,0,0,8477424,Giveaway by Juuse Saros
+22,giveaway,Jordan Greenway,[70. 15.],1,15:15,MIN,NSH,MIN,30,NSH,18,1,0,8478413,Giveaway by Jordan Greenway
+27,giveaway,Rocco Grimaldi,[-31. -25.],1,13:53,NSH,MIN,MIN,30,NSH,18,1,0,8476428,Giveaway by Rocco Grimaldi
+45,giveaway,Mattias Ekholm,[-55.  38.],1,10:11,NSH,MIN,MIN,30,NSH,18,1,0,8475218,Giveaway by Mattias Ekholm
+48,giveaway,Filip Forsberg,[53.  4.],1,08:52,NSH,MIN,MIN,30,NSH,18,1,0,8476887,Giveaway by Filip Forsberg
+94,giveaway,Jared Spurgeon,[-34. -25.],2,17:39,MIN,NSH,MIN,30,NSH,18,2,0,8474716,Giveaway by Jared Spurgeon
+123,giveaway,Craig Smith,[-46.  38.],2,11:27,NSH,MIN,MIN,30,NSH,18,2,0,8475225,Giveaway by Craig Smith
+150,giveaway,Alex Stalock,[-95.   8.],2,05:41,MIN,NSH,MIN,30,NSH,18,2,0,8471774,Giveaway by Alex Stalock
+166,giveaway,Jordan Greenway,[-45.  22.],2,01:59,MIN,NSH,MIN,30,NSH,18,2,0,8478413,Giveaway by Jordan Greenway
+5,takeaway,Brad Hunt,[ 97. -17.],1,18:06,MIN,NSH,MIN,30,NSH,18,0,0,8476779,Takeaway by Brad Hunt
+65,takeaway,Ryan Hartman,[-10.  38.],1,03:16,MIN,NSH,MIN,30,NSH,18,2,0,8477451,Takeaway by Ryan Hartman
+85,takeaway,Zach Parise,[-84.  39.],2,19:34,MIN,NSH,MIN,30,NSH,18,2,0,8470610,Takeaway by Zach Parise
+104,takeaway,Kevin Fiala,[-44.  -9.],2,15:08,MIN,NSH,MIN,30,NSH,18,2,0,8477942,Takeaway by Kevin Fiala
+122,takeaway,Mikko Koivu,[-36.  36.],2,11:51,MIN,NSH,MIN,30,NSH,18,2,0,8469459,Takeaway by Mikko Koivu
+159,takeaway,Mikael Granlund,[-81.  -6.],2,04:03,NSH,MIN,MIN,30,NSH,18,2,0,8475798,Takeaway by Mikael Granlund
+260,takeaway,Ryan Ellis,[41. 11.],3,01:17,NSH,MIN,MIN,30,NSH,18,3,1,8475176,Takeaway by Ryan Ellis
+12,giveaway,Alex Stalock,[96. 10.],1,16:49,MIN,SJS,SJS,28,MIN,30,0,0,8471774,Giveaway by Alex Stalock
+69,giveaway,Alex Galchenyuk,[-86. -23.],1,04:50,MIN,SJS,SJS,28,MIN,30,1,1,8476851,Giveaway by Alex Galchenyuk
+74,giveaway,Luke Kunin,[-71. -11.],1,03:14,MIN,SJS,SJS,28,MIN,30,1,1,8479316,Giveaway by Luke Kunin
+88,giveaway,Logan Couture,[-50.  26.],2,19:05,SJS,MIN,SJS,28,MIN,30,1,1,8474053,Giveaway by Logan Couture
+92,giveaway,Kevin Fiala,[ 81. -17.],2,18:26,MIN,SJS,SJS,28,MIN,30,1,1,8477942,Giveaway by Kevin Fiala
+97,giveaway,Joe Thornton,[-90. -28.],2,17:28,SJS,MIN,SJS,28,MIN,30,1,1,8466138,Giveaway by Joe Thornton
+126,giveaway,Logan Couture,[-81.  38.],2,10:05,SJS,MIN,SJS,28,MIN,30,1,1,8474053,Giveaway by Logan Couture
+177,giveaway,Brandon Davidson,[-11.  35.],3,18:00,SJS,MIN,SJS,28,MIN,30,1,3,8475869,Giveaway by Brandon Davidson
+193,giveaway,Evander Kane,[ 54. -42.],3,15:19,SJS,MIN,SJS,28,MIN,30,1,3,8475169,Giveaway by Evander Kane
+225,giveaway,Tim Heed,[-16. -21.],3,05:55,SJS,MIN,SJS,28,MIN,30,2,3,8475841,Giveaway by Tim Heed
+231,giveaway,Marcus Foligno,[ 52. -40.],3,04:10,MIN,SJS,SJS,28,MIN,30,2,3,8475220,Giveaway by Marcus Foligno
+2,takeaway,Melker Karlsson,[  5. -40.],1,19:30,SJS,MIN,SJS,28,MIN,30,0,0,8477922,Takeaway by Melker Karlsson
+29,takeaway,Jordan Greenway,[58. 27.],1,14:29,MIN,SJS,SJS,28,MIN,30,0,0,8478413,Takeaway by Jordan Greenway
+37,takeaway,Mats Zuccarello,[93. -5.],1,12:17,MIN,SJS,SJS,28,MIN,30,0,0,8475692,Takeaway by Mats Zuccarello
+59,takeaway,Jordan Greenway,[22.  9.],1,07:18,MIN,SJS,SJS,28,MIN,30,0,1,8478413,Takeaway by Jordan Greenway
+82,takeaway,Mario Ferraro,[-57.  39.],1,00:43,SJS,MIN,SJS,28,MIN,30,1,1,8479983,Takeaway by Mario Ferraro
+98,takeaway,Gerald Mayhew,[-53.   8.],2,17:17,MIN,SJS,SJS,28,MIN,30,1,1,8479933,Takeaway by Gerald Mayhew
+128,takeaway,Jordan Greenway,[-56.  17.],2,09:49,MIN,SJS,SJS,28,MIN,30,1,1,8478413,Takeaway by Jordan Greenway
+130,takeaway,Jordan Greenway,[-41.  40.],2,09:26,MIN,SJS,SJS,28,MIN,30,1,1,8478413,Takeaway by Jordan Greenway
+172,takeaway,Kevin Fiala,[  3. -34.],3,19:08,MIN,SJS,SJS,28,MIN,30,1,3,8477942,Takeaway by Kevin Fiala
+182,takeaway,Melker Karlsson,[7. 8.],3,16:52,SJS,MIN,SJS,28,MIN,30,1,3,8477922,Takeaway by Melker Karlsson
+184,takeaway,Ryan Donato,[ 12. -35.],3,16:26,MIN,SJS,SJS,28,MIN,30,1,3,8477987,Takeaway by Ryan Donato
+200,takeaway,Evander Kane,[66. 38.],3,12:18,SJS,MIN,SJS,28,MIN,30,1,3,8475169,Takeaway by Evander Kane
+217,takeaway,Jared Spurgeon,[-4. 33.],3,08:43,MIN,SJS,SJS,28,MIN,30,2,3,8474716,Takeaway by Jared Spurgeon
+221,takeaway,Marcus Sorensen,[29.  3.],3,06:57,SJS,MIN,SJS,28,MIN,30,2,3,8475834,Takeaway by Marcus Sorensen
+245,takeaway,Brent Burns,[14. 25.],3,00:44,SJS,MIN,SJS,28,MIN,30,2,3,8470613,Takeaway by Brent Burns
+7,giveaway,Austin Wagner,[59. 40.],1,17:50,LAK,MIN,LAK,26,MIN,30,0,0,8478455,Giveaway by Austin Wagner
+34,giveaway,Ben Hutton,[ 91. -19.],1,12:14,LAK,MIN,LAK,26,MIN,30,1,0,8477018,Giveaway by Ben Hutton
+35,giveaway,Drew Doughty,[78. 39.],1,12:07,LAK,MIN,LAK,26,MIN,30,1,0,8474563,Giveaway by Drew Doughty
+104,giveaway,Ryan Suter,[ 87. -28.],2,15:30,MIN,LAK,LAK,26,MIN,30,1,1,8470600,Giveaway by Ryan Suter
+105,giveaway,Martin Frk,[60. 39.],2,15:26,LAK,MIN,LAK,26,MIN,30,1,1,8476924,Giveaway by Martin Frk
+114,giveaway,Alex Galchenyuk,[-50. -33.],2,12:30,MIN,LAK,LAK,26,MIN,30,1,1,8476851,Giveaway by Alex Galchenyuk
+126,giveaway,Greg Pateryn,[80.  2.],2,09:49,MIN,LAK,LAK,26,MIN,30,3,1,8474688,Giveaway by Greg Pateryn
+168,giveaway,Ryan Suter,[-82.  -2.],3,17:40,MIN,LAK,LAK,26,MIN,30,3,1,8470600,Giveaway by Ryan Suter
+194,giveaway,Ryan Suter,[-98.   4.],3,09:37,MIN,LAK,LAK,26,MIN,30,4,2,8470600,Giveaway by Ryan Suter
+198,giveaway,Dustin Brown,[-56.  39.],3,07:54,LAK,MIN,LAK,26,MIN,30,4,2,8470606,Giveaway by Dustin Brown
+214,giveaway,Trevor Lewis,[ 96. -10.],3,03:33,LAK,MIN,LAK,26,MIN,30,4,3,8473453,Giveaway by Trevor Lewis
+29,takeaway,Adrian Kempe,[11. 37.],1,12:56,LAK,MIN,LAK,26,MIN,30,1,0,8477960,Takeaway by Adrian Kempe
+74,takeaway,Trevor Moore,[-11. -31.],1,01:53,LAK,MIN,LAK,26,MIN,30,1,0,8479675,Takeaway by Trevor Moore
+103,takeaway,Michael Amadio,[42. 13.],2,15:43,LAK,MIN,LAK,26,MIN,30,1,1,8478020,Takeaway by Michael Amadio
+118,takeaway,Trevor Moore,[-5. 34.],2,11:35,LAK,MIN,LAK,26,MIN,30,2,1,8479675,Takeaway by Trevor Moore
+139,takeaway,Dustin Brown,[-55. -23.],2,07:11,LAK,MIN,LAK,26,MIN,30,3,1,8470606,Takeaway by Dustin Brown
+142,takeaway,Jordan Greenway,[-77.  34.],2,05:23,MIN,LAK,LAK,26,MIN,30,3,1,8478413,Takeaway by Jordan Greenway
+192,takeaway,Alex Iafallo,[14.  2.],3,09:53,LAK,MIN,LAK,26,MIN,30,4,2,8480113,Takeaway by Alex Iafallo
+1,giveaway,Ryan Suter,[ 94. -21.],1,19:46,MIN,ANA,ANA,24,MIN,30,0,0,8470600,Giveaway by Ryan Suter
+2,giveaway,Christian Djoos,[-90.  14.],1,19:31,ANA,MIN,ANA,24,MIN,30,0,0,8477043,Giveaway by Christian Djoos
+10,giveaway,Matt Irwin,[-96.  -5.],1,17:06,ANA,MIN,ANA,24,MIN,30,0,0,8475625,Giveaway by Matt Irwin
+19,giveaway,Jordan Greenway,[-93. -26.],1,15:22,MIN,ANA,ANA,24,MIN,30,0,0,8478413,Giveaway by Jordan Greenway
+28,giveaway,Zach Parise,[-89. -31.],1,13:29,MIN,ANA,ANA,24,MIN,30,0,0,8470610,Giveaway by Zach Parise
+34,giveaway,Marcus Foligno,[54. 33.],1,12:26,MIN,ANA,ANA,24,MIN,30,0,0,8475220,Giveaway by Marcus Foligno
+55,giveaway,Jani Hakanpaa,[-87. -29.],1,06:50,ANA,MIN,ANA,24,MIN,30,1,1,8475825,Giveaway by Jani Hakanpaa
+64,giveaway,Sonny Milano,[50.  1.],1,04:54,ANA,MIN,ANA,24,MIN,30,1,2,8477947,Giveaway by Sonny Milano
+84,giveaway,Marcus Foligno,[-59.  35.],2,19:12,MIN,ANA,ANA,24,MIN,30,1,2,8475220,Giveaway by Marcus Foligno
+86,giveaway,Adam Henrique,[-63. -36.],2,18:33,ANA,MIN,ANA,24,MIN,30,1,2,8474641,Giveaway by Adam Henrique
+88,giveaway,Jared Spurgeon,[-60. -32.],2,18:25,MIN,ANA,ANA,24,MIN,30,1,2,8474716,Giveaway by Jared Spurgeon
+94,giveaway,Matt Dumba,[-71.  -1.],2,16:22,MIN,ANA,ANA,24,MIN,30,1,2,8476856,Giveaway by Matt Dumba
+130,giveaway,Rickard Rakell,[ 53. -40.],2,07:54,ANA,MIN,ANA,24,MIN,30,2,2,8476483,Giveaway by Rickard Rakell
+209,giveaway,David Backes,[10. 34.],3,09:46,ANA,MIN,ANA,24,MIN,30,3,3,8470655,Giveaway by David Backes
+212,giveaway,Alex Galchenyuk,[-72.  36.],3,08:46,MIN,ANA,ANA,24,MIN,30,3,3,8476851,Giveaway by Alex Galchenyuk
+213,giveaway,Luke Kunin,[-2. 27.],3,08:11,MIN,ANA,ANA,24,MIN,30,3,3,8479316,Giveaway by Luke Kunin
+225,giveaway,Matt Dumba,[96. 21.],3,05:26,MIN,ANA,ANA,24,MIN,30,3,4,8476856,Giveaway by Matt Dumba
+230,giveaway,Ryan Suter,[ 86. -33.],3,04:31,MIN,ANA,ANA,24,MIN,30,3,4,8470600,Giveaway by Ryan Suter
+236,giveaway,Greg Pateryn,[89. 31.],3,02:13,MIN,ANA,ANA,24,MIN,30,3,4,8474688,Giveaway by Greg Pateryn
+252,giveaway,Matt Dumba,[ -9. -20.],4,01:33,MIN,ANA,ANA,24,MIN,30,4,4,8476856,Giveaway by Matt Dumba
+20,takeaway,Jordan Greenway,[-18.  -8.],1,15:07,MIN,ANA,ANA,24,MIN,30,0,0,8478413,Takeaway by Jordan Greenway
+23,takeaway,Adam Henrique,[-37. -38.],1,14:23,ANA,MIN,ANA,24,MIN,30,0,0,8474641,Takeaway by Adam Henrique
+38,takeaway,Carter Rowney,[-12. -17.],1,10:30,ANA,MIN,ANA,24,MIN,30,0,0,8477240,Takeaway by Carter Rowney
+100,takeaway,Kiefer Sherwood,[37. 38.],2,14:42,ANA,MIN,ANA,24,MIN,30,1,2,8480748,Takeaway by Kiefer Sherwood
+112,takeaway,Ryan Getzlaf,[ 5. -6.],2,11:34,ANA,MIN,ANA,24,MIN,30,1,2,8470612,Takeaway by Ryan Getzlaf
+138,takeaway,Victor Rask,[78. 39.],2,06:06,MIN,ANA,ANA,24,MIN,30,2,2,8476437,Takeaway by Victor Rask
+142,takeaway,Rickard Rakell,[-16.  34.],2,05:08,ANA,MIN,ANA,24,MIN,30,2,2,8476483,Takeaway by Rickard Rakell
+149,takeaway,Jonas Brodin,[-85.  35.],2,03:49,MIN,ANA,ANA,24,MIN,30,3,2,8476463,Takeaway by Jonas Brodin
+155,takeaway,Kiefer Sherwood,[44. -2.],2,00:49,ANA,MIN,ANA,24,MIN,30,3,2,8480748,Takeaway by Kiefer Sherwood
+170,takeaway,Victor Rask,[-3. 18.],3,18:13,MIN,ANA,ANA,24,MIN,30,3,2,8476437,Takeaway by Victor Rask
+234,takeaway,Sam Steel,[ 19. -39.],3,02:46,ANA,MIN,ANA,24,MIN,30,3,4,8479351,Takeaway by Sam Steel
+235,takeaway,Ryan Hartman,[ 10. -25.],3,02:36,MIN,ANA,ANA,24,MIN,30,3,4,8477451,Takeaway by Ryan Hartman
+20,giveaway,Craig Smith,[52. 22.],1,14:52,NSH,MIN,NSH,18,MIN,30,0,0,8475225,Giveaway by Craig Smith
+26,giveaway,Filip Forsberg,[47.  1.],1,13:44,NSH,MIN,NSH,18,MIN,30,0,0,8476887,Giveaway by Filip Forsberg
+38,giveaway,Austin Watson,[-28.  -9.],1,11:51,NSH,MIN,NSH,18,MIN,30,0,0,8475766,Giveaway by Austin Watson
+45,giveaway,Matt Dumba,[-38. -13.],1,10:19,MIN,NSH,NSH,18,MIN,30,0,0,8476856,Giveaway by Matt Dumba
+53,giveaway,Roman Josi,[ 20. -10.],1,07:18,NSH,MIN,NSH,18,MIN,30,0,0,8474600,Giveaway by Roman Josi
+61,giveaway,Matt Dumba,[ 70. -38.],1,05:22,MIN,NSH,NSH,18,MIN,30,0,0,8476856,Giveaway by Matt Dumba
+69,giveaway,Nick Seeler,[ 36. -25.],1,04:25,MIN,NSH,NSH,18,MIN,30,0,0,8476372,Giveaway by Nick Seeler
+84,giveaway,Ryan Hartman,[-20.  -8.],1,01:31,MIN,NSH,NSH,18,MIN,30,0,0,8477451,Giveaway by Ryan Hartman
+106,giveaway,Devan Dubnyk,[-92.  36.],2,16:55,MIN,NSH,NSH,18,MIN,30,0,0,8471227,Giveaway by Devan Dubnyk
+115,giveaway,Yannick Weber,[ 41. -37.],2,13:54,NSH,MIN,NSH,18,MIN,30,1,0,8474134,Giveaway by Yannick Weber
+148,giveaway,Jared Spurgeon,[58. 37.],2,04:17,MIN,NSH,NSH,18,MIN,30,1,0,8474716,Giveaway by Jared Spurgeon
+181,giveaway,Craig Smith,[-31. -36.],3,16:40,NSH,MIN,NSH,18,MIN,30,3,2,8475225,Giveaway by Craig Smith
+183,giveaway,Ryan Ellis,[-34. -38.],3,16:32,NSH,MIN,NSH,18,MIN,30,3,2,8475176,Giveaway by Ryan Ellis
+187,giveaway,Kyle Turris,[-50. -38.],3,14:53,NSH,MIN,NSH,18,MIN,30,3,2,8474068,Giveaway by Kyle Turris
+190,giveaway,Filip Forsberg,[20. 37.],3,14:28,NSH,MIN,NSH,18,MIN,30,3,2,8476887,Giveaway by Filip Forsberg
+193,giveaway,Pekka Rinne,[-95.  24.],3,14:01,NSH,MIN,NSH,18,MIN,30,3,2,8471469,Giveaway by Pekka Rinne
+204,giveaway,Brad Hunt,[ 6. 35.],3,12:17,MIN,NSH,NSH,18,MIN,30,4,2,8476779,Giveaway by Brad Hunt
+207,giveaway,Roman Josi,[ 44. -38.],3,11:36,NSH,MIN,NSH,18,MIN,30,4,2,8474600,Giveaway by Roman Josi
+229,giveaway,Ryan Ellis,[-75. -37.],3,04:30,NSH,MIN,NSH,18,MIN,30,4,2,8475176,Giveaway by Ryan Ellis
+3,takeaway,Dante Fabbro,[-70.  -1.],1,18:33,NSH,MIN,NSH,18,MIN,30,0,0,8479371,Takeaway by Dante Fabbro
+46,takeaway,Ryan Johansen,[-47.  20.],1,09:58,NSH,MIN,NSH,18,MIN,30,0,0,8475793,Takeaway by Ryan Johansen
+55,takeaway,Mats Zuccarello,[30. 12.],1,06:34,MIN,NSH,NSH,18,MIN,30,0,0,8475692,Takeaway by Mats Zuccarello
+74,takeaway,Joel Eriksson Ek,[ 81. -36.],1,03:36,MIN,NSH,NSH,18,MIN,30,0,0,8478493,Takeaway by Joel Eriksson Ek
+80,takeaway,Jason Zucker,[-60.  36.],1,02:09,MIN,NSH,NSH,18,MIN,30,0,0,8475722,Takeaway by Jason Zucker
+91,takeaway,Jordan Greenway,[ 95. -13.],1,00:21,MIN,NSH,NSH,18,MIN,30,0,0,8478413,Takeaway by Jordan Greenway
+130,takeaway,Ryan Johansen,[ 18. -32.],2,10:15,NSH,MIN,NSH,18,MIN,30,1,0,8475793,Takeaway by Ryan Johansen
+141,takeaway,Mikko Koivu,[-50.  37.],2,06:33,MIN,NSH,NSH,18,MIN,30,1,0,8469459,Takeaway by Mikko Koivu
+143,takeaway,Jared Spurgeon,[-95. -23.],2,04:53,MIN,NSH,NSH,18,MIN,30,1,0,8474716,Takeaway by Jared Spurgeon
+156,takeaway,Mats Zuccarello,[ 79. -33.],2,01:58,MIN,NSH,NSH,18,MIN,30,1,2,8475692,Takeaway by Mats Zuccarello
+171,takeaway,Dan Hamhuis,[-97.  -4.],3,18:32,NSH,MIN,NSH,18,MIN,30,2,2,8469465,Takeaway by Dan Hamhuis
+172,takeaway,Nick Bonino,[ -8. -31.],3,18:24,NSH,MIN,NSH,18,MIN,30,2,2,8474009,Takeaway by Nick Bonino
+180,takeaway,Nick Seeler,[ 73. -36.],3,17:01,MIN,NSH,NSH,18,MIN,30,3,2,8476372,Takeaway by Nick Seeler
+195,takeaway,Rocco Grimaldi,[37. -3.],3,13:39,NSH,MIN,NSH,18,MIN,30,3,2,8476428,Takeaway by Rocco Grimaldi
+216,takeaway,Matt Duchene,[76. 37.],3,08:08,NSH,MIN,NSH,18,MIN,30,4,2,8475168,Takeaway by Matt Duchene
+219,takeaway,Luke Kunin,[ 51. -38.],3,07:17,MIN,NSH,NSH,18,MIN,30,4,2,8479316,Takeaway by Luke Kunin
+222,takeaway,Kyle Turris,[58. 28.],3,06:09,NSH,MIN,NSH,18,MIN,30,4,2,8474068,Takeaway by Kyle Turris
+234,takeaway,Viktor Arvidsson,[ 6. 37.],3,03:06,NSH,MIN,NSH,18,MIN,30,4,2,8478042,Takeaway by Viktor Arvidsson
+237,takeaway,Filip Forsberg,[33. 13.],3,01:36,NSH,MIN,NSH,18,MIN,30,4,2,8476887,Takeaway by Filip Forsberg
+4,giveaway,Jordan Greenway,[-71. -37.],1,18:49,MIN,COL,COL,21,MIN,30,0,0,8478413,Giveaway by Jordan Greenway
+8,giveaway,Eric Staal,[58. 34.],1,18:28,MIN,COL,COL,21,MIN,30,0,0,8470595,Giveaway by Eric Staal
+43,giveaway,Nazem Kadri,[-67. -36.],1,13:04,COL,MIN,COL,21,MIN,30,2,0,8475172,Giveaway by Nazem Kadri
+61,giveaway,Ryan Donato,[94. 16.],1,09:27,MIN,COL,COL,21,MIN,30,2,1,8477987,Giveaway by Ryan Donato
+74,giveaway,Eric Staal,[ 94. -11.],1,06:26,MIN,COL,COL,21,MIN,30,2,1,8470595,Giveaway by Eric Staal
+104,giveaway,Nikita Zadorov,[ 93. -27.],1,00:17,COL,MIN,COL,21,MIN,30,2,1,8477507,Giveaway by Nikita Zadorov
+123,giveaway,Nathan MacKinnon,[94. 37.],2,14:14,COL,MIN,COL,21,MIN,30,2,1,8477492,Giveaway by Nathan MacKinnon
+207,giveaway,Devan Dubnyk,[-96.   4.],3,13:13,MIN,COL,COL,21,MIN,30,3,2,8471227,Giveaway by Devan Dubnyk
+252,giveaway,Nikita Zadorov,[96.  8.],3,01:12,COL,MIN,COL,21,MIN,30,3,2,8477507,Giveaway by Nikita Zadorov
+13,takeaway,Mikko Koivu,[-78. -38.],1,17:41,MIN,COL,COL,21,MIN,30,0,0,8469459,Takeaway by Mikko Koivu
+17,takeaway,Nikita Zadorov,[ 95. -17.],1,16:55,COL,MIN,COL,21,MIN,30,0,0,8477507,Takeaway by Nikita Zadorov
+19,takeaway,Ryan Hartman,[  7. -33.],1,16:39,MIN,COL,COL,21,MIN,30,0,0,8477451,Takeaway by Ryan Hartman
+23,takeaway,Ryan Donato,[-44.  36.],1,16:14,MIN,COL,COL,21,MIN,30,0,0,8477987,Takeaway by Ryan Donato
+36,takeaway,Conor Timmins,[-64.  35.],1,14:09,COL,MIN,COL,21,MIN,30,1,0,8479982,Takeaway by Conor Timmins
+42,takeaway,Ryan Graves,[ 92. -15.],1,13:16,COL,MIN,COL,21,MIN,30,2,0,8477435,Takeaway by Ryan Graves
+57,takeaway,Erik Johnson,[79. 37.],1,09:50,COL,MIN,COL,21,MIN,30,2,0,8473446,Takeaway by Erik Johnson
+68,takeaway,Cale Makar,[95. -1.],1,08:27,COL,MIN,COL,21,MIN,30,2,1,8480069,Takeaway by Cale Makar
+73,takeaway,Jason Zucker,[ 18. -30.],1,06:29,MIN,COL,COL,21,MIN,30,2,1,8475722,Takeaway by Jason Zucker
+107,takeaway,Pierre-Edouard Bellemare,[-37.  -7.],2,19:29,COL,MIN,COL,21,MIN,30,2,1,8477930,Takeaway by Pierre-Edouard Bellemare
+109,takeaway,Jason Zucker,[ 72. -13.],2,19:03,MIN,COL,COL,21,MIN,30,2,1,8475722,Takeaway by Jason Zucker
+172,takeaway,Mikko Rantanen,[ 86. -34.],2,04:21,COL,MIN,COL,21,MIN,30,2,2,8478420,Takeaway by Mikko Rantanen
+173,takeaway,Nathan MacKinnon,[41. 25.],2,04:06,COL,MIN,COL,21,MIN,30,2,2,8477492,Takeaway by Nathan MacKinnon
+186,takeaway,Joonas Donskoi,[-22. -27.],3,18:51,COL,MIN,COL,21,MIN,30,3,2,8475820,Takeaway by Joonas Donskoi
+209,takeaway,Cale Makar,[-3.  2.],3,12:22,COL,MIN,COL,21,MIN,30,3,2,8480069,Takeaway by Cale Makar
+210,takeaway,Mikko Koivu,[-60.   4.],3,12:10,MIN,COL,COL,21,MIN,30,3,2,8469459,Takeaway by Mikko Koivu
+231,takeaway,Ryan Hartman,[-27.   0.],3,06:17,MIN,COL,COL,21,MIN,30,3,2,8477451,Takeaway by Ryan Hartman
+17,giveaway,Jordan Greenway,[-40.   7.],1,16:08,MIN,WPG,WPG,52,MIN,30,0,0,8478413,Giveaway by Jordan Greenway
+50,giveaway,Josh Morrissey,[62. 40.],1,09:43,WPG,MIN,WPG,52,MIN,30,0,0,8477504,Giveaway by Josh Morrissey
+55,giveaway,Patrik Laine,[ 41. -38.],1,09:27,WPG,MIN,WPG,52,MIN,30,0,0,8479339,Giveaway by Patrik Laine
+64,giveaway,Jack Roslovic,[31. 32.],1,07:20,WPG,MIN,WPG,52,MIN,30,0,0,8478458,Giveaway by Jack Roslovic
+72,giveaway,Devan Dubnyk,[-97. -20.],1,06:15,MIN,WPG,WPG,52,MIN,30,0,1,8471227,Giveaway by Devan Dubnyk
+86,giveaway,Jordan Greenway,[-34.  36.],1,02:09,MIN,WPG,WPG,52,MIN,30,0,1,8478413,Giveaway by Jordan Greenway
+92,giveaway,Neal Pionk,[34. 36.],1,01:08,WPG,MIN,WPG,52,MIN,30,0,1,8480145,Giveaway by Neal Pionk
+125,giveaway,Jack Roslovic,[-37. -37.],2,12:48,WPG,MIN,WPG,52,MIN,30,1,1,8478458,Giveaway by Jack Roslovic
+128,giveaway,Ville Heinola,[-38.  37.],2,12:30,WPG,MIN,WPG,52,MIN,30,1,1,8481572,Giveaway by Ville Heinola
+146,giveaway,Tucker Poolman,[-33. -38.],2,08:41,WPG,MIN,WPG,52,MIN,30,2,1,8477359,Giveaway by Tucker Poolman
+150,giveaway,Jonas Brodin,[ 37. -36.],2,07:42,MIN,WPG,WPG,52,MIN,30,2,1,8476463,Giveaway by Jonas Brodin
+200,giveaway,Jack Roslovic,[ 31. -37.],3,17:05,WPG,MIN,WPG,52,MIN,30,2,1,8478458,Giveaway by Jack Roslovic
+206,giveaway,Ville Heinola,[34. 33.],3,15:26,WPG,MIN,WPG,52,MIN,30,2,2,8481572,Giveaway by Ville Heinola
+210,giveaway,Dmitry Kulikov,[ 77. -39.],3,14:21,WPG,MIN,WPG,52,MIN,30,2,2,8475179,Giveaway by Dmitry Kulikov
+231,giveaway,Jonas Brodin,[-40.  40.],3,09:53,MIN,WPG,WPG,52,MIN,30,4,2,8476463,Giveaway by Jonas Brodin
+243,giveaway,Ville Heinola,[ 32. -29.],3,07:34,WPG,MIN,WPG,52,MIN,30,4,2,8481572,Giveaway by Ville Heinola
+251,giveaway,Andrew Copp,[ 37. -37.],3,05:33,WPG,MIN,WPG,52,MIN,30,4,2,8477429,Giveaway by Andrew Copp
+256,giveaway,Brad Hunt,[-56.  38.],3,03:58,MIN,WPG,WPG,52,MIN,30,4,2,8476779,Giveaway by Brad Hunt
+259,giveaway,Gabriel Bourque,[ 34. -37.],3,03:16,WPG,MIN,WPG,52,MIN,30,4,2,8475268,Giveaway by Gabriel Bourque
+260,giveaway,Anthony Bitetto,[ 31. -36.],3,02:58,WPG,MIN,WPG,52,MIN,30,4,2,8475868,Giveaway by Anthony Bitetto
+28,takeaway,Patrik Laine,[-36.  30.],1,13:34,WPG,MIN,WPG,52,MIN,30,0,0,8479339,Takeaway by Patrik Laine
+37,takeaway,Jordan Greenway,[-73.  39.],1,11:47,MIN,WPG,WPG,52,MIN,30,0,0,8478413,Takeaway by Jordan Greenway
+62,takeaway,Andrew Copp,[-51.  39.],1,07:50,WPG,MIN,WPG,52,MIN,30,0,0,8477429,Takeaway by Andrew Copp
+66,takeaway,Nikolaj Ehlers,[ 22. -39.],1,07:04,WPG,MIN,WPG,52,MIN,30,0,0,8477940,Takeaway by Nikolaj Ehlers
+67,takeaway,Ryan Hartman,[67.  5.],1,06:53,MIN,WPG,WPG,52,MIN,30,0,0,8477451,Takeaway by Ryan Hartman
+97,takeaway,Andrew Copp,[ 43. -38.],1,00:35,WPG,MIN,WPG,52,MIN,30,0,1,8477429,Takeaway by Andrew Copp
+119,takeaway,Ryan Donato,[83. 22.],2,14:27,MIN,WPG,WPG,52,MIN,30,1,1,8477987,Takeaway by Ryan Donato
+126,takeaway,Mikko Koivu,[-36.  35.],2,12:40,MIN,WPG,WPG,52,MIN,30,1,1,8469459,Takeaway by Mikko Koivu
+141,takeaway,Adam Lowry,[-24.  36.],2,10:02,WPG,MIN,WPG,52,MIN,30,2,1,8476392,Takeaway by Adam Lowry
+151,takeaway,Jonas Brodin,[ 76. -21.],2,07:34,MIN,WPG,WPG,52,MIN,30,2,1,8476463,Takeaway by Jonas Brodin
+176,takeaway,Mikko Koivu,[ 31. -32.],2,02:07,MIN,WPG,WPG,52,MIN,30,2,1,8469459,Takeaway by Mikko Koivu
+214,takeaway,Kyle Connor,[11.  4.],3,12:47,WPG,MIN,WPG,52,MIN,30,2,2,8478398,Takeaway by Kyle Connor
+220,takeaway,Ville Heinola,[ 31. -28.],3,11:31,WPG,MIN,WPG,52,MIN,30,2,2,8481572,Takeaway by Ville Heinola
+263,takeaway,Patrik Laine,[ 33. -33.],3,02:21,WPG,MIN,WPG,52,MIN,30,4,2,8479339,Takeaway by Patrik Laine
+269,takeaway,Jordan Greenway,[-31.  31.],3,01:02,MIN,WPG,WPG,52,MIN,30,5,2,8478413,Takeaway by Jordan Greenway
+16,giveaway,Luke Kunin,[70. 36.],1,16:31,MIN,PIT,MIN,30,PIT,5,0,0,8479316,Giveaway by Luke Kunin
+36,giveaway,Jake Guentzel,[ 94. -15.],1,11:59,PIT,MIN,MIN,30,PIT,5,0,0,8477404,Giveaway by Jake Guentzel
+37,giveaway,Jared McCann,[-65.   1.],1,11:45,PIT,MIN,MIN,30,PIT,5,0,0,8477955,Giveaway by Jared McCann
+59,giveaway,Eric Staal,[-95.  18.],1,04:31,MIN,PIT,MIN,30,PIT,5,0,1,8470595,Giveaway by Eric Staal
+122,giveaway,Kris Letang,[74. 38.],2,10:05,PIT,MIN,MIN,30,PIT,5,1,2,8471724,Giveaway by Kris Letang
+201,giveaway,Jared Spurgeon,[ 89. -38.],3,09:15,MIN,PIT,MIN,30,PIT,5,2,5,8474716,Giveaway by Jared Spurgeon
+6,takeaway,Kevin Fiala,[ 4. 36.],1,18:12,MIN,PIT,MIN,30,PIT,5,0,0,8477942,Takeaway by Kevin Fiala
+8,takeaway,Marcus Foligno,[ 6. 36.],1,17:46,MIN,PIT,MIN,30,PIT,5,0,0,8475220,Takeaway by Marcus Foligno
+12,takeaway,Ryan Suter,[ 12. -37.],1,17:05,MIN,PIT,MIN,30,PIT,5,0,0,8470600,Takeaway by Ryan Suter
+24,takeaway,Brandon Tanev,[-59. -38.],1,14:10,PIT,MIN,MIN,30,PIT,5,0,0,8479293,Takeaway by Brandon Tanev
+63,takeaway,Mikko Koivu,[-66.  38.],1,04:02,MIN,PIT,MIN,30,PIT,5,0,1,8469459,Takeaway by Mikko Koivu
+71,takeaway,Marcus Foligno,[ 2. 35.],1,02:22,MIN,PIT,MIN,30,PIT,5,0,1,8475220,Takeaway by Marcus Foligno
+78,takeaway,Brian Dumoulin,[-96. -14.],1,00:47,PIT,MIN,MIN,30,PIT,5,0,1,8475208,Takeaway by Brian Dumoulin
+86,takeaway,Jason Zucker,[ 14. -33.],2,18:39,MIN,PIT,MIN,30,PIT,5,0,1,8475722,Takeaway by Jason Zucker
+167,takeaway,Ryan Hartman,[-37. -15.],3,19:34,MIN,PIT,MIN,30,PIT,5,2,5,8477451,Takeaway by Ryan Hartman
+184,takeaway,Marcus Foligno,[ 40. -19.],3,13:26,MIN,PIT,MIN,30,PIT,5,2,5,8475220,Takeaway by Marcus Foligno
+187,takeaway,Zach Parise,[ 44. -26.],3,12:36,MIN,PIT,MIN,30,PIT,5,2,5,8470610,Takeaway by Zach Parise
+11,giveaway,Mark Borowiecki,[-93.  -8.],1,17:26,OTT,MIN,OTT,9,MIN,30,0,0,8474697,Giveaway by Mark Borowiecki
+14,giveaway,Brad Hunt,[93. 31.],1,16:51,MIN,OTT,OTT,9,MIN,30,0,0,8476779,Giveaway by Brad Hunt
+18,giveaway,Nikita Zaitsev,[-93. -13.],1,16:06,OTT,MIN,OTT,9,MIN,30,0,0,8479458,Giveaway by Nikita Zaitsev
+64,giveaway,Mark Borowiecki,[-94.   2.],1,08:40,OTT,MIN,OTT,9,MIN,30,0,0,8474697,Giveaway by Mark Borowiecki
+81,giveaway,Ron Hainsey,[-39.  37.],1,06:14,OTT,MIN,OTT,9,MIN,30,0,0,8468493,Giveaway by Ron Hainsey
+86,giveaway,Ryan Suter,[ 51. -37.],1,04:36,MIN,OTT,OTT,9,MIN,30,0,0,8470600,Giveaway by Ryan Suter
+90,giveaway,Craig Anderson,[-92.  -4.],1,03:05,OTT,MIN,OTT,9,MIN,30,0,0,8467950,Giveaway by Craig Anderson
+93,giveaway,Tyler Ennis,[-58.   2.],1,02:33,OTT,MIN,OTT,9,MIN,30,0,0,8474589,Giveaway by Tyler Ennis
+102,giveaway,Anthony Duclair,[-82.  29.],1,00:23,OTT,MIN,OTT,9,MIN,30,0,0,8477407,Giveaway by Anthony Duclair
+111,giveaway,Ryan Donato,[-46.   8.],2,18:39,MIN,OTT,OTT,9,MIN,30,0,0,8477987,Giveaway by Ryan Donato
+113,giveaway,Alex Stalock,[-92.   2.],2,17:43,MIN,OTT,OTT,9,MIN,30,0,0,8471774,Giveaway by Alex Stalock
+129,giveaway,Matt Dumba,[-90. -12.],2,14:06,MIN,OTT,OTT,9,MIN,30,0,0,8476856,Giveaway by Matt Dumba
+134,giveaway,Jean-Gabriel Pageau,[-65. -35.],2,13:07,OTT,MIN,OTT,9,MIN,30,0,0,8476419,Giveaway by Jean-Gabriel Pageau
+145,giveaway,Nikita Zaitsev,[ 83. -38.],2,11:28,OTT,MIN,OTT,9,MIN,30,0,0,8479458,Giveaway by Nikita Zaitsev
+148,giveaway,Chris Tierney,[  3. -36.],2,10:47,OTT,MIN,OTT,9,MIN,30,0,0,8476919,Giveaway by Chris Tierney
+162,giveaway,Matt Dumba,[ 46. -37.],2,09:07,MIN,OTT,OTT,9,MIN,30,0,0,8476856,Giveaway by Matt Dumba
+166,giveaway,Erik Brannstrom,[43. 35.],2,07:33,OTT,MIN,OTT,9,MIN,30,0,0,8480073,Giveaway by Erik Brannstrom
+168,giveaway,Jason Zucker,[96. -3.],2,06:53,MIN,OTT,OTT,9,MIN,30,0,0,8475722,Giveaway by Jason Zucker
+179,giveaway,Matt Dumba,[15. 36.],2,05:16,MIN,OTT,OTT,9,MIN,30,0,0,8476856,Giveaway by Matt Dumba
+209,giveaway,Mikkel Boedker,[-41.  23.],3,17:47,OTT,MIN,OTT,9,MIN,30,0,0,8474571,Giveaway by Mikkel Boedker
+219,giveaway,Mikko Koivu,[-93.   2.],3,15:01,MIN,OTT,OTT,9,MIN,30,0,0,8469459,Giveaway by Mikko Koivu
+222,giveaway,Bobby Ryan,[38.  0.],3,14:19,OTT,MIN,OTT,9,MIN,30,0,0,8471676,Giveaway by Bobby Ryan
+227,giveaway,Brady Tkachuk,[ 38. -20.],3,13:10,OTT,MIN,OTT,9,MIN,30,0,0,8480801,Giveaway by Brady Tkachuk
+228,giveaway,Matt Dumba,[ 88. -25.],3,12:39,MIN,OTT,OTT,9,MIN,30,0,0,8476856,Giveaway by Matt Dumba
+232,giveaway,Thomas Chabot,[-92. -35.],3,10:40,OTT,MIN,OTT,9,MIN,30,0,0,8478469,Giveaway by Thomas Chabot
+252,giveaway,Thomas Chabot,[-85.  18.],3,05:08,OTT,MIN,OTT,9,MIN,30,0,1,8478469,Giveaway by Thomas Chabot
+258,giveaway,Ryan Suter,[ 90. -16.],3,04:28,MIN,OTT,OTT,9,MIN,30,0,1,8470600,Giveaway by Ryan Suter
+259,giveaway,Connor Brown,[31. 19.],3,03:29,OTT,MIN,OTT,9,MIN,30,0,1,8477015,Giveaway by Connor Brown
+263,giveaway,Jared Spurgeon,[93. 11.],3,02:49,MIN,OTT,OTT,9,MIN,30,0,1,8474716,Giveaway by Jared Spurgeon
+264,giveaway,Thomas Chabot,[20. 32.],3,02:37,OTT,MIN,OTT,9,MIN,30,0,1,8478469,Giveaway by Thomas Chabot
+271,giveaway,Ron Hainsey,[-70.  22.],3,00:29,OTT,MIN,OTT,9,MIN,30,0,2,8468493,Giveaway by Ron Hainsey
+5,takeaway,Mikko Koivu,[57. 30.],1,18:36,MIN,OTT,OTT,9,MIN,30,0,0,8469459,Takeaway by Mikko Koivu
+54,takeaway,Mikko Koivu,[ 63. -38.],1,10:13,MIN,OTT,OTT,9,MIN,30,0,0,8469459,Takeaway by Mikko Koivu
+56,takeaway,Colin White,[ 47. -34.],1,09:41,OTT,MIN,OTT,9,MIN,30,0,0,8478400,Takeaway by Colin White
+69,takeaway,Kevin Fiala,[ 21. -21.],1,08:13,MIN,OTT,OTT,9,MIN,30,0,0,8477942,Takeaway by Kevin Fiala
+78,takeaway,Connor Brown,[ 25. -36.],1,06:33,OTT,MIN,OTT,9,MIN,30,0,0,8477015,Takeaway by Connor Brown
+160,takeaway,Connor Brown,[-94.   1.],2,09:39,OTT,MIN,OTT,9,MIN,30,0,0,8477015,Takeaway by Connor Brown
+164,takeaway,Dylan DeMelo,[62. 25.],2,08:19,OTT,MIN,OTT,9,MIN,30,0,0,8476331,Takeaway by Dylan DeMelo
+198,takeaway,Bobby Ryan,[56.  9.],2,00:01,OTT,MIN,OTT,9,MIN,30,0,0,8471676,Takeaway by Bobby Ryan
+3,giveaway,Jake Muzzin,[68. 39.],1,19:38,TOR,MIN,TOR,10,MIN,30,0,0,8474162,Giveaway by Jake Muzzin
+4,giveaway,Ryan Suter,[-44.  -1.],1,19:28,MIN,TOR,TOR,10,MIN,30,0,0,8470600,Giveaway by Ryan Suter
+13,giveaway,Tyson Barrie,[-44. -18.],1,17:30,TOR,MIN,TOR,10,MIN,30,0,0,8475197,Giveaway by Tyson Barrie
+15,giveaway,Frederik Gauthier,[-17.  23.],1,16:56,TOR,MIN,TOR,10,MIN,30,0,0,8477512,Giveaway by Frederik Gauthier
+29,giveaway,Tyson Barrie,[-7. -2.],1,12:19,TOR,MIN,TOR,10,MIN,30,0,1,8475197,Giveaway by Tyson Barrie
+30,giveaway,Morgan Rielly,[ 9. 37.],1,11:39,TOR,MIN,TOR,10,MIN,30,0,1,8476853,Giveaway by Morgan Rielly
+33,giveaway,Nicholas Shore,[-44. -32.],1,10:39,TOR,MIN,TOR,10,MIN,30,0,1,8476406,Giveaway by Nicholas Shore
+48,giveaway,Matt Dumba,[-66.  39.],1,05:19,MIN,TOR,TOR,10,MIN,30,0,1,8476856,Giveaway by Matt Dumba
+50,giveaway,Joel Eriksson Ek,[-11.  39.],1,04:36,MIN,TOR,TOR,10,MIN,30,0,1,8478493,Giveaway by Joel Eriksson Ek
+52,giveaway,Eric Staal,[-17. -18.],1,04:04,MIN,TOR,TOR,10,MIN,30,0,1,8470595,Giveaway by Eric Staal
+56,giveaway,Brad Hunt,[-67. -36.],1,02:57,MIN,TOR,TOR,10,MIN,30,0,1,8476779,Giveaway by Brad Hunt
+85,giveaway,Gerald Mayhew,[36. 37.],2,16:22,MIN,TOR,TOR,10,MIN,30,1,1,8479933,Giveaway by Gerald Mayhew
+92,giveaway,Cody Ceci,[-62. -24.],2,15:33,TOR,MIN,TOR,10,MIN,30,1,1,8476879,Giveaway by Cody Ceci
+103,giveaway,Martin Marincin,[ 9. 39.],2,14:14,TOR,MIN,TOR,10,MIN,30,1,1,8475716,Giveaway by Martin Marincin
+105,giveaway,Carson Soucy,[-26.  37.],2,13:55,MIN,TOR,TOR,10,MIN,30,1,1,8477369,Giveaway by Carson Soucy
+152,giveaway,Ryan Suter,[10. -2.],2,04:32,MIN,TOR,TOR,10,MIN,30,4,1,8470600,Giveaway by Ryan Suter
+154,giveaway,John Tavares,[ 32. -13.],2,04:05,TOR,MIN,TOR,10,MIN,30,4,1,8475166,Giveaway by John Tavares
+159,giveaway,Frederik Andersen,[-76. -16.],2,02:02,TOR,MIN,TOR,10,MIN,30,4,1,8475883,Giveaway by Frederik Andersen
+174,giveaway,Jake Muzzin,[43. 39.],3,19:34,TOR,MIN,TOR,10,MIN,30,4,1,8474162,Giveaway by Jake Muzzin
+175,giveaway,Tyson Barrie,[88. 37.],3,19:17,TOR,MIN,TOR,10,MIN,30,4,1,8475197,Giveaway by Tyson Barrie
+180,giveaway,Eric Staal,[-24.  -8.],3,18:00,MIN,TOR,TOR,10,MIN,30,4,1,8470595,Giveaway by Eric Staal
+189,giveaway,Zach Parise,[29.  1.],3,15:31,MIN,TOR,TOR,10,MIN,30,4,1,8470610,Giveaway by Zach Parise
+221,giveaway,Jonas Brodin,[-75.  40.],3,07:40,MIN,TOR,TOR,10,MIN,30,4,1,8476463,Giveaway by Jonas Brodin
+231,giveaway,Frederik Andersen,[ 37. -37.],3,03:48,TOR,MIN,TOR,10,MIN,30,4,1,8475883,Giveaway by Frederik Andersen
+245,giveaway,Tyson Barrie,[46. 38.],3,01:03,TOR,MIN,TOR,10,MIN,30,4,1,8475197,Giveaway by Tyson Barrie
+43,takeaway,Mikko Koivu,[-38. -32.],1,06:02,MIN,TOR,TOR,10,MIN,30,0,1,8469459,Takeaway by Mikko Koivu
+72,takeaway,Ilya Mikheyev,[ 3. -2.],2,19:49,TOR,MIN,TOR,10,MIN,30,0,1,8481624,Takeaway by Ilya Mikheyev
+74,takeaway,Andreas Johnsson,[ 7. 38.],2,18:15,TOR,MIN,TOR,10,MIN,30,0,1,8477341,Takeaway by Andreas Johnsson
+108,takeaway,John Tavares,[78. 39.],2,13:03,TOR,MIN,TOR,10,MIN,30,1,1,8475166,Takeaway by John Tavares
+127,takeaway,Kasperi Kapanen,[ 8. -1.],2,09:20,TOR,MIN,TOR,10,MIN,30,3,1,8477953,Takeaway by Kasperi Kapanen
+190,takeaway,Jason Zucker,[-96.  22.],3,15:22,MIN,TOR,TOR,10,MIN,30,4,1,8475722,Takeaway by Jason Zucker
+191,takeaway,Ilya Mikheyev,[-75.  39.],3,15:16,TOR,MIN,TOR,10,MIN,30,4,1,8481624,Takeaway by Ilya Mikheyev
+198,takeaway,Trevor Moore,[ 62. -32.],3,14:01,TOR,MIN,TOR,10,MIN,30,4,1,8479675,Takeaway by Trevor Moore
+19,giveaway,Jonas Brodin,[-28.  35.],1,15:35,MIN,MTL,MTL,8,MIN,30,0,0,8476463,Giveaway by Jonas Brodin
+32,giveaway,Brad Hunt,[-30. -41.],1,12:20,MIN,MTL,MTL,8,MIN,30,0,0,8476779,Giveaway by Brad Hunt
+56,giveaway,Shea Weber,[29. 23.],1,09:05,MTL,MIN,MTL,8,MIN,30,0,0,8470642,Giveaway by Shea Weber
+62,giveaway,Ben Chiarot,[68. 42.],1,07:25,MTL,MIN,MTL,8,MIN,30,0,0,8475279,Giveaway by Ben Chiarot
+67,giveaway,Joel Eriksson Ek,[-47.  41.],1,06:54,MIN,MTL,MTL,8,MIN,30,0,0,8478493,Giveaway by Joel Eriksson Ek
+68,giveaway,Luke Kunin,[-29. -38.],1,06:48,MIN,MTL,MTL,8,MIN,30,0,0,8479316,Giveaway by Luke Kunin
+69,giveaway,Brett Kulak,[19. 27.],1,06:14,MTL,MIN,MTL,8,MIN,30,0,0,8476967,Giveaway by Brett Kulak
+78,giveaway,Joel Eriksson Ek,[-29.  11.],1,04:10,MIN,MTL,MTL,8,MIN,30,1,0,8478493,Giveaway by Joel Eriksson Ek
+81,giveaway,Nick Suzuki,[-74.  -8.],1,03:19,MTL,MIN,MTL,8,MIN,30,1,0,8480018,Giveaway by Nick Suzuki
+93,giveaway,Jonas Brodin,[-29.  28.],1,01:22,MIN,MTL,MTL,8,MIN,30,2,0,8476463,Giveaway by Jonas Brodin
+99,giveaway,Jonas Brodin,[28. 33.],2,19:25,MIN,MTL,MTL,8,MIN,30,3,0,8476463,Giveaway by Jonas Brodin
+105,giveaway,Max Domi,[ -5. -34.],2,17:36,MTL,MIN,MTL,8,MIN,30,3,0,8477503,Giveaway by Max Domi
+115,giveaway,Jeff Petry,[-31. -40.],2,15:56,MTL,MIN,MTL,8,MIN,30,3,0,8473507,Giveaway by Jeff Petry
+125,giveaway,Ryan Suter,[64. 41.],2,13:55,MIN,MTL,MTL,8,MIN,30,3,0,8470600,Giveaway by Ryan Suter
+137,giveaway,Kevin Fiala,[ 28. -29.],2,11:03,MIN,MTL,MTL,8,MIN,30,3,0,8477942,Giveaway by Kevin Fiala
+147,giveaway,Victor Mete,[-29.  18.],2,08:24,MTL,MIN,MTL,8,MIN,30,3,0,8479376,Giveaway by Victor Mete
+151,giveaway,Cale Fleury,[-57. -38.],2,07:20,MTL,MIN,MTL,8,MIN,30,3,0,8479985,Giveaway by Cale Fleury
+155,giveaway,Tomas Tatar,[-80.  41.],2,06:50,MTL,MIN,MTL,8,MIN,30,3,0,8475193,Giveaway by Tomas Tatar
+184,giveaway,Joel Armia,[-44. -41.],2,01:35,MTL,MIN,MTL,8,MIN,30,3,0,8476469,Giveaway by Joel Armia
+193,giveaway,Jason Zucker,[-13. -18.],3,19:21,MIN,MTL,MTL,8,MIN,30,3,0,8475722,Giveaway by Jason Zucker
+194,giveaway,Alex Stalock,[-27. -39.],3,18:53,MIN,MTL,MTL,8,MIN,30,3,0,8471774,Giveaway by Alex Stalock
+197,giveaway,Jeff Petry,[59. 42.],3,18:35,MTL,MIN,MTL,8,MIN,30,3,0,8473507,Giveaway by Jeff Petry
+203,giveaway,Brett Kulak,[37. 34.],3,16:37,MTL,MIN,MTL,8,MIN,30,3,0,8476967,Giveaway by Brett Kulak
+205,giveaway,Ryan Hartman,[43. 33.],3,16:16,MIN,MTL,MTL,8,MIN,30,3,0,8477451,Giveaway by Ryan Hartman
+206,giveaway,Cale Fleury,[ 44. -30.],3,15:53,MTL,MIN,MTL,8,MIN,30,3,0,8479985,Giveaway by Cale Fleury
+209,giveaway,Jesperi Kotkaniemi,[-57. -31.],3,14:20,MTL,MIN,MTL,8,MIN,30,3,0,8480829,Giveaway by Jesperi Kotkaniemi
+213,giveaway,Eric Staal,[-56.  11.],3,13:32,MIN,MTL,MTL,8,MIN,30,3,0,8470595,Giveaway by Eric Staal
+231,giveaway,Jason Zucker,[-33.  -5.],3,10:13,MIN,MTL,MTL,8,MIN,30,3,0,8475722,Giveaway by Jason Zucker
+232,giveaway,Phillip Danault,[58.  2.],3,09:45,MTL,MIN,MTL,8,MIN,30,3,0,8476479,Giveaway by Phillip Danault
+240,giveaway,Matt Dumba,[42. 35.],3,07:22,MIN,MTL,MTL,8,MIN,30,3,0,8476856,Giveaway by Matt Dumba
+253,giveaway,Carey Price,[ 32. -38.],3,05:34,MTL,MIN,MTL,8,MIN,30,4,0,8471679,Giveaway by Carey Price
+268,giveaway,Marcus Foligno,[-40.  29.],3,02:18,MIN,MTL,MTL,8,MIN,30,4,0,8475220,Giveaway by Marcus Foligno
+269,giveaway,Carey Price,[ 52. -41.],3,01:37,MTL,MIN,MTL,8,MIN,30,4,0,8471679,Giveaway by Carey Price
+6,takeaway,Jeff Petry,[26. 21.],1,18:47,MTL,MIN,MTL,8,MIN,30,0,0,8473507,Takeaway by Jeff Petry
+18,takeaway,Matt Dumba,[-99.  -9.],1,15:52,MIN,MTL,MTL,8,MIN,30,0,0,8476856,Takeaway by Matt Dumba
+21,takeaway,Luke Kunin,[ 6. 30.],1,15:10,MIN,MTL,MTL,8,MIN,30,0,0,8479316,Takeaway by Luke Kunin
+72,takeaway,Nick Cousins,[-99. -19.],1,05:25,MTL,MIN,MTL,8,MIN,30,0,0,8476393,Takeaway by Nick Cousins
+90,takeaway,Joel Eriksson Ek,[-32.  23.],1,02:16,MIN,MTL,MTL,8,MIN,30,2,0,8478493,Takeaway by Joel Eriksson Ek
+139,takeaway,Jordan Greenway,[ -9. -39.],2,10:41,MIN,MTL,MTL,8,MIN,30,3,0,8478413,Takeaway by Jordan Greenway
+142,takeaway,Matt Dumba,[-15. -30.],2,10:15,MIN,MTL,MTL,8,MIN,30,3,0,8476856,Takeaway by Matt Dumba
+183,takeaway,Jason Zucker,[-29. -35.],2,01:59,MIN,MTL,MTL,8,MIN,30,3,0,8475722,Takeaway by Jason Zucker
+185,takeaway,Jesperi Kotkaniemi,[83. 40.],2,01:10,MTL,MIN,MTL,8,MIN,30,3,0,8480829,Takeaway by Jesperi Kotkaniemi
+221,takeaway,Mikko Koivu,[55. 40.],3,11:57,MIN,MTL,MTL,8,MIN,30,3,0,8469459,Takeaway by Mikko Koivu
+224,takeaway,Nick Cousins,[ -7. -32.],3,11:03,MTL,MIN,MTL,8,MIN,30,3,0,8476393,Takeaway by Nick Cousins
+225,takeaway,Nick Suzuki,[-62.  -2.],3,11:00,MTL,MIN,MTL,8,MIN,30,3,0,8480018,Takeaway by Nick Suzuki
+255,takeaway,Jeff Petry,[ 51. -40.],3,05:08,MTL,MIN,MTL,8,MIN,30,4,0,8473507,Takeaway by Jeff Petry
+3,giveaway,Zach Parise,[ 37. -11.],1,19:30,MIN,MTL,MIN,30,MTL,8,0,0,8470610,Giveaway by Zach Parise
+38,giveaway,Phillip Danault,[-97.   6.],1,10:27,MTL,MIN,MIN,30,MTL,8,1,0,8476479,Giveaway by Phillip Danault
+42,giveaway,Eric Staal,[42. 39.],1,08:36,MIN,MTL,MIN,30,MTL,8,1,0,8470595,Giveaway by Eric Staal
+46,giveaway,Jordan Greenway,[33. 40.],1,08:10,MIN,MTL,MIN,30,MTL,8,1,0,8478413,Giveaway by Jordan Greenway
+53,giveaway,Ryan Donato,[-78. -33.],1,06:13,MIN,MTL,MIN,30,MTL,8,1,0,8477987,Giveaway by Ryan Donato
+81,giveaway,Keith Kinkaid,[96.  5.],2,19:29,MTL,MIN,MIN,30,MTL,8,1,0,8476234,Giveaway by Keith Kinkaid
+95,giveaway,Phillip Danault,[-61. -32.],2,16:57,MTL,MIN,MIN,30,MTL,8,1,1,8476479,Giveaway by Phillip Danault
+96,giveaway,Ryan Hartman,[-66. -31.],2,16:55,MIN,MTL,MIN,30,MTL,8,1,1,8477451,Giveaway by Ryan Hartman
+127,giveaway,Zach Parise,[ 86. -35.],2,10:17,MIN,MTL,MIN,30,MTL,8,1,2,8470610,Giveaway by Zach Parise
+128,giveaway,Jonas Brodin,[-52.  16.],2,10:06,MIN,MTL,MIN,30,MTL,8,1,2,8476463,Giveaway by Jonas Brodin
+228,giveaway,Artturi Lehkonen,[ 31. -30.],3,05:22,MTL,MIN,MIN,30,MTL,8,4,3,8477476,Giveaway by Artturi Lehkonen
+49,takeaway,Marcus Foligno,[-89.  10.],1,07:15,MIN,MTL,MIN,30,MTL,8,1,0,8475220,Takeaway by Marcus Foligno
+69,takeaway,Brad Hunt,[ 53. -27.],1,02:35,MIN,MTL,MIN,30,MTL,8,1,0,8476779,Takeaway by Brad Hunt
+83,takeaway,Max Domi,[-33.  39.],2,19:11,MTL,MIN,MIN,30,MTL,8,1,0,8477503,Takeaway by Max Domi
+151,takeaway,Marcus Foligno,[99. 10.],2,04:42,MIN,MTL,MIN,30,MTL,8,1,2,8475220,Takeaway by Marcus Foligno
+169,takeaway,Matt Dumba,[85. 34.],3,19:09,MIN,MTL,MIN,30,MTL,8,2,2,8476856,Takeaway by Matt Dumba
+176,takeaway,Nick Cousins,[46. 28.],3,17:18,MTL,MIN,MIN,30,MTL,8,2,2,8476393,Takeaway by Nick Cousins
+187,takeaway,Max Domi,[-19.  -5.],3,16:23,MTL,MIN,MIN,30,MTL,8,2,3,8477503,Takeaway by Max Domi
+190,takeaway,Ryan Hartman,[40. 37.],3,15:48,MIN,MTL,MIN,30,MTL,8,2,3,8477451,Takeaway by Ryan Hartman
+194,takeaway,Mikko Koivu,[  0. -35.],3,14:37,MIN,MTL,MIN,30,MTL,8,2,3,8469459,Takeaway by Mikko Koivu
+213,takeaway,Luke Kunin,[ 50. -26.],3,10:40,MIN,MTL,MIN,30,MTL,8,3,3,8479316,Takeaway by Luke Kunin
+219,takeaway,Gabriel Dumont,[ 15. -33.],3,07:27,MIN,MTL,MIN,30,MTL,8,3,3,8475254,Takeaway by Gabriel Dumont
+226,takeaway,Marcus Foligno,[ 36. -37.],3,06:08,MIN,MTL,MIN,30,MTL,8,4,3,8475220,Takeaway by Marcus Foligno
+230,takeaway,Eric Staal,[37. 39.],3,03:56,MIN,MTL,MIN,30,MTL,8,4,3,8470595,Takeaway by Eric Staal
+28,giveaway,Jordan Greenway,[67. 14.],1,13:32,MIN,EDM,MIN,30,EDM,22,0,0,8478413,Giveaway by Jordan Greenway
+32,giveaway,Zach Parise,[-13. -32.],1,13:00,MIN,EDM,MIN,30,EDM,22,0,0,8470610,Giveaway by Zach Parise
+58,giveaway,Eric Staal,[-21.  35.],1,04:12,MIN,EDM,MIN,30,EDM,22,2,0,8470595,Giveaway by Eric Staal
+85,giveaway,Connor McDavid,[-79. -32.],2,16:40,EDM,MIN,MIN,30,EDM,22,3,0,8478402,Giveaway by Connor McDavid
+114,giveaway,Ethan Bear,[-30. -36.],2,07:53,EDM,MIN,MIN,30,EDM,22,3,0,8478451,Giveaway by Ethan Bear
+144,giveaway,Eric Staal,[-86. -27.],3,17:19,MIN,EDM,MIN,30,EDM,22,3,0,8470595,Giveaway by Eric Staal
+159,giveaway,Mats Zuccarello,[-83. -27.],3,13:41,MIN,EDM,MIN,30,EDM,22,3,0,8475692,Giveaway by Mats Zuccarello
+185,giveaway,Gerald Mayhew,[40. 38.],3,06:30,MIN,EDM,MIN,30,EDM,22,3,0,8479933,Giveaway by Gerald Mayhew
+195,giveaway,Mike Smith,[-94. -19.],3,02:38,EDM,MIN,MIN,30,EDM,22,3,0,8469608,Giveaway by Mike Smith
+12,takeaway,Ryan Donato,[-62.   7.],1,16:59,MIN,EDM,MIN,30,EDM,22,0,0,8477987,Takeaway by Ryan Donato
+17,takeaway,Zach Parise,[-91.   9.],1,16:00,MIN,EDM,MIN,30,EDM,22,0,0,8470610,Takeaway by Zach Parise
+22,takeaway,Marcus Foligno,[-82.  20.],1,15:19,MIN,EDM,MIN,30,EDM,22,0,0,8475220,Takeaway by Marcus Foligno
+27,takeaway,Jordan Greenway,[49. 24.],1,14:06,MIN,EDM,MIN,30,EDM,22,0,0,8478413,Takeaway by Jordan Greenway
+68,takeaway,Oscar Klefbom,[-66.  31.],1,02:06,EDM,MIN,MIN,30,EDM,22,3,0,8476472,Takeaway by Oscar Klefbom
+69,takeaway,James Neal,[ 70. -34.],1,01:45,EDM,MIN,MIN,30,EDM,22,3,0,8471707,Takeaway by James Neal
+101,takeaway,Ethan Bear,[ 76. -28.],2,11:48,EDM,MIN,MIN,30,EDM,22,3,0,8478451,Takeaway by Ethan Bear
+198,takeaway,Gerald Mayhew,[-17. -23.],3,01:58,MIN,EDM,MIN,30,EDM,22,3,0,8479933,Takeaway by Gerald Mayhew
+17,giveaway,Alex Stalock,[ 65. -40.],1,14:55,MIN,NSH,NSH,18,MIN,30,0,0,8471774,Giveaway by Alex Stalock
+26,giveaway,Colton Sissons,[48. 11.],1,11:26,NSH,MIN,NSH,18,MIN,30,0,0,8476925,Giveaway by Colton Sissons
+27,giveaway,Mattias Ekholm,[-76.  38.],1,11:06,NSH,MIN,NSH,18,MIN,30,0,0,8475218,Giveaway by Mattias Ekholm
+34,giveaway,Matt Irwin,[-32. -37.],1,09:31,NSH,MIN,NSH,18,MIN,30,0,0,8475625,Giveaway by Matt Irwin
+37,giveaway,Mattias Ekholm,[-37. -38.],1,09:17,NSH,MIN,NSH,18,MIN,30,0,0,8475218,Giveaway by Mattias Ekholm
+51,giveaway,Dan Hamhuis,[-24.  27.],1,07:15,NSH,MIN,NSH,18,MIN,30,0,0,8469465,Giveaway by Dan Hamhuis
+65,giveaway,Calle Jarnkrok,[-35.  37.],1,04:33,NSH,MIN,NSH,18,MIN,30,0,0,8475714,Giveaway by Calle Jarnkrok
+72,giveaway,Eric Staal,[-57.   0.],1,02:05,MIN,NSH,NSH,18,MIN,30,0,0,8470595,Giveaway by Eric Staal
+79,giveaway,Dante Fabbro,[-32. -40.],1,00:46,NSH,MIN,NSH,18,MIN,30,0,0,8479371,Giveaway by Dante Fabbro
+82,giveaway,Miikka Salomaki,[33. 39.],2,19:36,NSH,MIN,NSH,18,MIN,30,0,0,8476447,Giveaway by Miikka Salomaki
+85,giveaway,Dan Hamhuis,[1. 3.],2,19:14,NSH,MIN,NSH,18,MIN,30,1,0,8469465,Giveaway by Dan Hamhuis
+97,giveaway,Ryan Johansen,[ 44. -10.],2,15:50,NSH,MIN,NSH,18,MIN,30,1,0,8475793,Giveaway by Ryan Johansen
+99,giveaway,Eric Staal,[3. 1.],2,15:15,MIN,NSH,NSH,18,MIN,30,1,0,8470595,Giveaway by Eric Staal
+107,giveaway,Dan Hamhuis,[ 30. -13.],2,14:09,NSH,MIN,NSH,18,MIN,30,1,0,8469465,Giveaway by Dan Hamhuis
+115,giveaway,Dante Fabbro,[ 35. -36.],2,11:46,NSH,MIN,NSH,18,MIN,30,1,0,8479371,Giveaway by Dante Fabbro
+116,giveaway,Dante Fabbro,[ 32. -37.],2,11:38,NSH,MIN,NSH,18,MIN,30,1,0,8479371,Giveaway by Dante Fabbro
+127,giveaway,Colton Sissons,[-55.  -2.],2,07:42,NSH,MIN,NSH,18,MIN,30,1,0,8476925,Giveaway by Colton Sissons
+146,giveaway,Pekka Rinne,[ 61. -32.],2,02:47,NSH,MIN,NSH,18,MIN,30,1,0,8471469,Giveaway by Pekka Rinne
+160,giveaway,Mattias Ekholm,[-33.  -8.],3,18:28,NSH,MIN,NSH,18,MIN,30,2,0,8475218,Giveaway by Mattias Ekholm
+210,giveaway,Mats Zuccarello,[-77. -35.],3,03:52,MIN,NSH,NSH,18,MIN,30,3,0,8475692,Giveaway by Mats Zuccarello
+6,takeaway,Nick Bonino,[-84.  26.],1,17:49,NSH,MIN,NSH,18,MIN,30,0,0,8474009,Takeaway by Nick Bonino
+29,takeaway,Brad Hunt,[68. 34.],1,10:18,MIN,NSH,NSH,18,MIN,30,0,0,8476779,Takeaway by Brad Hunt
+30,takeaway,Nick Bonino,[ 8. -1.],1,09:52,NSH,MIN,NSH,18,MIN,30,0,0,8474009,Takeaway by Nick Bonino
+39,takeaway,Ryan Suter,[-30. -37.],1,09:05,MIN,NSH,NSH,18,MIN,30,0,0,8470600,Takeaway by Ryan Suter
+55,takeaway,Mats Zuccarello,[-16.  36.],1,06:01,MIN,NSH,NSH,18,MIN,30,0,0,8475692,Takeaway by Mats Zuccarello
+62,takeaway,Ryan Johansen,[-11.  37.],1,04:49,NSH,MIN,NSH,18,MIN,30,0,0,8475793,Takeaway by Ryan Johansen
+71,takeaway,Dante Fabbro,[-26. -38.],1,02:46,NSH,MIN,NSH,18,MIN,30,0,0,8479371,Takeaway by Dante Fabbro
+86,takeaway,Ryan Suter,[-56.  38.],2,18:55,MIN,NSH,NSH,18,MIN,30,1,0,8470600,Takeaway by Ryan Suter
+98,takeaway,Mattias Ekholm,[ 34. -16.],2,15:30,NSH,MIN,NSH,18,MIN,30,1,0,8475218,Takeaway by Mattias Ekholm
+106,takeaway,Kyle Turris,[ 7. 37.],2,14:16,NSH,MIN,NSH,18,MIN,30,1,0,8474068,Takeaway by Kyle Turris
+109,takeaway,Victor Rask,[38. 33.],2,13:42,MIN,NSH,NSH,18,MIN,30,1,0,8476437,Takeaway by Victor Rask
+133,takeaway,Austin Watson,[17. 20.],2,04:56,NSH,MIN,NSH,18,MIN,30,1,0,8475766,Takeaway by Austin Watson
+189,takeaway,Eric Staal,[13. 13.],3,10:31,MIN,NSH,NSH,18,MIN,30,3,0,8470595,Takeaway by Eric Staal
+195,takeaway,Calle Jarnkrok,[-68.  21.],3,08:38,NSH,MIN,NSH,18,MIN,30,3,0,8475714,Takeaway by Calle Jarnkrok
+212,takeaway,Brad Hunt,[-30. -40.],3,03:46,MIN,NSH,NSH,18,MIN,30,3,0,8476779,Takeaway by Brad Hunt
+213,takeaway,Mattias Ekholm,[-27. -37.],3,03:12,NSH,MIN,NSH,18,MIN,30,3,0,8475218,Takeaway by Mattias Ekholm
+216,takeaway,Gerald Mayhew,[-14. -12.],3,02:28,MIN,NSH,NSH,18,MIN,30,4,0,8479933,Takeaway by Gerald Mayhew
+218,takeaway,Marcus Foligno,[ 5. 34.],3,02:00,MIN,NSH,NSH,18,MIN,30,4,0,8475220,Takeaway by Marcus Foligno
+219,takeaway,Ryan Hartman,[-8. 27.],3,01:39,MIN,NSH,NSH,18,MIN,30,4,0,8477451,Takeaway by Ryan Hartman
+1,giveaway,Zach Parise,[-4.  5.],1,19:32,MIN,LAK,MIN,30,LAK,26,0,0,8470610,Giveaway by Zach Parise
+24,giveaway,Marcus Foligno,[-22. -39.],1,12:37,MIN,LAK,MIN,30,LAK,26,1,0,8475220,Giveaway by Marcus Foligno
+64,giveaway,Alex Stalock,[75. -6.],1,01:00,MIN,LAK,MIN,30,LAK,26,1,0,8471774,Giveaway by Alex Stalock
+101,giveaway,Eric Staal,[98.  9.],2,11:18,MIN,LAK,MIN,30,LAK,26,1,1,8470595,Giveaway by Eric Staal
+105,giveaway,Ryan Donato,[33. 38.],2,10:30,MIN,LAK,MIN,30,LAK,26,1,1,8477987,Giveaway by Ryan Donato
+175,giveaway,Eric Staal,[-10.  10.],3,09:52,MIN,LAK,MIN,30,LAK,26,4,1,8470595,Giveaway by Eric Staal
+185,giveaway,Michael Amadio,[-81.   1.],3,07:38,LAK,MIN,MIN,30,LAK,26,4,1,8478020,Giveaway by Michael Amadio
+192,giveaway,Alex Stalock,[ 78. -37.],3,03:52,MIN,LAK,MIN,30,LAK,26,5,1,8471774,Giveaway by Alex Stalock
+3,takeaway,Dustin Brown,[-26.  10.],1,18:43,LAK,MIN,MIN,30,LAK,26,0,0,8470606,Takeaway by Dustin Brown
+23,takeaway,Anze Kopitar,[-44.   2.],1,12:46,LAK,MIN,MIN,30,LAK,26,1,0,8471685,Takeaway by Anze Kopitar
+54,takeaway,Ben Hutton,[-96.  -2.],1,03:56,LAK,MIN,MIN,30,LAK,26,1,0,8477018,Takeaway by Ben Hutton
+63,takeaway,Victor Rask,[-69. -32.],1,01:15,MIN,LAK,MIN,30,LAK,26,1,0,8476437,Takeaway by Victor Rask
+72,takeaway,Marcus Foligno,[33. 10.],2,19:24,MIN,LAK,MIN,30,LAK,26,1,0,8475220,Takeaway by Marcus Foligno
+78,takeaway,Alex Iafallo,[-38. -18.],2,16:24,LAK,MIN,MIN,30,LAK,26,1,0,8480113,Takeaway by Alex Iafallo
+87,takeaway,Michael Amadio,[-35. -16.],2,14:47,LAK,MIN,MIN,30,LAK,26,1,1,8478020,Takeaway by Michael Amadio
+95,takeaway,Tyler Toffoli,[-74.  22.],2,13:19,LAK,MIN,MIN,30,LAK,26,1,1,8475726,Takeaway by Tyler Toffoli
+112,takeaway,Anze Kopitar,[20. 33.],2,08:12,LAK,MIN,MIN,30,LAK,26,1,1,8471685,Takeaway by Anze Kopitar
+146,takeaway,Eric Staal,[ 9. 16.],3,18:05,MIN,LAK,MIN,30,LAK,26,3,1,8470595,Takeaway by Eric Staal
+147,takeaway,Michael Amadio,[-63.  39.],3,17:35,LAK,MIN,MIN,30,LAK,26,3,1,8478020,Takeaway by Michael Amadio
+152,takeaway,Mikko Koivu,[ 9. 39.],3,16:14,MIN,LAK,MIN,30,LAK,26,3,1,8469459,Takeaway by Mikko Koivu
+164,takeaway,Eric Staal,[31. 33.],3,12:56,MIN,LAK,MIN,30,LAK,26,4,1,8470595,Takeaway by Eric Staal
+195,takeaway,Carson Soucy,[86. 12.],3,03:28,MIN,LAK,MIN,30,LAK,26,5,1,8477369,Takeaway by Carson Soucy
+13,giveaway,Roope Hintz,[-55.   6.],1,13:33,DAL,MIN,DAL,25,MIN,30,0,1,8478449,Giveaway by Roope Hintz
+14,giveaway,Roope Hintz,[-51.  40.],1,13:25,DAL,MIN,DAL,25,MIN,30,0,1,8478449,Giveaway by Roope Hintz
+18,giveaway,Joel Eriksson Ek,[95.  7.],1,11:50,MIN,DAL,DAL,25,MIN,30,0,1,8478493,Giveaway by Joel Eriksson Ek
+43,giveaway,Taylor Fedun,[28. 31.],1,05:30,DAL,MIN,DAL,25,MIN,30,0,1,8476166,Giveaway by Taylor Fedun
+49,giveaway,Andrew Cogliano,[18. 31.],1,03:48,DAL,MIN,DAL,25,MIN,30,0,1,8471699,Giveaway by Andrew Cogliano
+53,giveaway,Alex Stalock,[-99.   2.],1,03:26,MIN,DAL,DAL,25,MIN,30,0,1,8471774,Giveaway by Alex Stalock
+62,giveaway,Ben Bishop,[97.  1.],1,01:43,DAL,MIN,DAL,25,MIN,30,0,2,8471750,Giveaway by Ben Bishop
+77,giveaway,Alexander Radulov,[-22. -34.],2,16:20,DAL,MIN,DAL,25,MIN,30,0,2,8471228,Giveaway by Alexander Radulov
+82,giveaway,Miro Heiskanen,[-91.  30.],2,15:22,DAL,MIN,DAL,25,MIN,30,0,2,8480036,Giveaway by Miro Heiskanen
+85,giveaway,Radek Faksa,[ 15. -41.],2,14:53,DAL,MIN,DAL,25,MIN,30,0,2,8476889,Giveaway by Radek Faksa
+96,giveaway,Jason Zucker,[21. 40.],2,11:43,MIN,DAL,DAL,25,MIN,30,0,2,8475722,Giveaway by Jason Zucker
+97,giveaway,Mikko Koivu,[ 10. -37.],2,11:15,MIN,DAL,DAL,25,MIN,30,0,2,8469459,Giveaway by Mikko Koivu
+98,giveaway,Joel Eriksson Ek,[63. 39.],2,10:21,MIN,DAL,DAL,25,MIN,30,0,2,8478493,Giveaway by Joel Eriksson Ek
+110,giveaway,Jamie Benn,[-46. -28.],2,07:53,DAL,MIN,DAL,25,MIN,30,0,2,8473994,Giveaway by Jamie Benn
+119,giveaway,Esa Lindell,[-51.   0.],2,06:05,DAL,MIN,DAL,25,MIN,30,0,2,8476902,Giveaway by Esa Lindell
+152,giveaway,Jared Spurgeon,[69. 16.],2,00:16,MIN,DAL,DAL,25,MIN,30,1,3,8474716,Giveaway by Jared Spurgeon
+156,giveaway,Marcus Foligno,[-50.  40.],3,19:53,MIN,DAL,DAL,25,MIN,30,1,3,8475220,Giveaway by Marcus Foligno
+157,giveaway,Alex Stalock,[-96.   1.],3,18:53,MIN,DAL,DAL,25,MIN,30,1,3,8471774,Giveaway by Alex Stalock
+165,giveaway,Luke Kunin,[-69.  39.],3,18:03,MIN,DAL,DAL,25,MIN,30,1,3,8479316,Giveaway by Luke Kunin
+170,giveaway,Ryan Donato,[-22.  36.],3,16:22,MIN,DAL,DAL,25,MIN,30,1,3,8477987,Giveaway by Ryan Donato
+180,giveaway,Matt Dumba,[-67.  40.],3,15:16,MIN,DAL,DAL,25,MIN,30,2,3,8476856,Giveaway by Matt Dumba
+190,giveaway,John Klingberg,[-19.  38.],3,14:16,DAL,MIN,DAL,25,MIN,30,2,3,8475906,Giveaway by John Klingberg
+192,giveaway,Ryan Hartman,[25. 10.],3,13:53,MIN,DAL,DAL,25,MIN,30,2,3,8477451,Giveaway by Ryan Hartman
+196,giveaway,Jason Dickinson,[-33.  37.],3,11:51,DAL,MIN,DAL,25,MIN,30,2,3,8477450,Giveaway by Jason Dickinson
+197,giveaway,Joel Hanley,[ 32. -23.],3,11:34,DAL,MIN,DAL,25,MIN,30,2,3,8477810,Giveaway by Joel Hanley
+198,giveaway,Carson Soucy,[ 0. 15.],3,10:30,MIN,DAL,DAL,25,MIN,30,2,3,8477369,Giveaway by Carson Soucy
+202,giveaway,Alex Stalock,[-84.  -2.],3,09:18,MIN,DAL,DAL,25,MIN,30,3,3,8471774,Giveaway by Alex Stalock
+208,giveaway,Ryan Suter,[35. 40.],3,07:42,MIN,DAL,DAL,25,MIN,30,4,3,8470600,Giveaway by Ryan Suter
+214,giveaway,Zach Parise,[25. 41.],3,06:50,MIN,DAL,DAL,25,MIN,30,4,3,8470610,Giveaway by Zach Parise
+222,giveaway,Denis Gurianov,[-34.   0.],3,04:08,DAL,MIN,DAL,25,MIN,30,4,3,8478495,Giveaway by Denis Gurianov
+226,giveaway,Eric Staal,[ 99. -12.],3,02:41,MIN,DAL,DAL,25,MIN,30,4,3,8470595,Giveaway by Eric Staal
+227,giveaway,Jordan Greenway,[-45.  41.],3,02:21,MIN,DAL,DAL,25,MIN,30,4,3,8478413,Giveaway by Jordan Greenway
+233,giveaway,Jason Zucker,[-46. -36.],3,01:42,MIN,DAL,DAL,25,MIN,30,4,3,8475722,Giveaway by Jason Zucker
+240,giveaway,Jordan Greenway,[49. 38.],3,00:53,MIN,DAL,DAL,25,MIN,30,5,3,8478413,Giveaway by Jordan Greenway
+3,takeaway,Jamie Oleksiak,[ 60. -25.],1,18:43,DAL,MIN,DAL,25,MIN,30,0,0,8476467,Takeaway by Jamie Oleksiak
+120,takeaway,Jason Zucker,[-96. -14.],2,05:47,MIN,DAL,DAL,25,MIN,30,0,2,8475722,Takeaway by Jason Zucker
+124,takeaway,Roope Hintz,[46. 36.],2,05:25,DAL,MIN,DAL,25,MIN,30,0,3,8478449,Takeaway by Roope Hintz
+140,takeaway,Alexander Radulov,[83. 38.],2,03:15,DAL,MIN,DAL,25,MIN,30,0,3,8471228,Takeaway by Alexander Radulov
+145,takeaway,Jordan Greenway,[-64.  38.],2,01:20,MIN,DAL,DAL,25,MIN,30,0,3,8478413,Takeaway by Jordan Greenway
+164,takeaway,Brad Hunt,[-96.   5.],3,18:07,MIN,DAL,DAL,25,MIN,30,1,3,8476779,Takeaway by Brad Hunt
+185,takeaway,Miro Heiskanen,[22. 23.],3,14:51,DAL,MIN,DAL,25,MIN,30,2,3,8480036,Takeaway by Miro Heiskanen
+248,takeaway,Jason Dickinson,[68. 35.],3,00:12,DAL,MIN,DAL,25,MIN,30,6,3,8477450,Takeaway by Jason Dickinson
+2,giveaway,Ivan Barbashev,[-51.  40.],1,19:32,STL,MIN,STL,19,MIN,30,0,0,8477964,Giveaway by Ivan Barbashev
+9,giveaway,Carl Gunnarsson,[-91. -23.],1,18:32,STL,MIN,STL,19,MIN,30,0,0,8474125,Giveaway by Carl Gunnarsson
+10,giveaway,Carl Gunnarsson,[-95.  19.],1,18:20,STL,MIN,STL,19,MIN,30,0,0,8474125,Giveaway by Carl Gunnarsson
+18,giveaway,Jordan Greenway,[ 56. -40.],1,15:45,MIN,STL,STL,19,MIN,30,0,0,8478413,Giveaway by Jordan Greenway
+31,giveaway,Ivan Barbashev,[97. 17.],1,11:02,STL,MIN,STL,19,MIN,30,0,0,8477964,Giveaway by Ivan Barbashev
+72,giveaway,Luke Kunin,[-10.  41.],2,18:51,MIN,STL,STL,19,MIN,30,0,0,8479316,Giveaway by Luke Kunin
+86,giveaway,Brayden Schenn,[-76. -17.],2,16:37,STL,MIN,STL,19,MIN,30,0,0,8475170,Giveaway by Brayden Schenn
+132,giveaway,Justin Faulk,[98. 14.],2,05:18,STL,MIN,STL,19,MIN,30,1,1,8475753,Giveaway by Justin Faulk
+135,giveaway,Justin Faulk,[72. 12.],2,04:52,STL,MIN,STL,19,MIN,30,1,1,8475753,Giveaway by Justin Faulk
+141,giveaway,Jared Spurgeon,[-72. -39.],2,02:47,MIN,STL,STL,19,MIN,30,1,1,8474716,Giveaway by Jared Spurgeon
+158,giveaway,Jaden Schwartz,[-86. -21.],3,18:45,STL,MIN,STL,19,MIN,30,1,1,8475768,Giveaway by Jaden Schwartz
+177,giveaway,Sammy Blais,[-80. -37.],3,12:21,STL,MIN,STL,19,MIN,30,2,1,8478104,Giveaway by Sammy Blais
+205,giveaway,Tyler Bozak,[97.  1.],3,03:19,STL,MIN,STL,19,MIN,30,2,1,8475098,Giveaway by Tyler Bozak
+19,takeaway,Ryan Hartman,[52. 39.],1,15:18,MIN,STL,STL,19,MIN,30,0,0,8477451,Takeaway by Ryan Hartman
+55,takeaway,Joel Eriksson Ek,[ 10. -30.],1,05:14,MIN,STL,STL,19,MIN,30,0,0,8478493,Takeaway by Joel Eriksson Ek
+58,takeaway,Justin Faulk,[-82.  37.],1,03:23,STL,MIN,STL,19,MIN,30,0,0,8475753,Takeaway by Justin Faulk
+59,takeaway,Jonas Brodin,[ 95. -27.],1,02:55,MIN,STL,STL,19,MIN,30,0,0,8476463,Takeaway by Jonas Brodin
+93,takeaway,Jordan Greenway,[-49.  22.],2,14:53,MIN,STL,STL,19,MIN,30,0,0,8478413,Takeaway by Jordan Greenway
+127,takeaway,Colton Parayko,[98. 11.],2,06:38,STL,MIN,STL,19,MIN,30,1,1,8476892,Takeaway by Colton Parayko
+164,takeaway,Ryan Suter,[52. 39.],3,18:00,MIN,STL,STL,19,MIN,30,2,1,8470600,Takeaway by Ryan Suter
+168,takeaway,Joel Eriksson Ek,[89. -7.],3,16:40,MIN,STL,STL,19,MIN,30,2,1,8478493,Takeaway by Joel Eriksson Ek
+176,takeaway,Mikko Koivu,[ 92. -14.],3,12:38,MIN,STL,STL,19,MIN,30,2,1,8469459,Takeaway by Mikko Koivu
+184,takeaway,Sammy Blais,[71.  1.],3,10:19,STL,MIN,STL,19,MIN,30,2,1,8478104,Takeaway by Sammy Blais
+191,takeaway,Carson Soucy,[-11. -39.],3,08:48,MIN,STL,STL,19,MIN,30,2,1,8477369,Takeaway by Carson Soucy
+206,takeaway,Jaden Schwartz,[-31.  12.],3,02:40,STL,MIN,STL,19,MIN,30,2,1,8475768,Takeaway by Jaden Schwartz
+3,giveaway,Carl Gunnarsson,[-85.  33.],1,19:25,STL,MIN,MIN,30,STL,19,0,0,8474125,Giveaway by Carl Gunnarsson
+4,giveaway,Eric Staal,[-82.  35.],1,19:21,MIN,STL,MIN,30,STL,19,0,0,8470595,Giveaway by Eric Staal
+35,giveaway,Vince Dunn,[-83.  30.],1,12:33,STL,MIN,MIN,30,STL,19,1,1,8478407,Giveaway by Vince Dunn
+36,giveaway,Vince Dunn,[-77.  36.],1,12:17,STL,MIN,MIN,30,STL,19,1,1,8478407,Giveaway by Vince Dunn
+40,giveaway,Joel Eriksson Ek,[96. 19.],1,11:52,MIN,STL,MIN,30,STL,19,1,1,8478493,Giveaway by Joel Eriksson Ek
+44,giveaway,Nick Seeler,[63. 31.],1,11:15,MIN,STL,MIN,30,STL,19,1,1,8476372,Giveaway by Nick Seeler
+61,giveaway,Nick Seeler,[72. 25.],1,06:14,MIN,STL,MIN,30,STL,19,1,1,8476372,Giveaway by Nick Seeler
+65,giveaway,Luke Kunin,[-39. -31.],1,05:05,MIN,STL,MIN,30,STL,19,1,2,8479316,Giveaway by Luke Kunin
+98,giveaway,Jake Allen,[84. -7.],2,15:05,STL,MIN,MIN,30,STL,19,3,2,8474596,Giveaway by Jake Allen
+126,giveaway,Ryan O'Reilly,[-87.  34.],2,06:43,STL,MIN,MIN,30,STL,19,3,2,8475158,Giveaway by Ryan O'Reilly
+177,giveaway,Justin Faulk,[17. 35.],3,11:54,STL,MIN,MIN,30,STL,19,3,3,8475753,Giveaway by Justin Faulk
+17,takeaway,Oskar Sundqvist,[-72.  16.],1,16:34,STL,MIN,MIN,30,STL,19,1,0,8476897,Takeaway by Oskar Sundqvist
+19,takeaway,Oskar Sundqvist,[39. 31.],1,16:12,STL,MIN,MIN,30,STL,19,1,0,8476897,Takeaway by Oskar Sundqvist
+39,takeaway,Joel Eriksson Ek,[92. 32.],1,11:57,MIN,STL,MIN,30,STL,19,1,1,8478493,Takeaway by Joel Eriksson Ek
+122,takeaway,Mats Zuccarello,[  8. -34.],2,08:40,MIN,STL,MIN,30,STL,19,3,2,8475692,Takeaway by Mats Zuccarello
+156,takeaway,Kevin Fiala,[-18.  36.],3,18:19,MIN,STL,MIN,30,STL,19,3,2,8477942,Takeaway by Kevin Fiala
+195,takeaway,Robert Thomas,[-40.   6.],3,06:10,STL,MIN,MIN,30,STL,19,3,3,8480023,Takeaway by Robert Thomas
+200,takeaway,Jaden Schwartz,[97.  4.],3,03:20,STL,MIN,MIN,30,STL,19,3,3,8475768,Takeaway by Jaden Schwartz
+208,takeaway,Oskar Sundqvist,[87. -8.],3,00:28,STL,MIN,MIN,30,STL,19,3,3,8476897,Takeaway by Oskar Sundqvist
+6,giveaway,Adam Henrique,[-17.  39.],1,18:09,ANA,MIN,ANA,24,MIN,30,0,0,8474641,Giveaway by Adam Henrique
+35,giveaway,Marcus Foligno,[ 59. -33.],1,11:44,MIN,ANA,ANA,24,MIN,30,0,0,8475220,Giveaway by Marcus Foligno
+36,giveaway,Alex Stalock,[88. -8.],1,11:33,MIN,ANA,ANA,24,MIN,30,0,0,8471774,Giveaway by Alex Stalock
+43,giveaway,Korbinian Holzer,[-94. -15.],1,09:31,ANA,MIN,ANA,24,MIN,30,0,0,8473560,Giveaway by Korbinian Holzer
+57,giveaway,Carter Rowney,[ 95. -14.],1,04:49,ANA,MIN,ANA,24,MIN,30,0,0,8477240,Giveaway by Carter Rowney
+62,giveaway,Mats Zuccarello,[-89. -32.],1,03:41,MIN,ANA,ANA,24,MIN,30,0,0,8475692,Giveaway by Mats Zuccarello
+67,giveaway,Jared Spurgeon,[-64. -25.],1,02:46,MIN,ANA,ANA,24,MIN,30,0,0,8474716,Giveaway by Jared Spurgeon
+70,giveaway,Alex Stalock,[85. 11.],1,02:16,MIN,ANA,ANA,24,MIN,30,0,0,8471774,Giveaway by Alex Stalock
+78,giveaway,Michael Del Zotto,[ 71. -35.],2,19:09,ANA,MIN,ANA,24,MIN,30,0,0,8474584,Giveaway by Michael Del Zotto
+80,giveaway,Zach Parise,[71. 29.],2,18:46,MIN,ANA,ANA,24,MIN,30,0,0,8470610,Giveaway by Zach Parise
+90,giveaway,Eric Staal,[96. 13.],2,17:15,MIN,ANA,ANA,24,MIN,30,2,0,8470595,Giveaway by Eric Staal
+98,giveaway,Joel Eriksson Ek,[97. 10.],2,14:46,MIN,ANA,ANA,24,MIN,30,2,0,8478493,Giveaway by Joel Eriksson Ek
+101,giveaway,Jacob Larsson,[ 34. -10.],2,13:59,ANA,MIN,ANA,24,MIN,30,2,0,8478491,Giveaway by Jacob Larsson
+104,giveaway,Sam Steel,[ 75. -22.],2,13:28,ANA,MIN,ANA,24,MIN,30,2,0,8479351,Giveaway by Sam Steel
+105,giveaway,Eric Staal,[ 67. -27.],2,13:23,MIN,ANA,ANA,24,MIN,30,2,0,8470595,Giveaway by Eric Staal
+106,giveaway,Nick Ritchie,[ 34. -25.],2,13:19,ANA,MIN,ANA,24,MIN,30,2,0,8477941,Giveaway by Nick Ritchie
+117,giveaway,Ryan Hartman,[ 35. -27.],2,11:50,MIN,ANA,ANA,24,MIN,30,2,0,8477451,Giveaway by Ryan Hartman
+121,giveaway,Erik Gudbranson,[83. 35.],2,10:53,ANA,MIN,ANA,24,MIN,30,2,0,8475790,Giveaway by Erik Gudbranson
+145,giveaway,Ryan Getzlaf,[ 69. -16.],2,06:33,ANA,MIN,ANA,24,MIN,30,2,1,8470612,Giveaway by Ryan Getzlaf
+147,giveaway,Brad Hunt,[-90.  29.],2,05:55,MIN,ANA,ANA,24,MIN,30,2,1,8476779,Giveaway by Brad Hunt
+151,giveaway,Michael Del Zotto,[45. 30.],2,04:47,ANA,MIN,ANA,24,MIN,30,2,1,8474584,Giveaway by Michael Del Zotto
+160,giveaway,Carson Soucy,[93. 15.],2,02:34,MIN,ANA,ANA,24,MIN,30,2,1,8477369,Giveaway by Carson Soucy
+171,giveaway,Jared Spurgeon,[-60. -21.],2,01:00,MIN,ANA,ANA,24,MIN,30,2,1,8474716,Giveaway by Jared Spurgeon
+178,giveaway,Rickard Rakell,[75. 29.],3,18:36,ANA,MIN,ANA,24,MIN,30,2,1,8476483,Giveaway by Rickard Rakell
+188,giveaway,Michael Del Zotto,[-86.  28.],3,16:48,ANA,MIN,ANA,24,MIN,30,2,2,8474584,Giveaway by Michael Del Zotto
+201,giveaway,Carter Rowney,[ 74. -31.],3,13:03,ANA,MIN,ANA,24,MIN,30,2,3,8477240,Giveaway by Carter Rowney
+221,giveaway,Eric Staal,[38. -2.],3,07:41,MIN,ANA,ANA,24,MIN,30,2,3,8470595,Giveaway by Eric Staal
+234,giveaway,Mats Zuccarello,[-93.  -9.],3,04:20,MIN,ANA,ANA,24,MIN,30,2,3,8475692,Giveaway by Mats Zuccarello
+24,takeaway,Sam Steel,[-72.  -4.],1,14:19,ANA,MIN,ANA,24,MIN,30,0,0,8479351,Takeaway by Sam Steel
+74,takeaway,Ryan Suter,[ 68. -26.],1,00:13,MIN,ANA,ANA,24,MIN,30,0,0,8470600,Takeaway by Ryan Suter
+150,takeaway,Jonas Brodin,[-44. -19.],2,04:55,MIN,ANA,ANA,24,MIN,30,2,1,8476463,Takeaway by Jonas Brodin
+181,takeaway,Troy Terry,[ 21. -11.],3,18:29,ANA,MIN,ANA,24,MIN,30,2,2,8478873,Takeaway by Troy Terry
+182,takeaway,Mats Zuccarello,[80. 38.],3,18:14,MIN,ANA,ANA,24,MIN,30,2,2,8475692,Takeaway by Mats Zuccarello
+187,takeaway,Michael Del Zotto,[-96. -15.],3,16:53,ANA,MIN,ANA,24,MIN,30,2,2,8474584,Takeaway by Michael Del Zotto
+66,giveaway,Timo Meier,[44. 13.],1,05:42,SJS,MIN,SJS,28,MIN,30,2,0,8478414,Giveaway by Timo Meier
+82,giveaway,Eric Staal,[31. 36.],1,03:01,MIN,SJS,SJS,28,MIN,30,3,0,8470595,Giveaway by Eric Staal
+91,giveaway,Patrick Marleau,[ 50. -23.],1,01:00,SJS,MIN,SJS,28,MIN,30,4,0,8466139,Giveaway by Patrick Marleau
+93,giveaway,Erik Karlsson,[-91. -13.],1,00:51,SJS,MIN,SJS,28,MIN,30,4,0,8474578,Giveaway by Erik Karlsson
+105,giveaway,Marc-Edouard Vlasic,[13. -2.],2,19:33,SJS,MIN,SJS,28,MIN,30,4,0,8471709,Giveaway by Marc-Edouard Vlasic
+111,giveaway,Kevin Fiala,[ 99. -15.],2,17:05,MIN,SJS,SJS,28,MIN,30,4,0,8477942,Giveaway by Kevin Fiala
+134,giveaway,Logan Couture,[ 35. -41.],2,13:05,SJS,MIN,SJS,28,MIN,30,4,0,8474053,Giveaway by Logan Couture
+142,giveaway,Kevin Fiala,[ 58. -40.],2,10:30,MIN,SJS,SJS,28,MIN,30,4,0,8477942,Giveaway by Kevin Fiala
+143,giveaway,Erik Karlsson,[87. 35.],2,10:09,SJS,MIN,SJS,28,MIN,30,4,0,8474578,Giveaway by Erik Karlsson
+166,giveaway,Marcus Sorensen,[81. 27.],2,05:19,SJS,MIN,SJS,28,MIN,30,4,0,8475834,Giveaway by Marcus Sorensen
+179,giveaway,Barclay Goodrow,[ 59. -25.],2,02:02,SJS,MIN,SJS,28,MIN,30,5,1,8476624,Giveaway by Barclay Goodrow
+189,giveaway,Kevin Fiala,[-20.  35.],2,00:17,MIN,SJS,SJS,28,MIN,30,6,2,8477942,Giveaway by Kevin Fiala
+192,giveaway,Joel Eriksson Ek,[-5. 10.],3,19:14,MIN,SJS,SJS,28,MIN,30,6,2,8478493,Giveaway by Joel Eriksson Ek
+195,giveaway,Tomas Hertl,[ 42. -11.],3,17:56,SJS,MIN,SJS,28,MIN,30,6,2,8476881,Giveaway by Tomas Hertl
+215,giveaway,Martin Jones,[-97.   2.],3,11:55,SJS,MIN,SJS,28,MIN,30,6,2,8474889,Giveaway by Martin Jones
+219,giveaway,Noah Gregor,[-37.  27.],3,11:19,SJS,MIN,SJS,28,MIN,30,6,3,8479393,Giveaway by Noah Gregor
+242,giveaway,Kevin Labanc,[72. -6.],3,07:01,SJS,MIN,SJS,28,MIN,30,6,4,8478099,Giveaway by Kevin Labanc
+244,giveaway,Joe Thornton,[35. 18.],3,06:27,SJS,MIN,SJS,28,MIN,30,6,4,8466138,Giveaway by Joe Thornton
+245,giveaway,Erik Karlsson,[49. -6.],3,05:57,SJS,MIN,SJS,28,MIN,30,6,4,8474578,Giveaway by Erik Karlsson
+262,giveaway,Logan Couture,[-56.  38.],3,00:23,SJS,MIN,SJS,28,MIN,30,6,5,8474053,Giveaway by Logan Couture
+6,takeaway,Ryan Donato,[ 20. -12.],1,18:25,MIN,SJS,SJS,28,MIN,30,1,0,8477987,Takeaway by Ryan Donato
+10,takeaway,Noah Gregor,[15. 13.],1,17:55,SJS,MIN,SJS,28,MIN,30,1,0,8479393,Takeaway by Noah Gregor
+23,takeaway,Radim Simek,[46. 19.],1,15:27,SJS,MIN,SJS,28,MIN,30,1,0,8480160,Takeaway by Radim Simek
+33,takeaway,Jordan Greenway,[-40.  18.],1,13:47,MIN,SJS,SJS,28,MIN,30,2,0,8478413,Takeaway by Jordan Greenway
+35,takeaway,Marcus Sorensen,[-43.  -6.],1,13:25,SJS,MIN,SJS,28,MIN,30,2,0,8475834,Takeaway by Marcus Sorensen
+64,takeaway,Mats Zuccarello,[-15.   6.],1,06:10,MIN,SJS,SJS,28,MIN,30,2,0,8475692,Takeaway by Mats Zuccarello
+73,takeaway,Jared Spurgeon,[-31. -17.],1,04:53,MIN,SJS,SJS,28,MIN,30,2,0,8474716,Takeaway by Jared Spurgeon
+110,takeaway,Mats Zuccarello,[30. 40.],2,17:36,MIN,SJS,SJS,28,MIN,30,4,0,8475692,Takeaway by Mats Zuccarello
+122,takeaway,Brent Burns,[ 0. -5.],2,15:38,SJS,MIN,SJS,28,MIN,30,4,0,8470613,Takeaway by Brent Burns
+148,takeaway,Ryan Hartman,[ 11. -11.],2,09:09,MIN,SJS,SJS,28,MIN,30,4,0,8477451,Takeaway by Ryan Hartman
+191,takeaway,Patrick Marleau,[ 16. -23.],3,19:30,SJS,MIN,SJS,28,MIN,30,6,2,8466139,Takeaway by Patrick Marleau
+194,takeaway,Erik Karlsson,[ 4. -9.],3,18:15,SJS,MIN,SJS,28,MIN,30,6,2,8474578,Takeaway by Erik Karlsson
+204,takeaway,Evander Kane,[-76.  40.],3,15:49,SJS,MIN,SJS,28,MIN,30,6,2,8475169,Takeaway by Evander Kane
+206,takeaway,Ryan Hartman,[ 10. -20.],3,15:22,MIN,SJS,SJS,28,MIN,30,6,2,8477451,Takeaway by Ryan Hartman
+240,takeaway,Tomas Hertl,[41. 36.],3,07:58,SJS,MIN,SJS,28,MIN,30,6,4,8476881,Takeaway by Tomas Hertl
+248,takeaway,Barclay Goodrow,[-36.  20.],3,04:23,SJS,MIN,SJS,28,MIN,30,6,5,8476624,Takeaway by Barclay Goodrow
+252,takeaway,Jordan Greenway,[ 11. -40.],3,03:39,MIN,SJS,SJS,28,MIN,30,6,5,8478413,Takeaway by Jordan Greenway
+258,takeaway,Eric Staal,[ 47. -36.],3,01:42,MIN,SJS,SJS,28,MIN,30,6,5,8470595,Takeaway by Eric Staal
+260,takeaway,Logan Couture,[50. -8.],3,01:13,SJS,MIN,SJS,28,MIN,30,6,5,8474053,Takeaway by Logan Couture
+46,giveaway,Conor Garland,[43.  4.],1,05:19,ARI,MIN,ARI,53,MIN,30,2,0,8478856,Giveaway by Conor Garland
+47,giveaway,Jakob Chychrun,[ 37. -31.],1,05:15,ARI,MIN,ARI,53,MIN,30,2,0,8479345,Giveaway by Jakob Chychrun
+53,giveaway,Christian Dvorak,[-92.  32.],1,03:40,ARI,MIN,ARI,53,MIN,30,2,0,8477989,Giveaway by Christian Dvorak
+57,giveaway,Oliver Ekman-Larsson,[37. 32.],1,03:13,ARI,MIN,ARI,53,MIN,30,2,0,8475171,Giveaway by Oliver Ekman-Larsson
+58,giveaway,Ryan Hartman,[35. 36.],1,03:02,MIN,ARI,ARI,53,MIN,30,2,0,8477451,Giveaway by Ryan Hartman
+60,giveaway,Eric Staal,[-96. -13.],1,02:29,MIN,ARI,ARI,53,MIN,30,2,0,8470595,Giveaway by Eric Staal
+67,giveaway,Phil Kessel,[38. -6.],1,00:54,ARI,MIN,ARI,53,MIN,30,2,0,8473548,Giveaway by Phil Kessel
+71,giveaway,Oliver Ekman-Larsson,[ 59. -36.],1,00:04,ARI,MIN,ARI,53,MIN,30,2,0,8475171,Giveaway by Oliver Ekman-Larsson
+95,giveaway,Nick Schmaltz,[-50. -15.],2,15:55,ARI,MIN,ARI,53,MIN,30,2,1,8477951,Giveaway by Nick Schmaltz
+137,giveaway,Ryan Suter,[-57.  13.],2,04:41,MIN,ARI,ARI,53,MIN,30,3,2,8470600,Giveaway by Ryan Suter
+155,giveaway,Kevin Fiala,[-48.  34.],3,18:52,MIN,ARI,ARI,53,MIN,30,3,3,8477942,Giveaway by Kevin Fiala
+161,giveaway,Jordan Oesterle,[-36. -20.],3,16:25,ARI,MIN,ARI,53,MIN,30,3,3,8477851,Giveaway by Jordan Oesterle
+172,giveaway,Kevin Fiala,[-40.  33.],3,14:04,MIN,ARI,ARI,53,MIN,30,3,4,8477942,Giveaway by Kevin Fiala
+207,giveaway,Brad Hunt,[ 9. 36.],3,04:17,MIN,ARI,ARI,53,MIN,30,3,4,8476779,Giveaway by Brad Hunt
+215,giveaway,Jared Spurgeon,[77. 35.],3,03:01,MIN,ARI,ARI,53,MIN,30,3,4,8474716,Giveaway by Jared Spurgeon
+30,takeaway,Carl Soderberg,[-40. -11.],1,09:50,ARI,MIN,ARI,53,MIN,30,1,0,8471262,Takeaway by Carl Soderberg
+97,takeaway,Alex Goligoski,[60. 40.],2,15:29,ARI,MIN,ARI,53,MIN,30,2,1,8471274,Takeaway by Alex Goligoski
+108,takeaway,Clayton Keller,[-68. -30.],2,12:02,ARI,MIN,ARI,53,MIN,30,2,1,8479343,Takeaway by Clayton Keller
+181,takeaway,Joel Eriksson Ek,[39. 35.],3,13:02,MIN,ARI,ARI,53,MIN,30,3,4,8478493,Takeaway by Joel Eriksson Ek
+198,takeaway,Lawson Crouse,[35. 38.],3,07:08,ARI,MIN,ARI,53,MIN,30,3,4,8478474,Takeaway by Lawson Crouse
+213,takeaway,Kevin Fiala,[ 35. -26.],3,03:20,MIN,ARI,ARI,53,MIN,30,3,4,8477942,Takeaway by Kevin Fiala
+6,giveaway,Jonas Brodin,[-99.  10.],1,18:56,MIN,LAK,LAK,26,MIN,30,0,0,8476463,Giveaway by Jonas Brodin
+15,giveaway,Austin Wagner,[60. 36.],1,17:22,LAK,MIN,LAK,26,MIN,30,1,0,8478455,Giveaway by Austin Wagner
+19,giveaway,Sean Walker,[ 47. -28.],1,16:00,LAK,MIN,LAK,26,MIN,30,1,0,8480336,Giveaway by Sean Walker
+29,giveaway,Drew Doughty,[45. 18.],1,13:25,LAK,MIN,LAK,26,MIN,30,1,0,8474563,Giveaway by Drew Doughty
+76,giveaway,Tyler Toffoli,[51. 40.],1,04:47,LAK,MIN,LAK,26,MIN,30,1,0,8475726,Giveaway by Tyler Toffoli
+107,giveaway,Tyler Toffoli,[-91. -29.],2,18:20,LAK,MIN,LAK,26,MIN,30,1,0,8475726,Giveaway by Tyler Toffoli
+111,giveaway,Matt Roy,[-81. -29.],2,17:02,LAK,MIN,LAK,26,MIN,30,1,0,8478911,Giveaway by Matt Roy
+114,giveaway,Devan Dubnyk,[97. -1.],2,16:10,MIN,LAK,LAK,26,MIN,30,1,0,8471227,Giveaway by Devan Dubnyk
+126,giveaway,Drew Doughty,[-95.   6.],2,14:11,LAK,MIN,LAK,26,MIN,30,1,0,8474563,Giveaway by Drew Doughty
+134,giveaway,Jonas Brodin,[ 51. -33.],2,12:10,MIN,LAK,LAK,26,MIN,30,1,0,8476463,Giveaway by Jonas Brodin
+156,giveaway,Anze Kopitar,[-83.  16.],2,05:44,LAK,MIN,LAK,26,MIN,30,2,0,8471685,Giveaway by Anze Kopitar
+158,giveaway,Nikolai Prokhorkin,[-96.   8.],2,04:23,LAK,MIN,LAK,26,MIN,30,2,0,8476947,Giveaway by Nikolai Prokhorkin
+161,giveaway,Nikolai Prokhorkin,[-49. -31.],2,04:07,LAK,MIN,LAK,26,MIN,30,2,1,8476947,Giveaway by Nikolai Prokhorkin
+170,giveaway,Anze Kopitar,[-37. -17.],2,00:52,LAK,MIN,LAK,26,MIN,30,2,1,8471685,Giveaway by Anze Kopitar
+173,giveaway,Drew Doughty,[-88.  26.],2,00:22,LAK,MIN,LAK,26,MIN,30,2,1,8474563,Giveaway by Drew Doughty
+175,giveaway,Jonathan Quick,[97.  0.],3,19:47,LAK,MIN,LAK,26,MIN,30,2,1,8471734,Giveaway by Jonathan Quick
+181,giveaway,Devan Dubnyk,[-95.   2.],3,18:59,MIN,LAK,LAK,26,MIN,30,2,1,8471227,Giveaway by Devan Dubnyk
+245,giveaway,Drew Doughty,[97.  4.],3,02:31,LAK,MIN,LAK,26,MIN,30,2,1,8474563,Giveaway by Drew Doughty
+247,giveaway,Ben Hutton,[ 93. -20.],3,01:56,LAK,MIN,LAK,26,MIN,30,2,1,8477018,Giveaway by Ben Hutton
+248,giveaway,Ben Hutton,[ 80. -32.],3,01:44,LAK,MIN,LAK,26,MIN,30,2,1,8477018,Giveaway by Ben Hutton
+18,takeaway,Michael Amadio,[-25.  26.],1,16:09,LAK,MIN,LAK,26,MIN,30,1,0,8478020,Takeaway by Michael Amadio
+38,takeaway,Ryan Hartman,[68. 19.],1,11:48,MIN,LAK,LAK,26,MIN,30,1,0,8477451,Takeaway by Ryan Hartman
+68,takeaway,Matt Dumba,[-88. -25.],1,06:27,MIN,LAK,LAK,26,MIN,30,1,0,8476856,Takeaway by Matt Dumba
+95,takeaway,Michael Amadio,[0. 5.],1,00:46,LAK,MIN,LAK,26,MIN,30,1,0,8478020,Takeaway by Michael Amadio
+138,takeaway,Victor Rask,[-26.   8.],2,11:45,MIN,LAK,LAK,26,MIN,30,1,0,8476437,Takeaway by Victor Rask
+194,takeaway,Mikko Koivu,[0. 9.],3,14:43,MIN,LAK,LAK,26,MIN,30,2,1,8469459,Takeaway by Mikko Koivu
+227,takeaway,Michael Amadio,[-37. -21.],3,08:35,LAK,MIN,LAK,26,MIN,30,2,1,8478020,Takeaway by Michael Amadio
+233,takeaway,Mats Zuccarello,[-16.  13.],3,06:29,MIN,LAK,LAK,26,MIN,30,2,1,8475692,Takeaway by Mats Zuccarello
+9,giveaway,Jason Zucker,[17. 30.],1,18:19,MIN,ARI,MIN,30,ARI,53,0,0,8475722,Giveaway by Jason Zucker
+30,giveaway,Brad Hunt,[ 30. -23.],1,11:02,MIN,ARI,MIN,30,ARI,53,0,0,8476779,Giveaway by Brad Hunt
+60,giveaway,Eric Staal,[-54. -40.],1,04:19,MIN,ARI,MIN,30,ARI,53,1,0,8470595,Giveaway by Eric Staal
+75,giveaway,Jared Spurgeon,[-93.  28.],2,19:04,MIN,ARI,MIN,30,ARI,53,1,0,8474716,Giveaway by Jared Spurgeon
+77,giveaway,Luke Kunin,[ 64. -24.],2,18:22,MIN,ARI,MIN,30,ARI,53,1,0,8479316,Giveaway by Luke Kunin
+86,giveaway,Devan Dubnyk,[-97.  -2.],2,14:58,MIN,ARI,MIN,30,ARI,53,1,0,8471227,Giveaway by Devan Dubnyk
+142,giveaway,Eric Staal,[-78.  37.],3,19:06,MIN,ARI,MIN,30,ARI,53,1,1,8470595,Giveaway by Eric Staal
+170,giveaway,Phil Kessel,[81. 31.],3,10:08,ARI,MIN,MIN,30,ARI,53,2,2,8473548,Giveaway by Phil Kessel
+176,giveaway,Alex Goligoski,[-70.  10.],3,08:18,ARI,MIN,MIN,30,ARI,53,2,2,8471274,Giveaway by Alex Goligoski
+177,giveaway,Alex Goligoski,[-91.  -8.],3,07:54,ARI,MIN,MIN,30,ARI,53,2,2,8471274,Giveaway by Alex Goligoski
+8,takeaway,Jason Zucker,[-11.  35.],1,18:21,MIN,ARI,MIN,30,ARI,53,0,0,8475722,Takeaway by Jason Zucker
+42,takeaway,Matt Dumba,[36.  9.],1,08:07,MIN,ARI,MIN,30,ARI,53,0,0,8476856,Takeaway by Matt Dumba
+50,takeaway,Zach Parise,[-90.   9.],1,05:23,MIN,ARI,MIN,30,ARI,53,0,0,8470610,Takeaway by Zach Parise
+57,takeaway,Kevin Fiala,[-17. -32.],1,04:32,MIN,ARI,MIN,30,ARI,53,1,0,8477942,Takeaway by Kevin Fiala
+89,takeaway,Vinnie Hinostroza,[-41.  14.],2,14:18,ARI,MIN,MIN,30,ARI,53,1,1,8476994,Takeaway by Vinnie Hinostroza
+95,takeaway,Jason Zucker,[ -8. -31.],2,12:05,MIN,ARI,MIN,30,ARI,53,1,1,8475722,Takeaway by Jason Zucker
+150,takeaway,Jared Spurgeon,[64. 40.],3,16:20,MIN,ARI,MIN,30,ARI,53,1,1,8474716,Takeaway by Jared Spurgeon
+165,takeaway,Clayton Keller,[ 5. 30.],3,11:58,ARI,MIN,MIN,30,ARI,53,2,2,8479343,Takeaway by Clayton Keller
+5,giveaway,Erik Haula,[-44.  -6.],1,19:04,CAR,MIN,MIN,30,CAR,12,0,0,8475287,Giveaway by Erik Haula
+8,giveaway,Jordan Staal,[62. 40.],1,18:19,CAR,MIN,MIN,30,CAR,12,0,0,8473533,Giveaway by Jordan Staal
+23,giveaway,Eric Staal,[77. 39.],1,14:45,MIN,CAR,MIN,30,CAR,12,0,1,8470595,Giveaway by Eric Staal
+103,giveaway,Sebastian Aho,[95. 25.],2,14:02,CAR,MIN,MIN,30,CAR,12,1,2,8478427,Giveaway by Sebastian Aho
+200,giveaway,Brock McGinn,[-72.   2.],3,05:05,CAR,MIN,MIN,30,CAR,12,3,3,8476934,Giveaway by Brock McGinn
+1,takeaway,Brad Hunt,[10. 11.],1,19:56,MIN,CAR,MIN,30,CAR,12,0,0,8476779,Takeaway by Brad Hunt
+11,takeaway,Sebastian Aho,[-96.  19.],1,17:41,CAR,MIN,MIN,30,CAR,12,0,0,8478427,Takeaway by Sebastian Aho
+25,takeaway,Ryan Donato,[ 33. -27.],1,14:19,MIN,CAR,MIN,30,CAR,12,0,1,8477987,Takeaway by Ryan Donato
+69,takeaway,Brad Hunt,[ 31. -11.],1,02:00,MIN,CAR,MIN,30,CAR,12,0,2,8476779,Takeaway by Brad Hunt
+120,takeaway,Joel Edmundson,[ -5. -26.],2,09:20,CAR,MIN,MIN,30,CAR,12,1,3,8476441,Takeaway by Joel Edmundson
+121,takeaway,Jason Zucker,[  6. -33.],2,09:09,MIN,CAR,MIN,30,CAR,12,1,3,8475722,Takeaway by Jason Zucker
+126,takeaway,Sebastian Aho,[-71. -26.],2,07:22,CAR,MIN,MIN,30,CAR,12,1,3,8478427,Takeaway by Sebastian Aho
+136,takeaway,Jared Spurgeon,[-55. -25.],2,05:19,MIN,CAR,MIN,30,CAR,12,1,3,8474716,Takeaway by Jared Spurgeon
+144,takeaway,Victor Rask,[ 43. -20.],2,03:01,MIN,CAR,MIN,30,CAR,12,2,3,8476437,Takeaway by Victor Rask
+158,takeaway,Martin Necas,[-11. -31.],3,17:00,CAR,MIN,MIN,30,CAR,12,3,3,8480039,Takeaway by Martin Necas
+193,takeaway,Jaccob Slavin,[-62.  -3.],3,06:04,CAR,MIN,MIN,30,CAR,12,3,3,8476958,Takeaway by Jaccob Slavin
+19,giveaway,Conor Sheary,[51. 17.],1,11:10,BUF,MIN,BUF,7,MIN,30,0,1,8477839,Giveaway by Conor Sheary
+35,giveaway,Ryan Donato,[ 38. -22.],1,07:00,MIN,BUF,BUF,7,MIN,30,0,1,8477987,Giveaway by Ryan Donato
+37,giveaway,Rasmus Asplund,[-14. -13.],1,06:44,BUF,MIN,BUF,7,MIN,30,0,1,8479335,Giveaway by Rasmus Asplund
+39,giveaway,John Gilmour,[-42. -11.],1,06:14,BUF,MIN,BUF,7,MIN,30,0,1,8477337,Giveaway by John Gilmour
+42,giveaway,Alex Stalock,[33. 37.],1,05:41,MIN,BUF,BUF,7,MIN,30,0,1,8471774,Giveaway by Alex Stalock
+70,giveaway,Joel Eriksson Ek,[33. 35.],2,18:51,MIN,BUF,BUF,7,MIN,30,0,2,8478493,Giveaway by Joel Eriksson Ek
+111,giveaway,Evan Rodrigues,[ 32. -38.],2,05:55,BUF,MIN,BUF,7,MIN,30,0,3,8478542,Giveaway by Evan Rodrigues
+136,giveaway,Jake McCabe,[32.  8.],3,19:37,BUF,MIN,BUF,7,MIN,30,0,3,8476931,Giveaway by Jake McCabe
+142,giveaway,John Gilmour,[-36.  40.],3,15:35,BUF,MIN,BUF,7,MIN,30,0,3,8477337,Giveaway by John Gilmour
+151,giveaway,Sam Reinhart,[ 56. -29.],3,10:42,BUF,MIN,BUF,7,MIN,30,0,3,8477933,Giveaway by Sam Reinhart
+168,giveaway,Rasmus Ristolainen,[-84.  37.],3,05:14,BUF,MIN,BUF,7,MIN,30,0,3,8477499,Giveaway by Rasmus Ristolainen
+179,giveaway,Jack Eichel,[43. 36.],3,02:42,BUF,MIN,BUF,7,MIN,30,1,3,8478403,Giveaway by Jack Eichel
+180,giveaway,Sam Reinhart,[87. 36.],3,02:20,BUF,MIN,BUF,7,MIN,30,1,3,8477933,Giveaway by Sam Reinhart
+13,takeaway,Mikko Koivu,[53.  0.],1,13:03,MIN,BUF,BUF,7,MIN,30,0,0,8469459,Takeaway by Mikko Koivu
+55,takeaway,Mikko Koivu,[21. 38.],1,02:40,MIN,BUF,BUF,7,MIN,30,0,1,8469459,Takeaway by Mikko Koivu
+81,takeaway,Sam Reinhart,[37. 13.],2,16:02,BUF,MIN,BUF,7,MIN,30,0,2,8477933,Takeaway by Sam Reinhart
+112,takeaway,Jeff Skinner,[ 63. -39.],2,05:42,BUF,MIN,BUF,7,MIN,30,0,3,8475784,Takeaway by Jeff Skinner
+113,takeaway,Jack Eichel,[-78.  39.],2,05:13,BUF,MIN,BUF,7,MIN,30,0,3,8478403,Takeaway by Jack Eichel
+16,giveaway,Ian Cole,[-47.  32.],1,15:00,COL,MIN,MIN,30,COL,21,0,0,8474013,Giveaway by Ian Cole
+25,giveaway,Vladislav Kamenev,[55. 38.],1,12:03,COL,MIN,MIN,30,COL,21,0,0,8477973,Giveaway by Vladislav Kamenev
+57,giveaway,Jayson Megna,[-17.  38.],1,03:46,COL,MIN,MIN,30,COL,21,0,0,8477126,Giveaway by Jayson Megna
+66,giveaway,Jason Zucker,[ -8. -30.],1,01:46,MIN,COL,MIN,30,COL,21,0,0,8475722,Giveaway by Jason Zucker
+76,giveaway,Ryan Graves,[86. 28.],2,19:14,COL,MIN,MIN,30,COL,21,0,0,8477435,Giveaway by Ryan Graves
+90,giveaway,Mats Zuccarello,[ 21. -34.],2,15:32,MIN,COL,MIN,30,COL,21,2,0,8475692,Giveaway by Mats Zuccarello
+110,giveaway,Samuel Girard,[-12. -35.],2,11:28,COL,MIN,MIN,30,COL,21,2,0,8479398,Giveaway by Samuel Girard
+138,giveaway,Kevin Fiala,[-38. -13.],2,02:25,MIN,COL,MIN,30,COL,21,2,1,8477942,Giveaway by Kevin Fiala
+152,giveaway,Brad Hunt,[-48. -32.],3,18:40,MIN,COL,MIN,30,COL,21,2,2,8476779,Giveaway by Brad Hunt
+158,giveaway,Alex Stalock,[79.  9.],3,16:39,MIN,COL,MIN,30,COL,21,2,2,8471774,Giveaway by Alex Stalock
+6,takeaway,Ryan Hartman,[-38.  37.],1,17:00,MIN,COL,MIN,30,COL,21,0,0,8477451,Takeaway by Ryan Hartman
+18,takeaway,Pierre-Edouard Bellemare,[ 86. -31.],1,14:17,COL,MIN,MIN,30,COL,21,0,0,8477930,Takeaway by Pierre-Edouard Bellemare
+45,takeaway,Matt Dumba,[-36.   4.],1,05:48,MIN,COL,MIN,30,COL,21,0,0,8476856,Takeaway by Matt Dumba
+117,takeaway,Jordan Greenway,[ 92. -15.],2,07:45,MIN,COL,MIN,30,COL,21,2,0,8478413,Takeaway by Jordan Greenway
+118,takeaway,Cale Makar,[35. 37.],2,07:19,COL,MIN,MIN,30,COL,21,2,0,8480069,Takeaway by Cale Makar
+124,takeaway,Matt Dumba,[-39. -27.],2,05:15,MIN,COL,MIN,30,COL,21,2,1,8476856,Takeaway by Matt Dumba
+132,takeaway,Ryan Suter,[-21.  12.],2,04:03,MIN,COL,MIN,30,COL,21,2,1,8470600,Takeaway by Ryan Suter
+157,takeaway,Pierre-Edouard Bellemare,[-44. -34.],3,16:48,COL,MIN,MIN,30,COL,21,2,2,8477930,Takeaway by Pierre-Edouard Bellemare
+176,takeaway,Victor Rask,[-64.  34.],3,11:38,MIN,COL,MIN,30,COL,21,2,2,8476437,Takeaway by Victor Rask
+181,takeaway,Kevin Fiala,[-98.  -5.],3,11:06,MIN,COL,MIN,30,COL,21,2,2,8477942,Takeaway by Kevin Fiala
+184,takeaway,Kevin Fiala,[39. 10.],3,10:52,MIN,COL,MIN,30,COL,21,2,2,8477942,Takeaway by Kevin Fiala
+201,takeaway,Jordan Greenway,[ 61. -14.],3,06:42,MIN,COL,MIN,30,COL,21,3,2,8478413,Takeaway by Jordan Greenway
+215,takeaway,Nathan MacKinnon,[16. 13.],3,02:22,COL,MIN,MIN,30,COL,21,3,2,8477492,Takeaway by Nathan MacKinnon
+33,giveaway,David Krejci,[-26.  -7.],1,12:21,BOS,MIN,BOS,6,MIN,30,0,0,8471276,Giveaway by David Krejci
+37,giveaway,Kevin Fiala,[-69.  38.],1,11:59,MIN,BOS,BOS,6,MIN,30,0,0,8477942,Giveaway by Kevin Fiala
+54,giveaway,David Pastrnak,[-44. -27.],1,08:57,BOS,MIN,BOS,6,MIN,30,0,1,8477956,Giveaway by David Pastrnak
+76,giveaway,Eric Staal,[ 9. 32.],1,05:07,MIN,BOS,BOS,6,MIN,30,0,1,8470595,Giveaway by Eric Staal
+97,giveaway,Matt Dumba,[-52. -37.],2,19:42,MIN,BOS,BOS,6,MIN,30,0,1,8476856,Giveaway by Matt Dumba
+126,giveaway,David Pastrnak,[-65. -24.],2,14:17,BOS,MIN,BOS,6,MIN,30,1,1,8477956,Giveaway by David Pastrnak
+184,giveaway,Eric Staal,[-93. -17.],3,19:06,MIN,BOS,BOS,6,MIN,30,2,3,8470595,Giveaway by Eric Staal
+185,giveaway,Mats Zuccarello,[-66. -35.],3,18:49,MIN,BOS,BOS,6,MIN,30,2,3,8475692,Giveaway by Mats Zuccarello
+188,giveaway,Eric Staal,[-90.  19.],3,18:10,MIN,BOS,BOS,6,MIN,30,2,3,8470595,Giveaway by Eric Staal
+191,giveaway,Kevin Fiala,[-53.  19.],3,17:52,MIN,BOS,BOS,6,MIN,30,2,3,8477942,Giveaway by Kevin Fiala
+194,giveaway,Brad Marchand,[-21.  35.],3,17:21,BOS,MIN,BOS,6,MIN,30,2,3,8473419,Giveaway by Brad Marchand
+254,giveaway,David Pastrnak,[32. 10.],3,04:17,BOS,MIN,BOS,6,MIN,30,2,4,8477956,Giveaway by David Pastrnak
+12,takeaway,Ryan Hartman,[13. 34.],1,16:53,MIN,BOS,BOS,6,MIN,30,0,0,8477451,Takeaway by Ryan Hartman
+27,takeaway,Danton Heinen,[-66. -24.],1,13:46,BOS,MIN,BOS,6,MIN,30,0,0,8478046,Takeaway by Danton Heinen
+46,takeaway,Steven Kampfer,[-55. -34.],1,10:16,BOS,MIN,BOS,6,MIN,30,0,1,8474000,Takeaway by Steven Kampfer
+49,takeaway,Jordan Greenway,[-77. -18.],1,09:51,MIN,BOS,BOS,6,MIN,30,0,1,8478413,Takeaway by Jordan Greenway
+60,takeaway,Zach Parise,[-79.   0.],1,08:11,MIN,BOS,BOS,6,MIN,30,0,1,8470610,Takeaway by Zach Parise
+62,takeaway,Mikko Koivu,[25. 11.],1,07:17,MIN,BOS,BOS,6,MIN,30,0,1,8469459,Takeaway by Mikko Koivu
+86,takeaway,Mikko Koivu,[ 31. -36.],1,03:15,MIN,BOS,BOS,6,MIN,30,0,1,8469459,Takeaway by Mikko Koivu
+105,takeaway,Joakim Nordstrom,[ 92. -16.],2,17:17,BOS,MIN,BOS,6,MIN,30,0,1,8475807,Takeaway by Joakim Nordstrom
+132,takeaway,Torey Krug,[-47. -11.],2,12:54,BOS,MIN,BOS,6,MIN,30,1,2,8476792,Takeaway by Torey Krug
+183,takeaway,Eric Staal,[-95.  -8.],3,19:13,MIN,BOS,BOS,6,MIN,30,2,3,8470595,Takeaway by Eric Staal
+204,takeaway,Carson Soucy,[95. -4.],3,15:03,MIN,BOS,BOS,6,MIN,30,2,3,8477369,Takeaway by Carson Soucy
+214,takeaway,Mats Zuccarello,[ 35. -15.],3,12:54,MIN,BOS,BOS,6,MIN,30,2,4,8475692,Takeaway by Mats Zuccarello
+215,takeaway,Jake DeBrusk,[-22.  -8.],3,12:42,BOS,MIN,BOS,6,MIN,30,2,4,8478498,Takeaway by Jake DeBrusk
+217,takeaway,Kevin Fiala,[11. 39.],3,12:02,MIN,BOS,BOS,6,MIN,30,2,4,8477942,Takeaway by Kevin Fiala
+223,takeaway,Victor Rask,[-75. -32.],3,10:41,MIN,BOS,BOS,6,MIN,30,2,4,8476437,Takeaway by Victor Rask
+229,takeaway,Anders Bjork,[ 0. 20.],3,09:40,BOS,MIN,BOS,6,MIN,30,2,4,8478075,Takeaway by Anders Bjork
+235,takeaway,Jordan Greenway,[-91. -13.],3,08:11,MIN,BOS,BOS,6,MIN,30,2,4,8478413,Takeaway by Jordan Greenway
+246,takeaway,Mikko Koivu,[ 14. -32.],3,06:33,MIN,BOS,BOS,6,MIN,30,2,4,8469459,Takeaway by Mikko Koivu
+255,takeaway,Ryan Hartman,[47. 37.],3,04:01,MIN,BOS,BOS,6,MIN,30,2,4,8477451,Takeaway by Ryan Hartman
+21,giveaway,Mats Zuccarello,[97. 10.],1,15:13,MIN,NYR,NYR,3,MIN,30,0,0,8475692,Giveaway by Mats Zuccarello
+28,giveaway,Filip Chytil,[-40.  32.],1,13:48,NYR,MIN,NYR,3,MIN,30,0,0,8480078,Giveaway by Filip Chytil
+32,giveaway,Ryan Suter,[-95.  -4.],1,12:56,MIN,NYR,NYR,3,MIN,30,0,0,8470600,Giveaway by Ryan Suter
+38,giveaway,Brett Howden,[ 85. -35.],1,12:22,NYR,MIN,NYR,3,MIN,30,0,0,8479353,Giveaway by Brett Howden
+55,giveaway,Brett Howden,[59. 14.],1,07:04,NYR,MIN,NYR,3,MIN,30,0,0,8479353,Giveaway by Brett Howden
+56,giveaway,Jesper Fast,[58. 35.],1,06:53,NYR,MIN,NYR,3,MIN,30,0,0,8475855,Giveaway by Jesper Fast
+57,giveaway,Pavel Buchnevich,[46. 35.],1,06:39,NYR,MIN,NYR,3,MIN,30,0,0,8477402,Giveaway by Pavel Buchnevich
+61,giveaway,Victor Rask,[-59.  37.],1,06:09,MIN,NYR,NYR,3,MIN,30,0,0,8476437,Giveaway by Victor Rask
+72,giveaway,Carson Soucy,[30. 23.],1,03:09,MIN,NYR,NYR,3,MIN,30,1,0,8477369,Giveaway by Carson Soucy
+95,giveaway,Micheal Haley,[96. -5.],2,16:54,NYR,MIN,NYR,3,MIN,30,1,0,8474230,Giveaway by Micheal Haley
+104,giveaway,Jared Spurgeon,[93. -7.],2,14:32,MIN,NYR,NYR,3,MIN,30,1,0,8474716,Giveaway by Jared Spurgeon
+107,giveaway,Brendan Lemieux,[ 72. -15.],2,13:11,NYR,MIN,NYR,3,MIN,30,1,0,8477962,Giveaway by Brendan Lemieux
+119,giveaway,Matt Dumba,[96.  7.],2,10:58,MIN,NYR,NYR,3,MIN,30,1,0,8476856,Giveaway by Matt Dumba
+134,giveaway,Pavel Buchnevich,[ 75. -29.],2,06:12,NYR,MIN,NYR,3,MIN,30,1,0,8477402,Giveaway by Pavel Buchnevich
+138,giveaway,Jacob Trouba,[-95.  -6.],2,05:52,NYR,MIN,NYR,3,MIN,30,1,0,8476885,Giveaway by Jacob Trouba
+157,giveaway,Artemi Panarin,[ 70. -25.],2,00:49,NYR,MIN,NYR,3,MIN,30,1,1,8478550,Giveaway by Artemi Panarin
+167,giveaway,Brendan Lemieux,[ 82. -36.],3,18:29,NYR,MIN,NYR,3,MIN,30,1,1,8477962,Giveaway by Brendan Lemieux
+173,giveaway,Pavel Buchnevich,[ -1. -26.],3,17:35,NYR,MIN,NYR,3,MIN,30,1,1,8477402,Giveaway by Pavel Buchnevich
+190,giveaway,Eric Staal,[-31. -29.],3,14:41,MIN,NYR,NYR,3,MIN,30,1,1,8470595,Giveaway by Eric Staal
+210,giveaway,Kevin Fiala,[ 42. -33.],3,10:44,MIN,NYR,NYR,3,MIN,30,1,1,8477942,Giveaway by Kevin Fiala
+217,giveaway,Tony DeAngelo,[-12. -18.],3,09:27,NYR,MIN,NYR,3,MIN,30,1,2,8477950,Giveaway by Tony DeAngelo
+220,giveaway,Ryan Suter,[-96. -16.],3,08:22,MIN,NYR,NYR,3,MIN,30,1,2,8470600,Giveaway by Ryan Suter
+230,giveaway,Kevin Fiala,[-77.  -5.],3,04:42,MIN,NYR,NYR,3,MIN,30,1,2,8477942,Giveaway by Kevin Fiala
+250,giveaway,Brendan Lemieux,[-26. -32.],3,01:08,NYR,MIN,NYR,3,MIN,30,2,2,8477962,Giveaway by Brendan Lemieux
+254,giveaway,Adam Fox,[61. 40.],3,00:36,NYR,MIN,NYR,3,MIN,30,2,2,8479323,Giveaway by Adam Fox
+8,takeaway,Ryan Suter,[-73.   3.],1,18:35,MIN,NYR,NYR,3,MIN,30,0,0,8470600,Takeaway by Ryan Suter
+12,takeaway,Kevin Fiala,[86. 10.],1,18:09,MIN,NYR,NYR,3,MIN,30,0,0,8477942,Takeaway by Kevin Fiala
+54,takeaway,Brett Howden,[71.  9.],1,07:08,NYR,MIN,NYR,3,MIN,30,0,0,8479353,Takeaway by Brett Howden
+75,takeaway,Ryan Hartman,[19. 38.],1,02:52,MIN,NYR,NYR,3,MIN,30,1,0,8477451,Takeaway by Ryan Hartman
+90,takeaway,Jordan Greenway,[ 49. -15.],2,19:00,MIN,NYR,NYR,3,MIN,30,1,0,8478413,Takeaway by Jordan Greenway
+96,takeaway,Jacob Trouba,[ 36. -27.],2,16:07,NYR,MIN,NYR,3,MIN,30,1,0,8476885,Takeaway by Jacob Trouba
+110,takeaway,Jordan Greenway,[72. 20.],2,12:51,MIN,NYR,NYR,3,MIN,30,1,0,8478413,Takeaway by Jordan Greenway
+128,takeaway,Zach Parise,[82.  9.],2,07:22,MIN,NYR,NYR,3,MIN,30,1,0,8470610,Takeaway by Zach Parise
+137,takeaway,Jacob Trouba,[-87.   9.],2,05:56,NYR,MIN,NYR,3,MIN,30,1,0,8476885,Takeaway by Jacob Trouba
+151,takeaway,Ryan Strome,[-11.  -8.],2,02:44,NYR,MIN,NYR,3,MIN,30,1,1,8476458,Takeaway by Ryan Strome
+153,takeaway,Ryan Strome,[-25.  -5.],2,02:26,NYR,MIN,NYR,3,MIN,30,1,1,8476458,Takeaway by Ryan Strome
+161,takeaway,Ryan Lindgren,[ 22. -38.],3,19:39,NYR,MIN,NYR,3,MIN,30,1,1,8479324,Takeaway by Ryan Lindgren
+172,takeaway,Pavel Buchnevich,[ -5. -29.],3,17:40,NYR,MIN,NYR,3,MIN,30,1,1,8477402,Takeaway by Pavel Buchnevich
+176,takeaway,Mats Zuccarello,[ 41. -23.],3,17:14,MIN,NYR,NYR,3,MIN,30,1,1,8475692,Takeaway by Mats Zuccarello
+187,takeaway,Adam Fox,[ 80. -26.],3,15:46,NYR,MIN,NYR,3,MIN,30,1,1,8479323,Takeaway by Adam Fox
+212,takeaway,Ryan Hartman,[13. 37.],3,10:04,MIN,NYR,NYR,3,MIN,30,1,1,8477451,Takeaway by Ryan Hartman
+215,takeaway,Kaapo Kakko,[-27.  22.],3,09:49,NYR,MIN,NYR,3,MIN,30,1,2,8481554,Takeaway by Kaapo Kakko
+216,takeaway,Jonas Brodin,[-73.  19.],3,09:38,MIN,NYR,NYR,3,MIN,30,1,2,8476463,Takeaway by Jonas Brodin
+236,takeaway,Matt Dumba,[-24. -19.],3,03:35,MIN,NYR,NYR,3,MIN,30,1,2,8476856,Takeaway by Matt Dumba
+237,takeaway,Brady Skjei,[ 76. -32.],3,03:25,NYR,MIN,NYR,3,MIN,30,1,2,8476869,Takeaway by Brady Skjei
+6,giveaway,P.K. Subban,[ 31. -14.],1,18:06,NJD,MIN,NJD,1,MIN,30,0,0,8474056,Giveaway by P.K. Subban
+7,giveaway,Carson Soucy,[15. 34.],1,17:56,MIN,NJD,NJD,1,MIN,30,0,0,8477369,Giveaway by Carson Soucy
+14,giveaway,Carson Soucy,[99. -9.],1,16:48,MIN,NJD,NJD,1,MIN,30,0,0,8477369,Giveaway by Carson Soucy
+20,giveaway,Damon Severson,[-88.  18.],1,16:00,NJD,MIN,NJD,1,MIN,30,0,0,8476923,Giveaway by Damon Severson
+23,giveaway,Blake Coleman,[-72. -10.],1,14:34,NJD,MIN,NJD,1,MIN,30,0,0,8476399,Giveaway by Blake Coleman
+28,giveaway,Nico Hischier,[-81. -21.],1,14:19,NJD,MIN,NJD,1,MIN,30,0,1,8480002,Giveaway by Nico Hischier
+29,giveaway,Matt Tennyson,[-83.   1.],1,14:14,NJD,MIN,NJD,1,MIN,30,0,1,8476807,Giveaway by Matt Tennyson
+48,giveaway,Andy Greene,[-28.  38.],1,09:04,NJD,MIN,NJD,1,MIN,30,0,1,8472382,Giveaway by Andy Greene
+50,giveaway,Brett Seney,[ 31. -26.],1,08:23,NJD,MIN,NJD,1,MIN,30,0,1,8478881,Giveaway by Brett Seney
+54,giveaway,P.K. Subban,[-98. -14.],1,07:31,NJD,MIN,NJD,1,MIN,30,0,1,8474056,Giveaway by P.K. Subban
+69,giveaway,Louis Domingue,[-97.  -1.],1,04:29,NJD,MIN,NJD,1,MIN,30,1,1,8475839,Giveaway by Louis Domingue
+72,giveaway,Sami Vatanen,[-77. -29.],1,03:50,NJD,MIN,NJD,1,MIN,30,1,1,8475222,Giveaway by Sami Vatanen
+89,giveaway,Damon Severson,[37. -4.],2,19:35,NJD,MIN,NJD,1,MIN,30,1,1,8476923,Giveaway by Damon Severson
+99,giveaway,Louis Domingue,[ 93. -21.],2,16:40,NJD,MIN,NJD,1,MIN,30,1,1,8475839,Giveaway by Louis Domingue
+105,giveaway,Louis Domingue,[ 94. -24.],2,15:00,NJD,MIN,NJD,1,MIN,30,1,1,8475839,Giveaway by Louis Domingue
+124,giveaway,Brett Seney,[55. 38.],2,11:06,NJD,MIN,NJD,1,MIN,30,1,1,8478881,Giveaway by Brett Seney
+137,giveaway,Nico Hischier,[55. 39.],2,07:14,NJD,MIN,NJD,1,MIN,30,1,2,8480002,Giveaway by Nico Hischier
+151,giveaway,Mikko Koivu,[ 54. -20.],2,04:46,MIN,NJD,NJD,1,MIN,30,2,2,8469459,Giveaway by Mikko Koivu
+171,giveaway,Louis Domingue,[97. 10.],2,00:07,NJD,MIN,NJD,1,MIN,30,2,2,8475839,Giveaway by Louis Domingue
+182,giveaway,Brett Seney,[58. 32.],3,17:33,NJD,MIN,NJD,1,MIN,30,2,2,8478881,Giveaway by Brett Seney
+211,giveaway,Travis Zajac,[-20. -18.],3,08:48,NJD,MIN,NJD,1,MIN,30,2,3,8471233,Giveaway by Travis Zajac
+218,giveaway,P.K. Subban,[61. 26.],3,07:17,NJD,MIN,NJD,1,MIN,30,2,3,8474056,Giveaway by P.K. Subban
+227,giveaway,P.K. Subban,[-95. -21.],3,03:04,NJD,MIN,NJD,1,MIN,30,2,3,8474056,Giveaway by P.K. Subban
+231,giveaway,Sami Vatanen,[34.  3.],3,00:57,NJD,MIN,NJD,1,MIN,30,2,3,8475222,Giveaway by Sami Vatanen
+22,takeaway,Mats Zuccarello,[34.  0.],1,14:57,MIN,NJD,NJD,1,MIN,30,0,0,8475692,Takeaway by Mats Zuccarello
+41,takeaway,Ryan Donato,[-48.  27.],1,10:07,MIN,NJD,NJD,1,MIN,30,0,1,8477987,Takeaway by Ryan Donato
+49,takeaway,Kevin Fiala,[-63.  34.],1,08:54,MIN,NJD,NJD,1,MIN,30,0,1,8477942,Takeaway by Kevin Fiala
+66,takeaway,Jason Zucker,[-49. -24.],1,04:58,MIN,NJD,NJD,1,MIN,30,1,1,8475722,Takeaway by Jason Zucker
+68,takeaway,Brett Seney,[15. 13.],1,04:36,NJD,MIN,NJD,1,MIN,30,1,1,8478881,Takeaway by Brett Seney
+71,takeaway,Zach Parise,[-36.  -4.],1,04:00,MIN,NJD,NJD,1,MIN,30,1,1,8470610,Takeaway by Zach Parise
+80,takeaway,Kyle Palmieri,[-51. -18.],1,00:50,NJD,MIN,NJD,1,MIN,30,1,1,8475151,Takeaway by Kyle Palmieri
+110,takeaway,Jared Spurgeon,[-55. -35.],2,13:43,MIN,NJD,NJD,1,MIN,30,1,1,8474716,Takeaway by Jared Spurgeon
+114,takeaway,Nico Hischier,[-25. -35.],2,13:16,NJD,MIN,NJD,1,MIN,30,1,1,8480002,Takeaway by Nico Hischier
+128,takeaway,Joel Eriksson Ek,[ 5. -6.],2,09:56,MIN,NJD,NJD,1,MIN,30,1,1,8478493,Takeaway by Joel Eriksson Ek
+153,takeaway,Travis Zajac,[46. 32.],2,04:04,NJD,MIN,NJD,1,MIN,30,2,2,8471233,Takeaway by Travis Zajac
+156,takeaway,Jack Hughes,[39. 36.],2,02:52,NJD,MIN,NJD,1,MIN,30,2,2,8481559,Takeaway by Jack Hughes
+204,takeaway,Kevin Fiala,[-17. -25.],3,12:52,MIN,NJD,NJD,1,MIN,30,2,3,8477942,Takeaway by Kevin Fiala
+209,takeaway,Jack Hughes,[53.  7.],3,10:23,NJD,MIN,NJD,1,MIN,30,2,3,8481559,Takeaway by Jack Hughes
+219,takeaway,Jason Zucker,[-12. -29.],3,07:06,MIN,NJD,NJD,1,MIN,30,2,3,8475722,Takeaway by Jason Zucker
+235,takeaway,Luke Kunin,[10. 14.],3,00:07,MIN,NJD,NJD,1,MIN,30,2,3,8479316,Takeaway by Luke Kunin
+1,giveaway,Alex Stalock,[99. 10.],1,19:53,MIN,OTT,MIN,30,OTT,9,0,0,8471774,Giveaway by Alex Stalock
+55,giveaway,Thomas Chabot,[-98.   9.],1,03:47,OTT,MIN,MIN,30,OTT,9,0,1,8478469,Giveaway by Thomas Chabot
+60,giveaway,Vladislav Namestnikov,[-67.  34.],1,03:14,OTT,MIN,MIN,30,OTT,9,0,1,8476480,Giveaway by Vladislav Namestnikov
+121,giveaway,Ryan Donato,[ 11. -37.],2,10:38,MIN,OTT,MIN,30,OTT,9,0,1,8477987,Giveaway by Ryan Donato
+140,giveaway,Mats Zuccarello,[96.  9.],2,05:44,MIN,OTT,MIN,30,OTT,9,3,2,8475692,Giveaway by Mats Zuccarello
+181,giveaway,Alex Stalock,[98.  1.],3,16:25,MIN,OTT,MIN,30,OTT,9,3,2,8471774,Giveaway by Alex Stalock
+201,giveaway,Alex Stalock,[98.  2.],3,11:03,MIN,OTT,MIN,30,OTT,9,5,2,8471774,Giveaway by Alex Stalock
+214,giveaway,Anders Nilsson,[-80.   1.],3,09:12,OTT,MIN,MIN,30,OTT,9,5,2,8475195,Giveaway by Anders Nilsson
+221,giveaway,Victor Rask,[-61. -37.],3,07:39,MIN,OTT,MIN,30,OTT,9,7,2,8476437,Giveaway by Victor Rask
+30,takeaway,Chris Tierney,[-2. 40.],1,12:40,OTT,MIN,MIN,30,OTT,9,0,0,8476919,Takeaway by Chris Tierney
+58,takeaway,Ryan Hartman,[20.  2.],1,03:24,MIN,OTT,MIN,30,OTT,9,0,1,8477451,Takeaway by Ryan Hartman
+62,takeaway,Carson Soucy,[-32. -20.],1,02:58,MIN,OTT,MIN,30,OTT,9,0,1,8477369,Takeaway by Carson Soucy
+74,takeaway,Thomas Chabot,[ 50. -38.],2,19:35,OTT,MIN,MIN,30,OTT,9,0,1,8478469,Takeaway by Thomas Chabot
+80,takeaway,Jean-Gabriel Pageau,[-9. -9.],2,18:23,OTT,MIN,MIN,30,OTT,9,0,1,8476419,Takeaway by Jean-Gabriel Pageau
+132,takeaway,Ryan Donato,[11. 40.],2,08:12,MIN,OTT,MIN,30,OTT,9,2,2,8477987,Takeaway by Ryan Donato
+135,takeaway,Mikko Koivu,[  6. -40.],2,06:52,MIN,OTT,MIN,30,OTT,9,2,2,8469459,Takeaway by Mikko Koivu
+153,takeaway,Ryan Donato,[43. 38.],2,01:34,MIN,OTT,MIN,30,OTT,9,3,2,8477987,Takeaway by Ryan Donato
+160,takeaway,Mikko Koivu,[-27.  40.],2,00:26,MIN,OTT,MIN,30,OTT,9,3,2,8469459,Takeaway by Mikko Koivu
+187,takeaway,Mats Zuccarello,[16. 12.],3,14:51,MIN,OTT,MIN,30,OTT,9,4,2,8475692,Takeaway by Mats Zuccarello
+194,takeaway,Kevin Fiala,[-39.  -9.],3,13:08,MIN,OTT,MIN,30,OTT,9,5,2,8477942,Takeaway by Kevin Fiala
+217,takeaway,Jason Zucker,[32. 12.],3,08:56,MIN,OTT,MIN,30,OTT,9,6,2,8475722,Takeaway by Jason Zucker
+218,takeaway,Thomas Chabot,[-98.  17.],3,08:36,OTT,MIN,MIN,30,OTT,9,6,2,8478469,Takeaway by Thomas Chabot
+236,takeaway,Joel Eriksson Ek,[-22.   0.],3,01:51,MIN,OTT,MIN,30,OTT,9,7,2,8478493,Takeaway by Joel Eriksson Ek
+19,giveaway,Kevin Fiala,[36. 39.],1,13:11,MIN,DAL,MIN,30,DAL,25,0,0,8477942,Giveaway by Kevin Fiala
+69,giveaway,Tyler Seguin,[86. 27.],2,16:44,DAL,MIN,MIN,30,DAL,25,0,0,8475794,Giveaway by Tyler Seguin
+71,giveaway,Kevin Fiala,[-12. -24.],2,15:54,MIN,DAL,MIN,30,DAL,25,0,0,8477942,Giveaway by Kevin Fiala
+75,giveaway,Andrew Cogliano,[-81.  35.],2,14:32,DAL,MIN,MIN,30,DAL,25,0,0,8471699,Giveaway by Andrew Cogliano
+93,giveaway,Eric Staal,[-76.  31.],2,07:51,MIN,DAL,MIN,30,DAL,25,0,0,8470595,Giveaway by Eric Staal
+94,giveaway,Denis Gurianov,[ 56. -25.],2,07:47,DAL,MIN,MIN,30,DAL,25,0,0,8478495,Giveaway by Denis Gurianov
+114,giveaway,Joel Eriksson Ek,[87. 34.],2,03:10,MIN,DAL,MIN,30,DAL,25,1,1,8478493,Giveaway by Joel Eriksson Ek
+120,giveaway,Kevin Fiala,[ 46. -28.],2,01:19,MIN,DAL,MIN,30,DAL,25,1,1,8477942,Giveaway by Kevin Fiala
+180,giveaway,Zach Parise,[-78. -37.],3,04:50,MIN,DAL,MIN,30,DAL,25,1,2,8470610,Giveaway by Zach Parise
+184,giveaway,Jason Zucker,[ 22. -35.],3,03:49,MIN,DAL,MIN,30,DAL,25,1,2,8475722,Giveaway by Jason Zucker
+61,takeaway,Kevin Fiala,[45. 12.],1,00:07,MIN,DAL,MIN,30,DAL,25,0,0,8477942,Takeaway by Kevin Fiala
+97,takeaway,Kevin Fiala,[94. 26.],2,07:26,MIN,DAL,MIN,30,DAL,25,0,0,8477942,Takeaway by Kevin Fiala
+110,takeaway,Mats Zuccarello,[94. 23.],2,04:07,MIN,DAL,MIN,30,DAL,25,1,1,8475692,Takeaway by Mats Zuccarello
+112,takeaway,Joel Eriksson Ek,[88. 30.],2,03:23,MIN,DAL,MIN,30,DAL,25,1,1,8478493,Takeaway by Joel Eriksson Ek
+139,takeaway,Marcus Foligno,[-86. -15.],3,16:29,MIN,DAL,MIN,30,DAL,25,1,1,8475220,Takeaway by Marcus Foligno
+142,takeaway,Marcus Foligno,[-11.  35.],3,15:59,MIN,DAL,MIN,30,DAL,25,1,1,8475220,Takeaway by Marcus Foligno
+174,takeaway,Blake Comeau,[99. -3.],3,05:54,DAL,MIN,MIN,30,DAL,25,1,1,8471260,Takeaway by Blake Comeau
+179,takeaway,Jamie Benn,[-60.  14.],3,05:17,DAL,MIN,MIN,30,DAL,25,1,2,8473994,Takeaway by Jamie Benn
+202,takeaway,Jordan Greenway,[-38. -12.],4,03:12,MIN,DAL,MIN,30,DAL,25,2,2,8478413,Takeaway by Jordan Greenway
+205,takeaway,Jordan Greenway,[-44.  34.],4,01:00,MIN,DAL,MIN,30,DAL,25,2,2,8478413,Takeaway by Jordan Greenway
+208,takeaway,Eric Staal,[-61.  19.],4,00:11,MIN,DAL,MIN,30,DAL,25,2,2,8470595,Takeaway by Eric Staal
+18,giveaway,Aaron Ekblad,[40. 33.],1,15:32,FLA,MIN,FLA,13,MIN,30,0,0,8477932,Giveaway by Aaron Ekblad
+29,giveaway,Noel Acciari,[-49. -37.],1,12:24,FLA,MIN,FLA,13,MIN,30,0,0,8478569,Giveaway by Noel Acciari
+53,giveaway,Aaron Ekblad,[54. 39.],1,05:55,FLA,MIN,FLA,13,MIN,30,1,0,8477932,Giveaway by Aaron Ekblad
+54,giveaway,Eric Staal,[-98.  -9.],1,05:36,MIN,FLA,FLA,13,MIN,30,1,0,8470595,Giveaway by Eric Staal
+58,giveaway,Aleksander Barkov,[-31.  27.],1,05:00,FLA,MIN,FLA,13,MIN,30,2,0,8477493,Giveaway by Aleksander Barkov
+68,giveaway,Matt Dumba,[-39. -24.],1,02:15,MIN,FLA,FLA,13,MIN,30,2,0,8476856,Giveaway by Matt Dumba
+71,giveaway,Jonathan Huberdeau,[-29.  20.],1,01:28,FLA,MIN,FLA,13,MIN,30,2,0,8476456,Giveaway by Jonathan Huberdeau
+83,giveaway,Ryan Suter,[97. -8.],2,19:12,MIN,FLA,FLA,13,MIN,30,2,0,8470600,Giveaway by Ryan Suter
+84,giveaway,Mikko Koivu,[90. 18.],2,18:57,MIN,FLA,FLA,13,MIN,30,2,0,8469459,Giveaway by Mikko Koivu
+87,giveaway,Kaapo Kahkonen,[ 37. -40.],2,18:30,MIN,FLA,FLA,13,MIN,30,2,0,8478039,Giveaway by Kaapo Kahkonen
+92,giveaway,Aleksander Barkov,[ 37. -11.],2,16:17,FLA,MIN,FLA,13,MIN,30,2,0,8477493,Giveaway by Aleksander Barkov
+130,giveaway,Aleksander Barkov,[97.  7.],2,08:58,FLA,MIN,FLA,13,MIN,30,2,1,8477493,Giveaway by Aleksander Barkov
+156,giveaway,Noel Acciari,[ 85. -33.],2,02:04,FLA,MIN,FLA,13,MIN,30,2,2,8478569,Giveaway by Noel Acciari
+188,giveaway,Chris Driedger,[ 79. -35.],3,15:00,FLA,MIN,FLA,13,MIN,30,2,3,8476904,Giveaway by Chris Driedger
+207,giveaway,Dominic Toninato,[31. 22.],3,09:12,FLA,MIN,FLA,13,MIN,30,2,3,8476952,Giveaway by Dominic Toninato
+209,giveaway,Colton Sceviour,[56.  3.],3,09:02,FLA,MIN,FLA,13,MIN,30,2,3,8474098,Giveaway by Colton Sceviour
+214,giveaway,Jordan Greenway,[-35.  29.],3,08:14,MIN,FLA,FLA,13,MIN,30,2,3,8478413,Giveaway by Jordan Greenway
+215,giveaway,Jonathan Huberdeau,[-60.  16.],3,08:10,FLA,MIN,FLA,13,MIN,30,2,3,8476456,Giveaway by Jonathan Huberdeau
+226,giveaway,Aaron Ekblad,[-63.  17.],3,05:55,FLA,MIN,FLA,13,MIN,30,2,3,8477932,Giveaway by Aaron Ekblad
+227,giveaway,Zach Parise,[43. -2.],3,05:48,MIN,FLA,FLA,13,MIN,30,2,3,8470610,Giveaway by Zach Parise
+238,giveaway,Marcus Foligno,[ 18. -39.],3,03:19,MIN,FLA,FLA,13,MIN,30,2,3,8475220,Giveaway by Marcus Foligno
+248,giveaway,Eric Staal,[-29.  16.],3,01:11,MIN,FLA,FLA,13,MIN,30,2,3,8470595,Giveaway by Eric Staal
+252,giveaway,Matt Dumba,[-61.  10.],3,00:31,MIN,FLA,FLA,13,MIN,30,2,4,8476856,Giveaway by Matt Dumba
+2,takeaway,Eric Staal,[19. -4.],1,18:27,MIN,FLA,FLA,13,MIN,30,0,0,8470595,Takeaway by Eric Staal
+15,takeaway,Dominic Toninato,[56. -3.],1,16:01,FLA,MIN,FLA,13,MIN,30,0,0,8476952,Takeaway by Dominic Toninato
+24,takeaway,Marcus Foligno,[18. 39.],1,14:36,MIN,FLA,FLA,13,MIN,30,0,0,8475220,Takeaway by Marcus Foligno
+28,takeaway,Aaron Ekblad,[29. -7.],1,12:59,FLA,MIN,FLA,13,MIN,30,0,0,8477932,Takeaway by Aaron Ekblad
+60,takeaway,Marcus Foligno,[21.  9.],1,04:01,MIN,FLA,FLA,13,MIN,30,2,0,8475220,Takeaway by Marcus Foligno
+61,takeaway,Anton Stralman,[56. 19.],1,03:56,FLA,MIN,FLA,13,MIN,30,2,0,8471873,Takeaway by Anton Stralman
+95,takeaway,Frank Vatrano,[ 94. -25.],2,15:19,FLA,MIN,FLA,13,MIN,30,2,0,8478366,Takeaway by Frank Vatrano
+98,takeaway,Mikko Koivu,[93. 24.],2,14:55,MIN,FLA,FLA,13,MIN,30,2,0,8469459,Takeaway by Mikko Koivu
+118,takeaway,Jason Zucker,[28. -2.],2,10:39,MIN,FLA,FLA,13,MIN,30,2,0,8475722,Takeaway by Jason Zucker
+123,takeaway,Dominic Toninato,[-37.  22.],2,09:52,FLA,MIN,FLA,13,MIN,30,2,1,8476952,Takeaway by Dominic Toninato
+147,takeaway,Anton Stralman,[-44. -28.],2,04:33,FLA,MIN,FLA,13,MIN,30,2,2,8471873,Takeaway by Anton Stralman
+155,takeaway,Brett Connolly,[-15.  16.],2,02:41,FLA,MIN,FLA,13,MIN,30,2,2,8475792,Takeaway by Brett Connolly
+189,takeaway,Joel Eriksson Ek,[-13.   0.],3,14:41,MIN,FLA,FLA,13,MIN,30,2,3,8478493,Takeaway by Joel Eriksson Ek
+190,takeaway,Jason Zucker,[-35.   4.],3,14:09,MIN,FLA,FLA,13,MIN,30,2,3,8475722,Takeaway by Jason Zucker
+228,takeaway,Anton Stralman,[10.  7.],3,05:30,FLA,MIN,FLA,13,MIN,30,2,3,8471873,Takeaway by Anton Stralman
+25,giveaway,Matt Dumba,[ 41. -20.],1,12:55,MIN,TBL,TBL,14,MIN,30,1,0,8476856,Giveaway by Matt Dumba
+27,giveaway,Ondrej Palat,[ 40. -33.],1,12:05,TBL,MIN,TBL,14,MIN,30,1,0,8476292,Giveaway by Ondrej Palat
+31,giveaway,Nick Seeler,[ 64. -31.],1,11:13,MIN,TBL,TBL,14,MIN,30,1,0,8476372,Giveaway by Nick Seeler
+61,giveaway,Luke Kunin,[-45.  26.],1,02:35,MIN,TBL,TBL,14,MIN,30,2,3,8479316,Giveaway by Luke Kunin
+67,giveaway,Matt Dumba,[47. 32.],1,01:15,MIN,TBL,TBL,14,MIN,30,2,3,8476856,Giveaway by Matt Dumba
+96,giveaway,Luke Schenn,[79. 35.],2,15:12,TBL,MIN,TBL,14,MIN,30,2,3,8474568,Giveaway by Luke Schenn
+100,giveaway,Mathieu Joseph,[-31.  11.],2,14:10,TBL,MIN,TBL,14,MIN,30,2,3,8478472,Giveaway by Mathieu Joseph
+119,giveaway,Ryan Suter,[-39.  23.],2,07:52,MIN,TBL,TBL,14,MIN,30,2,3,8470600,Giveaway by Ryan Suter
+132,giveaway,Kevin Shattenkirk,[-45. -32.],2,04:32,TBL,MIN,TBL,14,MIN,30,2,3,8474031,Giveaway by Kevin Shattenkirk
+150,giveaway,Ondrej Palat,[-81. -19.],2,00:54,TBL,MIN,TBL,14,MIN,30,3,3,8476292,Giveaway by Ondrej Palat
+164,giveaway,Anthony Cirelli,[ 50. -29.],3,15:22,TBL,MIN,TBL,14,MIN,30,4,5,8478519,Giveaway by Anthony Cirelli
+176,giveaway,Jan Rutta,[-18. -33.],3,11:41,TBL,MIN,TBL,14,MIN,30,4,5,8480172,Giveaway by Jan Rutta
+8,takeaway,Zach Parise,[  6. -28.],1,17:17,MIN,TBL,TBL,14,MIN,30,1,0,8470610,Takeaway by Zach Parise
+16,takeaway,Matt Dumba,[-32.  32.],1,15:45,MIN,TBL,TBL,14,MIN,30,1,0,8476856,Takeaway by Matt Dumba
+19,takeaway,Victor Rask,[-84.  28.],1,13:38,MIN,TBL,TBL,14,MIN,30,1,0,8476437,Takeaway by Victor Rask
+38,takeaway,Brayden Point,[-14.  -6.],1,09:49,TBL,MIN,TBL,14,MIN,30,1,1,8478010,Takeaway by Brayden Point
+40,takeaway,Ryan Donato,[52. -4.],1,09:38,MIN,TBL,TBL,14,MIN,30,1,1,8477987,Takeaway by Ryan Donato
+87,takeaway,Pat Maroon,[14. 25.],2,16:55,TBL,MIN,TBL,14,MIN,30,2,3,8474034,Takeaway by Pat Maroon
+99,takeaway,Jonas Brodin,[-70.   5.],2,14:36,MIN,TBL,TBL,14,MIN,30,2,3,8476463,Takeaway by Jonas Brodin
+115,takeaway,Ondrej Palat,[31. 28.],2,09:20,TBL,MIN,TBL,14,MIN,30,2,3,8476292,Takeaway by Ondrej Palat
+121,takeaway,Carson Soucy,[-27. -17.],2,07:26,MIN,TBL,TBL,14,MIN,30,2,3,8477369,Takeaway by Carson Soucy
+165,takeaway,Luke Kunin,[-51. -37.],3,15:03,MIN,TBL,TBL,14,MIN,30,4,5,8479316,Takeaway by Luke Kunin
+178,takeaway,Mats Zuccarello,[-48. -36.],3,11:09,MIN,TBL,TBL,14,MIN,30,4,5,8475692,Takeaway by Mats Zuccarello
+185,takeaway,Ryan Hartman,[-76.  37.],3,09:15,MIN,TBL,TBL,14,MIN,30,4,5,8477451,Takeaway by Ryan Hartman
+218,takeaway,Victor Hedman,[40.  4.],3,00:05,TBL,MIN,TBL,14,MIN,30,4,5,8475167,Takeaway by Victor Hedman
+3,giveaway,Jaccob Slavin,[ 30. -36.],1,19:07,CAR,MIN,CAR,12,MIN,30,0,0,8476958,Giveaway by Jaccob Slavin
+7,giveaway,Sebastian Aho,[-62.  38.],1,18:34,CAR,MIN,CAR,12,MIN,30,0,0,8478427,Giveaway by Sebastian Aho
+13,giveaway,Carson Soucy,[-53. -37.],1,17:32,MIN,CAR,CAR,12,MIN,30,0,1,8477369,Giveaway by Carson Soucy
+20,giveaway,Sebastian Aho,[-94. -28.],1,16:13,CAR,MIN,CAR,12,MIN,30,0,1,8478427,Giveaway by Sebastian Aho
+26,giveaway,Ryan Dzingel,[ 7. 39.],1,14:47,CAR,MIN,CAR,12,MIN,30,0,1,8476288,Giveaway by Ryan Dzingel
+32,giveaway,Ryan Suter,[-61.  22.],1,12:41,MIN,CAR,CAR,12,MIN,30,0,1,8470600,Giveaway by Ryan Suter
+39,giveaway,Jonas Brodin,[-93.  22.],1,12:03,MIN,CAR,CAR,12,MIN,30,0,1,8476463,Giveaway by Jonas Brodin
+42,giveaway,Ryan Dzingel,[ 24. -25.],1,11:24,CAR,MIN,CAR,12,MIN,30,0,1,8476288,Giveaway by Ryan Dzingel
+58,giveaway,Jake Gardiner,[ 85. -25.],1,08:44,CAR,MIN,CAR,12,MIN,30,1,1,8474581,Giveaway by Jake Gardiner
+62,giveaway,Jaccob Slavin,[98.  2.],1,07:50,CAR,MIN,CAR,12,MIN,30,1,1,8476958,Giveaway by Jaccob Slavin
+63,giveaway,Ryan Suter,[54. 39.],1,07:45,MIN,CAR,CAR,12,MIN,30,1,1,8470600,Giveaway by Ryan Suter
+81,giveaway,Matt Dumba,[-76. -37.],1,04:04,MIN,CAR,CAR,12,MIN,30,2,1,8476856,Giveaway by Matt Dumba
+100,giveaway,Mats Zuccarello,[-28.  16.],2,18:56,MIN,CAR,CAR,12,MIN,30,2,1,8475692,Giveaway by Mats Zuccarello
+102,giveaway,Teuvo Teravainen,[-11. -35.],2,18:12,CAR,MIN,CAR,12,MIN,30,2,1,8476882,Giveaway by Teuvo Teravainen
+103,giveaway,Trevor van Riemsdyk,[-41. -37.],2,17:54,CAR,MIN,CAR,12,MIN,30,2,1,8477845,Giveaway by Trevor van Riemsdyk
+104,giveaway,Kevin Fiala,[-78. -36.],2,17:42,MIN,CAR,CAR,12,MIN,30,2,1,8477942,Giveaway by Kevin Fiala
+105,giveaway,Ryan Dzingel,[54. 39.],2,17:10,CAR,MIN,CAR,12,MIN,30,2,1,8476288,Giveaway by Ryan Dzingel
+124,giveaway,Jordan Martinook,[74. 36.],2,13:08,CAR,MIN,CAR,12,MIN,30,3,1,8476921,Giveaway by Jordan Martinook
+130,giveaway,Jordan Staal,[-17. -40.],2,12:07,CAR,MIN,CAR,12,MIN,30,3,1,8473533,Giveaway by Jordan Staal
+132,giveaway,Jordan Staal,[-57.  34.],2,11:43,CAR,MIN,CAR,12,MIN,30,3,1,8473533,Giveaway by Jordan Staal
+141,giveaway,Jaccob Slavin,[-96.   3.],2,09:48,CAR,MIN,CAR,12,MIN,30,3,2,8476958,Giveaway by Jaccob Slavin
+171,giveaway,Eric Staal,[-96.  15.],2,03:11,MIN,CAR,CAR,12,MIN,30,4,2,8470595,Giveaway by Eric Staal
+177,giveaway,Joel Edmundson,[-55.  10.],2,00:44,CAR,MIN,CAR,12,MIN,30,4,2,8476441,Giveaway by Joel Edmundson
+182,giveaway,Jason Zucker,[ 42. -36.],2,00:06,MIN,CAR,CAR,12,MIN,30,4,2,8475722,Giveaway by Jason Zucker
+218,giveaway,Alex Stalock,[-86.   1.],3,11:05,MIN,CAR,CAR,12,MIN,30,4,2,8471774,Giveaway by Alex Stalock
+224,giveaway,Jason Zucker,[ 45. -33.],3,10:01,MIN,CAR,CAR,12,MIN,30,4,2,8475722,Giveaway by Jason Zucker
+225,giveaway,Mats Zuccarello,[54. 34.],3,09:40,MIN,CAR,CAR,12,MIN,30,4,2,8475692,Giveaway by Mats Zuccarello
+230,giveaway,Jordan Staal,[-61. -33.],3,08:03,CAR,MIN,CAR,12,MIN,30,4,2,8473533,Giveaway by Jordan Staal
+231,giveaway,Petr Mrazek,[96.  4.],3,07:52,CAR,MIN,CAR,12,MIN,30,4,2,8475852,Giveaway by Petr Mrazek
+238,giveaway,Brett Pesce,[61.  4.],3,07:17,CAR,MIN,CAR,12,MIN,30,5,2,8477488,Giveaway by Brett Pesce
+242,giveaway,Alex Stalock,[-96.   1.],3,05:39,MIN,CAR,CAR,12,MIN,30,5,2,8471774,Giveaway by Alex Stalock
+267,giveaway,Brett Pesce,[70. 18.],3,00:21,CAR,MIN,CAR,12,MIN,30,6,2,8477488,Giveaway by Brett Pesce
+19,takeaway,Jaccob Slavin,[-34. -36.],1,16:21,CAR,MIN,CAR,12,MIN,30,0,1,8476958,Takeaway by Jaccob Slavin
+24,takeaway,Matt Dumba,[-95.  21.],1,15:26,MIN,CAR,CAR,12,MIN,30,0,1,8476856,Takeaway by Matt Dumba
+28,takeaway,Joel Eriksson Ek,[-48. -40.],1,13:16,MIN,CAR,CAR,12,MIN,30,0,1,8478493,Takeaway by Joel Eriksson Ek
+30,takeaway,Jordan Greenway,[-21.   8.],1,12:59,MIN,CAR,CAR,12,MIN,30,0,1,8478413,Takeaway by Jordan Greenway
+38,takeaway,Joel Edmundson,[-10. -18.],1,12:07,CAR,MIN,CAR,12,MIN,30,0,1,8476441,Takeaway by Joel Edmundson
+41,takeaway,Sebastian Aho,[43. 33.],1,11:33,CAR,MIN,CAR,12,MIN,30,0,1,8478427,Takeaway by Sebastian Aho
+56,takeaway,Dougie Hamilton,[98. -2.],1,09:12,CAR,MIN,CAR,12,MIN,30,1,1,8476462,Takeaway by Dougie Hamilton
+64,takeaway,Joel Edmundson,[-32.  27.],1,07:10,CAR,MIN,CAR,12,MIN,30,1,1,8476441,Takeaway by Joel Edmundson
+68,takeaway,Jordan Greenway,[ 41. -36.],1,06:24,MIN,CAR,CAR,12,MIN,30,1,1,8478413,Takeaway by Jordan Greenway
+77,takeaway,Ryan Dzingel,[43. 14.],1,04:20,CAR,MIN,CAR,12,MIN,30,2,1,8476288,Takeaway by Ryan Dzingel
+87,takeaway,Matt Dumba,[ 29. -40.],1,02:12,MIN,CAR,CAR,12,MIN,30,2,1,8476856,Takeaway by Matt Dumba
+89,takeaway,Kevin Fiala,[30. 41.],1,01:50,MIN,CAR,CAR,12,MIN,30,2,1,8477942,Takeaway by Kevin Fiala
+92,takeaway,Warren Foegele,[-93.   2.],1,01:11,CAR,MIN,CAR,12,MIN,30,2,1,8477998,Takeaway by Warren Foegele
+95,takeaway,Andrei Svechnikov,[39. -8.],1,00:12,CAR,MIN,CAR,12,MIN,30,2,1,8480830,Takeaway by Andrei Svechnikov
+115,takeaway,Teuvo Teravainen,[-2. 16.],2,15:22,CAR,MIN,CAR,12,MIN,30,2,1,8476882,Takeaway by Teuvo Teravainen
+125,takeaway,Ryan Hartman,[-95.  -2.],2,12:48,MIN,CAR,CAR,12,MIN,30,3,1,8477451,Takeaway by Ryan Hartman
+143,takeaway,Teuvo Teravainen,[-37.  28.],2,09:31,CAR,MIN,CAR,12,MIN,30,3,2,8476882,Takeaway by Teuvo Teravainen
+157,takeaway,Ryan Suter,[-12.  28.],2,06:42,MIN,CAR,CAR,12,MIN,30,3,2,8470600,Takeaway by Ryan Suter
+169,takeaway,Dougie Hamilton,[-63. -37.],2,03:42,CAR,MIN,CAR,12,MIN,30,4,2,8476462,Takeaway by Dougie Hamilton
+176,takeaway,Mats Zuccarello,[-48.  32.],2,00:49,MIN,CAR,CAR,12,MIN,30,4,2,8475692,Takeaway by Mats Zuccarello
+197,takeaway,Victor Rask,[ 86. -33.],3,17:02,MIN,CAR,CAR,12,MIN,30,4,2,8476437,Takeaway by Victor Rask
+201,takeaway,Dougie Hamilton,[51. 16.],3,16:00,CAR,MIN,CAR,12,MIN,30,4,2,8476462,Takeaway by Dougie Hamilton
+202,takeaway,Jason Zucker,[20.  2.],3,15:54,MIN,CAR,CAR,12,MIN,30,4,2,8475722,Takeaway by Jason Zucker
+229,takeaway,Trevor van Riemsdyk,[98. 21.],3,08:55,CAR,MIN,CAR,12,MIN,30,4,2,8477845,Takeaway by Trevor van Riemsdyk
+237,takeaway,Brett Pesce,[49. 36.],3,07:22,CAR,MIN,CAR,12,MIN,30,5,2,8477488,Takeaway by Brett Pesce
+241,takeaway,Lucas Wallmark,[-41.  36.],3,05:45,CAR,MIN,CAR,12,MIN,30,5,2,8478027,Takeaway by Lucas Wallmark
+245,takeaway,Jordan Staal,[-12.  42.],3,04:08,CAR,MIN,CAR,12,MIN,30,5,2,8473533,Takeaway by Jordan Staal
+246,takeaway,Carson Soucy,[-54.  35.],3,04:03,MIN,CAR,CAR,12,MIN,30,5,2,8477369,Takeaway by Carson Soucy
+263,takeaway,Jordan Martinook,[-47.  41.],3,00:45,CAR,MIN,CAR,12,MIN,30,6,2,8476921,Takeaway by Jordan Martinook
+9,giveaway,Hampus Lindholm,[11. 38.],1,17:18,ANA,MIN,MIN,30,ANA,24,0,0,8476854,Giveaway by Hampus Lindholm
+25,giveaway,Sam Carrick,[ 69. -35.],1,14:01,ANA,MIN,MIN,30,ANA,24,0,1,8475842,Giveaway by Sam Carrick
+30,giveaway,Rickard Rakell,[48. 29.],1,11:53,ANA,MIN,MIN,30,ANA,24,0,1,8476483,Giveaway by Rickard Rakell
+46,giveaway,Kevin Fiala,[-36.  37.],1,07:09,MIN,ANA,MIN,30,ANA,24,0,2,8477942,Giveaway by Kevin Fiala
+58,giveaway,Cam Fowler,[77. 30.],1,04:27,ANA,MIN,MIN,30,ANA,24,0,2,8475764,Giveaway by Cam Fowler
+78,giveaway,Carson Soucy,[  9. -23.],2,19:10,MIN,ANA,MIN,30,ANA,24,0,2,8477369,Giveaway by Carson Soucy
+103,giveaway,Marcus Foligno,[-66.  16.],2,12:08,MIN,ANA,MIN,30,ANA,24,0,2,8475220,Giveaway by Marcus Foligno
+175,giveaway,Ryan Hartman,[-80.  20.],3,10:57,MIN,ANA,MIN,30,ANA,24,2,2,8477451,Giveaway by Ryan Hartman
+31,takeaway,Eric Staal,[16. -4.],1,10:59,MIN,ANA,MIN,30,ANA,24,0,1,8470595,Takeaway by Eric Staal
+54,takeaway,Sam Carrick,[ 9. 38.],1,04:49,ANA,MIN,MIN,30,ANA,24,0,2,8475842,Takeaway by Sam Carrick
+70,takeaway,Jakob Silfverberg,[44. 32.],1,00:30,ANA,MIN,MIN,30,ANA,24,0,2,8475164,Takeaway by Jakob Silfverberg
+113,takeaway,Brennan Menell,[  7. -10.],2,08:07,MIN,ANA,MIN,30,ANA,24,1,2,8479734,Takeaway by Brennan Menell
+145,takeaway,Ryan Hartman,[33. 38.],3,17:31,MIN,ANA,MIN,30,ANA,24,2,2,8477451,Takeaway by Ryan Hartman
+154,takeaway,Zach Parise,[-19. -29.],3,15:36,MIN,ANA,MIN,30,ANA,24,2,2,8470610,Takeaway by Zach Parise
+163,takeaway,Derek Grant,[ 47. -25.],3,13:36,ANA,MIN,MIN,30,ANA,24,2,2,8474683,Takeaway by Derek Grant
+168,takeaway,Kevin Fiala,[37. 35.],3,12:09,MIN,ANA,MIN,30,ANA,24,2,2,8477942,Takeaway by Kevin Fiala
+222,takeaway,Mats Zuccarello,[-76. -29.],4,02:08,MIN,ANA,MIN,30,ANA,24,2,2,8475692,Takeaway by Mats Zuccarello
+224,takeaway,Rickard Rakell,[-32. -32.],4,00:20,ANA,MIN,MIN,30,ANA,24,2,2,8476483,Takeaway by Rickard Rakell
+225,takeaway,Ryan Donato,[-49. -18.],4,00:14,MIN,ANA,MIN,30,ANA,24,2,2,8477987,Takeaway by Ryan Donato
+2,giveaway,Brad Hunt,[77. 37.],1,19:26,MIN,EDM,MIN,30,EDM,22,0,0,8476779,Giveaway by Brad Hunt
+30,giveaway,Kris Russell,[ 5. 29.],1,13:08,EDM,MIN,MIN,30,EDM,22,0,0,8471729,Giveaway by Kris Russell
+122,giveaway,Ryan Suter,[-78.  41.],2,07:04,MIN,EDM,MIN,30,EDM,22,4,2,8470600,Giveaway by Ryan Suter
+123,giveaway,Ryan Donato,[-75.  37.],2,06:54,MIN,EDM,MIN,30,EDM,22,4,2,8477987,Giveaway by Ryan Donato
+128,giveaway,Luke Kunin,[-17. -16.],2,05:44,MIN,EDM,MIN,30,EDM,22,4,2,8479316,Giveaway by Luke Kunin
+148,giveaway,Adam Larsson,[55. 32.],2,00:22,EDM,MIN,MIN,30,EDM,22,4,2,8476457,Giveaway by Adam Larsson
+186,giveaway,Mats Zuccarello,[41. 34.],3,08:55,MIN,EDM,MIN,30,EDM,22,4,3,8475692,Giveaway by Mats Zuccarello
+201,giveaway,Carson Soucy,[84. 34.],3,06:09,MIN,EDM,MIN,30,EDM,22,4,4,8477369,Giveaway by Carson Soucy
+202,giveaway,Joel Eriksson Ek,[65. 39.],3,06:00,MIN,EDM,MIN,30,EDM,22,4,4,8478493,Giveaway by Joel Eriksson Ek
+8,takeaway,Oscar Klefbom,[33. 21.],1,17:29,EDM,MIN,MIN,30,EDM,22,0,0,8476472,Takeaway by Oscar Klefbom
+28,takeaway,Riley Sheahan,[-47.  32.],1,13:14,EDM,MIN,MIN,30,EDM,22,0,0,8475772,Takeaway by Riley Sheahan
+32,takeaway,Adam Larsson,[-38.   8.],1,12:13,EDM,MIN,MIN,30,EDM,22,0,0,8476457,Takeaway by Adam Larsson
+43,takeaway,Joel Eriksson Ek,[ 13. -25.],1,08:14,MIN,EDM,MIN,30,EDM,22,0,1,8478493,Takeaway by Joel Eriksson Ek
+68,takeaway,Kevin Fiala,[54. 41.],1,01:46,MIN,EDM,MIN,30,EDM,22,1,1,8477942,Takeaway by Kevin Fiala
+69,takeaway,Zach Parise,[-57. -21.],1,01:14,MIN,EDM,MIN,30,EDM,22,1,1,8470610,Takeaway by Zach Parise
+79,takeaway,Ryan Suter,[-43.  34.],2,18:25,MIN,EDM,MIN,30,EDM,22,2,1,8470600,Takeaway by Ryan Suter
+140,takeaway,Marcus Foligno,[-43.  34.],2,02:28,MIN,EDM,MIN,30,EDM,22,4,2,8475220,Takeaway by Marcus Foligno
+157,takeaway,Brennan Menell,[48.  5.],3,17:40,MIN,EDM,MIN,30,EDM,22,4,2,8479734,Takeaway by Brennan Menell
+160,takeaway,Carson Soucy,[-11.  20.],3,16:49,MIN,EDM,MIN,30,EDM,22,4,2,8477369,Takeaway by Carson Soucy
+171,takeaway,Jason Zucker,[-8.  2.],3,13:37,MIN,EDM,MIN,30,EDM,22,4,2,8475722,Takeaway by Jason Zucker
+203,takeaway,Luke Kunin,[52. -1.],3,05:57,MIN,EDM,MIN,30,EDM,22,4,4,8479316,Takeaway by Luke Kunin
+220,takeaway,Zach Parise,[-5. 22.],3,02:05,MIN,EDM,MIN,30,EDM,22,6,4,8470610,Takeaway by Zach Parise
+226,takeaway,Leon Draisaitl,[-13.  39.],3,00:08,EDM,MIN,MIN,30,EDM,22,6,5,8477934,Takeaway by Leon Draisaitl
+9,giveaway,Matt Dumba,[78. 38.],1,13:59,MIN,PHI,MIN,30,PHI,4,0,1,8476856,Giveaway by Matt Dumba
+14,giveaway,Mats Zuccarello,[-57.  38.],1,12:31,MIN,PHI,MIN,30,PHI,4,1,1,8475692,Giveaway by Mats Zuccarello
+16,giveaway,David Kase,[-45.  34.],1,12:15,PHI,MIN,MIN,30,PHI,4,1,1,8478436,Giveaway by David Kase
+62,giveaway,Alex Stalock,[-77.  14.],2,17:27,MIN,PHI,MIN,30,PHI,4,2,1,8471774,Giveaway by Alex Stalock
+77,giveaway,Ivan Provorov,[81. -2.],2,10:17,PHI,MIN,MIN,30,PHI,4,2,1,8478500,Giveaway by Ivan Provorov
+92,giveaway,Eric Staal,[95. -6.],2,03:18,MIN,PHI,MIN,30,PHI,4,3,1,8470595,Giveaway by Eric Staal
+10,takeaway,Ryan Donato,[-52.   7.],1,13:48,MIN,PHI,MIN,30,PHI,4,0,1,8477987,Takeaway by Ryan Donato
+20,takeaway,Ryan Suter,[76. 29.],1,11:12,MIN,PHI,MIN,30,PHI,4,2,1,8470600,Takeaway by Ryan Suter
+37,takeaway,Jordan Greenway,[ 34. -24.],1,06:51,MIN,PHI,MIN,30,PHI,4,2,1,8478413,Takeaway by Jordan Greenway
+56,takeaway,Ivan Provorov,[-37.  37.],1,00:33,PHI,MIN,MIN,30,PHI,4,2,1,8478500,Takeaway by Ivan Provorov
+65,takeaway,Sean Couturier,[-90.  29.],2,16:21,PHI,MIN,MIN,30,PHI,4,2,1,8476461,Takeaway by Sean Couturier
+144,takeaway,Shayne Gostisbehere,[-94.  10.],3,08:25,PHI,MIN,MIN,30,PHI,4,3,1,8476906,Takeaway by Shayne Gostisbehere
+169,takeaway,Eric Staal,[-40.  36.],3,00:31,MIN,PHI,MIN,30,PHI,4,4,1,8470595,Takeaway by Eric Staal
+19,giveaway,Jordan Greenway,[82. 14.],1,16:16,MIN,CHI,CHI,16,MIN,30,0,0,8478413,Giveaway by Jordan Greenway
+24,giveaway,Connor Murphy,[ 86. -36.],1,15:29,CHI,MIN,CHI,16,MIN,30,0,0,8476473,Giveaway by Connor Murphy
+37,giveaway,Kevin Fiala,[33.  1.],1,11:59,MIN,CHI,CHI,16,MIN,30,1,0,8477942,Giveaway by Kevin Fiala
+43,giveaway,Eric Staal,[99. -3.],1,10:56,MIN,CHI,CHI,16,MIN,30,1,0,8470595,Giveaway by Eric Staal
+59,giveaway,Jordan Greenway,[ 64. -15.],1,05:40,MIN,CHI,CHI,16,MIN,30,2,1,8478413,Giveaway by Jordan Greenway
+69,giveaway,David Kampf,[17. 40.],1,02:13,CHI,MIN,CHI,16,MIN,30,2,1,8480144,Giveaway by David Kampf
+71,giveaway,Erik Gustafsson,[ 65. -41.],1,01:38,CHI,MIN,CHI,16,MIN,30,2,1,8476979,Giveaway by Erik Gustafsson
+87,giveaway,Alex DeBrincat,[-14.  18.],2,17:51,CHI,MIN,CHI,16,MIN,30,2,2,8479337,Giveaway by Alex DeBrincat
+91,giveaway,Dylan Strome,[ 37. -38.],2,16:02,CHI,MIN,CHI,16,MIN,30,2,2,8478440,Giveaway by Dylan Strome
+126,giveaway,Mats Zuccarello,[-28.  20.],2,09:05,MIN,CHI,CHI,16,MIN,30,3,2,8475692,Giveaway by Mats Zuccarello
+131,giveaway,Luke Kunin,[44.  4.],2,07:56,MIN,CHI,CHI,16,MIN,30,3,2,8479316,Giveaway by Luke Kunin
+159,giveaway,Ryan Suter,[-98.  16.],3,19:48,MIN,CHI,CHI,16,MIN,30,3,3,8470600,Giveaway by Ryan Suter
+178,giveaway,Dennis Gilbert,[ 86. -37.],3,14:41,CHI,MIN,CHI,16,MIN,30,3,3,8478502,Giveaway by Dennis Gilbert
+200,giveaway,Erik Gustafsson,[-23. -37.],3,10:04,CHI,MIN,CHI,16,MIN,30,3,3,8476979,Giveaway by Erik Gustafsson
+234,giveaway,Carson Soucy,[-29. -35.],3,00:55,MIN,CHI,CHI,16,MIN,30,5,3,8477369,Giveaway by Carson Soucy
+27,takeaway,Alex DeBrincat,[59. -5.],1,14:43,CHI,MIN,CHI,16,MIN,30,0,0,8479337,Takeaway by Alex DeBrincat
+39,takeaway,Ryan Donato,[-34.   0.],1,11:37,MIN,CHI,CHI,16,MIN,30,1,0,8477987,Takeaway by Ryan Donato
+64,takeaway,Olli Maatta,[40.  0.],1,03:16,CHI,MIN,CHI,16,MIN,30,2,1,8476874,Takeaway by Olli Maatta
+68,takeaway,Ryan Hartman,[40.  0.],1,02:36,MIN,CHI,CHI,16,MIN,30,2,1,8477451,Takeaway by Ryan Hartman
+88,takeaway,Matt Dumba,[45. 35.],2,17:30,MIN,CHI,CHI,16,MIN,30,2,2,8476856,Takeaway by Matt Dumba
+120,takeaway,Jonathan Toews,[ 5. 19.],2,09:50,CHI,MIN,CHI,16,MIN,30,3,2,8473604,Takeaway by Jonathan Toews
+147,takeaway,Kirby Dach,[ 59. -31.],2,03:03,CHI,MIN,CHI,16,MIN,30,3,3,8481523,Takeaway by Kirby Dach
+156,takeaway,Alex Nylander,[-22. -19.],2,00:24,CHI,MIN,CHI,16,MIN,30,3,3,8479423,Takeaway by Alex Nylander
+185,takeaway,Carson Soucy,[-37. -12.],3,12:47,MIN,CHI,CHI,16,MIN,30,3,3,8477369,Takeaway by Carson Soucy
+224,takeaway,Ryan Carpenter,[-42. -17.],3,02:15,CHI,MIN,CHI,16,MIN,30,4,3,8477846,Takeaway by Ryan Carpenter
+227,takeaway,David Kampf,[ 31. -24.],3,01:38,CHI,MIN,CHI,16,MIN,30,4,3,8480144,Takeaway by David Kampf
+231,takeaway,Jonathan Toews,[32. 30.],3,01:05,CHI,MIN,CHI,16,MIN,30,4,3,8473604,Takeaway by Jonathan Toews
+2,giveaway,Brayden McNabb,[-31. -39.],1,19:29,VGK,MIN,VGK,54,MIN,30,0,0,8475188,Giveaway by Brayden McNabb
+3,giveaway,Victor Rask,[ 79. -38.],1,19:15,MIN,VGK,VGK,54,MIN,30,0,0,8476437,Giveaway by Victor Rask
+14,giveaway,Reilly Smith,[30. 31.],1,16:42,VGK,MIN,VGK,54,MIN,30,0,0,8475191,Giveaway by Reilly Smith
+26,giveaway,William Karlsson,[-35. -40.],1,14:22,VGK,MIN,VGK,54,MIN,30,0,0,8476448,Giveaway by William Karlsson
+41,giveaway,Ryan Suter,[-97.   2.],1,09:44,MIN,VGK,VGK,54,MIN,30,0,0,8470600,Giveaway by Ryan Suter
+44,giveaway,Kevin Fiala,[65. 28.],1,08:46,MIN,VGK,VGK,54,MIN,30,0,0,8477942,Giveaway by Kevin Fiala
+48,giveaway,Matt Dumba,[-51. -41.],1,07:18,MIN,VGK,VGK,54,MIN,30,0,0,8476856,Giveaway by Matt Dumba
+80,giveaway,Alex Stalock,[-91.  29.],1,02:22,MIN,VGK,VGK,54,MIN,30,0,0,8471774,Giveaway by Alex Stalock
+82,giveaway,Ryan Hartman,[55. 41.],1,01:30,MIN,VGK,VGK,54,MIN,30,0,0,8477451,Giveaway by Ryan Hartman
+100,giveaway,Mark Stone,[-78. -32.],2,18:41,VGK,MIN,VGK,54,MIN,30,0,1,8475913,Giveaway by Mark Stone
+133,giveaway,Reilly Smith,[-90.  33.],2,09:22,VGK,MIN,VGK,54,MIN,30,0,1,8475191,Giveaway by Reilly Smith
+170,giveaway,Marcus Foligno,[-95.   1.],2,00:58,MIN,VGK,VGK,54,MIN,30,1,1,8475220,Giveaway by Marcus Foligno
+202,giveaway,Ryan Donato,[ 44. -32.],3,14:02,MIN,VGK,VGK,54,MIN,30,2,1,8477987,Giveaway by Ryan Donato
+240,giveaway,Alex Tuch,[-48.   1.],3,03:05,VGK,MIN,VGK,54,MIN,30,3,1,8477949,Giveaway by Alex Tuch
+27,takeaway,Ryan Suter,[-33.  38.],1,14:15,MIN,VGK,VGK,54,MIN,30,0,0,8470600,Takeaway by Ryan Suter
+38,takeaway,Chandler Stephenson,[68. -1.],1,11:24,VGK,MIN,VGK,54,MIN,30,0,0,8476905,Takeaway by Chandler Stephenson
+45,takeaway,Eric Staal,[-30. -41.],1,08:02,MIN,VGK,VGK,54,MIN,30,0,0,8470595,Takeaway by Eric Staal
+52,takeaway,William Carrier,[30. 40.],1,06:10,VGK,MIN,VGK,54,MIN,30,0,0,8477478,Takeaway by William Carrier
+53,takeaway,Brad Hunt,[-50.  -2.],1,06:08,MIN,VGK,VGK,54,MIN,30,0,0,8476779,Takeaway by Brad Hunt
+56,takeaway,Reilly Smith,[47. 39.],1,05:34,VGK,MIN,VGK,54,MIN,30,0,0,8475191,Takeaway by Reilly Smith
+58,takeaway,William Karlsson,[-67. -38.],1,05:23,VGK,MIN,VGK,54,MIN,30,0,0,8476448,Takeaway by William Karlsson
+68,takeaway,Nico Sturm,[-31.  -2.],1,04:42,MIN,VGK,VGK,54,MIN,30,0,0,8481477,Takeaway by Nico Sturm
+95,takeaway,Reilly Smith,[-43. -41.],2,19:40,VGK,MIN,VGK,54,MIN,30,0,1,8475191,Takeaway by Reilly Smith
+104,takeaway,Alex Tuch,[62. 35.],2,17:30,VGK,MIN,VGK,54,MIN,30,0,1,8477949,Takeaway by Alex Tuch
+114,takeaway,Max Pacioretty,[-59.  32.],2,14:47,VGK,MIN,VGK,54,MIN,30,0,1,8474157,Takeaway by Max Pacioretty
+117,takeaway,Luke Kunin,[-4. -2.],2,13:09,MIN,VGK,VGK,54,MIN,30,0,1,8479316,Takeaway by Luke Kunin
+162,takeaway,Paul Stastny,[-57.  39.],2,02:51,VGK,MIN,VGK,54,MIN,30,1,1,8471669,Takeaway by Paul Stastny
+168,takeaway,Marcus Foligno,[-39. -39.],2,01:10,MIN,VGK,VGK,54,MIN,30,1,1,8475220,Takeaway by Marcus Foligno
+172,takeaway,Ryan Suter,[98. -1.],2,00:24,MIN,VGK,VGK,54,MIN,30,1,1,8470600,Takeaway by Ryan Suter
+201,takeaway,Mark Stone,[-9.  3.],3,14:40,VGK,MIN,VGK,54,MIN,30,2,1,8475913,Takeaway by Mark Stone
+211,takeaway,Valentin Zykov,[-85.  37.],3,11:40,VGK,MIN,VGK,54,MIN,30,3,1,8477458,Takeaway by Valentin Zykov
+219,takeaway,Mats Zuccarello,[37. 23.],3,08:47,MIN,VGK,VGK,54,MIN,30,3,1,8475692,Takeaway by Mats Zuccarello
+233,takeaway,Kevin Fiala,[53. 40.],3,05:13,MIN,VGK,VGK,54,MIN,30,3,1,8477942,Takeaway by Kevin Fiala
+236,takeaway,Jonathan Marchessault,[-94.  28.],3,04:18,VGK,MIN,VGK,54,MIN,30,3,1,8476539,Takeaway by Jonathan Marchessault
+2,giveaway,Jordan Greenway,[-55. -38.],1,19:43,MIN,ARI,ARI,53,MIN,30,0,0,8478413,Giveaway by Jordan Greenway
+15,giveaway,Nico Sturm,[17. 34.],1,16:25,MIN,ARI,ARI,53,MIN,30,0,0,8481477,Giveaway by Nico Sturm
+41,giveaway,Christian Dvorak,[ 59. -37.],1,09:51,ARI,MIN,ARI,53,MIN,30,0,0,8477989,Giveaway by Christian Dvorak
+64,giveaway,Ryan Suter,[-38. -29.],1,04:49,MIN,ARI,ARI,53,MIN,30,0,0,8470600,Giveaway by Ryan Suter
+85,giveaway,Oliver Ekman-Larsson,[-91. -29.],1,00:38,ARI,MIN,ARI,53,MIN,30,1,0,8475171,Giveaway by Oliver Ekman-Larsson
+94,giveaway,Mats Zuccarello,[92. 30.],2,18:22,MIN,ARI,ARI,53,MIN,30,1,0,8475692,Giveaway by Mats Zuccarello
+96,giveaway,Jordan Oesterle,[79. 14.],2,18:12,ARI,MIN,ARI,53,MIN,30,1,0,8477851,Giveaway by Jordan Oesterle
+117,giveaway,Kevin Fiala,[ 56. -36.],2,14:04,MIN,ARI,ARI,53,MIN,30,1,2,8477942,Giveaway by Kevin Fiala
+121,giveaway,Carl Soderberg,[50. 12.],2,12:50,ARI,MIN,ARI,53,MIN,30,1,2,8471262,Giveaway by Carl Soderberg
+128,giveaway,Jordan Greenway,[-61.  20.],2,10:23,MIN,ARI,ARI,53,MIN,30,1,2,8478413,Giveaway by Jordan Greenway
+184,giveaway,Jared Spurgeon,[72.  3.],3,19:14,MIN,ARI,ARI,53,MIN,30,2,4,8474716,Giveaway by Jared Spurgeon
+232,giveaway,Mats Zuccarello,[98. -2.],3,09:53,MIN,ARI,ARI,53,MIN,30,5,6,8475692,Giveaway by Mats Zuccarello
+265,giveaway,Jared Spurgeon,[74.  2.],3,01:15,MIN,ARI,ARI,53,MIN,30,5,7,8474716,Giveaway by Jared Spurgeon
+269,giveaway,Jakob Chychrun,[11.  7.],3,00:33,ARI,MIN,ARI,53,MIN,30,5,7,8479345,Giveaway by Jakob Chychrun
+5,takeaway,Vinnie Hinostroza,[97. -1.],1,18:50,ARI,MIN,ARI,53,MIN,30,0,0,8476994,Takeaway by Vinnie Hinostroza
+73,takeaway,Christian Dvorak,[99.  0.],1,03:47,ARI,MIN,ARI,53,MIN,30,0,0,8477989,Takeaway by Christian Dvorak
+80,takeaway,Vinnie Hinostroza,[  7. -34.],1,02:33,ARI,MIN,ARI,53,MIN,30,1,0,8476994,Takeaway by Vinnie Hinostroza
+111,takeaway,Vinnie Hinostroza,[-65.  39.],2,14:55,ARI,MIN,ARI,53,MIN,30,1,2,8476994,Takeaway by Vinnie Hinostroza
+199,takeaway,Jordan Greenway,[-98.  -3.],3,15:55,MIN,ARI,ARI,53,MIN,30,4,4,8478413,Takeaway by Jordan Greenway
+230,takeaway,Jordan Greenway,[-4. 16.],3,10:30,MIN,ARI,ARI,53,MIN,30,5,6,8478413,Takeaway by Jordan Greenway
+231,takeaway,Jakob Chychrun,[-91.  30.],3,10:14,ARI,MIN,ARI,53,MIN,30,5,6,8479345,Takeaway by Jakob Chychrun
+268,takeaway,Eric Staal,[ 60. -40.],3,00:41,MIN,ARI,ARI,53,MIN,30,5,7,8470595,Takeaway by Eric Staal
+5,giveaway,Blake Wheeler,[-13.  40.],1,18:19,WPG,MIN,MIN,30,WPG,52,0,0,8471218,Giveaway by Blake Wheeler
+28,giveaway,Blake Wheeler,[-41.   6.],1,13:27,WPG,MIN,MIN,30,WPG,52,0,0,8471218,Giveaway by Blake Wheeler
+42,giveaway,Kevin Fiala,[ 5. 39.],1,08:23,MIN,WPG,MIN,30,WPG,52,0,0,8477942,Giveaway by Kevin Fiala
+64,giveaway,Blake Wheeler,[21.  1.],1,03:10,WPG,MIN,MIN,30,WPG,52,0,1,8471218,Giveaway by Blake Wheeler
+120,giveaway,Jordan Greenway,[98.  6.],2,07:06,MIN,WPG,MIN,30,WPG,52,0,3,8478413,Giveaway by Jordan Greenway
+22,takeaway,Nicholas Shore,[-40.  36.],1,14:35,WPG,MIN,MIN,30,WPG,52,0,0,8476406,Takeaway by Nicholas Shore
+30,takeaway,Luca Sbisa,[-86. -19.],1,12:45,WPG,MIN,MIN,30,WPG,52,0,0,8474579,Takeaway by Luca Sbisa
+77,takeaway,Mats Zuccarello,[80. 31.],2,19:33,MIN,WPG,MIN,30,WPG,52,0,2,8475692,Takeaway by Mats Zuccarello
+84,takeaway,Ryan Hartman,[36. 27.],2,17:04,MIN,WPG,MIN,30,WPG,52,0,2,8477451,Takeaway by Ryan Hartman
+94,takeaway,Ryan Donato,[-37.  37.],2,13:42,MIN,WPG,MIN,30,WPG,52,0,2,8477987,Takeaway by Ryan Donato
+95,takeaway,Gabriel Bourque,[-94. -26.],2,13:25,WPG,MIN,MIN,30,WPG,52,0,2,8475268,Takeaway by Gabriel Bourque
+139,takeaway,Carson Soucy,[-97.  22.],2,03:00,MIN,WPG,MIN,30,WPG,52,0,3,8477369,Takeaway by Carson Soucy
+184,takeaway,Marcus Foligno,[-97.  20.],3,08:20,MIN,WPG,MIN,30,WPG,52,0,6,8475220,Takeaway by Marcus Foligno
+204,takeaway,Jonas Brodin,[ 88. -17.],3,03:00,MIN,WPG,MIN,30,WPG,52,0,6,8476463,Takeaway by Jonas Brodin
+3,giveaway,Zach Parise,[97. 10.],1,19:31,MIN,CGY,MIN,30,CGY,20,0,0,8470610,Giveaway by Zach Parise
+8,giveaway,Johnny Gaudreau,[-58. -31.],1,18:20,CGY,MIN,MIN,30,CGY,20,0,0,8476346,Giveaway by Johnny Gaudreau
+19,giveaway,Zach Parise,[-52.  -3.],1,15:32,MIN,CGY,MIN,30,CGY,20,0,0,8470610,Giveaway by Zach Parise
+24,giveaway,Victor Rask,[-44.  34.],1,14:26,MIN,CGY,MIN,30,CGY,20,0,0,8476437,Giveaway by Victor Rask
+28,giveaway,Joel Eriksson Ek,[ 9. 27.],1,13:34,MIN,CGY,MIN,30,CGY,20,0,0,8478493,Giveaway by Joel Eriksson Ek
+46,giveaway,Johnny Gaudreau,[45. 16.],1,09:29,CGY,MIN,MIN,30,CGY,20,0,0,8476346,Giveaway by Johnny Gaudreau
+66,giveaway,Matthew Tkachuk,[11. -7.],1,03:56,CGY,MIN,MIN,30,CGY,20,0,0,8479314,Giveaway by Matthew Tkachuk
+77,giveaway,Devan Dubnyk,[97.  3.],1,00:56,MIN,CGY,MIN,30,CGY,20,0,0,8471227,Giveaway by Devan Dubnyk
+84,giveaway,Noah Hanifin,[94.  8.],2,19:23,CGY,MIN,MIN,30,CGY,20,0,0,8478396,Giveaway by Noah Hanifin
+87,giveaway,Joel Eriksson Ek,[-55. -21.],2,18:33,MIN,CGY,MIN,30,CGY,20,0,0,8478493,Giveaway by Joel Eriksson Ek
+92,giveaway,Travis Hamonic,[55. 16.],2,17:37,CGY,MIN,MIN,30,CGY,20,0,0,8474612,Giveaway by Travis Hamonic
+144,giveaway,Noah Hanifin,[-51.  -7.],2,04:11,CGY,MIN,MIN,30,CGY,20,2,0,8478396,Giveaway by Noah Hanifin
+175,giveaway,Cam Talbot,[-84.   7.],3,15:36,CGY,MIN,MIN,30,CGY,20,2,0,8475660,Giveaway by Cam Talbot
+188,giveaway,Jonas Brodin,[ 43. -17.],3,11:33,MIN,CGY,MIN,30,CGY,20,2,0,8476463,Giveaway by Jonas Brodin
+197,giveaway,Brad Hunt,[96. 20.],3,08:48,MIN,CGY,MIN,30,CGY,20,2,0,8476779,Giveaway by Brad Hunt
+15,takeaway,Noah Hanifin,[-63. -27.],1,16:39,CGY,MIN,MIN,30,CGY,20,0,0,8478396,Takeaway by Noah Hanifin
+49,takeaway,Andrew Mangiapane,[33. 15.],1,08:55,CGY,MIN,MIN,30,CGY,20,0,0,8478233,Takeaway by Andrew Mangiapane
+107,takeaway,Derek Ryan,[94. 16.],2,12:21,CGY,MIN,MIN,30,CGY,20,1,0,8478585,Takeaway by Derek Ryan
+111,takeaway,Matthew Tkachuk,[-57.   2.],2,10:50,CGY,MIN,MIN,30,CGY,20,1,0,8479314,Takeaway by Matthew Tkachuk
+136,takeaway,Ryan Donato,[97. -6.],2,04:57,MIN,CGY,MIN,30,CGY,20,2,0,8477987,Takeaway by Ryan Donato
+171,takeaway,Brad Hunt,[95. 20.],3,17:31,MIN,CGY,MIN,30,CGY,20,2,0,8476779,Takeaway by Brad Hunt
+179,takeaway,Victor Rask,[22. 36.],3,13:55,MIN,CGY,MIN,30,CGY,20,2,0,8476437,Takeaway by Victor Rask
+214,takeaway,Elias Lindholm,[35. 36.],3,03:15,CGY,MIN,MIN,30,CGY,20,2,0,8477496,Takeaway by Elias Lindholm
+12,giveaway,Ryan Graves,[96. -9.],1,17:20,COL,MIN,COL,21,MIN,30,0,0,8477435,Giveaway by Ryan Graves
+33,giveaway,Kevin Fiala,[41. 40.],1,10:53,MIN,COL,COL,21,MIN,30,0,1,8477942,Giveaway by Kevin Fiala
+111,giveaway,Pavel Francouz,[-96.  -5.],2,12:18,COL,MIN,COL,21,MIN,30,2,2,8480925,Giveaway by Pavel Francouz
+168,giveaway,Nathan MacKinnon,[ 40. -33.],3,19:47,COL,MIN,COL,21,MIN,30,3,3,8477492,Giveaway by Nathan MacKinnon
+200,giveaway,Cale Makar,[95. 26.],3,09:26,COL,MIN,COL,21,MIN,30,4,3,8480069,Giveaway by Cale Makar
+20,takeaway,Kevin Fiala,[25. 25.],1,15:18,MIN,COL,COL,21,MIN,30,0,0,8477942,Takeaway by Kevin Fiala
+26,takeaway,Matt Nieto,[ 92. -23.],1,13:22,COL,MIN,COL,21,MIN,30,0,1,8476442,Takeaway by Matt Nieto
+28,takeaway,Cale Makar,[32. 21.],1,12:37,COL,MIN,COL,21,MIN,30,0,1,8480069,Takeaway by Cale Makar
+87,takeaway,Nikita Zadorov,[-85. -38.],2,17:59,COL,MIN,COL,21,MIN,30,2,2,8477507,Takeaway by Nikita Zadorov
+92,takeaway,Victor Rask,[-44. -31.],2,16:34,MIN,COL,COL,21,MIN,30,2,2,8476437,Takeaway by Victor Rask
+96,takeaway,Gabriel Landeskog,[ 41. -40.],2,15:43,COL,MIN,COL,21,MIN,30,2,2,8476455,Takeaway by Gabriel Landeskog
+115,takeaway,Nathan MacKinnon,[-50.  40.],2,12:03,COL,MIN,COL,21,MIN,30,2,2,8477492,Takeaway by Nathan MacKinnon
+122,takeaway,Ryan Suter,[35. 20.],2,10:25,MIN,COL,COL,21,MIN,30,2,2,8470600,Takeaway by Ryan Suter
+130,takeaway,Nikita Zadorov,[-15. -39.],2,09:15,COL,MIN,COL,21,MIN,30,2,2,8477507,Takeaway by Nikita Zadorov
+161,takeaway,Andre Burakovsky,[ 55. -38.],2,01:05,COL,MIN,COL,21,MIN,30,2,3,8477444,Takeaway by Andre Burakovsky
+177,takeaway,Tyson Jost,[-49. -19.],3,17:22,COL,MIN,COL,21,MIN,30,4,3,8479370,Takeaway by Tyson Jost
+183,takeaway,Gabriel Landeskog,[-33.  -4.],3,16:00,COL,MIN,COL,21,MIN,30,4,3,8476455,Takeaway by Gabriel Landeskog
+1,giveaway,Devan Dubnyk,[95. -9.],1,19:48,MIN,NYI,MIN,30,NYI,2,0,0,8471227,Giveaway by Devan Dubnyk
+15,giveaway,Nick Leddy,[-96.  13.],1,15:33,NYI,MIN,MIN,30,NYI,2,0,0,8475181,Giveaway by Nick Leddy
+47,giveaway,Jared Spurgeon,[92. 13.],1,06:02,MIN,NYI,MIN,30,NYI,2,0,0,8474716,Giveaway by Jared Spurgeon
+58,giveaway,Joel Eriksson Ek,[ 61. -11.],1,03:51,MIN,NYI,MIN,30,NYI,2,1,0,8478493,Giveaway by Joel Eriksson Ek
+101,giveaway,Jared Spurgeon,[-62. -39.],2,09:06,MIN,NYI,MIN,30,NYI,2,1,0,8474716,Giveaway by Jared Spurgeon
+105,giveaway,Ryan Pulock,[90. 16.],2,08:00,NYI,MIN,MIN,30,NYI,2,1,0,8477506,Giveaway by Ryan Pulock
+130,giveaway,Casey Cizikas,[ 72. -33.],2,00:35,NYI,MIN,MIN,30,NYI,2,1,0,8475231,Giveaway by Casey Cizikas
+6,takeaway,Adam Pelech,[-79.  35.],1,18:07,NYI,MIN,MIN,30,NYI,2,0,0,8476917,Takeaway by Adam Pelech
+21,takeaway,Eric Staal,[-68. -32.],1,13:19,MIN,NYI,MIN,30,NYI,2,0,0,8470595,Takeaway by Eric Staal
+70,takeaway,Ryan Hartman,[ -5. -33.],1,00:11,MIN,NYI,MIN,30,NYI,2,1,0,8477451,Takeaway by Ryan Hartman
+74,takeaway,Marcus Foligno,[-50.  25.],2,19:22,MIN,NYI,MIN,30,NYI,2,1,0,8475220,Takeaway by Marcus Foligno
+104,takeaway,Kevin Fiala,[-31. -24.],2,08:34,MIN,NYI,MIN,30,NYI,2,1,0,8477942,Takeaway by Kevin Fiala
+136,takeaway,Ryan Donato,[35. -8.],3,17:49,MIN,NYI,MIN,30,NYI,2,1,0,8477987,Takeaway by Ryan Donato
+186,takeaway,Devon Toews,[-40.  37.],3,04:03,NYI,MIN,MIN,30,NYI,2,1,2,8478038,Takeaway by Devon Toews
+3,giveaway,Eric Staal,[93. 20.],1,18:42,MIN,TOR,MIN,30,TOR,10,0,0,8470595,Giveaway by Eric Staal
+10,giveaway,Tyson Barrie,[35. 15.],1,16:56,TOR,MIN,MIN,30,TOR,10,0,0,8475197,Giveaway by Tyson Barrie
+27,giveaway,Zach Parise,[ 51. -23.],1,14:12,MIN,TOR,MIN,30,TOR,10,0,0,8470610,Giveaway by Zach Parise
+45,giveaway,Jordan Greenway,[-36.  -8.],1,07:09,MIN,TOR,MIN,30,TOR,10,0,1,8478413,Giveaway by Jordan Greenway
+59,giveaway,Mikko Koivu,[-36. -14.],1,03:04,MIN,TOR,MIN,30,TOR,10,0,1,8469459,Giveaway by Mikko Koivu
+79,giveaway,Matt Dumba,[-91. -19.],2,17:54,MIN,TOR,MIN,30,TOR,10,0,2,8476856,Giveaway by Matt Dumba
+107,giveaway,Justin Holl,[-59.  23.],2,09:50,TOR,MIN,MIN,30,TOR,10,0,3,8475718,Giveaway by Justin Holl
+124,giveaway,John Tavares,[34. 15.],2,06:25,TOR,MIN,MIN,30,TOR,10,1,3,8475166,Giveaway by John Tavares
+142,giveaway,Tyson Barrie,[65. 40.],2,03:07,TOR,MIN,MIN,30,TOR,10,1,3,8475197,Giveaway by Tyson Barrie
+204,giveaway,Jordan Greenway,[-86.  11.],3,04:11,MIN,TOR,MIN,30,TOR,10,1,3,8478413,Giveaway by Jordan Greenway
+205,giveaway,Eric Staal,[-21.   3.],3,03:49,MIN,TOR,MIN,30,TOR,10,1,3,8470595,Giveaway by Eric Staal
+15,takeaway,Luke Kunin,[12. 12.],1,15:52,MIN,TOR,MIN,30,TOR,10,0,0,8479316,Takeaway by Luke Kunin
+18,takeaway,Jordan Greenway,[-94.  -9.],1,15:28,MIN,TOR,MIN,30,TOR,10,0,0,8478413,Takeaway by Jordan Greenway
+20,takeaway,Eric Staal,[-37. -41.],1,15:02,MIN,TOR,MIN,30,TOR,10,0,0,8470595,Takeaway by Eric Staal
+31,takeaway,Eric Staal,[ 42. -22.],1,12:55,MIN,TOR,MIN,30,TOR,10,0,1,8470595,Takeaway by Eric Staal
+34,takeaway,Auston Matthews,[93. 23.],1,10:13,TOR,MIN,MIN,30,TOR,10,0,1,8479318,Takeaway by Auston Matthews
+52,takeaway,Matt Dumba,[33. 11.],1,03:56,MIN,TOR,MIN,30,TOR,10,0,1,8476856,Takeaway by Matt Dumba
+61,takeaway,Mitchell Marner,[20.  2.],1,02:51,TOR,MIN,MIN,30,TOR,10,0,1,8478483,Takeaway by Mitchell Marner
+63,takeaway,Auston Matthews,[-33.  -7.],1,00:59,TOR,MIN,MIN,30,TOR,10,0,1,8479318,Takeaway by Auston Matthews
+80,takeaway,Kasperi Kapanen,[-45. -10.],2,17:53,TOR,MIN,MIN,30,TOR,10,0,2,8477953,Takeaway by Kasperi Kapanen
+121,takeaway,Ryan Donato,[ 35. -10.],2,07:14,MIN,TOR,MIN,30,TOR,10,1,3,8477987,Takeaway by Ryan Donato
+144,takeaway,Tyson Barrie,[50. 39.],2,02:57,TOR,MIN,MIN,30,TOR,10,1,3,8475197,Takeaway by Tyson Barrie
+164,takeaway,Zach Hyman,[-49.  14.],3,18:14,TOR,MIN,MIN,30,TOR,10,1,3,8475786,Takeaway by Zach Hyman
+178,takeaway,Auston Matthews,[-40.  19.],3,12:23,TOR,MIN,MIN,30,TOR,10,1,3,8479318,Takeaway by Auston Matthews
+180,takeaway,Jonas Brodin,[ 88. -30.],3,11:58,MIN,TOR,MIN,30,TOR,10,1,3,8476463,Takeaway by Jonas Brodin
+186,takeaway,William Nylander,[ 76. -29.],3,09:20,TOR,MIN,MIN,30,TOR,10,1,3,8477939,Takeaway by William Nylander
+191,takeaway,Ryan Hartman,[-50.  38.],3,08:28,MIN,TOR,MIN,30,TOR,10,1,3,8477451,Takeaway by Ryan Hartman
+207,takeaway,Alexander Kerfoot,[-72.  40.],3,03:33,TOR,MIN,MIN,30,TOR,10,1,3,8477021,Takeaway by Alexander Kerfoot
+92,giveaway,Carson Soucy,[-64.   8.],2,14:35,MIN,WPG,MIN,30,WPG,52,1,1,8477369,Giveaway by Carson Soucy
+120,giveaway,Patrik Laine,[-43. -29.],2,09:46,WPG,MIN,MIN,30,WPG,52,1,1,8479339,Giveaway by Patrik Laine
+164,giveaway,Kyle Connor,[-52.  35.],3,16:57,WPG,MIN,MIN,30,WPG,52,1,2,8478398,Giveaway by Kyle Connor
+181,giveaway,Ryan Hartman,[ -4. -31.],3,11:43,MIN,WPG,MIN,30,WPG,52,1,2,8477451,Giveaway by Ryan Hartman
+10,takeaway,Carl Dahlstrom,[-51.   2.],1,17:36,WPG,MIN,MIN,30,WPG,52,1,0,8477472,Takeaway by Carl Dahlstrom
+18,takeaway,Mathieu Perreault,[-34. -20.],1,15:09,WPG,MIN,MIN,30,WPG,52,1,0,8473618,Takeaway by Mathieu Perreault
+31,takeaway,Adam Lowry,[-41. -37.],1,12:06,WPG,MIN,MIN,30,WPG,52,1,0,8476392,Takeaway by Adam Lowry
+32,takeaway,Tucker Poolman,[-31.  -4.],1,10:42,WPG,MIN,MIN,30,WPG,52,1,0,8477359,Takeaway by Tucker Poolman
+41,takeaway,Mikko Koivu,[-6. 38.],1,08:29,MIN,WPG,MIN,30,WPG,52,1,0,8469459,Takeaway by Mikko Koivu
+45,takeaway,Mats Zuccarello,[-13.  -5.],1,06:43,MIN,WPG,MIN,30,WPG,52,1,0,8475692,Takeaway by Mats Zuccarello
+76,takeaway,Tucker Poolman,[48. 34.],2,19:15,WPG,MIN,MIN,30,WPG,52,1,1,8477359,Takeaway by Tucker Poolman
+83,takeaway,Anthony Bitetto,[-14.  20.],2,17:14,WPG,MIN,MIN,30,WPG,52,1,1,8475868,Takeaway by Anthony Bitetto
+90,takeaway,Jordan Greenway,[-65.   8.],2,15:18,MIN,WPG,MIN,30,WPG,52,1,1,8478413,Takeaway by Jordan Greenway
+91,takeaway,Carson Soucy,[-67.   4.],2,14:36,MIN,WPG,MIN,30,WPG,52,1,1,8477369,Takeaway by Carson Soucy
+111,takeaway,Kevin Fiala,[38. -3.],2,12:15,MIN,WPG,MIN,30,WPG,52,1,1,8477942,Takeaway by Kevin Fiala
+119,takeaway,Kevin Fiala,[96. -7.],2,10:06,MIN,WPG,MIN,30,WPG,52,1,1,8477942,Takeaway by Kevin Fiala
+124,takeaway,Marcus Foligno,[-32. -11.],2,08:53,MIN,WPG,MIN,30,WPG,52,1,1,8475220,Takeaway by Marcus Foligno
+162,takeaway,Mathieu Perreault,[55. 38.],3,18:16,WPG,MIN,MIN,30,WPG,52,1,2,8473618,Takeaway by Mathieu Perreault
+166,takeaway,Adam Lowry,[ -6. -41.],3,15:43,WPG,MIN,MIN,30,WPG,52,1,2,8476392,Takeaway by Adam Lowry
+193,takeaway,Ryan Suter,[22. 12.],3,07:35,MIN,WPG,MIN,30,WPG,52,1,2,8470600,Takeaway by Ryan Suter
+197,takeaway,Brad Hunt,[-2.  3.],3,06:35,MIN,WPG,MIN,30,WPG,52,1,2,8476779,Takeaway by Brad Hunt
+218,takeaway,Mats Zuccarello,[-75. -32.],4,04:09,MIN,WPG,MIN,30,WPG,52,2,2,8475692,Takeaway by Mats Zuccarello
+28,giveaway,Eric Staal,[-60. -27.],1,13:03,MIN,CGY,MIN,30,CGY,20,1,0,8470595,Giveaway by Eric Staal
+54,giveaway,Carson Soucy,[70. 32.],1,07:50,MIN,CGY,MIN,30,CGY,20,2,1,8477369,Giveaway by Carson Soucy
+82,giveaway,Marcus Foligno,[-7. -6.],2,18:45,MIN,CGY,MIN,30,CGY,20,3,2,8475220,Giveaway by Marcus Foligno
+100,giveaway,Travis Hamonic,[-66. -30.],2,14:06,CGY,MIN,MIN,30,CGY,20,3,2,8474612,Giveaway by Travis Hamonic
+108,giveaway,Alex Stalock,[-74.  40.],2,12:16,MIN,CGY,MIN,30,CGY,20,3,2,8471774,Giveaway by Alex Stalock
+126,giveaway,Dillon Dube,[-73. -31.],2,08:21,CGY,MIN,MIN,30,CGY,20,3,2,8479346,Giveaway by Dillon Dube
+151,giveaway,Matthew Tkachuk,[59. 39.],2,01:56,CGY,MIN,MIN,30,CGY,20,3,2,8479314,Giveaway by Matthew Tkachuk
+153,giveaway,Mark Giordano,[-20.  37.],2,01:23,CGY,MIN,MIN,30,CGY,20,3,2,8470966,Giveaway by Mark Giordano
+186,giveaway,Zach Parise,[11. 37.],3,13:44,MIN,CGY,MIN,30,CGY,20,4,3,8470610,Giveaway by Zach Parise
+230,giveaway,Jordan Greenway,[  8. -32.],3,02:33,MIN,CGY,MIN,30,CGY,20,4,4,8478413,Giveaway by Jordan Greenway
+233,giveaway,Dillon Dube,[-81. -22.],3,01:50,CGY,MIN,MIN,30,CGY,20,4,4,8479346,Giveaway by Dillon Dube
+24,takeaway,Mats Zuccarello,[ 39. -33.],1,13:39,MIN,CGY,MIN,30,CGY,20,1,0,8475692,Takeaway by Mats Zuccarello
+37,takeaway,Marcus Foligno,[41. 18.],1,11:14,MIN,CGY,MIN,30,CGY,20,1,0,8475220,Takeaway by Marcus Foligno
+53,takeaway,Zach Parise,[43. 16.],1,08:28,MIN,CGY,MIN,30,CGY,20,2,1,8470610,Takeaway by Zach Parise
+80,takeaway,Marcus Foligno,[-8.  7.],2,18:54,MIN,CGY,MIN,30,CGY,20,3,2,8475220,Takeaway by Marcus Foligno
+84,takeaway,Brad Hunt,[-97.  -6.],2,18:18,MIN,CGY,MIN,30,CGY,20,3,2,8476779,Takeaway by Brad Hunt
+90,takeaway,Jordan Greenway,[68. 37.],2,16:42,MIN,CGY,MIN,30,CGY,20,3,2,8478413,Takeaway by Jordan Greenway
+107,takeaway,Marcus Foligno,[98. 15.],2,12:55,MIN,CGY,MIN,30,CGY,20,3,2,8475220,Takeaway by Marcus Foligno
+117,takeaway,Sean Monahan,[38. 14.],2,09:53,CGY,MIN,MIN,30,CGY,20,3,2,8477497,Takeaway by Sean Monahan
+123,takeaway,TJ Brodie,[67. 40.],2,08:54,CGY,MIN,MIN,30,CGY,20,3,2,8474673,Takeaway by TJ Brodie
+137,takeaway,Joel Eriksson Ek,[  9. -22.],2,05:23,MIN,CGY,MIN,30,CGY,20,3,2,8478493,Takeaway by Joel Eriksson Ek
+138,takeaway,Mark Giordano,[36. -3.],2,05:17,CGY,MIN,MIN,30,CGY,20,3,2,8470966,Takeaway by Mark Giordano
+142,takeaway,Mats Zuccarello,[ 62. -29.],2,04:32,MIN,CGY,MIN,30,CGY,20,3,2,8475692,Takeaway by Mats Zuccarello
+150,takeaway,Joel Eriksson Ek,[93. 17.],2,02:16,MIN,CGY,MIN,30,CGY,20,3,2,8478493,Takeaway by Joel Eriksson Ek
+165,takeaway,Marcus Foligno,[-50. -36.],3,19:11,MIN,CGY,MIN,30,CGY,20,3,2,8475220,Takeaway by Marcus Foligno
+191,takeaway,Mats Zuccarello,[-24.  13.],3,11:09,MIN,CGY,MIN,30,CGY,20,4,3,8475692,Takeaway by Mats Zuccarello
+200,takeaway,Kevin Fiala,[ 36. -29.],3,09:10,MIN,CGY,MIN,30,CGY,20,4,3,8477942,Takeaway by Kevin Fiala
+205,takeaway,Victor Rask,[ 86. -13.],3,07:26,MIN,CGY,MIN,30,CGY,20,4,3,8476437,Takeaway by Victor Rask
+251,takeaway,Eric Staal,[-96.  -3.],4,00:19,MIN,CGY,MIN,30,CGY,20,4,4,8470595,Takeaway by Eric Staal
+2,giveaway,Joel Eriksson Ek,[-54. -41.],1,19:31,MIN,CGY,CGY,20,MIN,30,0,0,8478493,Giveaway by Joel Eriksson Ek
+14,giveaway,Mark Jankowski,[64. 16.],1,17:57,CGY,MIN,CGY,20,MIN,30,0,0,8476873,Giveaway by Mark Jankowski
+20,giveaway,Elias Lindholm,[-12.  -3.],1,16:36,CGY,MIN,CGY,20,MIN,30,0,0,8477496,Giveaway by Elias Lindholm
+31,giveaway,Sean Monahan,[-58. -37.],1,14:07,CGY,MIN,CGY,20,MIN,30,1,0,8477497,Giveaway by Sean Monahan
+37,giveaway,Oliver Kylington,[ 59. -38.],1,13:07,CGY,MIN,CGY,20,MIN,30,1,0,8478430,Giveaway by Oliver Kylington
+47,giveaway,Rasmus Andersson,[50. 30.],1,10:44,CGY,MIN,CGY,20,MIN,30,1,0,8478397,Giveaway by Rasmus Andersson
+61,giveaway,Mats Zuccarello,[-47.  14.],1,07:55,MIN,CGY,CGY,20,MIN,30,1,0,8475692,Giveaway by Mats Zuccarello
+68,giveaway,Brad Hunt,[-78. -35.],1,06:12,MIN,CGY,CGY,20,MIN,30,1,0,8476779,Giveaway by Brad Hunt
+97,giveaway,Alex Stalock,[95. -5.],2,19:06,MIN,CGY,CGY,20,MIN,30,1,1,8471774,Giveaway by Alex Stalock
+119,giveaway,Carson Soucy,[ 89. -31.],2,14:51,MIN,CGY,CGY,20,MIN,30,1,1,8477369,Giveaway by Carson Soucy
+144,giveaway,TJ Brodie,[-40. -16.],2,08:19,CGY,MIN,CGY,20,MIN,30,2,1,8474673,Giveaway by TJ Brodie
+187,giveaway,Jared Spurgeon,[-22. -40.],3,19:51,MIN,CGY,CGY,20,MIN,30,2,1,8474716,Giveaway by Jared Spurgeon
+193,giveaway,Johnny Gaudreau,[ 67. -40.],3,18:44,CGY,MIN,CGY,20,MIN,30,2,1,8476346,Giveaway by Johnny Gaudreau
+217,giveaway,Jonas Brodin,[-86.  32.],3,12:27,MIN,CGY,CGY,20,MIN,30,2,1,8476463,Giveaway by Jonas Brodin
+218,giveaway,Matt Dumba,[-92.  27.],3,11:59,MIN,CGY,CGY,20,MIN,30,2,1,8476856,Giveaway by Matt Dumba
+234,giveaway,Oliver Kylington,[ 58. -34.],3,08:37,CGY,MIN,CGY,20,MIN,30,2,1,8478430,Giveaway by Oliver Kylington
+250,giveaway,Travis Hamonic,[ 84. -40.],3,04:03,CGY,MIN,CGY,20,MIN,30,2,1,8474612,Giveaway by Travis Hamonic
+263,giveaway,Mark Giordano,[ 80. -32.],3,01:06,CGY,MIN,CGY,20,MIN,30,2,1,8470966,Giveaway by Mark Giordano
+29,takeaway,Zach Parise,[60. 21.],1,14:30,MIN,CGY,CGY,20,MIN,30,1,0,8470610,Takeaway by Zach Parise
+30,takeaway,Mark Giordano,[ 92. -11.],1,14:17,CGY,MIN,CGY,20,MIN,30,1,0,8470966,Takeaway by Mark Giordano
+44,takeaway,Elias Lindholm,[-60. -41.],1,11:44,CGY,MIN,CGY,20,MIN,30,1,0,8477496,Takeaway by Elias Lindholm
+62,takeaway,Mats Zuccarello,[35. 25.],1,07:45,MIN,CGY,CGY,20,MIN,30,1,0,8475692,Takeaway by Mats Zuccarello
+63,takeaway,Matt Dumba,[-70. -39.],1,07:12,MIN,CGY,CGY,20,MIN,30,1,0,8476856,Takeaway by Matt Dumba
+67,takeaway,Elias Lindholm,[-36.  14.],1,06:23,CGY,MIN,CGY,20,MIN,30,1,0,8477496,Takeaway by Elias Lindholm
+69,takeaway,Zach Parise,[18. 29.],1,06:07,MIN,CGY,CGY,20,MIN,30,1,0,8470610,Takeaway by Zach Parise
+122,takeaway,Kevin Fiala,[32. 11.],2,13:50,MIN,CGY,CGY,20,MIN,30,1,1,8477942,Takeaway by Kevin Fiala
+128,takeaway,Mikael Backlund,[-42.  -1.],2,13:04,CGY,MIN,CGY,20,MIN,30,1,1,8474150,Takeaway by Mikael Backlund
+137,takeaway,Ryan Hartman,[-78.  41.],2,10:10,MIN,CGY,CGY,20,MIN,30,2,1,8477451,Takeaway by Ryan Hartman
+145,takeaway,Carson Soucy,[37.  7.],2,08:11,MIN,CGY,CGY,20,MIN,30,2,1,8477369,Takeaway by Carson Soucy
+155,takeaway,Dillon Dube,[-56.  35.],2,06:56,CGY,MIN,CGY,20,MIN,30,2,1,8479346,Takeaway by Dillon Dube
+164,takeaway,Noah Hanifin,[-69.  25.],2,04:41,CGY,MIN,CGY,20,MIN,30,2,1,8478396,Takeaway by Noah Hanifin
+172,takeaway,Zach Parise,[45. -3.],2,03:16,MIN,CGY,CGY,20,MIN,30,2,1,8470610,Takeaway by Zach Parise
+189,takeaway,Noah Hanifin,[94. -6.],3,19:28,CGY,MIN,CGY,20,MIN,30,2,1,8478396,Takeaway by Noah Hanifin
+207,takeaway,Sam Bennett,[30. 15.],3,16:20,CGY,MIN,CGY,20,MIN,30,2,1,8477935,Takeaway by Sam Bennett
+208,takeaway,Mark Giordano,[ 31. -27.],3,15:57,CGY,MIN,CGY,20,MIN,30,2,1,8470966,Takeaway by Mark Giordano
+209,takeaway,Kevin Fiala,[97. -4.],3,15:43,MIN,CGY,CGY,20,MIN,30,2,1,8477942,Takeaway by Kevin Fiala
+215,takeaway,Elias Lindholm,[-67.  35.],3,12:47,CGY,MIN,CGY,20,MIN,30,2,1,8477496,Takeaway by Elias Lindholm
+244,takeaway,Jared Spurgeon,[  0. -29.],3,06:09,MIN,CGY,CGY,20,MIN,30,2,1,8474716,Takeaway by Jared Spurgeon
+265,takeaway,Noah Hanifin,[99. -7.],3,00:26,CGY,MIN,CGY,20,MIN,30,2,1,8478396,Takeaway by Noah Hanifin
+96,giveaway,Kevin Fiala,[52. 37.],2,09:27,MIN,VAN,MIN,30,VAN,23,0,1,8477942,Giveaway by Kevin Fiala
+115,giveaway,Jared Spurgeon,[-97.  -6.],2,06:48,MIN,VAN,MIN,30,VAN,23,1,2,8474716,Giveaway by Jared Spurgeon
+167,giveaway,Mikko Koivu,[-31.  39.],3,11:12,MIN,VAN,MIN,30,VAN,23,1,3,8469459,Giveaway by Mikko Koivu
+176,giveaway,Jacob Markstrom,[-92.   4.],3,08:39,VAN,MIN,MIN,30,VAN,23,1,3,8474593,Giveaway by Jacob Markstrom
+182,giveaway,Kevin Fiala,[-98.  16.],3,07:10,MIN,VAN,MIN,30,VAN,23,1,3,8477942,Giveaway by Kevin Fiala
+16,takeaway,Ryan Hartman,[-29. -39.],1,16:15,MIN,VAN,MIN,30,VAN,23,0,0,8477451,Takeaway by Ryan Hartman
+43,takeaway,Marcus Foligno,[40. 29.],1,05:57,MIN,VAN,MIN,30,VAN,23,0,0,8475220,Takeaway by Marcus Foligno
+50,takeaway,Quinn Hughes,[-21.  36.],1,02:07,VAN,MIN,MIN,30,VAN,23,0,0,8480800,Takeaway by Quinn Hughes
+51,takeaway,Troy Stecher,[-65. -13.],1,01:33,VAN,MIN,MIN,30,VAN,23,0,0,8479442,Takeaway by Troy Stecher
+58,takeaway,J.T. Miller,[-37. -35.],2,19:31,VAN,MIN,MIN,30,VAN,23,0,0,8476468,Takeaway by J.T. Miller
+62,takeaway,Matt Dumba,[-17. -29.],2,18:21,MIN,VAN,MIN,30,VAN,23,0,0,8476856,Takeaway by Matt Dumba
+112,takeaway,Adam Gaudette,[ 42. -19.],2,06:56,VAN,MIN,MIN,30,VAN,23,1,2,8478874,Takeaway by Adam Gaudette
+120,takeaway,Christopher Tanev,[95. -8.],2,05:39,VAN,MIN,MIN,30,VAN,23,1,3,8475690,Takeaway by Christopher Tanev
+123,takeaway,Tanner Pearson,[ 45. -38.],2,04:19,VAN,MIN,MIN,30,VAN,23,1,3,8476871,Takeaway by Tanner Pearson
+131,takeaway,Joel Eriksson Ek,[ 9. 38.],2,01:07,MIN,VAN,MIN,30,VAN,23,1,3,8478493,Takeaway by Joel Eriksson Ek
+137,takeaway,Elias Pettersson,[41. 18.],3,19:34,VAN,MIN,MIN,30,VAN,23,1,3,8480012,Takeaway by Elias Pettersson
+160,takeaway,Brock Boeser,[-55.  34.],3,12:58,VAN,MIN,MIN,30,VAN,23,1,3,8478444,Takeaway by Brock Boeser
+17,giveaway,Ryan Suter,[98.  6.],1,15:00,MIN,PIT,PIT,5,MIN,30,0,0,8470600,Giveaway by Ryan Suter
+43,giveaway,Bryan Rust,[94. 21.],1,09:37,PIT,MIN,PIT,5,MIN,30,1,0,8475810,Giveaway by Bryan Rust
+51,giveaway,Bryan Rust,[-96.  21.],1,07:34,PIT,MIN,PIT,5,MIN,30,1,0,8475810,Giveaway by Bryan Rust
+66,giveaway,Evgeni Malkin,[-63.  -9.],1,03:17,PIT,MIN,PIT,5,MIN,30,1,0,8471215,Giveaway by Evgeni Malkin
+67,giveaway,Matt Dumba,[-98.   5.],1,02:08,MIN,PIT,PIT,5,MIN,30,1,0,8476856,Giveaway by Matt Dumba
+84,giveaway,Chad Ruhwedel,[73. 39.],2,17:53,PIT,MIN,PIT,5,MIN,30,2,0,8477244,Giveaway by Chad Ruhwedel
+85,giveaway,Mikko Koivu,[98. -4.],2,17:45,MIN,PIT,PIT,5,MIN,30,2,0,8469459,Giveaway by Mikko Koivu
+87,giveaway,Matt Dumba,[-71. -28.],2,17:20,MIN,PIT,PIT,5,MIN,30,2,0,8476856,Giveaway by Matt Dumba
+90,giveaway,Kris Letang,[-37. -35.],2,16:01,PIT,MIN,PIT,5,MIN,30,2,0,8471724,Giveaway by Kris Letang
+105,giveaway,Juuso Riikola,[ 96. -25.],2,11:13,PIT,MIN,PIT,5,MIN,30,2,0,8480945,Giveaway by Juuso Riikola
+130,giveaway,Tristan Jarry,[86. -2.],2,06:01,PIT,MIN,PIT,5,MIN,30,2,0,8477465,Giveaway by Tristan Jarry
+135,giveaway,Kris Letang,[-31. -19.],2,05:36,PIT,MIN,PIT,5,MIN,30,3,0,8471724,Giveaway by Kris Letang
+160,giveaway,Kevin Fiala,[13. 37.],3,19:14,MIN,PIT,PIT,5,MIN,30,4,1,8477942,Giveaway by Kevin Fiala
+161,giveaway,Teddy Blueger,[86. 35.],3,18:19,PIT,MIN,PIT,5,MIN,30,4,1,8476927,Giveaway by Teddy Blueger
+162,giveaway,Juuso Riikola,[-98.  14.],3,18:10,PIT,MIN,PIT,5,MIN,30,4,1,8480945,Giveaway by Juuso Riikola
+186,giveaway,Devan Dubnyk,[99.  0.],3,12:56,MIN,PIT,PIT,5,MIN,30,4,2,8471227,Giveaway by Devan Dubnyk
+191,giveaway,Sidney Crosby,[94. 30.],3,12:03,PIT,MIN,PIT,5,MIN,30,5,2,8471675,Giveaway by Sidney Crosby
+192,giveaway,Devan Dubnyk,[98. -2.],3,11:46,MIN,PIT,PIT,5,MIN,30,5,2,8471227,Giveaway by Devan Dubnyk
+204,giveaway,Brandon Tanev,[ 9. 32.],3,09:31,PIT,MIN,PIT,5,MIN,30,6,2,8479293,Giveaway by Brandon Tanev
+207,giveaway,Carson Soucy,[97.  4.],3,08:27,MIN,PIT,PIT,5,MIN,30,6,2,8477369,Giveaway by Carson Soucy
+210,giveaway,Jordan Greenway,[-46. -20.],3,07:57,MIN,PIT,PIT,5,MIN,30,6,2,8478413,Giveaway by Jordan Greenway
+211,giveaway,Ryan Hartman,[-60.  37.],3,07:32,MIN,PIT,PIT,5,MIN,30,6,2,8477451,Giveaway by Ryan Hartman
+218,giveaway,Kris Letang,[ 34. -29.],3,06:04,PIT,MIN,PIT,5,MIN,30,6,2,8471724,Giveaway by Kris Letang
+230,giveaway,Jason Zucker,[-63.   8.],3,01:59,MIN,PIT,PIT,5,MIN,30,7,2,8475722,Giveaway by Jason Zucker
+63,takeaway,Marcus Pettersson,[-89. -24.],1,04:37,PIT,MIN,PIT,5,MIN,30,1,0,8477969,Takeaway by Marcus Pettersson
+65,takeaway,Evgeni Malkin,[-57. -24.],1,03:19,PIT,MIN,PIT,5,MIN,30,1,0,8471215,Takeaway by Evgeni Malkin
+71,takeaway,Eric Staal,[-28.  -9.],1,01:21,MIN,PIT,PIT,5,MIN,30,2,0,8470595,Takeaway by Eric Staal
+101,takeaway,Jason Zucker,[ 52. -36.],2,12:30,MIN,PIT,PIT,5,MIN,30,2,0,8475722,Takeaway by Jason Zucker
+104,takeaway,Evgeni Malkin,[ 93. -26.],2,11:33,PIT,MIN,PIT,5,MIN,30,2,0,8471215,Takeaway by Evgeni Malkin
+122,takeaway,Ryan Hartman,[-35. -33.],2,07:38,MIN,PIT,PIT,5,MIN,30,2,0,8477451,Takeaway by Ryan Hartman
+185,takeaway,Jonas Brodin,[35. 40.],3,13:12,MIN,PIT,PIT,5,MIN,30,4,2,8476463,Takeaway by Jonas Brodin
+206,takeaway,Sidney Crosby,[4. 5.],3,09:01,PIT,MIN,PIT,5,MIN,30,6,2,8471675,Takeaway by Sidney Crosby
+231,takeaway,Brandon Tanev,[-6. -8.],3,01:42,PIT,MIN,PIT,5,MIN,30,7,2,8479293,Takeaway by Brandon Tanev
+5,giveaway,Ryan McDonagh,[ 37. -31.],1,18:29,TBL,MIN,MIN,30,TBL,14,0,0,8474151,Giveaway by Ryan McDonagh
+10,giveaway,Ondrej Palat,[ 35. -35.],1,16:43,TBL,MIN,MIN,30,TBL,14,0,0,8476292,Giveaway by Ondrej Palat
+25,giveaway,Eric Staal,[-19.  38.],1,11:38,MIN,TBL,MIN,30,TBL,14,0,0,8470595,Giveaway by Eric Staal
+88,giveaway,Eric Staal,[37. 33.],2,17:06,MIN,TBL,MIN,30,TBL,14,1,0,8470595,Giveaway by Eric Staal
+100,giveaway,Matt Dumba,[-95. -18.],2,15:03,MIN,TBL,MIN,30,TBL,14,1,0,8476856,Giveaway by Matt Dumba
+101,giveaway,Alex Stalock,[-85.  -2.],2,14:48,MIN,TBL,MIN,30,TBL,14,1,0,8471774,Giveaway by Alex Stalock
+102,giveaway,Alex Stalock,[-87.  -4.],2,14:31,MIN,TBL,MIN,30,TBL,14,1,0,8471774,Giveaway by Alex Stalock
+135,giveaway,Curtis McElhinney,[86.  8.],2,05:21,TBL,MIN,MIN,30,TBL,14,2,1,8470147,Giveaway by Curtis McElhinney
+157,giveaway,Eric Staal,[57. 37.],3,19:40,MIN,TBL,MIN,30,TBL,14,3,1,8470595,Giveaway by Eric Staal
+207,giveaway,Marcus Foligno,[52. -3.],3,00:03,MIN,TBL,MIN,30,TBL,14,3,2,8475220,Giveaway by Marcus Foligno
+8,takeaway,Mikko Koivu,[ 88. -21.],1,16:48,MIN,TBL,MIN,30,TBL,14,0,0,8469459,Takeaway by Mikko Koivu
+15,takeaway,Carson Soucy,[49. 29.],1,14:21,MIN,TBL,MIN,30,TBL,14,0,0,8477369,Takeaway by Carson Soucy
+32,takeaway,Mikko Koivu,[-96.  13.],1,08:57,MIN,TBL,MIN,30,TBL,14,0,0,8469459,Takeaway by Mikko Koivu
+54,takeaway,Luke Kunin,[18. 38.],1,05:09,MIN,TBL,MIN,30,TBL,14,1,0,8479316,Takeaway by Luke Kunin
+58,takeaway,Kevin Shattenkirk,[-46.   4.],1,04:36,TBL,MIN,MIN,30,TBL,14,1,0,8474031,Takeaway by Kevin Shattenkirk
+64,takeaway,Mitchell Stephens,[-89.  29.],1,02:55,TBL,MIN,MIN,30,TBL,14,1,0,8478477,Takeaway by Mitchell Stephens
+68,takeaway,Ryan McDonagh,[-83.  36.],1,01:54,TBL,MIN,MIN,30,TBL,14,1,0,8474151,Takeaway by Ryan McDonagh
+80,takeaway,Alex Killorn,[-49. -36.],2,19:25,TBL,MIN,MIN,30,TBL,14,1,0,8473986,Takeaway by Alex Killorn
+106,takeaway,Ryan Hartman,[-95. -12.],2,13:02,MIN,TBL,MIN,30,TBL,14,1,0,8477451,Takeaway by Ryan Hartman
+113,takeaway,Ondrej Palat,[ 14. -33.],2,11:47,TBL,MIN,MIN,30,TBL,14,1,1,8476292,Takeaway by Ondrej Palat
+127,takeaway,Marcus Foligno,[50. 19.],2,07:31,MIN,TBL,MIN,30,TBL,14,1,1,8475220,Takeaway by Marcus Foligno
+130,takeaway,Jason Zucker,[96. -5.],2,07:07,MIN,TBL,MIN,30,TBL,14,2,1,8475722,Takeaway by Jason Zucker
+133,takeaway,Eric Staal,[58.  3.],2,05:50,MIN,TBL,MIN,30,TBL,14,2,1,8470595,Takeaway by Eric Staal
+148,takeaway,Jonas Brodin,[ 31. -26.],2,02:32,MIN,TBL,MIN,30,TBL,14,3,1,8476463,Takeaway by Jonas Brodin
+150,takeaway,Anthony Cirelli,[55. -9.],2,02:25,TBL,MIN,MIN,30,TBL,14,3,1,8478519,Takeaway by Anthony Cirelli
+172,takeaway,Ryan McDonagh,[-63.  29.],3,15:28,TBL,MIN,MIN,30,TBL,14,3,1,8474151,Takeaway by Ryan McDonagh
+192,takeaway,Jordan Greenway,[0. 3.],3,08:24,MIN,TBL,MIN,30,TBL,14,3,2,8478413,Takeaway by Jordan Greenway
+199,takeaway,Jordan Greenway,[-99.   2.],3,04:24,MIN,TBL,MIN,30,TBL,14,3,2,8478413,Takeaway by Jordan Greenway
+13,giveaway,Andrew Cogliano,[-6. 37.],1,17:21,DAL,MIN,MIN,30,DAL,25,0,0,8471699,Giveaway by Andrew Cogliano
+41,giveaway,Matt Dumba,[-36.  29.],1,09:57,MIN,DAL,MIN,30,DAL,25,0,0,8476856,Giveaway by Matt Dumba
+58,giveaway,Jared Spurgeon,[81. 38.],1,06:13,MIN,DAL,MIN,30,DAL,25,1,0,8474716,Giveaway by Jared Spurgeon
+75,giveaway,Jonas Brodin,[72. 35.],1,01:51,MIN,DAL,MIN,30,DAL,25,2,0,8476463,Giveaway by Jonas Brodin
+87,giveaway,Blake Comeau,[48. 38.],2,19:36,DAL,MIN,MIN,30,DAL,25,2,0,8471260,Giveaway by Blake Comeau
+101,giveaway,Stephen Johns,[83. 24.],2,15:52,DAL,MIN,MIN,30,DAL,25,3,0,8475730,Giveaway by Stephen Johns
+105,giveaway,Jamie Benn,[-56.  39.],2,15:13,DAL,MIN,MIN,30,DAL,25,4,0,8473994,Giveaway by Jamie Benn
+153,giveaway,Blake Comeau,[30. 26.],2,00:58,DAL,MIN,MIN,30,DAL,25,4,0,8471260,Giveaway by Blake Comeau
+182,giveaway,Ben Bishop,[-97.  -1.],3,12:36,DAL,MIN,MIN,30,DAL,25,5,0,8471750,Giveaway by Ben Bishop
+198,giveaway,Andrew Cogliano,[-65. -39.],3,06:44,DAL,MIN,MIN,30,DAL,25,5,0,8471699,Giveaway by Andrew Cogliano
+203,giveaway,Ryan Hartman,[-68.  11.],3,05:51,MIN,DAL,MIN,30,DAL,25,6,0,8477451,Giveaway by Ryan Hartman
+3,takeaway,Joel Kiviranta,[-20.   9.],1,19:19,DAL,MIN,MIN,30,DAL,25,0,0,8481641,Takeaway by Joel Kiviranta
+66,takeaway,Jason Zucker,[-18.  16.],1,03:38,MIN,DAL,MIN,30,DAL,25,1,0,8475722,Takeaway by Jason Zucker
+80,takeaway,Kevin Fiala,[-35.  14.],1,00:41,MIN,DAL,MIN,30,DAL,25,2,0,8477942,Takeaway by Kevin Fiala
+89,takeaway,Eric Staal,[-13. -32.],2,19:21,MIN,DAL,MIN,30,DAL,25,2,0,8470595,Takeaway by Eric Staal
+91,takeaway,John Klingberg,[79. 30.],2,18:56,DAL,MIN,MIN,30,DAL,25,2,0,8475906,Takeaway by John Klingberg
+144,takeaway,Zach Parise,[-33.  15.],2,03:41,MIN,DAL,MIN,30,DAL,25,4,0,8470610,Takeaway by Zach Parise
+150,takeaway,Joel Eriksson Ek,[-63. -38.],2,02:19,MIN,DAL,MIN,30,DAL,25,4,0,8478493,Takeaway by Joel Eriksson Ek
+218,takeaway,Marcus Foligno,[ 50. -32.],3,02:39,MIN,DAL,MIN,30,DAL,25,7,0,8475220,Takeaway by Marcus Foligno
+11,giveaway,Vincent Trocheck,[-39.  -1.],1,17:33,FLA,MIN,MIN,30,FLA,13,0,0,8476389,Giveaway by Vincent Trocheck
+12,giveaway,Ryan Hartman,[61. 33.],1,16:51,MIN,FLA,MIN,30,FLA,13,0,0,8477451,Giveaway by Ryan Hartman
+32,giveaway,Aaron Ekblad,[-79. -36.],1,10:31,FLA,MIN,MIN,30,FLA,13,0,1,8477932,Giveaway by Aaron Ekblad
+35,giveaway,Ryan Donato,[39. 31.],1,09:42,MIN,FLA,MIN,30,FLA,13,0,1,8477987,Giveaway by Ryan Donato
+41,giveaway,Aaron Ekblad,[-93. -10.],1,07:05,FLA,MIN,MIN,30,FLA,13,0,1,8477932,Giveaway by Aaron Ekblad
+78,giveaway,Brett Connolly,[ -8. -25.],2,18:14,FLA,MIN,MIN,30,FLA,13,1,1,8475792,Giveaway by Brett Connolly
+131,giveaway,Josh Brown,[50. 37.],2,04:04,FLA,MIN,MIN,30,FLA,13,2,2,8477384,Giveaway by Josh Brown
+164,giveaway,Kevin Fiala,[85. 32.],3,13:55,MIN,FLA,MIN,30,FLA,13,3,3,8477942,Giveaway by Kevin Fiala
+190,giveaway,Alex Stalock,[85.  7.],3,06:37,MIN,FLA,MIN,30,FLA,13,4,3,8471774,Giveaway by Alex Stalock
+203,giveaway,Vincent Trocheck,[72. -4.],3,03:41,FLA,MIN,MIN,30,FLA,13,4,4,8476389,Giveaway by Vincent Trocheck
+36,takeaway,Ryan Donato,[39. -4.],1,09:41,MIN,FLA,MIN,30,FLA,13,0,1,8477987,Takeaway by Ryan Donato
+89,takeaway,Keith Yandle,[ 45. -16.],2,15:24,FLA,MIN,MIN,30,FLA,13,1,1,8471735,Takeaway by Keith Yandle
+95,takeaway,Brett Connolly,[-40.   6.],2,13:17,FLA,MIN,MIN,30,FLA,13,1,1,8475792,Takeaway by Brett Connolly
+119,takeaway,Jason Zucker,[-42.  20.],2,06:47,MIN,FLA,MIN,30,FLA,13,2,2,8475722,Takeaway by Jason Zucker
+129,takeaway,Matt Dumba,[-92.  24.],2,04:35,MIN,FLA,MIN,30,FLA,13,2,2,8476856,Takeaway by Matt Dumba
+130,takeaway,Marcus Foligno,[ 5. 17.],2,04:15,MIN,FLA,MIN,30,FLA,13,2,2,8475220,Takeaway by Marcus Foligno
+138,takeaway,Brett Connolly,[95. 19.],2,01:53,FLA,MIN,MIN,30,FLA,13,2,2,8475792,Takeaway by Brett Connolly
+156,takeaway,Jason Zucker,[-10.  22.],3,15:54,MIN,FLA,MIN,30,FLA,13,2,3,8475722,Takeaway by Jason Zucker
+180,takeaway,Mats Zuccarello,[-36.   1.],3,09:43,MIN,FLA,MIN,30,FLA,13,4,3,8475692,Takeaway by Mats Zuccarello
+189,takeaway,Noel Acciari,[-45. -31.],3,06:46,FLA,MIN,MIN,30,FLA,13,4,3,8478569,Takeaway by Noel Acciari
+204,takeaway,Eric Staal,[-94.  23.],3,03:14,MIN,FLA,MIN,30,FLA,13,4,4,8470595,Takeaway by Eric Staal
+24,giveaway,Jason Zucker,[-11. -25.],1,16:40,MIN,DET,MIN,30,DET,17,0,1,8475722,Giveaway by Jason Zucker
+41,giveaway,Madison Bowey,[-98.  -7.],1,12:12,DET,MIN,MIN,30,DET,17,1,1,8477474,Giveaway by Madison Bowey
+88,giveaway,Jimmy Howard,[88. -5.],2,19:18,DET,MIN,MIN,30,DET,17,1,2,8470657,Giveaway by Jimmy Howard
+120,giveaway,Filip Zadina,[-19.  35.],2,09:30,DET,MIN,MIN,30,DET,17,3,2,8480821,Giveaway by Filip Zadina
+164,giveaway,Eric Staal,[-61.  29.],3,13:52,MIN,DET,MIN,30,DET,17,4,2,8470595,Giveaway by Eric Staal
+42,takeaway,Carson Soucy,[10. -5.],1,11:25,MIN,DET,MIN,30,DET,17,1,1,8477369,Takeaway by Carson Soucy
+51,takeaway,Ryan Hartman,[-40. -15.],1,09:36,MIN,DET,MIN,30,DET,17,1,1,8477451,Takeaway by Ryan Hartman
+71,takeaway,Marcus Foligno,[56. 37.],1,03:58,MIN,DET,MIN,30,DET,17,1,1,8475220,Takeaway by Marcus Foligno
+112,takeaway,Matt Dumba,[38. 17.],2,11:48,MIN,DET,MIN,30,DET,17,3,2,8476856,Takeaway by Matt Dumba
+132,takeaway,Darren Helm,[-91.  12.],2,05:55,DET,MIN,MIN,30,DET,17,4,2,8471794,Takeaway by Darren Helm
+137,takeaway,Patrik Nemeth,[-12. -25.],2,03:15,DET,MIN,MIN,30,DET,17,4,2,8475747,Takeaway by Patrik Nemeth
+140,takeaway,Jordan Greenway,[-49.   3.],2,01:16,MIN,DET,MIN,30,DET,17,4,2,8478413,Takeaway by Jordan Greenway
+195,takeaway,Ryan Suter,[ 82. -27.],3,02:53,MIN,DET,MIN,30,DET,17,4,2,8470600,Takeaway by Ryan Suter

@@ -1,0 +1,548 @@
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
+38,penalty,Hi-sticking,Nino Niederreiter,Troy Stecher,[-79.   1.],1,12:20,CAR,VAN,CAR,12,VAN,23,0,1,8475799,8479442.0,Nino Niederreiter Hi-sticking against Troy Stecher
+92,penalty,Tripping,Erik Haula,Alexander Edler,[56. 18.],1,02:47,CAR,VAN,CAR,12,VAN,23,0,1,8475287,8471303.0,Erik Haula Tripping against Alexander Edler
+158,penalty,Holding,Jaccob Slavin,J.T. Miller,[-37. -39.],2,08:50,CAR,VAN,CAR,12,VAN,23,2,1,8476958,8476468.0,Jaccob Slavin Holding against J.T. Miller
+245,penalty,Slashing,J.T. Miller,Nino Niederreiter,[-80.  36.],3,09:06,VAN,CAR,CAR,12,VAN,23,3,3,8476468,8475799.0,J.T. Miller Slashing against Nino Niederreiter
+255,penalty,Interference,Haydn Fleury,Brandon Sutter,[ 57. -40.],3,06:03,CAR,VAN,CAR,12,VAN,23,3,3,8477938,8474091.0,Haydn Fleury Interference against Brandon Sutter
+63,penalty,Missing key [PD_151],Jake Virtanen,,[35. 35.],1,05:36,VAN,BOS,BOS,6,VAN,23,1,0,8477937,,Delaying Game - Unsucc. chlg served by Jake Virtanen
+109,penalty,Delaying Game - Puck over glass,Troy Stecher,,[-55.  37.],2,14:15,VAN,BOS,BOS,6,VAN,23,1,0,8479442,,Troy Stecher Delaying Game - Puck over glass
+114,penalty,Tripping,Alexander Edler,Brad Marchand,[-96.   1.],2,13:14,VAN,BOS,BOS,6,VAN,23,1,0,8471303,8473419.0,Alexander Edler Tripping against Brad Marchand
+130,penalty,Hooking,Anders Bjork,Bo Horvat,[-5. 38.],2,10:12,BOS,VAN,BOS,6,VAN,23,1,0,8478075,8477500.0,Anders Bjork Hooking against Bo Horvat
+174,penalty,Hooking,Chris Wagner,Oscar Fantenberg,[58. 38.],2,04:03,BOS,VAN,BOS,6,VAN,23,2,0,8475780,8480147.0,Chris Wagner Hooking against Oscar Fantenberg
+246,penalty,Slashing,Torey Krug,Jake Virtanen,[-79. -11.],3,07:22,BOS,VAN,BOS,6,VAN,23,2,0,8476792,8477937.0,Torey Krug Slashing against Jake Virtanen
+251,penalty,Slashing,Quinn Hughes,Sean Kuraly,[68.  8.],3,06:22,VAN,BOS,BOS,6,VAN,23,2,0,8480800,8476374.0,Quinn Hughes Slashing against Sean Kuraly
+261,penalty,Interference - Goalkeeper,Jay Beagle,Brock Boeser,[-82.   7.],3,04:49,VAN,BOS,BOS,6,VAN,23,3,0,8474291,8478444.0,Jay Beagle Interference - Goalkeeper against Tuukka Rask served by Brock Boeser
+262,penalty,Misconduct,Jay Beagle,,[ 9. 39.],3,04:49,VAN,BOS,BOS,6,VAN,23,3,0,8474291,,Jay Beagle Misconduct
+266,penalty,Delaying Game - Puck over glass,Tyler Myers,,[57. 37.],3,03:38,VAN,BOS,BOS,6,VAN,23,3,0,8474574,,Tyler Myers Delaying Game - Puck over glass
+11,penalty,Fighting,Jason Zucker,Jake Virtanen,[19. 31.],1,17:28,MIN,VAN,MIN,30,VAN,23,0,0,8475722,8477937.0,Jason Zucker Fighting against Jake Virtanen
+12,penalty,Fighting,Jake Virtanen,Jason Zucker,[15. 26.],1,17:28,VAN,MIN,MIN,30,VAN,23,0,0,8477937,8475722.0,Jake Virtanen Fighting against Jason Zucker
+22,penalty,Tripping,Jay Beagle,Mats Zuccarello,[37. 31.],1,16:03,VAN,MIN,MIN,30,VAN,23,0,0,8474291,8475692.0,Jay Beagle Tripping against Mats Zuccarello
+56,penalty,Slashing,Mikko Koivu,Loui Eriksson,[84. 35.],1,08:46,MIN,VAN,MIN,30,VAN,23,2,0,8469459,8470626.0,Mikko Koivu Slashing against Loui Eriksson
+69,penalty,Tripping,Loui Eriksson,Mats Zuccarello,[89. 33.],1,04:34,VAN,MIN,MIN,30,VAN,23,2,0,8470626,8475692.0,Loui Eriksson Tripping against Mats Zuccarello
+84,penalty,Holding,Marcus Foligno,Troy Stecher,[-84.  22.],1,00:41,MIN,VAN,MIN,30,VAN,23,3,0,8475220,8479442.0,Marcus Foligno Holding against Troy Stecher
+114,penalty,Interference,Zack MacEwen,Jonas Brodin,[-86.   2.],2,14:09,VAN,MIN,MIN,30,VAN,23,3,0,8479772,8476463.0,Zack MacEwen Interference against Jonas Brodin
+130,penalty,Fighting,Zack MacEwen,Marcus Foligno,[-96.  16.],2,09:51,VAN,MIN,MIN,30,VAN,23,3,0,8479772,8475220.0,Zack MacEwen Fighting against Marcus Foligno
+131,penalty,Fighting,Marcus Foligno,Zack MacEwen,[-82.  10.],2,09:51,MIN,VAN,MIN,30,VAN,23,3,0,8475220,8479772.0,Marcus Foligno Fighting against Zack MacEwen
+132,penalty,Slashing,Jared Spurgeon,Zack MacEwen,[-76.   9.],2,09:51,MIN,VAN,MIN,30,VAN,23,3,0,8474716,8479772.0,Jared Spurgeon Slashing against Zack MacEwen
+206,penalty,Hooking,Adam Gaudette,Marcus Foligno,[50. 25.],3,06:09,VAN,MIN,MIN,30,VAN,23,3,1,8478874,8475220.0,Adam Gaudette Hooking against Marcus Foligno
+210,penalty,Misconduct,Adam Gaudette,,[-77.   0.],3,05:27,VAN,MIN,MIN,30,VAN,23,4,1,8478874,,Adam Gaudette Misconduct
+216,penalty,Hooking,Jonas Brodin,Bo Horvat,[ 44. -24.],3,02:56,MIN,VAN,MIN,30,VAN,23,4,1,8476463,8477500.0,Jonas Brodin Hooking against Bo Horvat
+3,penalty,Fighting,Matthew Tkachuk,J.T. Miller,[15.  3.],1,19:25,CGY,VAN,VAN,23,CGY,20,1,0,8479314,8476468.0,Matthew Tkachuk Fighting against J.T. Miller
+4,penalty,Fighting,J.T. Miller,Matthew Tkachuk,[17.  0.],1,19:25,VAN,CGY,VAN,23,CGY,20,1,0,8476468,8479314.0,J.T. Miller Fighting against Matthew Tkachuk
+49,penalty,Slashing,TJ Brodie,Bo Horvat,[-70.   5.],1,07:32,CGY,VAN,VAN,23,CGY,20,1,2,8474673,8477500.0,TJ Brodie Slashing against Bo Horvat
+58,penalty,Interference,Johnny Gaudreau,Quinn Hughes,[ 29. -38.],1,04:03,CGY,VAN,VAN,23,CGY,20,1,2,8476346,8480800.0,Johnny Gaudreau Interference against Quinn Hughes
+118,penalty,Slashing,Mikael Backlund,Jacob Markstrom,[-81.   0.],2,07:12,CGY,VAN,VAN,23,CGY,20,2,3,8474150,8474593.0,Mikael Backlund Slashing against Jacob Markstrom
+119,penalty,Roughing,Jacob Markstrom,Loui Eriksson,[-81.  -1.],2,07:12,VAN,CGY,VAN,23,CGY,20,2,3,8474593,8470626.0,Jacob Markstrom Roughing against Mikael Backlund served by Loui Eriksson
+134,penalty,Roughing,Milan Lucic,Antoine Roussel,[-68.  -2.],2,04:07,CGY,VAN,VAN,23,CGY,20,2,3,8473473,8474849.0,Milan Lucic Roughing against Antoine Roussel
+135,penalty,Roughing,Antoine Roussel,Milan Lucic,[-64.   1.],2,04:07,VAN,CGY,VAN,23,CGY,20,2,3,8474849,8473473.0,Antoine Roussel Roughing against Milan Lucic
+171,penalty,Holding,Elias Pettersson,Andrew Mangiapane,[97. 13.],3,15:12,VAN,CGY,VAN,23,CGY,20,2,3,8480012,8478233.0,Elias Pettersson Holding against Andrew Mangiapane
+185,penalty,Tripping,Andrew Mangiapane,Jake Virtanen,[-94.  25.],3,11:32,CGY,VAN,VAN,23,CGY,20,2,4,8478233,8477937.0,Andrew Mangiapane Tripping against Jake Virtanen
+50,penalty,Tripping,Austin Watson,Justin Bailey,[ 68. -20.],1,09:02,NSH,VAN,VAN,23,NSH,18,1,0,8475766,8477473.0,Austin Watson Tripping against Justin Bailey
+71,penalty,Hooking,Quinn Hughes,Kyle Turris,[79. 35.],1,05:14,VAN,NSH,VAN,23,NSH,18,3,0,8480800,8474068.0,Quinn Hughes Hooking against Kyle Turris
+116,penalty,Cross checking,Tyler Myers,Jake Virtanen,[-86. -29.],2,14:59,VAN,NSH,VAN,23,NSH,18,4,0,8474574,8477937.0,Tyler Myers Cross checking against Calle Jarnkrok served by Jake Virtanen
+117,penalty,Fighting,Tyler Myers,Austin Watson,[-85. -25.],2,14:59,VAN,NSH,VAN,23,NSH,18,4,0,8474574,8475766.0,Tyler Myers Fighting against Austin Watson
+118,penalty,Fighting,Austin Watson,Tyler Myers,[-85. -29.],2,14:59,NSH,VAN,VAN,23,NSH,18,4,0,8475766,8474574.0,Austin Watson Fighting against Tyler Myers
+142,penalty,Tripping,J.T. Miller,Viktor Arvidsson,[-3. 37.],2,10:33,VAN,NSH,VAN,23,NSH,18,4,2,8476468,8478042.0,J.T. Miller Tripping against Viktor Arvidsson
+186,penalty,Interference - Goalkeeper,Colton Sissons,Jacob Markstrom,[88. -2.],3,18:51,NSH,VAN,VAN,23,NSH,18,5,2,8476925,8474593.0,Colton Sissons Interference - Goalkeeper against Jacob Markstrom
+203,penalty,Bench,Viktor Arvidsson,,[-12.  39.],3,14:20,NSH,VAN,VAN,23,NSH,18,6,2,8478042,,Bench served by Viktor Arvidsson
+210,penalty,Hooking,Jarred Tinordi,Jake Virtanen,[-73.   0.],3,12:10,NSH,VAN,VAN,23,NSH,18,6,2,8475797,8477937.0,Jarred Tinordi Hooking against Jake Virtanen
+216,penalty,Interference,Elias Pettersson,Viktor Arvidsson,[-45.  30.],3,09:58,VAN,NSH,VAN,23,NSH,18,6,2,8480012,8478042.0,Elias Pettersson Interference against Viktor Arvidsson
+244,penalty,Misconduct,Dan Hamhuis,Jake Virtanen,[-85. -20.],3,03:00,NSH,VAN,VAN,23,NSH,18,6,2,8469465,8477937.0,Dan Hamhuis Misconduct against Jake Virtanen
+245,penalty,Misconduct,Jake Virtanen,Dan Hamhuis,[-59. -31.],3,03:00,VAN,NSH,VAN,23,NSH,18,6,2,8477937,8469465.0,Jake Virtanen Misconduct against Dan Hamhuis
+248,penalty,Slashing,Antoine Roussel,Elias Pettersson,[-28.  33.],3,01:46,VAN,NSH,VAN,23,NSH,18,6,2,8474849,8480012.0,Antoine Roussel Slashing against Yannick Weber served by Elias Pettersson
+249,penalty,Cross checking,Antoine Roussel,Yannick Weber,[-20.  38.],3,01:46,VAN,NSH,VAN,23,NSH,18,6,2,8474849,8474134.0,Antoine Roussel Cross checking against Yannick Weber
+250,penalty,Misconduct,Antoine Roussel,Jarred Tinordi,[-32.  29.],3,01:46,VAN,NSH,VAN,23,NSH,18,6,2,8474849,8475797.0,Antoine Roussel Misconduct against Jarred Tinordi
+251,penalty,Misconduct,Jarred Tinordi,Antoine Roussel,[-28.  34.],3,01:46,NSH,VAN,VAN,23,NSH,18,6,2,8475797,8474849.0,Jarred Tinordi Misconduct against Antoine Roussel
+9,penalty,Hooking,Tyler Myers,Olli Maatta,[58.  3.],1,17:39,VAN,CHI,VAN,23,CHI,16,0,0,8474574,8476874.0,Tyler Myers Hooking against Olli Maatta
+65,penalty,Missing key [PD_151],Dylan Strome,,[87. -1.],1,06:02,CHI,VAN,VAN,23,CHI,16,0,0,8478440,,Delaying Game - Unsucc. chlg served by Dylan Strome
+91,penalty,Holding,Zack MacEwen,Patrick Kane,[-64.  37.],2,18:33,VAN,CHI,VAN,23,CHI,16,1,0,8479772,8474141.0,Zack MacEwen Holding against Patrick Kane
+116,penalty,Delaying Game - Puck over glass,Brandon Sutter,,[-87. -35.],2,12:29,VAN,CHI,VAN,23,CHI,16,2,0,8474091,,Brandon Sutter Delaying Game - Puck over glass
+134,penalty,Fighting,Tanner Pearson,Drake Caggiula,[-46.  17.],2,09:16,VAN,CHI,VAN,23,CHI,16,2,0,8476871,8479465.0,Tanner Pearson Fighting against Drake Caggiula
+135,penalty,Fighting,Drake Caggiula,Tanner Pearson,[-40.  23.],2,09:16,CHI,VAN,VAN,23,CHI,16,2,0,8479465,8476871.0,Drake Caggiula Fighting against Tanner Pearson
+145,penalty,Tripping,Kirby Dach,Tyler Myers,[ 37. -36.],2,06:28,CHI,VAN,VAN,23,CHI,16,2,0,8481523,8474574.0,Kirby Dach Tripping against Tyler Myers
+181,penalty,Fighting,Adam Gaudette,Connor Murphy,[  8. -27.],3,18:32,VAN,CHI,VAN,23,CHI,16,2,0,8478874,8476473.0,Adam Gaudette Fighting against Connor Murphy
+182,penalty,Fighting,Connor Murphy,Adam Gaudette,[ 10. -25.],3,18:32,CHI,VAN,VAN,23,CHI,16,2,0,8476473,8478874.0,Connor Murphy Fighting against Adam Gaudette
+183,penalty,Slashing,Adam Gaudette,Jake Virtanen,[ 11. -30.],3,18:32,VAN,CHI,VAN,23,CHI,16,2,0,8478874,8477937.0,Adam Gaudette Slashing against Connor Murphy served by Jake Virtanen
+201,penalty,Hooking,Jonathan Toews,Quinn Hughes,[ 77. -33.],3,14:21,CHI,VAN,VAN,23,CHI,16,2,0,8473604,8480800.0,Jonathan Toews Hooking against Quinn Hughes
+218,penalty,Slashing,Tyler Myers,Dylan Strome,[ 62. -12.],3,07:53,VAN,CHI,VAN,23,CHI,16,2,0,8474574,8478440.0,Tyler Myers Slashing against Dylan Strome
+47,penalty,Unsportsmanlike conduct,Troy Stecher,,[ 8. 40.],1,08:47,VAN,ANA,VAN,23,ANA,24,0,1,8479442,,Troy Stecher Unsportsmanlike conduct
+60,penalty,Holding,Korbinian Holzer,Elias Pettersson,[-85. -33.],1,06:13,ANA,VAN,VAN,23,ANA,24,0,2,8473560,8480012.0,Korbinian Holzer Holding against Elias Pettersson
+111,penalty,Delaying Game - Puck over glass,Christopher Tanev,,[-69. -35.],2,13:47,VAN,ANA,VAN,23,ANA,24,0,2,8475690,,Christopher Tanev Delaying Game - Puck over glass
+136,penalty,Delaying Game - Puck over glass,Hampus Lindholm,,[ 93. -12.],2,09:15,ANA,VAN,VAN,23,ANA,24,0,3,8476854,,Hampus Lindholm Delaying Game - Puck over glass
+137,penalty,Misconduct,Nick Ritchie,,[64.  1.],2,09:15,ANA,VAN,VAN,23,ANA,24,0,3,8477941,,Nick Ritchie Misconduct
+151,penalty,Interference,Josh Manson,Elias Pettersson,[-63.  26.],2,06:12,ANA,VAN,VAN,23,ANA,24,1,3,8476312,8480012.0,Josh Manson Interference against Elias Pettersson
+171,penalty,Roughing,Josh Manson,Tyler Myers,[ 92. -19.],2,00:03,ANA,VAN,VAN,23,ANA,24,1,3,8476312,8474574.0,Josh Manson Roughing against Tyler Myers
+172,penalty,Roughing,Josh Manson,Tyler Myers,[ 96. -18.],2,00:03,ANA,VAN,VAN,23,ANA,24,1,3,8476312,8474574.0,Josh Manson Roughing against Tyler Myers
+173,penalty,Cross checking,Tyler Myers,Max Jones,[97.  3.],2,00:03,VAN,ANA,VAN,23,ANA,24,1,3,8474574,8479368.0,Tyler Myers Cross checking against Max Jones
+174,penalty,Roughing,Tyler Myers,Josh Manson,[ 98. -10.],2,00:03,VAN,ANA,VAN,23,ANA,24,1,3,8474574,8476312.0,Tyler Myers Roughing against Josh Manson
+31,penalty,Too many men on the ice,Jake Virtanen,,[ 18. -41.],1,12:12,VAN,MIN,VAN,23,MIN,30,0,1,8477937,,Too many men/ice served by Jake Virtanen
+70,penalty,Holding,Joel Eriksson Ek,Bo Horvat,[-94. -20.],1,01:43,MIN,VAN,VAN,23,MIN,30,0,1,8478493,8477500.0,Joel Eriksson Ek Holding against Bo Horvat
+73,penalty,Holding,Quinn Hughes,Jordan Greenway,[77.  2.],1,00:44,VAN,MIN,VAN,23,MIN,30,0,1,8480800,8478413.0,Quinn Hughes Holding against Jordan Greenway
+108,penalty,Tripping,Jonas Brodin,Quinn Hughes,[ 45. -15.],2,12:15,MIN,VAN,VAN,23,MIN,30,1,1,8476463,8480800.0,Jonas Brodin Tripping against Quinn Hughes
+62,penalty,Holding,Jeremy Lauzon,Elias Pettersson,[-41.   6.],1,09:39,BOS,VAN,VAN,23,BOS,6,1,1,8478468,8480012.0,Jeremy Lauzon Holding against Elias Pettersson
+85,penalty,Holding,Bo Horvat,Brad Marchand,[ 57. -26.],1,04:26,VAN,BOS,VAN,23,BOS,6,2,1,8477500,8473419.0,Bo Horvat Holding against Brad Marchand
+94,penalty,Holding,Patrice Bergeron,Tyler Motte,[-79.   0.],1,02:47,BOS,VAN,VAN,23,BOS,6,2,1,8470638,8477353.0,Patrice Bergeron Holding against Tyler Motte
+192,penalty,Roughing,Tyler Myers,Zdeno Chara,[ 9. 21.],2,03:23,VAN,BOS,VAN,23,BOS,6,5,1,8474574,8465009.0,Tyler Myers Roughing against Zdeno Chara
+193,penalty,Roughing,Zdeno Chara,Danton Heinen,[15. 25.],2,03:23,BOS,VAN,VAN,23,BOS,6,5,1,8465009,8478046.0,Zdeno Chara Roughing against Tyler Myers served by Danton Heinen
+194,penalty,Roughing,Zdeno Chara,Tyler Myers,[12. 12.],2,03:23,BOS,VAN,VAN,23,BOS,6,5,1,8465009,8474574.0,Zdeno Chara Roughing against Tyler Myers
+203,penalty,Fighting,Bo Horvat,Charlie Coyle,[-37.  32.],2,00:30,VAN,BOS,VAN,23,BOS,6,5,1,8477500,8475745.0,Bo Horvat Fighting against Charlie Coyle
+204,penalty,Fighting,Charlie Coyle,Bo Horvat,[-40.  23.],2,00:30,BOS,VAN,VAN,23,BOS,6,5,1,8475745,8477500.0,Charlie Coyle Fighting against Bo Horvat
+233,penalty,Hi-sticking,Antoine Roussel,Torey Krug,[-54.  14.],3,14:35,VAN,BOS,VAN,23,BOS,6,6,1,8474849,8476792.0,Antoine Roussel Hi-sticking against Torey Krug
+77,penalty,Slashing,Shea Weber,Tyler Motte,[86. -7.],1,04:09,MTL,VAN,MTL,8,VAN,23,2,0,8470642,8477353.0,Shea Weber Slashing against Tyler Motte
+128,penalty,Holding,Alexander Edler,Jonathan Drouin,[50. 23.],2,13:09,VAN,MTL,MTL,8,VAN,23,2,1,8471303,8477494.0,Alexander Edler Holding against Jonathan Drouin
+201,penalty,Boarding,Christian Folin,Adam Gaudette,[42. 41.],3,15:40,MTL,VAN,MTL,8,VAN,23,3,2,8477850,8478874.0,Christian Folin Boarding against Adam Gaudette
+10,penalty,Delaying Game - Puck over glass,Ron Hainsey,,[-75.  39.],1,16:37,OTT,VAN,OTT,9,VAN,23,0,0,8468493,,Ron Hainsey Delaying Game - Puck over glass
+87,penalty,Fighting,Christopher Tanev,Bobby Ryan,[92. 25.],1,00:00,VAN,OTT,OTT,9,VAN,23,2,0,8475690,8471676.0,Christopher Tanev Fighting against Bobby Ryan
+88,penalty,Fighting,Bobby Ryan,Christopher Tanev,[88. 31.],1,00:00,OTT,VAN,OTT,9,VAN,23,2,0,8471676,8475690.0,Bobby Ryan Fighting against Christopher Tanev
+156,penalty,Tripping,J.T. Miller,Nick Paul,[17. -2.],2,07:57,VAN,OTT,OTT,9,VAN,23,2,0,8476468,8477426.0,J.T. Miller Tripping against Nick Paul
+182,penalty,Holding,Artem Anisimov,Bo Horvat,[-73.  18.],2,01:02,OTT,VAN,OTT,9,VAN,23,2,0,8473573,8477500.0,Artem Anisimov Holding against Bo Horvat
+52,penalty,Hi-sticking,Christopher Tanev,Kasperi Kapanen,[-67. -15.],1,08:09,VAN,TOR,TOR,10,VAN,23,2,2,8475690,8477953.0,Christopher Tanev Hi-sticking against Kasperi Kapanen
+106,penalty,Interference,Travis Dermott,Elias Pettersson,[-68.  13.],2,15:07,TOR,VAN,TOR,10,VAN,23,2,2,8478408,8480012.0,Travis Dermott Interference against Elias Pettersson
+113,penalty,Hooking,Adam Gaudette,Kasperi Kapanen,[-74. -38.],2,13:34,VAN,TOR,TOR,10,VAN,23,2,2,8478874,8477953.0,Adam Gaudette Hooking against Kasperi Kapanen
+186,penalty,Holding,William Nylander,Troy Stecher,[-3. 17.],3,16:52,TOR,VAN,TOR,10,VAN,23,3,2,8477939,8479442.0,William Nylander Holding against Troy Stecher
+215,penalty,Tripping,Alexander Edler,Denis Malgin,[34. 34.],3,08:24,VAN,TOR,TOR,10,VAN,23,3,2,8471303,8478843.0,Alexander Edler Tripping against Denis Malgin
+254,penalty,Hooking,Tyler Toffoli,Auston Matthews,[86. 29.],3,00:55,VAN,TOR,TOR,10,VAN,23,4,2,8475726,8479318.0,Tyler Toffoli Hooking against Auston Matthews
+6,penalty,Slashing,Riley Nash,Tanner Pearson,[-68. -13.],1,19:14,CBJ,VAN,CBJ,29,VAN,23,0,0,8474062,8476871.0,Riley Nash Slashing against Tanner Pearson
+81,penalty,Hi-sticking,Emil Bemstrom,Tyler Motte,[73.  9.],1,01:52,CBJ,VAN,CBJ,29,VAN,23,1,2,8480205,8477353.0,Emil Bemstrom Hi-sticking against Tyler Motte
+133,penalty,Slashing,David Savard,Brandon Sutter,[80.  1.],2,11:34,CBJ,VAN,CBJ,29,VAN,23,1,3,8475233,8474091.0,David Savard Slashing against Brandon Sutter
+167,penalty,Fighting,Stefan Matteau,Zack MacEwen,[ 15. -27.],2,04:05,CBJ,VAN,CBJ,29,VAN,23,1,3,8476870,8479772.0,Stefan Matteau Fighting against Zack MacEwen
+168,penalty,Fighting,Zack MacEwen,Stefan Matteau,[ 15. -27.],2,04:05,VAN,CBJ,CBJ,29,VAN,23,1,3,8479772,8476870.0,Zack MacEwen Fighting against Stefan Matteau
+245,penalty,Tripping,Brandon Sutter,Ryan Murray,[-55.   2.],3,05:56,VAN,CBJ,CBJ,29,VAN,23,2,3,8474091,8476850.0,Brandon Sutter Tripping against Ryan Murray
+256,penalty,Tripping,Antoine Roussel,Emil Bemstrom,[ 26. -36.],3,03:33,VAN,CBJ,CBJ,29,VAN,23,3,3,8474849,8480205.0,Antoine Roussel Tripping against Emil Bemstrom
+30,penalty,Tripping,Quinn Hughes,Phil Kessel,[ 33. -22.],1,14:21,VAN,ARI,VAN,23,ARI,53,0,0,8480800,8473548.0,Quinn Hughes Tripping against Phil Kessel
+46,penalty,Delaying Game - Puck over glass,Zack MacEwen,,[45. 40.],1,10:52,VAN,ARI,VAN,23,ARI,53,0,1,8479772,,Zack MacEwen Delaying Game - Puck over glass
+111,penalty,Hooking,Jason Demers,Elias Pettersson,[76.  2.],2,17:03,ARI,VAN,VAN,23,ARI,53,0,1,8474218,8480012.0,Jason Demers Hooking against Elias Pettersson
+155,penalty,Hooking,Tyler Toffoli,Jason Demers,[67. 27.],2,07:11,VAN,ARI,VAN,23,ARI,53,0,1,8475726,8474218.0,Tyler Toffoli Hooking against Jason Demers
+173,penalty,Tripping,Alex Goligoski,J.T. Miller,[-52. -20.],2,02:34,ARI,VAN,VAN,23,ARI,53,0,1,8471274,8476468.0,Alex Goligoski Tripping against J.T. Miller
+193,penalty,Roughing,Clayton Keller,Jake Virtanen,[ 92. -32.],3,16:55,ARI,VAN,VAN,23,ARI,53,0,1,8479343,8477937.0,Clayton Keller Roughing against Jake Virtanen
+39,penalty,Roughing,Tyler Myers,Pierre-Edouard Bellemare,[80.  1.],1,13:20,VAN,COL,VAN,23,COL,21,1,0,8474574,8477930.0,Tyler Myers Roughing against Pierre-Edouard Bellemare
+170,penalty,Boarding,Tyler Myers,Tyson Jost,[-98.  -6.],2,04:44,VAN,COL,VAN,23,COL,21,4,3,8474574,8479370.0,Tyler Myers Boarding against Tyson Jost
+171,penalty,Roughing,Erik Johnson,Tyler Myers,[-35.  39.],2,04:44,COL,VAN,VAN,23,COL,21,4,3,8473446,8474574.0,Erik Johnson Roughing against Tyler Myers
+179,penalty,Hooking,Matt Nieto,Zack MacEwen,[42.  2.],2,02:21,COL,VAN,VAN,23,COL,21,4,3,8476442,8479772.0,Matt Nieto Hooking against Zack MacEwen
+195,penalty,Slashing,Erik Johnson,Quinn Hughes,[-35. -32.],3,18:22,COL,VAN,VAN,23,COL,21,4,3,8473446,8480800.0,Erik Johnson Slashing against Quinn Hughes
+203,penalty,Holding,Vladislav Namestnikov,Elias Pettersson,[ 73. -40.],3,16:34,COL,VAN,VAN,23,COL,21,4,3,8476480,8480012.0,Vladislav Namestnikov Holding against Elias Pettersson
+214,penalty,Holding,Alexander Edler,Nathan MacKinnon,[36. 36.],3,13:27,VAN,COL,VAN,23,COL,21,4,3,8471303,8477492.0,Alexander Edler Holding against Nathan MacKinnon
+234,penalty,Roughing,Vladislav Namestnikov,Christopher Tanev,[-40.  33.],3,09:18,COL,VAN,VAN,23,COL,21,4,3,8476480,8475690.0,Vladislav Namestnikov Roughing against Christopher Tanev
+235,penalty,Roughing,Christopher Tanev,Antoine Roussel,[-44.  34.],3,09:18,VAN,COL,VAN,23,COL,21,4,3,8475690,8474849.0,Christopher Tanev Roughing against Vladislav Namestnikov served by Antoine Roussel
+271,penalty,Hooking,Zack MacEwen,Ryan Graves,[-95. -22.],3,00:24,VAN,COL,VAN,23,COL,21,6,3,8479772,8477435.0,Zack MacEwen Hooking against Ryan Graves
+32,penalty,Interference,David Savard,Jake Virtanen,[-26. -22.],1,11:49,CBJ,VAN,VAN,23,CBJ,29,0,0,8475233,8477937.0,David Savard Interference against Jake Virtanen
+73,penalty,Hooking,Quinn Hughes,Boone Jenner,[85. -8.],1,00:12,VAN,CBJ,VAN,23,CBJ,29,0,0,8480800,8476432.0,Quinn Hughes Hooking against Boone Jenner
+102,penalty,Hi-sticking,David Savard,Elias Pettersson,[66.  0.],2,12:16,CBJ,VAN,VAN,23,CBJ,29,0,1,8475233,8480012.0,David Savard Hi-sticking against Elias Pettersson
+188,penalty,Elbowing,Elias Pettersson,Eric Robinson,[ 61. -33.],3,13:53,VAN,CBJ,VAN,23,CBJ,29,0,2,8480012,8480762.0,Elias Pettersson Elbowing against Eric Robinson
+205,penalty,Holding,Emil Bemstrom,Quinn Hughes,[-69. -38.],3,08:50,CBJ,VAN,VAN,23,CBJ,29,1,2,8480205,8480800.0,Emil Bemstrom Holding against Quinn Hughes
+63,penalty,Broken stick,Jake Virtanen,,[-42. -35.],1,09:42,VAN,NYI,VAN,23,NYI,2,2,1,8477937,,Jake Virtanen Broken stick
+69,penalty,Slashing,J.T. Miller,Anthony Beauvillier,[-67. -41.],1,08:18,VAN,NYI,VAN,23,NYI,2,2,1,8476468,8478463.0,J.T. Miller Slashing against Anthony Beauvillier
+96,penalty,Cross checking,Andrew Ladd,Alexander Edler,[-88. -33.],1,03:24,NYI,VAN,VAN,23,NYI,2,2,1,8471217,8471303.0,Andrew Ladd Cross checking against Alexander Edler
+213,penalty,Cross checking,Mathew Barzal,Troy Stecher,[-82.   3.],2,02:21,NYI,VAN,VAN,23,NYI,2,3,3,8478445,8479442.0,Mathew Barzal Cross checking against Troy Stecher
+238,penalty,Slashing,Adam Gaudette,Anthony Beauvillier,[-2. 40.],3,17:30,VAN,NYI,VAN,23,NYI,2,4,3,8478874,8478463.0,Adam Gaudette Slashing against Anthony Beauvillier
+14,penalty,Holding,J.T. Miller,Connor McDavid,[55.  0.],1,17:02,VAN,EDM,EDM,22,VAN,23,0,0,8476468,8478402.0,J.T. Miller Holding against Connor McDavid
+120,penalty,Delaying Game - Smothering puck,Colby Cave,,[-56.  35.],2,15:29,EDM,VAN,EDM,22,VAN,23,1,0,8477529,,Colby Cave Delaying Game - Smothering puck
+142,penalty,Too many men on the ice,Joakim Nygard,,[-15.  38.],2,10:03,EDM,VAN,EDM,22,VAN,23,1,0,8481638,,Too many men/ice served by Joakim Nygard
+146,penalty,Too many men on the ice,Micheal Ferland,,[ 4. 39.],2,07:46,VAN,EDM,EDM,22,VAN,23,1,1,8475907,,Too many men/ice served by Micheal Ferland
+161,penalty,Slashing,Matt Benning,Brock Boeser,[81.  0.],2,04:17,EDM,VAN,EDM,22,VAN,23,1,1,8476988,8478444.0,Matt Benning Slashing against Brock Boeser
+199,penalty,Too many men on the ice,Joakim Nygard,,[-12.  39.],3,14:29,EDM,VAN,EDM,22,VAN,23,1,1,8481638,,Too many men/ice served by Joakim Nygard
+5,penalty,Hooking,Elias Lindholm,Quinn Hughes,[56. 18.],1,19:27,CGY,VAN,CGY,20,VAN,23,0,0,8477496,8480800.0,Elias Lindholm Hooking against Quinn Hughes
+46,penalty,Tripping,Troy Stecher,Andrew Mangiapane,[-81.  -6.],1,10:07,VAN,CGY,CGY,20,VAN,23,0,0,8479442,8478233.0,Troy Stecher Tripping against Andrew Mangiapane
+112,penalty,Hooking,Josh Leivo,Sean Monahan,[-18.  30.],2,15:14,VAN,CGY,CGY,20,VAN,23,2,0,8476410,8477497.0,Josh Leivo Hooking against Sean Monahan
+118,penalty,Too many men on the ice,Jake Virtanen,,[-17.  41.],2,13:29,VAN,CGY,CGY,20,VAN,23,2,0,8477937,,Too many men/ice served by Jake Virtanen
+130,penalty,Interference,TJ Brodie,Elias Pettersson,[-58.  -5.],2,10:27,CGY,VAN,CGY,20,VAN,23,2,0,8474673,8480012.0,TJ Brodie Interference against Elias Pettersson
+159,penalty,Tripping,Milan Lucic,Jake Virtanen,[10. 19.],2,02:16,CGY,VAN,CGY,20,VAN,23,2,0,8473473,8477937.0,Milan Lucic Tripping against Jake Virtanen
+165,penalty,Interference,Tyler Myers,Travis Hamonic,[-21.  32.],2,01:21,VAN,CGY,CGY,20,VAN,23,2,0,8474574,8474612.0,Tyler Myers Interference against Travis Hamonic
+166,penalty,Roughing,Travis Hamonic,Tyler Myers,[-22.  36.],2,01:21,CGY,VAN,CGY,20,VAN,23,2,0,8474612,8474574.0,Travis Hamonic Roughing against Tyler Myers
+169,penalty,Too many men on the ice,Jake Virtanen,,[-14.  40.],2,00:11,VAN,CGY,CGY,20,VAN,23,2,0,8477937,,Too many men/ice served by Jake Virtanen
+178,penalty,Hooking,Milan Lucic,Troy Stecher,[-74. -37.],3,18:50,CGY,VAN,CGY,20,VAN,23,2,0,8473473,8479442.0,Milan Lucic Hooking against Troy Stecher
+186,penalty,Tripping,Elias Lindholm,J.T. Miller,[40. 31.],3,17:50,CGY,VAN,CGY,20,VAN,23,2,0,8477496,8476468.0,Elias Lindholm Tripping against J.T. Miller
+199,penalty,Holding,Travis Hamonic,Jay Beagle,[75. -3.],3,14:15,CGY,VAN,CGY,20,VAN,23,2,0,8474612,8474291.0,Travis Hamonic Holding against Jay Beagle
+18,penalty,Tripping,Sean Walker,Tim Schaller,[-98.  29.],1,16:26,LAK,VAN,VAN,23,LAK,26,0,0,8480336,8477213.0,Sean Walker Tripping against Tim Schaller
+67,penalty,Hi-sticking,Alexander Edler,Dustin Brown,[-24. -31.],1,07:23,VAN,LAK,VAN,23,LAK,26,2,0,8471303,8470606.0,Alexander Edler Hi-sticking against Dustin Brown
+145,penalty,Hi-sticking,Jay Beagle,Anze Kopitar,[-82.  20.],2,11:13,VAN,LAK,VAN,23,LAK,26,3,1,8474291,8471685.0,Jay Beagle Hi-sticking against Anze Kopitar
+174,penalty,Interference,Bo Horvat,Anze Kopitar,[-89.   5.],2,04:46,VAN,LAK,VAN,23,LAK,26,4,1,8477500,8471685.0,Bo Horvat Interference against Anze Kopitar
+179,penalty,Roughing,Tanner Pearson,Adrian Kempe,[-11. -38.],2,03:30,VAN,LAK,VAN,23,LAK,26,4,1,8476871,8477960.0,Tanner Pearson Roughing against Adrian Kempe
+192,penalty,Holding the stick,Michael Amadio,Tanner Pearson,[-83.  17.],2,00:58,LAK,VAN,VAN,23,LAK,26,4,1,8478020,8476871.0,Michael Amadio Holding the stick against Tanner Pearson
+30,penalty,Tripping,Alexander Edler,Kevin Hayes,[ 38. -37.],1,13:55,VAN,PHI,VAN,23,PHI,4,1,0,8471303,8475763.0,Alexander Edler Tripping against Kevin Hayes
+60,penalty,Cross checking,Carsen Twarynski,Jake Virtanen,[-11.  38.],1,06:18,PHI,VAN,VAN,23,PHI,4,1,0,8479358,8477937.0,Carsen Twarynski Cross checking against Jake Virtanen
+89,penalty,Too many men on the ice,Jake Virtanen,,[10. 39.],2,19:10,VAN,PHI,VAN,23,PHI,4,1,0,8477937,,Too many men/ice served by Jake Virtanen
+218,penalty,Interference,Jordie Benn,Michael Raffl,[48. -4.],3,06:05,VAN,PHI,VAN,23,PHI,4,2,1,8474818,8477290.0,Jordie Benn Interference against Michael Raffl
+254,penalty,Throwing stick,Sean Couturier,Bo Horvat,[39. -4.],4,01:13,PHI,VAN,VAN,23,PHI,4,2,2,8476461,8477500.0,Sean Couturier Throwing stick against Bo Horvat
+28,penalty,Slashing,Justin Abdelkader,Jordie Benn,[92. 25.],1,12:40,DET,VAN,VAN,23,DET,17,0,1,8471716,8474818.0,Justin Abdelkader Slashing against Jordie Benn
+81,penalty,Holding,Mike Green,Bo Horvat,[ 94. -22.],2,19:07,DET,VAN,VAN,23,DET,17,1,1,8471242,8477500.0,Mike Green Holding against Bo Horvat
+132,penalty,Tripping,Mike Green,Quinn Hughes,[43.  6.],2,07:30,DET,VAN,VAN,23,DET,17,3,1,8471242,8480800.0,Mike Green Tripping against Quinn Hughes
+139,penalty,Slashing,Micheal Ferland,Alex Biega,[95. 19.],2,06:08,VAN,DET,VAN,23,DET,17,4,1,8475907,8473415.0,Micheal Ferland Slashing against Alex Biega
+166,penalty,Hooking,J.T. Miller,Dylan Larkin,[17.  2.],3,17:37,VAN,DET,VAN,23,DET,17,4,1,8476468,8477946.0,J.T. Miller Hooking against Dylan Larkin
+168,penalty,Tripping,Jay Beagle,Andreas Athanasiou,[-77.  24.],3,17:13,VAN,DET,VAN,23,DET,17,4,1,8474291,8476960.0,Jay Beagle Tripping against Andreas Athanasiou
+176,penalty,Tripping,Anthony Mantha,Brandon Sutter,[19. -6.],3,15:22,DET,VAN,VAN,23,DET,17,4,1,8477511,8474091.0,Anthony Mantha Tripping against Brandon Sutter
+177,penalty,Roughing,Brandon Sutter,Anthony Mantha,[19. -2.],3,15:22,VAN,DET,VAN,23,DET,17,4,1,8474091,8477511.0,Brandon Sutter Roughing against Anthony Mantha
+179,penalty,Unsportsmanlike conduct,Anthony Mantha,Taro Hirose,[21. -6.],3,15:22,DET,VAN,VAN,23,DET,17,4,1,8477511,8481433.0,Anthony Mantha Unsportsmanlike conduct against Brandon Sutter served by Taro Hirose
+207,penalty,Holding,Jacob de la Rose,Bo Horvat,[-68.  17.],3,07:53,DET,VAN,VAN,23,DET,17,4,1,8477455,8477500.0,Jacob de la Rose Holding against Bo Horvat
+212,penalty,Elbowing,Adam Erne,Troy Stecher,[58. -7.],3,06:17,DET,VAN,VAN,23,DET,17,5,1,8477454,8479442.0,Adam Erne Elbowing against Troy Stecher
+213,penalty,Misconduct,Adam Erne,Troy Stecher,[63. -4.],3,06:17,DET,VAN,VAN,23,DET,17,5,1,8477454,8479442.0,Adam Erne Misconduct against Troy Stecher
+214,penalty,Roughing,Troy Stecher,Adam Erne,[90. 29.],3,06:17,VAN,DET,VAN,23,DET,17,5,1,8479442,8477454.0,Troy Stecher Roughing against Adam Erne
+216,penalty,Misconduct,Troy Stecher,Adam Erne,[93. 29.],3,06:17,VAN,DET,VAN,23,DET,17,5,1,8479442,8477454.0,Troy Stecher Misconduct against Adam Erne
+10,penalty,Interference,Troy Stecher,Oskar Sundqvist,[ 63. -13.],1,17:04,VAN,STL,STL,19,VAN,23,0,0,8479442,8476897.0,Troy Stecher Interference against Oskar Sundqvist
+15,penalty,Tripping,Ryan O'Reilly,Jordie Benn,[97. -4.],1,15:53,STL,VAN,STL,19,VAN,23,0,0,8475158,8474818.0,Ryan O'Reilly Tripping against Jordie Benn
+55,penalty,Tripping,Alexander Edler,Jaden Schwartz,[ 25. -22.],1,03:37,VAN,STL,STL,19,VAN,23,1,0,8471303,8475768.0,Alexander Edler Tripping against Jaden Schwartz
+104,penalty,Hi-sticking,Jake Virtanen,Ivan Barbashev,[-54. -29.],2,10:08,VAN,STL,STL,19,VAN,23,3,1,8477937,8477964.0,Jake Virtanen Hi-sticking against Ivan Barbashev
+106,penalty,Holding,Tyler Motte,Vince Dunn,[35. -7.],2,09:28,VAN,STL,STL,19,VAN,23,3,1,8477353,8478407.0,Tyler Motte Holding against Vince Dunn
+136,penalty,Tripping,Colton Parayko,Micheal Ferland,[71. 34.],2,02:09,STL,VAN,STL,19,VAN,23,3,2,8476892,8475907.0,Colton Parayko Tripping against Micheal Ferland
+165,penalty,Hooking,Robby Fabbri,Elias Pettersson,[13. 12.],3,14:35,STL,VAN,STL,19,VAN,23,3,2,8477952,8480012.0,Robby Fabbri Hooking against Elias Pettersson
+174,penalty,Interference - Goalkeeper,Robert Thomas,Thatcher Demko,[85. -3.],3,09:55,STL,VAN,STL,19,VAN,23,3,2,8480023,8477967.0,Robert Thomas Interference - Goalkeeper against Thatcher Demko
+175,penalty,Bench,David Perron,,[-1.  0.],3,09:55,STL,VAN,STL,19,VAN,23,3,2,8474102,,Bench served by David Perron
+5,penalty,Interference,Damon Severson,Bo Horvat,[-93.  20.],1,18:58,NJD,VAN,NJD,1,VAN,23,0,0,8476923,8477500.0,Damon Severson Interference against Bo Horvat
+53,penalty,Holding,Tyler Myers,John Hayden,[95. 25.],1,06:59,VAN,NJD,NJD,1,VAN,23,0,0,8474574,8477401.0,Tyler Myers Holding against John Hayden
+86,penalty,Too many men on the ice,Jesper Bratt,,[-20.  41.],1,00:39,NJD,VAN,NJD,1,VAN,23,1,0,8479407,,Too many men/ice served by Jesper Bratt
+100,penalty,Tripping,Tim Schaller,P.K. Subban,[ 34. -20.],2,17:18,VAN,NJD,NJD,1,VAN,23,1,0,8477213,8474056.0,Tim Schaller Tripping against P.K. Subban
+111,penalty,Tripping,Travis Zajac,Elias Pettersson,[ 49. -40.],2,13:56,NJD,VAN,NJD,1,VAN,23,1,0,8471233,8480012.0,Travis Zajac Tripping against Elias Pettersson
+136,penalty,Interference,Alexander Edler,Taylor Hall,[-86. -22.],2,09:14,VAN,NJD,NJD,1,VAN,23,1,0,8471303,8475791.0,Alexander Edler Interference against Taylor Hall
+148,penalty,Hi-sticking,Kevin Rooney,Alexander Edler,[-98.   5.],2,06:13,NJD,VAN,NJD,1,VAN,23,1,0,8479291,8471303.0,Kevin Rooney Hi-sticking against Alexander Edler
+150,penalty,Fighting,Mirco Mueller,Brandon Sutter,[-79.  -1.],2,05:35,NJD,VAN,NJD,1,VAN,23,1,0,8477509,8474091.0,Mirco Mueller Fighting against Brandon Sutter
+151,penalty,Fighting,Brandon Sutter,Mirco Mueller,[-77.   1.],2,05:35,VAN,NJD,NJD,1,VAN,23,1,0,8474091,8477509.0,Brandon Sutter Fighting against Mirco Mueller
+152,penalty,Roughing,Mirco Mueller,Alexander Edler,[-70.   0.],2,05:35,NJD,VAN,NJD,1,VAN,23,1,0,8477509,8471303.0,Mirco Mueller Roughing against Alexander Edler
+153,penalty,Illegal check to head,Alexander Edler,Blake Coleman,[-91. -20.],2,05:35,VAN,NJD,NJD,1,VAN,23,1,0,8471303,8476399.0,Alexander Edler Illegal check to head against Blake Coleman
+163,penalty,Hi-sticking,John Hayden,Quinn Hughes,[-96. -15.],2,03:34,NJD,VAN,NJD,1,VAN,23,1,0,8477401,8480800.0,John Hayden Hi-sticking against Quinn Hughes
+175,penalty,Interference,Tyler Myers,Kevin Rooney,[-11.  29.],2,00:08,VAN,NJD,NJD,1,VAN,23,1,0,8474574,8479291.0,Tyler Myers Interference against Kevin Rooney
+176,penalty,Holding,Kevin Rooney,Tyler Myers,[-13.  30.],2,00:08,NJD,VAN,NJD,1,VAN,23,1,0,8479291,8474574.0,Kevin Rooney Holding against Tyler Myers
+201,penalty,Holding the stick,P.K. Subban,J.T. Miller,[ 40. -26.],3,10:01,NJD,VAN,NJD,1,VAN,23,1,0,8474056,8476468.0,P.K. Subban Holding the stick against J.T. Miller
+210,penalty,Holding,Quinn Hughes,Blake Coleman,[79.  6.],3,07:29,VAN,NJD,NJD,1,VAN,23,1,0,8480800,8476399.0,Quinn Hughes Holding against Blake Coleman
+233,penalty,Cross checking,Travis Zajac,Elias Pettersson,[-86. -34.],3,00:00,NJD,VAN,NJD,1,VAN,23,1,0,8471233,8480012.0,Travis Zajac Cross checking against Elias Pettersson
+28,penalty,Hooking,Libor Hajek,Jake Virtanen,[74.  5.],1,15:36,NYR,VAN,NYR,3,VAN,23,0,0,8479333,8477937.0,Libor Hajek Hooking against Jake Virtanen
+41,penalty,Interference,Brady Skjei,Tanner Pearson,[ 53. -40.],1,12:58,NYR,VAN,NYR,3,VAN,23,0,1,8476869,8476871.0,Brady Skjei Interference against Tanner Pearson
+53,penalty,Holding,Tim Schaller,Adam Fox,[ 70. -32.],1,10:17,VAN,NYR,NYR,3,VAN,23,0,1,8477213,8479323.0,Tim Schaller Holding against Adam Fox
+80,penalty,Hooking,Tyler Myers,Chris Kreider,[-63.  40.],1,04:48,VAN,NYR,NYR,3,VAN,23,0,2,8474574,8475184.0,Tyler Myers Hooking against Chris Kreider
+154,penalty,Cross checking,Marc Staal,Jake Virtanen,[-80.  -1.],2,09:51,NYR,VAN,NYR,3,VAN,23,0,3,8471686,8477937.0,Marc Staal Cross checking against Jake Virtanen
+187,penalty,Tripping,Jay Beagle,Chris Kreider,[-78.  40.],2,03:11,VAN,NYR,NYR,3,VAN,23,1,3,8474291,8475184.0,Jay Beagle Tripping against Chris Kreider
+10,penalty,Delaying Game - Puck over glass,Mike Green,,[37. 41.],1,17:31,DET,VAN,DET,17,VAN,23,0,0,8471242,,Mike Green Delaying Game - Puck over glass
+70,penalty,Hi stick - double minor,Brock Boeser,Frans Nielsen,[ 65. -31.],1,06:43,VAN,DET,DET,17,VAN,23,0,0,8478444,8470144.0,Brock Boeser Hi stick - double minor against Frans Nielsen
+78,penalty,Interference,Tyler Myers,Andreas Athanasiou,[-35. -39.],1,04:12,VAN,DET,DET,17,VAN,23,0,0,8474574,8476960.0,Tyler Myers Interference against Andreas Athanasiou
+88,penalty,Tripping,Danny DeKeyser,Brock Boeser,[ 20. -36.],1,01:48,DET,VAN,DET,17,VAN,23,1,0,8477215,8478444.0,Danny DeKeyser Tripping against Brock Boeser
+134,penalty,Roughing,Jake Virtanen,Evgeny Svechnikov,[79. -1.],2,11:56,VAN,DET,DET,17,VAN,23,1,0,8477937,8478431.0,Jake Virtanen Roughing against Evgeny Svechnikov
+135,penalty,Roughing,Evgeny Svechnikov,Jake Virtanen,[83.  0.],2,11:56,DET,VAN,DET,17,VAN,23,1,0,8478431,8477937.0,Evgeny Svechnikov Roughing against Jake Virtanen
+139,penalty,Interference,J.T. Miller,Dylan Larkin,[ 20. -32.],2,10:59,VAN,DET,DET,17,VAN,23,1,0,8476468,8477946.0,J.T. Miller Interference against Dylan Larkin
+155,penalty,Hooking,Taro Hirose,Jake Virtanen,[34. -8.],2,05:57,DET,VAN,DET,17,VAN,23,2,0,8481433,8477937.0,Taro Hirose Hooking against Jake Virtanen
+168,penalty,Hooking,Christopher Tanev,Darren Helm,[ 50. -33.],2,01:25,VAN,DET,DET,17,VAN,23,2,0,8475690,8471794.0,Christopher Tanev Hooking against Darren Helm
+178,penalty,Tripping,Tyler Bertuzzi,Alexander Edler,[ 88. -31.],2,00:01,DET,VAN,DET,17,VAN,23,2,0,8477479,8471303.0,Tyler Bertuzzi Tripping against Alexander Edler
+186,penalty,Hi-sticking,Dennis Cholowski,Josh Leivo,[  1. -34.],3,18:11,DET,VAN,DET,17,VAN,23,2,1,8479395,8476410.0,Dennis Cholowski Hi-sticking against Josh Leivo
+214,penalty,Tripping,Tim Schaller,Dennis Cholowski,[ 96. -12.],3,10:51,VAN,DET,DET,17,VAN,23,2,2,8477213,8479395.0,Tim Schaller Tripping against Dennis Cholowski
+234,penalty,Holding,Tim Schaller,Filip Hronek,[74. -9.],3,04:31,VAN,DET,DET,17,VAN,23,2,4,8477213,8479425.0,Tim Schaller Holding against Filip Hronek
+26,penalty,Hooking,Michal Kempny,Elias Pettersson,[-59. -38.],1,15:18,WSH,VAN,VAN,23,WSH,15,0,1,8479482,8480012.0,Michal Kempny Hooking against Elias Pettersson
+39,penalty,Hi-sticking,Tanner Pearson,John Carlson,[-61.  38.],1,12:39,VAN,WSH,VAN,23,WSH,15,1,1,8476871,8474590.0,Tanner Pearson Hi-sticking against John Carlson
+49,penalty,Tripping,J.T. Miller,Jonas Siegenthaler,[-62. -13.],1,08:44,VAN,WSH,VAN,23,WSH,15,2,1,8476468,8478399.0,J.T. Miller Tripping against Jonas Siegenthaler
+86,penalty,Slashing,Alex Ovechkin,Tyler Myers,[-47.  -9.],1,00:12,WSH,VAN,VAN,23,WSH,15,2,1,8471214,8474574.0,Alex Ovechkin Slashing against Tyler Myers
+140,penalty,Interference,Michal Kempny,Tanner Pearson,[-32. -36.],2,09:37,WSH,VAN,VAN,23,WSH,15,3,1,8479482,8476871.0,Michal Kempny Interference against Tanner Pearson
+159,penalty,Tripping,Lars Eller,Troy Stecher,[-61. -15.],2,04:25,WSH,VAN,VAN,23,WSH,15,5,1,8474189,8479442.0,Lars Eller Tripping against Troy Stecher
+180,penalty,Hi-sticking,Jakub Vrana,Brandon Sutter,[97.  0.],3,18:52,WSH,VAN,VAN,23,WSH,15,5,2,8477944,8474091.0,Jakub Vrana Hi-sticking against Brandon Sutter
+8,penalty,Holding,Aleksander Barkov,Elias Pettersson,[ 34. -39.],1,17:54,FLA,VAN,VAN,23,FLA,13,1,0,8477493,8480012.0,Aleksander Barkov Holding against Elias Pettersson
+111,penalty,Hi-sticking,Denis Malgin,Jordie Benn,[-98.   3.],2,11:07,FLA,VAN,VAN,23,FLA,13,5,1,8478843,8474818.0,Denis Malgin Hi-sticking against Jordie Benn
+120,penalty,Tripping,Alexander Edler,Evgenii Dadonov,[-85. -21.],2,08:44,VAN,FLA,VAN,23,FLA,13,5,1,8471303,8474149.0,Alexander Edler Tripping against Evgenii Dadonov
+139,penalty,Delaying Game - Puck over glass,Tyler Myers,,[-71. -29.],2,04:41,VAN,FLA,VAN,23,FLA,13,5,2,8474574,,Tyler Myers Delaying Game - Puck over glass
+31,penalty,Fighting,Kyle Clifford,Micheal Ferland,[65. 13.],1,13:32,LAK,VAN,LAK,26,VAN,23,1,0,8475160,8475907.0,Kyle Clifford Fighting against Micheal Ferland
+32,penalty,Fighting,Micheal Ferland,Kyle Clifford,[64. 11.],1,13:32,VAN,LAK,LAK,26,VAN,23,1,0,8475907,8475160.0,Micheal Ferland Fighting against Kyle Clifford
+43,penalty,Slashing,Brock Boeser,Austin Wagner,[-74. -10.],1,10:12,VAN,LAK,LAK,26,VAN,23,1,0,8478444,8478455.0,Brock Boeser Slashing against Austin Wagner
+54,penalty,Slashing,Trevor Lewis,Elias Pettersson,[41. 31.],1,07:42,LAK,VAN,LAK,26,VAN,23,1,0,8473453,8480012.0,Trevor Lewis Slashing against Elias Pettersson
+77,penalty,Hooking,Adrian Kempe,Elias Pettersson,[85. 10.],1,02:51,LAK,VAN,LAK,26,VAN,23,1,0,8477960,8480012.0,Adrian Kempe Hooking against Elias Pettersson
+94,penalty,Hooking,Drew Doughty,Tanner Pearson,[68. 18.],1,00:36,LAK,VAN,LAK,26,VAN,23,1,1,8474563,8476871.0,Drew Doughty Hooking against Tanner Pearson
+98,penalty,Tripping,Jeff Carter,Alexander Edler,[-95.  19.],1,00:00,LAK,VAN,LAK,26,VAN,23,1,2,8470604,8471303.0,Jeff Carter Tripping against Alexander Edler
+139,penalty,Interference,Jay Beagle,Anze Kopitar,[69. 35.],2,10:29,VAN,LAK,LAK,26,VAN,23,1,2,8474291,8471685.0,Jay Beagle Interference against Anze Kopitar
+151,penalty,Hooking,Josh Leivo,Dustin Brown,[47. 33.],2,07:55,VAN,LAK,LAK,26,VAN,23,2,2,8476410,8470606.0,Josh Leivo Hooking against Dustin Brown
+179,penalty,Slashing,Austin Wagner,Christopher Tanev,[-74.  21.],2,01:00,LAK,VAN,LAK,26,VAN,23,2,3,8478455,8475690.0,Austin Wagner Slashing against Christopher Tanev
+192,penalty,Tripping,Alexander Edler,Nikolai Prokhorkin,[-60.  32.],3,18:18,VAN,LAK,LAK,26,VAN,23,2,4,8471303,8476947.0,Alexander Edler Tripping against Nikolai Prokhorkin
+216,penalty,Tripping,Alexander Edler,Trevor Lewis,[-68. -20.],3,12:53,VAN,LAK,LAK,26,VAN,23,2,4,8471303,8473453.0,Alexander Edler Tripping against Trevor Lewis
+237,penalty,Hooking,Tyler Myers,Trevor Lewis,[-42.   7.],3,06:47,VAN,LAK,LAK,26,VAN,23,2,4,8474574,8473453.0,Tyler Myers Hooking against Trevor Lewis
+245,penalty,Tripping,Trevor Lewis,Josh Leivo,[83. -8.],3,04:32,LAK,VAN,LAK,26,VAN,23,2,4,8473453,8476410.0,Trevor Lewis Tripping against Josh Leivo
+10,penalty,Roughing,Jay Beagle,Ryan Getzlaf,[-77.  -5.],1,18:54,VAN,ANA,ANA,24,VAN,23,0,0,8474291,8470612.0,Jay Beagle Roughing against Ryan Getzlaf
+11,penalty,Roughing,Ryan Getzlaf,Jay Beagle,[-90. -12.],1,18:54,ANA,VAN,ANA,24,VAN,23,0,0,8470612,8474291.0,Ryan Getzlaf Roughing against Jay Beagle
+35,penalty,Holding,Max Jones,Quinn Hughes,[89. 16.],1,11:32,ANA,VAN,ANA,24,VAN,23,0,0,8479368,8480800.0,Max Jones Holding against Quinn Hughes
+53,penalty,Delaying Game - Puck over glass,Adam Henrique,,[-12. -39.],1,07:49,ANA,VAN,ANA,24,VAN,23,0,0,8474641,,Adam Henrique Delaying Game - Puck over glass
+115,penalty,Holding,Christopher Tanev,Rickard Rakell,[-85.  11.],2,13:24,VAN,ANA,ANA,24,VAN,23,1,0,8475690,8476483.0,Christopher Tanev Holding against Rickard Rakell
+131,penalty,Slashing,Max Jones,Bo Horvat,[73. 39.],2,08:59,ANA,VAN,ANA,24,VAN,23,1,0,8479368,8477500.0,Max Jones Slashing against Bo Horvat
+177,penalty,Slashing,Tanner Pearson,Rickard Rakell,[79.  5.],3,19:20,VAN,ANA,ANA,24,VAN,23,1,0,8476871,8476483.0,Tanner Pearson Slashing against Rickard Rakell
+185,penalty,Holding,Derek Grant,J.T. Miller,[33. 37.],3,16:33,ANA,VAN,ANA,24,VAN,23,1,0,8474683,8476468.0,Derek Grant Holding against J.T. Miller
+191,penalty,Cross checking,Brock Boeser,Rickard Rakell,[65. 39.],3,14:14,VAN,ANA,ANA,24,VAN,23,1,0,8478444,8476483.0,Brock Boeser Cross checking against Rickard Rakell
+212,penalty,Hooking,Korbinian Holzer,Elias Pettersson,[-85.  34.],3,08:57,ANA,VAN,ANA,24,VAN,23,1,0,8473560,8480012.0,Korbinian Holzer Hooking against Elias Pettersson
+224,penalty,Delaying Game - Smothering puck,Jacob Markstrom,Josh Leivo,[80. -5.],3,03:03,VAN,ANA,ANA,24,VAN,23,1,1,8474593,8476410.0,Jacob Markstrom Delaying Game - Smothering puck served by Josh Leivo
+53,penalty,Interference,Brent Burns,Brock Boeser,[-95.  -9.],1,09:19,SJS,VAN,SJS,28,VAN,23,0,1,8470613,8478444.0,Brent Burns Interference against Brock Boeser
+132,penalty,Holding,Alexander Edler,Timo Meier,[-75. -32.],2,07:16,VAN,SJS,SJS,28,VAN,23,0,4,8471303,8478414.0,Alexander Edler Holding against Timo Meier
+153,penalty,Slashing,Jake Virtanen,Tomas Hertl,[-7. 38.],2,02:04,VAN,SJS,SJS,28,VAN,23,0,4,8477937,8476881.0,Jake Virtanen Slashing against Tomas Hertl
+161,penalty,Cross checking,Joe Thornton,Jay Beagle,[-62.   4.],2,00:00,SJS,VAN,SJS,28,VAN,23,0,4,8466138,8474291.0,Joe Thornton Cross checking against Jay Beagle
+165,penalty,Tripping,Loui Eriksson,Mario Ferraro,[93.  8.],3,17:22,VAN,SJS,SJS,28,VAN,23,0,4,8470626,8479983.0,Loui Eriksson Tripping against Mario Ferraro
+188,penalty,Interference,Erik Karlsson,Adam Gaudette,[62. -8.],3,09:44,SJS,VAN,SJS,28,VAN,23,0,4,8474578,8478874.0,Erik Karlsson Interference against Adam Gaudette
+195,penalty,Unsportsmanlike conduct,Joe Thornton,,[-14.  42.],3,08:24,SJS,VAN,SJS,28,VAN,23,1,4,8466138,,Joe Thornton Unsportsmanlike conduct
+20,penalty,Slashing,Colton Parayko,J.T. Miller,[-48. -22.],1,15:11,STL,VAN,VAN,23,STL,19,0,0,8476892,8476468.0,Colton Parayko Slashing against J.T. Miller
+52,penalty,Closing hand on puck,Oskar Sundqvist,,[-73.   1.],1,06:04,STL,VAN,VAN,23,STL,19,0,0,8476897,,Oskar Sundqvist Closing hand on puck
+82,penalty,Hooking,David Perron,Alexander Edler,[21. 39.],2,19:05,STL,VAN,VAN,23,STL,19,0,0,8474102,8471303.0,David Perron Hooking against Alexander Edler
+83,penalty,Holding the stick,Alexander Edler,David Perron,[-7. 37.],2,19:05,VAN,STL,VAN,23,STL,19,0,0,8471303,8474102.0,Alexander Edler Holding the stick against David Perron
+95,penalty,Slashing,Zach Sanford,Josh Leivo,[77. -7.],2,16:08,STL,VAN,VAN,23,STL,19,0,1,8477482,8476410.0,Zach Sanford Slashing against Josh Leivo
+134,penalty,Holding,Alexander Edler,Tyler Bozak,[-52. -25.],2,06:53,VAN,STL,VAN,23,STL,19,0,1,8471303,8475098.0,Alexander Edler Holding against Tyler Bozak
+175,penalty,Cross checking,David Perron,Christopher Tanev,[95. 19.],3,14:16,STL,VAN,VAN,23,STL,19,0,1,8474102,8475690.0,David Perron Cross checking against Christopher Tanev
+190,penalty,Holding,Alexander Edler,Ryan O'Reilly,[86. -8.],3,10:41,VAN,STL,VAN,23,STL,19,0,1,8471303,8475158.0,Alexander Edler Holding against Ryan O'Reilly
+41,penalty,Slashing,Jake Virtanen,Brandon Saad,[-60.  28.],1,12:19,VAN,CHI,CHI,16,VAN,23,1,0,8477937,8476438.0,Jake Virtanen Slashing against Brandon Saad
+92,penalty,Hooking,J.T. Miller,David Kampf,[ 91. -29.],1,01:28,VAN,CHI,CHI,16,VAN,23,1,0,8476468,8480144.0,J.T. Miller Hooking against David Kampf
+98,penalty,Slashing,Jonathan Toews,Jake Virtanen,[69.  2.],1,00:56,CHI,VAN,CHI,16,VAN,23,2,0,8473604,8477937.0,Jonathan Toews Slashing against Jake Virtanen
+112,penalty,Tripping,Adam Boqvist,Tim Schaller,[-96.  -7.],2,17:50,CHI,VAN,CHI,16,VAN,23,2,1,8480871,8477213.0,Adam Boqvist Tripping against Tim Schaller
+114,penalty,Interference,J.T. Miller,Jonathan Toews,[-64. -12.],2,17:46,VAN,CHI,CHI,16,VAN,23,2,1,8476468,8473604.0,J.T. Miller Interference against Jonathan Toews
+165,penalty,Slashing,Elias Pettersson,Zack Smith,[-19. -15.],2,06:56,VAN,CHI,CHI,16,VAN,23,2,1,8480012,8474250.0,Elias Pettersson Slashing against Zack Smith
+176,penalty,Slashing,Dylan Strome,Jordie Benn,[ 94. -16.],2,03:02,CHI,VAN,CHI,16,VAN,23,2,1,8478440,8474818.0,Dylan Strome Slashing against Jordie Benn
+225,penalty,Hi-sticking,Alexander Edler,Drake Caggiula,[-93.  28.],3,11:31,VAN,CHI,CHI,16,VAN,23,2,1,8471303,8479465.0,Alexander Edler Hi-sticking against Drake Caggiula
+244,penalty,Hi-sticking,J.T. Miller,Calvin de Haan,[36. -8.],3,05:51,VAN,CHI,CHI,16,VAN,23,2,1,8476468,8475177.0,J.T. Miller Hi-sticking against Calvin de Haan
+250,penalty,Holding,Drake Caggiula,Troy Stecher,[-95. -19.],3,03:56,CHI,VAN,CHI,16,VAN,23,3,1,8479465,8479442.0,Drake Caggiula Holding against Troy Stecher
+112,penalty,Tripping,Bo Horvat,Blake Wheeler,[71.  0.],2,11:32,VAN,WPG,WPG,52,VAN,23,0,1,8477500,8471218.0,Bo Horvat Tripping against Blake Wheeler
+123,penalty,Holding,Jay Beagle,Patrik Laine,[39. 22.],2,09:16,VAN,WPG,WPG,52,VAN,23,0,1,8474291,8479339.0,Jay Beagle Holding against Patrik Laine
+136,penalty,Hooking,Dmitry Kulikov,Brock Boeser,[-38.  -1.],2,06:58,WPG,VAN,WPG,52,VAN,23,1,1,8475179,8478444.0,Dmitry Kulikov Hooking against Brock Boeser
+177,penalty,Tripping,Sven Baertschi,Mathieu Perreault,[ 63. -40.],3,17:51,VAN,WPG,WPG,52,VAN,23,2,1,8476466,8473618.0,Sven Baertschi Tripping against Mathieu Perreault
+225,penalty,Interference,Luca Sbisa,Brandon Sutter,[35. 40.],3,05:52,WPG,VAN,WPG,52,VAN,23,3,1,8474579,8474091.0,Luca Sbisa Interference against Brandon Sutter
+40,penalty,Slashing,Christopher Tanev,Damon Severson,[64. 23.],1,11:35,VAN,NJD,VAN,23,NJD,1,0,0,8475690,8476923.0,Christopher Tanev Slashing against Damon Severson
+48,penalty,Cross checking,Jordie Benn,Miles Wood,[ 51. -41.],1,09:10,VAN,NJD,VAN,23,NJD,1,0,0,8474818,8477425.0,Jordie Benn Cross checking against Miles Wood
+60,penalty,Tripping,P.K. Subban,Elias Pettersson,[-98.  10.],1,07:12,NJD,VAN,VAN,23,NJD,1,0,2,8474056,8480012.0,P.K. Subban Tripping against Elias Pettersson
+136,penalty,Holding,Matt Tennyson,Brandon Sutter,[ 61. -29.],2,07:44,NJD,VAN,VAN,23,NJD,1,0,2,8476807,8474091.0,Matt Tennyson Holding against Brandon Sutter
+200,penalty,Embellishment,Taylor Hall,,[ 87. -35.],3,12:16,NJD,VAN,VAN,23,NJD,1,1,2,8475791,,Taylor Hall Embellishment
+40,penalty,Hooking,Jordie Benn,Craig Smith,[-68. -35.],1,07:57,VAN,NSH,VAN,23,NSH,18,0,0,8474818,8475225.0,Jordie Benn Hooking against Craig Smith
+68,penalty,Holding the stick,Dante Fabbro,Elias Pettersson,[-92. -10.],1,00:03,NSH,VAN,VAN,23,NSH,18,0,0,8479371,8480012.0,Dante Fabbro Holding the stick against Elias Pettersson
+174,penalty,Holding,Mattias Ekholm,Sven Baertschi,[-91. -10.],3,15:12,NSH,VAN,VAN,23,NSH,18,1,1,8475218,8476466.0,Mattias Ekholm Holding against Sven Baertschi
+197,penalty,Holding,Kyle Turris,Jordie Benn,[96.  1.],3,10:27,NSH,VAN,VAN,23,NSH,18,2,2,8474068,8474818.0,Kyle Turris Holding against Jordie Benn
+215,penalty,Slashing,Brock Boeser,Matt Duchene,[ 44. -20.],3,06:58,VAN,NSH,VAN,23,NSH,18,4,2,8478444,8475168.0,Brock Boeser Slashing against Matt Duchene
+12,penalty,Fighting,Jordie Benn,Denis Gurianov,[-35.  20.],1,16:55,VAN,DAL,VAN,23,DAL,25,0,0,8474818,8478495.0,Jordie Benn Fighting against Denis Gurianov
+13,penalty,Fighting,Denis Gurianov,Jordie Benn,[67. -8.],1,16:55,DAL,VAN,VAN,23,DAL,25,0,0,8478495,8474818.0,Denis Gurianov Fighting against Jordie Benn
+21,penalty,Tripping,Tyler Seguin,J.T. Miller,[-18. -35.],1,15:00,DAL,VAN,VAN,23,DAL,25,0,1,8475794,8476468.0,Tyler Seguin Tripping against J.T. Miller
+48,penalty,Interference,Troy Stecher,Joe Pavelski,[87.  8.],1,08:03,VAN,DAL,VAN,23,DAL,25,0,1,8479442,8470794.0,Troy Stecher Interference against Joe Pavelski
+83,penalty,Slashing,Joe Pavelski,Sven Baertschi,[75. -5.],2,19:32,DAL,VAN,VAN,23,DAL,25,0,1,8470794,8476466.0,Joe Pavelski Slashing against Sven Baertschi
+110,penalty,Tripping,Rhett Gardner,Quinn Hughes,[-67.   4.],2,13:31,DAL,VAN,VAN,23,DAL,25,1,2,8479587,8480800.0,Rhett Gardner Tripping against Quinn Hughes
+117,penalty,Slashing,Bo Horvat,Jamie Benn,[-55.  -2.],2,10:49,VAN,DAL,VAN,23,DAL,25,1,2,8477500,8473994.0,Bo Horvat Slashing against Jamie Benn
+4,penalty,Holding,Ryan Graves,Tanner Pearson,[ -4. -39.],1,19:25,COL,VAN,VAN,23,COL,21,0,0,8477435,8476871.0,Ryan Graves Holding against Tanner Pearson
+10,penalty,Tripping,Christopher Tanev,Ryan Graves,[79.  1.],1,16:29,VAN,COL,VAN,23,COL,21,0,0,8475690,8477435.0,Christopher Tanev Tripping against Ryan Graves
+15,penalty,Interference,Tyler Myers,J.T. Compher,[94. 27.],1,15:25,VAN,COL,VAN,23,COL,21,0,0,8474574,8477456.0,Tyler Myers Interference against J.T. Compher
+39,penalty,Holding the stick,Matt Calvert,Alexander Edler,[97. -1.],1,09:55,COL,VAN,VAN,23,COL,21,0,1,8474685,8471303.0,Matt Calvert Holding the stick against Alexander Edler
+69,penalty,Hooking,Ryan Graves,Tim Schaller,[-81.  -4.],1,01:53,COL,VAN,VAN,23,COL,21,0,1,8477435,8477213.0,Ryan Graves Hooking against Tim Schaller
+108,penalty,Hi-sticking,Sven Baertschi,Nazem Kadri,[-70.  38.],2,13:12,VAN,COL,VAN,23,COL,21,1,1,8476466,8475172.0,Sven Baertschi Hi-sticking against Nazem Kadri
+129,penalty,Holding,Alexander Edler,Joonas Donskoi,[-19.   1.],2,08:07,VAN,COL,VAN,23,COL,21,1,3,8471303,8475820.0,Alexander Edler Holding against Joonas Donskoi
+133,penalty,Hooking,Nazem Kadri,Troy Stecher,[-98. -18.],2,06:43,COL,VAN,VAN,23,COL,21,1,3,8475172,8479442.0,Nazem Kadri Hooking against Troy Stecher
+140,penalty,Tripping,Adam Gaudette,Nazem Kadri,[69.  6.],2,04:31,VAN,COL,VAN,23,COL,21,1,3,8478874,8475172.0,Adam Gaudette Tripping against Nazem Kadri
+151,penalty,Interference,Ian Cole,Tanner Pearson,[ 94. -29.],2,01:08,COL,VAN,VAN,23,COL,21,1,3,8474013,8476871.0,Ian Cole Interference against Tanner Pearson
+169,penalty,Tripping,Nikita Zadorov,Tanner Pearson,[-2. 39.],3,16:57,COL,VAN,VAN,23,COL,21,2,3,8477507,8476871.0,Nikita Zadorov Tripping against Tanner Pearson
+210,penalty,Holding the stick,Joonas Donskoi,Elias Pettersson,[-32.   7.],3,06:47,COL,VAN,VAN,23,COL,21,2,4,8475820,8480012.0,Joonas Donskoi Holding the stick against Elias Pettersson
+211,penalty,Interference,Elias Pettersson,Joonas Donskoi,[-17.   2.],3,06:47,VAN,COL,VAN,23,COL,21,2,4,8480012,8475820.0,Elias Pettersson Interference against Joonas Donskoi
+38,penalty,Holding,Alexander Edler,Alexander Radulov,[-55.  12.],1,08:55,VAN,DAL,DAL,25,VAN,23,1,0,8471303,8471228.0,Alexander Edler Holding against Alexander Radulov
+57,penalty,Hooking,Jamie Benn,Alexander Edler,[ 41. -20.],1,04:12,DAL,VAN,DAL,25,VAN,23,1,0,8473994,8471303.0,Jamie Benn Hooking against Alexander Edler
+80,penalty,Tripping,Jay Beagle,Denis Gurianov,[30. -4.],2,18:08,VAN,DAL,DAL,25,VAN,23,1,0,8474291,8478495.0,Jay Beagle Tripping against Denis Gurianov
+87,penalty,Tripping,Alexander Radulov,Christopher Tanev,[53. 40.],2,16:26,DAL,VAN,DAL,25,VAN,23,1,0,8471228,8475690.0,Alexander Radulov Tripping against Christopher Tanev
+91,penalty,Interference - Goalkeeper,Jason Dickinson,Jacob Markstrom,[81.  1.],2,15:42,DAL,VAN,DAL,25,VAN,23,1,0,8477450,8474593.0,Jason Dickinson Interference - Goalkeeper against Jacob Markstrom
+116,penalty,Interference,Quinn Hughes,Tyler Seguin,[ 49. -35.],2,10:34,VAN,DAL,DAL,25,VAN,23,1,0,8480800,8475794.0,Quinn Hughes Interference against Tyler Seguin
+139,penalty,Tripping,Radek Faksa,Jordie Benn,[97.  1.],2,04:31,DAL,VAN,DAL,25,VAN,23,3,1,8476889,8474818.0,Radek Faksa Tripping against Jordie Benn
+233,penalty,Holding,Taylor Fedun,Sven Baertschi,[ 97. -21.],3,01:53,DAL,VAN,DAL,25,VAN,23,6,1,8476166,8476466.0,Taylor Fedun Holding against Sven Baertschi
+6,penalty,Interference,Adam Gaudette,Steven Santini,[-10. -30.],1,17:53,VAN,NSH,NSH,18,VAN,23,0,0,8478874,8477463.0,Adam Gaudette Interference against Steven Santini
+62,penalty,Cross checking,Dante Fabbro,Jake Virtanen,[-83.   1.],1,04:29,NSH,VAN,NSH,18,VAN,23,1,0,8479371,8477937.0,Dante Fabbro Cross checking against Jake Virtanen
+70,penalty,Hi-sticking,Mikael Granlund,Adam Gaudette,[40. 39.],1,02:38,NSH,VAN,NSH,18,VAN,23,1,1,8475798,8478874.0,Mikael Granlund Hi-sticking against Adam Gaudette
+80,penalty,Slashing,Alexander Edler,Ryan Johansen,[80. -9.],1,00:38,VAN,NSH,NSH,18,VAN,23,1,2,8471303,8475793.0,Alexander Edler Slashing against Ryan Johansen
+98,penalty,Slashing,Tim Schaller,Pekka Rinne,[82.  2.],2,16:32,VAN,NSH,NSH,18,VAN,23,1,2,8477213,8471469.0,Tim Schaller Slashing against Pekka Rinne
+114,penalty,Slashing,Craig Smith,Elias Pettersson,[-24. -20.],2,14:03,NSH,VAN,NSH,18,VAN,23,2,2,8475225,8480012.0,Craig Smith Slashing against Elias Pettersson
+125,penalty,Slashing,Dante Fabbro,J.T. Miller,[93. 25.],2,11:08,NSH,VAN,NSH,18,VAN,23,2,3,8479371,8476468.0,Dante Fabbro Slashing against J.T. Miller
+136,penalty,Roughing,Tyler Myers,Filip Forsberg,[-82.   4.],2,07:33,VAN,NSH,NSH,18,VAN,23,2,3,8474574,8476887.0,Tyler Myers Roughing against Filip Forsberg
+158,penalty,Hi-sticking,Viktor Arvidsson,Jordie Benn,[-88.  29.],2,02:41,NSH,VAN,NSH,18,VAN,23,2,3,8478042,8474818.0,Viktor Arvidsson Hi-sticking against Jordie Benn
+165,penalty,Holding,Mathieu Olivier,Josh Leivo,[-72.  37.],2,01:41,NSH,VAN,NSH,18,VAN,23,2,4,8479671,8476410.0,Mathieu Olivier Holding against Josh Leivo
+182,penalty,Holding the stick,Alexander Edler,Calle Jarnkrok,[80. -1.],3,19:02,VAN,NSH,NSH,18,VAN,23,2,5,8471303,8475714.0,Alexander Edler Holding the stick against Calle Jarnkrok
+242,penalty,Too many men on the ice,Jake Virtanen,,[11. 41.],3,03:49,VAN,NSH,NSH,18,VAN,23,3,5,8477937,,Too many men/ice served by Jake Virtanen
+46,penalty,Hi-sticking,Jake Virtanen,Lars Eller,[ -5. -39.],1,09:31,VAN,WSH,WSH,15,VAN,23,1,0,8477937,8474189.0,Jake Virtanen Hi-sticking against Lars Eller
+54,penalty,Interference,Chandler Stephenson,Josh Leivo,[-49. -25.],1,07:18,WSH,VAN,WSH,15,VAN,23,1,0,8476905,8476410.0,Chandler Stephenson Interference against Josh Leivo
+57,penalty,Tripping,Richard Panik,Elias Pettersson,[ 34. -33.],1,06:16,WSH,VAN,WSH,15,VAN,23,1,0,8475209,8480012.0,Richard Panik Tripping against Elias Pettersson
+123,penalty,Hooking,Jonas Siegenthaler,Josh Leivo,[-96.   0.],2,11:23,WSH,VAN,WSH,15,VAN,23,1,1,8478399,8476410.0,Jonas Siegenthaler Hooking against Josh Leivo
+151,penalty,Hooking,Lars Eller,Elias Pettersson,[55. 29.],2,03:40,WSH,VAN,WSH,15,VAN,23,1,1,8474189,8480012.0,Lars Eller Hooking against Elias Pettersson
+160,penalty,Interference,Tyler Myers,Tom Wilson,[-3. 40.],2,00:46,VAN,WSH,WSH,15,VAN,23,1,1,8474574,8476880.0,Tyler Myers Interference against Tom Wilson
+185,penalty,Interference,Zack MacEwen,Alex Ovechkin,[-74.  -2.],3,15:17,VAN,WSH,WSH,15,VAN,23,1,1,8479772,8471214.0,Zack MacEwen Interference against Alex Ovechkin
+249,penalty,Hooking,Evgeny Kuznetsov,Christopher Tanev,[-75.  -8.],4,03:35,WSH,VAN,WSH,15,VAN,23,1,1,8475744,8475690.0,Evgeny Kuznetsov Hooking against Christopher Tanev
+56,penalty,Slashing,J.T. Miller,Morgan Frost,[-34.   5.],1,06:46,VAN,PHI,PHI,4,VAN,23,0,1,8476468,8480028.0,J.T. Miller Slashing against Morgan Frost
+88,penalty,Cross checking,Oskar Lindblom,Alexander Edler,[ 86. -10.],2,18:36,PHI,VAN,PHI,4,VAN,23,0,1,8478067,8471303.0,Oskar Lindblom Cross checking against Alexander Edler
+172,penalty,Interference,Justin Braun,Tim Schaller,[ 94. -12.],3,15:03,PHI,VAN,PHI,4,VAN,23,1,1,8474027,8477213.0,Justin Braun Interference against Tim Schaller
+51,penalty,Interference,Troy Stecher,Evgeni Malkin,[-4. 42.],1,07:39,VAN,PIT,PIT,5,VAN,23,1,0,8479442,8471215.0,Troy Stecher Interference against Evgeni Malkin
+83,penalty,Delaying Game - Puck over glass,Elias Pettersson,,[43. 39.],1,01:42,VAN,PIT,PIT,5,VAN,23,2,1,8480012,,Elias Pettersson Delaying Game - Puck over glass
+212,penalty,Tripping,Dominik Kahun,Tyler Myers,[-74.  20.],3,18:36,PIT,VAN,PIT,5,VAN,23,3,4,8480946,8474574.0,Dominik Kahun Tripping against Tyler Myers
+232,penalty,Delaying Game - Puck over glass,Kris Letang,,[-94. -24.],3,14:49,PIT,VAN,PIT,5,VAN,23,3,6,8471724,,Kris Letang Delaying Game - Puck over glass
+238,penalty,Hooking,J.T. Miller,Chad Ruhwedel,[-91. -26.],3,13:52,VAN,PIT,PIT,5,VAN,23,3,6,8476468,8477244.0,J.T. Miller Hooking against Chad Ruhwedel
+267,penalty,Holding,Elias Pettersson,Bryan Rust,[35. 38.],3,08:21,VAN,PIT,PIT,5,VAN,23,6,6,8480012,8475810.0,Elias Pettersson Holding against Bryan Rust
+268,penalty,Holding,Bryan Rust,Elias Pettersson,[37. 33.],3,08:21,PIT,VAN,PIT,5,VAN,23,6,6,8475810,8480012.0,Bryan Rust Holding against Elias Pettersson
+289,penalty,Missing key [PD_151],Adam Gaudette,,[  2. -39.],3,03:06,VAN,PIT,PIT,5,VAN,23,7,6,8478874,,Delaying Game - Unsucc. chlg served by Adam Gaudette
+12,penalty,Charging,Zack Kassian,Christopher Tanev,[93.  9.],1,17:56,EDM,VAN,EDM,22,VAN,23,0,0,8475178,8475690.0,Zack Kassian Charging against Christopher Tanev
+61,penalty,Hooking,Loui Eriksson,Caleb Jones,[-75.  35.],1,07:57,VAN,EDM,EDM,22,VAN,23,0,1,8470626,8478452.0,Loui Eriksson Hooking against Caleb Jones
+79,penalty,Interference - Goalkeeper,Markus Granlund,Jacob Markstrom,[95. -6.],1,04:59,EDM,VAN,EDM,22,VAN,23,1,2,8476440,8474593.0,Markus Granlund Interference - Goalkeeper against Jacob Markstrom
+140,penalty,Hi-sticking,Tyler Graovac,Oscar Klefbom,[90. 27.],2,10:20,VAN,EDM,EDM,22,VAN,23,2,2,8476344,8476472.0,Tyler Graovac Hi-sticking against Oscar Klefbom
+193,penalty,Tripping,Adam Gaudette,Gaetan Haas,[0. 2.],3,18:30,VAN,EDM,EDM,22,VAN,23,2,5,8478874,8481813.0,Adam Gaudette Tripping against Gaetan Haas
+208,penalty,Delaying Game - Puck over glass,Ethan Bear,,[-85. -24.],3,12:47,EDM,VAN,EDM,22,VAN,23,2,5,8478451,,Ethan Bear Delaying Game - Puck over glass
+36,penalty,Tripping,Ethan Bear,Elias Pettersson,[-51.  38.],1,08:54,EDM,VAN,VAN,23,EDM,22,0,1,8478451,8480012.0,Ethan Bear Tripping against Elias Pettersson
+72,penalty,Holding,Connor McDavid,Christopher Tanev,[64. 16.],1,00:06,EDM,VAN,VAN,23,EDM,22,1,1,8478402,8475690.0,Connor McDavid Holding against Christopher Tanev
+122,penalty,Hi-sticking,Loui Eriksson,Darnell Nurse,[60. 27.],2,06:36,VAN,EDM,VAN,23,EDM,22,2,1,8470626,8477498.0,Loui Eriksson Hi-sticking against Darnell Nurse
+146,penalty,Interference,Loui Eriksson,Darnell Nurse,[ 74. -24.],2,01:13,VAN,EDM,VAN,23,EDM,22,2,2,8470626,8477498.0,Loui Eriksson Interference against Darnell Nurse
+44,penalty,Interference,Tanner Pearson,Logan Brown,[69.  4.],1,10:32,VAN,OTT,VAN,23,OTT,9,2,0,8476871,8479366.0,Tanner Pearson Interference against Logan Brown
+65,penalty,Tripping,Dylan DeMelo,Josh Leivo,[-81.  18.],1,06:47,OTT,VAN,VAN,23,OTT,9,2,0,8476331,8476410.0,Dylan DeMelo Tripping against Josh Leivo
+172,penalty,Delaying Game - Smothering puck,Christopher Tanev,,[-99.  -3.],2,01:25,VAN,OTT,VAN,23,OTT,9,4,1,8475690,,Christopher Tanev Delaying Game - Smothering puck
+187,penalty,Delay of game,Erik Brannstrom,,[-89.  -2.],3,18:01,OTT,VAN,VAN,23,OTT,9,4,2,8480073,,Erik Brannstrom Delay of game
+224,penalty,Hooking,Brock Boeser,Logan Brown,[-52.  37.],3,07:26,VAN,OTT,VAN,23,OTT,9,5,2,8478444,8479366.0,Brock Boeser Hooking against Logan Brown
+13,penalty,Tripping,Kyle Okposo,Adam Gaudette,[35.  0.],1,17:59,BUF,VAN,VAN,23,BUF,7,0,0,8473449,8478874.0,Kyle Okposo Tripping against Adam Gaudette
+104,penalty,Slashing,Jake Virtanen,Conor Sheary,[-17.  -6.],2,12:48,VAN,BUF,VAN,23,BUF,7,2,2,8477937,8477839.0,Jake Virtanen Slashing against Conor Sheary
+134,penalty,Tripping,Jay Beagle,Jack Eichel,[-73.  38.],2,05:09,VAN,BUF,VAN,23,BUF,7,2,2,8474291,8478403.0,Jay Beagle Tripping against Jack Eichel
+150,penalty,Tripping,Quinn Hughes,Marcus Johansson,[-82.  -7.],2,01:10,VAN,BUF,VAN,23,BUF,7,3,2,8480800,8475149.0,Quinn Hughes Tripping against Marcus Johansson
+171,penalty,Tripping,Antoine Roussel,Brandon Montour,[-93. -31.],3,16:25,VAN,BUF,VAN,23,BUF,7,3,3,8474849,8477986.0,Antoine Roussel Tripping against Brandon Montour
+235,penalty,Interference,Henri Jokiharju,Jake Virtanen,[-50. -15.],4,02:51,BUF,VAN,VAN,23,BUF,7,5,5,8480035,8477937.0,Henri Jokiharju Interference against Jake Virtanen
+35,penalty,Interference,Antoine Roussel,Mitchell Marner,[-90.  31.],1,10:20,VAN,TOR,VAN,23,TOR,10,0,0,8474849,8478483.0,Antoine Roussel Interference against Mitchell Marner
+65,penalty,Interference,Mitchell Marner,Josh Leivo,[-73. -37.],1,01:37,TOR,VAN,VAN,23,TOR,10,0,0,8478483,8476410.0,Mitchell Marner Interference against Josh Leivo
+164,penalty,Hooking,Tanner Pearson,John Tavares,[ 55. -39.],3,13:56,VAN,TOR,VAN,23,TOR,10,0,2,8476871,8475166.0,Tanner Pearson Hooking against John Tavares
+213,penalty,Roughing,Kasperi Kapanen,Jay Beagle,[-80.   0.],3,00:07,TOR,VAN,VAN,23,TOR,10,1,4,8477953,8474291.0,Kasperi Kapanen Roughing against Jay Beagle
+15,penalty,Tripping,Dougie Hamilton,Josh Leivo,[-96. -23.],1,15:39,CAR,VAN,VAN,23,CAR,12,0,0,8476462,8476410.0,Dougie Hamilton Tripping against Josh Leivo
+32,penalty,Hooking,Martin Necas,Zack MacEwen,[-26.  24.],1,10:40,CAR,VAN,VAN,23,CAR,12,0,0,8480039,8479772.0,Martin Necas Hooking against Zack MacEwen
+52,penalty,Tripping,Ryan Dzingel,Quinn Hughes,[ 86. -37.],1,03:01,CAR,VAN,VAN,23,CAR,12,0,0,8476288,8480800.0,Ryan Dzingel Tripping against Quinn Hughes
+84,penalty,Tripping,Antoine Roussel,Jordan Martinook,[61. 14.],2,14:41,VAN,CAR,VAN,23,CAR,12,0,0,8474849,8476921.0,Antoine Roussel Tripping against Jordan Martinook
+95,penalty,Tripping,Christopher Tanev,Nino Niederreiter,[-94.   7.],2,12:07,VAN,CAR,VAN,23,CAR,12,0,0,8475690,8475799.0,Christopher Tanev Tripping against Nino Niederreiter
+121,penalty,Holding,Julien Gauthier,Adam Gaudette,[31.  4.],2,07:06,CAR,VAN,VAN,23,CAR,12,0,0,8479328,8478874.0,Julien Gauthier Holding against Adam Gaudette
+137,penalty,Hi-sticking,Tyler Myers,Nino Niederreiter,[-83. -36.],2,02:57,VAN,CAR,VAN,23,CAR,12,0,0,8474574,8475799.0,Tyler Myers Hi-sticking against Nino Niederreiter
+183,penalty,Tripping,Jake Virtanen,Brett Pesce,[39. -7.],3,12:44,VAN,CAR,VAN,23,CAR,12,0,0,8477937,8477488.0,Jake Virtanen Tripping against Brett Pesce
+186,penalty,Interference,Andrei Svechnikov,Jay Beagle,[34. 38.],3,12:32,CAR,VAN,VAN,23,CAR,12,0,0,8480830,8474291.0,Andrei Svechnikov Interference against Jay Beagle
+17,penalty,Interference,Troy Stecher,Kevin Labanc,[ 73. -19.],1,15:28,VAN,SJS,SJS,28,VAN,23,0,0,8479442,8478099.0,Troy Stecher Interference against Kevin Labanc
+75,penalty,Delaying Game - Puck over glass,Mario Ferraro,,[-30. -42.],1,03:37,SJS,VAN,SJS,28,VAN,23,1,0,8479983,,Mario Ferraro Delaying Game - Puck over glass
+83,penalty,Delaying Game - Puck over glass,Tim Heed,,[-71.  37.],1,01:07,SJS,VAN,SJS,28,VAN,23,1,0,8475841,,Tim Heed Delaying Game - Puck over glass
+124,penalty,Roughing,Jake Virtanen,Brenden Dillon,[87. -4.],2,08:10,VAN,SJS,SJS,28,VAN,23,1,0,8477937,8475455.0,Jake Virtanen Roughing against Brenden Dillon
+125,penalty,Roughing,Brenden Dillon,Jake Virtanen,[88. -5.],2,08:10,SJS,VAN,SJS,28,VAN,23,1,0,8475455,8477937.0,Brenden Dillon Roughing against Jake Virtanen
+132,penalty,Tripping,Tyler Myers,Logan Couture,[ 63. -39.],2,07:19,VAN,SJS,SJS,28,VAN,23,1,0,8474574,8474053.0,Tyler Myers Tripping against Logan Couture
+208,penalty,Holding,Kevin Labanc,Troy Stecher,[96. 10.],3,07:26,SJS,VAN,SJS,28,VAN,23,2,1,8478099,8479442.0,Kevin Labanc Holding against Troy Stecher
+29,penalty,Holding,Jordie Benn,Alex Tuch,[-97.  10.],1,13:56,VAN,VGK,VGK,54,VAN,23,1,1,8474818,8477949.0,Jordie Benn Holding against Alex Tuch
+44,penalty,Slashing,Jordie Benn,Chandler Stephenson,[-72.   2.],1,10:18,VAN,VGK,VGK,54,VAN,23,1,1,8474818,8476905.0,Jordie Benn Slashing against Chandler Stephenson
+67,penalty,Tripping,Reilly Smith,Elias Pettersson,[-92. -27.],1,05:18,VGK,VAN,VGK,54,VAN,23,2,1,8475191,8480012.0,Reilly Smith Tripping against Elias Pettersson
+88,penalty,Roughing,Ryan Reaves,Antoine Roussel,[88.  8.],1,02:05,VGK,VAN,VGK,54,VAN,23,2,1,8471817,8474849.0,Ryan Reaves Roughing against Antoine Roussel
+89,penalty,Roughing,Antoine Roussel,Ryan Reaves,[86.  8.],1,02:05,VAN,VGK,VGK,54,VAN,23,2,1,8474849,8471817.0,Antoine Roussel Roughing against Ryan Reaves
+172,penalty,Too many men on the ice,Josh Leivo,,[-15.  38.],2,05:41,VAN,VGK,VGK,54,VAN,23,4,1,8476410,,Too many men/ice served by Josh Leivo
+267,penalty,Tripping,Brayden McNabb,Elias Pettersson,[70. 22.],3,04:15,VGK,VAN,VGK,54,VAN,23,5,2,8475188,8480012.0,Brayden McNabb Tripping against Elias Pettersson
+281,penalty,Tripping,Quinn Hughes,Jonathan Marchessault,[-71.  23.],3,01:40,VAN,VGK,VGK,54,VAN,23,5,3,8480800,8476539.0,Quinn Hughes Tripping against Jonathan Marchessault
+290,penalty,Cross checking,Jay Beagle,Deryk Engelland,[74. -1.],3,00:08,VAN,VGK,VGK,54,VAN,23,6,3,8474291,8468674.0,Jay Beagle Cross checking against Deryk Engelland
+291,penalty,Roughing,Deryk Engelland,Jay Beagle,[ 86. -33.],3,00:08,VGK,VAN,VGK,54,VAN,23,6,3,8468674,8474291.0,Deryk Engelland Roughing against Jay Beagle
+39,penalty,Boarding,Nate Thompson,Tyler Motte,[-54. -37.],1,11:38,MTL,VAN,VAN,23,MTL,8,0,0,8470775,8477353.0,Nate Thompson Boarding against Tyler Motte
+73,penalty,Tripping,Tomas Tatar,Jake Virtanen,[-36.  33.],1,02:38,MTL,VAN,VAN,23,MTL,8,0,0,8475193,8477937.0,Tomas Tatar Tripping against Jake Virtanen
+122,penalty,Slashing,Nick Cousins,Josh Leivo,[82. -4.],2,11:17,MTL,VAN,VAN,23,MTL,8,1,1,8476393,8476410.0,Nick Cousins Slashing against Josh Leivo
+179,penalty,Slashing,Jake Virtanen,Phillip Danault,[15.  9.],3,19:38,VAN,MTL,VAN,23,MTL,8,1,1,8477937,8476479.0,Jake Virtanen Slashing against Phillip Danault
+185,penalty,Tripping,Tanner Pearson,Phillip Danault,[ 75. -16.],3,18:09,VAN,MTL,VAN,23,MTL,8,1,2,8476871,8476479.0,Tanner Pearson Tripping against Phillip Danault
+232,penalty,Tripping,Tomas Tatar,Elias Pettersson,[-36.  31.],3,06:29,MTL,VAN,VAN,23,MTL,8,1,3,8475193,8480012.0,Tomas Tatar Tripping against Elias Pettersson
+24,penalty,Tripping,Nicolas Hague,Jay Beagle,[-52.  40.],1,14:52,VGK,VAN,VAN,23,VGK,54,1,0,8479980,8474291.0,Nicolas Hague Tripping against Jay Beagle
+91,penalty,Boarding,Valentin Zykov,Oscar Fantenberg,[-99.  -8.],2,17:32,VGK,VAN,VAN,23,VGK,54,3,1,8477458,8480147.0,Valentin Zykov Boarding against Oscar Fantenberg
+144,penalty,Slashing,Deryk Engelland,Tyler Motte,[80. -4.],2,06:10,VGK,VAN,VAN,23,VGK,54,3,3,8468674,8477353.0,Deryk Engelland Slashing against Tyler Motte
+145,penalty,Slashing,Tyler Motte,Deryk Engelland,[80. -2.],2,06:10,VAN,VGK,VAN,23,VGK,54,3,3,8477353,8468674.0,Tyler Motte Slashing against Deryk Engelland
+148,penalty,Holding,Shea Theodore,Bo Horvat,[63. 16.],2,04:57,VGK,VAN,VAN,23,VGK,54,3,3,8477447,8477500.0,Shea Theodore Holding against Bo Horvat
+175,penalty,Holding,Reilly Smith,Elias Pettersson,[-33. -39.],3,19:45,VGK,VAN,VAN,23,VGK,54,3,3,8475191,8480012.0,Reilly Smith Holding against Elias Pettersson
+237,penalty,Face-off violation,Chandler Stephenson,,[-74. -23.],3,08:42,VGK,VAN,VAN,23,VGK,54,4,3,8476905,,Delay Game - Bench – FO viol served by Chandler Stephenson
+248,penalty,Unsportsmanlike conduct,Ryan Reaves,Jake Virtanen,[ 88. -11.],3,05:29,VGK,VAN,VAN,23,VGK,54,4,3,8471817,8477937.0,Ryan Reaves Unsportsmanlike conduct against Jake Virtanen
+249,penalty,Slashing,Jake Virtanen,Ryan Reaves,[83. -9.],3,05:29,VAN,VGK,VAN,23,VGK,54,4,3,8477937,8471817.0,Jake Virtanen Slashing against Ryan Reaves
+262,penalty,Hooking,Jordie Benn,Alex Tuch,[73. 18.],3,02:30,VAN,VGK,VAN,23,VGK,54,4,4,8474818,8477949.0,Jordie Benn Hooking against Alex Tuch
+34,penalty,Hi stick - double minor,Dominik Simon,Adam Gaudette,[ 83. -12.],1,07:36,PIT,VAN,VAN,23,PIT,5,0,0,8478866,8478874.0,Dominik Simon Hi stick - double minor against Adam Gaudette
+37,penalty,Holding,Brandon Tanev,Quinn Hughes,[30. 31.],1,06:55,PIT,VAN,VAN,23,PIT,5,0,0,8479293,8480800.0,Brandon Tanev Holding against Quinn Hughes
+42,penalty,Tripping,Jack Johnson,Brock Boeser,[-46. -21.],1,06:09,PIT,VAN,VAN,23,PIT,5,0,0,8471677,8478444.0,Jack Johnson Tripping against Brock Boeser
+63,penalty,Interference,Tanner Pearson,Jake Guentzel,[-65.  14.],1,01:03,VAN,PIT,VAN,23,PIT,5,2,0,8476871,8477404.0,Tanner Pearson Interference against Jake Guentzel
+132,penalty,Hi stick - double minor,Adam Gaudette,Jake Guentzel,[-82.   7.],2,06:35,VAN,PIT,VAN,23,PIT,5,2,0,8478874,8477404.0,Adam Gaudette Hi stick - double minor against Jake Guentzel
+161,penalty,Hooking,Oscar Fantenberg,Dominik Simon,[-2. 38.],2,00:22,VAN,PIT,VAN,23,PIT,5,3,1,8480147,8478866.0,Oscar Fantenberg Hooking against Dominik Simon
+187,penalty,Hooking,Oscar Fantenberg,Jake Guentzel,[74. -2.],3,14:02,VAN,PIT,VAN,23,PIT,5,3,1,8480147,8477404.0,Oscar Fantenberg Hooking against Jake Guentzel
+198,penalty,Holding,Brandon Tanev,Quinn Hughes,[-71. -36.],3,11:25,PIT,VAN,VAN,23,PIT,5,3,1,8479293,8480800.0,Brandon Tanev Holding against Quinn Hughes
+32,penalty,Slashing,Gaetan Haas,Elias Pettersson,[-63.   5.],1,10:46,EDM,VAN,VAN,23,EDM,22,0,0,8481813,8480012.0,Gaetan Haas Slashing against Elias Pettersson
+80,penalty,Interference,Antoine Roussel,Caleb Jones,[67.  2.],2,17:45,VAN,EDM,VAN,23,EDM,22,1,1,8474849,8478452.0,Antoine Roussel Interference against Caleb Jones
+117,penalty,Fighting,Darnell Nurse,Antoine Roussel,[62. 35.],2,08:02,EDM,VAN,VAN,23,EDM,22,1,2,8477498,8474849.0,Darnell Nurse Fighting against Antoine Roussel
+118,penalty,Fighting,Antoine Roussel,Darnell Nurse,[57. 32.],2,08:02,VAN,EDM,VAN,23,EDM,22,1,2,8474849,8477498.0,Antoine Roussel Fighting against Darnell Nurse
+129,penalty,Roughing,Patrick Russell,J.T. Miller,[81.  2.],2,05:48,EDM,VAN,VAN,23,EDM,22,1,2,8479466,8476468.0,Patrick Russell Roughing against J.T. Miller
+130,penalty,Interference - Goalkeeper,Elias Pettersson,Mikko Koskinen,[81.  2.],2,05:48,VAN,EDM,VAN,23,EDM,22,1,2,8480012,8475156.0,Elias Pettersson Interference - Goalkeeper against Mikko Koskinen
+185,penalty,Holding,Tanner Pearson,Leon Draisaitl,[ 70. -38.],3,12:07,VAN,EDM,VAN,23,EDM,22,2,2,8476871,8477934.0,Tanner Pearson Holding against Leon Draisaitl
+201,penalty,Too many men on the ice,Joakim Nygard,,[-50.  24.],3,07:17,EDM,VAN,VAN,23,EDM,22,2,2,8481638,,Too many men/ice served by Joakim Nygard
+48,penalty,Holding,Kale Clague,Tanner Pearson,[-70. -33.],1,08:13,LAK,VAN,VAN,23,LAK,26,1,0,8479348,8476871.0,Kale Clague Holding against Tanner Pearson
+56,penalty,Tripping,Tyler Motte,Michael Amadio,[ 76. -36.],1,05:28,VAN,LAK,VAN,23,LAK,26,1,0,8477353,8478020.0,Tyler Motte Tripping against Michael Amadio
+103,penalty,Hooking,Brock Boeser,Jeff Carter,[-51. -24.],2,14:16,VAN,LAK,VAN,23,LAK,26,2,0,8478444,8470604.0,Brock Boeser Hooking against Jeff Carter
+161,penalty,Delaying Game - Puck over glass,Tanner Pearson,,[ 56. -41.],3,19:39,VAN,LAK,VAN,23,LAK,26,2,1,8476871,,Tanner Pearson Delaying Game - Puck over glass
+12,penalty,Tripping,Michael Frolik,Oscar Fantenberg,[-98.  -6.],1,18:07,CGY,VAN,CGY,20,VAN,23,0,0,8473564,8480147.0,Michael Frolik Tripping against Oscar Fantenberg
+52,penalty,Interference,Matthew Tkachuk,J.T. Miller,[36. 30.],1,09:46,CGY,VAN,CGY,20,VAN,23,0,2,8479314,8476468.0,Matthew Tkachuk Interference against J.T. Miller
+97,penalty,Slashing,Troy Stecher,Tobias Rieder,[-84. -13.],1,01:44,VAN,CGY,CGY,20,VAN,23,0,3,8479442,8476356.0,Troy Stecher Slashing against Tobias Rieder
+118,penalty,Hooking,Alexander Edler,Andrew Mangiapane,[86. 16.],2,18:42,VAN,CGY,CGY,20,VAN,23,0,3,8471303,8478233.0,Alexander Edler Hooking against Andrew Mangiapane
+136,penalty,Tripping,Matthew Tkachuk,J.T. Miller,[ 39. -22.],2,13:49,CGY,VAN,CGY,20,VAN,23,0,3,8479314,8476468.0,Matthew Tkachuk Tripping against J.T. Miller
+148,penalty,Tripping,Rasmus Andersson,Tim Schaller,[-96. -22.],2,11:39,CGY,VAN,CGY,20,VAN,23,0,3,8478397,8477213.0,Rasmus Andersson Tripping against Tim Schaller
+154,penalty,Delaying Game - Puck over glass,Travis Hamonic,,[-75. -23.],2,10:38,CGY,VAN,CGY,20,VAN,23,0,3,8474612,,Travis Hamonic Delaying Game - Puck over glass
+169,penalty,Interference,Christopher Tanev,Andrew Mangiapane,[82.  2.],2,07:52,VAN,CGY,CGY,20,VAN,23,0,3,8475690,8478233.0,Christopher Tanev Interference against Andrew Mangiapane
+186,penalty,Slashing,Jay Beagle,TJ Brodie,[-87.  -6.],2,02:14,VAN,CGY,CGY,20,VAN,23,0,3,8474291,8474673.0,Jay Beagle Slashing against TJ Brodie
+187,penalty,Roughing,TJ Brodie,Jay Beagle,[-88.  -6.],2,02:14,CGY,VAN,CGY,20,VAN,23,0,3,8474673,8474291.0,TJ Brodie Roughing against Jay Beagle
+233,penalty,Tripping,Tim Schaller,Milan Lucic,[-35. -17.],3,10:40,VAN,CGY,CGY,20,VAN,23,1,4,8477213,8473473.0,Tim Schaller Tripping against Milan Lucic
+11,penalty,Too many men on the ice,Dylan Strome,,[-19.  41.],1,16:58,CHI,VAN,VAN,23,CHI,16,0,0,8478440,,Too many men/ice served by Dylan Strome
+22,penalty,Hooking,Bo Horvat,Erik Gustafsson,[ 12. -32.],1,13:52,VAN,CHI,VAN,23,CHI,16,1,0,8477500,8476979.0,Bo Horvat Hooking against Erik Gustafsson
+76,penalty,Elbowing,Tyler Myers,Alex DeBrincat,[-71.  40.],1,00:55,VAN,CHI,VAN,23,CHI,16,1,1,8474574,8479337.0,Tyler Myers Elbowing against Alex DeBrincat
+107,penalty,Tripping,Adam Gaudette,Alex DeBrincat,[ 70. -42.],2,14:00,VAN,CHI,VAN,23,CHI,16,2,2,8478874,8479337.0,Adam Gaudette Tripping against Alex DeBrincat
+125,penalty,Delaying Game - Puck over glass,Zack Smith,,[ 67. -41.],2,10:49,CHI,VAN,VAN,23,CHI,16,2,4,8474250,,Zack Smith Delaying Game - Puck over glass
+164,penalty,Holding,Erik Gustafsson,Troy Stecher,[-51.  -4.],2,05:23,CHI,VAN,VAN,23,CHI,16,4,4,8476979,8479442.0,Erik Gustafsson Holding against Troy Stecher
+165,penalty,Holding,Troy Stecher,Erik Gustafsson,[-43.  -1.],2,05:23,VAN,CHI,VAN,23,CHI,16,4,4,8479442,8476979.0,Troy Stecher Holding against Erik Gustafsson
+248,penalty,Tripping,Tyler Motte,Alex DeBrincat,[-4. 33.],3,02:41,VAN,CHI,VAN,23,CHI,16,6,5,8477353,8479337.0,Tyler Motte Tripping against Alex DeBrincat
+20,penalty,Slashing,J.T. Miller,Adam Fox,[ -3. -25.],1,15:32,VAN,NYR,VAN,23,NYR,3,1,0,8476468,8479323.0,J.T. Miller Slashing against Adam Fox
+68,penalty,Hooking,Antoine Roussel,Tony DeAngelo,[-87.  39.],1,02:45,VAN,NYR,VAN,23,NYR,3,1,1,8474849,8477950.0,Antoine Roussel Hooking against Tony DeAngelo
+85,penalty,Tripping,Ryan Strome,Brock Boeser,[ 78. -10.],2,19:41,NYR,VAN,VAN,23,NYR,3,1,1,8476458,8478444.0,Ryan Strome Tripping against Brock Boeser
+131,penalty,Hi-sticking,Brady Skjei,Bo Horvat,[ 71. -39.],2,07:21,NYR,VAN,VAN,23,NYR,3,1,1,8476869,8477500.0,Brady Skjei Hi-sticking against Bo Horvat
+161,penalty,Face-off violation,Greg McKegg,,[-65.  24.],2,02:37,NYR,VAN,VAN,23,NYR,3,1,1,8475735,,Delay Game - Bench – FO viol served by Greg McKegg
+23,penalty,Hooking,Bo Horvat,Nikita Kucherov,[80. 28.],1,12:46,VAN,TBL,TBL,14,VAN,23,0,0,8477500,8476453.0,Bo Horvat Hooking against Nikita Kucherov
+33,penalty,Holding,Nikita Kucherov,Quinn Hughes,[ 22. -27.],1,08:49,TBL,VAN,TBL,14,VAN,23,0,0,8476453,8480800.0,Nikita Kucherov Holding against Quinn Hughes
+42,penalty,Hi-sticking,Alexander Edler,Steven Stamkos,[91. 33.],1,06:21,VAN,TBL,TBL,14,VAN,23,0,0,8471303,8474564.0,Alexander Edler Hi-sticking against Steven Stamkos
+105,penalty,Hooking,Alexander Edler,Nikita Kucherov,[-96.   2.],2,09:52,VAN,TBL,TBL,14,VAN,23,1,1,8471303,8476453.0,Alexander Edler Hooking against Nikita Kucherov
+109,penalty,Hooking,Anthony Cirelli,Brock Boeser,[-86. -11.],2,09:11,TBL,VAN,TBL,14,VAN,23,2,1,8478519,8478444.0,Anthony Cirelli Hooking against Brock Boeser
+176,penalty,Hooking,Victor Hedman,Bo Horvat,[-37. -38.],3,12:36,TBL,VAN,TBL,14,VAN,23,7,2,8475167,8477500.0,Victor Hedman Hooking against Bo Horvat
+178,penalty,Hooking,Anthony Cirelli,Elias Pettersson,[-48.   3.],3,11:44,TBL,VAN,TBL,14,VAN,23,7,2,8478519,8480012.0,Anthony Cirelli Hooking against Elias Pettersson
+207,penalty,Charging,Jake Virtanen,Ondrej Palat,[14.  2.],3,03:19,VAN,TBL,TBL,14,VAN,23,8,2,8477937,8476292.0,Jake Virtanen Charging against Ondrej Palat
+214,penalty,Bench,Adam Gaudette,,[10. 41.],3,02:06,VAN,TBL,TBL,14,VAN,23,8,2,8478874,,Bench served by Adam Gaudette
+68,penalty,Slashing,J.T. Miller,Riley Stillman,[ 80. -36.],1,08:30,VAN,FLA,FLA,13,VAN,23,2,1,8476468,8479388.0,J.T. Miller Slashing against Riley Stillman
+71,penalty,Holding,Mike Hoffman,Alexander Edler,[-97.  12.],1,07:55,FLA,VAN,FLA,13,VAN,23,2,1,8474884,8471303.0,Mike Hoffman Holding against Alexander Edler
+97,penalty,Tripping,Jonathan Huberdeau,Tyler Motte,[-38.   5.],1,03:43,FLA,VAN,FLA,13,VAN,23,2,1,8476456,8477353.0,Jonathan Huberdeau Tripping against Tyler Motte
+123,penalty,Slashing,Antoine Roussel,Josh Brown,[-9. 36.],2,17:17,VAN,FLA,FLA,13,VAN,23,3,1,8474849,8477384.0,Antoine Roussel Slashing against Josh Brown
+156,penalty,Tripping,Quinn Hughes,Jonathan Huberdeau,[ 26. -21.],2,09:29,VAN,FLA,FLA,13,VAN,23,4,1,8480800,8476456.0,Quinn Hughes Tripping against Jonathan Huberdeau
+175,penalty,Roughing,Mark Pysyk,Troy Stecher,[73. 40.],2,06:12,FLA,VAN,FLA,13,VAN,23,4,1,8475796,8479442.0,Mark Pysyk Roughing against Troy Stecher
+188,penalty,Slashing,J.T. Miller,Colton Sceviour,[-33.   5.],2,02:55,VAN,FLA,FLA,13,VAN,23,4,1,8476468,8474098.0,J.T. Miller Slashing against Colton Sceviour
+275,penalty,Abuse of Officials,J.T. Miller,,[-20.  42.],3,03:45,VAN,FLA,FLA,13,VAN,23,5,2,8476468,,J.T. Miller Abuse of Officials
+14,penalty,Hooking,Rasmus Ristolainen,Tyler Myers,[-11.  34.],1,16:43,BUF,VAN,BUF,7,VAN,23,0,0,8477499,8474574.0,Rasmus Ristolainen Hooking against Tyler Myers
+26,penalty,Holding,Jay Beagle,Rasmus Dahlin,[-75.  25.],1,13:55,VAN,BUF,BUF,7,VAN,23,0,0,8474291,8480839.0,Jay Beagle Holding against Rasmus Dahlin
+89,penalty,Holding,Jay Beagle,Rasmus Dahlin,[-89. -25.],2,13:53,VAN,BUF,BUF,7,VAN,23,1,2,8474291,8480839.0,Jay Beagle Holding against Rasmus Dahlin
+102,penalty,Tripping,Elias Pettersson,Rasmus Asplund,[-62. -33.],2,10:26,VAN,BUF,BUF,7,VAN,23,2,2,8480012,8479335.0,Elias Pettersson Tripping against Rasmus Asplund
+110,penalty,Too many men on the ice,Kyle Okposo,,[-15.  41.],2,08:59,BUF,VAN,BUF,7,VAN,23,2,2,8473449,,Too many men/ice served by Kyle Okposo
+28,penalty,Interference - Goalkeeper,Antoine Roussel,Devan Dubnyk,[86.  2.],1,10:15,VAN,MIN,MIN,30,VAN,23,0,0,8474849,8471227.0,Antoine Roussel Interference - Goalkeeper against Devan Dubnyk
+30,penalty,Tripping,Mikko Koivu,Christopher Tanev,[-73.  -3.],1,10:08,MIN,VAN,MIN,30,VAN,23,0,0,8469459,8475690.0,Mikko Koivu Tripping against Christopher Tanev
+35,penalty,Elbowing,Jordan Greenway,Alexander Edler,[-67. -31.],1,08:41,MIN,VAN,MIN,30,VAN,23,0,0,8478413,8471303.0,Jordan Greenway Elbowing against Alexander Edler
+41,penalty,Delaying Game - Puck over glass,Jonas Brodin,,[ 40. -32.],1,06:39,MIN,VAN,MIN,30,VAN,23,0,0,8476463,,Jonas Brodin Delaying Game - Puck over glass
+63,penalty,Hooking,Jason Zucker,Alexander Edler,[ 90. -28.],2,17:50,MIN,VAN,MIN,30,VAN,23,0,0,8475722,8471303.0,Jason Zucker Hooking against Alexander Edler
+66,penalty,Slashing,Ryan Suter,Bo Horvat,[-80.   6.],2,17:12,MIN,VAN,MIN,30,VAN,23,0,0,8470600,8477500.0,Ryan Suter Slashing against Bo Horvat
+77,penalty,Holding,Antoine Roussel,Jason Zucker,[ -7. -37.],2,14:04,VAN,MIN,MIN,30,VAN,23,0,0,8474849,8475722.0,Antoine Roussel Holding against Jason Zucker
+80,penalty,Tripping,Tim Schaller,Ryan Suter,[-96.  -6.],2,12:48,VAN,MIN,MIN,30,VAN,23,0,0,8477213,8470600.0,Tim Schaller Tripping against Ryan Suter
+86,penalty,Too many men on the ice,Kevin Fiala,,[11. 41.],2,11:30,MIN,VAN,MIN,30,VAN,23,0,0,8477942,,Too many men/ice served by Kevin Fiala
+124,penalty,Cross checking,Jake Virtanen,Mikko Koivu,[80. -5.],2,04:19,VAN,MIN,MIN,30,VAN,23,1,3,8477937,8469459.0,Jake Virtanen Cross checking against Mikko Koivu
+148,penalty,Illegal check to head,Bo Horvat,Ryan Hartman,[ 36. -38.],3,16:43,VAN,MIN,MIN,30,VAN,23,1,3,8477500,8477451.0,Bo Horvat Illegal check to head against Ryan Hartman
+151,penalty,Tripping,Jason Zucker,Tyler Motte,[-97.  -8.],3,15:37,MIN,VAN,MIN,30,VAN,23,1,3,8475722,8477353.0,Jason Zucker Tripping against Tyler Motte
+162,penalty,Holding,Luke Kunin,J.T. Miller,[49. -7.],3,12:50,MIN,VAN,MIN,30,VAN,23,1,3,8479316,8476468.0,Luke Kunin Holding against J.T. Miller
+7,penalty,Tripping,Mason Appleton,Tim Schaller,[ 98. -13.],1,18:03,WPG,VAN,WPG,52,VAN,23,1,0,8478891,8477213.0,Mason Appleton Tripping against Tim Schaller
+82,penalty,Slashing,Tanner Pearson,Carl Dahlstrom,[-48. -19.],1,02:49,VAN,WPG,WPG,52,VAN,23,2,0,8476871,8477472.0,Tanner Pearson Slashing against Carl Dahlstrom
+92,penalty,Delaying Game - Puck over glass,Christopher Tanev,,[-82. -40.],1,00:05,VAN,WPG,WPG,52,VAN,23,2,0,8475690,,Christopher Tanev Delaying Game - Puck over glass
+108,penalty,Tripping,Carl Dahlstrom,Tim Schaller,[-29. -28.],2,16:07,WPG,VAN,WPG,52,VAN,23,3,0,8477472,8477213.0,Carl Dahlstrom Tripping against Tim Schaller
+138,penalty,Interference,Quinn Hughes,Luca Sbisa,[-57. -15.],2,10:03,VAN,WPG,WPG,52,VAN,23,3,0,8480800,8474579.0,Quinn Hughes Interference against Luca Sbisa
+148,penalty,Tripping,Nikolaj Ehlers,Troy Stecher,[ 53. -15.],2,06:20,WPG,VAN,WPG,52,VAN,23,3,0,8477940,8479442.0,Nikolaj Ehlers Tripping against Troy Stecher
+154,penalty,Hooking,Adam Lowry,J.T. Miller,[-64.   0.],2,04:07,WPG,VAN,WPG,52,VAN,23,3,0,8476392,8476468.0,Adam Lowry Hooking against J.T. Miller
+53,penalty,Slashing,Michael Chaput,Adam Gaudette,[46. 24.],1,09:29,ARI,VAN,VAN,23,ARI,53,0,1,8475808,8478874.0,Michael Chaput Slashing against Adam Gaudette
+61,penalty,Hooking,Ilya Lyubushkin,Brandon Sutter,[-70.   1.],1,06:51,ARI,VAN,VAN,23,ARI,53,0,1,8480950,8474091.0,Ilya Lyubushkin Hooking against Brandon Sutter
+85,penalty,Hooking,Tyler Motte,Nick Schmaltz,[ 69. -25.],1,00:20,VAN,ARI,VAN,23,ARI,53,1,1,8477353,8477951.0,Tyler Motte Hooking against Nick Schmaltz
+113,penalty,Tripping,Oscar Fantenberg,Nick Schmaltz,[-67. -31.],2,10:56,VAN,ARI,VAN,23,ARI,53,1,1,8480147,8477951.0,Oscar Fantenberg Tripping against Nick Schmaltz
+40,penalty,Cross checking,Kevin Labanc,Stefan Noesen,[-33. -33.],1,09:30,SJS,VAN,VAN,23,SJS,28,0,0,8478099,8476474.0,Kevin Labanc Cross checking against Alexander Edler served by Stefan Noesen
+41,penalty,Roughing,Kevin Labanc,Brandon Sutter,[ 5. 21.],1,09:30,SJS,VAN,VAN,23,SJS,28,0,0,8478099,8474091.0,Kevin Labanc Roughing against Brandon Sutter
+42,penalty,Roughing,Brandon Sutter,Kevin Labanc,[ 6. 23.],1,09:30,VAN,SJS,VAN,23,SJS,28,0,0,8474091,8478099.0,Brandon Sutter Roughing against Kevin Labanc
+79,penalty,Hi-sticking,Brenden Dillon,Jake Virtanen,[ 92. -18.],2,18:58,SJS,VAN,VAN,23,SJS,28,0,0,8475455,8477937.0,Brenden Dillon Hi-sticking against Jake Virtanen
+109,penalty,Slashing,Tanner Pearson,Evander Kane,[-58.  37.],2,13:05,VAN,SJS,VAN,23,SJS,28,0,0,8476871,8475169.0,Tanner Pearson Slashing against Evander Kane
+139,penalty,Missing key [PD_151],Stefan Noesen,,[-12. -40.],2,05:55,SJS,VAN,VAN,23,SJS,28,1,0,8476474,,Delaying Game - Unsucc. chlg served by Stefan Noesen
+171,penalty,Interference - Goalkeeper,Timo Meier,Thatcher Demko,[86. -1.],3,15:23,SJS,VAN,VAN,23,SJS,28,1,0,8478414,8477967.0,Timo Meier Interference - Goalkeeper against Thatcher Demko
+229,penalty,Roughing,Joe Thornton,Brandon Sutter,[-44.  21.],3,02:42,SJS,VAN,VAN,23,SJS,28,4,1,8466138,8474091.0,Joe Thornton Roughing against Brandon Sutter
+230,penalty,Misconduct,Brenden Dillon,,[-54. -27.],3,02:42,SJS,VAN,VAN,23,SJS,28,4,1,8475455,,Brenden Dillon Misconduct
+231,penalty,Misconduct,Barclay Goodrow,,[-36. -16.],3,02:42,SJS,VAN,VAN,23,SJS,28,4,1,8476624,,Barclay Goodrow Misconduct
+232,penalty,Roughing,Christopher Tanev,Brent Burns,[-33. -17.],3,02:42,VAN,SJS,VAN,23,SJS,28,4,1,8475690,8470613.0,Christopher Tanev Roughing against Brent Burns
+233,penalty,Misconduct,Christopher Tanev,,[-45. -15.],3,02:42,VAN,SJS,VAN,23,SJS,28,4,1,8475690,,Christopher Tanev Misconduct
+234,penalty,Roughing,Alexander Edler,Barclay Goodrow,[-41. -32.],3,02:42,VAN,SJS,VAN,23,SJS,28,4,1,8471303,8476624.0,Alexander Edler Roughing against Barclay Goodrow
+235,penalty,Misconduct,Alexander Edler,,[-45.  -2.],3,02:42,VAN,SJS,VAN,23,SJS,28,4,1,8471303,,Alexander Edler Misconduct
+236,penalty,Misconduct,Brandon Sutter,,[-38.   2.],3,02:42,VAN,SJS,VAN,23,SJS,28,4,1,8474091,,Brandon Sutter Misconduct
+237,penalty,Interference,Joe Thornton,Brandon Sutter,[-32.  24.],3,02:42,SJS,VAN,VAN,23,SJS,28,4,1,8466138,8474091.0,Joe Thornton Interference against Brandon Sutter
+246,penalty,Holding,Joachim Blichfeld,Brock Boeser,[28. -3.],3,01:27,SJS,VAN,VAN,23,SJS,28,4,1,8479571,8478444.0,Joachim Blichfeld Holding against Brock Boeser
+35,penalty,Too many men on the ice,Quinn Hughes,,[17. 39.],1,11:36,VAN,STL,VAN,23,STL,19,0,1,8480800,,Too many men/ice served by Quinn Hughes
+115,penalty,Hooking,David Perron,Jay Beagle,[90. 31.],2,13:33,STL,VAN,VAN,23,STL,19,1,1,8474102,8474291.0,David Perron Hooking against Jay Beagle
+159,penalty,Hooking,Loui Eriksson,Alexander Steen,[-1.  0.],2,01:37,VAN,STL,VAN,23,STL,19,2,1,8470626,8470257.0,Loui Eriksson Hooking against Alexander Steen
+178,penalty,Tripping,Colton Parayko,Jake Virtanen,[-69.   1.],3,16:05,STL,VAN,VAN,23,STL,19,2,1,8476892,8477937.0,Colton Parayko Tripping against Jake Virtanen
+194,penalty,Tripping,Brandon Sutter,Jaden Schwartz,[69.  0.],3,13:14,VAN,STL,VAN,23,STL,19,2,1,8474091,8475768.0,Brandon Sutter Tripping against Jaden Schwartz
+242,penalty,Hi-sticking,Brayden Schenn,Elias Pettersson,[ 38. -40.],3,03:51,STL,VAN,VAN,23,STL,19,2,1,8475170,8480012.0,Brayden Schenn Hi-sticking against Elias Pettersson
+115,penalty,Hooking,Troy Stecher,Timo Meier,[-57. -11.],2,13:34,VAN,SJS,SJS,28,VAN,23,2,1,8479442,8478414.0,Troy Stecher Hooking against Timo Meier
+144,penalty,Hooking,Alexander Edler,Patrick Marleau,[-73.   3.],2,04:36,VAN,SJS,SJS,28,VAN,23,2,1,8471303,8466139.0,Alexander Edler Hooking against Patrick Marleau
+157,penalty,Holding,Timo Meier,Quinn Hughes,[73. 18.],2,00:19,SJS,VAN,SJS,28,VAN,23,2,1,8478414,8480800.0,Timo Meier Holding against Quinn Hughes
+182,penalty,Hi stick - double minor,Marc-Edouard Vlasic,Oscar Fantenberg,[71. -2.],3,15:13,SJS,VAN,SJS,28,VAN,23,2,2,8471709,8480147.0,Marc-Edouard Vlasic Hi stick - double minor against Oscar Fantenberg
+17,penalty,Hooking,Christopher Tanev,Tom Kuhnhackl,[53. 38.],1,14:09,VAN,NYI,NYI,2,VAN,23,1,1,8475690,8475832.0,Christopher Tanev Hooking against Tom Kuhnhackl
+92,penalty,Tripping,Bo Horvat,Tom Kuhnhackl,[-79. -26.],2,18:01,VAN,NYI,NYI,2,VAN,23,1,1,8477500,8475832.0,Bo Horvat Tripping against Tom Kuhnhackl
+159,penalty,Tripping,Adam Gaudette,Mathew Barzal,[-69.  -3.],2,02:02,VAN,NYI,NYI,2,VAN,23,2,3,8478874,8478445.0,Adam Gaudette Tripping against Mathew Barzal
+160,penalty,Embellishment,Mathew Barzal,Adam Gaudette,[-69.  -2.],2,02:02,NYI,VAN,NYI,2,VAN,23,2,3,8478445,8478874.0,Mathew Barzal Embellishment against Adam Gaudette

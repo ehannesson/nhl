@@ -1,0 +1,475 @@
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
+49,penalty,Hi-sticking,John Tavares,Dominic Toninato,[1. 2.],1,07:39,TOR,FLA,TOR,10,FLA,13,0,1,8475166,8476952.0,John Tavares Hi-sticking against Dominic Toninato
+95,penalty,Tripping,Mike Matheson,Pierre Engvall,[ 89. -32.],2,17:38,FLA,TOR,TOR,10,FLA,13,0,1,8476875,8478115.0,Mike Matheson Tripping against Pierre Engvall
+148,penalty,Slashing,Jayce Hawryluk,Jason Spezza,[69. 22.],2,02:57,FLA,TOR,TOR,10,FLA,13,1,1,8477963,8469455.0,Jayce Hawryluk Slashing against Jason Spezza
+177,penalty,Hooking,Mitchell Marner,Vincent Trocheck,[79. -8.],3,16:49,TOR,FLA,TOR,10,FLA,13,3,2,8478483,8476389.0,Mitchell Marner Hooking against Vincent Trocheck
+188,penalty,Tripping,Mike Hoffman,Auston Matthews,[-20.   9.],3,13:27,FLA,TOR,TOR,10,FLA,13,3,3,8474884,8479318.0,Mike Hoffman Tripping against Auston Matthews
+121,penalty,Tripping,Mike Matheson,Sonny Milano,[-76.   3.],2,12:04,FLA,CBJ,CBJ,29,FLA,13,0,0,8476875,8477947.0,Mike Matheson Tripping against Sonny Milano
+158,penalty,Hi stick - double minor,Scott Harrington,Colton Sceviour,[32. 25.],2,02:10,CBJ,FLA,CBJ,29,FLA,13,0,0,8476449,8474098.0,Scott Harrington Hi stick - double minor against Colton Sceviour
+55,penalty,Hi-sticking,Dominic Toninato,Paul Stastny,[-72.  23.],1,07:01,FLA,VGK,FLA,13,VGK,54,0,1,8476952,8471669.0,Dominic Toninato Hi-sticking against Paul Stastny
+70,penalty,Hooking,Mark Stone,Jonathan Huberdeau,[-33. -19.],1,04:53,VGK,FLA,FLA,13,VGK,54,0,1,8475913,8476456.0,Mark Stone Hooking against Jonathan Huberdeau
+77,penalty,Missing key [PD_151],William Carrier,,[-84.   3.],1,03:38,VGK,FLA,FLA,13,VGK,54,1,1,8477478,,Delaying Game - Unsucc. chlg served by William Carrier
+118,penalty,Cross checking,Brayden McNabb,Evgenii Dadonov,[84.  4.],2,15:35,VGK,FLA,FLA,13,VGK,54,1,2,8475188,8474149.0,Brayden McNabb Cross checking against Evgenii Dadonov
+119,penalty,Interference - Goalkeeper,Evgenii Dadonov,Marc-Andre Fleury,[86.  0.],2,15:35,FLA,VGK,FLA,13,VGK,54,1,2,8474149,8470594.0,Evgenii Dadonov Interference - Goalkeeper against Marc-Andre Fleury
+132,penalty,PS - Tripping on breakaway,William Carrier,Brett Connolly,[69. -1.],2,13:20,VGK,FLA,FLA,13,VGK,54,1,2,8477478,8475792.0,William Carrier PS - Tripping on breakaway against Brett Connolly
+160,penalty,Tripping,Keith Yandle,Tomas Nosek,[-17.  42.],2,06:03,FLA,VGK,FLA,13,VGK,54,2,3,8471735,8477931.0,Keith Yandle Tripping against Tomas Nosek
+170,penalty,Too many men on the ice,Brett Connolly,,[17. 37.],2,02:53,FLA,VGK,FLA,13,VGK,54,2,3,8475792,,Too many men/ice served by Brett Connolly
+188,penalty,Holding,Josh Brown,William Carrier,[80. -1.],3,17:53,FLA,VGK,FLA,13,VGK,54,2,4,8477384,8477478.0,Josh Brown Holding against William Carrier
+194,penalty,Hooking,Reilly Smith,Frank Vatrano,[-95. -22.],3,16:18,VGK,FLA,FLA,13,VGK,54,2,4,8475191,8478366.0,Reilly Smith Hooking against Frank Vatrano
+209,penalty,Interference - Goalkeeper,Dominic Toninato,Marc-Andre Fleury,[-85.   1.],3,12:09,FLA,VGK,FLA,13,VGK,54,2,5,8476952,8470594.0,Dominic Toninato Interference - Goalkeeper against Marc-Andre Fleury
+24,penalty,Holding,Kris Letang,Vincent Trocheck,[-75.  26.],1,15:38,PIT,FLA,FLA,13,PIT,5,0,0,8471724,8476389.0,Kris Letang Holding against Vincent Trocheck
+79,penalty,Hooking,Marcus Pettersson,Evgenii Dadonov,[-79.   1.],1,01:18,PIT,FLA,FLA,13,PIT,5,1,2,8477969,8474149.0,Marcus Pettersson Hooking against Evgenii Dadonov
+90,penalty,Tripping,Frank Vatrano,Jared McCann,[-59.   2.],2,17:40,FLA,PIT,FLA,13,PIT,5,1,2,8478366,8477955.0,Frank Vatrano Tripping against Jared McCann
+153,penalty,Hooking,Juuso Riikola,Jonathan Huberdeau,[68. -4.],2,03:51,PIT,FLA,FLA,13,PIT,5,2,3,8480945,8476456.0,Juuso Riikola Hooking against Jonathan Huberdeau
+50,penalty,Tripping,Sean Couturier,Evgenii Dadonov,[-62. -36.],1,09:01,PHI,FLA,PHI,4,FLA,13,0,1,8476461,8474149.0,Sean Couturier Tripping against Evgenii Dadonov
+75,penalty,Tripping,Jayce Hawryluk,Claude Giroux,[-12.  39.],1,02:32,FLA,PHI,PHI,4,FLA,13,1,1,8477963,8473512.0,Jayce Hawryluk Tripping against Claude Giroux
+152,penalty,Hooking,Robert Hagg,Noel Acciari,[-71.  -2.],2,08:52,PHI,FLA,PHI,4,FLA,13,2,1,8477462,8478569.0,Robert Hagg Hooking against Noel Acciari
+167,penalty,Holding,Noel Acciari,Morgan Frost,[-22. -23.],2,04:27,FLA,PHI,PHI,4,FLA,13,2,1,8478569,8480028.0,Noel Acciari Holding against Morgan Frost
+204,penalty,Interference - Goalkeeper,Tyler Pitlick,Sergei Bobrovsky,[-86.   0.],3,16:07,PHI,FLA,PHI,4,FLA,13,3,1,8475752,8475683.0,Tyler Pitlick Interference - Goalkeeper against Sergei Bobrovsky
+209,penalty,Slashing,Vincent Trocheck,Ivan Provorov,[ 68. -37.],3,14:08,FLA,PHI,PHI,4,FLA,13,3,1,8476389,8478500.0,Vincent Trocheck Slashing against Ivan Provorov
+217,penalty,Delaying Game - Puck over glass,Aaron Ekblad,,[-70. -24.],3,12:25,FLA,PHI,PHI,4,FLA,13,3,1,8477932,,Aaron Ekblad Delaying Game - Puck over glass
+230,penalty,Interference,Nicolas Aube-Kubel,Keith Yandle,[91. 27.],3,09:25,PHI,FLA,PHI,4,FLA,13,3,1,8477979,8471735.0,Nicolas Aube-Kubel Interference against Keith Yandle
+252,penalty,Slashing,Frank Vatrano,Philippe Myers,[-56.  -1.],3,03:55,FLA,PHI,PHI,4,FLA,13,3,1,8478366,8479026.0,Frank Vatrano Slashing against Philippe Myers
+261,penalty,Slashing,Scott Laughton,Keith Yandle,[-42.  21.],3,01:28,PHI,FLA,PHI,4,FLA,13,3,1,8476872,8471735.0,Scott Laughton Slashing against Keith Yandle
+10,penalty,Too many men on the ice,Evgenii Dadonov,,[72. 30.],1,17:33,FLA,NJD,NJD,1,FLA,13,0,0,8474149,,Too many men/ice served by Evgenii Dadonov
+36,penalty,Interference,MacKenzie Weegar,Kevin Rooney,[79. -2.],1,10:44,FLA,NJD,NJD,1,FLA,13,1,0,8477346,8479291.0,MacKenzie Weegar Interference against Kevin Rooney
+156,penalty,Delaying Game - Puck over glass,Mirco Mueller,,[ 81. -13.],2,03:04,NJD,FLA,NJD,1,FLA,13,3,5,8477509,,Mirco Mueller Delaying Game - Puck over glass
+190,penalty,Tripping,Blake Coleman,Riley Stillman,[73.  1.],3,12:44,NJD,FLA,NJD,1,FLA,13,3,5,8476399,8479388.0,Blake Coleman Tripping against Riley Stillman
+10,penalty,Holding,Josh Brown,Michael Raffl,[83. -8.],1,17:48,FLA,PHI,FLA,13,PHI,4,0,0,8477384,8477290.0,Josh Brown Holding against Michael Raffl
+54,penalty,Tripping,Dominic Toninato,Kevin Hayes,[-39. -31.],1,08:14,FLA,PHI,FLA,13,PHI,4,0,1,8476952,8475763.0,Dominic Toninato Tripping against Kevin Hayes
+137,penalty,Holding,Justin Braun,Mike Hoffman,[80.  0.],2,09:00,PHI,FLA,FLA,13,PHI,4,0,3,8474027,8474884.0,Justin Braun Holding against Mike Hoffman
+218,penalty,Roughing,James van Riemsdyk,Jonathan Huberdeau,[-80.  34.],3,00:56,PHI,FLA,FLA,13,PHI,4,2,5,8474037,8476456.0,James van Riemsdyk Roughing against Jonathan Huberdeau
+219,penalty,Roughing,Jonathan Huberdeau,Mike Hoffman,[-78.  27.],3,00:56,FLA,PHI,FLA,13,PHI,4,2,5,8476456,8474884.0,Jonathan Huberdeau Roughing against James van Riemsdyk served by Mike Hoffman
+220,penalty,Boarding,Jonathan Huberdeau,James van Riemsdyk,[-84.  35.],3,00:56,FLA,PHI,FLA,13,PHI,4,2,5,8476456,8474037.0,Jonathan Huberdeau Boarding against James van Riemsdyk
+65,penalty,Interference - Goalkeeper,Jujhar Khaira,Sam Montembeault,[83. -1.],1,03:17,EDM,FLA,FLA,13,EDM,22,0,1,8476915,8478470.0,Jujhar Khaira Interference - Goalkeeper against Sam Montembeault
+100,penalty,Fighting,Matt Benning,Noel Acciari,[64.  7.],2,14:43,EDM,FLA,FLA,13,EDM,22,0,1,8476988,8478569.0,Matt Benning Fighting against Noel Acciari
+101,penalty,Fighting,Noel Acciari,Matt Benning,[78.  3.],2,14:43,FLA,EDM,FLA,13,EDM,22,0,1,8478569,8476988.0,Noel Acciari Fighting against Matt Benning
+102,penalty,Slashing,Noel Acciari,Evgenii Dadonov,[62.  6.],2,14:43,FLA,EDM,FLA,13,EDM,22,0,1,8478569,8474149.0,Noel Acciari Slashing against Matt Benning served by Evgenii Dadonov
+117,penalty,Fighting,Jujhar Khaira,Josh Brown,[16. -6.],2,09:02,EDM,FLA,FLA,13,EDM,22,0,1,8476915,8477384.0,Jujhar Khaira Fighting against Josh Brown
+118,penalty,Fighting,Josh Brown,Jujhar Khaira,[10. -9.],2,09:02,FLA,EDM,FLA,13,EDM,22,0,1,8477384,8476915.0,Josh Brown Fighting against Jujhar Khaira
+164,penalty,Hi-sticking,Josh Archibald,Dominic Toninato,[53. 40.],3,18:17,EDM,FLA,FLA,13,EDM,22,0,2,8476326,8476952.0,Josh Archibald Hi-sticking against Dominic Toninato
+205,penalty,Slashing,Kailer Yamamoto,Jonathan Huberdeau,[-82. -13.],3,08:59,EDM,FLA,FLA,13,EDM,22,1,2,8479977,8476456.0,Kailer Yamamoto Slashing against Jonathan Huberdeau
+33,penalty,Interference,Keith Yandle,Stefan Noesen,[89. 18.],1,12:47,FLA,SJS,SJS,28,FLA,13,0,1,8471735,8476474.0,Keith Yandle Interference against Stefan Noesen
+62,penalty,Hooking,Joel Kellman,Aleksander Barkov,[-63.  14.],1,07:02,SJS,FLA,SJS,28,FLA,13,1,1,8481516,8477493.0,Joel Kellman Hooking against Aleksander Barkov
+78,penalty,Tripping,Joel Kellman,Keith Yandle,[ 78. -35.],1,02:03,SJS,FLA,SJS,28,FLA,13,1,1,8481516,8471735.0,Joel Kellman Tripping against Keith Yandle
+82,penalty,Interference,Vincent Trocheck,Melker Karlsson,[-26.  -6.],1,01:27,FLA,SJS,SJS,28,FLA,13,1,1,8476389,8477922.0,Vincent Trocheck Interference against Melker Karlsson
+101,penalty,Hooking,Marcus Sorensen,Frank Vatrano,[ 12. -37.],2,16:21,SJS,FLA,SJS,28,FLA,13,1,1,8475834,8478366.0,Marcus Sorensen Hooking against Frank Vatrano
+141,penalty,Tripping,Melker Karlsson,Aaron Ekblad,[-83. -33.],2,08:19,SJS,FLA,SJS,28,FLA,13,1,2,8477922,8477932.0,Melker Karlsson Tripping against Aaron Ekblad
+156,penalty,Tripping,Mark Pysyk,Tim Heed,[ 83. -36.],2,03:53,FLA,SJS,SJS,28,FLA,13,1,2,8475796,8475841.0,Mark Pysyk Tripping against Tim Heed
+212,penalty,Cross checking,Denis Malgin,Marcus Sorensen,[-74. -35.],3,05:47,FLA,SJS,SJS,28,FLA,13,1,3,8478843,8475834.0,Denis Malgin Cross checking against Marcus Sorensen
+135,penalty,Interference,Korbinian Holzer,Mike Hoffman,[70.  6.],2,11:28,ANA,FLA,ANA,24,FLA,13,1,1,8473560,8474884.0,Korbinian Holzer Interference against Mike Hoffman
+167,penalty,Interference - Goalkeeper,Mike Hoffman,John Gibson,[85.  2.],2,03:57,FLA,ANA,ANA,24,FLA,13,1,3,8474884,8476434.0,Mike Hoffman Interference - Goalkeeper against John Gibson
+168,penalty,Unsportsmanlike conduct,John Gibson,Troy Terry,[83.  1.],2,03:57,ANA,FLA,ANA,24,FLA,13,1,3,8476434,8478873.0,John Gibson Unsportsmanlike conduct served by Troy Terry
+214,penalty,Hooking,Dominic Toninato,Jakob Silfverberg,[ 55. -26.],3,12:12,FLA,ANA,ANA,24,FLA,13,1,3,8476952,8475164.0,Dominic Toninato Hooking against Jakob Silfverberg
+51,penalty,Holding,Drew Doughty,Frank Vatrano,[78. -3.],1,08:58,LAK,FLA,LAK,26,FLA,13,1,2,8474563,8478366.0,Drew Doughty Holding against Frank Vatrano
+64,penalty,Interference,Mike Hoffman,Trevor Moore,[-67.  15.],1,05:01,FLA,LAK,LAK,26,FLA,13,1,2,8474884,8479675.0,Mike Hoffman Interference against Trevor Moore
+72,penalty,Roughing,Riley Stillman,Trevor Lewis,[-74. -40.],1,04:01,FLA,LAK,LAK,26,FLA,13,2,2,8479388,8473453.0,Riley Stillman Roughing against Trevor Lewis
+81,penalty,Hi-sticking,Vincent Trocheck,Gabriel Vilardi,[57. 31.],1,01:27,FLA,LAK,LAK,26,FLA,13,2,2,8476389,8480014.0,Vincent Trocheck Hi-sticking against Gabriel Vilardi
+89,penalty,Hooking,Sean Walker,Noel Acciari,[ 62. -13.],1,00:00,LAK,FLA,LAK,26,FLA,13,2,2,8480336,8478569.0,Sean Walker Hooking against Noel Acciari
+92,penalty,Tripping,Adrian Kempe,Jonathan Huberdeau,[-35. -10.],2,18:24,LAK,FLA,LAK,26,FLA,13,2,2,8477960,8476456.0,Adrian Kempe Tripping against Jonathan Huberdeau
+118,penalty,Tripping,Frank Vatrano,Sean Walker,[-47.  39.],2,12:33,FLA,LAK,LAK,26,FLA,13,2,3,8478366,8480336.0,Frank Vatrano Tripping against Sean Walker
+179,penalty,Hooking,Drew Doughty,Jonathan Huberdeau,[-29. -29.],2,00:34,LAK,FLA,LAK,26,FLA,13,4,3,8474563,8476456.0,Drew Doughty Hooking against Jonathan Huberdeau
+184,penalty,Roughing,Adrian Kempe,Keith Yandle,[-17. -15.],2,00:00,LAK,FLA,LAK,26,FLA,13,4,3,8477960,8471735.0,Adrian Kempe Roughing against Keith Yandle
+185,penalty,Roughing,Keith Yandle,Adrian Kempe,[-19. -20.],2,00:00,FLA,LAK,LAK,26,FLA,13,4,3,8471735,8477960.0,Keith Yandle Roughing against Adrian Kempe
+227,penalty,Hooking,Noel Acciari,Trevor Lewis,[44. 16.],3,09:22,FLA,LAK,LAK,26,FLA,13,4,4,8478569,8473453.0,Noel Acciari Hooking against Trevor Lewis
+82,penalty,Holding,Aaron Ekblad,Gage Quinney,[-98.  10.],1,05:05,FLA,VGK,VGK,54,FLA,13,1,1,8477932,8479748.0,Aaron Ekblad Holding against Gage Quinney
+104,penalty,Hooking,Max Pacioretty,Noel Acciari,[ 89. -13.],1,00:15,VGK,FLA,VGK,54,FLA,13,1,1,8474157,8478569.0,Max Pacioretty Hooking against Noel Acciari
+112,penalty,Interference - Goalkeeper,William Carrier,Sam Montembeault,[84.  1.],2,18:19,VGK,FLA,VGK,54,FLA,13,1,2,8477478,8478470.0,William Carrier Interference - Goalkeeper against Sam Montembeault
+146,penalty,Tripping,Vincent Trocheck,Gage Quinney,[-62.  39.],2,09:52,FLA,VGK,VGK,54,FLA,13,1,2,8476389,8479748.0,Vincent Trocheck Tripping against Gage Quinney
+181,penalty,Boarding,Noel Acciari,Nicolas Roy,[-15.  40.],2,02:49,FLA,VGK,VGK,54,FLA,13,2,2,8478569,8478462.0,Noel Acciari Boarding against Nicolas Roy
+182,penalty,Roughing,William Carrier,Anton Stralman,[94. 29.],2,02:49,VGK,FLA,VGK,54,FLA,13,2,2,8477478,8471873.0,William Carrier Roughing against Anton Stralman
+212,penalty,Missing key [PD_151],Gage Quinney,,[  0. -39.],3,14:49,VGK,FLA,VGK,54,FLA,13,4,3,8479748,,Delaying Game - Unsucc. chlg served by Gage Quinney
+53,penalty,Tripping,Barrett Hayton,Frank Vatrano,[-14.  20.],1,06:17,ARI,FLA,ARI,53,FLA,13,0,0,8480849,8478366.0,Barrett Hayton Tripping against Frank Vatrano
+207,penalty,Tripping,Oliver Ekman-Larsson,Evgenii Dadonov,[-69.  -6.],3,11:58,ARI,FLA,ARI,53,FLA,13,1,1,8475171,8474149.0,Oliver Ekman-Larsson Tripping against Evgenii Dadonov
+64,penalty,Too many men on the ice,Aleksi Saarela,,[19. 40.],1,04:18,FLA,TOR,FLA,13,TOR,10,3,1,8478839,,Too many men/ice served by Aleksi Saarela
+90,penalty,Fighting,MacKenzie Weegar,Kasperi Kapanen,[26. -8.],1,00:00,FLA,TOR,FLA,13,TOR,10,3,3,8477346,8477953.0,MacKenzie Weegar Fighting against Kasperi Kapanen
+91,penalty,Fighting,Kasperi Kapanen,MacKenzie Weegar,[27. -4.],1,00:00,TOR,FLA,FLA,13,TOR,10,3,3,8477953,8477346.0,Kasperi Kapanen Fighting against MacKenzie Weegar
+147,penalty,Interference,Martin Marincin,Lucas Wallmark,[16. 39.],2,03:36,TOR,FLA,FLA,13,TOR,10,3,3,8475716,8478027.0,Martin Marincin Interference against Lucas Wallmark
+25,penalty,Holding,MacKenzie Weegar,Brandon Saad,[84. 27.],1,13:34,FLA,CHI,FLA,13,CHI,16,1,0,8477346,8476438.0,MacKenzie Weegar Holding against Brandon Saad
+47,penalty,Hooking,Jonathan Huberdeau,Slater Koekkoek,[26. 16.],1,06:34,FLA,CHI,FLA,13,CHI,16,1,1,8476456,8476886.0,Jonathan Huberdeau Hooking against Slater Koekkoek
+58,penalty,Hi-sticking,Erik Haula,Dominik Kubalik,[84. -6.],1,02:47,FLA,CHI,FLA,13,CHI,16,1,1,8475287,8477330.0,Erik Haula Hi-sticking against Dominik Kubalik
+107,penalty,Interference,Olli Maatta,Mike Hoffman,[-23. -27.],2,11:51,CHI,FLA,FLA,13,CHI,16,1,2,8476874,8474884.0,Olli Maatta Interference against Mike Hoffman
+121,penalty,Tripping,Duncan Keith,Aleksander Barkov,[ 96. -14.],2,09:47,CHI,FLA,FLA,13,CHI,16,1,2,8470281,8477493.0,Duncan Keith Tripping against Aleksander Barkov
+153,penalty,Hi-sticking,Kirby Dach,Riley Stillman,[ 82. -34.],3,18:49,CHI,FLA,FLA,13,CHI,16,1,2,8481523,8479388.0,Kirby Dach Hi-sticking against Riley Stillman
+11,penalty,Slashing,Mark Jankowski,Erik Haula,[-7. -8.],1,16:56,CGY,FLA,FLA,13,CGY,20,0,0,8476873,8475287.0,Mark Jankowski Slashing against Erik Haula
+27,penalty,Tripping,Brett Connolly,Elias Lindholm,[-52. -33.],1,15:07,FLA,CGY,FLA,13,CGY,20,0,0,8475792,8477496.0,Brett Connolly Tripping against Elias Lindholm
+65,penalty,PS - Hooking on breakaway,MacKenzie Weegar,Johnny Gaudreau,[80. -2.],1,07:43,FLA,CGY,FLA,13,CGY,20,0,1,8477346,8476346.0,MacKenzie Weegar PS - Hooking on breakaway against Johnny Gaudreau
+167,penalty,Too many men on the ice,Matthew Tkachuk,,[-9. 38.],2,04:38,CGY,FLA,FLA,13,CGY,20,0,2,8479314,,Too many men/ice served by Matthew Tkachuk
+215,penalty,Hooking,Matthew Tkachuk,Aaron Ekblad,[-59.  40.],3,12:17,CGY,FLA,FLA,13,CGY,20,0,3,8479314,8477932.0,Matthew Tkachuk Hooking against Aaron Ekblad
+55,penalty,Tripping,Ondrej Kase,Jake DeBrusk,[-23.  41.],1,08:19,BOS,FLA,FLA,13,BOS,6,0,0,8478131,8478498.0,Ondrej Kase Tripping against Evgenii Dadonov served by Jake DeBrusk
+66,penalty,Fighting,Riley Stillman,Nick Ritchie,[ 7. 24.],1,05:25,FLA,BOS,FLA,13,BOS,6,0,0,8479388,8477941.0,Riley Stillman Fighting against Nick Ritchie
+68,penalty,Fighting,Nick Ritchie,Riley Stillman,[11. 22.],1,05:25,BOS,FLA,FLA,13,BOS,6,0,0,8477941,8479388.0,Nick Ritchie Fighting against Riley Stillman
+87,penalty,Tripping,Mike Matheson,Jake DeBrusk,[33.  0.],1,00:59,FLA,BOS,FLA,13,BOS,6,0,0,8476875,8478498.0,Mike Matheson Tripping against Jake DeBrusk
+141,penalty,Elbowing,Evgenii Dadonov,Brandon Carlo,[ 72. -38.],2,09:14,FLA,BOS,FLA,13,BOS,6,1,0,8474149,8478443.0,Evgenii Dadonov Elbowing against Brandon Carlo
+147,penalty,Tripping,Aleksander Barkov,Jake DeBrusk,[46. 39.],2,08:12,FLA,BOS,FLA,13,BOS,6,1,1,8477493,8478498.0,Aleksander Barkov Tripping against Jake DeBrusk
+164,penalty,Hooking,Brad Marchand,Mike Hoffman,[-64. -24.],2,04:54,BOS,FLA,FLA,13,BOS,6,1,1,8473419,8474884.0,Brad Marchand Hooking against Mike Hoffman
+199,penalty,Slashing,Frank Vatrano,Jeremy Lauzon,[-83. -37.],3,17:56,FLA,BOS,FLA,13,BOS,6,1,1,8478366,8478468.0,Frank Vatrano Slashing against Jeremy Lauzon
+204,penalty,Tripping,Charlie Coyle,Anton Stralman,[91. -4.],3,17:02,BOS,FLA,FLA,13,BOS,6,1,1,8475745,8471873.0,Charlie Coyle Tripping against Anton Stralman
+211,penalty,Interference,Frank Vatrano,,[ 17. -39.],3,15:54,FLA,BOS,FLA,13,BOS,6,1,1,8478366,,Frank Vatrano Interference
+216,penalty,Tripping,David Pastrnak,Aleksander Barkov,[-76.   6.],3,15:06,BOS,FLA,FLA,13,BOS,6,1,1,8477956,8477493.0,David Pastrnak Tripping against Aleksander Barkov
+6,penalty,Tripping,Christian Folin,Evgenii Dadonov,[-66. -22.],1,17:50,MTL,FLA,FLA,13,MTL,8,0,0,8477850,8474149.0,Christian Folin Tripping against Evgenii Dadonov
+132,penalty,Slashing,Max Domi,Aleksander Barkov,[49.  8.],2,11:53,MTL,FLA,FLA,13,MTL,8,0,0,8477503,8477493.0,Max Domi Slashing against Aleksander Barkov
+151,penalty,Hi stick - double minor,Dominic Toninato,Joel Armia,[-36.   3.],2,06:21,FLA,MTL,FLA,13,MTL,8,1,0,8476952,8476469.0,Dominic Toninato Hi stick - double minor against Joel Armia
+163,penalty,Hi-sticking,Aaron Ekblad,Brendan Gallagher,[-57.   2.],2,03:31,FLA,MTL,FLA,13,MTL,8,1,0,8477932,8475848.0,Aaron Ekblad Hi-sticking against Brendan Gallagher
+175,penalty,Too many men on the ice,Charles Hudon,,[-14.  37.],2,01:21,MTL,FLA,FLA,13,MTL,8,1,0,8476948,,Too many men/ice served by Charles Hudon
+59,penalty,Tripping,MacKenzie Weegar,David Perron,[ 28. -34.],1,03:01,FLA,STL,STL,19,FLA,13,0,0,8477346,8474102.0,MacKenzie Weegar Tripping against David Perron
+134,penalty,Slashing,Marco Scandella,Mark Pysyk,[ -9. -35.],2,05:14,STL,FLA,STL,19,FLA,13,1,0,8474618,8475796.0,Marco Scandella Slashing against Mark Pysyk
+215,penalty,Tripping,Anton Stralman,Jaden Schwartz,[ 66. -17.],3,04:34,FLA,STL,STL,19,FLA,13,1,2,8471873,8475768.0,Anton Stralman Tripping against Jaden Schwartz
+5,penalty,Tripping,Mikhail Sergachev,Mike Hoffman,[-15.  24.],1,18:06,TBL,FLA,TBL,14,FLA,13,0,0,8479410,8474884.0,Mikhail Sergachev Tripping against Mike Hoffman
+90,penalty,Holding,Mikhail Sergachev,Aleksander Barkov,[84. 17.],2,15:51,TBL,FLA,TBL,14,FLA,13,1,1,8479410,8477493.0,Mikhail Sergachev Holding against Aleksander Barkov
+106,penalty,Hooking,Jonathan Huberdeau,Anthony Cirelli,[-96.   3.],2,11:33,FLA,TBL,TBL,14,FLA,13,1,1,8476456,8478519.0,Jonathan Huberdeau Hooking against Anthony Cirelli
+176,penalty,Hooking,Victor Hedman,Evgenii Dadonov,[-96.   0.],3,14:04,TBL,FLA,TBL,14,FLA,13,2,1,8475167,8474149.0,Victor Hedman Hooking against Evgenii Dadonov
+185,penalty,Interference,Frank Vatrano,Victor Hedman,[44. 23.],3,11:54,FLA,TBL,TBL,14,FLA,13,2,1,8478366,8475167.0,Frank Vatrano Interference against Victor Hedman
+199,penalty,Illegal check to head,Gemel Smith,MacKenzie Weegar,[89. 32.],3,08:57,TBL,FLA,TBL,14,FLA,13,3,2,8476966,8477346.0,Gemel Smith Illegal check to head against MacKenzie Weegar
+203,penalty,Hooking,Mike Hoffman,Alex Killorn,[82. 17.],3,08:11,FLA,TBL,TBL,14,FLA,13,3,2,8474884,8473986.0,Mike Hoffman Hooking against Alex Killorn
+107,penalty,Too many men on the ice,Pat Maroon,,[-26.  40.],2,14:42,TBL,FLA,FLA,13,TBL,14,0,0,8474034,,Too many men/ice served by Pat Maroon
+117,penalty,Hooking,Mathieu Joseph,Henrik Borgstrom,[66. 38.],2,11:27,TBL,FLA,FLA,13,TBL,14,0,0,8478472,8479404.0,Mathieu Joseph Hooking against Henrik Borgstrom
+128,penalty,Hi-sticking,Anthony Cirelli,Mike Matheson,[-35.  18.],2,09:36,TBL,FLA,FLA,13,TBL,14,1,0,8478519,8476875.0,Anthony Cirelli Hi-sticking against Mike Matheson
+191,penalty,Roughing,Gemel Smith,Mike Hoffman,[58. -7.],3,14:21,TBL,FLA,FLA,13,TBL,14,4,1,8476966,8474884.0,Gemel Smith Roughing against Mike Hoffman
+192,penalty,Roughing,Mike Hoffman,Gemel Smith,[52. -7.],3,14:21,FLA,TBL,FLA,13,TBL,14,4,1,8474884,8476966.0,Mike Hoffman Roughing against Gemel Smith
+199,penalty,Tripping,Aaron Ekblad,Anthony Cirelli,[68.  5.],3,12:44,FLA,TBL,FLA,13,TBL,14,4,2,8477932,8478519.0,Aaron Ekblad Tripping against Anthony Cirelli
+29,penalty,Hooking,Nino Niederreiter,Aaron Ekblad,[-52. -14.],1,12:10,CAR,FLA,FLA,13,CAR,12,0,1,8475799,8477932.0,Nino Niederreiter Hooking against Aaron Ekblad
+35,penalty,Hooking,Sebastian Aho,Aleksander Barkov,[-66.  -1.],1,11:20,CAR,FLA,FLA,13,CAR,12,0,1,8478427,8477493.0,Sebastian Aho Hooking against Aleksander Barkov
+63,penalty,Roughing,Jayce Hawryluk,Lucas Wallmark,[36.  0.],1,05:04,FLA,CAR,FLA,13,CAR,12,0,2,8477963,8478027.0,Jayce Hawryluk Roughing against Lucas Wallmark
+64,penalty,Roughing,Lucas Wallmark,Jordan Martinook,[40. -1.],1,05:04,CAR,FLA,FLA,13,CAR,12,0,2,8478027,8476921.0,Lucas Wallmark Roughing against Jayce Hawryluk served by Jordan Martinook
+77,penalty,Hi-sticking,Dryden Hunt,Haydn Fleury,[-97.  18.],1,02:28,FLA,CAR,FLA,13,CAR,12,0,3,8478211,8477938.0,Dryden Hunt Hi-sticking against Haydn Fleury
+129,penalty,Tripping,Dougie Hamilton,Mike Hoffman,[81. -1.],2,12:52,CAR,FLA,FLA,13,CAR,12,1,5,8476462,8474884.0,Dougie Hamilton Tripping against Mike Hoffman
+150,penalty,Tripping,Jonathan Huberdeau,Jaccob Slavin,[50. -1.],2,07:53,FLA,CAR,FLA,13,CAR,12,1,5,8476456,8476958.0,Jonathan Huberdeau Tripping against Jaccob Slavin
+169,penalty,Interference,Joel Edmundson,Frank Vatrano,[ 92. -12.],2,03:45,CAR,FLA,FLA,13,CAR,12,1,5,8476441,8478366.0,Joel Edmundson Interference against Frank Vatrano
+186,penalty,Hi-sticking,Henrik Borgstrom,Martin Necas,[-17. -29.],2,00:43,FLA,CAR,FLA,13,CAR,12,1,5,8479404,8480039.0,Henrik Borgstrom Hi-sticking against Martin Necas
+215,penalty,Roughing,Andrei Svechnikov,Jonathan Huberdeau,[-66.  10.],3,11:55,CAR,FLA,FLA,13,CAR,12,1,5,8480830,8476456.0,Andrei Svechnikov Roughing against Jonathan Huberdeau
+216,penalty,Roughing,Jonathan Huberdeau,Andrei Svechnikov,[-69.  14.],3,11:55,FLA,CAR,FLA,13,CAR,12,1,5,8476456,8480830.0,Jonathan Huberdeau Roughing against Andrei Svechnikov
+218,penalty,Holding the stick,Nino Niederreiter,Aaron Ekblad,[-67.   7.],3,11:42,CAR,FLA,FLA,13,CAR,12,1,5,8475799,8477932.0,Nino Niederreiter Holding the stick against Aaron Ekblad
+243,penalty,Tripping,Brock McGinn,Jonathan Huberdeau,[-33.   4.],3,06:02,CAR,FLA,FLA,13,CAR,12,2,5,8476934,8476456.0,Brock McGinn Tripping against Jonathan Huberdeau
+43,penalty,Tripping,Keith Yandle,Casey Mittelstadt,[ 27. -37.],1,10:00,FLA,BUF,BUF,7,FLA,13,0,0,8471735,8479999.0,Keith Yandle Tripping against Casey Mittelstadt
+101,penalty,Holding,MacKenzie Weegar,Jack Eichel,[-97.  31.],2,13:48,FLA,BUF,BUF,7,FLA,13,0,0,8477346,8478403.0,MacKenzie Weegar Holding against Jack Eichel
+105,penalty,Slashing,Rasmus Dahlin,Mike Matheson,[44. 27.],2,13:33,BUF,FLA,BUF,7,FLA,13,0,0,8480839,8476875.0,Rasmus Dahlin Slashing against Mike Matheson
+153,penalty,Cross checking,Mike Hoffman,Marcus Johansson,[39. 38.],2,02:33,FLA,BUF,BUF,7,FLA,13,0,0,8474884,8475149.0,Mike Hoffman Cross checking against Marcus Johansson
+181,penalty,Tripping,Frank Vatrano,Vladimir Sobotka,[-66.  32.],3,16:22,FLA,BUF,BUF,7,FLA,13,2,0,8478366,8471743.0,Frank Vatrano Tripping against Vladimir Sobotka
+192,penalty,Slashing,Rasmus Ristolainen,Brett Connolly,[-88. -10.],3,12:34,BUF,FLA,BUF,7,FLA,13,2,1,8477499,8475792.0,Rasmus Ristolainen Slashing against Brett Connolly
+87,penalty,Tripping,MacKenzie Weegar,Mathew Barzal,[-84.  17.],2,18:14,FLA,NYI,NYI,2,FLA,13,0,1,8477346,8478445.0,MacKenzie Weegar Tripping against Mathew Barzal
+93,penalty,Too many men on the ice,Ross Johnston,,[-20.  38.],2,17:02,NYI,FLA,NYI,2,FLA,13,0,1,8477527,,Too many men/ice served by Ross Johnston
+116,penalty,Hooking,Michael Dal Colle,Vincent Trocheck,[-47. -38.],2,12:27,NYI,FLA,NYI,2,FLA,13,1,1,8477936,8476389.0,Michael Dal Colle Hooking against Vincent Trocheck
+191,penalty,Fighting,Ross Johnston,Josh Brown,[20.  5.],3,17:16,NYI,FLA,NYI,2,FLA,13,2,1,8477527,8477384.0,Ross Johnston Fighting against Josh Brown
+192,penalty,Fighting,Josh Brown,Ross Johnston,[20.  2.],3,17:16,FLA,NYI,NYI,2,FLA,13,2,1,8477384,8477527.0,Josh Brown Fighting against Ross Johnston
+221,penalty,Hooking,Leo Komarov,Noel Acciari,[14. 36.],3,11:12,NYI,FLA,NYI,2,FLA,13,2,1,8473463,8478569.0,Leo Komarov Hooking against Noel Acciari
+91,penalty,Tripping,Dryden Hunt,P.K. Subban,[95. -9.],2,17:34,FLA,NJD,NJD,1,FLA,13,4,1,8478211,8474056.0,Dryden Hunt Tripping against P.K. Subban
+99,penalty,Too many men on the ice,Denis Malgin,,[13. 41.],2,14:37,FLA,NJD,NJD,1,FLA,13,4,1,8478843,,Too many men/ice served by Denis Malgin
+101,penalty,Hooking,P.K. Subban,Noel Acciari,[52. 13.],2,14:18,NJD,FLA,NJD,1,FLA,13,4,1,8474056,8478569.0,P.K. Subban Hooking against Noel Acciari
+106,penalty,Hooking,Sami Vatanen,Aleksander Barkov,[79. 24.],2,12:17,NJD,FLA,NJD,1,FLA,13,4,1,8475222,8477493.0,Sami Vatanen Hooking against Aleksander Barkov
+116,penalty,Holding,Dryden Hunt,Jack Hughes,[96. 17.],2,09:41,FLA,NJD,NJD,1,FLA,13,4,2,8478211,8481559.0,Dryden Hunt Holding against Jack Hughes
+191,penalty,Holding,P.K. Subban,Frank Vatrano,[-81.  13.],3,11:03,NJD,FLA,NJD,1,FLA,13,4,5,8474056,8478366.0,P.K. Subban Holding against Frank Vatrano
+202,penalty,Hi stick - double minor,Jesper Boqvist,MacKenzie Weegar,[ 76. -33.],3,07:22,NJD,FLA,NJD,1,FLA,13,4,5,8480003,8477346.0,Jesper Boqvist Hi stick - double minor against MacKenzie Weegar
+33,penalty,Hi stick - double minor,Josh Brown,Matt Calvert,[79.  6.],1,13:36,FLA,COL,FLA,13,COL,21,1,0,8477384,8474685.0,Josh Brown Hi stick - double minor against Matt Calvert
+110,penalty,Delaying Game - Puck over glass,Colton Sceviour,,[-30. -41.],2,17:20,FLA,COL,FLA,13,COL,21,3,1,8474098,,Colton Sceviour Delaying Game - Puck over glass
+166,penalty,Unsportsmanlike conduct,Nazem Kadri,,[35. -4.],2,05:23,COL,FLA,FLA,13,COL,21,4,4,8475172,,Nazem Kadri Unsportsmanlike conduct
+178,penalty,Tripping,Mikko Rantanen,Noel Acciari,[ 64. -18.],2,02:26,COL,FLA,FLA,13,COL,21,4,4,8478420,8478569.0,Mikko Rantanen Tripping against Noel Acciari
+206,penalty,Tripping,Matt Calvert,Brett Connolly,[-59. -13.],3,15:32,COL,FLA,FLA,13,COL,21,4,4,8474685,8475792.0,Matt Calvert Tripping against Brett Connolly
+219,penalty,Holding,Joonas Donskoi,Frank Vatrano,[-64. -23.],3,11:42,COL,FLA,FLA,13,COL,21,4,4,8475820,8478366.0,Joonas Donskoi Holding against Frank Vatrano
+17,penalty,Hi-sticking,Yakov Trenin,Keith Yandle,[97. -8.],1,14:56,NSH,FLA,NSH,18,FLA,13,0,0,8478508,8471735.0,Yakov Trenin Hi-sticking against Keith Yandle
+26,penalty,Interference,Brett Connolly,Miikka Salomaki,[34. -2.],1,12:29,FLA,NSH,NSH,18,FLA,13,0,0,8475792,8476447.0,Brett Connolly Interference against Miikka Salomaki
+34,penalty,Slashing,Brett Connolly,Mattias Ekholm,[62. 16.],1,10:14,FLA,NSH,NSH,18,FLA,13,0,0,8475792,8475218.0,Brett Connolly Slashing against Mattias Ekholm
+106,penalty,Slashing,Kyle Turris,Denis Malgin,[ 97. -29.],2,08:21,NSH,FLA,NSH,18,FLA,13,0,0,8474068,8478843.0,Kyle Turris Slashing against Denis Malgin
+191,penalty,Tripping,Jonathan Huberdeau,Craig Smith,[41. 12.],3,07:51,FLA,NSH,NSH,18,FLA,13,1,2,8476456,8475225.0,Jonathan Huberdeau Tripping against Craig Smith
+228,penalty,Hooking,Aaron Ekblad,Matt Duchene,[-65.  -1.],4,00:35,FLA,NSH,NSH,18,FLA,13,2,2,8477932,8475168.0,Aaron Ekblad Hooking against Matt Duchene
+147,penalty,Tripping,Patric Hornqvist,MacKenzie Weegar,[11. 34.],2,00:32,PIT,FLA,FLA,13,PIT,5,2,1,8471887,8477346.0,Patric Hornqvist Tripping against MacKenzie Weegar
+194,penalty,Interference,Anton Stralman,Jake Guentzel,[85.  6.],3,09:11,FLA,PIT,FLA,13,PIT,5,2,1,8471873,8477404.0,Anton Stralman Interference against Jake Guentzel
+9,penalty,Elbowing,Sam Bennett,Denis Malgin,[-16. -22.],1,17:12,CGY,FLA,CGY,20,FLA,13,0,0,8477935,8478843.0,Sam Bennett Elbowing against Denis Malgin
+29,penalty,Fighting,Travis Hamonic,Riley Stillman,[-83.  28.],1,12:34,CGY,FLA,CGY,20,FLA,13,0,0,8474612,8479388.0,Travis Hamonic Fighting against Riley Stillman
+30,penalty,Fighting,Riley Stillman,Travis Hamonic,[-68.  36.],1,12:34,FLA,CGY,CGY,20,FLA,13,0,0,8479388,8474612.0,Riley Stillman Fighting against Travis Hamonic
+35,penalty,Hooking,Aleksander Barkov,Mark Giordano,[82.  1.],1,10:16,FLA,CGY,CGY,20,FLA,13,0,0,8477493,8470966.0,Aleksander Barkov Hooking against Mark Giordano
+97,penalty,Tripping,Michael Frolik,Evgenii Dadonov,[-63.   1.],2,12:14,CGY,FLA,CGY,20,FLA,13,1,1,8473564,8474149.0,Michael Frolik Tripping against Evgenii Dadonov
+155,penalty,Delaying Game - Puck over glass,Josh Brown,,[-49. -41.],3,17:43,FLA,CGY,CGY,20,FLA,13,3,2,8477384,,Josh Brown Delaying Game - Puck over glass
+234,penalty,Hooking,Denis Malgin,Sean Monahan,[63.  5.],4,00:32,FLA,CGY,CGY,20,FLA,13,5,5,8478843,8477497.0,Denis Malgin Hooking against Sean Monahan
+47,penalty,Tripping,Jayce Hawryluk,Ryan Nugent-Hopkins,[ 27. -17.],1,06:55,FLA,EDM,EDM,22,FLA,13,0,0,8477963,8476454.0,Jayce Hawryluk Tripping against Ryan Nugent-Hopkins
+64,penalty,Hi-sticking,Sam Gagner,Josh Brown,[82. 37.],1,03:23,EDM,FLA,EDM,22,FLA,13,0,0,8474040,8477384.0,Sam Gagner Hi-sticking against Josh Brown
+105,penalty,Interference,Dryden Hunt,Kris Russell,[79.  2.],2,13:11,FLA,EDM,EDM,22,FLA,13,0,3,8478211,8471729.0,Dryden Hunt Interference against Kris Russell
+172,penalty,Boarding,Mark Pysyk,Ryan Nugent-Hopkins,[94. 25.],3,17:44,FLA,EDM,EDM,22,FLA,13,0,4,8475796,8476454.0,Mark Pysyk Boarding against Ryan Nugent-Hopkins
+8,penalty,Holding,Aleksander Barkov,Elias Pettersson,[ 34. -39.],1,17:54,FLA,VAN,VAN,23,FLA,13,1,0,8477493,8480012.0,Aleksander Barkov Holding against Elias Pettersson
+111,penalty,Hi-sticking,Denis Malgin,Jordie Benn,[-98.   3.],2,11:07,FLA,VAN,VAN,23,FLA,13,5,1,8478843,8474818.0,Denis Malgin Hi-sticking against Jordie Benn
+120,penalty,Tripping,Alexander Edler,Evgenii Dadonov,[-85. -21.],2,08:44,VAN,FLA,VAN,23,FLA,13,5,1,8471303,8474149.0,Alexander Edler Tripping against Evgenii Dadonov
+139,penalty,Delaying Game - Puck over glass,Tyler Myers,,[-71. -29.],2,04:41,VAN,FLA,VAN,23,FLA,13,5,2,8474574,,Tyler Myers Delaying Game - Puck over glass
+1,penalty,Delaying Game - Puck over glass,Nathan MacKinnon,,[18. 42.],1,19:53,COL,FLA,COL,21,FLA,13,0,0,8477492,,Nathan MacKinnon Delaying Game - Puck over glass
+12,penalty,Tripping,Mark Pysyk,Andre Burakovsky,[-77.   1.],1,16:24,FLA,COL,COL,21,FLA,13,0,0,8475796,8477444.0,Mark Pysyk Tripping against Andre Burakovsky
+43,penalty,Interference,Ian Cole,Denis Malgin,[74. -5.],1,08:18,COL,FLA,COL,21,FLA,13,1,1,8474013,8478843.0,Ian Cole Interference against Denis Malgin
+83,penalty,Holding,MacKenzie Weegar,Nathan MacKinnon,[91. 25.],2,19:20,FLA,COL,COL,21,FLA,13,2,1,8477346,8477492.0,MacKenzie Weegar Holding against Nathan MacKinnon
+150,penalty,Hooking,Ian Cole,Frank Vatrano,[-54.  21.],2,02:46,COL,FLA,COL,21,FLA,13,2,1,8474013,8478366.0,Ian Cole Hooking against Frank Vatrano
+165,penalty,Fighting,MacKenzie Weegar,Nazem Kadri,[-13. -36.],2,00:00,FLA,COL,COL,21,FLA,13,2,1,8477346,8475172.0,MacKenzie Weegar Fighting against Nazem Kadri
+166,penalty,Fighting,Nazem Kadri,MacKenzie Weegar,[-12. -36.],2,00:00,COL,FLA,COL,21,FLA,13,2,1,8475172,8477346.0,Nazem Kadri Fighting against MacKenzie Weegar
+203,penalty,Slashing,Nikita Zadorov,Vladislav Kamenev,[-42.  33.],3,08:07,COL,FLA,COL,21,FLA,13,3,1,8477507,8477973.0,Nikita Zadorov Slashing against Dryden Hunt served by Vladislav Kamenev
+204,penalty,Misconduct,Nikita Zadorov,,[-23.  41.],3,08:07,COL,FLA,COL,21,FLA,13,3,1,8477507,,Nikita Zadorov Misconduct
+205,penalty,Roughing,Dryden Hunt,Nikita Zadorov,[-42.  35.],3,08:07,FLA,COL,COL,21,FLA,13,3,1,8478211,8477507.0,Dryden Hunt Roughing against Nikita Zadorov
+206,penalty,Roughing,Nikita Zadorov,Dryden Hunt,[-41.  33.],3,08:07,COL,FLA,COL,21,FLA,13,3,1,8477507,8478211.0,Nikita Zadorov Roughing against Dryden Hunt
+207,penalty,Misconduct,Dryden Hunt,,[-37.  33.],3,08:07,FLA,COL,COL,21,FLA,13,3,1,8478211,,Dryden Hunt Misconduct
+5,penalty,Hi-sticking,Tyler Bertuzzi,Noel Acciari,[21. 41.],1,18:58,DET,FLA,FLA,13,DET,17,0,0,8477479,8478569.0,Tyler Bertuzzi Hi-sticking against Noel Acciari
+70,penalty,Hooking,Valtteri Filppula,Colton Sceviour,[-67. -18.],1,03:18,DET,FLA,FLA,13,DET,17,1,0,8470047,8474098.0,Valtteri Filppula Hooking against Colton Sceviour
+76,penalty,Tripping,MacKenzie Weegar,Tyler Bertuzzi,[ 15. -18.],1,03:02,FLA,DET,FLA,13,DET,17,2,0,8477346,8477479.0,MacKenzie Weegar Tripping against Tyler Bertuzzi
+114,penalty,Slashing,Brett Connolly,Brendan Perlini,[-71. -23.],2,12:13,FLA,DET,FLA,13,DET,17,3,0,8475792,8477943.0,Brett Connolly Slashing against Brendan Perlini
+194,penalty,Hi-sticking,Aaron Ekblad,Anthony Mantha,[72. 39.],3,12:34,FLA,DET,FLA,13,DET,17,3,0,8477932,8477511.0,Aaron Ekblad Hi-sticking against Anthony Mantha
+14,penalty,Interference,Aleksander Barkov,Travis Boyd,[ 85. -18.],1,17:38,FLA,WSH,FLA,13,WSH,15,1,1,8477493,8476329.0,Aleksander Barkov Interference against Travis Boyd
+102,penalty,Slashing,Brian Boyle,Radko Gudas,[ 27. -17.],2,14:22,FLA,WSH,FLA,13,WSH,15,3,1,8470619,8475462.0,Brian Boyle Slashing against Radko Gudas
+111,penalty,Hi-sticking,Tom Wilson,Aleksander Barkov,[ 36. -41.],2,12:57,WSH,FLA,FLA,13,WSH,15,3,2,8476880,8477493.0,Tom Wilson Hi-sticking against Aleksander Barkov
+122,penalty,Slashing,Garnet Hathaway,Jonathan Huberdeau,[55.  0.],2,11:01,WSH,FLA,FLA,13,WSH,15,3,2,8477903,8476456.0,Garnet Hathaway Slashing against Jonathan Huberdeau
+145,penalty,Slashing,Keith Yandle,Garnet Hathaway,[-66.  -3.],2,05:47,FLA,WSH,FLA,13,WSH,15,3,3,8471735,8477903.0,Keith Yandle Slashing against Garnet Hathaway
+154,penalty,Hooking,Dmitry Orlov,Jonathan Huberdeau,[85.  7.],2,03:18,WSH,FLA,FLA,13,WSH,15,3,3,8475200,8476456.0,Dmitry Orlov Hooking against Jonathan Huberdeau
+162,penalty,Tripping,Lars Eller,Frank Vatrano,[-20. -13.],2,01:23,WSH,FLA,FLA,13,WSH,15,3,3,8474189,8478366.0,Lars Eller Tripping against Frank Vatrano
+204,penalty,Tripping,Dryden Hunt,Radko Gudas,[-51. -40.],3,14:00,FLA,WSH,FLA,13,WSH,15,4,4,8478211,8475462.0,Dryden Hunt Tripping against Radko Gudas
+219,penalty,Tripping,Michal Kempny,Aleksander Barkov,[-89.   6.],3,11:01,WSH,FLA,FLA,13,WSH,15,4,4,8479482,8477493.0,Michal Kempny Tripping against Aleksander Barkov
+14,penalty,Interference,Evgenii Dadonov,Josh Bailey,[-96.  -8.],1,16:23,FLA,NYI,NYI,2,FLA,13,0,0,8474149,8474573.0,Evgenii Dadonov Interference against Josh Bailey
+86,penalty,Hooking,Devon Toews,Jonathan Huberdeau,[-75.  -1.],1,01:49,NYI,FLA,NYI,2,FLA,13,1,0,8478038,8476456.0,Devon Toews Hooking against Jonathan Huberdeau
+123,penalty,Slashing,Jordan Eberle,Aaron Ekblad,[58. 39.],2,13:54,NYI,FLA,NYI,2,FLA,13,1,0,8474586,8477932.0,Jordan Eberle Slashing against Aaron Ekblad
+132,penalty,Delaying Game - Puck over glass,Aaron Ekblad,Anthony Beauvillier,[-45.  26.],2,11:50,FLA,NYI,NYI,2,FLA,13,1,0,8477932,8478463.0,Aaron Ekblad Delaying Game - Puck over glass against Anthony Beauvillier
+174,penalty,Holding,Mark Pysyk,Michael Dal Colle,[-5.  0.],2,02:59,FLA,NYI,NYI,2,FLA,13,1,0,8475796,8477936.0,Mark Pysyk Holding against Michael Dal Colle
+215,penalty,Tripping,Johnny Boychuk,Mike Hoffman,[-79.  -6.],3,15:16,NYI,FLA,NYI,2,FLA,13,1,0,8470187,8474884.0,Johnny Boychuk Tripping against Mike Hoffman
+259,penalty,Tripping,Anders Lee,Vincent Trocheck,[ 18. -39.],3,05:33,NYI,FLA,NYI,2,FLA,13,2,1,8475314,8476389.0,Anders Lee Tripping against Vincent Trocheck
+35,penalty,Tripping,Ryan Strome,Mike Matheson,[-70.  32.],1,11:51,NYR,FLA,NYR,3,FLA,13,1,0,8476458,8476875.0,Ryan Strome Tripping against Mike Matheson
+114,penalty,Hooking,Ryan Strome,Aaron Ekblad,[75. 35.],2,16:14,NYR,FLA,NYR,3,FLA,13,2,2,8476458,8477932.0,Ryan Strome Hooking against Aaron Ekblad
+128,penalty,Fighting,Dominic Toninato,Greg McKegg,[95. 18.],2,14:07,FLA,NYR,NYR,3,FLA,13,3,3,8476952,8475735.0,Dominic Toninato Fighting against Greg McKegg
+129,penalty,Fighting,Greg McKegg,Dominic Toninato,[96. 19.],2,14:07,NYR,FLA,NYR,3,FLA,13,3,3,8475735,8476952.0,Greg McKegg Fighting against Dominic Toninato
+130,penalty,Roughing,Dominic Toninato,Dryden Hunt,[96. 18.],2,14:07,FLA,NYR,NYR,3,FLA,13,3,3,8476952,8478211.0,Dominic Toninato Roughing against Greg McKegg served by Dryden Hunt
+155,penalty,Tripping,Mike Matheson,Pavel Buchnevich,[ 31. -37.],2,07:54,FLA,NYR,NYR,3,FLA,13,4,4,8476875,8477402.0,Mike Matheson Tripping against Pavel Buchnevich
+174,penalty,Hooking,Brett Connolly,Artemi Panarin,[25. 13.],2,03:07,FLA,NYR,NYR,3,FLA,13,4,4,8475792,8478550.0,Brett Connolly Hooking against Artemi Panarin
+188,penalty,Unsportsmanlike conduct,Brian Boyle,,[-21.  40.],2,00:00,FLA,NYR,NYR,3,FLA,13,5,4,8470619,,Brian Boyle Unsportsmanlike conduct
+254,penalty,Hi-sticking,Brendan Smith,Josh Brown,[-69.  14.],3,06:58,NYR,FLA,NYR,3,FLA,13,5,5,8474090,8477384.0,Brendan Smith Hi-sticking against Josh Brown
+85,penalty,Hi-sticking,Charlie McAvoy,Aleksander Barkov,[-93. -12.],1,00:13,BOS,FLA,BOS,6,FLA,13,0,0,8479325,8477493.0,Charlie McAvoy Hi-sticking against Aleksander Barkov
+104,penalty,Holding,Patrice Bergeron,Aleksander Barkov,[ 44. -12.],2,15:39,BOS,FLA,BOS,6,FLA,13,0,0,8470638,8477493.0,Patrice Bergeron Holding against Aleksander Barkov
+140,penalty,Holding,Dryden Hunt,Danton Heinen,[-21.  28.],2,04:27,FLA,BOS,BOS,6,FLA,13,2,0,8478211,8478046.0,Dryden Hunt Holding against Danton Heinen
+164,penalty,Elbowing,Vincent Trocheck,David Pastrnak,[ 67. -30.],3,18:52,FLA,BOS,BOS,6,FLA,13,4,1,8476389,8477956.0,Vincent Trocheck Elbowing against David Pastrnak
+165,penalty,Roughing,Brad Marchand,Vincent Trocheck,[  6. -30.],3,18:52,BOS,FLA,BOS,6,FLA,13,4,1,8473419,8476389.0,Brad Marchand Roughing against Vincent Trocheck
+166,penalty,Roughing,Brad Marchand,Vincent Trocheck,[ 32. -29.],3,18:52,BOS,FLA,BOS,6,FLA,13,4,1,8473419,8476389.0,Brad Marchand Roughing against Vincent Trocheck
+168,penalty,Roughing,Vincent Trocheck,Brad Marchand,[ 38. -34.],3,18:52,FLA,BOS,BOS,6,FLA,13,4,1,8476389,8473419.0,Vincent Trocheck Roughing against Brad Marchand
+176,penalty,Slashing,Chris Wagner,Josh Brown,[64.  6.],3,16:11,BOS,FLA,BOS,6,FLA,13,4,1,8475780,8477384.0,Chris Wagner Slashing against Josh Brown
+191,penalty,Hooking,Sean Kuraly,Dryden Hunt,[-71.  31.],3,11:28,BOS,FLA,BOS,6,FLA,13,4,2,8476374,8478211.0,Sean Kuraly Hooking against Dryden Hunt
+216,penalty,Tripping,Noel Acciari,Sean Kuraly,[97.  4.],3,06:28,FLA,BOS,BOS,6,FLA,13,4,3,8478569,8476374.0,Noel Acciari Tripping against Sean Kuraly
+22,penalty,Hi-sticking,Mark Scheifele,Noel Acciari,[67. 23.],1,15:45,WPG,FLA,FLA,13,WPG,52,0,0,8476460,8478569.0,Mark Scheifele Hi-sticking against Noel Acciari
+141,penalty,Tripping,Dmitry Kulikov,Jonathan Huberdeau,[78.  1.],2,05:52,WPG,FLA,FLA,13,WPG,52,0,1,8475179,8476456.0,Dmitry Kulikov Tripping against Jonathan Huberdeau
+175,penalty,Tripping,Jack Roslovic,Mike Matheson,[38. 21.],3,18:15,WPG,FLA,FLA,13,WPG,52,1,1,8478458,8476875.0,Jack Roslovic Tripping against Mike Matheson
+6,penalty,Hooking,Pavel Buchnevich,Jonathan Huberdeau,[52. 41.],1,18:59,NYR,FLA,FLA,13,NYR,3,0,0,8477402,8476456.0,Pavel Buchnevich Hooking against Jonathan Huberdeau
+30,penalty,Slashing,Micheal Haley,Vincent Trocheck,[ 16. -41.],1,13:42,NYR,FLA,FLA,13,NYR,3,1,1,8474230,8476389.0,Micheal Haley Slashing against Vincent Trocheck
+96,penalty,Hooking,Aleksander Barkov,Artemi Panarin,[-10.  38.],2,19:01,FLA,NYR,FLA,13,NYR,3,2,2,8477493,8478550.0,Aleksander Barkov Hooking against Artemi Panarin
+209,penalty,Cross checking,Ryan Lindgren,Jonathan Huberdeau,[-78.  -2.],3,11:34,NYR,FLA,FLA,13,NYR,3,4,3,8479324,8476456.0,Ryan Lindgren Cross checking against Jonathan Huberdeau
+211,penalty,Holding,Mike Hoffman,Jesper Fast,[16. -1.],3,11:02,FLA,NYR,FLA,13,NYR,3,4,3,8474884,8475855.0,Mike Hoffman Holding against Jesper Fast
+229,penalty,Too many men on the ice,Dryden Hunt,,[15. 41.],3,04:29,FLA,NYR,FLA,13,NYR,3,4,3,8478211,,Too many men/ice served by Dryden Hunt
+249,penalty,Hooking,Adam Fox,Evgenii Dadonov,[ 24. -22.],3,00:00,NYR,FLA,FLA,13,NYR,3,4,3,8479323,8474149.0,Adam Fox Hooking against Evgenii Dadonov
+82,penalty,Tripping,Vincent Trocheck,Claude Giroux,[ 39. -20.],1,00:36,FLA,PHI,FLA,13,PHI,4,2,1,8476389,8473512.0,Vincent Trocheck Tripping against Claude Giroux
+130,penalty,Hi-sticking,Shayne Gostisbehere,Mike Hoffman,[71.  6.],2,08:25,PHI,FLA,FLA,13,PHI,4,4,1,8476906,8474884.0,Shayne Gostisbehere Hi-sticking against Mike Hoffman
+154,penalty,Cross checking,Philippe Myers,Jonathan Huberdeau,[97.  1.],2,03:04,PHI,FLA,FLA,13,PHI,4,4,2,8479026,8476456.0,Philippe Myers Cross checking against Jonathan Huberdeau
+155,penalty,Cross checking,Jonathan Huberdeau,Philippe Myers,[97.  1.],2,03:04,FLA,PHI,FLA,13,PHI,4,4,2,8476456,8479026.0,Jonathan Huberdeau Cross checking against Philippe Myers
+156,penalty,Hi stick - double minor,Philippe Myers,James van Riemsdyk,[99. -1.],2,03:04,PHI,FLA,FLA,13,PHI,4,4,2,8479026,8474037.0,Philippe Myers Hi stick - double minor against Jonathan Huberdeau served by James van Riemsdyk
+187,penalty,Hi-sticking,Mike Hoffman,Ivan Provorov,[-81.  37.],3,13:02,FLA,PHI,FLA,13,PHI,4,4,2,8474884,8478500.0,Mike Hoffman Hi-sticking against Ivan Provorov
+112,penalty,Tripping,Carter Rowney,Aaron Ekblad,[ 40. -16.],2,15:10,ANA,FLA,FLA,13,ANA,24,0,1,8477240,8477932.0,Carter Rowney Tripping against Aaron Ekblad
+154,penalty,Tripping,Denis Malgin,Sam Steel,[-85. -29.],2,04:23,FLA,ANA,FLA,13,ANA,24,0,2,8478843,8479351.0,Denis Malgin Tripping against Sam Steel
+21,penalty,Hi-sticking,Ryan Dzingel,Josh Brown,[-90.  10.],1,13:59,CAR,FLA,CAR,12,FLA,13,0,0,8476288,8477384.0,Ryan Dzingel Hi-sticking against Josh Brown
+78,penalty,Tripping,Brett Pesce,Frank Vatrano,[65.  3.],1,00:21,CAR,FLA,CAR,12,FLA,13,2,2,8477488,8478366.0,Brett Pesce Tripping against Frank Vatrano
+220,penalty,Tripping,Brian Boyle,Joel Edmundson,[ 97. -19.],3,07:12,FLA,CAR,CAR,12,FLA,13,3,2,8470619,8476441.0,Brian Boyle Tripping against Joel Edmundson
+229,penalty,Too many men on the ice,Evgenii Dadonov,,[-6. 37.],3,05:00,FLA,CAR,CAR,12,FLA,13,3,2,8474149,,Too many men/ice served by Evgenii Dadonov
+35,penalty,Hooking,Aleksander Barkov,Conor Sheary,[ 23. -38.],1,08:29,FLA,BUF,FLA,13,BUF,7,0,0,8477493,8477839.0,Aleksander Barkov Hooking against Conor Sheary
+95,penalty,Hooking,Jack Eichel,Dominic Toninato,[-28. -36.],2,12:51,BUF,FLA,FLA,13,BUF,7,0,3,8478403,8476952.0,Jack Eichel Hooking against Dominic Toninato
+136,penalty,Slashing,Rasmus Dahlin,Mike Hoffman,[76.  1.],2,04:34,BUF,FLA,FLA,13,BUF,7,1,4,8480839,8474884.0,Rasmus Dahlin Slashing against Mike Hoffman
+155,penalty,Tripping,Henri Jokiharju,Dominic Toninato,[-23. -36.],3,17:46,BUF,FLA,FLA,13,BUF,7,1,4,8480035,8476952.0,Henri Jokiharju Tripping against Dominic Toninato
+214,penalty,Interference,Rasmus Ristolainen,Noel Acciari,[-96.   9.],3,05:55,BUF,FLA,FLA,13,BUF,7,2,5,8477499,8478569.0,Rasmus Ristolainen Interference against Noel Acciari
+222,penalty,Holding,Aleksander Barkov,Jack Eichel,[-10. -21.],3,02:39,FLA,BUF,FLA,13,BUF,7,2,5,8477493,8478403.0,Aleksander Barkov Holding against Jack Eichel
+21,penalty,Holding,Radko Gudas,Denis Malgin,[ 74. -25.],1,14:57,WSH,FLA,WSH,15,FLA,13,0,0,8475462,8478843.0,Radko Gudas Holding against Denis Malgin
+32,penalty,Delaying Game - Puck over glass,John Carlson,,[73. 35.],1,12:25,WSH,FLA,WSH,15,FLA,13,0,0,8474590,,John Carlson Delaying Game - Puck over glass
+76,penalty,Tripping,Jonathan Huberdeau,Jakub Vrana,[ 18. -17.],2,19:36,FLA,WSH,WSH,15,FLA,13,1,0,8476456,8477944.0,Jonathan Huberdeau Tripping against Jakub Vrana
+127,penalty,Interference,Evgeny Kuznetsov,Frank Vatrano,[25. 38.],2,06:16,WSH,FLA,WSH,15,FLA,13,1,1,8475744,8478366.0,Evgeny Kuznetsov Interference against Frank Vatrano
+208,penalty,Hooking,Aleksander Barkov,Evgeny Kuznetsov,[-63.  13.],3,07:24,FLA,WSH,WSH,15,FLA,13,4,2,8477493,8475744.0,Aleksander Barkov Hooking against Evgeny Kuznetsov
+209,penalty,Embellishment,Evgeny Kuznetsov,Aleksander Barkov,[-66.  20.],3,07:24,WSH,FLA,WSH,15,FLA,13,4,2,8475744,8477493.0,Evgeny Kuznetsov Embellishment against Aleksander Barkov
+233,penalty,Interference,Keith Yandle,Lars Eller,[31. 38.],3,00:49,FLA,WSH,WSH,15,FLA,13,4,3,8471735,8474189.0,Keith Yandle Interference against Lars Eller
+36,penalty,Tripping,Daniel Carr,Evgenii Dadonov,[-94.  25.],1,12:02,NSH,FLA,FLA,13,NSH,18,0,0,8477901,8474149.0,Daniel Carr Tripping against Evgenii Dadonov
+43,penalty,Slashing,Vincent Trocheck,Mikael Granlund,[ 8. 39.],1,09:48,FLA,NSH,FLA,13,NSH,18,0,0,8476389,8475798.0,Vincent Trocheck Slashing against Mikael Granlund
+71,penalty,Slashing,Dan Hamhuis,Frank Vatrano,[68. 35.],1,02:53,NSH,FLA,FLA,13,NSH,18,0,0,8469465,8478366.0,Dan Hamhuis Slashing against Frank Vatrano
+113,penalty,Delaying Game - Puck over glass,Dan Hamhuis,,[ 42. -40.],2,12:12,NSH,FLA,FLA,13,NSH,18,1,0,8469465,,Dan Hamhuis Delaying Game - Puck over glass
+130,penalty,Slashing,Anton Stralman,Matt Duchene,[-95.  15.],2,08:25,FLA,NSH,FLA,13,NSH,18,1,0,8471873,8475168.0,Anton Stralman Slashing against Matt Duchene
+139,penalty,Delaying Game - Puck over glass,MacKenzie Weegar,,[-50. -35.],2,06:58,FLA,NSH,FLA,13,NSH,18,1,0,8477346,,MacKenzie Weegar Delaying Game - Puck over glass
+168,penalty,Slashing,Jonathan Huberdeau,Mattias Ekholm,[-72.  37.],2,01:02,FLA,NSH,FLA,13,NSH,18,1,0,8476456,8475218.0,Jonathan Huberdeau Slashing against Mattias Ekholm
+170,penalty,Interference,Ryan Johansen,Noel Acciari,[-69.  23.],2,01:00,NSH,FLA,FLA,13,NSH,18,1,0,8475793,8478569.0,Ryan Johansen Interference against Noel Acciari
+20,penalty,Hooking,Mikko Koivu,Brett Connolly,[-30.  17.],1,15:13,MIN,FLA,FLA,13,MIN,30,0,0,8469459,8475792.0,Mikko Koivu Hooking against Brett Connolly
+32,penalty,Delaying Game - Puck over glass,Jordan Greenway,,[-48.  42.],1,11:57,MIN,FLA,FLA,13,MIN,30,0,0,8478413,,Jordan Greenway Delaying Game - Puck over glass
+48,penalty,Tripping,Frank Vatrano,Kevin Fiala,[-59. -15.],1,07:57,FLA,MIN,FLA,13,MIN,30,1,0,8478366,8477942.0,Frank Vatrano Tripping against Kevin Fiala
+125,penalty,Tripping,Marcus Foligno,Mike Matheson,[-99.  17.],2,09:31,MIN,FLA,FLA,13,MIN,30,2,1,8475220,8476875.0,Marcus Foligno Tripping against Mike Matheson
+34,penalty,Holding,Eric Robinson,Brett Connolly,[-19.  30.],1,11:08,CBJ,FLA,FLA,13,CBJ,29,1,0,8480762,8475792.0,Eric Robinson Holding against Brett Connolly
+40,penalty,Holding,Brian Boyle,Ryan Murray,[-90. -29.],1,09:11,FLA,CBJ,FLA,13,CBJ,29,1,0,8470619,8476850.0,Brian Boyle Holding against Ryan Murray
+59,penalty,Fighting,Josh Brown,Nick Foligno,[70. -2.],1,05:04,FLA,CBJ,FLA,13,CBJ,29,1,0,8477384,8473422.0,Josh Brown Fighting against Nick Foligno
+60,penalty,Fighting,Nick Foligno,Josh Brown,[70. -1.],1,05:04,CBJ,FLA,FLA,13,CBJ,29,1,0,8473422,8477384.0,Nick Foligno Fighting against Josh Brown
+87,penalty,Holding,Alexandre Texier,Aleksander Barkov,[ 41. -35.],2,18:38,CBJ,FLA,FLA,13,CBJ,29,1,0,8480074,8477493.0,Alexandre Texier Holding against Aleksander Barkov
+139,penalty,Roughing,Pierre-Luc Dubois,MacKenzie Weegar,[-77. -30.],2,06:38,CBJ,FLA,FLA,13,CBJ,29,2,0,8479400,8477346.0,Pierre-Luc Dubois Roughing against MacKenzie Weegar
+161,penalty,Slashing,Frank Vatrano,Seth Jones,[97.  0.],2,00:36,FLA,CBJ,FLA,13,CBJ,29,2,0,8478366,8477495.0,Frank Vatrano Slashing against Seth Jones
+187,penalty,Tripping,Dean Kukan,Dominic Toninato,[-59. -33.],3,14:02,CBJ,FLA,FLA,13,CBJ,29,2,0,8478567,8476952.0,Dean Kukan Tripping against Dominic Toninato
+209,penalty,Holding,Aaron Ekblad,Boone Jenner,[94. 25.],3,08:41,FLA,CBJ,FLA,13,CBJ,29,3,1,8477932,8476432.0,Aaron Ekblad Holding against Boone Jenner
+13,penalty,Hooking,Kevin Labanc,Frank Vatrano,[-44. -14.],1,15:56,SJS,FLA,FLA,13,SJS,28,0,0,8478099,8478366.0,Kevin Labanc Hooking against Frank Vatrano
+35,penalty,Interference,Aaron Ekblad,Timo Meier,[46. -4.],1,10:03,FLA,SJS,FLA,13,SJS,28,2,0,8477932,8478414.0,Aaron Ekblad Interference against Timo Meier
+90,penalty,Fighting,MacKenzie Weegar,Evander Kane,[-76.  -3.],2,15:44,FLA,SJS,FLA,13,SJS,28,2,1,8477346,8475169.0,MacKenzie Weegar Fighting against Evander Kane
+91,penalty,Fighting,Evander Kane,MacKenzie Weegar,[-69.  -6.],2,15:44,SJS,FLA,FLA,13,SJS,28,2,1,8475169,8477346.0,Evander Kane Fighting against MacKenzie Weegar
+92,penalty,Instigator,Evander Kane,Noah Gregor,[-81.  -1.],2,15:44,SJS,FLA,FLA,13,SJS,28,2,1,8475169,8479393.0,Evander Kane Instigator against MacKenzie Weegar served by Noah Gregor
+93,penalty,Instigator - Misconduct,Evander Kane,,[-77.   1.],2,15:44,SJS,FLA,FLA,13,SJS,28,2,1,8475169,,Evander Kane Instigator - Misconduct
+150,penalty,Interference,Mike Hoffman,Logan Couture,[  4. -33.],2,01:08,FLA,SJS,FLA,13,SJS,28,3,1,8474884,8474053.0,Mike Hoffman Interference against Logan Couture
+163,penalty,Delaying Game - Puck over glass,Aaron Ekblad,,[ 81. -18.],3,19:26,FLA,SJS,FLA,13,SJS,28,3,1,8477932,,Aaron Ekblad Delaying Game - Puck over glass
+192,penalty,Hi-sticking,Brenden Dillon,Jonathan Huberdeau,[-67.   5.],3,09:48,SJS,FLA,FLA,13,SJS,28,3,1,8475455,8476456.0,Brenden Dillon Hi-sticking against Jonathan Huberdeau
+193,penalty,Slashing,Brenden Dillon,Jonathan Huberdeau,[-67.  -1.],3,09:48,SJS,FLA,FLA,13,SJS,28,3,1,8475455,8476456.0,Brenden Dillon Slashing against Jonathan Huberdeau
+15,penalty,Hi-sticking,Mathieu Joseph,Josh Brown,[92. 23.],1,16:52,TBL,FLA,FLA,13,TBL,14,0,0,8478472,8477384.0,Mathieu Joseph Hi-sticking against Josh Brown
+64,penalty,Interference,Kevin Shattenkirk,Mike Hoffman,[  7. -33.],1,06:42,TBL,FLA,FLA,13,TBL,14,0,1,8474031,8474884.0,Kevin Shattenkirk Interference against Mike Hoffman
+165,penalty,Interference - Goalkeeper,Ondrej Palat,Sergei Bobrovsky,[-83.   0.],2,08:18,TBL,FLA,FLA,13,TBL,14,0,2,8476292,8475683.0,Ondrej Palat Interference - Goalkeeper against Sergei Bobrovsky
+182,penalty,Holding,Jonathan Huberdeau,Anthony Cirelli,[-95.  17.],2,06:21,FLA,TBL,FLA,13,TBL,14,0,2,8476456,8478519.0,Jonathan Huberdeau Holding against Anthony Cirelli
+223,penalty,Tripping,Keith Yandle,Nikita Kucherov,[ 67. -18.],3,17:21,FLA,TBL,FLA,13,TBL,14,0,2,8471735,8476453.0,Keith Yandle Tripping against Nikita Kucherov
+59,penalty,Roughing,Johnny Boychuk,Frank Vatrano,[-70. -39.],1,04:45,NYI,FLA,FLA,13,NYI,2,0,0,8470187,8478366.0,Johnny Boychuk Roughing against Frank Vatrano
+78,penalty,Tripping,Frank Vatrano,Devon Toews,[-41.  41.],1,00:18,FLA,NYI,FLA,13,NYI,2,0,0,8478366,8478038.0,Frank Vatrano Tripping against Devon Toews
+96,penalty,Holding,Vincent Trocheck,Anthony Beauvillier,[-42. -37.],2,15:53,FLA,NYI,FLA,13,NYI,2,0,1,8476389,8478463.0,Vincent Trocheck Holding against Anthony Beauvillier
+132,penalty,Fighting,Brian Boyle,Anders Lee,[-93.  22.],2,08:58,FLA,NYI,FLA,13,NYI,2,1,2,8470619,8475314.0,Brian Boyle Fighting against Anders Lee
+133,penalty,Fighting,Anders Lee,Brian Boyle,[-94.  19.],2,08:58,NYI,FLA,FLA,13,NYI,2,1,2,8475314,8470619.0,Anders Lee Fighting against Brian Boyle
+134,penalty,Instigator,Anders Lee,Michael Dal Colle,[-84.  18.],2,08:58,NYI,FLA,FLA,13,NYI,2,1,2,8475314,8477936.0,Anders Lee Instigator against Brian Boyle served by Michael Dal Colle
+135,penalty,Misconduct,Anders Lee,Brian Boyle,[-95.  24.],2,08:58,NYI,FLA,FLA,13,NYI,2,1,2,8475314,8470619.0,Anders Lee Misconduct against Brian Boyle
+145,penalty,Tripping,Vincent Trocheck,Mathew Barzal,[-93. -19.],2,05:35,FLA,NYI,FLA,13,NYI,2,1,2,8476389,8478445.0,Vincent Trocheck Tripping against Mathew Barzal
+191,penalty,Tripping,MacKenzie Weegar,Casey Cizikas,[98. -5.],3,14:51,FLA,NYI,FLA,13,NYI,2,1,2,8477346,8475231.0,MacKenzie Weegar Tripping against Casey Cizikas
+214,penalty,Tripping,Ryan Pulock,Frank Vatrano,[-92.  22.],3,09:54,NYI,FLA,FLA,13,NYI,2,1,2,8477506,8478366.0,Ryan Pulock Tripping against Frank Vatrano
+13,penalty,Hi-sticking,Anders Bjork,Anton Stralman,[95. 24.],1,17:50,BOS,FLA,FLA,13,BOS,6,0,0,8478075,8471873.0,Anders Bjork Hi-sticking against Anton Stralman
+63,penalty,Tripping,Mark Pysyk,Brad Marchand,[13. 36.],1,08:47,FLA,BOS,FLA,13,BOS,6,0,0,8475796,8473419.0,Mark Pysyk Tripping against Brad Marchand
+87,penalty,Interference,Matt Grzelcyk,Frank Vatrano,[-74. -36.],1,03:57,BOS,FLA,FLA,13,BOS,6,0,1,8476891,8478366.0,Matt Grzelcyk Interference against Frank Vatrano
+102,penalty,Tripping,Brett Connolly,John Moore,[-87. -32.],1,01:21,FLA,BOS,FLA,13,BOS,6,0,1,8475792,8475186.0,Brett Connolly Tripping against John Moore
+138,penalty,Delaying Game - Puck over glass,Vincent Trocheck,,[-41. -40.],2,13:10,FLA,BOS,FLA,13,BOS,6,0,2,8476389,,Vincent Trocheck Delaying Game - Puck over glass
+231,penalty,PS - Hooking on breakaway,Aaron Ekblad,David Pastrnak,[78.  1.],3,13:31,FLA,BOS,FLA,13,BOS,6,1,3,8477932,8477956.0,Aaron Ekblad PS - Hooking on breakaway against David Pastrnak
+289,penalty,Interference,Charlie McAvoy,Aleksander Barkov,[-82. -36.],3,01:23,BOS,FLA,FLA,13,BOS,6,2,4,8479325,8477493.0,Charlie McAvoy Interference against Aleksander Barkov
+23,penalty,Hi-sticking,Tyler Ennis,Vincent Trocheck,[-44.  42.],1,14:46,OTT,FLA,FLA,13,OTT,9,0,0,8474589,8476389.0,Tyler Ennis Hi-sticking against Vincent Trocheck
+118,penalty,Tripping,Tyler Ennis,Vincent Trocheck,[98. 15.],2,15:14,OTT,FLA,FLA,13,OTT,9,2,1,8474589,8476389.0,Tyler Ennis Tripping against Vincent Trocheck
+158,penalty,Delaying Game - Puck over glass,Thomas Chabot,,[45. 41.],2,07:49,OTT,FLA,FLA,13,OTT,9,4,1,8478469,,Thomas Chabot Delaying Game - Puck over glass
+183,penalty,Slashing,Aaron Ekblad,Vladislav Namestnikov,[-98. -15.],2,03:25,FLA,OTT,FLA,13,OTT,9,5,1,8477932,8476480.0,Aaron Ekblad Slashing against Vladislav Namestnikov
+184,penalty,Hi stick - double minor,Vladislav Namestnikov,Brady Tkachuk,[-31.   4.],2,03:25,OTT,FLA,FLA,13,OTT,9,5,1,8476480,8480801.0,Vladislav Namestnikov Hi stick - double minor against MacKenzie Weegar served by Brady Tkachuk
+189,penalty,Roughing,Noel Acciari,Mark Borowiecki,[ 24. -23.],2,01:46,FLA,OTT,FLA,13,OTT,9,5,1,8478569,8474697.0,Noel Acciari Roughing against Mark Borowiecki
+190,penalty,Roughing,Mark Borowiecki,Noel Acciari,[ 26. -30.],2,01:46,OTT,FLA,FLA,13,OTT,9,5,1,8474697,8478569.0,Mark Borowiecki Roughing against Noel Acciari
+205,penalty,Hi-sticking,Vincent Trocheck,Tyler Ennis,[-74.  39.],3,18:17,FLA,OTT,FLA,13,OTT,9,6,1,8476389,8474589.0,Vincent Trocheck Hi-sticking against Tyler Ennis
+213,penalty,Roughing,Brady Tkachuk,Anton Stralman,[96.  5.],3,17:12,OTT,FLA,FLA,13,OTT,9,6,1,8480801,8471873.0,Brady Tkachuk Roughing against Anton Stralman
+214,penalty,Roughing,Anton Stralman,Brady Tkachuk,[97. 13.],3,17:12,FLA,OTT,FLA,13,OTT,9,6,1,8471873,8480801.0,Anton Stralman Roughing against Brady Tkachuk
+227,penalty,Tripping,Erik Brannstrom,Frank Vatrano,[-71.  37.],3,14:23,OTT,FLA,FLA,13,OTT,9,6,1,8480073,8478366.0,Erik Brannstrom Tripping against Frank Vatrano
+18,penalty,Slashing,Jason Dickinson,Frank Vatrano,[-62.  -3.],1,15:59,DAL,FLA,FLA,13,DAL,25,0,0,8477450,8478366.0,Jason Dickinson Slashing against Frank Vatrano
+140,penalty,Interference,Brett Connolly,Roope Hintz,[-35. -40.],2,09:07,FLA,DAL,FLA,13,DAL,25,6,1,8475792,8478449.0,Brett Connolly Interference against Roope Hintz
+143,penalty,PS - Hooking on breakaway,John Klingberg,Noel Acciari,[64.  1.],2,08:35,DAL,FLA,FLA,13,DAL,25,6,1,8475906,8478569.0,John Klingberg PS - Hooking on breakaway against Noel Acciari
+162,penalty,Tripping,Keith Yandle,Tyler Seguin,[-91.  30.],2,04:36,FLA,DAL,FLA,13,DAL,25,7,1,8471735,8475794.0,Keith Yandle Tripping against Tyler Seguin
+176,penalty,Holding,Andrej Sekera,Evgenii Dadonov,[82.  2.],2,01:56,DAL,FLA,FLA,13,DAL,25,7,2,8471284,8474149.0,Andrej Sekera Holding against Evgenii Dadonov
+200,penalty,Cross checking,Corey Perry,Mike Hoffman,[-64. -29.],3,17:42,DAL,FLA,FLA,13,DAL,25,7,2,8470621,8474884.0,Corey Perry Cross checking against Mike Hoffman
+204,penalty,Tripping,Jonathan Huberdeau,Miro Heiskanen,[-71. -37.],3,17:33,FLA,DAL,FLA,13,DAL,25,7,2,8476456,8480036.0,Jonathan Huberdeau Tripping against Miro Heiskanen
+242,penalty,Tripping,Corey Perry,Aaron Ekblad,[96.  7.],3,09:25,DAL,FLA,FLA,13,DAL,25,7,3,8470621,8477932.0,Corey Perry Tripping against Aaron Ekblad
+94,penalty,Hi-sticking,Mark Pysyk,Jordan Martinook,[-58.  -2.],1,00:04,FLA,CAR,CAR,12,FLA,13,0,1,8475796,8476921.0,Mark Pysyk Hi-sticking against Jordan Martinook
+139,penalty,Hi-sticking,Andrei Svechnikov,Jonathan Huberdeau,[ 42. -38.],2,10:08,CAR,FLA,CAR,12,FLA,13,0,1,8480830,8476456.0,Andrei Svechnikov Hi-sticking against Jonathan Huberdeau
+158,penalty,Interference,Lucas Wallmark,Mark Pysyk,[61. 35.],2,04:12,CAR,FLA,CAR,12,FLA,13,0,2,8478027,8475796.0,Lucas Wallmark Interference against Mark Pysyk
+169,penalty,Hi-sticking,Andrei Svechnikov,Ryan Dzingel,[-95.   7.],2,00:30,CAR,FLA,CAR,12,FLA,13,0,2,8480830,8476288.0,Andrei Svechnikov Hi-sticking against Brett Connolly served by Ryan Dzingel
+170,penalty,Unsportsmanlike conduct,Josh Brown,Joel Edmundson,[-81. -18.],2,00:30,FLA,CAR,CAR,12,FLA,13,0,2,8477384,8476441.0,Josh Brown Unsportsmanlike conduct against Joel Edmundson
+171,penalty,Unsportsmanlike conduct,Joel Edmundson,Josh Brown,[-85. -32.],2,00:30,CAR,FLA,CAR,12,FLA,13,0,2,8476441,8477384.0,Joel Edmundson Unsportsmanlike conduct against Josh Brown
+172,penalty,Unsportsmanlike conduct,Andrei Svechnikov,Brett Connolly,[-74. -18.],2,00:30,CAR,FLA,CAR,12,FLA,13,0,2,8480830,8475792.0,Andrei Svechnikov Unsportsmanlike conduct against Brett Connolly
+173,penalty,Unsportsmanlike conduct,Brett Connolly,Andrei Svechnikov,[-75. -22.],2,00:30,FLA,CAR,CAR,12,FLA,13,0,2,8475792,8480830.0,Brett Connolly Unsportsmanlike conduct against Andrei Svechnikov
+182,penalty,Tripping,Dominic Toninato,Martin Necas,[-56. -21.],3,18:21,FLA,CAR,CAR,12,FLA,13,0,3,8476952,8480039.0,Dominic Toninato Tripping against Martin Necas
+220,penalty,Tripping,Brian Boyle,Lucas Wallmark,[-96. -18.],3,08:43,FLA,CAR,CAR,12,FLA,13,1,4,8470619,8478027.0,Brian Boyle Tripping against Lucas Wallmark
+37,penalty,Interference,Mike Hoffman,Yanni Gourde,[-41. -21.],1,11:14,FLA,TBL,TBL,14,FLA,13,1,0,8474884,8476826.0,Mike Hoffman Interference against Yanni Gourde
+74,penalty,Cross checking,Jonathan Huberdeau,Ryan McDonagh,[-79.  31.],1,03:28,FLA,TBL,TBL,14,FLA,13,2,0,8476456,8474151.0,Jonathan Huberdeau Cross checking against Ryan McDonagh
+93,penalty,Hi-sticking,Alex Killorn,Vincent Trocheck,[-48.  37.],1,00:13,TBL,FLA,TBL,14,FLA,13,3,0,8473986,8476389.0,Alex Killorn Hi-sticking against Vincent Trocheck
+98,penalty,Too many men on the ice,Pat Maroon,,[-10.  22.],2,18:35,TBL,FLA,TBL,14,FLA,13,3,0,8474034,,Too many men/ice served by Pat Maroon
+121,penalty,Tripping,Anton Stralman,Cedric Paquette,[-90. -12.],2,14:17,FLA,TBL,TBL,14,FLA,13,3,1,8471873,8476975.0,Anton Stralman Tripping against Cedric Paquette
+128,penalty,Abuse of Officials,Pat Maroon,,[-14.  35.],2,13:10,TBL,FLA,TBL,14,FLA,13,4,1,8474034,,Abuse of officials served by Pat Maroon
+139,penalty,Slashing,Colton Sceviour,Ondrej Palat,[-36.  22.],2,10:28,FLA,TBL,TBL,14,FLA,13,4,1,8474098,8476292.0,Colton Sceviour Slashing against Ondrej Palat
+161,penalty,Holding the stick,Brayden Point,Aleksander Barkov,[70. 23.],2,04:27,TBL,FLA,TBL,14,FLA,13,5,1,8478010,8477493.0,Brayden Point Holding the stick against Aleksander Barkov
+9,penalty,Interference,Justin Abdelkader,Anton Stralman,[24. 38.],1,17:45,DET,FLA,FLA,13,DET,17,0,0,8471716,8471873.0,Justin Abdelkader Interference against Anton Stralman
+68,penalty,Delaying Game - Puck over glass,Mark Pysyk,,[ 56. -40.],1,07:21,FLA,DET,FLA,13,DET,17,1,2,8475796,,Mark Pysyk Delaying Game - Puck over glass
+106,penalty,Slashing,Dylan Larkin,Aleksander Barkov,[2. 3.],2,19:43,DET,FLA,FLA,13,DET,17,1,2,8477946,8477493.0,Dylan Larkin Slashing against Aleksander Barkov
+151,penalty,Tripping,Mike Green,Colton Sceviour,[2. 1.],2,10:34,DET,FLA,FLA,13,DET,17,4,3,8471242,8474098.0,Mike Green Tripping against Colton Sceviour
+254,penalty,Tripping,Keith Yandle,Robby Fabbri,[ 81. -17.],3,10:41,FLA,DET,FLA,13,DET,17,4,3,8471735,8477952.0,Keith Yandle Tripping against Robby Fabbri
+275,penalty,Roughing,Filip Hronek,Vincent Trocheck,[-80.  -6.],3,07:11,DET,FLA,FLA,13,DET,17,4,3,8479425,8476389.0,Filip Hronek Roughing against Vincent Trocheck
+276,penalty,Roughing,Vincent Trocheck,Filip Hronek,[-83.  -4.],3,07:11,FLA,DET,FLA,13,DET,17,4,3,8476389,8479425.0,Vincent Trocheck Roughing against Filip Hronek
+53,penalty,Holding,Nate Thompson,Mike Matheson,[ 31. -34.],1,09:42,MTL,FLA,FLA,13,MTL,8,2,0,8470775,8476875.0,Nate Thompson Holding against Mike Matheson
+61,penalty,Tripping,Aaron Ekblad,Nick Suzuki,[ 67. -18.],1,08:02,FLA,MTL,FLA,13,MTL,8,2,0,8477932,8480018.0,Aaron Ekblad Tripping against Nick Suzuki
+72,penalty,Hooking,Brendan Gallagher,Riley Stillman,[53.  1.],1,05:13,MTL,FLA,FLA,13,MTL,8,2,1,8475848,8479388.0,Brendan Gallagher Hooking against Riley Stillman
+85,penalty,Tripping,Jesperi Kotkaniemi,Mike Matheson,[87. 32.],1,01:44,MTL,FLA,FLA,13,MTL,8,2,1,8480829,8476875.0,Jesperi Kotkaniemi Tripping against Mike Matheson
+97,penalty,Too many men on the ice,Vincent Trocheck,,[ 6. 41.],2,19:23,FLA,MTL,FLA,13,MTL,8,2,1,8476389,,Too many men/ice served by Vincent Trocheck
+100,penalty,Hi-sticking,Brendan Gallagher,Noel Acciari,[-39.  39.],2,18:59,MTL,FLA,FLA,13,MTL,8,2,1,8475848,8478569.0,Brendan Gallagher Hi-sticking against Noel Acciari
+127,penalty,Holding,Frank Vatrano,Brendan Gallagher,[-77.  39.],2,13:48,FLA,MTL,FLA,13,MTL,8,3,3,8478366,8475848.0,Frank Vatrano Holding against Brendan Gallagher
+132,penalty,Tripping,Phillip Danault,Colton Sceviour,[-50. -14.],2,12:50,MTL,FLA,FLA,13,MTL,8,3,3,8476479,8474098.0,Phillip Danault Tripping against Colton Sceviour
+201,penalty,Tripping,Frank Vatrano,Ryan Poehling,[ 91. -21.],3,17:37,FLA,MTL,FLA,13,MTL,8,6,3,8478366,8480068.0,Frank Vatrano Tripping against Ryan Poehling
+22,penalty,Slashing,David Savard,Dominic Toninato,[ 43. -39.],1,13:48,CBJ,FLA,CBJ,29,FLA,13,1,0,8475233,8476952.0,David Savard Slashing against Dominic Toninato
+116,penalty,Interference,Josh Brown,Alexander Wennberg,[-53. -18.],2,12:01,FLA,CBJ,CBJ,29,FLA,13,1,1,8477384,8477505.0,Josh Brown Interference against Alexander Wennberg
+130,penalty,Tripping,Riley Nash,Vincent Trocheck,[ 2. 37.],2,08:49,CBJ,FLA,CBJ,29,FLA,13,1,1,8474062,8476389.0,Riley Nash Tripping against Vincent Trocheck
+142,penalty,Interference,Dominic Toninato,Nathan Gerbe,[-80.  -4.],2,05:21,FLA,CBJ,CBJ,29,FLA,13,1,1,8476952,8471804.0,Dominic Toninato Interference against Nathan Gerbe
+174,penalty,Missing key [PD_151],Mark Pysyk,,[81.  4.],3,15:47,FLA,CBJ,CBJ,29,FLA,13,3,1,8475796,,Delaying Game - Unsucc. chlg served by Mark Pysyk
+201,penalty,Holding,Mark Pysyk,Kevin Stenlund,[-44.   5.],3,06:41,FLA,CBJ,CBJ,29,FLA,13,4,1,8475796,8478831.0,Mark Pysyk Holding against Kevin Stenlund
+202,penalty,Holding,Kevin Stenlund,Mark Pysyk,[-46.   1.],3,06:41,CBJ,FLA,CBJ,29,FLA,13,4,1,8478831,8475796.0,Kevin Stenlund Holding against Mark Pysyk
+9,penalty,Slashing,Mark Borowiecki,Vincent Trocheck,[-80.  35.],1,18:50,OTT,FLA,OTT,9,FLA,13,0,0,8474697,8476389.0,Mark Borowiecki Slashing against Vincent Trocheck
+94,penalty,Tripping,Frank Vatrano,Thomas Chabot,[25. 37.],1,00:17,FLA,OTT,OTT,9,FLA,13,2,1,8478366,8478469.0,Frank Vatrano Tripping against Thomas Chabot
+118,penalty,Interference,Brady Tkachuk,Vincent Trocheck,[53.  5.],2,15:27,OTT,FLA,OTT,9,FLA,13,2,1,8480801,8476389.0,Brady Tkachuk Interference against Vincent Trocheck
+135,penalty,Hi-sticking,Mark Borowiecki,Aleksander Barkov,[92. -9.],2,11:37,OTT,FLA,OTT,9,FLA,13,2,1,8474697,8477493.0,Mark Borowiecki Hi-sticking against Aleksander Barkov
+172,penalty,Hooking,Evgenii Dadonov,Chris Tierney,[-79.  -6.],2,05:18,FLA,OTT,OTT,9,FLA,13,2,3,8474149,8476919.0,Evgenii Dadonov Hooking against Chris Tierney
+228,penalty,Holding,Riley Stillman,Connor Brown,[71.  1.],3,13:28,FLA,OTT,OTT,9,FLA,13,2,5,8479388,8477015.0,Riley Stillman Holding against Connor Brown
+29,penalty,Hi-sticking,Kyle Okposo,Mike Hoffman,[-11.   5.],1,09:26,BUF,FLA,BUF,7,FLA,13,0,0,8473449,8474884.0,Kyle Okposo Hi-sticking against Mike Hoffman
+47,penalty,Slashing,Conor Sheary,Mark Pysyk,[-67.   8.],1,05:42,BUF,FLA,BUF,7,FLA,13,1,0,8477839,8475796.0,Conor Sheary Slashing against Mark Pysyk
+71,penalty,Tripping,Colin Miller,Josh Brown,[-71. -35.],2,17:55,BUF,FLA,BUF,7,FLA,13,2,0,8476525,8477384.0,Colin Miller Tripping against Josh Brown
+77,penalty,Hooking,Anton Stralman,Jack Eichel,[-54. -35.],2,14:27,FLA,BUF,BUF,7,FLA,13,2,0,8471873,8478403.0,Anton Stralman Hooking against Jack Eichel
+89,penalty,Hooking,Kyle Okposo,Josh Brown,[78. -3.],2,09:55,BUF,FLA,BUF,7,FLA,13,3,0,8473449,8477384.0,Kyle Okposo Hooking against Josh Brown
+90,penalty,Hi stick - double minor,Josh Brown,Mike Hoffman,[79. -5.],2,09:55,FLA,BUF,BUF,7,FLA,13,3,0,8477384,8474884.0,Josh Brown Hi stick - double minor against Kyle Okposo served by Mike Hoffman
+107,penalty,Delaying Game - Puck over glass,Josh Brown,,[-33. -42.],2,03:17,FLA,BUF,BUF,7,FLA,13,3,0,8477384,,Josh Brown Delaying Game - Puck over glass
+59,penalty,Cross checking,Mike Matheson,Dominik Kahun,[  0. -30.],1,06:47,FLA,PIT,PIT,5,FLA,13,1,2,8476875,8480946.0,Mike Matheson Cross checking against Dominik Kahun
+78,penalty,Hi-sticking,Dominic Toninato,John Marino,[-64. -27.],1,01:58,FLA,PIT,PIT,5,FLA,13,1,2,8476952,8478507.0,Dominic Toninato Hi-sticking against John Marino
+82,penalty,Slashing,Jared McCann,Frank Vatrano,[ 7. 41.],1,00:51,PIT,FLA,PIT,5,FLA,13,1,2,8477955,8478366.0,Jared McCann Slashing against Frank Vatrano
+83,penalty,Interference,Frank Vatrano,Jared McCann,[-10.  40.],1,00:51,FLA,PIT,PIT,5,FLA,13,1,2,8478366,8477955.0,Frank Vatrano Interference against Jared McCann
+148,penalty,Delaying Game - Puck over glass,Jonathan Huberdeau,,[-49.  40.],2,04:46,FLA,PIT,PIT,5,FLA,13,1,2,8476456,,Jonathan Huberdeau Delaying Game - Puck over glass
+152,penalty,Slashing,Evgeni Malkin,Noel Acciari,[87.  7.],2,04:20,PIT,FLA,PIT,5,FLA,13,1,2,8471215,8478569.0,Evgeni Malkin Slashing against Noel Acciari
+243,penalty,Misconduct,Thomas Di Pauli,Dominic Toninato,[ 73. -39.],3,00:47,PIT,FLA,PIT,5,FLA,13,1,4,8476974,8476952.0,Thomas Di Pauli Misconduct against Dominic Toninato
+244,penalty,Misconduct,Dominic Toninato,Thomas Di Pauli,[ 82. -37.],3,00:47,FLA,PIT,PIT,5,FLA,13,1,4,8476952,8476974.0,Dominic Toninato Misconduct against Thomas Di Pauli
+88,penalty,Interference,Lawson Crouse,Aleksander Barkov,[43. 21.],1,03:31,ARI,FLA,FLA,13,ARI,53,0,0,8478474,8477493.0,Lawson Crouse Interference against Aleksander Barkov
+152,penalty,Tripping,Evgenii Dadonov,Vinnie Hinostroza,[-73. -24.],2,10:25,FLA,ARI,FLA,13,ARI,53,0,0,8474149,8476994.0,Evgenii Dadonov Tripping against Vinnie Hinostroza
+177,penalty,Roughing,Aleksander Barkov,Christian Fischer,[-94. -19.],2,06:11,FLA,ARI,FLA,13,ARI,53,2,2,8477493,8478432.0,Aleksander Barkov Roughing against Christian Fischer
+178,penalty,Roughing,Christian Fischer,Aleksander Barkov,[-94. -21.],2,06:11,ARI,FLA,FLA,13,ARI,53,2,2,8478432,8477493.0,Christian Fischer Roughing against Aleksander Barkov
+185,penalty,Tripping,Brett Connolly,Nick Schmaltz,[-70. -36.],2,04:55,FLA,ARI,FLA,13,ARI,53,2,2,8475792,8477951.0,Brett Connolly Tripping against Nick Schmaltz
+201,penalty,Hooking,Taylor Hall,Jayce Hawryluk,[-23.  40.],2,01:02,ARI,FLA,FLA,13,ARI,53,2,3,8475791,8477963.0,Taylor Hall Hooking against Jayce Hawryluk
+68,penalty,Slashing,J.T. Miller,Riley Stillman,[ 80. -36.],1,08:30,VAN,FLA,FLA,13,VAN,23,2,1,8476468,8479388.0,J.T. Miller Slashing against Riley Stillman
+71,penalty,Holding,Mike Hoffman,Alexander Edler,[-97.  12.],1,07:55,FLA,VAN,FLA,13,VAN,23,2,1,8474884,8471303.0,Mike Hoffman Holding against Alexander Edler
+97,penalty,Tripping,Jonathan Huberdeau,Tyler Motte,[-38.   5.],1,03:43,FLA,VAN,FLA,13,VAN,23,2,1,8476456,8477353.0,Jonathan Huberdeau Tripping against Tyler Motte
+123,penalty,Slashing,Antoine Roussel,Josh Brown,[-9. 36.],2,17:17,VAN,FLA,FLA,13,VAN,23,3,1,8474849,8477384.0,Antoine Roussel Slashing against Josh Brown
+156,penalty,Tripping,Quinn Hughes,Jonathan Huberdeau,[ 26. -21.],2,09:29,VAN,FLA,FLA,13,VAN,23,4,1,8480800,8476456.0,Quinn Hughes Tripping against Jonathan Huberdeau
+175,penalty,Roughing,Mark Pysyk,Troy Stecher,[73. 40.],2,06:12,FLA,VAN,FLA,13,VAN,23,4,1,8475796,8479442.0,Mark Pysyk Roughing against Troy Stecher
+188,penalty,Slashing,J.T. Miller,Colton Sceviour,[-33.   5.],2,02:55,VAN,FLA,FLA,13,VAN,23,4,1,8476468,8474098.0,J.T. Miller Slashing against Colton Sceviour
+275,penalty,Abuse of Officials,J.T. Miller,,[-20.  42.],3,03:45,VAN,FLA,FLA,13,VAN,23,5,2,8476468,,J.T. Miller Abuse of Officials
+82,penalty,Delaying Game - Puck over glass,Noel Acciari,,[ 41. -38.],1,03:54,FLA,TOR,FLA,13,TOR,10,3,0,8478569,,Noel Acciari Delaying Game - Puck over glass
+102,penalty,Holding,Mike Hoffman,Travis Dermott,[-55. -37.],2,18:31,FLA,TOR,FLA,13,TOR,10,4,0,8474884,8478408.0,Mike Hoffman Holding against Travis Dermott
+188,penalty,Tripping,Cody Ceci,Josh Brown,[62. 33.],3,17:54,TOR,FLA,FLA,13,TOR,10,7,4,8476879,8477384.0,Cody Ceci Tripping against Josh Brown
+197,penalty,Tripping,Justin Holl,Vincent Trocheck,[-69. -30.],3,15:50,TOR,FLA,FLA,13,TOR,10,7,4,8475718,8476389.0,Justin Holl Tripping against Vincent Trocheck
+243,penalty,PS - Hooking on breakaway,Cody Ceci,Frank Vatrano,[-80.  -6.],3,04:24,TOR,FLA,FLA,13,TOR,10,8,4,8476879,8478366.0,Cody Ceci PS - Hooking on breakaway against Frank Vatrano
+258,penalty,Holding,Brett Connolly,Alexander Kerfoot,[-82.  29.],3,01:20,FLA,TOR,FLA,13,TOR,10,8,4,8475792,8477021.0,Brett Connolly Holding against Alexander Kerfoot
+26,penalty,Holding,Austin Wagner,Josh Brown,[58. 25.],1,14:37,LAK,FLA,FLA,13,LAK,26,0,0,8478455,8477384.0,Austin Wagner Holding against Josh Brown
+79,penalty,Hooking,Dominic Toninato,Dustin Brown,[37. 37.],1,00:39,FLA,LAK,FLA,13,LAK,26,1,0,8476952,8470606.0,Dominic Toninato Hooking against Dustin Brown
+104,penalty,Delaying Game - Puck over glass,Brett Connolly,,[-30. -36.],2,15:08,FLA,LAK,FLA,13,LAK,26,2,0,8475792,,Brett Connolly Delaying Game - Puck over glass
+154,penalty,Slashing,Ben Hutton,Colton Sceviour,[ 82. -31.],2,00:29,LAK,FLA,FLA,13,LAK,26,2,0,8477018,8474098.0,Ben Hutton Slashing against Colton Sceviour
+170,penalty,Hi-sticking,Matt Roy,Jonathan Huberdeau,[-11. -38.],3,17:03,LAK,FLA,FLA,13,LAK,26,2,0,8478911,8476456.0,Matt Roy Hi-sticking against Jonathan Huberdeau
+210,penalty,Hooking,Brian Boyle,Michael Amadio,[ 36. -26.],3,05:50,FLA,LAK,FLA,13,LAK,26,4,1,8470619,8478020.0,Brian Boyle Hooking against Michael Amadio
+221,penalty,Holding,Josh Brown,Adrian Kempe,[ 63. -17.],3,03:52,FLA,LAK,FLA,13,LAK,26,4,2,8477384,8477960.0,Josh Brown Holding against Adrian Kempe
+5,penalty,Roughing,Brett Connolly,Tyler Bertuzzi,[-5. 41.],1,18:17,FLA,DET,DET,17,FLA,13,0,0,8475792,8477479.0,Brett Connolly Roughing against Tyler Bertuzzi
+17,penalty,Tripping,Mark Pysyk,Madison Bowey,[ 98. -11.],1,13:53,FLA,DET,DET,17,FLA,13,0,0,8475796,8477474.0,Mark Pysyk Tripping against Madison Bowey
+29,penalty,Hi stick - double minor,Patrik Nemeth,Aaron Ekblad,[-65. -40.],1,11:24,DET,FLA,DET,17,FLA,13,0,0,8475747,8477932.0,Patrik Nemeth Hi stick - double minor against Aaron Ekblad
+53,penalty,Fighting,Vincent Trocheck,Filip Hronek,[-33. -33.],1,06:13,FLA,DET,DET,17,FLA,13,0,0,8476389,8479425.0,Vincent Trocheck Fighting against Filip Hronek
+54,penalty,Instigator,Filip Hronek,Robby Fabbri,[-36. -31.],1,06:13,DET,FLA,DET,17,FLA,13,0,0,8479425,8477952.0,Filip Hronek Instigator against Vincent Trocheck served by Robby Fabbri
+55,penalty,Fighting,Filip Hronek,Vincent Trocheck,[-41. -32.],1,06:13,DET,FLA,DET,17,FLA,13,0,0,8479425,8476389.0,Filip Hronek Fighting against Vincent Trocheck
+56,penalty,Instigator - Misconduct,Filip Hronek,Vincent Trocheck,[-42. -32.],1,06:13,DET,FLA,DET,17,FLA,13,0,0,8479425,8476389.0,Filip Hronek Instigator - Misconduct against Vincent Trocheck
+96,penalty,Slashing,Dylan Larkin,Mark Pysyk,[-78.  -1.],2,16:54,DET,FLA,DET,17,FLA,13,0,2,8477946,8475796.0,Dylan Larkin Slashing against Mark Pysyk
+112,penalty,Interference,Denis Malgin,Christoffer Ehn,[37. 34.],2,14:10,FLA,DET,DET,17,FLA,13,1,2,8478843,8478036.0,Denis Malgin Interference against Christoffer Ehn
+127,penalty,Tripping,Brett Connolly,Madison Bowey,[-91. -31.],2,11:52,FLA,DET,DET,17,FLA,13,1,2,8475792,8477474.0,Brett Connolly Tripping against Madison Bowey
+178,penalty,Interference,Vincent Trocheck,Filip Hronek,[-37.  32.],3,18:25,FLA,DET,DET,17,FLA,13,1,2,8476389,8479425.0,Vincent Trocheck Interference against Filip Hronek
+193,penalty,Hi-sticking,Denis Malgin,Robby Fabbri,[ 89. -12.],3,13:31,FLA,DET,DET,17,FLA,13,1,2,8478843,8477952.0,Denis Malgin Hi-sticking against Robby Fabbri
+196,penalty,Tripping,Dylan Larkin,Noel Acciari,[-39. -18.],3,13:10,DET,FLA,DET,17,FLA,13,1,2,8477946,8478569.0,Dylan Larkin Tripping against Noel Acciari
+224,penalty,Slashing,Alex Biega,Frank Vatrano,[32. 40.],3,07:10,DET,FLA,DET,17,FLA,13,1,2,8473415,8478366.0,Alex Biega Slashing against Frank Vatrano
+231,penalty,Unsportsmanlike conduct,Colton Sceviour,,[-9. 41.],3,06:15,FLA,DET,DET,17,FLA,13,1,3,8474098,,Colton Sceviour Unsportsmanlike conduct
+23,penalty,Holding,Josh Brown,Jordan Greenway,[-96. -10.],1,13:31,FLA,MIN,MIN,30,FLA,13,0,1,8477384,8478413.0,Josh Brown Holding against Jordan Greenway
+65,penalty,Delaying Game - Puck over glass,Anton Stralman,,[-63. -28.],1,00:36,FLA,MIN,MIN,30,FLA,13,0,1,8471873,,Anton Stralman Delaying Game - Puck over glass
+107,penalty,Tripping,Victor Rask,Noel Acciari,[82. 16.],2,10:26,MIN,FLA,MIN,30,FLA,13,1,2,8476437,8478569.0,Victor Rask Tripping against Noel Acciari
+149,penalty,Boarding,Kevin Fiala,Frank Vatrano,[-12.  41.],3,19:10,MIN,FLA,MIN,30,FLA,13,2,2,8477942,8478366.0,Kevin Fiala Boarding against Frank Vatrano
+158,penalty,Tripping,Mike Matheson,Kevin Fiala,[-72.  11.],3,15:49,FLA,MIN,MIN,30,FLA,13,2,3,8476875,8477942.0,Mike Matheson Tripping against Kevin Fiala
+186,penalty,Tripping,Frank Vatrano,Jason Zucker,[-20. -40.],3,07:23,FLA,MIN,MIN,30,FLA,13,4,3,8478366,8475722.0,Frank Vatrano Tripping against Jason Zucker
+52,penalty,Delaying Game - Puck over glass,Adam Boqvist,,[ 57. -38.],1,04:59,CHI,FLA,CHI,16,FLA,13,0,0,8480871,,Adam Boqvist Delaying Game - Puck over glass
+111,penalty,Tripping,Aaron Ekblad,Dominik Kubalik,[29. 39.],2,12:06,FLA,CHI,CHI,16,FLA,13,0,2,8477932,8477330.0,Aaron Ekblad Tripping against Dominik Kubalik
+165,penalty,Tripping,Alex DeBrincat,Josh Brown,[96. 12.],2,01:37,CHI,FLA,CHI,16,FLA,13,1,3,8479337,8477384.0,Alex DeBrincat Tripping against Josh Brown
+180,penalty,Holding,Keith Yandle,Drake Caggiula,[-79.   1.],3,17:56,FLA,CHI,CHI,16,FLA,13,1,4,8471735,8479465.0,Keith Yandle Holding against Drake Caggiula
+209,penalty,Tripping,Noel Acciari,David Kampf,[-40. -22.],3,13:52,FLA,CHI,CHI,16,FLA,13,2,4,8478569,8480144.0,Noel Acciari Tripping against David Kampf
+242,penalty,Hi-sticking,Mike Hoffman,Brandon Saad,[-82.   0.],3,05:01,FLA,CHI,CHI,16,FLA,13,2,4,8474884,8476438.0,Mike Hoffman Hi-sticking against Brandon Saad
+258,penalty,Hooking,Jonathan Toews,Noel Acciari,[ -2. -34.],3,00:32,CHI,FLA,CHI,16,FLA,13,3,4,8473604,8478569.0,Jonathan Toews Hooking against Noel Acciari
+48,penalty,Too many men on the ice,Jordan Weal,,[13. 42.],1,09:14,MTL,FLA,MTL,8,FLA,13,1,0,8475738,,Too many men/ice served by Jordan Weal
+100,penalty,Holding,Mike Hoffman,Artturi Lehkonen,[ 87. -36.],2,17:44,FLA,MTL,MTL,8,FLA,13,1,0,8474884,8477476.0,Mike Hoffman Holding against Artturi Lehkonen
+176,penalty,Slashing,Joel Armia,Dominic Toninato,[12. 40.],3,18:45,MTL,FLA,MTL,8,FLA,13,3,0,8476469,8476952.0,Joel Armia Slashing against Dominic Toninato
+182,penalty,Delay of game,Carey Price,Marco Scandella,[ 13. -42.],3,16:47,MTL,FLA,MTL,8,FLA,13,3,0,8471679,8474618.0,Carey Price Delay of game served by Marco Scandella
+208,penalty,Holding,Mike Matheson,Phillip Danault,[-72. -20.],3,10:24,FLA,MTL,MTL,8,FLA,13,3,0,8476875,8476479.0,Mike Matheson Holding against Phillip Danault
+217,penalty,Holding,Nick Suzuki,Josh Brown,[-28. -33.],3,07:46,MTL,FLA,MTL,8,FLA,13,4,0,8480018,8477384.0,Nick Suzuki Holding against Josh Brown
+227,penalty,Interference,Joel Armia,Frank Vatrano,[60. 10.],3,06:05,MTL,FLA,MTL,8,FLA,13,4,0,8476469,8478366.0,Joel Armia Interference against Frank Vatrano
+239,penalty,Cross checking,Nick Cousins,Anton Stralman,[-94. -29.],3,03:25,MTL,FLA,MTL,8,FLA,13,4,0,8476393,8471873.0,Nick Cousins Cross checking against Anton Stralman

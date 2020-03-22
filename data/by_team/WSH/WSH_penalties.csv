@@ -1,0 +1,577 @@
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
+3,penalty,Slashing,Alex Ovechkin,Jared McCann,[-5. 21.],1,19:25,WSH,PIT,WSH,15,PIT,5,0,0,8471214,8477955.0,Alex Ovechkin Slashing against Jared McCann
+23,penalty,Roughing,Jack Johnson,Garnet Hathaway,[-89. -21.],1,15:51,PIT,WSH,WSH,15,PIT,5,0,0,8471677,8477903.0,Jack Johnson Roughing against Garnet Hathaway
+24,penalty,Roughing,Garnet Hathaway,Jack Johnson,[-89. -18.],1,15:51,WSH,PIT,WSH,15,PIT,5,0,0,8477903,8471677.0,Garnet Hathaway Roughing against Jack Johnson
+31,penalty,Tripping,John Marino,Lars Eller,[-30.  -1.],1,14:18,PIT,WSH,WSH,15,PIT,5,0,0,8478507,8474189.0,John Marino Tripping against Lars Eller
+44,penalty,Interference,Lars Eller,Patric Hornqvist,[-4. 39.],1,11:42,WSH,PIT,WSH,15,PIT,5,0,0,8474189,8471887.0,Lars Eller Interference against Patric Hornqvist
+96,penalty,Holding the stick,Dominik Simon,Lars Eller,[-70. -13.],1,02:55,PIT,WSH,WSH,15,PIT,5,1,2,8478866,8474189.0,Dominik Simon Holding the stick against Lars Eller
+127,penalty,Slashing,Jonas Siegenthaler,Alex Galchenyuk,[-75.  -2.],2,16:43,WSH,PIT,WSH,15,PIT,5,1,2,8478399,8476851.0,Jonas Siegenthaler Slashing against Alex Galchenyuk
+177,penalty,Interference,Sidney Crosby,T.J. Oshie,[-16.  39.],2,06:33,PIT,WSH,WSH,15,PIT,5,1,3,8471675,8471698.0,Sidney Crosby Interference against T.J. Oshie
+188,penalty,Too many men on the ice,Brendan Leipsic,,[-39.  34.],2,04:17,WSH,PIT,WSH,15,PIT,5,1,3,8476894,,Too many men/ice served by Brendan Leipsic
+201,penalty,Cross checking,Kris Letang,Tom Wilson,[-78.   5.],3,19:43,PIT,WSH,WSH,15,PIT,5,1,3,8471724,8476880.0,Kris Letang Cross checking against Tom Wilson
+202,penalty,Hi-sticking,Tom Wilson,Kris Letang,[-80.  13.],3,19:43,WSH,PIT,WSH,15,PIT,5,1,3,8476880,8471724.0,Tom Wilson Hi-sticking against Kris Letang
+211,penalty,Slashing,Dmitry Orlov,Sidney Crosby,[54.  9.],3,18:06,WSH,PIT,WSH,15,PIT,5,1,3,8475200,8471675.0,Dmitry Orlov Slashing against Sidney Crosby
+261,penalty,Hi-sticking,Carl Hagelin,Chad Ruhwedel,[-19. -11.],3,09:19,WSH,PIT,WSH,15,PIT,5,2,3,8474176,8477244.0,Carl Hagelin Hi-sticking against Chad Ruhwedel
+12,penalty,Hooking,Carl Hagelin,Blake Lizotte,[ 61. -10.],1,16:27,WSH,LAK,WSH,15,LAK,26,0,0,8474176,8481481.0,Carl Hagelin Hooking against Blake Lizotte
+27,penalty,Slashing,Kurtis MacDermid,T.J. Oshie,[-55.  31.],1,10:24,LAK,WSH,WSH,15,LAK,26,0,0,8477073,8471698.0,Kurtis MacDermid Slashing against T.J. Oshie
+138,penalty,Holding,Martin Fehervary,Austin Wagner,[87. 16.],2,00:21,WSH,LAK,WSH,15,LAK,26,1,1,8480796,8478455.0,Martin Fehervary Holding against Austin Wagner
+75,penalty,Hooking,Jonas Siegenthaler,Connor Bunnaman,[ 68. -13.],1,04:47,WSH,PHI,WSH,15,PHI,4,0,0,8478399,8479382.0,Jonas Siegenthaler Hooking against Connor Bunnaman
+92,penalty,Tripping,Brian Elliott,Nicolas Aube-Kubel,[-80.  -3.],1,02:11,PHI,WSH,WSH,15,PHI,4,0,1,8470880,8477979.0,Brian Elliott Tripping against Lars Eller served by Nicolas Aube-Kubel
+140,penalty,Embellishment,Sean Couturier,Alex Ovechkin,[80. 39.],2,12:12,PHI,WSH,WSH,15,PHI,4,1,4,8476461,8471214.0,Sean Couturier Embellishment against Alex Ovechkin
+149,penalty,Roughing,Jakub Voracek,Nic Dowd,[94. 23.],2,09:08,PHI,WSH,WSH,15,PHI,4,1,4,8474161,8475343.0,Jakub Voracek Roughing against Nic Dowd
+150,penalty,Roughing,Nic Dowd,Jakub Voracek,[94. 27.],2,09:08,WSH,PHI,WSH,15,PHI,4,1,4,8475343,8474161.0,Nic Dowd Roughing against Jakub Voracek
+154,penalty,Hooking,Kevin Hayes,Alex Ovechkin,[-31.  16.],2,08:05,PHI,WSH,WSH,15,PHI,4,1,4,8475763,8471214.0,Kevin Hayes Hooking against Alex Ovechkin
+176,penalty,Slashing,Travis Sanheim,Richard Panik,[81. -3.],2,04:02,PHI,WSH,WSH,15,PHI,4,1,4,8477948,8475209.0,Travis Sanheim Slashing against Richard Panik
+191,penalty,Hooking,Richard Panik,Tyler Pitlick,[-71.   2.],2,00:07,WSH,PHI,WSH,15,PHI,4,1,4,8475209,8475752.0,Richard Panik Hooking against Tyler Pitlick
+206,penalty,Hooking,Richard Panik,Robert Hagg,[76. -4.],3,16:29,WSH,PHI,WSH,15,PHI,4,1,5,8475209,8477462.0,Richard Panik Hooking against Robert Hagg
+221,penalty,Unsportsmanlike conduct,Tom Wilson,,[82. 37.],3,13:43,WSH,PHI,WSH,15,PHI,4,1,6,8476880,,Tom Wilson Unsportsmanlike conduct
+224,penalty,Cross checking,Garnet Hathaway,Travis Konecny,[86. 34.],3,13:00,WSH,PHI,WSH,15,PHI,4,1,6,8477903,8478439.0,Garnet Hathaway Cross checking against Travis Konecny
+238,penalty,Fighting,Brendan Leipsic,Nicolas Aube-Kubel,[-8.  4.],3,09:00,WSH,PHI,WSH,15,PHI,4,1,7,8476894,8477979.0,Brendan Leipsic Fighting against Nicolas Aube-Kubel
+239,penalty,Fighting,Nicolas Aube-Kubel,Brendan Leipsic,[-73.  29.],3,09:00,PHI,WSH,WSH,15,PHI,4,1,7,8477979,8476894.0,Nicolas Aube-Kubel Fighting against Brendan Leipsic
+74,penalty,Holding,Martin Fehervary,Leo Komarov,[66. -3.],1,02:42,WSH,NYI,WSH,15,NYI,2,1,2,8480796,8473463.0,Martin Fehervary Holding against Leo Komarov
+77,penalty,Holding,Jordan Eberle,Nic Dowd,[96. 18.],1,02:05,NYI,WSH,WSH,15,NYI,2,1,2,8474586,8475343.0,Jordan Eberle Holding against Nic Dowd
+99,penalty,Interference,Garnet Hathaway,Brendan Leipsic,[72. 14.],2,17:06,WSH,NYI,WSH,15,NYI,2,1,4,8477903,8476894.0,Garnet Hathaway Interference against Ryan Pulock served by Brendan Leipsic
+100,penalty,Fighting,Garnet Hathaway,Ross Johnston,[81. 11.],2,17:06,WSH,NYI,WSH,15,NYI,2,1,4,8477903,8477527.0,Garnet Hathaway Fighting against Ross Johnston
+101,penalty,Fighting,Ross Johnston,Garnet Hathaway,[65. 21.],2,17:06,NYI,WSH,WSH,15,NYI,2,1,4,8477527,8477903.0,Ross Johnston Fighting against Garnet Hathaway
+125,penalty,Tripping,Mathew Barzal,Richard Panik,[77. 39.],2,12:50,NYI,WSH,WSH,15,NYI,2,1,4,8478445,8475209.0,Mathew Barzal Tripping against Richard Panik
+159,penalty,Hi-sticking,Scott Mayfield,Garnet Hathaway,[87. 36.],2,04:31,NYI,WSH,WSH,15,NYI,2,2,5,8476429,8477903.0,Scott Mayfield Hi-sticking against Garnet Hathaway
+68,penalty,Hi-sticking,T.J. Oshie,Ian Cole,[81.  3.],1,04:24,WSH,COL,COL,21,WSH,15,1,0,8471698,8474013.0,T.J. Oshie Hi-sticking against Ian Cole
+119,penalty,Slashing,Lars Eller,Andre Burakovsky,[  1. -15.],2,13:11,WSH,COL,COL,21,WSH,15,2,0,8474189,8477444.0,Lars Eller Slashing against Andre Burakovsky
+131,penalty,Hi-sticking,Tyson Jost,Nicklas Backstrom,[-60. -14.],2,09:28,COL,WSH,COL,21,WSH,15,2,0,8479370,8473563.0,Tyson Jost Hi-sticking against Nicklas Backstrom
+147,penalty,Hi-sticking,Erik Johnson,Radko Gudas,[-68.   5.],2,06:56,COL,WSH,COL,21,WSH,15,2,1,8473446,8475462.0,Erik Johnson Hi-sticking against Radko Gudas
+150,penalty,Holding,Nic Dowd,Andre Burakovsky,[-94. -11.],2,04:13,WSH,COL,COL,21,WSH,15,2,1,8475343,8477444.0,Nic Dowd Holding against Andre Burakovsky
+155,penalty,Delaying Game - Puck over glass,Lars Eller,,[ 47. -25.],2,03:13,WSH,COL,COL,21,WSH,15,2,1,8474189,,Lars Eller Delaying Game - Puck over glass
+163,penalty,Slashing,Joonas Donskoi,Tom Wilson,[-43.  -3.],2,01:03,COL,WSH,COL,21,WSH,15,2,1,8475820,8476880.0,Joonas Donskoi Slashing against Tom Wilson
+190,penalty,Hooking,Ian Cole,Tom Wilson,[83. -4.],3,15:58,COL,WSH,COL,21,WSH,15,2,1,8474013,8476880.0,Ian Cole Hooking against Tom Wilson
+217,penalty,Hi-sticking,Andre Burakovsky,T.J. Oshie,[-28.  33.],3,08:47,COL,WSH,COL,21,WSH,15,2,1,8477444,8471698.0,Andre Burakovsky Hi-sticking against T.J. Oshie
+8,penalty,Delaying Game - Puck over glass,Vinnie Hinostroza,,[-18. -41.],1,18:06,ARI,WSH,ARI,53,WSH,15,0,0,8476994,,Vinnie Hinostroza Delaying Game - Puck over glass
+71,penalty,Holding,Lars Eller,Taylor Hall,[59. 23.],1,08:08,WSH,ARI,ARI,53,WSH,15,0,0,8474189,8475791.0,Lars Eller Holding against Taylor Hall
+111,penalty,Tripping,Brad Richardson,Alex Ovechkin,[  9. -10.],2,19:32,ARI,WSH,ARI,53,WSH,15,0,0,8470755,8471214.0,Brad Richardson Tripping against Alex Ovechkin
+121,penalty,Roughing,Tom Wilson,Taylor Hall,[-93. -12.],2,17:04,WSH,ARI,ARI,53,WSH,15,0,0,8476880,8475791.0,Tom Wilson Roughing against Taylor Hall
+220,penalty,Tripping,Michal Kempny,Christian Fischer,[ -4. -22.],3,16:32,WSH,ARI,ARI,53,WSH,15,1,1,8479482,8478432.0,Michal Kempny Tripping against Christian Fischer
+246,penalty,Holding,Oliver Ekman-Larsson,Tom Wilson,[-79.  -2.],3,09:29,ARI,WSH,ARI,53,WSH,15,2,1,8475171,8476880.0,Oliver Ekman-Larsson Holding against Tom Wilson
+144,penalty,Tripping,Jon Merrill,Nic Dowd,[ 7. 16.],2,11:01,VGK,WSH,VGK,54,WSH,15,2,0,8475750,8475343.0,Jon Merrill Tripping against Nic Dowd
+192,penalty,Slashing,John Carlson,Paul Stastny,[-88. -26.],3,19:26,WSH,VGK,VGK,54,WSH,15,3,0,8474590,8471669.0,John Carlson Slashing against Paul Stastny
+198,penalty,Hooking,Cody Eakin,Dmitry Orlov,[74. 24.],3,16:44,VGK,WSH,VGK,54,WSH,15,3,0,8475236,8475200.0,Cody Eakin Hooking against Dmitry Orlov
+206,penalty,Tripping,Dmitry Orlov,Mark Stone,[-69. -22.],3,14:38,WSH,VGK,VGK,54,WSH,15,3,0,8475200,8475913.0,Dmitry Orlov Tripping against Mark Stone
+224,penalty,Tripping,Jon Merrill,Carl Hagelin,[97. -2.],3,10:29,VGK,WSH,VGK,54,WSH,15,3,1,8475750,8474176.0,Jon Merrill Tripping against Carl Hagelin
+38,penalty,Tripping,Jonathan Drouin,T.J. Oshie,[-72.  36.],1,11:13,MTL,WSH,WSH,15,MTL,8,1,0,8477494,8471698.0,Jonathan Drouin Tripping against T.J. Oshie
+79,penalty,Cross checking,Alex Ovechkin,Phillip Danault,[-82.  10.],2,19:23,WSH,MTL,WSH,15,MTL,8,1,1,8471214,8476479.0,Alex Ovechkin Cross checking against Phillip Danault
+9,penalty,Roughing,Connor Carrick,Tom Wilson,[-35. -39.],1,17:24,NJD,WSH,NJD,1,WSH,15,0,0,8476941,8476880.0,Connor Carrick Roughing against Tom Wilson
+18,penalty,Hi-sticking,Travis Zajac,Michal Kempny,[ 68. -28.],1,14:39,NJD,WSH,NJD,1,WSH,15,0,0,8471233,8479482.0,Travis Zajac Hi-sticking against Michal Kempny
+142,penalty,Hooking,Brenden Dillon,Kevin Rooney,[-92.  -3.],2,09:46,WSH,NJD,NJD,1,WSH,15,1,0,8475455,8479291.0,Brenden Dillon Hooking against Kevin Rooney
+158,penalty,Tripping,Colton White,T.J. Oshie,[ 93. -25.],2,05:57,NJD,WSH,NJD,1,WSH,15,2,0,8478841,8471698.0,Colton White Tripping against T.J. Oshie
+172,penalty,Holding,John Hayden,John Carlson,[-87. -24.],2,03:15,NJD,WSH,NJD,1,WSH,15,2,1,8477401,8474590.0,John Hayden Holding against John Carlson
+229,penalty,Unsportsmanlike conduct,Colton White,Evgeny Kuznetsov,[  0. -36.],3,09:09,NJD,WSH,NJD,1,WSH,15,2,2,8478841,8475744.0,Colton White Unsportsmanlike conduct against Evgeny Kuznetsov
+230,penalty,Unsportsmanlike conduct,Evgeny Kuznetsov,Colton White,[  1. -37.],3,09:09,WSH,NJD,NJD,1,WSH,15,2,2,8475744,8478841.0,Evgeny Kuznetsov Unsportsmanlike conduct against Colton White
+236,penalty,Hooking,Dakota Mermis,Lars Eller,[-76. -29.],3,08:05,NJD,WSH,NJD,1,WSH,15,2,2,8477541,8474189.0,Dakota Mermis Hooking against Lars Eller
+244,penalty,Hi-sticking,Travis Zajac,Tom Wilson,[40.  2.],3,06:19,NJD,WSH,NJD,1,WSH,15,2,2,8471233,8476880.0,Travis Zajac Hi-sticking against Tom Wilson
+255,penalty,Hooking,Evgeny Kuznetsov,Kyle Palmieri,[53. 34.],3,04:16,WSH,NJD,NJD,1,WSH,15,2,2,8475744,8475151.0,Evgeny Kuznetsov Hooking against Kyle Palmieri
+260,penalty,Slashing,Michal Kempny,Kyle Palmieri,[82.  0.],3,03:05,WSH,NJD,NJD,1,WSH,15,2,2,8479482,8475151.0,Michal Kempny Slashing against Kyle Palmieri
+76,penalty,Cross checking,Tom Wilson,Patric Hornqvist,[94. -7.],1,04:33,WSH,PIT,WSH,15,PIT,5,1,0,8476880,8471887.0,Tom Wilson Cross checking against Patric Hornqvist
+91,penalty,Hooking,John Carlson,Sidney Crosby,[ 95. -22.],1,00:22,WSH,PIT,WSH,15,PIT,5,1,0,8474590,8471675.0,John Carlson Hooking against Sidney Crosby
+95,penalty,Roughing,Brenden Dillon,Evgeni Malkin,[95. -6.],1,00:00,WSH,PIT,WSH,15,PIT,5,1,0,8475455,8471215.0,Brenden Dillon Roughing against Evgeni Malkin
+96,penalty,Roughing,Brenden Dillon,Evgeni Malkin,[98. -5.],1,00:00,WSH,PIT,WSH,15,PIT,5,1,0,8475455,8471215.0,Brenden Dillon Roughing against Evgeni Malkin
+97,penalty,Roughing,Evgeni Malkin,Brenden Dillon,[95. -5.],1,00:00,PIT,WSH,WSH,15,PIT,5,1,0,8471215,8475455.0,Evgeni Malkin Roughing against Brenden Dillon
+98,penalty,Roughing,Evgeni Malkin,Brenden Dillon,[97. -7.],1,00:00,PIT,WSH,WSH,15,PIT,5,1,0,8471215,8475455.0,Evgeni Malkin Roughing against Brenden Dillon
+115,penalty,Slashing,Marcus Pettersson,Tom Wilson,[ 22. -20.],2,16:04,PIT,WSH,WSH,15,PIT,5,1,0,8477969,8476880.0,Marcus Pettersson Slashing against Tom Wilson
+144,penalty,Holding,Garnet Hathaway,Anthony Angello,[82. -9.],2,10:44,WSH,PIT,WSH,15,PIT,5,1,0,8477903,8478074.0,Garnet Hathaway Holding against Anthony Angello
+145,penalty,Interference,Anthony Angello,Garnet Hathaway,[ 82. -11.],2,10:44,PIT,WSH,WSH,15,PIT,5,1,0,8478074,8477903.0,Anthony Angello Interference against Garnet Hathaway
+184,penalty,Slashing,Alex Ovechkin,Patric Hornqvist,[-79.   3.],2,03:32,WSH,PIT,WSH,15,PIT,5,1,2,8471214,8471887.0,Alex Ovechkin Slashing against Patric Hornqvist
+205,penalty,Slashing,Kris Letang,Evgeny Kuznetsov,[-71.  30.],3,19:03,PIT,WSH,WSH,15,PIT,5,1,2,8471724,8475744.0,Kris Letang Slashing against Evgeny Kuznetsov
+206,penalty,Slashing,Evgeny Kuznetsov,Kris Letang,[-69.  28.],3,19:03,WSH,PIT,WSH,15,PIT,5,1,2,8475744,8471724.0,Evgeny Kuznetsov Slashing against Kris Letang
+131,penalty,Hi-sticking,Radko Gudas,Kyle Connor,[-80. -19.],2,11:57,WSH,WPG,WSH,15,WPG,52,2,0,8475462,8478398.0,Radko Gudas Hi-sticking against Kyle Connor
+159,penalty,Fighting,Garnet Hathaway,Anthony Bitetto,[  0. -37.],2,06:23,WSH,WPG,WSH,15,WPG,52,3,0,8477903,8475868.0,Garnet Hathaway Fighting against Anthony Bitetto
+160,penalty,Fighting,Anthony Bitetto,Garnet Hathaway,[  5. -37.],2,06:23,WPG,WSH,WSH,15,WPG,52,3,0,8475868,8477903.0,Anthony Bitetto Fighting against Garnet Hathaway
+201,penalty,Interference,Dmitry Orlov,Jack Roslovic,[71.  0.],3,17:47,WSH,WPG,WSH,15,WPG,52,3,1,8475200,8478458.0,Dmitry Orlov Interference against Jack Roslovic
+215,penalty,Hooking,Dmitry Kulikov,Evgeny Kuznetsov,[-94.  27.],3,13:44,WPG,WSH,WSH,15,WPG,52,3,1,8475179,8475744.0,Dmitry Kulikov Hooking against Evgeny Kuznetsov
+249,penalty,Delaying Game - Puck over glass,Lars Eller,,[ 34. -18.],3,03:01,WSH,WPG,WSH,15,WPG,52,3,3,8474189,,Lars Eller Delaying Game - Puck over glass
+40,penalty,Hooking,Brenden Dillon,Mason Appleton,[-84.   5.],1,11:21,WSH,WPG,WPG,52,WSH,15,1,0,8475455,8478891.0,Brenden Dillon Hooking against Mason Appleton
+42,penalty,Hi-sticking,Radko Gudas,Kyle Connor,[-71.   6.],1,11:16,WSH,WPG,WPG,52,WSH,15,1,0,8475462,8478398.0,Radko Gudas Hi-sticking against Kyle Connor
+132,penalty,Cross checking,Evgeny Kuznetsov,Jansen Harkins,[82. -2.],2,08:23,WSH,WPG,WPG,52,WSH,15,1,0,8475744,8478424.0,Evgeny Kuznetsov Cross checking against Jansen Harkins
+145,penalty,Hooking,Neal Pionk,Alex Ovechkin,[-74.  -5.],2,04:53,WPG,WSH,WPG,52,WSH,15,1,0,8480145,8471214.0,Neal Pionk Hooking against Alex Ovechkin
+155,penalty,Hooking,Anthony Bitetto,Ilya Kovalchuk,[-97.   7.],2,02:50,WPG,WSH,WPG,52,WSH,15,1,0,8475868,8469454.0,Anthony Bitetto Hooking against Ilya Kovalchuk
+169,penalty,Holding,Dylan DeMelo,Nick Jensen,[34. 15.],3,18:48,WPG,WSH,WPG,52,WSH,15,1,0,8476331,8475324.0,Dylan DeMelo Holding against Nick Jensen
+22,penalty,Tripping,Greg Pateryn,Lars Eller,[69. 40.],1,14:31,MIN,WSH,MIN,30,WSH,15,1,0,8474688,8474189.0,Greg Pateryn Tripping against Lars Eller
+25,penalty,Hi-sticking,Alex Stalock,Marcus Foligno,[91. -4.],1,13:48,MIN,WSH,MIN,30,WSH,15,1,0,8471774,8475220.0,Alex Stalock Hi-sticking against T.J. Oshie served by Marcus Foligno
+49,penalty,Slashing,Nicklas Backstrom,Kevin Fiala,[-33.  -3.],1,08:04,WSH,MIN,MIN,30,WSH,15,1,3,8473563,8477942.0,Nicklas Backstrom Slashing against Kevin Fiala
+76,penalty,Fighting,Ryan Hartman,Brenden Dillon,[3. 1.],1,01:03,MIN,WSH,MIN,30,WSH,15,2,3,8477451,8475455.0,Ryan Hartman Fighting against Brenden Dillon
+77,penalty,Fighting,Brenden Dillon,Ryan Hartman,[4. 2.],1,01:03,WSH,MIN,MIN,30,WSH,15,2,3,8475455,8477451.0,Brenden Dillon Fighting against Ryan Hartman
+78,penalty,Slashing,Ryan Hartman,Ilya Kovalchuk,[54. 18.],1,01:03,MIN,WSH,MIN,30,WSH,15,2,3,8477451,8469454.0,Ryan Hartman Slashing against Ilya Kovalchuk
+79,penalty,Roughing,Ilya Kovalchuk,Alex Ovechkin,[80.  5.],1,01:03,WSH,MIN,MIN,30,WSH,15,2,3,8469454,8471214.0,Ilya Kovalchuk Roughing against Ryan Hartman served by Alex Ovechkin
+80,penalty,Roughing,Ilya Kovalchuk,Matt Dumba,[80.  5.],1,01:03,WSH,MIN,MIN,30,WSH,15,2,3,8469454,8476856.0,Ilya Kovalchuk Roughing against Matt Dumba
+117,penalty,Roughing,Garnet Hathaway,Jordan Greenway,[ 59. -41.],2,11:29,WSH,MIN,MIN,30,WSH,15,2,3,8477903,8478413.0,Garnet Hathaway Roughing against Jordan Greenway
+118,penalty,Roughing,Jordan Greenway,Garnet Hathaway,[ 49. -39.],2,11:29,MIN,WSH,MIN,30,WSH,15,2,3,8478413,8477903.0,Jordan Greenway Roughing against Garnet Hathaway
+119,penalty,Roughing,Richard Panik,Ryan Suter,[ 37. -40.],2,11:29,WSH,MIN,MIN,30,WSH,15,2,3,8475209,8470600.0,Richard Panik Roughing against Ryan Suter
+120,penalty,Roughing,Ryan Suter,Richard Panik,[ 54. -37.],2,11:29,MIN,WSH,MIN,30,WSH,15,2,3,8470600,8475209.0,Ryan Suter Roughing against Richard Panik
+136,penalty,Tripping,John Carlson,Jared Spurgeon,[ 99. -14.],2,07:14,WSH,MIN,MIN,30,WSH,15,2,3,8474590,8474716.0,John Carlson Tripping against Jared Spurgeon
+204,penalty,Interference,Michal Kempny,Kevin Fiala,[-22.  22.],3,08:20,WSH,MIN,MIN,30,WSH,15,2,4,8479482,8477942.0,Michal Kempny Interference against Kevin Fiala
+4,penalty,Interference,Scott Laughton,T.J. Oshie,[ 51. -38.],1,18:52,PHI,WSH,WSH,15,PHI,4,0,0,8476872,8471698.0,Scott Laughton Interference against T.J. Oshie
+55,penalty,Holding,Justin Braun,Garnet Hathaway,[-97.   5.],1,08:05,PHI,WSH,WSH,15,PHI,4,0,0,8474027,8477903.0,Justin Braun Holding against Garnet Hathaway
+76,penalty,Roughing,Tom Wilson,Jakub Vrana,[85. -9.],1,02:55,WSH,PHI,WSH,15,PHI,4,1,0,8476880,8477944.0,Tom Wilson Roughing against Nate Thompson served by Jakub Vrana
+77,penalty,Fighting,Tom Wilson,Nate Thompson,[ 91. -12.],1,02:55,WSH,PHI,WSH,15,PHI,4,1,0,8476880,8470775.0,Tom Wilson Fighting against Nate Thompson
+78,penalty,Fighting,Nate Thompson,Tom Wilson,[97. -2.],1,02:55,PHI,WSH,WSH,15,PHI,4,1,0,8470775,8476880.0,Nate Thompson Fighting against Tom Wilson
+83,penalty,Interference,Kevin Hayes,Garnet Hathaway,[36. 41.],1,01:23,PHI,WSH,WSH,15,PHI,4,1,0,8475763,8477903.0,Kevin Hayes Interference against Garnet Hathaway
+95,penalty,Slashing,Evgeny Kuznetsov,Kevin Hayes,[-21. -28.],2,18:43,WSH,PHI,WSH,15,PHI,4,1,0,8475744,8475763.0,Evgeny Kuznetsov Slashing against Kevin Hayes
+107,penalty,Too many men on the ice,Jakub Vrana,,[36. 29.],2,16:14,WSH,PHI,WSH,15,PHI,4,1,0,8477944,,Too many men/ice served by Jakub Vrana
+113,penalty,Hi-sticking,Garnet Hathaway,Travis Sanheim,[ 97. -13.],2,14:26,WSH,PHI,WSH,15,PHI,4,1,0,8477903,8477948.0,Garnet Hathaway Hi-sticking against Travis Sanheim
+151,penalty,Roughing,Brenden Dillon,Scott Laughton,[-55.  41.],2,07:18,WSH,PHI,WSH,15,PHI,4,1,1,8475455,8476872.0,Brenden Dillon Roughing against Scott Laughton
+182,penalty,Fighting,Robert Hagg,Tom Wilson,[-72.   2.],2,00:15,PHI,WSH,WSH,15,PHI,4,2,3,8477462,8476880.0,Robert Hagg Fighting against Tom Wilson
+183,penalty,Fighting,Tom Wilson,Robert Hagg,[-59.  -1.],2,00:15,WSH,PHI,WSH,15,PHI,4,2,3,8476880,8477462.0,Tom Wilson Fighting against Robert Hagg
+201,penalty,Hooking,Michael Raffl,Dmitry Orlov,[11. 22.],3,16:45,PHI,WSH,WSH,15,PHI,4,2,3,8477290,8475200.0,Michael Raffl Hooking against Dmitry Orlov
+261,penalty,Hi-sticking,Scott Laughton,John Carlson,[-75.   8.],3,04:11,PHI,WSH,WSH,15,PHI,4,2,5,8476872,8474590.0,Scott Laughton Hi-sticking against John Carlson
+5,penalty,Holding,Pavel Buchnevich,Nick Jensen,[-95.  20.],1,18:17,NYR,WSH,NYR,3,WSH,15,0,0,8477402,8475324.0,Pavel Buchnevich Holding against Nick Jensen
+33,penalty,Tripping,Nic Dowd,Kaapo Kakko,[-57. -23.],1,12:28,WSH,NYR,NYR,3,WSH,15,0,1,8475343,8481554.0,Nic Dowd Tripping against Kaapo Kakko
+48,penalty,Holding,Nic Dowd,Marc Staal,[ 95. -14.],1,09:11,WSH,NYR,NYR,3,WSH,15,1,1,8475343,8471686.0,Nic Dowd Holding against Marc Staal
+107,penalty,Tripping,Lars Eller,Brett Howden,[-69. -19.],2,13:59,WSH,NYR,NYR,3,WSH,15,2,1,8474189,8479353.0,Lars Eller Tripping against Brett Howden
+117,penalty,Tripping,Brendan Lemieux,Carl Hagelin,[97. -6.],2,11:12,NYR,WSH,NYR,3,WSH,15,2,1,8477962,8474176.0,Brendan Lemieux Tripping against Carl Hagelin
+206,penalty,Cross checking,Jonas Siegenthaler,Brett Howden,[-28.   6.],3,12:36,WSH,NYR,NYR,3,WSH,15,4,3,8478399,8479353.0,Jonas Siegenthaler Cross checking against Brett Howden
+207,penalty,Tripping,Brett Howden,Jonas Siegenthaler,[-28.   4.],3,12:36,NYR,WSH,NYR,3,WSH,15,4,3,8479353,8478399.0,Brett Howden Tripping against Jonas Siegenthaler
+232,penalty,Roughing,Lars Eller,Brendan Smith,[77. 38.],3,07:08,WSH,NYR,NYR,3,WSH,15,4,4,8474189,8474090.0,Lars Eller Roughing against Brendan Smith
+241,penalty,Cross checking,John Carlson,Brendan Lemieux,[-62. -16.],3,05:05,WSH,NYR,NYR,3,WSH,15,4,4,8474590,8477962.0,John Carlson Cross checking against Brendan Lemieux
+247,penalty,Hi-sticking,Lars Eller,Jacob Trouba,[-21.  -8.],3,03:07,WSH,NYR,NYR,3,WSH,15,4,4,8474189,8476885.0,Lars Eller Hi-sticking against Jacob Trouba
+13,penalty,Roughing,Sam Lafferty,Jonas Siegenthaler,[ 34. -23.],1,17:57,PIT,WSH,PIT,5,WSH,15,0,1,8478043,8478399.0,Sam Lafferty Roughing against Jonas Siegenthaler
+14,penalty,Roughing,Jonas Siegenthaler,Sam Lafferty,[ 41. -26.],1,17:57,WSH,PIT,PIT,5,WSH,15,0,1,8478399,8478043.0,Jonas Siegenthaler Roughing against Sam Lafferty
+32,penalty,Interference,Brenden Dillon,Sam Lafferty,[57. 42.],1,13:23,WSH,PIT,PIT,5,WSH,15,0,1,8475455,8478043.0,Brenden Dillon Interference against Sam Lafferty
+36,penalty,Too many men on the ice,Alex Ovechkin,,[14. 41.],1,12:48,WSH,PIT,PIT,5,WSH,15,0,1,8471214,,Too many men/ice served by Alex Ovechkin
+127,penalty,Hooking,Carl Hagelin,Marcus Pettersson,[-63.   8.],2,10:53,WSH,PIT,PIT,5,WSH,15,0,3,8474176,8477969.0,Carl Hagelin Hooking against Marcus Pettersson
+152,penalty,Holding,Evgeni Malkin,Richard Panik,[ 74. -18.],2,04:17,PIT,WSH,PIT,5,WSH,15,0,3,8471215,8475209.0,Evgeni Malkin Holding against Richard Panik
+156,penalty,Holding the stick,Tom Wilson,Kris Letang,[44. 34.],2,03:58,WSH,PIT,PIT,5,WSH,15,0,3,8476880,8471724.0,Tom Wilson Holding the stick against Kris Letang
+157,penalty,Roughing,Kris Letang,Tom Wilson,[38. 34.],2,03:58,PIT,WSH,PIT,5,WSH,15,0,3,8471724,8476880.0,Kris Letang Roughing against Tom Wilson
+168,penalty,PS - Hooking on breakaway,Jonas Siegenthaler,Jared McCann,[-79.   0.],2,01:12,WSH,PIT,PIT,5,WSH,15,0,3,8478399,8477955.0,Jonas Siegenthaler PS - Hooking on breakaway against Jared McCann
+174,penalty,Delay of game,Brenden Dillon,,[-87.   6.],2,00:25,WSH,PIT,PIT,5,WSH,15,0,3,8475455,,Brenden Dillon Delay of game
+229,penalty,Holding,Dmitry Orlov,Patric Hornqvist,[76. 41.],3,09:26,WSH,PIT,PIT,5,WSH,15,1,4,8475200,8471887.0,Dmitry Orlov Holding against Patric Hornqvist
+52,penalty,Slashing,Johan Larsson,Jonas Siegenthaler,[-32.  -9.],1,05:17,BUF,WSH,BUF,7,WSH,15,1,0,8475728,8478399.0,Johan Larsson Slashing against Jonas Siegenthaler
+70,penalty,Slashing,Brenden Dillon,Jeff Skinner,[-81.   9.],2,19:42,WSH,BUF,BUF,7,WSH,15,1,0,8475455,8475784.0,Brenden Dillon Slashing against Jeff Skinner
+81,penalty,Tripping,Richard Panik,Jeff Skinner,[ 36. -39.],2,16:43,WSH,BUF,BUF,7,WSH,15,2,0,8475209,8475784.0,Richard Panik Tripping against Jeff Skinner
+205,penalty,Tripping,Dmitry Orlov,Colin Miller,[ 60. -23.],4,02:50,WSH,BUF,BUF,7,WSH,15,2,2,8475200,8476525.0,Dmitry Orlov Tripping against Colin Miller
+29,penalty,Slashing,Jonas Siegenthaler,Alex Pietrangelo,[ 63. -10.],1,13:20,WSH,STL,STL,19,WSH,15,1,0,8478399,8474565.0,Jonas Siegenthaler Slashing against Alex Pietrangelo
+42,penalty,Hi-sticking,David Perron,Garnet Hathaway,[ 65. -25.],1,08:55,STL,WSH,STL,19,WSH,15,2,0,8474102,8477903.0,David Perron Hi-sticking against Garnet Hathaway
+86,penalty,Delaying Game - Puck over glass,Martin Fehervary,,[-73.  31.],2,18:06,WSH,STL,STL,19,WSH,15,2,1,8480796,,Martin Fehervary Delaying Game - Puck over glass
+120,penalty,Tripping,Tyler Bozak,Jonas Siegenthaler,[-94.  34.],2,09:25,STL,WSH,STL,19,WSH,15,2,1,8475098,8478399.0,Tyler Bozak Tripping against Jonas Siegenthaler
+180,penalty,Hi-sticking,Jaden Schwartz,Jakub Vrana,[-56.  34.],3,16:31,STL,WSH,STL,19,WSH,15,2,2,8475768,8477944.0,Jaden Schwartz Hi-sticking against Jakub Vrana
+108,penalty,Hooking,Lars Eller,Mathew Barzal,[91. 30.],2,17:37,WSH,NYI,NYI,2,WSH,15,1,1,8474189,8478445.0,Lars Eller Hooking against Mathew Barzal
+124,penalty,Tripping,Brock Nelson,Nicklas Backstrom,[ 49. -35.],2,14:00,NYI,WSH,NYI,2,WSH,15,1,1,8475754,8473563.0,Brock Nelson Tripping against Nicklas Backstrom
+168,penalty,Hooking,Brock Nelson,Jonas Siegenthaler,[ 47. -28.],2,03:12,NYI,WSH,NYI,2,WSH,15,1,1,8475754,8478399.0,Brock Nelson Hooking against Jonas Siegenthaler
+39,penalty,Interference,Jonas Siegenthaler,Andrei Svechnikov,[ 31. -36.],1,13:15,WSH,CAR,WSH,15,CAR,12,0,0,8478399,8480830.0,Jonas Siegenthaler Interference against Andrei Svechnikov
+48,penalty,Interference,Erik Haula,John Carlson,[ 85. -13.],1,11:49,CAR,WSH,WSH,15,CAR,12,0,0,8475287,8474590.0,Erik Haula Interference against John Carlson
+100,penalty,Slashing,Nino Niederreiter,Nicklas Backstrom,[-34. -27.],1,00:38,CAR,WSH,WSH,15,CAR,12,1,0,8475799,8473563.0,Nino Niederreiter Slashing against Nicklas Backstrom
+116,penalty,Tripping,Jordan Staal,Nick Jensen,[ 93. -31.],2,15:31,CAR,WSH,WSH,15,CAR,12,1,0,8473533,8475324.0,Jordan Staal Tripping against Nick Jensen
+130,penalty,Interference,Jonas Siegenthaler,Erik Haula,[-80.   9.],2,11:41,WSH,CAR,WSH,15,CAR,12,1,0,8478399,8475287.0,Jonas Siegenthaler Interference against Erik Haula
+148,penalty,Tripping,Martin Necas,T.J. Oshie,[31.  7.],2,06:35,CAR,WSH,WSH,15,CAR,12,2,0,8480039,8471698.0,Martin Necas Tripping against T.J. Oshie
+168,penalty,Hi-sticking,Andrei Svechnikov,Nicklas Backstrom,[30.  2.],2,01:09,CAR,WSH,WSH,15,CAR,12,2,0,8480830,8473563.0,Andrei Svechnikov Hi-sticking against Nicklas Backstrom
+177,penalty,Interference,Radko Gudas,Ryan Dzingel,[67. 18.],3,18:01,WSH,CAR,WSH,15,CAR,12,2,0,8475462,8476288.0,Radko Gudas Interference against Ryan Dzingel
+205,penalty,Tripping,Tom Wilson,Jaccob Slavin,[45. 21.],3,12:43,WSH,CAR,WSH,15,CAR,12,2,1,8476880,8476958.0,Tom Wilson Tripping against Jaccob Slavin
+225,penalty,Hi-sticking,Lars Eller,Joel Edmundson,[-85.  11.],3,07:31,WSH,CAR,WSH,15,CAR,12,2,2,8474189,8476441.0,Lars Eller Hi-sticking against Joel Edmundson
+226,penalty,Holding the stick,Joel Edmundson,Lars Eller,[-85.  11.],3,07:31,CAR,WSH,WSH,15,CAR,12,2,2,8476441,8474189.0,Joel Edmundson Holding the stick against Lars Eller
+248,penalty,Hooking,Jordan Staal,Nicklas Backstrom,[69. -3.],4,04:41,CAR,WSH,WSH,15,CAR,12,2,2,8473533,8473563.0,Jordan Staal Hooking against Nicklas Backstrom
+35,penalty,Tripping,Lars Eller,Andrej Sekera,[-85. -20.],1,12:44,WSH,DAL,WSH,15,DAL,25,1,0,8474189,8471284.0,Lars Eller Tripping against Andrej Sekera
+77,penalty,Roughing,Esa Lindell,Jonas Siegenthaler,[ 62. -35.],1,05:12,DAL,WSH,WSH,15,DAL,25,1,0,8476902,8478399.0,Esa Lindell Roughing against Jonas Siegenthaler
+132,penalty,Roughing,Justin Dowling,Lars Eller,[ 36. -28.],2,09:46,DAL,WSH,WSH,15,DAL,25,1,1,8475413,8474189.0,Justin Dowling Roughing against Lars Eller
+158,penalty,Tripping,John Klingberg,Alex Ovechkin,[-8. 40.],2,01:33,DAL,WSH,WSH,15,DAL,25,2,1,8475906,8471214.0,John Klingberg Tripping against Alex Ovechkin
+172,penalty,Hooking,Jonas Siegenthaler,Roope Hintz,[71.  3.],3,18:30,WSH,DAL,WSH,15,DAL,25,2,1,8478399,8478449.0,Jonas Siegenthaler Hooking against Roope Hintz
+220,penalty,Holding,Garnet Hathaway,Roope Hintz,[96. -1.],3,06:39,WSH,DAL,WSH,15,DAL,25,2,3,8477903,8478449.0,Garnet Hathaway Holding against Roope Hintz
+223,penalty,Holding,John Klingberg,Lars Eller,[-78. -39.],3,05:57,DAL,WSH,WSH,15,DAL,25,2,3,8475906,8474189.0,John Klingberg Holding against Lars Eller
+225,penalty,Holding,Tyler Seguin,Nicklas Backstrom,[79. 37.],3,05:33,DAL,WSH,WSH,15,DAL,25,2,3,8475794,8473563.0,Tyler Seguin Holding against Nicklas Backstrom
+230,penalty,Interference,Evgeny Kuznetsov,Mattias Janmark,[-65.   4.],3,03:53,WSH,DAL,WSH,15,DAL,25,2,3,8475744,8477406.0,Evgeny Kuznetsov Interference against Mattias Janmark
+51,penalty,Tripping,Craig Smith,Tyler Lewington,[96. -5.],1,08:51,NSH,WSH,NSH,18,WSH,15,1,1,8475225,8477343.0,Craig Smith Tripping against Tyler Lewington
+63,penalty,Tripping,Radko Gudas,Kyle Turris,[ 94. -27.],1,05:45,WSH,NSH,NSH,18,WSH,15,1,1,8475462,8474068.0,Radko Gudas Tripping against Kyle Turris
+70,penalty,Slashing,Evgeny Kuznetsov,Ryan Ellis,[-64.  26.],1,02:07,WSH,NSH,NSH,18,WSH,15,1,1,8475744,8475176.0,Evgeny Kuznetsov Slashing against Ryan Ellis
+97,penalty,Hi-sticking,Colton Sissons,Jonas Siegenthaler,[-95.   9.],2,15:46,NSH,WSH,NSH,18,WSH,15,1,1,8476925,8478399.0,Colton Sissons Hi-sticking against Jonas Siegenthaler
+123,penalty,Interference,Garnet Hathaway,Dante Fabbro,[-87.  36.],2,08:57,WSH,NSH,NSH,18,WSH,15,2,2,8477903,8479371.0,Garnet Hathaway Interference against Dante Fabbro
+144,penalty,Tripping,Roman Josi,Alex Ovechkin,[67. -4.],2,02:49,NSH,WSH,NSH,18,WSH,15,2,3,8474600,8471214.0,Roman Josi Tripping against Alex Ovechkin
+172,penalty,Hooking,John Carlson,Ryan Ellis,[ 83. -21.],3,15:45,WSH,NSH,NSH,18,WSH,15,2,4,8474590,8475176.0,John Carlson Hooking against Ryan Ellis
+236,penalty,Slashing,Ryan Ellis,Evgeny Kuznetsov,[-42. -37.],3,00:17,NSH,WSH,NSH,18,WSH,15,6,5,8475176,8475744.0,Ryan Ellis Slashing against Evgeny Kuznetsov
+3,penalty,Hi-sticking,Joel Hanley,Jonas Siegenthaler,[66.  5.],1,19:08,DAL,WSH,DAL,25,WSH,15,0,0,8477810,8478399.0,Joel Hanley Hi-sticking against Jonas Siegenthaler
+4,penalty,Hi-sticking,Joel Hanley,Jonas Siegenthaler,[71.  7.],1,19:08,DAL,WSH,DAL,25,WSH,15,0,0,8477810,8478399.0,Joel Hanley Hi-sticking against Jonas Siegenthaler
+11,penalty,Missing key [PD_151],Nick Caamano,,[12. 41.],1,16:43,DAL,WSH,DAL,25,WSH,15,0,1,8479381,,Delaying Game - Unsucc. chlg served by Nick Caamano
+40,penalty,Tripping,Lars Eller,Radek Faksa,[-95.  16.],1,11:57,WSH,DAL,DAL,25,WSH,15,0,1,8474189,8476889.0,Lars Eller Tripping against Radek Faksa
+79,penalty,Slashing,Dmitry Orlov,Joe Pavelski,[-74.  -1.],1,04:28,WSH,DAL,DAL,25,WSH,15,0,1,8475200,8470794.0,Dmitry Orlov Slashing against Joe Pavelski
+100,penalty,Tripping,Tom Wilson,Roope Hintz,[-14.  24.],2,18:43,WSH,DAL,DAL,25,WSH,15,0,1,8476880,8478449.0,Tom Wilson Tripping against Roope Hintz
+110,penalty,Interference,Jonas Siegenthaler,Andrew Cogliano,[74. -7.],2,16:14,WSH,DAL,DAL,25,WSH,15,0,1,8478399,8471699.0,Jonas Siegenthaler Interference against Andrew Cogliano
+142,penalty,Delay of game,Radko Gudas,,[81. -6.],2,09:56,WSH,DAL,DAL,25,WSH,15,0,2,8475462,,Radko Gudas Delay of game
+171,penalty,Hi-sticking,Tom Wilson,Jamie Benn,[ 78. -36.],2,02:37,WSH,DAL,DAL,25,WSH,15,0,2,8476880,8473994.0,Tom Wilson Hi-sticking against Jamie Benn
+197,penalty,Holding the stick,Joel Hanley,Richard Panik,[83. -8.],3,16:54,DAL,WSH,DAL,25,WSH,15,0,2,8477810,8475209.0,Joel Hanley Holding the stick against Richard Panik
+225,penalty,Interference,Joel L'Esperance,Richard Panik,[-71. -12.],3,07:54,DAL,WSH,DAL,25,WSH,15,1,3,8480769,8475209.0,Joel L'Esperance Interference against Richard Panik
+41,penalty,Cross checking,Jonas Siegenthaler,Nathan MacKinnon,[ 61. -36.],1,11:11,WSH,COL,WSH,15,COL,21,0,3,8478399,8477492.0,Jonas Siegenthaler Cross checking against Nathan MacKinnon
+48,penalty,Fighting,Valeri Nichushkin,Tyler Lewington,[4. 0.],1,10:16,COL,WSH,WSH,15,COL,21,0,4,8477501,8477343.0,Valeri Nichushkin Fighting against Tyler Lewington
+49,penalty,Fighting,Tyler Lewington,Valeri Nichushkin,[7. 0.],1,10:16,WSH,COL,WSH,15,COL,21,0,4,8477343,8477501.0,Tyler Lewington Fighting against Valeri Nichushkin
+50,penalty,Instigator,Tyler Lewington,Jakub Vrana,[ 3. -6.],1,10:16,WSH,COL,WSH,15,COL,21,0,4,8477343,8477944.0,Tyler Lewington Instigator against Valeri Nichushkin served by Jakub Vrana
+51,penalty,Misconduct,Tyler Lewington,Valeri Nichushkin,[6. 1.],1,10:16,WSH,COL,WSH,15,COL,21,0,4,8477343,8477501.0,Tyler Lewington Misconduct against Valeri Nichushkin
+73,penalty,Hooking,Evgeny Kuznetsov,Samuel Girard,[-83.  12.],1,03:32,WSH,COL,WSH,15,COL,21,0,4,8475744,8479398.0,Evgeny Kuznetsov Hooking against Samuel Girard
+94,penalty,Hooking,Nikita Zadorov,Lars Eller,[94. -4.],2,19:10,COL,WSH,WSH,15,COL,21,0,4,8477507,8474189.0,Nikita Zadorov Hooking against Lars Eller
+98,penalty,Hi-sticking,Alex Ovechkin,Erik Johnson,[61. 34.],2,18:15,WSH,COL,WSH,15,COL,21,0,4,8471214,8473446.0,Alex Ovechkin Hi-sticking against Erik Johnson
+113,penalty,Hooking,Tom Wilson,Samuel Girard,[66.  5.],2,14:54,WSH,COL,WSH,15,COL,21,0,4,8476880,8479398.0,Tom Wilson Hooking against Samuel Girard
+114,penalty,Embellishment,Samuel Girard,Tom Wilson,[61.  8.],2,14:54,COL,WSH,WSH,15,COL,21,0,4,8479398,8476880.0,Samuel Girard Embellishment against Tom Wilson
+245,penalty,Slashing,Gabriel Landeskog,Evgeny Kuznetsov,[66. -9.],3,04:21,COL,WSH,WSH,15,COL,21,2,5,8476455,8475744.0,Gabriel Landeskog Slashing against Evgeny Kuznetsov
+14,penalty,Tripping,Morgan Rielly,Brendan Leipsic,[-55.  -4.],1,17:08,TOR,WSH,WSH,15,TOR,10,0,0,8476853,8476894.0,Morgan Rielly Tripping against Brendan Leipsic
+95,penalty,Tripping,Morgan Rielly,Garnet Hathaway,[85. -8.],2,18:47,TOR,WSH,WSH,15,TOR,10,1,2,8476853,8477903.0,Morgan Rielly Tripping against Garnet Hathaway
+118,penalty,Interference,Nicholas Shore,T.J. Oshie,[77.  3.],2,14:24,TOR,WSH,WSH,15,TOR,10,3,2,8476406,8471698.0,Nicholas Shore Interference against T.J. Oshie
+121,penalty,Delaying Game - Puck over glass,Cody Ceci,,[ 78. -33.],2,14:15,TOR,WSH,WSH,15,TOR,10,3,2,8476879,,Cody Ceci Delaying Game - Puck over glass
+234,penalty,Slashing,Auston Matthews,John Carlson,[76. 40.],3,09:50,TOR,WSH,WSH,15,TOR,10,4,2,8479318,8474590.0,Auston Matthews Slashing against John Carlson
+245,penalty,Hooking,Carl Hagelin,Alexander Kerfoot,[-91. -24.],3,06:56,WSH,TOR,WSH,15,TOR,10,4,2,8474176,8477021.0,Carl Hagelin Hooking against Alexander Kerfoot
+7,penalty,Slashing,Artemi Panarin,T.J. Oshie,[-88. -18.],1,18:51,NYR,WSH,WSH,15,NYR,3,0,0,8478550,8471698.0,Artemi Panarin Slashing against T.J. Oshie
+29,penalty,Fighting,Brendan Lemieux,Radko Gudas,[ 41. -20.],1,15:19,NYR,WSH,WSH,15,NYR,3,1,0,8477962,8475462.0,Brendan Lemieux Fighting against Radko Gudas
+30,penalty,Fighting,Radko Gudas,Brendan Lemieux,[ 41. -28.],1,15:19,WSH,NYR,WSH,15,NYR,3,1,0,8475462,8477962.0,Radko Gudas Fighting against Brendan Lemieux
+36,penalty,Interference,Michal Kempny,Pavel Buchnevich,[-72. -25.],1,14:52,WSH,NYR,WSH,15,NYR,3,1,0,8479482,8477402.0,Michal Kempny Interference against Pavel Buchnevich
+60,penalty,Tripping,Nicklas Backstrom,Jacob Trouba,[-68.   5.],1,08:10,WSH,NYR,WSH,15,NYR,3,1,0,8473563,8476885.0,Nicklas Backstrom Tripping against Jacob Trouba
+79,penalty,Tripping,Chris Kreider,Nick Jensen,[96. 19.],1,03:37,NYR,WSH,WSH,15,NYR,3,2,1,8475184,8475324.0,Chris Kreider Tripping against Nick Jensen
+141,penalty,PS - Slash on breakaway,Brady Skjei,Jakub Vrana,[74. -4.],2,09:44,NYR,WSH,WSH,15,NYR,3,3,1,8476869,8477944.0,Brady Skjei PS - Slash on breakaway against Jakub Vrana
+156,penalty,Holding,Radko Gudas,Brendan Smith,[-32. -38.],2,06:44,WSH,NYR,WSH,15,NYR,3,3,1,8475462,8474090.0,Radko Gudas Holding against Brendan Smith
+206,penalty,Fighting,Brendan Smith,Garnet Hathaway,[-85.  32.],3,10:40,NYR,WSH,WSH,15,NYR,3,3,2,8474090,8477903.0,Brendan Smith Fighting against Garnet Hathaway
+207,penalty,Cross checking,Brendan Smith,Artemi Panarin,[-92.  30.],3,10:40,NYR,WSH,WSH,15,NYR,3,3,2,8474090,8478550.0,Brendan Smith Cross checking against Garnet Hathaway served by Artemi Panarin
+208,penalty,Fighting,Garnet Hathaway,Brendan Smith,[-86.  31.],3,10:40,WSH,NYR,WSH,15,NYR,3,3,2,8477903,8474090.0,Garnet Hathaway Fighting against Brendan Smith
+215,penalty,Slashing,John Carlson,Jacob Trouba,[83. 23.],3,08:18,WSH,NYR,WSH,15,NYR,3,4,2,8474590,8476885.0,John Carlson Slashing against Jacob Trouba
+231,penalty,Tripping,Libor Hajek,Evgeny Kuznetsov,[-80.  11.],3,04:31,NYR,WSH,WSH,15,NYR,3,4,2,8479333,8475744.0,Libor Hajek Tripping against Evgeny Kuznetsov
+41,penalty,Holding,Andrew Shaw,Nick Jensen,[-92. -23.],1,10:43,CHI,WSH,CHI,16,WSH,15,0,0,8476381,8475324.0,Andrew Shaw Holding against Nick Jensen
+61,penalty,Tripping,Lars Eller,Alex DeBrincat,[-59.  41.],1,07:01,WSH,CHI,CHI,16,WSH,15,0,1,8474189,8479337.0,Lars Eller Tripping against Alex DeBrincat
+94,penalty,Cross checking,Radko Gudas,Connor Murphy,[-20.   7.],1,00:00,WSH,CHI,CHI,16,WSH,15,0,1,8475462,8476473.0,Radko Gudas Cross checking against Connor Murphy
+95,penalty,Roughing,Radko Gudas,Jakub Vrana,[-22.   8.],1,00:00,WSH,CHI,CHI,16,WSH,15,0,1,8475462,8477944.0,Radko Gudas Roughing against Connor Murphy served by Jakub Vrana
+96,penalty,Roughing,Connor Murphy,Radko Gudas,[-16.   5.],1,00:00,CHI,WSH,CHI,16,WSH,15,0,1,8476473,8475462.0,Connor Murphy Roughing against Radko Gudas
+149,penalty,Hi stick - double minor,Chandler Stephenson,Kirby Dach,[-44. -34.],2,10:35,WSH,CHI,CHI,16,WSH,15,1,1,8476905,8481523.0,Chandler Stephenson Hi stick - double minor against Kirby Dach
+194,penalty,Tripping,Michal Kempny,Patrick Kane,[77. 39.],3,19:27,WSH,CHI,CHI,16,WSH,15,1,2,8479482,8474141.0,Michal Kempny Tripping against Patrick Kane
+33,penalty,Slashing,Mark Giordano,Alex Ovechkin,[29. 30.],1,13:26,CGY,WSH,CGY,20,WSH,15,0,0,8470966,8471214.0,Mark Giordano Slashing against Alex Ovechkin
+48,penalty,Holding,Nic Dowd,Mark Giordano,[96. -3.],1,09:50,WSH,CGY,CGY,20,WSH,15,0,0,8475343,8470966.0,Nic Dowd Holding against Mark Giordano
+99,penalty,Interference,Alex Ovechkin,Sean Monahan,[-47.  -5.],2,17:09,WSH,CGY,CGY,20,WSH,15,0,2,8471214,8477497.0,Alex Ovechkin Interference against Sean Monahan
+116,penalty,Interference,Derek Ryan,Evgeny Kuznetsov,[82.  2.],2,14:45,CGY,WSH,CGY,20,WSH,15,1,2,8478585,8475744.0,Derek Ryan Interference against Evgeny Kuznetsov
+149,penalty,Slashing,T.J. Oshie,Mikael Backlund,[68. -2.],2,05:39,WSH,CGY,CGY,20,WSH,15,1,2,8471698,8474150.0,T.J. Oshie Slashing against Mikael Backlund
+161,penalty,Tripping,John Carlson,Johnny Gaudreau,[52. 24.],2,03:09,WSH,CGY,CGY,20,WSH,15,2,3,8474590,8476346.0,John Carlson Tripping against Johnny Gaudreau
+190,penalty,Interference,TJ Brodie,T.J. Oshie,[-27.  -3.],3,12:09,CGY,WSH,CGY,20,WSH,15,2,3,8474673,8471698.0,TJ Brodie Interference against T.J. Oshie
+22,penalty,Hooking,Evgeny Kuznetsov,James Neal,[80.  8.],1,15:52,WSH,EDM,EDM,22,WSH,15,0,0,8475744,8471707.0,Evgeny Kuznetsov Hooking against James Neal
+80,penalty,Delaying Game - Puck over glass,Markus Granlund,,[-39.  37.],1,02:05,EDM,WSH,EDM,22,WSH,15,1,0,8476440,,Markus Granlund Delaying Game - Puck over glass
+94,penalty,Slashing,Alex Ovechkin,Leon Draisaitl,[43. 14.],2,19:34,WSH,EDM,EDM,22,WSH,15,1,0,8471214,8477934.0,Alex Ovechkin Slashing against Leon Draisaitl
+150,penalty,Closing hand on puck,Matt Benning,,[21. 27.],2,08:01,EDM,WSH,EDM,22,WSH,15,1,2,8476988,,Matt Benning Closing hand on puck
+179,penalty,Roughing,Tom Wilson,Zack Kassian,[-89.  -4.],2,02:02,WSH,EDM,EDM,22,WSH,15,1,3,8476880,8475178.0,Tom Wilson Roughing against Zack Kassian
+181,penalty,Roughing,Zack Kassian,Tom Wilson,[-85.   2.],2,02:02,EDM,WSH,EDM,22,WSH,15,1,3,8475178,8476880.0,Zack Kassian Roughing against Tom Wilson
+26,penalty,Hooking,Michal Kempny,Elias Pettersson,[-59. -38.],1,15:18,WSH,VAN,VAN,23,WSH,15,0,1,8479482,8480012.0,Michal Kempny Hooking against Elias Pettersson
+39,penalty,Hi-sticking,Tanner Pearson,John Carlson,[-61.  38.],1,12:39,VAN,WSH,VAN,23,WSH,15,1,1,8476871,8474590.0,Tanner Pearson Hi-sticking against John Carlson
+49,penalty,Tripping,J.T. Miller,Jonas Siegenthaler,[-62. -13.],1,08:44,VAN,WSH,VAN,23,WSH,15,2,1,8476468,8478399.0,J.T. Miller Tripping against Jonas Siegenthaler
+86,penalty,Slashing,Alex Ovechkin,Tyler Myers,[-47.  -9.],1,00:12,WSH,VAN,VAN,23,WSH,15,2,1,8471214,8474574.0,Alex Ovechkin Slashing against Tyler Myers
+140,penalty,Interference,Michal Kempny,Tanner Pearson,[-32. -36.],2,09:37,WSH,VAN,VAN,23,WSH,15,3,1,8479482,8476871.0,Michal Kempny Interference against Tanner Pearson
+159,penalty,Tripping,Lars Eller,Troy Stecher,[-61. -15.],2,04:25,WSH,VAN,VAN,23,WSH,15,5,1,8474189,8479442.0,Lars Eller Tripping against Troy Stecher
+180,penalty,Hi-sticking,Jakub Vrana,Brandon Sutter,[97.  0.],3,18:52,WSH,VAN,VAN,23,WSH,15,5,2,8477944,8474091.0,Jakub Vrana Hi-sticking against Brandon Sutter
+18,penalty,Cross checking,Morgan Rielly,Nicklas Backstrom,[ 48. -36.],1,16:50,TOR,WSH,TOR,10,WSH,15,1,0,8476853,8473563.0,Morgan Rielly Cross checking against Nicklas Backstrom
+25,penalty,Slashing,Alex Ovechkin,Trevor Moore,[-6. 39.],1,14:45,WSH,TOR,TOR,10,WSH,15,1,0,8471214,8479675.0,Alex Ovechkin Slashing against Trevor Moore
+58,penalty,Interference,Justin Holl,Travis Boyd,[ 92. -31.],1,05:05,TOR,WSH,TOR,10,WSH,15,1,1,8475718,8476329.0,Justin Holl Interference against Travis Boyd
+66,penalty,Holding,Jakub Vrana,Trevor Moore,[89. 19.],1,03:13,WSH,TOR,TOR,10,WSH,15,1,1,8477944,8479675.0,Jakub Vrana Holding against Trevor Moore
+70,penalty,Slashing,Lars Eller,Andreas Johnsson,[-77.   3.],1,01:56,WSH,TOR,TOR,10,WSH,15,1,1,8474189,8477341.0,Lars Eller Slashing against Andreas Johnsson
+99,penalty,Holding,T.J. Oshie,Alexander Kerfoot,[-30. -27.],2,16:26,WSH,TOR,TOR,10,WSH,15,1,1,8471698,8477021.0,T.J. Oshie Holding against Alexander Kerfoot
+109,penalty,Hi-sticking,Alexander Kerfoot,T.J. Oshie,[-37.  -7.],2,13:29,TOR,WSH,TOR,10,WSH,15,1,1,8477021,8471698.0,Alexander Kerfoot Hi-sticking against T.J. Oshie
+113,penalty,Holding,Cody Ceci,Tom Wilson,[-75.  -5.],2,12:07,TOR,WSH,TOR,10,WSH,15,1,1,8476879,8476880.0,Cody Ceci Holding against Tom Wilson
+127,penalty,Interference,Michal Kempny,Frederik Gauthier,[ 40. -17.],2,09:03,WSH,TOR,TOR,10,WSH,15,1,2,8479482,8477512.0,Michal Kempny Interference against Frederik Gauthier
+143,penalty,Interference,Jonas Siegenthaler,Kasperi Kapanen,[ 38. -38.],2,04:40,WSH,TOR,TOR,10,WSH,15,1,2,8478399,8477953.0,Jonas Siegenthaler Interference against Kasperi Kapanen
+176,penalty,Charging,Tom Wilson,Brendan Leipsic,[ 39. -39.],3,18:33,WSH,TOR,TOR,10,WSH,15,2,2,8476880,8476894.0,Tom Wilson Charging against Tyson Barrie served by Brendan Leipsic
+177,penalty,Roughing,Frederik Gauthier,Tom Wilson,[10. 19.],3,18:33,TOR,WSH,TOR,10,WSH,15,2,2,8477512,8476880.0,Frederik Gauthier Roughing against Tom Wilson
+178,penalty,Roughing,Tom Wilson,Frederik Gauthier,[ 7. 24.],3,18:33,WSH,TOR,TOR,10,WSH,15,2,2,8476880,8477512.0,Tom Wilson Roughing against Frederik Gauthier
+198,penalty,Interference,Justin Holl,Evgeny Kuznetsov,[ 97. -10.],3,12:20,TOR,WSH,TOR,10,WSH,15,3,3,8475718,8475744.0,Justin Holl Interference against Evgeny Kuznetsov
+244,penalty,Delaying the game,Radko Gudas,,[-84.   2.],3,03:14,WSH,TOR,TOR,10,WSH,15,3,3,8475462,,Radko Gudas Delaying the game
+258,penalty,Tripping,William Nylander,Tom Wilson,[-78.  -5.],4,04:39,TOR,WSH,TOR,10,WSH,15,3,3,8477939,8476880.0,William Nylander Tripping against Tom Wilson
+270,penalty,Hi-sticking,Mitchell Marner,John Carlson,[-63. -19.],4,02:40,TOR,WSH,TOR,10,WSH,15,3,3,8478483,8474590.0,Mitchell Marner Hi-sticking against John Carlson
+19,penalty,Elbowing,Dmitry Orlov,Kyle Okposo,[-78.  -6.],1,17:18,WSH,BUF,WSH,15,BUF,7,0,0,8475200,8473449.0,Dmitry Orlov Elbowing against Kyle Okposo
+223,penalty,Tripping,Dmitry Orlov,Rasmus Dahlin,[73. -7.],3,08:50,WSH,BUF,WSH,15,BUF,7,5,1,8475200,8480839.0,Dmitry Orlov Tripping against Rasmus Dahlin
+251,penalty,Slashing,Johan Larsson,Jonas Siegenthaler,[-70. -23.],3,01:36,BUF,WSH,WSH,15,BUF,7,6,1,8475728,8478399.0,Johan Larsson Slashing against Jonas Siegenthaler
+143,penalty,Roughing,Andrew Mangiapane,Jonas Siegenthaler,[-67.  11.],2,10:17,CGY,WSH,WSH,15,CGY,20,2,2,8478233,8478399.0,Andrew Mangiapane Roughing against Jonas Siegenthaler
+144,penalty,Roughing,Jonas Siegenthaler,Andrew Mangiapane,[-67.  -4.],2,10:17,WSH,CGY,WSH,15,CGY,20,2,2,8478399,8478233.0,Jonas Siegenthaler Roughing against Andrew Mangiapane
+197,penalty,Tripping,Mikael Backlund,Nicklas Backstrom,[34. -3.],3,19:05,CGY,WSH,WSH,15,CGY,20,3,2,8474150,8473563.0,Mikael Backlund Tripping against Nicklas Backstrom
+227,penalty,Tripping,Evgeny Kuznetsov,Oliver Kylington,[-33.  16.],3,12:21,WSH,CGY,WSH,15,CGY,20,4,2,8475744,8478430.0,Evgeny Kuznetsov Tripping against Oliver Kylington
+252,penalty,Interference,Alan Quine,Tom Wilson,[-66.  39.],3,04:28,CGY,WSH,WSH,15,CGY,20,4,2,8476409,8476880.0,Alan Quine Interference against Tom Wilson
+264,penalty,Delaying Game - Puck over glass,Dmitry Orlov,,[19. 36.],3,00:57,WSH,CGY,WSH,15,CGY,20,4,2,8475200,,Dmitry Orlov Delaying Game - Puck over glass
+14,penalty,Interference,Aleksander Barkov,Travis Boyd,[ 85. -18.],1,17:38,FLA,WSH,FLA,13,WSH,15,1,1,8477493,8476329.0,Aleksander Barkov Interference against Travis Boyd
+102,penalty,Slashing,Brian Boyle,Radko Gudas,[ 27. -17.],2,14:22,FLA,WSH,FLA,13,WSH,15,3,1,8470619,8475462.0,Brian Boyle Slashing against Radko Gudas
+111,penalty,Hi-sticking,Tom Wilson,Aleksander Barkov,[ 36. -41.],2,12:57,WSH,FLA,FLA,13,WSH,15,3,2,8476880,8477493.0,Tom Wilson Hi-sticking against Aleksander Barkov
+122,penalty,Slashing,Garnet Hathaway,Jonathan Huberdeau,[55.  0.],2,11:01,WSH,FLA,FLA,13,WSH,15,3,2,8477903,8476456.0,Garnet Hathaway Slashing against Jonathan Huberdeau
+145,penalty,Slashing,Keith Yandle,Garnet Hathaway,[-66.  -3.],2,05:47,FLA,WSH,FLA,13,WSH,15,3,3,8471735,8477903.0,Keith Yandle Slashing against Garnet Hathaway
+154,penalty,Hooking,Dmitry Orlov,Jonathan Huberdeau,[85.  7.],2,03:18,WSH,FLA,FLA,13,WSH,15,3,3,8475200,8476456.0,Dmitry Orlov Hooking against Jonathan Huberdeau
+162,penalty,Tripping,Lars Eller,Frank Vatrano,[-20. -13.],2,01:23,WSH,FLA,FLA,13,WSH,15,3,3,8474189,8478366.0,Lars Eller Tripping against Frank Vatrano
+204,penalty,Tripping,Dryden Hunt,Radko Gudas,[-51. -40.],3,14:00,FLA,WSH,FLA,13,WSH,15,4,4,8478211,8475462.0,Dryden Hunt Tripping against Radko Gudas
+219,penalty,Tripping,Michal Kempny,Aleksander Barkov,[-89.   6.],3,11:01,WSH,FLA,FLA,13,WSH,15,4,4,8479482,8477493.0,Michal Kempny Tripping against Aleksander Barkov
+14,penalty,Hooking,Jonathan Marchessault,T.J. Oshie,[-83.  10.],1,16:22,VGK,WSH,WSH,15,VGK,54,1,0,8476539,8471698.0,Jonathan Marchessault Hooking against T.J. Oshie
+71,penalty,Hooking,Cody Eakin,Evgeny Kuznetsov,[-66.  21.],1,05:35,VGK,WSH,WSH,15,VGK,54,2,1,8475236,8475744.0,Cody Eakin Hooking against Evgeny Kuznetsov
+83,penalty,Interference,Radko Gudas,Tomas Nosek,[ 43. -39.],1,00:03,WSH,VGK,WSH,15,VGK,54,2,1,8475462,8477931.0,Radko Gudas Interference against Tomas Nosek
+134,penalty,Tripping,Tomas Nosek,Dmitry Orlov,[-91.  21.],2,07:33,VGK,WSH,WSH,15,VGK,54,2,1,8477931,8475200.0,Tomas Nosek Tripping against Dmitry Orlov
+147,penalty,Elbowing,Garnet Hathaway,Max Pacioretty,[-39. -38.],2,04:00,WSH,VGK,WSH,15,VGK,54,3,1,8477903,8474157.0,Garnet Hathaway Elbowing against Max Pacioretty
+167,penalty,Roughing,T.J. Oshie,Brayden McNabb,[ 91. -28.],2,00:00,WSH,VGK,WSH,15,VGK,54,3,2,8471698,8475188.0,T.J. Oshie Roughing against Brayden McNabb
+187,penalty,Too many men on the ice,Alex Ovechkin,,[21. 39.],3,14:15,WSH,VGK,WSH,15,VGK,54,3,2,8471214,,Too many men/ice served by Alex Ovechkin
+211,penalty,Slashing,Jon Merrill,Evgeny Kuznetsov,[-75. -18.],3,09:41,VGK,WSH,WSH,15,VGK,54,3,2,8475750,8475744.0,Jon Merrill Slashing against Evgeny Kuznetsov
+219,penalty,Roughing,Cody Eakin,Tom Wilson,[83. 32.],3,08:00,VGK,WSH,WSH,15,VGK,54,4,2,8475236,8476880.0,Cody Eakin Roughing against Tom Wilson
+220,penalty,Roughing,Tom Wilson,Cody Eakin,[77. 30.],3,08:00,WSH,VGK,WSH,15,VGK,54,4,2,8476880,8475236.0,Tom Wilson Roughing against Cody Eakin
+224,penalty,Hooking,Jon Merrill,T.J. Oshie,[-82.   6.],3,06:43,VGK,WSH,WSH,15,VGK,54,4,2,8475750,8471698.0,Jon Merrill Hooking against T.J. Oshie
+231,penalty,Slashing,Deryk Engelland,T.J. Oshie,[-70.  -7.],3,05:40,VGK,WSH,WSH,15,VGK,54,4,2,8468674,8471698.0,Deryk Engelland Slashing against T.J. Oshie
+264,penalty,Game Misconduct - Team staff,Jon Merrill,,[-13.  42.],3,00:00,VGK,WSH,WSH,15,VGK,54,5,2,8475750,,Game Misconduct - Team staff served by Jon Merrill
+45,penalty,Slashing,Jakub Vrana,Jordan Oesterle,[-56. -32.],1,09:06,WSH,ARI,WSH,15,ARI,53,0,0,8477944,8477851.0,Jakub Vrana Slashing against Jordan Oesterle
+57,penalty,Hooking,Nick Schmaltz,Jakub Vrana,[-81.  -1.],1,05:00,ARI,WSH,WSH,15,ARI,53,0,1,8477951,8477944.0,Nick Schmaltz Hooking against Jakub Vrana
+161,penalty,Hooking,Jason Demers,T.J. Oshie,[76.  0.],2,00:29,ARI,WSH,WSH,15,ARI,53,1,3,8474218,8471698.0,Jason Demers Hooking against T.J. Oshie
+180,penalty,Tripping,Derek Stepan,Dmitry Orlov,[-71. -29.],3,14:27,ARI,WSH,WSH,15,ARI,53,2,3,8474613,8475200.0,Derek Stepan Tripping against Dmitry Orlov
+192,penalty,Hi-sticking,T.J. Oshie,Christian Fischer,[62. 41.],3,10:11,WSH,ARI,WSH,15,ARI,53,2,3,8471698,8478432.0,T.J. Oshie Hi-sticking against Christian Fischer
+44,penalty,Holding,Matt Niskanen,T.J. Oshie,[ 97. -10.],1,10:37,PHI,WSH,PHI,4,WSH,15,0,1,8471702,8471698.0,Matt Niskanen Holding against T.J. Oshie
+70,penalty,Slashing,Jakub Vrana,Shayne Gostisbehere,[-37.   6.],1,04:34,WSH,PHI,PHI,4,WSH,15,0,1,8477944,8476906.0,Jakub Vrana Slashing against Shayne Gostisbehere
+83,penalty,Hooking,Travis Sanheim,Nicklas Backstrom,[ 50. -35.],1,00:58,PHI,WSH,PHI,4,WSH,15,0,1,8477948,8473563.0,Travis Sanheim Hooking against Nicklas Backstrom
+113,penalty,Hi-sticking,Richard Panik,Joel Farabee,[-46.  12.],2,14:14,WSH,PHI,PHI,4,WSH,15,0,1,8475209,8480797.0,Richard Panik Hi-sticking against Joel Farabee
+133,penalty,Tripping,James van Riemsdyk,Dmitry Orlov,[-49. -18.],2,09:13,PHI,WSH,PHI,4,WSH,15,0,1,8474037,8475200.0,James van Riemsdyk Tripping against Dmitry Orlov
+139,penalty,Slashing,Jakub Vrana,Ivan Provorov,[25. 39.],2,06:59,WSH,PHI,PHI,4,WSH,15,0,1,8477944,8478500.0,Jakub Vrana Slashing against Ivan Provorov
+193,penalty,Tripping,Nic Dowd,Jakub Vrana,[94. 24.],3,13:45,WSH,PHI,PHI,4,WSH,15,0,1,8475343,8477944.0,Nic Dowd Tripping against Matt Niskanen served by Jakub Vrana
+158,penalty,Tripping,Garnet Hathaway,Shea Weber,[97. -4.],2,07:24,WSH,MTL,WSH,15,MTL,8,0,3,8477903,8470642.0,Garnet Hathaway Tripping against Shea Weber
+216,penalty,Interference,Jeff Petry,T.J. Oshie,[-79.   0.],3,15:47,MTL,WSH,WSH,15,MTL,8,0,4,8473507,8471698.0,Jeff Petry Interference against T.J. Oshie
+37,penalty,Hooking,David Pastrnak,Jakub Vrana,[-54. -13.],1,11:57,BOS,WSH,BOS,6,WSH,15,0,0,8477956,8477944.0,David Pastrnak Hooking against Jakub Vrana
+94,penalty,Holding,Radko Gudas,Brad Marchand,[31. 31.],1,00:39,WSH,BOS,BOS,6,WSH,15,1,1,8475462,8473419.0,Radko Gudas Holding against Brad Marchand
+120,penalty,Hooking,Danton Heinen,Brendan Leipsic,[ 11. -22.],2,15:18,BOS,WSH,BOS,6,WSH,15,2,1,8478046,8476894.0,Danton Heinen Hooking against Brendan Leipsic
+143,penalty,Tripping,Braden Holtby,Brendan Leipsic,[-96.  -3.],2,09:55,WSH,BOS,BOS,6,WSH,15,2,1,8474651,8476894.0,Braden Holtby Tripping against Paul Carey served by Brendan Leipsic
+186,penalty,Cross checking,Evgeny Kuznetsov,Charlie McAvoy,[89. 13.],2,00:16,WSH,BOS,BOS,6,WSH,15,2,1,8475744,8479325.0,Evgeny Kuznetsov Cross checking against Charlie McAvoy
+240,penalty,Roughing,Zdeno Chara,Tom Wilson,[-67.  34.],3,06:01,BOS,WSH,BOS,6,WSH,15,2,1,8465009,8476880.0,Zdeno Chara Roughing against Tom Wilson
+241,penalty,Roughing,Tom Wilson,Zdeno Chara,[-31.  37.],3,06:01,WSH,BOS,BOS,6,WSH,15,2,1,8476880,8465009.0,Tom Wilson Roughing against Zdeno Chara
+75,penalty,Delaying Game - Puck over glass,T.J. Oshie,,[30. 32.],1,02:00,WSH,ANA,WSH,15,ANA,24,1,0,8471698,,T.J. Oshie Delaying Game - Puck over glass
+117,penalty,Slashing,Carter Rowney,Jakub Vrana,[76.  2.],2,13:41,ANA,WSH,WSH,15,ANA,24,1,0,8477240,8477944.0,Carter Rowney Slashing against Jakub Vrana
+178,penalty,Roughing,Erik Gudbranson,Carter Rowney,[91. -7.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8475790,8477240.0,Erik Gudbranson Roughing against Garnet Hathaway served by Carter Rowney
+179,penalty,Misconduct,Erik Gudbranson,Garnet Hathaway,[86. -9.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8475790,8477903.0,Erik Gudbranson Misconduct against Garnet Hathaway
+180,penalty,Match penalty,Garnet Hathaway,Travis Boyd,[90. -7.],2,00:34,WSH,ANA,WSH,15,ANA,24,3,0,8477903,8476329.0,Garnet Hathaway Match penalty against Erik Gudbranson served by Travis Boyd
+181,penalty,Fighting,Garnet Hathaway,Derek Grant,[94. -8.],2,00:34,WSH,ANA,WSH,15,ANA,24,3,0,8477903,8474683.0,Garnet Hathaway Fighting against Derek Grant
+182,penalty,Roughing,Brendan Leipsic,Brendan Guhle,[ 88. -11.],2,00:34,WSH,ANA,WSH,15,ANA,24,3,0,8476894,8478425.0,Brendan Leipsic Roughing against Brendan Guhle
+183,penalty,Fighting,Derek Grant,Garnet Hathaway,[88. -9.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8474683,8477903.0,Derek Grant Fighting against Garnet Hathaway
+184,penalty,Roughing,Brendan Leipsic,Brendan Guhle,[91. -6.],2,00:34,WSH,ANA,WSH,15,ANA,24,3,0,8476894,8478425.0,Brendan Leipsic Roughing against Brendan Guhle
+185,penalty,Roughing,Brendan Guhle,Brendan Leipsic,[90. -5.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8478425,8476894.0,Brendan Guhle Roughing against Brendan Leipsic
+186,penalty,Roughing,Brendan Guhle,Brendan Leipsic,[92. -8.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8478425,8476894.0,Brendan Guhle Roughing against Brendan Leipsic
+187,penalty,Game misconduct,Nick Ritchie,Garnet Hathaway,[85. -9.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8477941,8477903.0,Nick Ritchie Game misconduct against Garnet Hathaway
+230,penalty,Hi stick - double minor,T.J. Oshie,Carter Rowney,[-72. -38.],3,07:05,WSH,ANA,WSH,15,ANA,24,4,0,8471698,8477240.0,T.J. Oshie Hi stick - double minor against Carter Rowney
+88,penalty,Boarding,Tom Wilson,Libor Hajek,[ 82. -37.],1,00:34,WSH,NYR,NYR,3,WSH,15,0,0,8476880,8479333.0,Tom Wilson Boarding against Libor Hajek
+121,penalty,Tripping,Greg McKegg,T.J. Oshie,[ 69. -40.],2,12:58,NYR,WSH,NYR,3,WSH,15,1,0,8475735,8471698.0,Greg McKegg Tripping against T.J. Oshie
+178,penalty,Tripping,Alex Ovechkin,Artemi Panarin,[-62.   1.],2,00:08,WSH,NYR,NYR,3,WSH,15,1,0,8471214,8478550.0,Alex Ovechkin Tripping against Artemi Panarin
+184,penalty,Hi-sticking,Dmitry Orlov,Adam Fox,[-90.  20.],3,17:28,WSH,NYR,NYR,3,WSH,15,1,0,8475200,8479323.0,Dmitry Orlov Hi-sticking against Adam Fox
+200,penalty,Tripping,Brendan Smith,Richard Panik,[ 42. -31.],3,13:52,NYR,WSH,NYR,3,WSH,15,3,0,8474090,8475209.0,Brendan Smith Tripping against Richard Panik
+249,penalty,Fighting,Brendan Lemieux,Tom Wilson,[-47.  13.],3,03:28,NYR,WSH,NYR,3,WSH,15,4,1,8477962,8476880.0,Brendan Lemieux Fighting against Tom Wilson
+250,penalty,Fighting,Tom Wilson,Brendan Lemieux,[-46.  13.],3,03:28,WSH,NYR,NYR,3,WSH,15,4,1,8476880,8477962.0,Tom Wilson Fighting against Brendan Lemieux
+251,penalty,Roughing,Brendan Lemieux,Chris Kreider,[-31.  37.],3,03:28,NYR,WSH,NYR,3,WSH,15,4,1,8477962,8475184.0,Brendan Lemieux Roughing against Tom Wilson served by Chris Kreider
+46,penalty,Hi-sticking,Jake Virtanen,Lars Eller,[ -5. -39.],1,09:31,VAN,WSH,WSH,15,VAN,23,1,0,8477937,8474189.0,Jake Virtanen Hi-sticking against Lars Eller
+54,penalty,Interference,Chandler Stephenson,Josh Leivo,[-49. -25.],1,07:18,WSH,VAN,WSH,15,VAN,23,1,0,8476905,8476410.0,Chandler Stephenson Interference against Josh Leivo
+57,penalty,Tripping,Richard Panik,Elias Pettersson,[ 34. -33.],1,06:16,WSH,VAN,WSH,15,VAN,23,1,0,8475209,8480012.0,Richard Panik Tripping against Elias Pettersson
+123,penalty,Hooking,Jonas Siegenthaler,Josh Leivo,[-96.   0.],2,11:23,WSH,VAN,WSH,15,VAN,23,1,1,8478399,8476410.0,Jonas Siegenthaler Hooking against Josh Leivo
+151,penalty,Hooking,Lars Eller,Elias Pettersson,[55. 29.],2,03:40,WSH,VAN,WSH,15,VAN,23,1,1,8474189,8480012.0,Lars Eller Hooking against Elias Pettersson
+160,penalty,Interference,Tyler Myers,Tom Wilson,[-3. 40.],2,00:46,VAN,WSH,WSH,15,VAN,23,1,1,8474574,8476880.0,Tyler Myers Interference against Tom Wilson
+185,penalty,Interference,Zack MacEwen,Alex Ovechkin,[-74.  -2.],3,15:17,VAN,WSH,WSH,15,VAN,23,1,1,8479772,8471214.0,Zack MacEwen Interference against Alex Ovechkin
+249,penalty,Hooking,Evgeny Kuznetsov,Christopher Tanev,[-75.  -8.],4,03:35,WSH,VAN,WSH,15,VAN,23,1,1,8475744,8475690.0,Evgeny Kuznetsov Hooking against Christopher Tanev
+21,penalty,Holding,Radko Gudas,Denis Malgin,[ 74. -25.],1,14:57,WSH,FLA,WSH,15,FLA,13,0,0,8475462,8478843.0,Radko Gudas Holding against Denis Malgin
+32,penalty,Delaying Game - Puck over glass,John Carlson,,[73. 35.],1,12:25,WSH,FLA,WSH,15,FLA,13,0,0,8474590,,John Carlson Delaying Game - Puck over glass
+76,penalty,Tripping,Jonathan Huberdeau,Jakub Vrana,[ 18. -17.],2,19:36,FLA,WSH,WSH,15,FLA,13,1,0,8476456,8477944.0,Jonathan Huberdeau Tripping against Jakub Vrana
+127,penalty,Interference,Evgeny Kuznetsov,Frank Vatrano,[25. 38.],2,06:16,WSH,FLA,WSH,15,FLA,13,1,1,8475744,8478366.0,Evgeny Kuznetsov Interference against Frank Vatrano
+208,penalty,Hooking,Aleksander Barkov,Evgeny Kuznetsov,[-63.  13.],3,07:24,FLA,WSH,WSH,15,FLA,13,4,2,8477493,8475744.0,Aleksander Barkov Hooking against Evgeny Kuznetsov
+209,penalty,Embellishment,Evgeny Kuznetsov,Aleksander Barkov,[-66.  20.],3,07:24,WSH,FLA,WSH,15,FLA,13,4,2,8475744,8477493.0,Evgeny Kuznetsov Embellishment against Aleksander Barkov
+233,penalty,Interference,Keith Yandle,Lars Eller,[31. 38.],3,00:49,FLA,WSH,WSH,15,FLA,13,4,3,8471735,8474189.0,Keith Yandle Interference against Lars Eller
+47,penalty,Interference,Lars Eller,Brayden Point,[-19. -33.],1,11:43,WSH,TBL,WSH,15,TBL,14,0,0,8474189,8478010.0,Lars Eller Interference against Brayden Point
+99,penalty,Hi-sticking,Richard Panik,Ondrej Palat,[ 43. -18.],1,02:06,WSH,TBL,WSH,15,TBL,14,0,0,8475209,8476292.0,Richard Panik Hi-sticking against Ondrej Palat
+143,penalty,Interference,Mikhail Sergachev,Lars Eller,[48.  1.],2,15:09,TBL,WSH,WSH,15,TBL,14,0,2,8479410,8474189.0,Mikhail Sergachev Interference against Lars Eller
+168,penalty,Roughing,Evgeny Kuznetsov,Yanni Gourde,[-95.   0.],2,11:13,WSH,TBL,WSH,15,TBL,14,1,2,8475744,8476826.0,Evgeny Kuznetsov Roughing against Yanni Gourde
+169,penalty,Roughing,Yanni Gourde,Evgeny Kuznetsov,[-96.  -4.],2,11:13,TBL,WSH,WSH,15,TBL,14,1,2,8476826,8475744.0,Yanni Gourde Roughing against Evgeny Kuznetsov
+184,penalty,Roughing,Richard Panik,Nikita Kucherov,[-80.  -3.],2,06:47,WSH,TBL,WSH,15,TBL,14,1,2,8475209,8476453.0,Richard Panik Roughing against Nikita Kucherov
+227,penalty,Interference,Alex Ovechkin,Mikhail Sergachev,[-36.   0.],3,14:41,WSH,TBL,WSH,15,TBL,14,2,3,8471214,8479410.0,Alex Ovechkin Interference against Mikhail Sergachev
+249,penalty,Holding,Nikita Kucherov,Dmitry Orlov,[-55. -38.],3,10:14,TBL,WSH,WSH,15,TBL,14,2,3,8476453,8475200.0,Nikita Kucherov Holding against Dmitry Orlov
+27,penalty,Tripping,Evgeny Kuznetsov,Dylan Larkin,[-62.  -6.],1,11:32,WSH,DET,DET,17,WSH,15,0,0,8475744,8477946.0,Evgeny Kuznetsov Tripping against Dylan Larkin
+36,penalty,Tripping,Dmitry Orlov,Robby Fabbri,[-86.  33.],1,08:40,WSH,DET,DET,17,WSH,15,0,0,8475200,8477952.0,Dmitry Orlov Tripping against Robby Fabbri
+56,penalty,Holding,Dylan McIlrath,Jakub Vrana,[ 92. -19.],1,05:27,DET,WSH,DET,17,WSH,15,1,0,8475795,8477944.0,Dylan McIlrath Holding against Jakub Vrana
+79,penalty,Kneeing,Tom Wilson,Filip Hronek,[40. 34.],1,00:11,WSH,DET,DET,17,WSH,15,1,0,8476880,8479425.0,Tom Wilson Kneeing against Filip Hronek
+84,penalty,Hooking,Dylan Larkin,Garnet Hathaway,[-94.  22.],2,18:50,DET,WSH,DET,17,WSH,15,1,0,8477946,8477903.0,Dylan Larkin Hooking against Garnet Hathaway
+97,penalty,Interference,Filip Hronek,Alex Ovechkin,[-41. -35.],2,15:21,DET,WSH,DET,17,WSH,15,1,1,8479425,8471214.0,Filip Hronek Interference against Alex Ovechkin
+130,penalty,Too many men on the ice,Brendan Leipsic,,[12. 20.],2,05:59,WSH,DET,DET,17,WSH,15,1,2,8476894,,Too many men/ice served by Brendan Leipsic
+122,penalty,Tripping,Dylan Gambrell,Radko Gudas,[-67. -39.],2,13:37,SJS,WSH,SJS,28,WSH,15,1,4,8479580,8475462.0,Dylan Gambrell Tripping against Radko Gudas
+217,penalty,Elbowing,Evander Kane,Radko Gudas,[15. 39.],3,05:01,SJS,WSH,SJS,28,WSH,15,2,5,8475169,8475462.0,Evander Kane Elbowing against Radko Gudas
+218,penalty,Game misconduct,Evander Kane,,[15. 39.],3,05:01,SJS,WSH,SJS,28,WSH,15,2,5,8475169,,Evander Kane Game misconduct
+83,penalty,Closing hand on puck,Michal Kempny,,[-60.  38.],1,00:39,WSH,LAK,LAK,26,WSH,15,0,2,8479482,,Michal Kempny Closing hand on puck
+128,penalty,Slashing,Evgeny Kuznetsov,Alex Iafallo,[67.  4.],2,09:01,WSH,LAK,LAK,26,WSH,15,0,2,8475744,8480113.0,Evgeny Kuznetsov Slashing against Alex Iafallo
+158,penalty,Slashing,T.J. Oshie,Anze Kopitar,[68. 24.],2,01:18,WSH,LAK,LAK,26,WSH,15,0,2,8471698,8471685.0,T.J. Oshie Slashing against Anze Kopitar
+181,penalty,Hooking,Anze Kopitar,Evgeny Kuznetsov,[65. 12.],3,12:28,LAK,WSH,LAK,26,WSH,15,1,2,8471685,8475744.0,Anze Kopitar Hooking against Evgeny Kuznetsov
+214,penalty,Illegal check to head,Tyler Toffoli,Garnet Hathaway,[13. 30.],3,04:43,LAK,WSH,LAK,26,WSH,15,1,2,8475726,8477903.0,Tyler Toffoli Illegal check to head against Garnet Hathaway
+91,penalty,Interference,Carl Hagelin,Devin Shore,[67.  4.],1,01:52,WSH,ANA,ANA,24,WSH,15,0,1,8474176,8476913.0,Carl Hagelin Interference against Devin Shore
+114,penalty,Too many men on the ice,Sam Steel,,[-10.  40.],2,17:48,ANA,WSH,ANA,24,WSH,15,0,1,8479351,,Too many men/ice served by Sam Steel
+122,penalty,Unsportsmanlike conduct,Erik Gudbranson,Devin Shore,[70.  2.],2,15:06,ANA,WSH,ANA,24,WSH,15,0,1,8475790,8476913.0,Erik Gudbranson Unsportsmanlike conduct against Garnet Hathaway served by Devin Shore
+123,penalty,Misconduct,Garnet Hathaway,Erik Gudbranson,[59.  4.],2,15:06,WSH,ANA,ANA,24,WSH,15,0,1,8477903,8475790.0,Garnet Hathaway Misconduct against Erik Gudbranson
+124,penalty,Misconduct,Erik Gudbranson,,[71.  6.],2,15:06,ANA,WSH,ANA,24,WSH,15,0,1,8475790,,Erik Gudbranson Misconduct
+137,penalty,Fighting,Radko Gudas,Nicolas Deslauriers,[ 51. -26.],2,11:43,WSH,ANA,ANA,24,WSH,15,0,2,8475462,8475235.0,Radko Gudas Fighting against Nicolas Deslauriers
+138,penalty,Fighting,Nicolas Deslauriers,Radko Gudas,[ 52. -13.],2,11:43,ANA,WSH,ANA,24,WSH,15,0,2,8475235,8475462.0,Nicolas Deslauriers Fighting against Radko Gudas
+139,penalty,Misconduct,Nicolas Deslauriers,,[ 69. -19.],2,11:43,ANA,WSH,ANA,24,WSH,15,0,2,8475235,,Nicolas Deslauriers Misconduct
+143,penalty,Hi-sticking,Cam Fowler,Jakub Vrana,[ 90. -20.],2,10:54,ANA,WSH,ANA,24,WSH,15,0,2,8475764,8477944.0,Cam Fowler Hi-sticking against Jakub Vrana
+145,penalty,Cross checking,T.J. Oshie,Derek Grant,[-26.  40.],2,10:24,WSH,ANA,ANA,24,WSH,15,0,2,8471698,8474683.0,T.J. Oshie Cross checking against Derek Grant
+153,penalty,Slashing,Jonas Siegenthaler,Troy Terry,[-45.  41.],2,08:20,WSH,ANA,ANA,24,WSH,15,0,2,8478399,8478873.0,Jonas Siegenthaler Slashing against Troy Terry
+205,penalty,Fighting,Garnet Hathaway,Erik Gudbranson,[-30.   4.],3,16:54,WSH,ANA,ANA,24,WSH,15,2,3,8477903,8475790.0,Garnet Hathaway Fighting against Erik Gudbranson
+206,penalty,Fighting,Erik Gudbranson,Garnet Hathaway,[-32.   7.],3,16:54,ANA,WSH,ANA,24,WSH,15,2,3,8475790,8477903.0,Erik Gudbranson Fighting against Garnet Hathaway
+238,penalty,Roughing,Evgeny Kuznetsov,Derek Grant,[-90.  12.],3,10:21,WSH,ANA,ANA,24,WSH,15,2,3,8475744,8474683.0,Evgeny Kuznetsov Roughing against Derek Grant
+239,penalty,Cross checking,Derek Grant,Evgeny Kuznetsov,[-38.  28.],3,10:21,ANA,WSH,ANA,24,WSH,15,2,3,8474683,8475744.0,Derek Grant Cross checking against Evgeny Kuznetsov
+21,penalty,Tripping,Braden Holtby,Jakub Vrana,[76.  1.],1,15:32,WSH,CBJ,WSH,15,CBJ,29,0,1,8474651,8477944.0,Braden Holtby Tripping against Pierre-Luc Dubois served by Jakub Vrana
+33,penalty,Charging,Richard Panik,Vladislav Gavrikov,[-95.   8.],1,10:41,WSH,CBJ,WSH,15,CBJ,29,0,1,8475209,8478882.0,Richard Panik Charging against Vladislav Gavrikov
+40,penalty,Hooking,Nick Foligno,Jonas Siegenthaler,[66.  0.],1,10:03,CBJ,WSH,WSH,15,CBJ,29,0,1,8473422,8478399.0,Nick Foligno Hooking against Jonas Siegenthaler
+169,penalty,Interference,Oliver Bjorkstrand,Brendan Leipsic,[11. 25.],2,07:34,CBJ,WSH,WSH,15,CBJ,29,0,2,8477416,8476894.0,Oliver Bjorkstrand Interference against Brendan Leipsic
+176,penalty,Hooking,Pierre-Luc Dubois,Carl Hagelin,[ 31. -34.],2,04:40,CBJ,WSH,WSH,15,CBJ,29,0,2,8479400,8474176.0,Pierre-Luc Dubois Hooking against Carl Hagelin
+195,penalty,Tripping,Nic Dowd,Dean Kukan,[61. 30.],2,01:29,WSH,CBJ,WSH,15,CBJ,29,0,2,8475343,8478567.0,Nic Dowd Tripping against Dean Kukan
+213,penalty,Tripping,Nic Dowd,Alexandre Texier,[19.  2.],3,16:32,WSH,CBJ,WSH,15,CBJ,29,1,2,8475343,8480074.0,Nic Dowd Tripping against Alexandre Texier
+258,penalty,Interference - Goalkeeper,Tom Wilson,Joonas Korpisalo,[-78.   4.],3,04:51,WSH,CBJ,WSH,15,CBJ,29,1,4,8476880,8476914.0,Tom Wilson Interference - Goalkeeper against Joonas Korpisalo
+57,penalty,Fighting,Zdeno Chara,Tom Wilson,[-92.  22.],1,09:46,BOS,WSH,WSH,15,BOS,6,0,1,8465009,8476880.0,Zdeno Chara Fighting against Tom Wilson
+58,penalty,Cross checking,Tom Wilson,Brendan Leipsic,[-94.  15.],1,09:46,WSH,BOS,WSH,15,BOS,6,0,1,8476880,8476894.0,Tom Wilson Cross checking against Zdeno Chara served by Brendan Leipsic
+59,penalty,Fighting,Tom Wilson,Zdeno Chara,[-93.  20.],1,09:46,WSH,BOS,WSH,15,BOS,6,0,1,8476880,8465009.0,Tom Wilson Fighting against Zdeno Chara
+73,penalty,Tripping,Jakub Vrana,Torey Krug,[69. -1.],1,05:43,WSH,BOS,WSH,15,BOS,6,0,1,8477944,8476792.0,Jakub Vrana Tripping against Torey Krug
+92,penalty,Hi-sticking,Joakim Nordstrom,Nicklas Backstrom,[36. 15.],1,00:34,BOS,WSH,WSH,15,BOS,6,0,1,8475807,8473563.0,Joakim Nordstrom Hi-sticking against Nicklas Backstrom
+100,penalty,Too many men on the ice,Brendan Leipsic,,[36. 20.],2,18:29,WSH,BOS,WSH,15,BOS,6,0,1,8476894,,Too many men/ice served by Brendan Leipsic
+115,penalty,Interference,Chris Wagner,Garnet Hathaway,[69. 10.],2,16:12,BOS,WSH,WSH,15,BOS,6,0,1,8475780,8477903.0,Chris Wagner Interference against Garnet Hathaway
+182,penalty,Holding,Charlie Coyle,Dmitry Orlov,[-57. -18.],2,02:32,BOS,WSH,WSH,15,BOS,6,2,1,8475745,8475200.0,Charlie Coyle Holding against Dmitry Orlov
+191,penalty,Interference,Tom Wilson,David Pastrnak,[-22.  30.],3,19:41,WSH,BOS,WSH,15,BOS,6,2,1,8476880,8477956.0,Tom Wilson Interference against David Pastrnak
+223,penalty,Tripping,John Carlson,David Pastrnak,[ 91. -26.],3,13:56,WSH,BOS,WSH,15,BOS,6,3,2,8474590,8477956.0,John Carlson Tripping against David Pastrnak
+240,penalty,Roughing,Brett Ritchie,Garnet Hathaway,[ 92. -13.],3,09:47,BOS,WSH,WSH,15,BOS,6,3,2,8476439,8477903.0,Brett Ritchie Roughing against Garnet Hathaway
+241,penalty,Roughing,Garnet Hathaway,Brett Ritchie,[ 93. -17.],3,09:47,WSH,BOS,WSH,15,BOS,6,3,2,8477903,8476439.0,Garnet Hathaway Roughing against Brett Ritchie
+49,penalty,Interference,Jan Rutta,Carl Hagelin,[-57. -35.],1,07:37,TBL,WSH,TBL,14,WSH,15,0,1,8480172,8474176.0,Jan Rutta Interference against Carl Hagelin
+51,penalty,Tripping,Nicklas Backstrom,Ryan McDonagh,[-84.  28.],1,07:01,WSH,TBL,TBL,14,WSH,15,0,1,8473563,8474151.0,Nicklas Backstrom Tripping against Ryan McDonagh
+65,penalty,Hi-sticking,Steven Stamkos,Jakub Vrana,[-21. -26.],1,02:48,TBL,WSH,TBL,14,WSH,15,0,1,8474564,8477944.0,Steven Stamkos Hi-sticking against Jakub Vrana
+77,penalty,Roughing,Michal Kempny,Steven Stamkos,[-62. -33.],2,18:28,WSH,TBL,TBL,14,WSH,15,0,1,8479482,8474564.0,Michal Kempny Roughing against Steven Stamkos
+91,penalty,Delaying Game - Puck over glass,Nicklas Backstrom,,[-62.  38.],2,14:57,WSH,TBL,TBL,14,WSH,15,0,1,8473563,,Nicklas Backstrom Delaying Game - Puck over glass
+107,penalty,Tripping,Alex Ovechkin,Victor Hedman,[ 29. -15.],2,11:40,WSH,TBL,TBL,14,WSH,15,1,1,8471214,8475167.0,Alex Ovechkin Tripping against Victor Hedman
+143,penalty,Tripping,T.J. Oshie,Mathieu Joseph,[-30. -27.],2,02:49,WSH,TBL,TBL,14,WSH,15,1,1,8471698,8478472.0,T.J. Oshie Tripping against Mathieu Joseph
+43,penalty,Interference,John Carlson,Alexandre Texier,[77. -2.],1,11:18,WSH,CBJ,CBJ,29,WSH,15,0,0,8474590,8480074.0,John Carlson Interference against Alexandre Texier
+53,penalty,Hi-sticking,Cam Atkinson,Garnet Hathaway,[-11.  39.],1,06:22,CBJ,WSH,CBJ,29,WSH,15,1,0,8474715,8477903.0,Cam Atkinson Hi-sticking against Garnet Hathaway
+79,penalty,Hooking,David Savard,T.J. Oshie,[-90. -30.],1,00:46,CBJ,WSH,CBJ,29,WSH,15,1,0,8475233,8471698.0,David Savard Hooking against T.J. Oshie
+93,penalty,Hooking,Alexander Wennberg,Jakub Vrana,[63.  7.],2,17:32,CBJ,WSH,CBJ,29,WSH,15,1,0,8477505,8477944.0,Alexander Wennberg Hooking against Jakub Vrana
+103,penalty,Holding,Jakub Vrana,Pierre-Luc Dubois,[-91.  32.],2,14:54,WSH,CBJ,CBJ,29,WSH,15,1,0,8477944,8479400.0,Jakub Vrana Holding against Pierre-Luc Dubois
+141,penalty,Holding the stick,Kevin Stenlund,Jonas Siegenthaler,[-96.  23.],2,04:15,CBJ,WSH,CBJ,29,WSH,15,1,0,8478831,8478399.0,Kevin Stenlund Holding the stick against Jonas Siegenthaler
+227,penalty,Instigator,David Savard,Tom Wilson,[-76.  -9.],3,02:08,CBJ,WSH,CBJ,29,WSH,15,3,0,8475233,8476880.0,David Savard Instigator against Tom Wilson
+228,penalty,Fighting,David Savard,Tom Wilson,[-75. -13.],3,02:08,CBJ,WSH,CBJ,29,WSH,15,3,0,8475233,8476880.0,David Savard Fighting against Tom Wilson
+229,penalty,Instigator - Misconduct,David Savard,Tom Wilson,[-69. -12.],3,02:08,CBJ,WSH,CBJ,29,WSH,15,3,0,8475233,8476880.0,David Savard Instigator - Misconduct against Tom Wilson
+230,penalty,Charging,Tom Wilson,Vladislav Gavrikov,[-95.  27.],3,02:08,WSH,CBJ,CBJ,29,WSH,15,3,0,8476880,8478882.0,Tom Wilson Charging against Vladislav Gavrikov
+231,penalty,Fighting,Tom Wilson,David Savard,[-77. -11.],3,02:08,WSH,CBJ,CBJ,29,WSH,15,3,0,8476880,8475233.0,Tom Wilson Fighting against David Savard
+10,penalty,Hooking,Jonas Siegenthaler,Miles Wood,[68.  0.],1,17:10,WSH,NJD,NJD,1,WSH,15,0,0,8478399,8477425.0,Jonas Siegenthaler Hooking against Miles Wood
+24,penalty,PS - Holding on breakaway,Sami Vatanen,Carl Hagelin,[-75.  -1.],1,13:51,NJD,WSH,NJD,1,WSH,15,1,0,8475222,8474176.0,Sami Vatanen PS - Holding on breakaway against Carl Hagelin
+63,penalty,Delaying Game - Puck over glass,Brendan Leipsic,,[ 20. -41.],1,04:14,WSH,NJD,NJD,1,WSH,15,1,0,8476894,,Brendan Leipsic Delaying Game - Puck over glass
+116,penalty,Slashing,Dmitry Orlov,Kyle Palmieri,[-66. -15.],2,08:19,WSH,NJD,NJD,1,WSH,15,2,2,8475200,8475151.0,Dmitry Orlov Slashing against Kyle Palmieri
+137,penalty,Slashing,Sami Vatanen,Lars Eller,[64. 14.],2,04:07,NJD,WSH,NJD,1,WSH,15,2,2,8475222,8474189.0,Sami Vatanen Slashing against Lars Eller
+152,penalty,Roughing,Garnet Hathaway,Miles Wood,[-29. -39.],2,01:10,WSH,NJD,NJD,1,WSH,15,2,2,8477903,8477425.0,Garnet Hathaway Roughing against Miles Wood
+153,penalty,Roughing,Miles Wood,Garnet Hathaway,[-25. -39.],2,01:10,NJD,WSH,NJD,1,WSH,15,2,2,8477425,8477903.0,Miles Wood Roughing against Garnet Hathaway
+205,penalty,Fighting,Nick Jensen,Miles Wood,[66. 21.],3,06:53,WSH,NJD,NJD,1,WSH,15,2,5,8475324,8477425.0,Nick Jensen Fighting against Miles Wood
+206,penalty,Fighting,Miles Wood,Nick Jensen,[66. 19.],3,06:53,NJD,WSH,NJD,1,WSH,15,2,5,8477425,8475324.0,Miles Wood Fighting against Nick Jensen
+18,penalty,Too many men on the ice,Steven Stamkos,,[-19.  32.],1,15:34,TBL,WSH,WSH,15,TBL,14,0,0,8474564,,Too many men/ice served by Steven Stamkos
+40,penalty,Hooking,Alex Ovechkin,Brayden Point,[95.  7.],1,11:52,WSH,TBL,WSH,15,TBL,14,0,0,8471214,8478010.0,Alex Ovechkin Hooking against Brayden Point
+86,penalty,Hi-sticking,Mitchell Stephens,Garnet Hathaway,[-76.   0.],1,03:01,TBL,WSH,WSH,15,TBL,14,0,0,8478477,8477903.0,Mitchell Stephens Hi-sticking against Garnet Hathaway
+97,penalty,Interference,Tom Wilson,Victor Hedman,[-11. -25.],1,01:13,WSH,TBL,WSH,15,TBL,14,0,0,8476880,8475167.0,Tom Wilson Interference against Victor Hedman
+165,penalty,Hooking,Garnet Hathaway,Mitchell Stephens,[-60.  -1.],2,07:46,WSH,TBL,WSH,15,TBL,14,1,0,8477903,8478477.0,Garnet Hathaway Hooking against Mitchell Stephens
+232,penalty,Holding,Jan Rutta,Nic Dowd,[-34. -29.],3,15:31,TBL,WSH,WSH,15,TBL,14,1,0,8480172,8475343.0,Jan Rutta Holding against Nic Dowd
+254,penalty,Interference,Nick Jensen,Mikhail Sergachev,[83. 34.],3,09:25,WSH,TBL,WSH,15,TBL,14,1,1,8475324,8479410.0,Nick Jensen Interference against Mikhail Sergachev
+256,penalty,Delaying Game - Puck over glass,Lars Eller,,[ 34. -21.],3,08:51,WSH,TBL,WSH,15,TBL,14,1,1,8474189,,Lars Eller Delaying Game - Puck over glass
+280,penalty,Slashing,Jonas Siegenthaler,Tyler Johnson,[80.  4.],3,03:48,WSH,TBL,WSH,15,TBL,14,2,1,8478399,8474870.0,Jonas Siegenthaler Slashing against Tyler Johnson
+291,penalty,Delaying Game - Puck over glass,John Carlson,,[52. 31.],3,01:09,WSH,TBL,WSH,15,TBL,14,3,1,8474590,,John Carlson Delaying Game - Puck over glass
+9,penalty,Hi-sticking,Nick Jensen,Sean Kuraly,[91. 17.],1,18:30,WSH,BOS,BOS,6,WSH,15,0,0,8475324,8476374.0,Nick Jensen Hi-sticking against Sean Kuraly
+27,penalty,Hooking,Radko Gudas,Brad Marchand,[84. 14.],1,14:32,WSH,BOS,BOS,6,WSH,15,0,0,8475462,8473419.0,Radko Gudas Hooking against Brad Marchand
+45,penalty,Tripping,Charlie McAvoy,Lars Eller,[-47. -16.],1,11:06,BOS,WSH,BOS,6,WSH,15,1,0,8479325,8474189.0,Charlie McAvoy Tripping against Lars Eller
+73,penalty,Slashing,Connor Clifton,Garnet Hathaway,[-29. -13.],1,05:14,BOS,WSH,BOS,6,WSH,15,3,0,8477365,8477903.0,Connor Clifton Slashing against Garnet Hathaway
+74,penalty,Cross checking,Garnet Hathaway,Connor Clifton,[-29. -17.],1,05:14,WSH,BOS,BOS,6,WSH,15,3,0,8477903,8477365.0,Garnet Hathaway Cross checking against Connor Clifton
+87,penalty,Tripping,Jakub Vrana,David Pastrnak,[79.  8.],1,02:35,WSH,BOS,BOS,6,WSH,15,3,0,8477944,8477956.0,Jakub Vrana Tripping against David Pastrnak
+88,penalty,Slashing,Evgeny Kuznetsov,David Krejci,[ 45. -22.],1,02:35,WSH,BOS,BOS,6,WSH,15,3,0,8475744,8471276.0,Evgeny Kuznetsov Slashing against David Krejci
+106,penalty,Slashing,Jake DeBrusk,Garnet Hathaway,[ 36. -11.],2,17:55,BOS,WSH,BOS,6,WSH,15,4,0,8478498,8477903.0,Jake DeBrusk Slashing against Garnet Hathaway
+119,penalty,Tripping,David Krejci,Dmitry Orlov,[-96.   0.],2,14:54,BOS,WSH,BOS,6,WSH,15,4,0,8471276,8475200.0,David Krejci Tripping against Dmitry Orlov
+166,penalty,Slashing,John Carlson,Sean Kuraly,[-35. -15.],2,05:07,WSH,BOS,BOS,6,WSH,15,5,1,8474590,8476374.0,John Carlson Slashing against Sean Kuraly
+199,penalty,Holding,Alex Ovechkin,Matt Grzelcyk,[-77.   3.],3,15:01,WSH,BOS,BOS,6,WSH,15,5,1,8471214,8476891.0,Alex Ovechkin Holding against Matt Grzelcyk
+211,penalty,Too many men on the ice,Jake DeBrusk,,[-49.  27.],3,12:32,BOS,WSH,BOS,6,WSH,15,5,1,8478498,,Too many men/ice served by Jake DeBrusk
+236,penalty,Roughing,David Pastrnak,Tom Wilson,[37. 35.],3,06:34,BOS,WSH,BOS,6,WSH,15,5,1,8477956,8476880.0,David Pastrnak Roughing against Tom Wilson
+237,penalty,Roughing,Tom Wilson,David Pastrnak,[35. 21.],3,06:34,WSH,BOS,BOS,6,WSH,15,5,1,8476880,8477956.0,Tom Wilson Roughing against David Pastrnak
+238,penalty,Too many men on the ice,Jake DeBrusk,,[-83.  23.],3,06:34,BOS,WSH,BOS,6,WSH,15,5,1,8478498,,Too many men/ice served by Jake DeBrusk
+239,penalty,Misconduct,Tom Wilson,,[36. 22.],3,06:34,WSH,BOS,BOS,6,WSH,15,5,1,8476880,,Tom Wilson Misconduct
+104,penalty,Tripping,Tom Wilson,Eric Robinson,[ 5. 40.],2,18:19,WSH,CBJ,WSH,15,CBJ,29,0,0,8476880,8480762.0,Tom Wilson Tripping against Eric Robinson
+118,penalty,Tripping,Dean Kukan,T.J. Oshie,[79. 23.],2,14:34,CBJ,WSH,WSH,15,CBJ,29,0,0,8478567,8471698.0,Dean Kukan Tripping against T.J. Oshie
+147,penalty,Slashing,Alexandre Texier,Nic Dowd,[ 71. -37.],2,07:25,CBJ,WSH,WSH,15,CBJ,29,0,1,8480074,8475343.0,Alexandre Texier Slashing against Nic Dowd
+180,penalty,Fighting,Jonas Siegenthaler,Nick Foligno,[-64. -36.],2,00:08,WSH,CBJ,WSH,15,CBJ,29,0,1,8478399,8473422.0,Jonas Siegenthaler Fighting against Nick Foligno
+181,penalty,Cross checking,Jonas Siegenthaler,Nick Foligno,[-73. -23.],2,00:08,WSH,CBJ,WSH,15,CBJ,29,0,1,8478399,8473422.0,Jonas Siegenthaler Cross checking against Nick Foligno
+182,penalty,Fighting,Nick Foligno,Jonas Siegenthaler,[-83. -27.],2,00:08,CBJ,WSH,WSH,15,CBJ,29,0,1,8473422,8478399.0,Nick Foligno Fighting against Jonas Siegenthaler
+183,penalty,Roughing,Nick Foligno,Jonas Siegenthaler,[-76. -22.],2,00:08,CBJ,WSH,WSH,15,CBJ,29,0,1,8473422,8478399.0,Nick Foligno Roughing against Jonas Siegenthaler
+203,penalty,Tripping,Eric Robinson,Nick Jensen,[39. 39.],3,16:39,CBJ,WSH,WSH,15,CBJ,29,0,1,8480762,8475324.0,Eric Robinson Tripping against Nick Jensen
+223,penalty,Tripping,Nicklas Backstrom,Pierre-Luc Dubois,[ 92. -24.],3,11:50,WSH,CBJ,WSH,15,CBJ,29,1,1,8473563,8479400.0,Nicklas Backstrom Tripping against Pierre-Luc Dubois
+230,penalty,Tripping,Nick Foligno,Dmitry Orlov,[-22. -16.],3,09:56,CBJ,WSH,WSH,15,CBJ,29,1,1,8473422,8475200.0,Nick Foligno Tripping against Dmitry Orlov
+291,penalty,Hooking,Nathan Gerbe,Lars Eller,[56.  7.],4,02:42,CBJ,WSH,WSH,15,CBJ,29,1,1,8471804,8474189.0,Nathan Gerbe Hooking against Lars Eller
+36,penalty,Holding the stick,Travis Boyd,Brett Pesce,[-41.  37.],1,11:30,WSH,CAR,CAR,12,WSH,15,0,0,8476329,8477488.0,Travis Boyd Holding the stick against Brett Pesce
+42,penalty,Tripping,Nick Jensen,Martin Necas,[-91. -32.],1,10:25,WSH,CAR,CAR,12,WSH,15,0,0,8475324,8480039.0,Nick Jensen Tripping against Martin Necas
+62,penalty,Hooking,Teuvo Teravainen,Evgeny Kuznetsov,[ 89. -30.],1,08:10,CAR,WSH,CAR,12,WSH,15,1,0,8476882,8475744.0,Teuvo Teravainen Hooking against Evgeny Kuznetsov
+132,penalty,Kneeing,Jordan Staal,Alex Ovechkin,[-49. -33.],2,11:33,CAR,WSH,CAR,12,WSH,15,3,1,8473533,8471214.0,Jordan Staal Kneeing against Alex Ovechkin
+149,penalty,Tripping,Joel Edmundson,Brendan Leipsic,[-85.  35.],2,08:48,CAR,WSH,CAR,12,WSH,15,3,2,8476441,8476894.0,Joel Edmundson Tripping against Brendan Leipsic
+172,penalty,Kneeing,Nick Jensen,Warren Foegele,[13. 26.],2,04:17,WSH,CAR,CAR,12,WSH,15,4,2,8475324,8477998.0,Nick Jensen Kneeing against Warren Foegele
+178,penalty,Slashing,Andrei Svechnikov,Garnet Hathaway,[-6. -5.],2,02:31,CAR,WSH,CAR,12,WSH,15,4,2,8480830,8477903.0,Andrei Svechnikov Slashing against Garnet Hathaway
+192,penalty,Tripping,Warren Foegele,Jonas Siegenthaler,[29. 29.],3,18:49,CAR,WSH,CAR,12,WSH,15,4,2,8477998,8478399.0,Warren Foegele Tripping against Jonas Siegenthaler
+22,penalty,Hooking,Dmitry Orlov,Mathew Barzal,[53. 17.],1,15:17,WSH,NYI,WSH,15,NYI,2,0,0,8475200,8478445.0,Dmitry Orlov Hooking against Mathew Barzal
+89,penalty,Slashing,Lars Eller,Ross Johnston,[66. 12.],1,02:42,WSH,NYI,WSH,15,NYI,2,2,2,8474189,8477527.0,Lars Eller Slashing against Ross Johnston
+165,penalty,Interference,Casey Cizikas,Alex Ovechkin,[-52.  38.],2,06:35,NYI,WSH,WSH,15,NYI,2,3,4,8475231,8471214.0,Casey Cizikas Interference against Alex Ovechkin
+239,penalty,Roughing,Garnet Hathaway,Casey Cizikas,[ 97. -10.],3,12:49,WSH,NYI,WSH,15,NYI,2,3,4,8477903,8475231.0,Garnet Hathaway Roughing against Casey Cizikas
+240,penalty,Roughing,Casey Cizikas,Garnet Hathaway,[ 95. -13.],3,12:49,NYI,WSH,WSH,15,NYI,2,3,4,8475231,8477903.0,Casey Cizikas Roughing against Garnet Hathaway
+292,penalty,Tripping,Scott Mayfield,T.J. Oshie,[-57.  39.],3,01:00,NYI,WSH,WSH,15,NYI,2,3,4,8476429,8471698.0,Scott Mayfield Tripping against T.J. Oshie
+35,penalty,Delaying Game - Puck over glass,Jonas Siegenthaler,,[-85.  38.],1,12:46,WSH,CAR,CAR,12,WSH,15,0,0,8478399,,Jonas Siegenthaler Delaying Game - Puck over glass
+44,penalty,Embellishment,Ilya Samsonov,Jakub Vrana,[-90.  -4.],1,08:34,WSH,CAR,CAR,12,WSH,15,0,0,8478492,8477944.0,Ilya Samsonov Embellishment against Nino Niederreiter served by Jakub Vrana
+45,penalty,Interference - Goalkeeper,Nino Niederreiter,Ilya Samsonov,[-86.  -7.],1,08:34,CAR,WSH,CAR,12,WSH,15,0,0,8475799,8478492.0,Nino Niederreiter Interference - Goalkeeper against Ilya Samsonov
+47,penalty,Interference,Lars Eller,Jaccob Slavin,[48. 25.],1,07:44,WSH,CAR,CAR,12,WSH,15,0,0,8474189,8476958.0,Lars Eller Interference against Jaccob Slavin
+87,penalty,Misconduct,Nic Dowd,,[ 45. -36.],1,00:00,WSH,CAR,CAR,12,WSH,15,0,0,8475343,,Nic Dowd Misconduct
+111,penalty,Interference,Sebastian Aho,Garnet Hathaway,[ 31. -30.],2,15:43,CAR,WSH,CAR,12,WSH,15,0,1,8478427,8477903.0,Sebastian Aho Interference against Garnet Hathaway
+128,penalty,Slashing,Alex Ovechkin,Teuvo Teravainen,[-77.  -4.],2,11:48,WSH,CAR,CAR,12,WSH,15,0,2,8471214,8476882.0,Alex Ovechkin Slashing against Teuvo Teravainen
+148,penalty,Interference,Sebastian Aho,Brendan Leipsic,[-65.  -1.],2,06:17,CAR,WSH,CAR,12,WSH,15,0,2,8478427,8476894.0,Sebastian Aho Interference against Brendan Leipsic
+156,penalty,Slashing,Tom Wilson,Martin Necas,[ 54. -10.],2,03:42,WSH,CAR,CAR,12,WSH,15,0,2,8476880,8480039.0,Tom Wilson Slashing against Martin Necas
+176,penalty,Slashing,Erik Haula,Nick Jensen,[-73.   2.],3,19:07,CAR,WSH,CAR,12,WSH,15,1,2,8475287,8475324.0,Erik Haula Slashing against Nick Jensen
+203,penalty,Hooking,Carl Hagelin,Brock McGinn,[-50.  18.],3,13:33,WSH,CAR,CAR,12,WSH,15,1,4,8474176,8476934.0,Carl Hagelin Hooking against Brock McGinn
+226,penalty,Cross checking,T.J. Oshie,Warren Foegele,[-77.   3.],3,09:01,WSH,CAR,CAR,12,WSH,15,2,4,8471698,8477998.0,T.J. Oshie Cross checking against Warren Foegele
+253,penalty,Roughing,Dougie Hamilton,T.J. Oshie,[ 98. -16.],3,02:44,CAR,WSH,CAR,12,WSH,15,3,4,8476462,8471698.0,Dougie Hamilton Roughing against T.J. Oshie
+119,penalty,Hi-sticking,Richard Panik,Radim Simek,[ 76. -17.],2,14:47,WSH,SJS,WSH,15,SJS,28,0,0,8475209,8480160.0,Richard Panik Hi-sticking against Radim Simek
+134,penalty,Slashing,Evander Kane,Garnet Hathaway,[79.  3.],2,12:04,SJS,WSH,WSH,15,SJS,28,1,1,8475169,8477903.0,Evander Kane Slashing against Garnet Hathaway
+158,penalty,Slashing,Radko Gudas,Patrick Marleau,[-54. -11.],2,04:31,WSH,SJS,WSH,15,SJS,28,1,2,8475462,8466139.0,Radko Gudas Slashing against Patrick Marleau
+191,penalty,Delaying Game - Puck over glass,Nic Dowd,,[ 42. -36.],3,15:29,WSH,SJS,WSH,15,SJS,28,2,3,8475343,,Nic Dowd Delaying Game - Puck over glass
+214,penalty,Interference,Evander Kane,John Carlson,[ 24. -19.],3,09:34,SJS,WSH,WSH,15,SJS,28,2,3,8475169,8474590.0,Evander Kane Interference against John Carlson
+228,penalty,Delaying Game - Puck over glass,John Carlson,,[97.  8.],3,05:08,WSH,SJS,WSH,15,SJS,28,2,3,8474590,,John Carlson Delaying Game - Puck over glass
+153,penalty,Hooking,Carl Hagelin,Brady Tkachuk,[-45.   2.],2,06:07,WSH,OTT,WSH,15,OTT,9,2,1,8474176,8480801.0,Carl Hagelin Hooking against Brady Tkachuk
+63,penalty,Tripping,Lars Eller,Jakub Voracek,[-60.  32.],1,02:51,WSH,PHI,PHI,4,WSH,15,1,2,8474189,8474161.0,Lars Eller Tripping against Jakub Voracek
+64,penalty,Misconduct,Richard Panik,,[ -6. -40.],1,02:51,WSH,PHI,PHI,4,WSH,15,1,2,8475209,,Richard Panik Misconduct
+94,penalty,Hi-sticking,Philippe Myers,Tom Wilson,[44. 32.],2,16:20,PHI,WSH,PHI,4,WSH,15,2,2,8479026,8476880.0,Philippe Myers Hi-sticking against Tom Wilson
+133,penalty,Delaying Game - Puck over glass,Mikhail Vorobyev,,[-75.  40.],2,05:04,PHI,WSH,PHI,4,WSH,15,2,2,8478844,,Mikhail Vorobyev Delaying Game - Puck over glass
+142,penalty,Slashing,Sean Couturier,Nick Jensen,[ 3. 41.],2,02:27,PHI,WSH,PHI,4,WSH,15,2,2,8476461,8475324.0,Sean Couturier Slashing against Nick Jensen
+186,penalty,Slashing,Sean Couturier,Tom Wilson,[ 78. -32.],3,11:11,PHI,WSH,PHI,4,WSH,15,3,2,8476461,8476880.0,Sean Couturier Slashing against Tom Wilson
+210,penalty,Tripping,Philippe Myers,Jakub Vrana,[49. 24.],3,05:30,PHI,WSH,PHI,4,WSH,15,3,2,8479026,8477944.0,Philippe Myers Tripping against Jakub Vrana
+218,penalty,Hooking,Dmitry Orlov,Jakub Voracek,[-57. -10.],3,02:36,WSH,PHI,PHI,4,WSH,15,3,2,8475200,8474161.0,Dmitry Orlov Hooking against Jakub Voracek
+62,penalty,Slashing,Travis Zajac,Alex Ovechkin,[-52.   2.],1,03:30,NJD,WSH,WSH,15,NJD,1,0,1,8471233,8471214.0,Travis Zajac Slashing against Alex Ovechkin
+88,penalty,Slashing,Tom Wilson,Blake Coleman,[-39. -33.],2,18:39,WSH,NJD,WSH,15,NJD,1,0,1,8476880,8476399.0,Tom Wilson Slashing against Blake Coleman
+109,penalty,Hi stick - double minor,Miles Wood,Richard Panik,[-95.  19.],2,13:43,NJD,WSH,WSH,15,NJD,1,0,2,8477425,8475209.0,Miles Wood Hi stick - double minor against Richard Panik
+203,penalty,Elbowing,Nico Hischier,T.J. Oshie,[ 19. -37.],3,10:12,NJD,WSH,WSH,15,NJD,1,1,4,8480002,8471698.0,Nico Hischier Elbowing against T.J. Oshie
+211,penalty,Delaying Game - Puck over glass,P.K. Subban,,[-63. -39.],3,08:55,NJD,WSH,WSH,15,NJD,1,1,4,8474056,,P.K. Subban Delaying Game - Puck over glass
+25,penalty,Tripping,Andrei Svechnikov,Richard Panik,[73. 38.],1,12:49,CAR,WSH,WSH,15,CAR,12,0,0,8480830,8475209.0,Andrei Svechnikov Tripping against Richard Panik
+65,penalty,Slashing,Warren Foegele,Lars Eller,[-69.  21.],1,05:38,CAR,WSH,WSH,15,CAR,12,1,0,8477998,8474189.0,Warren Foegele Slashing against Lars Eller
+75,penalty,Delaying Game - Puck over glass,Dougie Hamilton,,[-85. -32.],1,02:59,CAR,WSH,WSH,15,CAR,12,1,0,8476462,,Dougie Hamilton Delaying Game - Puck over glass
+79,penalty,Tripping,Jordan Staal,T.J. Oshie,[-82.  24.],1,02:42,CAR,WSH,WSH,15,CAR,12,2,0,8473533,8471698.0,Jordan Staal Tripping against T.J. Oshie
+102,penalty,Interference,Dmitry Orlov,Lucas Wallmark,[-71. -19.],2,14:27,WSH,CAR,WSH,15,CAR,12,2,0,8475200,8478027.0,Dmitry Orlov Interference against Lucas Wallmark
+116,penalty,Hooking,Lars Eller,Erik Haula,[ 33. -32.],2,10:28,WSH,CAR,WSH,15,CAR,12,2,0,8474189,8475287.0,Lars Eller Hooking against Erik Haula
+127,penalty,Hooking,Evgeny Kuznetsov,Jordan Staal,[ 37. -39.],2,07:54,WSH,CAR,WSH,15,CAR,12,2,0,8475744,8473533.0,Evgeny Kuznetsov Hooking against Jordan Staal
+180,penalty,Tripping,Jake Gardiner,Michal Kempny,[63. -8.],3,14:37,CAR,WSH,WSH,15,CAR,12,2,0,8474581,8479482.0,Jake Gardiner Tripping against Michal Kempny
+183,penalty,Slashing,Dougie Hamilton,Evgeny Kuznetsov,[-77.  25.],3,13:22,CAR,WSH,WSH,15,CAR,12,2,0,8476462,8475744.0,Dougie Hamilton Slashing against Evgeny Kuznetsov
+55,penalty,Interference,Tom Wilson,Miles Wood,[24. 40.],1,09:18,WSH,NJD,WSH,15,NJD,1,0,0,8476880,8477425.0,Tom Wilson Interference against Miles Wood
+68,penalty,Tripping,Travis Zajac,Michal Kempny,[94. 20.],1,06:21,NJD,WSH,WSH,15,NJD,1,0,0,8471233,8479482.0,Travis Zajac Tripping against Michal Kempny
+75,penalty,Holding,John Hayden,Dmitry Orlov,[97.  7.],1,04:48,NJD,WSH,WSH,15,NJD,1,0,0,8477401,8475200.0,John Hayden Holding against Dmitry Orlov
+114,penalty,Hooking,Richard Panik,Blake Coleman,[-64. -22.],2,16:44,WSH,NJD,WSH,15,NJD,1,3,1,8475209,8476399.0,Richard Panik Hooking against Blake Coleman
+167,penalty,Cross checking,Richard Panik,John Hayden,[-79.   1.],2,06:04,WSH,NJD,WSH,15,NJD,1,3,1,8475209,8477401.0,Richard Panik Cross checking against John Hayden
+170,penalty,Hi stick - double minor,Sami Vatanen,Lars Eller,[-33.  40.],2,05:24,NJD,WSH,WSH,15,NJD,1,3,1,8475222,8474189.0,Sami Vatanen Hi stick - double minor against Lars Eller
+200,penalty,Holding,Will Butcher,Evgeny Kuznetsov,[-41. -39.],3,17:49,NJD,WSH,WSH,15,NJD,1,3,1,8477355,8475744.0,Will Butcher Holding against Evgeny Kuznetsov
+223,penalty,Hooking,Nicklas Backstrom,Jesper Bratt,[95. -2.],3,11:54,WSH,NJD,WSH,15,NJD,1,4,2,8473563,8479407.0,Nicklas Backstrom Hooking against Jesper Bratt
+33,penalty,Tripping,Jordan Eberle,Michal Kempny,[ 65. -35.],1,13:55,NYI,WSH,NYI,2,WSH,15,0,0,8474586,8479482.0,Jordan Eberle Tripping against Michal Kempny
+36,penalty,Hooking,Alex Ovechkin,Casey Cizikas,[  1. -16.],1,13:20,WSH,NYI,NYI,2,WSH,15,0,0,8471214,8475231.0,Alex Ovechkin Hooking against Casey Cizikas
+64,penalty,Missing key [PD_151],Alex Ovechkin,,[33. -1.],1,06:49,WSH,NYI,NYI,2,WSH,15,1,1,8471214,,Delaying Game - Unsucc. chlg served by Alex Ovechkin
+66,penalty,Interference,Carl Hagelin,Mathew Barzal,[ 85. -26.],1,06:26,WSH,NYI,NYI,2,WSH,15,1,1,8474176,8478445.0,Carl Hagelin Interference against Mathew Barzal
+120,penalty,Roughing,Matt Martin,Mathew Barzal,[ 60. -25.],2,15:11,NYI,WSH,NYI,2,WSH,15,2,1,8474709,8478445.0,Matt Martin Roughing against Radko Gudas served by Mathew Barzal
+121,penalty,Unsportsmanlike conduct,Matt Martin,Radko Gudas,[ 66. -26.],2,15:11,NYI,WSH,NYI,2,WSH,15,2,1,8474709,8475462.0,Matt Martin Unsportsmanlike conduct against Radko Gudas
+122,penalty,Roughing,Radko Gudas,Matt Martin,[ 68. -26.],2,15:11,WSH,NYI,NYI,2,WSH,15,2,1,8475462,8474709.0,Radko Gudas Roughing against Matt Martin
+137,penalty,Roughing,Brendan Leipsic,Noah Dobson,[37. 30.],2,11:33,WSH,NYI,NYI,2,WSH,15,2,1,8476894,8480865.0,Brendan Leipsic Roughing against Noah Dobson
+150,penalty,Boarding,Leo Komarov,Jonas Siegenthaler,[42. 37.],2,08:49,NYI,WSH,NYI,2,WSH,15,3,1,8473463,8478399.0,Leo Komarov Boarding against Jonas Siegenthaler
+158,penalty,Slashing,Nick Leddy,Garnet Hathaway,[17. 37.],2,05:23,NYI,WSH,NYI,2,WSH,15,3,1,8475181,8477903.0,Nick Leddy Slashing against Garnet Hathaway
+16,penalty,Holding,Victor Mete,Lars Eller,[ 20. -11.],1,16:31,MTL,WSH,MTL,8,WSH,15,1,0,8479376,8474189.0,Victor Mete Holding against Lars Eller
+29,penalty,Hooking,Nicklas Backstrom,Phillip Danault,[-39. -10.],1,13:20,WSH,MTL,MTL,8,WSH,15,1,0,8473563,8476479.0,Nicklas Backstrom Hooking against Phillip Danault
+84,penalty,Slashing,Max Domi,Evgeny Kuznetsov,[68. -6.],1,02:32,MTL,WSH,MTL,8,WSH,15,1,0,8477503,8475744.0,Max Domi Slashing against Evgeny Kuznetsov
+99,penalty,Hi-sticking,Phillip Danault,Garnet Hathaway,[-35.  40.],1,00:00,MTL,WSH,MTL,8,WSH,15,1,1,8476479,8477903.0,Phillip Danault Hi-sticking against Garnet Hathaway
+117,penalty,Roughing,Tom Wilson,Nick Suzuki,[44. 41.],2,16:50,WSH,MTL,MTL,8,WSH,15,1,2,8476880,8480018.0,Tom Wilson Roughing against Nick Suzuki
+128,penalty,Tripping,T.J. Oshie,Jesperi Kotkaniemi,[ 91. -16.],2,13:18,WSH,MTL,MTL,8,WSH,15,1,2,8471698,8480829.0,T.J. Oshie Tripping against Jesperi Kotkaniemi
+37,penalty,Hi-sticking,Jarred Tinordi,Garnet Hathaway,[-75.   7.],1,13:19,NSH,WSH,WSH,15,NSH,18,0,0,8475797,8477903.0,Jarred Tinordi Hi-sticking against Garnet Hathaway
+57,penalty,Holding,Dmitry Orlov,Filip Forsberg,[32. -1.],1,08:58,WSH,NSH,WSH,15,NSH,18,1,1,8475200,8476887.0,Dmitry Orlov Holding against Filip Forsberg
+86,penalty,Hooking,Kyle Turris,Dmitry Orlov,[ 69. -15.],1,02:25,NSH,WSH,WSH,15,NSH,18,2,3,8474068,8475200.0,Kyle Turris Hooking against Dmitry Orlov
+123,penalty,Hooking,Matt Duchene,John Carlson,[ 32. -38.],2,17:41,NSH,WSH,WSH,15,NSH,18,2,3,8475168,8474590.0,Matt Duchene Hooking against John Carlson
+159,penalty,Hi-sticking,Mattias Ekholm,Tom Wilson,[86. 31.],2,10:44,NSH,WSH,WSH,15,NSH,18,3,3,8475218,8476880.0,Mattias Ekholm Hi-sticking against Tom Wilson
+180,penalty,Hooking,Garnet Hathaway,Colin Blackwell,[-16. -31.],2,04:23,WSH,NSH,WSH,15,NSH,18,4,3,8477903,8476278.0,Garnet Hathaway Hooking against Colin Blackwell
+197,penalty,Roughing,Richard Panik,Ryan Johansen,[ 11. -27.],3,19:25,WSH,NSH,WSH,15,NSH,18,4,3,8475209,8475793.0,Richard Panik Roughing against Ryan Johansen
+198,penalty,Slashing,Ryan Johansen,Richard Panik,[-13. -18.],3,19:25,NSH,WSH,WSH,15,NSH,18,4,3,8475793,8475209.0,Ryan Johansen Slashing against Richard Panik
+202,penalty,Hi-sticking,Viktor Arvidsson,Tom Wilson,[-13.  -6.],3,18:03,NSH,WSH,WSH,15,NSH,18,4,3,8478042,8476880.0,Viktor Arvidsson Hi-sticking against Tom Wilson
+231,penalty,Slashing,Jakub Vrana,Yannick Weber,[-30.  14.],3,08:45,WSH,NSH,WSH,15,NSH,18,4,4,8477944,8474134.0,Jakub Vrana Slashing against Yannick Weber
+260,penalty,Hooking,Lars Eller,Jarred Tinordi,[-95.  23.],3,03:57,WSH,NSH,WSH,15,NSH,18,4,5,8474189,8475797.0,Lars Eller Hooking against Jarred Tinordi
+29,penalty,Slashing,Thomas Chabot,Alex Ovechkin,[-69.  -3.],1,12:34,OTT,WSH,OTT,9,WSH,15,0,1,8478469,8471214.0,Thomas Chabot Slashing against Alex Ovechkin
+99,penalty,Holding,Dylan DeMelo,Lars Eller,[97. 19.],2,17:42,OTT,WSH,OTT,9,WSH,15,0,2,8476331,8474189.0,Dylan DeMelo Holding against Lars Eller
+113,penalty,Tripping,Scott Sabourin,Garnet Hathaway,[-33.  -1.],2,14:22,OTT,WSH,OTT,9,WSH,15,0,2,8477149,8477903.0,Scott Sabourin Tripping against Garnet Hathaway
+174,penalty,Hooking,Dmitry Orlov,Vladislav Namestnikov,[-50.  19.],2,03:16,WSH,OTT,OTT,9,WSH,15,2,3,8475200,8476480.0,Dmitry Orlov Hooking against Vladislav Namestnikov
+191,penalty,Too many men on the ice,Brendan Leipsic,,[ 9. 39.],3,18:09,WSH,OTT,OTT,9,WSH,15,2,3,8476894,,Too many men/ice served by Brendan Leipsic
+202,penalty,Hooking,Jonas Siegenthaler,Brady Tkachuk,[80.  1.],3,15:41,WSH,OTT,OTT,9,WSH,15,2,4,8478399,8480801.0,Jonas Siegenthaler Hooking against Brady Tkachuk
+254,penalty,Hi stick - double minor,Colin White,Lars Eller,[72. 41.],3,03:42,OTT,WSH,OTT,9,WSH,15,3,4,8478400,8474189.0,Colin White Hi stick - double minor against Lars Eller

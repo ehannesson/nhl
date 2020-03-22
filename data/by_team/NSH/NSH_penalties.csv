@@ -1,0 +1,537 @@
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
+6,penalty,Slashing,Jonathan Marchessault,Yannick Weber,[ 29. -35.],1,18:51,VGK,NSH,NSH,18,VGK,54,0,0,8476539,8474134.0,Jonathan Marchessault Slashing against Yannick Weber
+19,penalty,Slashing,Viktor Arvidsson,Brayden McNabb,[-32. -37.],1,14:35,NSH,VGK,NSH,18,VGK,54,0,0,8478042,8475188.0,Viktor Arvidsson Slashing against Brayden McNabb
+46,penalty,Too many men on the ice,William Carrier,,[13. 38.],1,08:37,VGK,NSH,NSH,18,VGK,54,0,0,8477478,,Too many men/ice served by William Carrier
+63,penalty,Tripping,Colton Sissons,Chandler Stephenson,[-97.   0.],1,04:27,NSH,VGK,NSH,18,VGK,54,0,0,8476925,8476905.0,Colton Sissons Tripping against Chandler Stephenson
+75,penalty,Interference,William Carrier,Yannick Weber,[-89.  31.],1,01:03,VGK,NSH,NSH,18,VGK,54,0,0,8477478,8474134.0,William Carrier Interference against Yannick Weber
+90,penalty,Hi-sticking,Jon Merrill,Colin Blackwell,[-91.  30.],2,17:29,VGK,NSH,NSH,18,VGK,54,0,0,8475750,8476278.0,Jon Merrill Hi-sticking against Colin Blackwell
+108,penalty,Cross checking,Mattias Ekholm,Paul Stastny,[97.  4.],2,12:01,NSH,VGK,NSH,18,VGK,54,0,1,8475218,8471669.0,Mattias Ekholm Cross checking against Paul Stastny
+146,penalty,Tripping,Dante Fabbro,Alex Tuch,[96. -3.],2,03:52,NSH,VGK,NSH,18,VGK,54,0,1,8479371,8477949.0,Dante Fabbro Tripping against Alex Tuch
+234,penalty,Hi-sticking,Shea Theodore,Ryan Johansen,[ 94. -13.],3,03:42,VGK,NSH,NSH,18,VGK,54,0,2,8477447,8475793.0,Shea Theodore Hi-sticking against Ryan Johansen
+17,penalty,Interference,Viktor Arvidsson,Dmitry Kulikov,[  2. -34.],1,16:37,NSH,WPG,WPG,52,NSH,18,1,0,8478042,8475179.0,Viktor Arvidsson Interference against Dmitry Kulikov
+24,penalty,Too many men on the ice,Jansen Harkins,,[ 8. 38.],1,15:04,WPG,NSH,WPG,52,NSH,18,1,0,8478424,,Too many men/ice served by Jansen Harkins
+120,penalty,Holding,Neal Pionk,Colin Blackwell,[-98. -12.],2,13:34,WPG,NSH,WPG,52,NSH,18,1,1,8480145,8476278.0,Neal Pionk Holding against Colin Blackwell
+131,penalty,PS - Hooking on breakaway,Jarred Tinordi,Patrik Laine,[67.  2.],2,11:18,NSH,WPG,WPG,52,NSH,18,1,1,8475797,8479339.0,Jarred Tinordi PS - Hooking on breakaway against Patrik Laine
+156,penalty,Tripping,Viktor Arvidsson,Dmitry Kulikov,[-99. -15.],2,06:21,NSH,WPG,WPG,52,NSH,18,1,1,8478042,8475179.0,Viktor Arvidsson Tripping against Dmitry Kulikov
+228,penalty,Interference,Kyle Turris,Mason Appleton,[-76.   5.],3,08:06,NSH,WPG,WPG,52,NSH,18,1,1,8474068,8478891.0,Kyle Turris Interference against Mason Appleton
+115,penalty,Tripping,Dan Hamhuis,Derek Ryan,[ 3. 13.],2,17:12,NSH,CGY,CGY,20,NSH,18,1,2,8469465,8478585.0,Dan Hamhuis Tripping against Derek Ryan
+133,penalty,Tripping,Dillon Dube,Roman Josi,[-53. -17.],2,11:51,CGY,NSH,CGY,20,NSH,18,1,2,8479346,8474600.0,Dillon Dube Tripping against Roman Josi
+151,penalty,Hi-sticking,Jarred Tinordi,Derek Ryan,[82. 22.],2,08:44,NSH,CGY,CGY,20,NSH,18,2,3,8475797,8478585.0,Jarred Tinordi Hi-sticking against Derek Ryan
+67,penalty,Hooking,Connor McDavid,Matt Duchene,[29.  6.],1,05:27,EDM,NSH,EDM,22,NSH,18,0,1,8478402,8475168.0,Connor McDavid Hooking against Matt Duchene
+72,penalty,Hi-sticking,Craig Smith,Adam Larsson,[-90. -26.],1,04:43,NSH,EDM,EDM,22,NSH,18,0,1,8475225,8476457.0,Craig Smith Hi-sticking against Adam Larsson
+106,penalty,Holding,Darnell Nurse,Matt Duchene,[ 80. -10.],2,18:27,EDM,NSH,EDM,22,NSH,18,0,1,8477498,8475168.0,Darnell Nurse Holding against Matt Duchene
+178,penalty,Hooking,Dante Fabbro,Kailer Yamamoto,[-85.  -8.],2,01:22,NSH,EDM,EDM,22,NSH,18,0,2,8479371,8479977.0,Dante Fabbro Hooking against Kailer Yamamoto
+205,penalty,Hi-sticking,Sam Gagner,Roman Josi,[49. 37.],3,16:00,EDM,NSH,EDM,22,NSH,18,2,2,8474040,8474600.0,Sam Gagner Hi-sticking against Roman Josi
+237,penalty,Holding,Connor McDavid,Mikael Granlund,[-72.  39.],3,08:47,EDM,NSH,EDM,22,NSH,18,2,2,8478402,8475798.0,Connor McDavid Holding against Mikael Granlund
+238,penalty,Embellishment,Mikael Granlund,Connor McDavid,[-66.  40.],3,08:47,NSH,EDM,EDM,22,NSH,18,2,2,8475798,8478402.0,Mikael Granlund Embellishment against Connor McDavid
+241,penalty,Interference,Jarred Tinordi,Leon Draisaitl,[-57.  38.],3,07:15,NSH,EDM,EDM,22,NSH,18,2,2,8475797,8477934.0,Jarred Tinordi Interference against Leon Draisaitl
+257,penalty,Tripping,Mikael Granlund,Leon Draisaitl,[-93.  -8.],3,05:14,NSH,EDM,EDM,22,NSH,18,3,2,8475798,8477934.0,Mikael Granlund Tripping against Leon Draisaitl
+50,penalty,Tripping,Austin Watson,Justin Bailey,[ 68. -20.],1,09:02,NSH,VAN,VAN,23,NSH,18,1,0,8475766,8477473.0,Austin Watson Tripping against Justin Bailey
+71,penalty,Hooking,Quinn Hughes,Kyle Turris,[79. 35.],1,05:14,VAN,NSH,VAN,23,NSH,18,3,0,8480800,8474068.0,Quinn Hughes Hooking against Kyle Turris
+116,penalty,Cross checking,Tyler Myers,Jake Virtanen,[-86. -29.],2,14:59,VAN,NSH,VAN,23,NSH,18,4,0,8474574,8477937.0,Tyler Myers Cross checking against Calle Jarnkrok served by Jake Virtanen
+117,penalty,Fighting,Tyler Myers,Austin Watson,[-85. -25.],2,14:59,VAN,NSH,VAN,23,NSH,18,4,0,8474574,8475766.0,Tyler Myers Fighting against Austin Watson
+118,penalty,Fighting,Austin Watson,Tyler Myers,[-85. -29.],2,14:59,NSH,VAN,VAN,23,NSH,18,4,0,8475766,8474574.0,Austin Watson Fighting against Tyler Myers
+142,penalty,Tripping,J.T. Miller,Viktor Arvidsson,[-3. 37.],2,10:33,VAN,NSH,VAN,23,NSH,18,4,2,8476468,8478042.0,J.T. Miller Tripping against Viktor Arvidsson
+186,penalty,Interference - Goalkeeper,Colton Sissons,Jacob Markstrom,[88. -2.],3,18:51,NSH,VAN,VAN,23,NSH,18,5,2,8476925,8474593.0,Colton Sissons Interference - Goalkeeper against Jacob Markstrom
+203,penalty,Bench,Viktor Arvidsson,,[-12.  39.],3,14:20,NSH,VAN,VAN,23,NSH,18,6,2,8478042,,Bench served by Viktor Arvidsson
+210,penalty,Hooking,Jarred Tinordi,Jake Virtanen,[-73.   0.],3,12:10,NSH,VAN,VAN,23,NSH,18,6,2,8475797,8477937.0,Jarred Tinordi Hooking against Jake Virtanen
+216,penalty,Interference,Elias Pettersson,Viktor Arvidsson,[-45.  30.],3,09:58,VAN,NSH,VAN,23,NSH,18,6,2,8480012,8478042.0,Elias Pettersson Interference against Viktor Arvidsson
+244,penalty,Misconduct,Dan Hamhuis,Jake Virtanen,[-85. -20.],3,03:00,NSH,VAN,VAN,23,NSH,18,6,2,8469465,8477937.0,Dan Hamhuis Misconduct against Jake Virtanen
+245,penalty,Misconduct,Jake Virtanen,Dan Hamhuis,[-59. -31.],3,03:00,VAN,NSH,VAN,23,NSH,18,6,2,8477937,8469465.0,Jake Virtanen Misconduct against Dan Hamhuis
+248,penalty,Slashing,Antoine Roussel,Elias Pettersson,[-28.  33.],3,01:46,VAN,NSH,VAN,23,NSH,18,6,2,8474849,8480012.0,Antoine Roussel Slashing against Yannick Weber served by Elias Pettersson
+249,penalty,Cross checking,Antoine Roussel,Yannick Weber,[-20.  38.],3,01:46,VAN,NSH,VAN,23,NSH,18,6,2,8474849,8474134.0,Antoine Roussel Cross checking against Yannick Weber
+250,penalty,Misconduct,Antoine Roussel,Jarred Tinordi,[-32.  29.],3,01:46,VAN,NSH,VAN,23,NSH,18,6,2,8474849,8475797.0,Antoine Roussel Misconduct against Jarred Tinordi
+251,penalty,Misconduct,Jarred Tinordi,Antoine Roussel,[-28.  34.],3,01:46,NSH,VAN,VAN,23,NSH,18,6,2,8475797,8474849.0,Jarred Tinordi Misconduct against Antoine Roussel
+33,penalty,Fighting,Matt Martin,Austin Watson,[-86.  -5.],1,13:14,NYI,NSH,NSH,18,NYI,2,1,0,8474709,8475766.0,Matt Martin Fighting against Austin Watson
+34,penalty,Fighting,Austin Watson,Matt Martin,[-89.  -6.],1,13:14,NSH,NYI,NSH,18,NYI,2,1,0,8475766,8474709.0,Austin Watson Fighting against Matt Martin
+115,penalty,Holding,Mikael Granlund,Kieffer Bellows,[ 11. -32.],2,13:44,NSH,NYI,NSH,18,NYI,2,4,0,8475798,8479356.0,Mikael Granlund Holding against Kieffer Bellows
+148,penalty,Hooking,Dan Hamhuis,Kieffer Bellows,[ 92. -24.],2,04:58,NSH,NYI,NSH,18,NYI,2,5,0,8469465,8479356.0,Dan Hamhuis Hooking against Kieffer Bellows
+25,penalty,Fighting,Brayden Schenn,Filip Forsberg,[-82.  -2.],1,15:06,STL,NSH,STL,19,NSH,18,0,0,8475170,8476887.0,Brayden Schenn Fighting against Filip Forsberg
+26,penalty,Fighting,Filip Forsberg,Brayden Schenn,[-79.  -4.],1,15:06,NSH,STL,STL,19,NSH,18,0,0,8476887,8475170.0,Filip Forsberg Fighting against Brayden Schenn
+49,penalty,Fighting,Robert Bortuzzo,Jarred Tinordi,[28.  3.],1,11:01,STL,NSH,STL,19,NSH,18,0,1,8474145,8475797.0,Robert Bortuzzo Fighting against Jarred Tinordi
+50,penalty,Fighting,Jarred Tinordi,Robert Bortuzzo,[31. -9.],1,11:01,NSH,STL,STL,19,NSH,18,0,1,8475797,8474145.0,Jarred Tinordi Fighting against Robert Bortuzzo
+77,penalty,Slashing,Matt Duchene,Robert Thomas,[61. 39.],1,04:47,NSH,STL,STL,19,NSH,18,0,2,8475168,8480023.0,Matt Duchene Slashing against Robert Thomas
+88,penalty,Slashing,Zach Sanford,Matt Duchene,[95.  4.],1,02:26,STL,NSH,STL,19,NSH,18,0,2,8477482,8475168.0,Zach Sanford Slashing against Matt Duchene
+99,penalty,Tripping,David Perron,Filip Forsberg,[-28.   0.],1,00:10,STL,NSH,STL,19,NSH,18,0,2,8474102,8476887.0,David Perron Tripping against Filip Forsberg
+106,penalty,Hi-sticking,Craig Smith,Jaden Schwartz,[ -1. -33.],2,18:01,NSH,STL,STL,19,NSH,18,0,2,8475225,8475768.0,Craig Smith Hi-sticking against Jaden Schwartz
+126,penalty,Tripping,Ryan Johansen,Jaden Schwartz,[-14.  38.],2,14:14,NSH,STL,STL,19,NSH,18,1,3,8475793,8475768.0,Ryan Johansen Tripping against Jaden Schwartz
+170,penalty,Holding,Roman Josi,Carl Gunnarsson,[ 30. -31.],2,02:22,NSH,STL,STL,19,NSH,18,3,3,8474600,8474125.0,Roman Josi Holding against Carl Gunnarsson
+189,penalty,Holding,Carl Gunnarsson,Mattias Ekholm,[-64.   3.],3,16:18,STL,NSH,STL,19,NSH,18,3,3,8474125,8475218.0,Carl Gunnarsson Holding against Mattias Ekholm
+198,penalty,Hi-sticking,Brayden Schenn,Rocco Grimaldi,[ 71. -38.],3,14:52,STL,NSH,STL,19,NSH,18,3,4,8475170,8476428.0,Brayden Schenn Hi-sticking against Rocco Grimaldi
+208,penalty,Roughing,Sammy Blais,Calle Jarnkrok,[-20.  39.],3,10:54,STL,NSH,STL,19,NSH,18,3,4,8478104,8475714.0,Sammy Blais Roughing against Calle Jarnkrok
+209,penalty,Roughing,Calle Jarnkrok,Sammy Blais,[-32.  41.],3,10:54,NSH,STL,STL,19,NSH,18,3,4,8475714,8478104.0,Calle Jarnkrok Roughing against Sammy Blais
+74,penalty,Hooking,Austin Watson,Robert Thomas,[-56.  37.],1,02:13,NSH,STL,NSH,18,STL,19,0,0,8475766,8480023.0,Austin Watson Hooking against Robert Thomas
+83,penalty,Roughing,Zach Sanford,Austin Watson,[-85.   8.],1,00:10,STL,NSH,NSH,18,STL,19,0,0,8477482,8475766.0,Zach Sanford Roughing against Austin Watson
+84,penalty,Roughing,Austin Watson,Zach Sanford,[-78.   5.],1,00:10,NSH,STL,NSH,18,STL,19,0,0,8475766,8477482.0,Austin Watson Roughing against Zach Sanford
+90,penalty,Tripping,Mikael Granlund,Robert Thomas,[65. 15.],2,18:00,NSH,STL,NSH,18,STL,19,0,0,8475798,8480023.0,Mikael Granlund Tripping against Robert Thomas
+162,penalty,Slashing,David Perron,Matt Duchene,[-80.   4.],3,17:29,STL,NSH,NSH,18,STL,19,1,1,8474102,8475168.0,David Perron Slashing against Matt Duchene
+230,penalty,Too many men on the ice,Robert Thomas,,[11. 37.],3,01:29,STL,NSH,NSH,18,STL,19,2,1,8480023,,Too many men/ice served by Robert Thomas
+21,penalty,Slashing,Sebastian Aho,Viktor Arvidsson,[79.  5.],1,15:53,CAR,NSH,NSH,18,CAR,12,0,1,8478427,8478042.0,Sebastian Aho Slashing against Viktor Arvidsson
+88,penalty,Missing key [PD_151],Martin Necas,,[11. 40.],2,19:12,CAR,NSH,NSH,18,CAR,12,1,1,8480039,,Delaying Game - Unsucc. chlg served by Martin Necas
+94,penalty,Slashing,Kyle Turris,Erik Haula,[-81.   8.],2,16:20,NSH,CAR,NSH,18,CAR,12,1,1,8474068,8475287.0,Kyle Turris Slashing against Erik Haula
+140,penalty,Holding,Joel Edmundson,Matt Duchene,[-67.  -3.],2,03:19,CAR,NSH,NSH,18,CAR,12,1,3,8476441,8475168.0,Joel Edmundson Holding against Matt Duchene
+177,penalty,Hooking,Lucas Wallmark,Roman Josi,[94. -9.],3,13:46,CAR,NSH,NSH,18,CAR,12,1,4,8478027,8474600.0,Lucas Wallmark Hooking against Roman Josi
+220,penalty,Hi stick - double minor,Yannick Weber,Lucas Wallmark,[ -3. -33.],3,01:29,NSH,CAR,NSH,18,CAR,12,1,4,8474134,8478027.0,Yannick Weber Hi stick - double minor against Lucas Wallmark
+15,penalty,Slashing,Matt Duchene,Alex Nylander,[-21. -31.],1,17:13,NSH,CHI,CHI,16,NSH,18,0,0,8475168,8479423.0,Matt Duchene Slashing against Alex Nylander
+41,penalty,Tripping,Slater Koekkoek,Rocco Grimaldi,[-77.   5.],1,12:04,CHI,NSH,CHI,16,NSH,18,0,0,8476886,8476428.0,Slater Koekkoek Tripping against Rocco Grimaldi
+47,penalty,PS - Hooking on breakaway,Filip Forsberg,Brandon Saad,[-81.   0.],1,10:46,NSH,CHI,CHI,16,NSH,18,0,0,8476887,8476438.0,Filip Forsberg PS - Hooking on breakaway against Brandon Saad
+89,penalty,Cross checking,Viktor Arvidsson,Nick Seeler,[97. -2.],1,01:53,NSH,CHI,CHI,16,NSH,18,0,0,8478042,8476372.0,Viktor Arvidsson Cross checking against Nick Seeler
+160,penalty,Holding,Duncan Keith,Kyle Turris,[-96. -14.],2,07:35,CHI,NSH,CHI,16,NSH,18,0,0,8470281,8474068.0,Duncan Keith Holding against Kyle Turris
+177,penalty,Interference,Slater Koekkoek,Viktor Arvidsson,[ -8. -20.],2,04:33,CHI,NSH,CHI,16,NSH,18,0,1,8476886,8478042.0,Slater Koekkoek Interference against Viktor Arvidsson
+182,penalty,Hooking,Duncan Keith,Craig Smith,[-75.   7.],2,03:46,CHI,NSH,CHI,16,NSH,18,0,1,8470281,8475225.0,Duncan Keith Hooking against Craig Smith
+226,penalty,Tripping,Slater Koekkoek,Colin Blackwell,[78. 30.],3,14:04,CHI,NSH,CHI,16,NSH,18,0,1,8476886,8476278.0,Slater Koekkoek Tripping against Colin Blackwell
+229,penalty,Hooking,Ryan Johansen,Connor Murphy,[89. 31.],3,13:33,NSH,CHI,CHI,16,NSH,18,0,1,8475793,8476473.0,Ryan Johansen Hooking against Connor Murphy
+233,penalty,Tripping,Filip Forsberg,Kirby Dach,[ 59. -38.],3,12:22,NSH,CHI,CHI,16,NSH,18,0,1,8476887,8481523.0,Filip Forsberg Tripping against Kirby Dach
+70,penalty,Slashing,Pierre-Luc Dubois,Roman Josi,[-28. -15.],1,04:15,CBJ,NSH,NSH,18,CBJ,29,2,0,8479400,8474600.0,Pierre-Luc Dubois Slashing against Roman Josi
+164,penalty,Delaying Game - Puck over glass,Viktor Arvidsson,,[40. 25.],2,02:52,NSH,CBJ,NSH,18,CBJ,29,2,2,8478042,,Viktor Arvidsson Delaying Game - Puck over glass
+203,penalty,Hooking,Colton Sissons,Pierre-Luc Dubois,[-90.  23.],3,13:28,NSH,CBJ,NSH,18,CBJ,29,3,3,8476925,8479400.0,Colton Sissons Hooking against Pierre-Luc Dubois
+5,penalty,Hi-sticking,Thomas Chabot,Craig Smith,[-83. -32.],1,19:09,OTT,NSH,NSH,18,OTT,9,0,0,8478469,8475225.0,Thomas Chabot Hi-sticking against Craig Smith
+99,penalty,Slashing,Chris Tierney,Colton Sissons,[-43.  29.],2,16:39,OTT,NSH,NSH,18,OTT,9,1,2,8476919,8476925.0,Chris Tierney Slashing against Colton Sissons
+127,penalty,Hi-sticking,Christian Jaros,Colin Blackwell,[-92. -25.],2,11:41,OTT,NSH,NSH,18,OTT,9,2,2,8478868,8476278.0,Christian Jaros Hi-sticking against Colin Blackwell
+144,penalty,Interference,Jarred Tinordi,Brady Tkachuk,[21. 11.],2,09:17,NSH,OTT,NSH,18,OTT,9,3,2,8475797,8480801.0,Jarred Tinordi Interference against Brady Tkachuk
+201,penalty,Boarding,Roman Josi,Thomas Chabot,[-81.  35.],3,16:38,NSH,OTT,NSH,18,OTT,9,3,2,8474600,8478469.0,Roman Josi Boarding against Thomas Chabot
+30,penalty,Hooking,Sam Bennett,Colin Blackwell,[-46. -25.],1,11:49,CGY,NSH,NSH,18,CGY,20,0,0,8477935,8476278.0,Sam Bennett Hooking against Colin Blackwell
+132,penalty,Roughing,Roman Josi,Matthew Tkachuk,[-94.  10.],2,06:04,NSH,CGY,NSH,18,CGY,20,1,2,8474600,8479314.0,Roman Josi Roughing against Matthew Tkachuk
+133,penalty,Roughing,Matthew Tkachuk,Roman Josi,[-98.   9.],2,06:04,CGY,NSH,NSH,18,CGY,20,1,2,8479314,8474600.0,Matthew Tkachuk Roughing against Roman Josi
+168,penalty,Roughing,Sam Bennett,Dante Fabbro,[-71.  -9.],3,18:20,CGY,NSH,NSH,18,CGY,20,1,2,8477935,8479371.0,Sam Bennett Roughing against Dante Fabbro
+14,penalty,Hooking,Ryan Ellis,Joonas Donskoi,[-57.  -1.],1,15:24,NSH,COL,NSH,18,COL,21,0,0,8475176,8475820.0,Ryan Ellis Hooking against Joonas Donskoi
+30,penalty,Interference,Valeri Nichushkin,Colin Blackwell,[-35.  12.],1,10:41,COL,NSH,NSH,18,COL,21,0,0,8477501,8476278.0,Valeri Nichushkin Interference against Colin Blackwell
+78,penalty,Holding,Matt Duchene,J.T. Compher,[-51.  39.],2,17:10,NSH,COL,NSH,18,COL,21,0,0,8475168,8477456.0,Matt Duchene Holding against J.T. Compher
+148,penalty,Holding,Erik Johnson,Mikael Granlund,[-94. -23.],2,00:14,COL,NSH,NSH,18,COL,21,0,2,8473446,8475798.0,Erik Johnson Holding against Mikael Granlund
+161,penalty,Hooking,Gabriel Landeskog,Matt Duchene,[64.  4.],3,17:43,COL,NSH,NSH,18,COL,21,0,2,8476455,8475168.0,Gabriel Landeskog Hooking against Matt Duchene
+175,penalty,Hi-sticking,Dante Fabbro,Tyson Jost,[-98.   8.],3,14:39,NSH,COL,NSH,18,COL,21,0,2,8479371,8479370.0,Dante Fabbro Hi-sticking against Tyson Jost
+215,penalty,Interference - Goalkeeper,Colin Blackwell,Pavel Francouz,[86. -2.],3,03:14,NSH,COL,NSH,18,COL,21,1,2,8476278,8480925.0,Colin Blackwell Interference - Goalkeeper against Pavel Francouz
+38,penalty,Tripping,Tyler Ennis,Roman Josi,[-56.  18.],1,10:02,EDM,NSH,NSH,18,EDM,22,0,1,8474589,8474600.0,Tyler Ennis Tripping against Roman Josi
+58,penalty,Holding,Ethan Bear,Calle Jarnkrok,[68. 40.],1,04:29,EDM,NSH,NSH,18,EDM,22,0,1,8478451,8475714.0,Ethan Bear Holding against Calle Jarnkrok
+187,penalty,Hooking,Mattias Ekholm,Jujhar Khaira,[ 41. -38.],3,10:15,NSH,EDM,NSH,18,EDM,22,3,7,8475218,8476915.0,Mattias Ekholm Hooking against Jujhar Khaira
+97,penalty,Slashing,Dante Fabbro,Marcus Foligno,[84.  5.],2,16:41,NSH,MIN,MIN,30,NSH,18,2,0,8479371,8475220.0,Dante Fabbro Slashing against Marcus Foligno
+105,penalty,Too many men on the ice,Yakov Trenin,,[-11.  41.],2,15:00,NSH,MIN,MIN,30,NSH,18,2,0,8478508,,Too many men/ice served by Yakov Trenin
+119,penalty,Tripping,Marcus Foligno,Ryan Ellis,[98.  2.],2,12:17,MIN,NSH,MIN,30,NSH,18,2,0,8475220,8475176.0,Marcus Foligno Tripping against Ryan Ellis
+154,penalty,Slashing,Craig Smith,Jordan Greenway,[35. -7.],2,05:06,NSH,MIN,MIN,30,NSH,18,2,0,8475225,8478413.0,Craig Smith Slashing against Jordan Greenway
+168,penalty,Interference - Goalkeeper,Jordan Greenway,Juuse Saros,[84. -3.],2,01:39,MIN,NSH,MIN,30,NSH,18,2,0,8478413,8477424.0,Jordan Greenway Interference - Goalkeeper against Juuse Saros
+171,penalty,Slashing,Ryan Hartman,Viktor Arvidsson,[-96.  19.],2,00:57,MIN,NSH,MIN,30,NSH,18,2,0,8477451,8478042.0,Ryan Hartman Slashing against Viktor Arvidsson
+177,penalty,Holding,Mikael Granlund,Jonas Brodin,[-81.  36.],2,00:33,NSH,MIN,MIN,30,NSH,18,2,0,8475798,8476463.0,Mikael Granlund Holding against Jonas Brodin
+197,penalty,Hooking,Alex Galchenyuk,Ryan Ellis,[ 58. -37.],3,15:07,MIN,NSH,MIN,30,NSH,18,3,0,8476851,8475176.0,Alex Galchenyuk Hooking against Ryan Ellis
+221,penalty,Interference,Ryan Ellis,Marcus Foligno,[-70. -39.],3,10:50,NSH,MIN,MIN,30,NSH,18,3,1,8475176,8475220.0,Ryan Ellis Interference against Marcus Foligno
+231,penalty,Interference,Yannick Weber,Ryan Donato,[-66.   0.],3,07:34,NSH,MIN,MIN,30,NSH,18,3,1,8474134,8477987.0,Yannick Weber Interference against Ryan Donato
+240,penalty,Tripping,Mikael Granlund,Mikko Koivu,[ 90. -25.],3,05:01,NSH,MIN,MIN,30,NSH,18,3,1,8475798,8469459.0,Mikael Granlund Tripping against Mikko Koivu
+250,penalty,Tripping,Jonas Brodin,Matt Duchene,[ 97. -12.],3,02:20,MIN,NSH,MIN,30,NSH,18,3,1,8476463,8475168.0,Jonas Brodin Tripping against Matt Duchene
+17,penalty,Holding,Rocco Grimaldi,Jason Dickinson,[-94.  -5.],1,14:50,NSH,DAL,NSH,18,DAL,25,0,0,8476428,8477450.0,Rocco Grimaldi Holding against Jason Dickinson
+55,penalty,Interference,John Klingberg,Calle Jarnkrok,[ 73. -37.],1,05:23,DAL,NSH,NSH,18,DAL,25,0,0,8475906,8475714.0,John Klingberg Interference against Calle Jarnkrok
+69,penalty,Holding,John Klingberg,Matt Duchene,[68.  7.],1,01:46,DAL,NSH,NSH,18,DAL,25,0,0,8475906,8475168.0,John Klingberg Holding against Matt Duchene
+88,penalty,Too many men on the ice,Alexander Radulov,,[36. 39.],2,18:27,DAL,NSH,NSH,18,DAL,25,1,0,8471228,,Too many men/ice served by Alexander Radulov
+114,penalty,Too many men on the ice,Viktor Arvidsson,,[-14.  38.],2,12:13,NSH,DAL,NSH,18,DAL,25,1,0,8478042,,Too many men/ice served by Viktor Arvidsson
+123,penalty,Interference,Viktor Arvidsson,Andrew Cogliano,[-91.  28.],2,09:21,NSH,DAL,NSH,18,DAL,25,1,0,8478042,8471699.0,Viktor Arvidsson Interference against Andrew Cogliano
+129,penalty,Tripping,Stephen Johns,Matt Duchene,[-44. -14.],2,06:55,DAL,NSH,NSH,18,DAL,25,1,0,8475730,8475168.0,Stephen Johns Tripping against Matt Duchene
+170,penalty,Tripping,Viktor Arvidsson,John Klingberg,[68. 38.],3,17:58,NSH,DAL,NSH,18,DAL,25,2,0,8478042,8475906.0,Viktor Arvidsson Tripping against John Klingberg
+38,penalty,Roughing,Corey Perry,Jarred Tinordi,[-86.  17.],1,11:26,DAL,NSH,DAL,25,NSH,18,0,0,8470621,8475797.0,Corey Perry Roughing against Jarred Tinordi
+39,penalty,Roughing,Jarred Tinordi,Corey Perry,[-85.  13.],1,11:26,NSH,DAL,DAL,25,NSH,18,0,0,8475797,8470621.0,Jarred Tinordi Roughing against Corey Perry
+51,penalty,Hooking,John Klingberg,Nick Bonino,[97. 20.],1,09:11,DAL,NSH,DAL,25,NSH,18,0,0,8475906,8474009.0,John Klingberg Hooking against Nick Bonino
+88,penalty,Roughing,Yakov Trenin,Corey Perry,[-47.  10.],1,02:04,NSH,DAL,DAL,25,NSH,18,0,0,8478508,8470621.0,Yakov Trenin Roughing against Corey Perry
+123,penalty,Roughing,Korbinian Holzer,Radek Faksa,[89. 34.],2,15:03,NSH,DAL,DAL,25,NSH,18,0,0,8473560,8476889.0,Korbinian Holzer Roughing against Radek Faksa
+124,penalty,Roughing,Radek Faksa,Korbinian Holzer,[89. 32.],2,15:03,DAL,NSH,DAL,25,NSH,18,0,0,8476889,8473560.0,Radek Faksa Roughing against Korbinian Holzer
+143,penalty,Interference,Jamie Oleksiak,Rocco Grimaldi,[-82.  -3.],2,11:28,DAL,NSH,DAL,25,NSH,18,0,0,8476467,8476428.0,Jamie Oleksiak Interference against Rocco Grimaldi
+177,penalty,Hi-sticking,Roman Josi,Corey Perry,[74. -1.],2,04:38,NSH,DAL,DAL,25,NSH,18,0,1,8474600,8470621.0,Roman Josi Hi-sticking against Corey Perry
+4,penalty,Holding,Ben Chiarot,Matt Duchene,[ 83. -19.],1,19:11,MTL,NSH,MTL,8,NSH,18,0,0,8475279,8475168.0,Ben Chiarot Holding against Matt Duchene
+20,penalty,Hooking,Xavier Ouellet,Filip Forsberg,[ 85. -10.],1,15:00,MTL,NSH,MTL,8,NSH,18,0,0,8476443,8476887.0,Xavier Ouellet Hooking against Filip Forsberg
+118,penalty,Hooking,Filip Forsberg,Joel Armia,[46. -6.],2,15:50,NSH,MTL,MTL,8,NSH,18,0,2,8476887,8476469.0,Filip Forsberg Hooking against Joel Armia
+140,penalty,Tripping,Joel Armia,Dante Fabbro,[32. 40.],2,12:14,MTL,NSH,MTL,8,NSH,18,0,2,8476469,8479371.0,Joel Armia Tripping against Dante Fabbro
+197,penalty,Hi-sticking,Joel Armia,Rocco Grimaldi,[-40.  24.],2,02:01,MTL,NSH,MTL,8,NSH,18,0,4,8476469,8476428.0,Joel Armia Hi-sticking against Rocco Grimaldi
+206,penalty,Hooking,Ryan Ellis,Artturi Lehkonen,[84. -6.],2,00:39,NSH,MTL,MTL,8,NSH,18,0,4,8475176,8477476.0,Ryan Ellis Hooking against Artturi Lehkonen
+12,penalty,Hooking,Mats Zuccarello,Matt Duchene,[73.  5.],1,16:28,MIN,NSH,NSH,18,MIN,30,0,0,8475692,8475168.0,Mats Zuccarello Hooking against Matt Duchene
+24,penalty,Holding,Nick Seeler,Mikael Granlund,[93. 29.],1,14:08,MIN,NSH,NSH,18,MIN,30,0,0,8476372,8475798.0,Nick Seeler Holding against Mikael Granlund
+43,penalty,Slashing,Roman Josi,Kevin Fiala,[-43.  18.],1,10:44,NSH,MIN,NSH,18,MIN,30,0,0,8474600,8477942.0,Roman Josi Slashing against Kevin Fiala
+127,penalty,Interference - Goalkeeper,Craig Smith,Devan Dubnyk,[-83.  -2.],2,11:17,NSH,MIN,NSH,18,MIN,30,1,0,8475225,8471227.0,Craig Smith Interference - Goalkeeper against Devan Dubnyk
+144,penalty,Too many men on the ice,Rocco Grimaldi,,[-11.  35.],2,04:43,NSH,MIN,NSH,18,MIN,30,1,0,8476428,,Too many men/ice served by Rocco Grimaldi
+20,penalty,Hi-sticking,Anthony Mantha,Matt Duchene,[68. 22.],1,15:12,DET,NSH,NSH,18,DET,17,0,0,8477511,8475168.0,Anthony Mantha Hi-sticking against Matt Duchene
+99,penalty,Interference,Anthony Mantha,Matt Duchene,[ -2. -33.],2,15:30,DET,NSH,NSH,18,DET,17,0,2,8477511,8475168.0,Anthony Mantha Interference against Matt Duchene
+116,penalty,Cross checking,Mattias Ekholm,Tyler Bertuzzi,[95. 27.],2,12:53,NSH,DET,NSH,18,DET,17,1,2,8475218,8477479.0,Mattias Ekholm Cross checking against Tyler Bertuzzi
+142,penalty,Interference,Austin Watson,Justin Abdelkader,[ 0. 38.],2,06:19,NSH,DET,NSH,18,DET,17,2,2,8475766,8471716.0,Austin Watson Interference against Justin Abdelkader
+61,penalty,Fighting,Austin Watson,Trevor Carrick,[-14. -23.],1,06:00,NSH,SJS,NSH,18,SJS,28,1,0,8475766,8476953.0,Austin Watson Fighting against Trevor Carrick
+62,penalty,Fighting,Trevor Carrick,Austin Watson,[ -9. -22.],1,06:00,SJS,NSH,NSH,18,SJS,28,1,0,8476953,8475766.0,Trevor Carrick Fighting against Austin Watson
+69,penalty,Interference,Evander Kane,Nick Bonino,[-76.  37.],1,03:58,SJS,NSH,NSH,18,SJS,28,1,0,8475169,8474009.0,Evander Kane Interference against Nick Bonino
+98,penalty,Hooking,Mikael Granlund,Tomas Hertl,[85. 36.],2,17:03,NSH,SJS,NSH,18,SJS,28,1,0,8475798,8476881.0,Mikael Granlund Hooking against Tomas Hertl
+106,penalty,Cross checking,Joe Thornton,Yannick Weber,[26. 29.],2,14:48,SJS,NSH,NSH,18,SJS,28,1,0,8466138,8474134.0,Joe Thornton Cross checking against Yannick Weber
+119,penalty,Slashing,Brenden Dillon,Filip Forsberg,[-87.  31.],2,10:20,SJS,NSH,NSH,18,SJS,28,1,0,8475455,8476887.0,Brenden Dillon Slashing against Filip Forsberg
+147,penalty,Interference,Matt Duchene,Kevin Labanc,[48. 24.],2,04:54,NSH,SJS,NSH,18,SJS,28,2,0,8475168,8478099.0,Matt Duchene Interference against Kevin Labanc
+168,penalty,Interference,Brent Burns,Mikael Granlund,[-65. -37.],2,01:00,SJS,NSH,NSH,18,SJS,28,2,1,8470613,8475798.0,Brent Burns Interference against Mikael Granlund
+171,penalty,Hooking,Ryan Johansen,Logan Couture,[-66.  21.],2,00:08,NSH,SJS,NSH,18,SJS,28,2,1,8475793,8474053.0,Ryan Johansen Hooking against Logan Couture
+225,penalty,Hooking,Evander Kane,Dante Fabbro,[-91. -27.],3,07:51,SJS,NSH,NSH,18,SJS,28,4,1,8475169,8479371.0,Evander Kane Hooking against Dante Fabbro
+51,penalty,Tripping,Craig Smith,Tyler Lewington,[96. -5.],1,08:51,NSH,WSH,NSH,18,WSH,15,1,1,8475225,8477343.0,Craig Smith Tripping against Tyler Lewington
+63,penalty,Tripping,Radko Gudas,Kyle Turris,[ 94. -27.],1,05:45,WSH,NSH,NSH,18,WSH,15,1,1,8475462,8474068.0,Radko Gudas Tripping against Kyle Turris
+70,penalty,Slashing,Evgeny Kuznetsov,Ryan Ellis,[-64.  26.],1,02:07,WSH,NSH,NSH,18,WSH,15,1,1,8475744,8475176.0,Evgeny Kuznetsov Slashing against Ryan Ellis
+97,penalty,Hi-sticking,Colton Sissons,Jonas Siegenthaler,[-95.   9.],2,15:46,NSH,WSH,NSH,18,WSH,15,1,1,8476925,8478399.0,Colton Sissons Hi-sticking against Jonas Siegenthaler
+123,penalty,Interference,Garnet Hathaway,Dante Fabbro,[-87.  36.],2,08:57,WSH,NSH,NSH,18,WSH,15,2,2,8477903,8479371.0,Garnet Hathaway Interference against Dante Fabbro
+144,penalty,Tripping,Roman Josi,Alex Ovechkin,[67. -4.],2,02:49,NSH,WSH,NSH,18,WSH,15,2,3,8474600,8471214.0,Roman Josi Tripping against Alex Ovechkin
+172,penalty,Hooking,John Carlson,Ryan Ellis,[ 83. -21.],3,15:45,WSH,NSH,NSH,18,WSH,15,2,4,8474590,8475176.0,John Carlson Hooking against Ryan Ellis
+236,penalty,Slashing,Ryan Ellis,Evgeny Kuznetsov,[-42. -37.],3,00:17,NSH,WSH,NSH,18,WSH,15,6,5,8475176,8475744.0,Ryan Ellis Slashing against Evgeny Kuznetsov
+23,penalty,Hooking,Dan Hamhuis,Adrian Kempe,[-85.  25.],1,14:29,NSH,LAK,LAK,26,NSH,18,0,1,8469465,8477960.0,Dan Hamhuis Hooking against Adrian Kempe
+62,penalty,Holding,Ilya Kovalchuk,Viktor Arvidsson,[ -6. -22.],1,04:23,LAK,NSH,LAK,26,NSH,18,2,1,8469454,8478042.0,Ilya Kovalchuk Holding against Viktor Arvidsson
+127,penalty,Tripping,Sean Walker,Matt Duchene,[-13. -31.],2,09:30,LAK,NSH,LAK,26,NSH,18,3,1,8480336,8475168.0,Sean Walker Tripping against Matt Duchene
+149,penalty,Holding,Dan Hamhuis,Trevor Lewis,[95. 32.],2,04:51,NSH,LAK,LAK,26,NSH,18,3,1,8469465,8473453.0,Dan Hamhuis Holding against Trevor Lewis
+153,penalty,Slashing,Alec Martinez,Nick Bonino,[-73.   5.],2,04:31,LAK,NSH,LAK,26,NSH,18,3,1,8474166,8474009.0,Alec Martinez Slashing against Nick Bonino
+217,penalty,Tripping,Austin Wagner,Matt Duchene,[-44. -15.],3,09:55,LAK,NSH,LAK,26,NSH,18,4,2,8478455,8475168.0,Austin Wagner Tripping against Matt Duchene
+13,penalty,Tripping,Brayden McNabb,Craig Smith,[ 86. -15.],1,16:26,VGK,NSH,VGK,54,NSH,18,0,1,8475188,8475225.0,Brayden McNabb Tripping against Craig Smith
+51,penalty,Cross checking,Mattias Ekholm,Paul Stastny,[-58. -22.],1,10:59,NSH,VGK,VGK,54,NSH,18,0,1,8475218,8471669.0,Mattias Ekholm Cross checking against Paul Stastny
+99,penalty,Fighting,Roman Josi,Mark Stone,[-74.   0.],1,01:47,NSH,VGK,VGK,54,NSH,18,2,1,8474600,8475913.0,Roman Josi Fighting against Mark Stone
+100,penalty,Fighting,Mark Stone,Roman Josi,[-73.   0.],1,01:47,VGK,NSH,VGK,54,NSH,18,2,1,8475913,8474600.0,Mark Stone Fighting against Roman Josi
+124,penalty,Interference,Max Pacioretty,Matt Duchene,[ -6. -38.],2,18:32,VGK,NSH,VGK,54,NSH,18,2,2,8474157,8475168.0,Max Pacioretty Interference against Matt Duchene
+175,penalty,Interference,Filip Forsberg,Mark Stone,[-25. -20.],2,07:03,NSH,VGK,VGK,54,NSH,18,2,4,8476887,8475913.0,Filip Forsberg Interference against Mark Stone
+198,penalty,Holding,Dante Fabbro,Valentin Zykov,[91. 37.],2,02:32,NSH,VGK,VGK,54,NSH,18,2,4,8479371,8477458.0,Dante Fabbro Holding against Valentin Zykov
+207,penalty,Too many men on the ice,Valentin Zykov,,[29. 37.],2,00:18,VGK,NSH,VGK,54,NSH,18,2,4,8477458,,Too many men/ice served by Valentin Zykov
+227,penalty,Holding,Brayden McNabb,Matt Duchene,[94.  9.],3,16:11,VGK,NSH,VGK,54,NSH,18,2,4,8475188,8475168.0,Brayden McNabb Holding against Matt Duchene
+280,penalty,Cross checking,Valentin Zykov,Dante Fabbro,[-59. -39.],3,07:36,VGK,NSH,VGK,54,NSH,18,2,5,8477458,8479371.0,Valentin Zykov Cross checking against Dante Fabbro
+295,penalty,Fighting,Dan Hamhuis,Max Pacioretty,[-96.  20.],3,04:48,NSH,VGK,VGK,54,NSH,18,2,5,8469465,8474157.0,Dan Hamhuis Fighting against Max Pacioretty
+296,penalty,Fighting,Max Pacioretty,Dan Hamhuis,[-96.  20.],3,04:48,VGK,NSH,VGK,54,NSH,18,2,5,8474157,8469465.0,Max Pacioretty Fighting against Dan Hamhuis
+315,penalty,Holding,Nick Bonino,Cody Glass,[-84. -38.],3,00:38,NSH,VGK,VGK,54,NSH,18,2,5,8474009,8479996.0,Nick Bonino Holding against Cody Glass
+39,penalty,Hooking,Ryan Johansen,Phil Kessel,[-77.   4.],1,10:40,NSH,ARI,ARI,53,NSH,18,1,0,8475793,8473548.0,Ryan Johansen Hooking against Phil Kessel
+51,penalty,Hooking,Roman Josi,Jakob Chychrun,[61. 11.],1,07:47,NSH,ARI,ARI,53,NSH,18,2,0,8474600,8479345.0,Roman Josi Hooking against Jakob Chychrun
+70,penalty,Hooking,Alex Goligoski,Ryan Johansen,[-85.  11.],1,03:43,ARI,NSH,ARI,53,NSH,18,2,0,8471274,8475793.0,Alex Goligoski Hooking against Ryan Johansen
+98,penalty,Interference,Conor Garland,Ryan Johansen,[37. 21.],2,16:12,ARI,NSH,ARI,53,NSH,18,2,1,8478856,8475793.0,Conor Garland Interference against Ryan Johansen
+111,penalty,Roughing,Mikael Granlund,Brad Richardson,[91. 22.],2,12:23,NSH,ARI,ARI,53,NSH,18,2,1,8475798,8470755.0,Mikael Granlund Roughing against Brad Richardson
+112,penalty,Interference,Brad Richardson,Mikael Granlund,[86. 22.],2,12:23,ARI,NSH,ARI,53,NSH,18,2,1,8470755,8475798.0,Brad Richardson Interference against Mikael Granlund
+135,penalty,Slashing,Dan Hamhuis,Michael Grabner,[-76.   4.],2,07:12,NSH,ARI,ARI,53,NSH,18,2,1,8469465,8473546.0,Dan Hamhuis Slashing against Michael Grabner
+179,penalty,Cross checking,Yannick Weber,Conor Garland,[ 9. 36.],3,14:57,NSH,ARI,ARI,53,NSH,18,3,1,8474134,8478856.0,Yannick Weber Cross checking against Conor Garland
+193,penalty,Cross checking,Roman Josi,Clayton Keller,[ 44. -36.],3,11:51,NSH,ARI,ARI,53,NSH,18,4,1,8474600,8479343.0,Roman Josi Cross checking against Clayton Keller
+211,penalty,Interference,Kyle Capobianco,Rocco Grimaldi,[-69.  23.],3,07:29,ARI,NSH,ARI,53,NSH,18,4,1,8478476,8476428.0,Kyle Capobianco Interference against Rocco Grimaldi
+235,penalty,Tripping,Rocco Grimaldi,Kyle Capobianco,[ 3. -4.],3,02:15,NSH,ARI,ARI,53,NSH,18,5,2,8476428,8478476.0,Rocco Grimaldi Tripping against Kyle Capobianco
+17,penalty,Hi-sticking,Yakov Trenin,Keith Yandle,[97. -8.],1,14:56,NSH,FLA,NSH,18,FLA,13,0,0,8478508,8471735.0,Yakov Trenin Hi-sticking against Keith Yandle
+26,penalty,Interference,Brett Connolly,Miikka Salomaki,[34. -2.],1,12:29,FLA,NSH,NSH,18,FLA,13,0,0,8475792,8476447.0,Brett Connolly Interference against Miikka Salomaki
+34,penalty,Slashing,Brett Connolly,Mattias Ekholm,[62. 16.],1,10:14,FLA,NSH,NSH,18,FLA,13,0,0,8475792,8475218.0,Brett Connolly Slashing against Mattias Ekholm
+106,penalty,Slashing,Kyle Turris,Denis Malgin,[ 97. -29.],2,08:21,NSH,FLA,NSH,18,FLA,13,0,0,8474068,8478843.0,Kyle Turris Slashing against Denis Malgin
+191,penalty,Tripping,Jonathan Huberdeau,Craig Smith,[41. 12.],3,07:51,FLA,NSH,NSH,18,FLA,13,1,2,8476456,8475225.0,Jonathan Huberdeau Tripping against Craig Smith
+228,penalty,Hooking,Aaron Ekblad,Matt Duchene,[-65.  -1.],4,00:35,FLA,NSH,NSH,18,FLA,13,2,2,8477932,8475168.0,Aaron Ekblad Hooking against Matt Duchene
+19,penalty,Cross checking,Hampus Lindholm,Viktor Arvidsson,[ 95. -36.],1,15:21,ANA,NSH,NSH,18,ANA,24,0,0,8476854,8478042.0,Hampus Lindholm Cross checking against Viktor Arvidsson
+39,penalty,Interference,Jacob Larsson,Matt Duchene,[17.  2.],1,10:28,ANA,NSH,NSH,18,ANA,24,0,0,8478491,8475168.0,Jacob Larsson Interference against Matt Duchene
+48,penalty,Cross checking,Jakob Silfverberg,Roman Josi,[-90.  36.],1,09:09,ANA,NSH,NSH,18,ANA,24,0,0,8475164,8474600.0,Jakob Silfverberg Cross checking against Roman Josi
+58,penalty,Slashing,Colton Sissons,Ondrej Kase,[39. 37.],1,05:47,NSH,ANA,NSH,18,ANA,24,1,0,8476925,8478131.0,Colton Sissons Slashing against Ondrej Kase
+99,penalty,PS - Hooking on breakaway,Yannick Weber,Troy Terry,[72.  0.],2,16:45,NSH,ANA,NSH,18,ANA,24,3,0,8474134,8478873.0,Yannick Weber PS - Hooking on breakaway against Troy Terry
+118,penalty,Slashing,Dante Fabbro,Adam Henrique,[ 73. -23.],2,10:42,NSH,ANA,NSH,18,ANA,24,3,0,8479371,8474641.0,Dante Fabbro Slashing against Adam Henrique
+143,penalty,Hi-sticking,Miikka Salomaki,Josh Manson,[-24. -37.],2,05:55,NSH,ANA,NSH,18,ANA,24,4,0,8476447,8476312.0,Miikka Salomaki Hi-sticking against Josh Manson
+190,penalty,Hi-sticking,Korbinian Holzer,Viktor Arvidsson,[ 80. -40.],3,11:18,ANA,NSH,NSH,18,ANA,24,6,1,8473560,8478042.0,Korbinian Holzer Hi-sticking against Viktor Arvidsson
+195,penalty,Interference,Josh Manson,Viktor Arvidsson,[67.  4.],3,09:35,ANA,NSH,NSH,18,ANA,24,6,1,8476312,8478042.0,Josh Manson Interference against Viktor Arvidsson
+213,penalty,Cross checking,Nick Ritchie,Jakob Silfverberg,[ 91. -34.],3,05:15,ANA,NSH,NSH,18,ANA,24,6,1,8477941,8475164.0,Nick Ritchie Cross checking against Viktor Arvidsson served by Jakob Silfverberg
+214,penalty,Game misconduct,Nick Ritchie,,[58. 38.],3,05:15,ANA,NSH,NSH,18,ANA,24,6,1,8477941,,Nick Ritchie Game misconduct
+190,penalty,Slashing,Ryan Johansen,Mats Zuccarello,[ 17. -22.],3,10:28,NSH,MIN,NSH,18,MIN,30,3,0,8475793,8475692.0,Ryan Johansen Slashing against Mats Zuccarello
+199,penalty,Roughing,Eric Staal,Viktor Arvidsson,[80. 39.],3,07:43,MIN,NSH,NSH,18,MIN,30,3,0,8470595,8478042.0,Eric Staal Roughing against Viktor Arvidsson
+207,penalty,Tripping,Miikka Salomaki,Gabriel Dumont,[40. -2.],3,04:43,NSH,MIN,NSH,18,MIN,30,3,0,8476447,8475254.0,Miikka Salomaki Tripping against Gabriel Dumont
+32,penalty,Holding,Luke Witkowski,Miikka Salomaki,[-38.  30.],1,14:32,TBL,NSH,TBL,14,NSH,18,0,0,8474722,8476447.0,Luke Witkowski Holding against Miikka Salomaki
+66,penalty,Tripping,Ondrej Palat,Dante Fabbro,[94. 12.],1,06:06,TBL,NSH,TBL,14,NSH,18,0,0,8476292,8479371.0,Ondrej Palat Tripping against Dante Fabbro
+96,penalty,Slashing,Ryan Johansen,Anthony Cirelli,[-31.  31.],2,19:34,NSH,TBL,TBL,14,NSH,18,0,1,8475793,8478519.0,Ryan Johansen Slashing against Anthony Cirelli
+104,penalty,Slashing,Matt Irwin,Luke Witkowski,[-73.  -4.],2,18:06,NSH,TBL,TBL,14,NSH,18,1,1,8475625,8474722.0,Matt Irwin Slashing against Luke Witkowski
+118,penalty,Too many men on the ice,Pat Maroon,,[-32.  42.],2,13:43,TBL,NSH,TBL,14,NSH,18,1,1,8474034,,Too many men/ice served by Pat Maroon
+145,penalty,Delaying Game - Puck over glass,Nick Bonino,,[-46.  -8.],2,07:46,NSH,TBL,TBL,14,NSH,18,2,1,8474009,,Nick Bonino Delaying Game - Puck over glass
+192,penalty,Cross checking,Roman Josi,Ryan McDonagh,[-89.  -8.],3,15:49,NSH,TBL,TBL,14,NSH,18,2,1,8474600,8474151.0,Roman Josi Cross checking against Ryan McDonagh
+228,penalty,Interference,Ryan McDonagh,Calle Jarnkrok,[-68.   2.],3,05:29,TBL,NSH,TBL,14,NSH,18,2,1,8474151,8475714.0,Ryan McDonagh Interference against Calle Jarnkrok
+254,penalty,Too many men on the ice,Mathieu Joseph,,[-21.  37.],4,03:49,TBL,NSH,TBL,14,NSH,18,2,2,8478472,,Too many men/ice served by Mathieu Joseph
+52,penalty,Cross checking,Mikael Granlund,Alex Nylander,[-67.  38.],1,07:06,NSH,CHI,NSH,18,CHI,16,0,0,8475798,8479423.0,Mikael Granlund Cross checking against Alex Nylander
+91,penalty,Tripping,Dante Fabbro,Dylan Strome,[ 72. -29.],2,19:23,NSH,CHI,NSH,18,CHI,16,1,0,8479371,8478440.0,Dante Fabbro Tripping against Dylan Strome
+111,penalty,Hooking,Duncan Keith,Mattias Ekholm,[-78.  12.],2,14:54,CHI,NSH,NSH,18,CHI,16,1,0,8470281,8475218.0,Duncan Keith Hooking against Mattias Ekholm
+175,penalty,Hooking,Slater Koekkoek,Colton Sissons,[-48.  32.],2,02:10,CHI,NSH,NSH,18,CHI,16,2,0,8476886,8476925.0,Slater Koekkoek Hooking against Colton Sissons
+221,penalty,Hi-sticking,Slater Koekkoek,Matt Duchene,[83. -7.],3,11:56,CHI,NSH,NSH,18,CHI,16,3,0,8476886,8475168.0,Slater Koekkoek Hi-sticking against Matt Duchene
+232,penalty,Hooking,Patrick Kane,Matt Irwin,[-83. -32.],3,08:24,CHI,NSH,NSH,18,CHI,16,3,0,8474141,8475625.0,Patrick Kane Hooking against Matt Irwin
+233,penalty,Unsportsmanlike conduct,Patrick Kane,,[-37.   1.],3,08:24,CHI,NSH,NSH,18,CHI,16,3,0,8474141,,Patrick Kane Unsportsmanlike conduct
+236,penalty,Hooking,Ryan Johansen,Ryan Carpenter,[-73.  -1.],3,07:28,NSH,CHI,NSH,18,CHI,16,3,0,8475793,8477846.0,Ryan Johansen Hooking against Ryan Carpenter
+8,penalty,Slashing,Andrew Mangiapane,Dante Fabbro,[-90. -27.],1,17:55,CGY,NSH,NSH,18,CGY,20,0,0,8478233,8479371.0,Andrew Mangiapane Slashing against Dante Fabbro
+44,penalty,Cross checking,Alan Quine,Rocco Grimaldi,[83. 37.],1,08:31,CGY,NSH,NSH,18,CGY,20,2,0,8476409,8476428.0,Alan Quine Cross checking against Rocco Grimaldi
+66,penalty,Interference,Craig Smith,Mark Giordano,[-53. -38.],1,02:45,NSH,CGY,NSH,18,CGY,20,2,1,8475225,8470966.0,Craig Smith Interference against Mark Giordano
+95,penalty,Too many men on the ice,Kyle Turris,,[-14.  39.],2,16:20,NSH,CGY,NSH,18,CGY,20,2,1,8474068,,Too many men/ice served by Kyle Turris
+144,penalty,Interference - Goalkeeper,Kyle Turris,David Rittich,[-85.   2.],2,01:54,NSH,CGY,NSH,18,CGY,20,3,1,8474068,8479496.0,Kyle Turris Interference - Goalkeeper against David Rittich
+152,penalty,Tripping,Mikael Backlund,Ryan Ellis,[ 1. 34.],2,00:36,CGY,NSH,NSH,18,CGY,20,4,1,8474150,8475176.0,Mikael Backlund Tripping against Ryan Ellis
+1,penalty,Tripping,Ryan Johansen,Libor Hajek,[96. -9.],1,19:11,NSH,NYR,NSH,18,NYR,3,0,0,8475793,8479333.0,Ryan Johansen Tripping against Libor Hajek
+31,penalty,Cross checking,Brady Skjei,Mikael Granlund,[82. -4.],1,10:35,NYR,NSH,NSH,18,NYR,3,0,0,8476869,8475798.0,Brady Skjei Cross checking against Mikael Granlund
+53,penalty,Interference,Mattias Ekholm,Kaapo Kakko,[32. 31.],1,03:34,NSH,NYR,NSH,18,NYR,3,0,1,8475218,8481554.0,Mattias Ekholm Interference against Kaapo Kakko
+74,penalty,Fighting,Micheal Haley,Austin Watson,[-34.  35.],2,17:22,NYR,NSH,NSH,18,NYR,3,0,1,8474230,8475766.0,Micheal Haley Fighting against Austin Watson
+75,penalty,Fighting,Austin Watson,Micheal Haley,[-23.  36.],2,17:22,NSH,NYR,NSH,18,NYR,3,0,1,8475766,8474230.0,Austin Watson Fighting against Micheal Haley
+87,penalty,Hooking,Matt Duchene,Brendan Lemieux,[15. -6.],2,14:33,NSH,NYR,NSH,18,NYR,3,0,2,8475168,8477962.0,Matt Duchene Hooking against Brendan Lemieux
+134,penalty,Interference,Tony DeAngelo,Rocco Grimaldi,[-74.  -7.],2,05:58,NYR,NSH,NSH,18,NYR,3,0,2,8477950,8476428.0,Tony DeAngelo Interference against Rocco Grimaldi
+163,penalty,Cross checking,Ryan Strome,Mattias Ekholm,[ 90. -28.],2,00:00,NYR,NSH,NSH,18,NYR,3,1,2,8476458,8475218.0,Ryan Strome Cross checking against Mattias Ekholm
+213,penalty,Slashing,Ryan Ellis,Brendan Lemieux,[-82.  -7.],3,08:13,NSH,NYR,NSH,18,NYR,3,1,2,8475176,8477962.0,Ryan Ellis Slashing against Brendan Lemieux
+226,penalty,Holding,Brendan Smith,Roman Josi,[-27.  38.],3,05:17,NYR,NSH,NSH,18,NYR,3,1,2,8474090,8474600.0,Brendan Smith Holding against Roman Josi
+240,penalty,Tripping,Libor Hajek,Ryan Johansen,[76.  1.],3,02:21,NYR,NSH,NSH,18,NYR,3,1,2,8479333,8475793.0,Libor Hajek Tripping against Ryan Johansen
+41,penalty,Slashing,Viktor Arvidsson,Dylan Larkin,[-7.  3.],1,08:48,NSH,DET,DET,17,NSH,18,1,0,8478042,8477946.0,Viktor Arvidsson Slashing against Dylan Larkin
+57,penalty,Tripping,Craig Smith,Alex Biega,[-96.   6.],1,04:37,NSH,DET,DET,17,NSH,18,1,0,8475225,8473415.0,Craig Smith Tripping against Alex Biega
+126,penalty,Hooking,Roman Josi,Dylan Larkin,[77. -2.],2,05:49,NSH,DET,DET,17,NSH,18,1,4,8474600,8477946.0,Roman Josi Hooking against Dylan Larkin
+138,penalty,Fighting,Dylan Larkin,Ryan Ellis,[97. 21.],2,03:06,DET,NSH,DET,17,NSH,18,1,4,8477946,8475176.0,Dylan Larkin Fighting against Ryan Ellis
+139,penalty,Roughing,Dylan Larkin,Brendan Perlini,[98. 19.],2,03:06,DET,NSH,DET,17,NSH,18,1,4,8477946,8477943.0,Dylan Larkin Roughing against Ryan Ellis served by Brendan Perlini
+140,penalty,Fighting,Ryan Ellis,Dylan Larkin,[96. 19.],2,03:06,NSH,DET,DET,17,NSH,18,1,4,8475176,8477946.0,Ryan Ellis Fighting against Dylan Larkin
+191,penalty,Tripping,Brendan Perlini,Roman Josi,[-94.  -5.],3,13:42,DET,NSH,DET,17,NSH,18,1,5,8477943,8474600.0,Brendan Perlini Tripping against Roman Josi
+207,penalty,Hi stick - double minor,Dylan Larkin,Yannick Weber,[ 33. -36.],3,09:19,DET,NSH,DET,17,NSH,18,1,6,8477946,8474134.0,Dylan Larkin Hi stick - double minor against Yannick Weber
+19,penalty,Hooking,Ryan Johansen,Nathan MacKinnon,[17. 35.],1,16:48,NSH,COL,COL,21,NSH,18,1,0,8475793,8477492.0,Ryan Johansen Hooking against Nathan MacKinnon
+25,penalty,Interference,Nazem Kadri,Calle Jarnkrok,[-54.  29.],1,15:54,COL,NSH,COL,21,NSH,18,1,0,8475172,8475714.0,Nazem Kadri Interference against Calle Jarnkrok
+92,penalty,Slashing,Matt Duchene,Joonas Donskoi,[-92. -15.],1,02:56,NSH,COL,COL,21,NSH,18,1,1,8475168,8475820.0,Matt Duchene Slashing against Joonas Donskoi
+95,penalty,Slashing,Austin Watson,Nathan MacKinnon,[-57. -22.],1,02:42,NSH,COL,COL,21,NSH,18,1,1,8475766,8477492.0,Austin Watson Slashing against Nathan MacKinnon
+109,penalty,Cross checking,Roman Josi,Pierre-Edouard Bellemare,[-72.  37.],1,00:48,NSH,COL,COL,21,NSH,18,2,1,8474600,8477930.0,Roman Josi Cross checking against Pierre-Edouard Bellemare
+129,penalty,Cross checking,Ryan Graves,Mikael Granlund,[-68.  40.],2,15:51,COL,NSH,COL,21,NSH,18,2,2,8477435,8475798.0,Ryan Graves Cross checking against Mikael Granlund
+144,penalty,Tripping,Mark Barberio,Viktor Arvidsson,[61. 38.],2,12:50,COL,NSH,COL,21,NSH,18,5,3,8474717,8478042.0,Mark Barberio Tripping against Viktor Arvidsson
+194,penalty,Hi-sticking,Colton Sissons,Nathan MacKinnon,[50. -6.],2,02:49,NSH,COL,COL,21,NSH,18,8,3,8476925,8477492.0,Colton Sissons Hi-sticking against Nathan MacKinnon
+209,penalty,Hi-sticking,Mark Barberio,Rocco Grimaldi,[ 68. -25.],3,17:27,COL,NSH,COL,21,NSH,18,8,3,8474717,8476428.0,Mark Barberio Hi-sticking against Rocco Grimaldi
+275,penalty,Slashing,Matt Duchene,Samuel Girard,[-72.   1.],3,02:39,NSH,COL,COL,21,NSH,18,8,4,8475168,8479398.0,Matt Duchene Slashing against Samuel Girard
+45,penalty,Boarding,Brent Burns,Mikael Granlund,[-99.  -5.],1,10:39,SJS,NSH,SJS,28,NSH,18,0,0,8470613,8475798.0,Brent Burns Boarding against Mikael Granlund
+58,penalty,Tripping,Dan Hamhuis,Joe Thornton,[ 92. -10.],1,06:30,NSH,SJS,SJS,28,NSH,18,0,0,8469465,8466138.0,Dan Hamhuis Tripping against Joe Thornton
+66,penalty,Too many men on the ice,Rocco Grimaldi,,[12. 40.],1,04:17,NSH,SJS,SJS,28,NSH,18,0,0,8476428,,Too many men/ice served by Rocco Grimaldi
+100,penalty,Tripping,Tomas Hertl,Dante Fabbro,[-86. -37.],2,15:55,SJS,NSH,SJS,28,NSH,18,0,0,8476881,8479371.0,Tomas Hertl Tripping against Dante Fabbro
+145,penalty,Tripping,Rocco Grimaldi,Brenden Dillon,[-58. -40.],2,04:49,NSH,SJS,SJS,28,NSH,18,0,1,8476428,8475455.0,Rocco Grimaldi Tripping against Brenden Dillon
+203,penalty,Hooking,Kevin Labanc,Rocco Grimaldi,[-68.  14.],3,11:08,SJS,NSH,SJS,28,NSH,18,1,1,8478099,8476428.0,Kevin Labanc Hooking against Rocco Grimaldi
+227,penalty,Tripping,Filip Forsberg,Marcus Sorensen,[45. -5.],3,06:16,NSH,SJS,SJS,28,NSH,18,1,1,8476887,8475834.0,Filip Forsberg Tripping against Marcus Sorensen
+266,penalty,Hooking,Evander Kane,Mikael Granlund,[45. -1.],4,01:31,SJS,NSH,SJS,28,NSH,18,1,1,8475169,8475798.0,Evander Kane Hooking against Mikael Granlund
+40,penalty,Hooking,Jordie Benn,Craig Smith,[-68. -35.],1,07:57,VAN,NSH,VAN,23,NSH,18,0,0,8474818,8475225.0,Jordie Benn Hooking against Craig Smith
+68,penalty,Holding the stick,Dante Fabbro,Elias Pettersson,[-92. -10.],1,00:03,NSH,VAN,VAN,23,NSH,18,0,0,8479371,8480012.0,Dante Fabbro Holding the stick against Elias Pettersson
+174,penalty,Holding,Mattias Ekholm,Sven Baertschi,[-91. -10.],3,15:12,NSH,VAN,VAN,23,NSH,18,1,1,8475218,8476466.0,Mattias Ekholm Holding against Sven Baertschi
+197,penalty,Holding,Kyle Turris,Jordie Benn,[96.  1.],3,10:27,NSH,VAN,VAN,23,NSH,18,2,2,8474068,8474818.0,Kyle Turris Holding against Jordie Benn
+215,penalty,Slashing,Brock Boeser,Matt Duchene,[ 44. -20.],3,06:58,VAN,NSH,VAN,23,NSH,18,4,2,8478444,8475168.0,Brock Boeser Slashing against Matt Duchene
+140,penalty,Holding,Mikael Granlund,David Kampf,[90. 30.],2,04:25,NSH,CHI,NSH,18,CHI,16,0,4,8475798,8480144.0,Mikael Granlund Holding against David Kampf
+152,penalty,Interference,Brandon Saad,Mattias Ekholm,[35.  2.],2,00:25,CHI,NSH,NSH,18,CHI,16,0,4,8476438,8475218.0,Brandon Saad Interference against Mattias Ekholm
+52,penalty,Slashing,Mattias Ekholm,Andrew Copp,[-80.   8.],1,08:22,NSH,WPG,NSH,18,WPG,52,0,1,8475218,8477429.0,Mattias Ekholm Slashing against Andrew Copp
+60,penalty,Roughing,Nathan Beaulieu,Filip Forsberg,[78.  7.],1,05:24,WPG,NSH,NSH,18,WPG,52,0,1,8476470,8476887.0,Nathan Beaulieu Roughing against Filip Forsberg
+61,penalty,Roughing,Filip Forsberg,Nathan Beaulieu,[78.  2.],1,05:24,NSH,WPG,NSH,18,WPG,52,0,1,8476887,8476470.0,Filip Forsberg Roughing against Nathan Beaulieu
+74,penalty,Interference,Luca Sbisa,Rocco Grimaldi,[20. 34.],1,02:15,WPG,NSH,NSH,18,WPG,52,0,1,8474579,8476428.0,Luca Sbisa Interference against Rocco Grimaldi
+78,penalty,Slashing,Blake Wheeler,Mikael Granlund,[55.  0.],1,00:41,WPG,NSH,NSH,18,WPG,52,0,1,8471218,8475798.0,Blake Wheeler Slashing against Mikael Granlund
+144,penalty,Delaying Game - Puck over glass,Steven Santini,,[53. 39.],2,01:39,NSH,WPG,NSH,18,WPG,52,1,2,8477463,,Steven Santini Delaying Game - Puck over glass
+222,penalty,Interference,Mathieu Perreault,Mikael Granlund,[42. -1.],3,04:43,WPG,NSH,NSH,18,WPG,52,1,2,8473618,8475798.0,Mathieu Perreault Interference against Mikael Granlund
+223,penalty,Embellishment,Mikael Granlund,,[36. -3.],3,04:43,NSH,WPG,NSH,18,WPG,52,1,2,8475798,,Mikael Granlund Embellishment
+6,penalty,Interference,Adam Gaudette,Steven Santini,[-10. -30.],1,17:53,VAN,NSH,NSH,18,VAN,23,0,0,8478874,8477463.0,Adam Gaudette Interference against Steven Santini
+62,penalty,Cross checking,Dante Fabbro,Jake Virtanen,[-83.   1.],1,04:29,NSH,VAN,NSH,18,VAN,23,1,0,8479371,8477937.0,Dante Fabbro Cross checking against Jake Virtanen
+70,penalty,Hi-sticking,Mikael Granlund,Adam Gaudette,[40. 39.],1,02:38,NSH,VAN,NSH,18,VAN,23,1,1,8475798,8478874.0,Mikael Granlund Hi-sticking against Adam Gaudette
+80,penalty,Slashing,Alexander Edler,Ryan Johansen,[80. -9.],1,00:38,VAN,NSH,NSH,18,VAN,23,1,2,8471303,8475793.0,Alexander Edler Slashing against Ryan Johansen
+98,penalty,Slashing,Tim Schaller,Pekka Rinne,[82.  2.],2,16:32,VAN,NSH,NSH,18,VAN,23,1,2,8477213,8471469.0,Tim Schaller Slashing against Pekka Rinne
+114,penalty,Slashing,Craig Smith,Elias Pettersson,[-24. -20.],2,14:03,NSH,VAN,NSH,18,VAN,23,2,2,8475225,8480012.0,Craig Smith Slashing against Elias Pettersson
+125,penalty,Slashing,Dante Fabbro,J.T. Miller,[93. 25.],2,11:08,NSH,VAN,NSH,18,VAN,23,2,3,8479371,8476468.0,Dante Fabbro Slashing against J.T. Miller
+136,penalty,Roughing,Tyler Myers,Filip Forsberg,[-82.   4.],2,07:33,VAN,NSH,NSH,18,VAN,23,2,3,8474574,8476887.0,Tyler Myers Roughing against Filip Forsberg
+158,penalty,Hi-sticking,Viktor Arvidsson,Jordie Benn,[-88.  29.],2,02:41,NSH,VAN,NSH,18,VAN,23,2,3,8478042,8474818.0,Viktor Arvidsson Hi-sticking against Jordie Benn
+165,penalty,Holding,Mathieu Olivier,Josh Leivo,[-72.  37.],2,01:41,NSH,VAN,NSH,18,VAN,23,2,4,8479671,8476410.0,Mathieu Olivier Holding against Josh Leivo
+182,penalty,Holding the stick,Alexander Edler,Calle Jarnkrok,[80. -1.],3,19:02,VAN,NSH,NSH,18,VAN,23,2,5,8471303,8475714.0,Alexander Edler Holding the stick against Calle Jarnkrok
+242,penalty,Too many men on the ice,Jake Virtanen,,[11. 41.],3,03:49,VAN,NSH,NSH,18,VAN,23,3,5,8477937,,Too many men/ice served by Jake Virtanen
+28,penalty,Hooking,David Perron,Craig Smith,[19. 26.],1,14:40,STL,NSH,STL,19,NSH,18,0,2,8474102,8475225.0,David Perron Hooking against Craig Smith
+35,penalty,Cross checking,Robert Bortuzzo,Viktor Arvidsson,[-87.  -4.],1,13:52,STL,NSH,STL,19,NSH,18,0,2,8474145,8478042.0,Robert Bortuzzo Cross checking against Viktor Arvidsson
+79,penalty,Cross checking,Ryan Ellis,Robert Thomas,[89. 35.],1,04:27,NSH,STL,STL,19,NSH,18,1,2,8475176,8480023.0,Ryan Ellis Cross checking against Robert Thomas
+131,penalty,Slashing,Calle Jarnkrok,Alex Pietrangelo,[-73.   2.],2,13:58,NSH,STL,STL,19,NSH,18,1,3,8475714,8474565.0,Calle Jarnkrok Slashing against Alex Pietrangelo
+177,penalty,Roughing,Jordan Binnington,David Perron,[87. -4.],2,02:03,STL,NSH,STL,19,NSH,18,1,3,8476412,8474102.0,Jordan Binnington Roughing against Austin Watson served by David Perron
+236,penalty,Tripping,Austin Watson,Zach Sanford,[88. 13.],3,04:59,NSH,STL,STL,19,NSH,18,1,3,8475766,8477482.0,Austin Watson Tripping against Zach Sanford
+11,penalty,Delaying Game - Puck over glass,Daniel Carr,,[-71. -37.],1,16:22,NSH,STL,NSH,18,STL,19,0,0,8477901,,Daniel Carr Delaying Game - Puck over glass
+15,penalty,Hi-sticking,Filip Forsberg,Vince Dunn,[-56.  40.],1,14:41,NSH,STL,NSH,18,STL,19,0,0,8476887,8478407.0,Filip Forsberg Hi-sticking against Vince Dunn
+78,penalty,Hooking,Zach Sanford,Roman Josi,[-52.   3.],1,00:14,STL,NSH,NSH,18,STL,19,2,0,8477482,8474600.0,Zach Sanford Hooking against Roman Josi
+115,penalty,Fighting,Matt Irwin,Mackenzie MacEachern,[-7. 39.],2,11:30,NSH,STL,NSH,18,STL,19,2,0,8475625,8476907.0,Matt Irwin Fighting against Mackenzie MacEachern
+116,penalty,Fighting,Mackenzie MacEachern,Matt Irwin,[-12.  39.],2,11:30,STL,NSH,NSH,18,STL,19,2,0,8476907,8475625.0,Mackenzie MacEachern Fighting against Matt Irwin
+141,penalty,Slashing,Colton Parayko,Mikael Granlund,[-80.   8.],2,06:12,STL,NSH,NSH,18,STL,19,2,1,8476892,8475798.0,Colton Parayko Slashing against Mikael Granlund
+154,penalty,Roughing,Austin Watson,Colton Parayko,[-81.   1.],2,02:53,NSH,STL,NSH,18,STL,19,2,1,8475766,8476892.0,Austin Watson Roughing against Colton Parayko
+163,penalty,Hooking,Brayden Schenn,Calle Jarnkrok,[-75. -35.],3,19:22,STL,NSH,NSH,18,STL,19,2,1,8475170,8475714.0,Brayden Schenn Hooking against Calle Jarnkrok
+83,penalty,Tripping,Nick Bonino,Jonathan Marchessault,[79. 36.],2,18:54,NSH,VGK,NSH,18,VGK,54,0,1,8474009,8476539.0,Nick Bonino Tripping against Jonathan Marchessault
+89,penalty,Hooking,Alex Tuch,Mattias Ekholm,[ 79. -32.],2,18:10,VGK,NSH,NSH,18,VGK,54,0,1,8477949,8475218.0,Alex Tuch Hooking against Mattias Ekholm
+210,penalty,Interference,Shea Theodore,Craig Smith,[82.  3.],3,06:43,VGK,NSH,NSH,18,VGK,54,3,2,8477447,8475225.0,Shea Theodore Interference against Craig Smith
+219,penalty,Holding,Dante Fabbro,Jonathan Marchessault,[-30. -22.],3,04:26,NSH,VGK,NSH,18,VGK,54,3,2,8479371,8476539.0,Dante Fabbro Holding against Jonathan Marchessault
+61,penalty,Roughing,Andrei Svechnikov,Rocco Grimaldi,[-61. -28.],1,07:25,CAR,NSH,CAR,12,NSH,18,0,1,8480830,8476428.0,Andrei Svechnikov Roughing against Rocco Grimaldi
+83,penalty,Hi-sticking,Colton Sissons,Dougie Hamilton,[61.  2.],1,01:42,NSH,CAR,CAR,12,NSH,18,0,2,8476925,8476462.0,Colton Sissons Hi-sticking against Dougie Hamilton
+145,penalty,Too many men on the ice,Daniel Carr,,[-13.  40.],2,08:46,NSH,CAR,CAR,12,NSH,18,0,3,8477901,,Too many men/ice served by Daniel Carr
+165,penalty,Interference,Jake Gardiner,Craig Smith,[ 6. 29.],2,04:07,CAR,NSH,CAR,12,NSH,18,0,3,8474581,8475225.0,Jake Gardiner Interference against Craig Smith
+194,penalty,Tripping,Jake Gardiner,Filip Forsberg,[81. 35.],3,17:01,CAR,NSH,CAR,12,NSH,18,0,3,8474581,8476887.0,Jake Gardiner Tripping against Filip Forsberg
+211,penalty,Elbowing,Austin Watson,Haydn Fleury,[-32.  31.],3,13:44,NSH,CAR,CAR,12,NSH,18,0,3,8475766,8477938.0,Austin Watson Elbowing against Haydn Fleury
+248,penalty,Holding,Joel Edmundson,Filip Forsberg,[84. 32.],3,02:40,CAR,NSH,CAR,12,NSH,18,0,3,8476441,8476887.0,Joel Edmundson Holding against Filip Forsberg
+36,penalty,Tripping,Daniel Carr,Evgenii Dadonov,[-94.  25.],1,12:02,NSH,FLA,FLA,13,NSH,18,0,0,8477901,8474149.0,Daniel Carr Tripping against Evgenii Dadonov
+43,penalty,Slashing,Vincent Trocheck,Mikael Granlund,[ 8. 39.],1,09:48,FLA,NSH,FLA,13,NSH,18,0,0,8476389,8475798.0,Vincent Trocheck Slashing against Mikael Granlund
+71,penalty,Slashing,Dan Hamhuis,Frank Vatrano,[68. 35.],1,02:53,NSH,FLA,FLA,13,NSH,18,0,0,8469465,8478366.0,Dan Hamhuis Slashing against Frank Vatrano
+113,penalty,Delaying Game - Puck over glass,Dan Hamhuis,,[ 42. -40.],2,12:12,NSH,FLA,FLA,13,NSH,18,1,0,8469465,,Dan Hamhuis Delaying Game - Puck over glass
+130,penalty,Slashing,Anton Stralman,Matt Duchene,[-95.  15.],2,08:25,FLA,NSH,FLA,13,NSH,18,1,0,8471873,8475168.0,Anton Stralman Slashing against Matt Duchene
+139,penalty,Delaying Game - Puck over glass,MacKenzie Weegar,,[-50. -35.],2,06:58,FLA,NSH,FLA,13,NSH,18,1,0,8477346,,MacKenzie Weegar Delaying Game - Puck over glass
+168,penalty,Slashing,Jonathan Huberdeau,Mattias Ekholm,[-72.  37.],2,01:02,FLA,NSH,FLA,13,NSH,18,1,0,8476456,8475218.0,Jonathan Huberdeau Slashing against Mattias Ekholm
+170,penalty,Interference,Ryan Johansen,Noel Acciari,[-69.  23.],2,01:00,NSH,FLA,FLA,13,NSH,18,1,0,8475793,8478569.0,Ryan Johansen Interference against Noel Acciari
+45,penalty,Interference,Carter Verhaeghe,Ryan Ellis,[ 52. -36.],1,08:33,TBL,NSH,NSH,18,TBL,14,0,1,8477409,8475176.0,Carter Verhaeghe Interference against Ryan Ellis
+74,penalty,Hi-sticking,Nikita Kucherov,Rocco Grimaldi,[ 43. -38.],2,19:47,TBL,NSH,NSH,18,TBL,14,0,1,8476453,8476428.0,Nikita Kucherov Hi-sticking against Rocco Grimaldi
+87,penalty,Fighting,Luke Schenn,Austin Watson,[64. 10.],2,17:07,TBL,NSH,NSH,18,TBL,14,0,1,8474568,8475766.0,Luke Schenn Fighting against Austin Watson
+88,penalty,Fighting,Austin Watson,Luke Schenn,[70. 18.],2,17:07,NSH,TBL,NSH,18,TBL,14,0,1,8475766,8474568.0,Austin Watson Fighting against Luke Schenn
+114,penalty,Elbowing,Ryan Johansen,Daniel Carr,[69. 38.],2,10:50,NSH,TBL,NSH,18,TBL,14,1,2,8475793,8477901.0,Ryan Johansen Elbowing against Brayden Point served by Daniel Carr
+115,penalty,Game misconduct,Ryan Johansen,,[61. 37.],2,10:50,NSH,TBL,NSH,18,TBL,14,1,2,8475793,,Ryan Johansen Game misconduct
+169,penalty,Hi-sticking,Mathieu Olivier,Nikita Kucherov,[-59.  38.],3,15:59,NSH,TBL,NSH,18,TBL,14,1,2,8479671,8476453.0,Mathieu Olivier Hi-sticking against Nikita Kucherov
+182,penalty,Illegal check to head,Erik Cernak,Daniel Carr,[ 95. -15.],3,12:01,TBL,NSH,NSH,18,TBL,14,1,2,8478416,8477901.0,Erik Cernak Illegal check to head against Daniel Carr
+202,penalty,Roughing,Cedric Paquette,Pat Maroon,[-73.   4.],3,06:59,TBL,NSH,NSH,18,TBL,14,2,2,8476975,8474034.0,Cedric Paquette Roughing against Dante Fabbro served by Pat Maroon
+203,penalty,Roughing,Dante Fabbro,Cedric Paquette,[-69.  14.],3,06:59,NSH,TBL,NSH,18,TBL,14,2,2,8479371,8476975.0,Dante Fabbro Roughing against Cedric Paquette
+204,penalty,Roughing,Cedric Paquette,Dante Fabbro,[-75.  10.],3,06:59,TBL,NSH,NSH,18,TBL,14,2,2,8476975,8479371.0,Cedric Paquette Roughing against Dante Fabbro
+215,penalty,Hi-sticking,Nick Bonino,Steven Stamkos,[-69.   1.],3,03:57,NSH,TBL,NSH,18,TBL,14,2,2,8474009,8474564.0,Nick Bonino Hi-sticking against Steven Stamkos
+38,penalty,Unsportsmanlike conduct,Yannick Weber,,[-35.   3.],1,10:21,NSH,NJD,NSH,18,NJD,1,2,2,8474134,,Yannick Weber Unsportsmanlike conduct
+42,penalty,Slashing,Nikita Gusev,Ryan Ellis,[ 63. -27.],1,09:48,NJD,NSH,NSH,18,NJD,1,2,2,8477038,8475176.0,Nikita Gusev Slashing against Ryan Ellis
+45,penalty,Hooking,P.K. Subban,Kyle Turris,[91. 31.],1,08:31,NJD,NSH,NSH,18,NJD,1,2,2,8474056,8474068.0,P.K. Subban Hooking against Kyle Turris
+75,penalty,Hooking,Dante Fabbro,Jesper Bratt,[96. -8.],2,19:28,NSH,NJD,NSH,18,NJD,1,2,2,8479371,8479407.0,Dante Fabbro Hooking against Jesper Bratt
+83,penalty,Hi-sticking,Miles Wood,Daniel Carr,[-82.  14.],2,17:13,NJD,NSH,NSH,18,NJD,1,2,2,8477425,8477901.0,Miles Wood Hi-sticking against Daniel Carr
+118,penalty,Illegal check to head,Blake Coleman,Yannick Weber,[85. 34.],2,09:59,NJD,NSH,NSH,18,NJD,1,4,2,8476399,8474134.0,Blake Coleman Illegal check to head against Yannick Weber
+120,penalty,Interference,Ryan Johansen,Pavel Zacha,[-67.  22.],2,09:54,NSH,NJD,NSH,18,NJD,1,4,2,8475793,8478401.0,Ryan Johansen Interference against Pavel Zacha
+133,penalty,Tripping,Filip Forsberg,Blake Coleman,[76.  1.],2,07:45,NSH,NJD,NSH,18,NJD,1,4,2,8476887,8476399.0,Filip Forsberg Tripping against Blake Coleman
+166,penalty,Holding,Blake Coleman,Kyle Turris,[-31.   1.],3,19:18,NJD,NSH,NSH,18,NJD,1,4,3,8476399,8474068.0,Blake Coleman Holding against Kyle Turris
+246,penalty,Too many men on the ice,Jesper Boqvist,,[-66.  36.],3,00:47,NJD,NSH,NSH,18,NJD,1,6,4,8480003,,Too many men/ice served by Jesper Boqvist
+3,penalty,Slashing,Barclay Goodrow,Dante Fabbro,[ 55. -23.],1,19:13,SJS,NSH,NSH,18,SJS,28,0,0,8476624,8479371.0,Barclay Goodrow Slashing against Dante Fabbro
+31,penalty,Hi stick - double minor,Mario Ferraro,Craig Smith,[-39. -38.],1,11:55,SJS,NSH,NSH,18,SJS,28,0,0,8479983,8475225.0,Mario Ferraro Hi stick - double minor against Craig Smith
+53,penalty,Interference,Filip Forsberg,Marcus Sorensen,[ 52. -12.],1,07:09,NSH,SJS,NSH,18,SJS,28,0,0,8476887,8475834.0,Filip Forsberg Interference against Marcus Sorensen
+54,penalty,Unsportsmanlike conduct,Marcus Sorensen,,[ 54. -17.],1,07:09,SJS,NSH,NSH,18,SJS,28,0,0,8475834,,Marcus Sorensen Unsportsmanlike conduct
+68,penalty,Hooking,Calle Jarnkrok,Marcus Sorensen,[-75.   4.],1,04:24,NSH,SJS,NSH,18,SJS,28,0,0,8475714,8475834.0,Calle Jarnkrok Hooking against Marcus Sorensen
+103,penalty,Slashing,Dante Fabbro,Timo Meier,[72.  5.],2,10:29,NSH,SJS,NSH,18,SJS,28,0,0,8479371,8478414.0,Dante Fabbro Slashing against Timo Meier
+127,penalty,Slashing,Calle Jarnkrok,Barclay Goodrow,[44. 24.],2,02:45,NSH,SJS,NSH,18,SJS,28,0,0,8475714,8476624.0,Calle Jarnkrok Slashing against Barclay Goodrow
+128,penalty,Cross checking,Barclay Goodrow,Calle Jarnkrok,[59.  7.],2,02:45,SJS,NSH,NSH,18,SJS,28,0,0,8476624,8475714.0,Barclay Goodrow Cross checking against Calle Jarnkrok
+137,penalty,Unsportsmanlike conduct,Dante Fabbro,,[83.  8.],2,01:08,NSH,SJS,NSH,18,SJS,28,0,0,8479371,,Dante Fabbro Unsportsmanlike conduct
+138,penalty,Unsportsmanlike conduct,Timo Meier,,[83.  5.],2,01:08,SJS,NSH,NSH,18,SJS,28,0,0,8478414,,Timo Meier Unsportsmanlike conduct
+142,penalty,Cross checking,Roman Josi,Barclay Goodrow,[68. -2.],2,00:26,NSH,SJS,NSH,18,SJS,28,0,0,8474600,8476624.0,Roman Josi Cross checking against Barclay Goodrow
+146,penalty,Fighting,Austin Watson,Evander Kane,[93. 17.],2,00:02,NSH,SJS,NSH,18,SJS,28,0,0,8475766,8475169.0,Austin Watson Fighting against Evander Kane
+147,penalty,Roughing,Evander Kane,Noah Gregor,[79.  3.],2,00:02,SJS,NSH,NSH,18,SJS,28,0,0,8475169,8479393.0,Evander Kane Roughing against Dan Hamhuis served by Noah Gregor
+148,penalty,Roughing,Dan Hamhuis,Evander Kane,[81.  7.],2,00:02,NSH,SJS,NSH,18,SJS,28,0,0,8469465,8475169.0,Dan Hamhuis Roughing against Evander Kane
+149,penalty,Roughing,Evander Kane,Dan Hamhuis,[83.  6.],2,00:02,SJS,NSH,NSH,18,SJS,28,0,0,8475169,8469465.0,Evander Kane Roughing against Dan Hamhuis
+150,penalty,Fighting,Evander Kane,Austin Watson,[92. 16.],2,00:02,SJS,NSH,NSH,18,SJS,28,0,0,8475169,8475766.0,Evander Kane Fighting against Austin Watson
+151,penalty,Misconduct,Evander Kane,Austin Watson,[92. 16.],2,00:02,SJS,NSH,NSH,18,SJS,28,0,0,8475169,8475766.0,Evander Kane Misconduct against Austin Watson
+152,penalty,Misconduct,Austin Watson,Evander Kane,[93. 16.],2,00:02,NSH,SJS,NSH,18,SJS,28,0,0,8475766,8475169.0,Austin Watson Misconduct against Evander Kane
+159,penalty,Cross checking,Roman Josi,Barclay Goodrow,[-71.  32.],3,17:57,NSH,SJS,NSH,18,SJS,28,0,0,8474600,8476624.0,Roman Josi Cross checking against Barclay Goodrow
+160,penalty,Closing hand on puck,Barclay Goodrow,,[-66.  37.],3,17:57,SJS,NSH,NSH,18,SJS,28,0,0,8476624,,Barclay Goodrow Closing hand on puck
+188,penalty,Hooking,Erik Karlsson,Daniel Carr,[70.  6.],3,11:31,SJS,NSH,NSH,18,SJS,28,1,0,8474578,8477901.0,Erik Karlsson Hooking against Daniel Carr
+192,penalty,PS - Slash on breakaway,Filip Forsberg,Barclay Goodrow,[-81.   6.],3,10:55,NSH,SJS,NSH,18,SJS,28,1,0,8476887,8476624.0,Filip Forsberg PS - Slash on breakaway against Barclay Goodrow
+205,penalty,Elbowing,Brent Burns,Daniel Carr,[95. 17.],3,07:41,SJS,NSH,NSH,18,SJS,28,1,0,8470613,8477901.0,Brent Burns Elbowing against Daniel Carr
+210,penalty,Missing key [PD_151],Noah Gregor,,[11. 38.],3,07:01,SJS,NSH,NSH,18,SJS,28,2,0,8479393,,Delaying Game - Unsucc. chlg served by Noah Gregor
+213,penalty,Hooking,Filip Forsberg,Marcus Sorensen,[44. 37.],3,06:26,NSH,SJS,NSH,18,SJS,28,2,0,8476887,8475834.0,Filip Forsberg Hooking against Marcus Sorensen
+77,penalty,Tripping,Brandon Montour,Rocco Grimaldi,[-81. -20.],1,02:10,BUF,NSH,BUF,7,NSH,18,1,2,8477986,8476428.0,Brandon Montour Tripping against Rocco Grimaldi
+83,penalty,Delaying Game - Puck over glass,Marco Scandella,,[-68.  41.],1,00:52,BUF,NSH,BUF,7,NSH,18,1,2,8474618,,Marco Scandella Delaying Game - Puck over glass
+117,penalty,Hooking,Matt Duchene,Jack Eichel,[-33. -40.],2,12:45,NSH,BUF,BUF,7,NSH,18,2,2,8475168,8478403.0,Matt Duchene Hooking against Jack Eichel
+33,penalty,Hi-sticking,Craig Smith,Esa Lindell,[94. 17.],1,11:11,NSH,DAL,NSH,18,DAL,25,0,0,8475225,8476902.0,Craig Smith Hi-sticking against Esa Lindell
+54,penalty,Slashing,Matt Irwin,Corey Perry,[-72. -11.],1,05:14,NSH,DAL,NSH,18,DAL,25,0,0,8475625,8470621.0,Matt Irwin Slashing against Corey Perry
+95,penalty,Illegal check to head,Andrew Cogliano,Matt Irwin,[ 80. -36.],2,16:27,DAL,NSH,NSH,18,DAL,25,1,0,8471699,8475625.0,Andrew Cogliano Illegal check to head against Matt Irwin
+212,penalty,Interference - Goalkeeper,Andrew Cogliano,Pekka Rinne,[-97.  -3.],3,09:20,DAL,NSH,NSH,18,DAL,25,1,4,8471699,8471469.0,Andrew Cogliano Interference - Goalkeeper against Pekka Rinne
+235,penalty,Interference,Jamie Oleksiak,Calle Jarnkrok,[ 83. -32.],3,03:52,DAL,NSH,NSH,18,DAL,25,1,4,8476467,8475714.0,Jamie Oleksiak Interference against Calle Jarnkrok
+79,penalty,Slashing,Kyle Turris,Pavel Buchnevich,[-74. -19.],1,03:22,NSH,NYR,NYR,3,NSH,18,1,1,8474068,8477402.0,Kyle Turris Slashing against Pavel Buchnevich
+98,penalty,Interference,Brendan Lemieux,Roman Josi,[-83.   0.],1,00:41,NYR,NSH,NYR,3,NSH,18,1,1,8477962,8474600.0,Brendan Lemieux Interference against Roman Josi
+138,penalty,Elbowing,Ryan Ellis,Pavel Buchnevich,[-74. -40.],2,11:59,NSH,NYR,NYR,3,NSH,18,1,1,8475176,8477402.0,Ryan Ellis Elbowing against Pavel Buchnevich
+155,penalty,Roughing,Dante Fabbro,Jesper Fast,[87.  7.],2,08:41,NSH,NYR,NYR,3,NSH,18,1,2,8479371,8475855.0,Dante Fabbro Roughing against Jesper Fast
+156,penalty,Holding,Jesper Fast,Dante Fabbro,[88.  7.],2,08:41,NYR,NSH,NYR,3,NSH,18,1,2,8475855,8479371.0,Jesper Fast Holding against Dante Fabbro
+164,penalty,Cross checking,Mattias Ekholm,Chris Kreider,[76. -5.],2,06:49,NSH,NYR,NYR,3,NSH,18,1,2,8475218,8475184.0,Mattias Ekholm Cross checking against Chris Kreider
+177,penalty,Misconduct,Brendan Lemieux,Rocco Grimaldi,[11. 41.],2,04:33,NYR,NSH,NYR,3,NSH,18,1,3,8477962,8476428.0,Brendan Lemieux Misconduct against Rocco Grimaldi
+222,penalty,Holding,Pavel Buchnevich,Dante Fabbro,[-98.   1.],3,14:10,NYR,NSH,NYR,3,NSH,18,1,3,8477402,8479371.0,Pavel Buchnevich Holding against Dante Fabbro
+253,penalty,Tripping,Matt Duchene,Kaapo Kakko,[-9. 39.],3,07:22,NSH,NYR,NYR,3,NSH,18,1,3,8475168,8481554.0,Matt Duchene Tripping against Kaapo Kakko
+66,penalty,Holding the stick,Filip Forsberg,Ryan Pulock,[-78.   4.],1,09:33,NSH,NYI,NYI,2,NSH,18,0,1,8476887,8477506.0,Filip Forsberg Holding the stick against Ryan Pulock
+101,penalty,Hooking,Nick Leddy,Colton Sissons,[-64. -28.],1,02:36,NYI,NSH,NYI,2,NSH,18,0,1,8475181,8476925.0,Nick Leddy Hooking against Colton Sissons
+127,penalty,Interference,Austin Watson,Derick Brassard,[58.  9.],2,16:49,NSH,NYI,NYI,2,NSH,18,1,1,8475766,8473544.0,Austin Watson Interference against Derick Brassard
+149,penalty,Hooking,Anders Lee,Dan Hamhuis,[-48.   3.],2,12:30,NYI,NSH,NYI,2,NSH,18,2,1,8475314,8469465.0,Anders Lee Hooking against Dan Hamhuis
+171,penalty,Holding,Mathew Barzal,Dante Fabbro,[-71. -20.],2,08:04,NYI,NSH,NYI,2,NSH,18,3,3,8478445,8479371.0,Mathew Barzal Holding against Dante Fabbro
+172,penalty,Hi-sticking,Dante Fabbro,Mathew Barzal,[-72. -15.],2,08:04,NSH,NYI,NYI,2,NSH,18,3,3,8479371,8478445.0,Dante Fabbro Hi-sticking against Mathew Barzal
+240,penalty,Interference,Scott Mayfield,Austin Watson,[-69.  39.],3,10:10,NYI,NSH,NYI,2,NSH,18,3,6,8476429,8475766.0,Scott Mayfield Interference against Austin Watson
+268,penalty,Charging,Ross Johnston,Jordan Eberle,[-22.  36.],3,04:26,NYI,NSH,NYI,2,NSH,18,3,8,8477527,8474586.0,Ross Johnston Charging against Austin Watson served by Jordan Eberle
+269,penalty,Misconduct,Ross Johnston,,[-26.  38.],3,04:26,NYI,NSH,NYI,2,NSH,18,3,8,8477527,,Ross Johnston Misconduct
+273,penalty,Roughing,Scott Mayfield,Derick Brassard,[-83.   7.],3,03:55,NYI,NSH,NYI,2,NSH,18,3,8,8476429,8473544.0,Scott Mayfield Roughing against Craig Smith served by Derick Brassard
+274,penalty,Roughing,Scott Mayfield,Craig Smith,[-82.   8.],3,03:55,NYI,NSH,NYI,2,NSH,18,3,8,8476429,8475225.0,Scott Mayfield Roughing against Craig Smith
+275,penalty,Roughing,Craig Smith,Yakov Trenin,[-80.   9.],3,03:55,NSH,NYI,NYI,2,NSH,18,3,8,8475225,8478508.0,Craig Smith Roughing against Scott Mayfield served by Yakov Trenin
+276,penalty,Misconduct,Scott Mayfield,,[-82.   6.],3,03:55,NYI,NSH,NYI,2,NSH,18,3,8,8476429,,Scott Mayfield Misconduct
+278,penalty,Misconduct,Craig Smith,,[-83.   5.],3,03:55,NSH,NYI,NYI,2,NSH,18,3,8,8475225,,Craig Smith Misconduct
+129,penalty,Holding,Colton Sissons,Artem Anisimov,[-79.   8.],2,18:09,NSH,OTT,OTT,9,NSH,18,0,1,8476925,8473573.0,Colton Sissons Holding against Artem Anisimov
+131,penalty,Interference,Thomas Chabot,Calle Jarnkrok,[-23. -18.],2,17:48,OTT,NSH,OTT,9,NSH,18,0,1,8478469,8475714.0,Thomas Chabot Interference against Calle Jarnkrok
+165,penalty,Tripping,Roman Josi,Tyler Ennis,[-82.  35.],2,09:01,NSH,OTT,OTT,9,NSH,18,2,1,8474600,8474589.0,Roman Josi Tripping against Tyler Ennis
+208,penalty,Slashing,Colin Blackwell,Brady Tkachuk,[ 3. 35.],3,19:35,NSH,OTT,OTT,9,NSH,18,3,1,8476278,8480801.0,Colin Blackwell Slashing against Brady Tkachuk
+245,penalty,Tripping,Mark Borowiecki,Kyle Turris,[-71. -35.],3,10:48,OTT,NSH,OTT,9,NSH,18,4,2,8474697,8474068.0,Mark Borowiecki Tripping against Kyle Turris
+301,penalty,Holding,Calle Jarnkrok,Erik Brannstrom,[-60.  14.],4,02:44,NSH,OTT,OTT,9,NSH,18,4,4,8475714,8480073.0,Calle Jarnkrok Holding against Erik Brannstrom
+1,penalty,Holding,Viktor Arvidsson,Brad Marchand,[48. 36.],1,19:34,NSH,BOS,BOS,6,NSH,18,0,0,8478042,8473419.0,Viktor Arvidsson Holding against Brad Marchand
+33,penalty,Slashing,Anders Bjork,Ryan Ellis,[58. 34.],1,12:47,BOS,NSH,BOS,6,NSH,18,0,0,8478075,8475176.0,Anders Bjork Slashing against Ryan Ellis
+62,penalty,Tripping,David Krejci,Matt Duchene,[-65.  26.],1,04:50,BOS,NSH,BOS,6,NSH,18,0,0,8471276,8475168.0,David Krejci Tripping against Matt Duchene
+106,penalty,Tripping,Dan Hamhuis,Brett Ritchie,[-72. -15.],2,15:37,NSH,BOS,BOS,6,NSH,18,0,0,8469465,8476439.0,Dan Hamhuis Tripping against Brett Ritchie
+132,penalty,Slashing,Matt Grzelcyk,Matt Duchene,[81.  7.],2,09:41,BOS,NSH,BOS,6,NSH,18,1,0,8476891,8475168.0,Matt Grzelcyk Slashing against Matt Duchene
+138,penalty,Tripping,Craig Smith,Brandon Carlo,[72.  1.],2,08:33,NSH,BOS,BOS,6,NSH,18,1,0,8475225,8478443.0,Craig Smith Tripping against Brandon Carlo
+175,penalty,Roughing,Filip Forsberg,Charlie McAvoy,[19. 38.],2,02:04,NSH,BOS,BOS,6,NSH,18,1,1,8476887,8479325.0,Filip Forsberg Roughing against Charlie McAvoy
+156,penalty,Delaying Game - Puck over glass,Dante Fabbro,,[ 57. -37.],2,01:19,NSH,ARI,NSH,18,ARI,53,2,1,8479371,,Dante Fabbro Delaying Game - Puck over glass
+173,penalty,Interference,Nick Schmaltz,Calle Jarnkrok,[35. 11.],3,15:13,ARI,NSH,NSH,18,ARI,53,2,1,8477951,8475714.0,Nick Schmaltz Interference against Calle Jarnkrok
+217,penalty,Holding,Colton Sissons,Nick Schmaltz,[-47.  18.],3,00:25,NSH,ARI,NSH,18,ARI,53,3,2,8476925,8477951.0,Colton Sissons Holding against Nick Schmaltz
+42,penalty,Tripping,Nick Bonino,Zach Aston-Reese,[-20.  31.],1,07:45,NSH,PIT,NSH,18,PIT,5,1,1,8474009,8479944.0,Nick Bonino Tripping against Zach Aston-Reese
+67,penalty,Tripping,Evgeni Malkin,Viktor Arvidsson,[ 82. -18.],1,03:38,PIT,NSH,NSH,18,PIT,5,1,3,8471215,8478042.0,Evgeni Malkin Tripping against Viktor Arvidsson
+197,penalty,Slashing,Mattias Ekholm,Evgeni Malkin,[-71.  -2.],3,11:01,NSH,PIT,NSH,18,PIT,5,1,5,8475218,8471215.0,Mattias Ekholm Slashing against Evgeni Malkin
+198,penalty,Roughing,Evgeni Malkin,Mattias Ekholm,[-37. -18.],3,11:01,PIT,NSH,NSH,18,PIT,5,1,5,8471215,8475218.0,Evgeni Malkin Roughing against Mattias Ekholm
+199,penalty,Roughing,Bryan Rust,Matt Irwin,[-39. -14.],3,11:01,PIT,NSH,NSH,18,PIT,5,1,5,8475810,8475625.0,Bryan Rust Roughing against Matt Irwin
+200,penalty,Roughing,Matt Irwin,Bryan Rust,[-43. -14.],3,11:01,NSH,PIT,NSH,18,PIT,5,1,5,8475625,8475810.0,Matt Irwin Roughing against Bryan Rust
+201,penalty,Misconduct,Mattias Ekholm,,[-18. -36.],3,11:01,NSH,PIT,NSH,18,PIT,5,1,5,8475218,,Mattias Ekholm Misconduct
+202,penalty,Roughing,Mattias Ekholm,Evgeni Malkin,[-45.   4.],3,11:01,NSH,PIT,NSH,18,PIT,5,1,5,8475218,8471215.0,Mattias Ekholm Roughing against Evgeni Malkin
+203,penalty,Roughing,Evgeni Malkin,Mattias Ekholm,[-34.  -9.],3,11:01,PIT,NSH,NSH,18,PIT,5,1,5,8471215,8475218.0,Evgeni Malkin Roughing against Mattias Ekholm
+229,penalty,Tripping,Evgeni Malkin,Rocco Grimaldi,[-92. -23.],3,04:37,PIT,NSH,NSH,18,PIT,5,2,5,8471215,8476428.0,Evgeni Malkin Tripping against Rocco Grimaldi
+42,penalty,Hi-sticking,Kyle Turris,John Marino,[-98.  12.],1,11:59,NSH,PIT,PIT,5,NSH,18,2,0,8474068,8478507.0,Kyle Turris Hi-sticking against John Marino
+112,penalty,Hi-sticking,Sam Lafferty,Mattias Ekholm,[-71.   2.],2,16:19,PIT,NSH,PIT,5,NSH,18,3,0,8478043,8475218.0,Sam Lafferty Hi-sticking against Mattias Ekholm
+119,penalty,Hooking,Kyle Turris,Evgeni Malkin,[ 54. -27.],2,15:29,NSH,PIT,PIT,5,NSH,18,3,1,8474068,8471215.0,Kyle Turris Hooking against Evgeni Malkin
+124,penalty,Too many men on the ice,Craig Smith,,[14. 39.],2,13:07,NSH,PIT,PIT,5,NSH,18,3,1,8475225,,Too many men/ice served by Craig Smith
+216,penalty,Hooking,Evgeni Malkin,Matt Duchene,[-67.  20.],3,15:23,PIT,NSH,PIT,5,NSH,18,4,3,8471215,8475168.0,Evgeni Malkin Hooking against Matt Duchene
+278,penalty,Interference - Goalkeeper,Austin Watson,Matt Murray,[-83.   0.],3,01:26,NSH,PIT,PIT,5,NSH,18,4,4,8475766,8476899.0,Austin Watson Interference - Goalkeeper against Matt Murray
+17,penalty,Elbowing,Corey Perry,Alexander Radulov,[39. -3.],1,17:16,DAL,NSH,DAL,25,NSH,18,0,0,8470621,8471228.0,Corey Perry Elbowing against Ryan Ellis served by Alexander Radulov
+18,penalty,Game misconduct,Corey Perry,Ryan Ellis,[34. -5.],1,17:16,DAL,NSH,DAL,25,NSH,18,0,0,8470621,8475176.0,Corey Perry Game misconduct against Ryan Ellis
+24,penalty,Delaying Game - Puck over glass,Blake Comeau,,[76. 39.],1,15:38,DAL,NSH,DAL,25,NSH,18,0,0,8471260,,Blake Comeau Delaying Game - Puck over glass
+42,penalty,PS - Tripping on breakaway,Matt Irwin,Denis Gurianov,[-61.  -5.],1,11:22,NSH,DAL,DAL,25,NSH,18,0,2,8475625,8478495.0,Matt Irwin PS - Tripping on breakaway against Denis Gurianov
+58,penalty,Roughing,Radek Faksa,Colin Blackwell,[-54. -39.],1,08:33,DAL,NSH,DAL,25,NSH,18,0,2,8476889,8476278.0,Radek Faksa Roughing against Colin Blackwell
+59,penalty,Roughing,Colin Blackwell,Radek Faksa,[-60. -39.],1,08:33,NSH,DAL,DAL,25,NSH,18,0,2,8476278,8476889.0,Colin Blackwell Roughing against Radek Faksa
+155,penalty,Boarding,Tyler Seguin,Austin Watson,[ 20. -38.],2,09:00,DAL,NSH,DAL,25,NSH,18,0,2,8475794,8475766.0,Tyler Seguin Boarding against Austin Watson
+187,penalty,Cross checking,Roman Josi,Joe Pavelski,[ 98. -15.],2,03:16,NSH,DAL,DAL,25,NSH,18,0,2,8474600,8470794.0,Roman Josi Cross checking against Joe Pavelski
+200,penalty,Delaying Game - Puck over glass,Colin Blackwell,,[ 45. -40.],2,00:49,NSH,DAL,DAL,25,NSH,18,1,2,8476278,,Colin Blackwell Delaying Game - Puck over glass
+231,penalty,Hooking,Ryan Johansen,Miro Heiskanen,[-78.  39.],3,16:18,NSH,DAL,DAL,25,NSH,18,2,2,8475793,8480036.0,Ryan Johansen Hooking against Miro Heiskanen
+16,penalty,Holding,Calle Jarnkrok,Blake Lizotte,[-91.  32.],1,16:44,NSH,LAK,LAK,26,NSH,18,0,0,8475714,8481481.0,Calle Jarnkrok Holding against Blake Lizotte
+67,penalty,Delaying Game - Puck over glass,Austin Wagner,,[ 69. -38.],1,06:40,LAK,NSH,LAK,26,NSH,18,0,1,8478455,,Austin Wagner Delaying Game - Puck over glass
+72,penalty,Holding the stick,Mikael Granlund,Matt Roy,[85. 38.],1,05:36,NSH,LAK,LAK,26,NSH,18,0,1,8475798,8478911.0,Mikael Granlund Holding the stick against Matt Roy
+95,penalty,Fighting,Kyle Clifford,Jarred Tinordi,[-40.  15.],1,00:44,LAK,NSH,LAK,26,NSH,18,0,2,8475160,8475797.0,Kyle Clifford Fighting against Jarred Tinordi
+96,penalty,Fighting,Jarred Tinordi,Kyle Clifford,[-36.  21.],1,00:44,NSH,LAK,LAK,26,NSH,18,0,2,8475797,8475160.0,Jarred Tinordi Fighting against Kyle Clifford
+104,penalty,Slashing,Martin Frk,Mikael Granlund,[-13.  29.],2,17:44,LAK,NSH,LAK,26,NSH,18,0,2,8476924,8475798.0,Martin Frk Slashing against Mikael Granlund
+122,penalty,Interference,Craig Smith,Adrian Kempe,[66. 10.],2,14:27,NSH,LAK,LAK,26,NSH,18,0,2,8475225,8477960.0,Craig Smith Interference against Adrian Kempe
+156,penalty,Slashing,Blake Lizotte,Roman Josi,[  9. -26.],2,06:41,LAK,NSH,LAK,26,NSH,18,1,2,8481481,8474600.0,Blake Lizotte Slashing against Roman Josi
+241,penalty,Tripping,Ben Hutton,Colin Blackwell,[57. 14.],3,07:00,LAK,NSH,LAK,26,NSH,18,1,4,8477018,8476278.0,Ben Hutton Tripping against Colin Blackwell
+246,penalty,Delaying Game - Puck over glass,Matt Roy,,[ 55. -20.],3,05:39,LAK,NSH,LAK,26,NSH,18,1,4,8478911,,Matt Roy Delaying Game - Puck over glass
+248,penalty,Hooking,Nick Bonino,Alex Iafallo,[52. 37.],3,05:12,NSH,LAK,LAK,26,NSH,18,1,4,8474009,8480113.0,Nick Bonino Hooking against Alex Iafallo
+1,penalty,Fighting,Austin Watson,Nicolas Deslauriers,[29. 24.],1,19:57,NSH,ANA,ANA,24,NSH,18,0,0,8475766,8475235.0,Austin Watson Fighting against Nicolas Deslauriers
+2,penalty,Fighting,Nicolas Deslauriers,Austin Watson,[45. 27.],1,19:57,ANA,NSH,ANA,24,NSH,18,0,0,8475235,8475766.0,Nicolas Deslauriers Fighting against Austin Watson
+89,penalty,Embellishment,Viktor Arvidsson,Max Jones,[26. 31.],1,00:45,NSH,ANA,ANA,24,NSH,18,1,1,8478042,8479368.0,Viktor Arvidsson Embellishment against Max Jones
+90,penalty,Interference,Max Jones,Viktor Arvidsson,[ 8. 39.],1,00:45,ANA,NSH,ANA,24,NSH,18,1,1,8479368,8478042.0,Max Jones Interference against Viktor Arvidsson
+105,penalty,Interference,Cam Fowler,Filip Forsberg,[ 91. -18.],2,18:02,ANA,NSH,ANA,24,NSH,18,1,1,8475764,8476887.0,Cam Fowler Interference against Filip Forsberg
+130,penalty,Interference,Kyle Turris,Daniel Sprong,[75. 18.],2,13:24,NSH,ANA,ANA,24,NSH,18,1,2,8474068,8478466.0,Kyle Turris Interference against Daniel Sprong
+136,penalty,Tripping,Filip Forsberg,Ryan Getzlaf,[-69.  32.],2,11:52,NSH,ANA,ANA,24,NSH,18,1,2,8476887,8470612.0,Filip Forsberg Tripping against Ryan Getzlaf
+156,penalty,Tripping,Ryan Johansen,Isac Lundestrom,[-87.  36.],2,06:59,NSH,ANA,ANA,24,NSH,18,2,2,8475793,8480806.0,Ryan Johansen Tripping against Isac Lundestrom
+169,penalty,Holding,Alexandre Carrier,Jakob Silfverberg,[ 20. -38.],2,03:54,NSH,ANA,ANA,24,NSH,18,3,2,8478851,8475164.0,Alexandre Carrier Holding against Jakob Silfverberg
+188,penalty,Holding,Max Comtois,Roman Josi,[ 40. -38.],3,19:02,ANA,NSH,ANA,24,NSH,18,4,2,8480031,8474600.0,Max Comtois Holding against Roman Josi
+265,penalty,Too many men on the ice,Rocco Grimaldi,,[ 7. 37.],3,02:30,NSH,ANA,ANA,24,NSH,18,4,4,8476428,,Too many men/ice served by Rocco Grimaldi
+2,penalty,Cross checking,Brad Marchand,Viktor Arvidsson,[ 61. -16.],1,19:46,BOS,NSH,NSH,18,BOS,6,0,0,8473419,8478042.0,Brad Marchand Cross checking against Viktor Arvidsson
+4,penalty,Embellishment,Viktor Arvidsson,Brad Marchand,[ 75. -28.],1,19:46,NSH,BOS,NSH,18,BOS,6,0,0,8478042,8473419.0,Viktor Arvidsson Embellishment against Brad Marchand
+26,penalty,Boarding,Sean Kuraly,Matt Duchene,[-93.  26.],1,13:50,BOS,NSH,NSH,18,BOS,6,0,1,8476374,8475168.0,Sean Kuraly Boarding against Matt Duchene
+78,penalty,Too many men on the ice,Brett Ritchie,,[ 9. 37.],2,17:41,BOS,NSH,NSH,18,BOS,6,0,1,8476439,,Too many men/ice served by Brett Ritchie
+117,penalty,Tripping,Brandon Carlo,Viktor Arvidsson,[-41. -23.],2,10:59,BOS,NSH,NSH,18,BOS,6,0,2,8478443,8478042.0,Brandon Carlo Tripping against Viktor Arvidsson
+122,penalty,Hi-sticking,Matt Grzelcyk,Craig Smith,[-90.  10.],2,09:32,BOS,NSH,NSH,18,BOS,6,0,2,8476891,8475225.0,Matt Grzelcyk Hi-sticking against Craig Smith
+150,penalty,Too many men on the ice,Kyle Turris,,[12. 36.],2,03:31,NSH,BOS,NSH,18,BOS,6,1,2,8474068,,Too many men/ice served by Kyle Turris
+182,penalty,Tripping,Rocco Grimaldi,Zdeno Chara,[96. 19.],3,16:08,NSH,BOS,NSH,18,BOS,6,1,4,8476428,8465009.0,Rocco Grimaldi Tripping against Zdeno Chara
+207,penalty,Roughing,Zdeno Chara,Brett Ritchie,[95. -3.],3,08:20,BOS,NSH,NSH,18,BOS,6,1,4,8465009,8476439.0,Zdeno Chara Roughing against Yakov Trenin served by Brett Ritchie
+208,penalty,Fighting,Yakov Trenin,Zdeno Chara,[94.  7.],3,08:20,NSH,BOS,NSH,18,BOS,6,1,4,8478508,8465009.0,Yakov Trenin Fighting against Zdeno Chara
+209,penalty,Fighting,Zdeno Chara,Yakov Trenin,[95. 10.],3,08:20,BOS,NSH,NSH,18,BOS,6,1,4,8465009,8478508.0,Zdeno Chara Fighting against Yakov Trenin
+211,penalty,Hooking,John Moore,Viktor Arvidsson,[84. -9.],3,08:16,BOS,NSH,NSH,18,BOS,6,1,4,8475186,8478042.0,John Moore Hooking against Viktor Arvidsson
+234,penalty,Hooking,Roman Josi,Par Lindholm,[-28.  -1.],3,04:22,NSH,BOS,NSH,18,BOS,6,1,4,8474600,8480944.0,Roman Josi Hooking against Par Lindholm
+241,penalty,Tripping,Charlie Coyle,Mikael Granlund,[-16.  21.],3,02:14,BOS,NSH,NSH,18,BOS,6,1,4,8475745,8475798.0,Charlie Coyle Tripping against Mikael Granlund
+95,penalty,Too many men on the ice,John Quenneville,,[ 9. 37.],1,00:46,CHI,NSH,CHI,16,NSH,18,0,3,8477961,,Too many men/ice served by John Quenneville
+138,penalty,Hi-sticking,Olli Maatta,Matt Duchene,[97. -7.],2,12:44,CHI,NSH,CHI,16,NSH,18,1,3,8476874,8475168.0,Olli Maatta Hi-sticking against Matt Duchene
+164,penalty,Holding,Jarred Tinordi,Dominik Kubalik,[95. -8.],2,07:48,NSH,CHI,CHI,16,NSH,18,1,3,8475797,8477330.0,Jarred Tinordi Holding against Dominik Kubalik
+223,penalty,Hooking,Roman Josi,Jonathan Toews,[-96.   9.],3,15:17,NSH,CHI,CHI,16,NSH,18,1,3,8474600,8473604.0,Roman Josi Hooking against Jonathan Toews
+249,penalty,Tripping,Nick Bonino,Matthew Highmore,[78.  0.],3,10:19,NSH,CHI,CHI,16,NSH,18,2,3,8474009,8478146.0,Nick Bonino Tripping against Matthew Highmore
+20,penalty,Kneeing,Dmitry Kulikov,Roman Josi,[25. -6.],1,16:06,WPG,NSH,WPG,52,NSH,18,0,0,8475179,8474600.0,Dmitry Kulikov Kneeing against Roman Josi
+101,penalty,Hooking,Roman Josi,Kyle Connor,[63. -4.],2,16:57,NSH,WPG,WPG,52,NSH,18,0,1,8474600,8478398.0,Roman Josi Hooking against Kyle Connor
+221,penalty,Hooking,Matt Duchene,Mark Scheifele,[56. 31.],3,11:41,NSH,WPG,WPG,52,NSH,18,0,1,8475168,8476460.0,Matt Duchene Hooking against Mark Scheifele
+65,penalty,Tripping,Darnell Nurse,Yakov Trenin,[-32.  37.],1,06:59,EDM,NSH,EDM,22,NSH,18,1,1,8477498,8478508.0,Darnell Nurse Tripping against Yakov Trenin
+90,penalty,Hooking,Yannick Weber,Kailer Yamamoto,[80. 12.],1,01:09,NSH,EDM,EDM,22,NSH,18,1,2,8474134,8479977.0,Yannick Weber Hooking against Kailer Yamamoto
+177,penalty,Hi-sticking,Mikael Granlund,Gaetan Haas,[48. 12.],2,02:08,NSH,EDM,EDM,22,NSH,18,3,2,8475798,8481813.0,Mikael Granlund Hi-sticking against Gaetan Haas
+179,penalty,Slashing,James Neal,Calle Jarnkrok,[-50. -16.],2,01:47,EDM,NSH,EDM,22,NSH,18,3,2,8471707,8475714.0,James Neal Slashing against Calle Jarnkrok
+225,penalty,Interference,Kailer Yamamoto,Matt Duchene,[-10.   1.],3,11:34,EDM,NSH,EDM,22,NSH,18,3,2,8479977,8475168.0,Kailer Yamamoto Interference against Matt Duchene
+236,penalty,Interference,Rocco Grimaldi,Joakim Nygard,[ 5. 27.],3,08:18,NSH,EDM,EDM,22,NSH,18,3,2,8476428,8481638.0,Rocco Grimaldi Interference against Joakim Nygard
+267,penalty,Too many men on the ice,Calle Jarnkrok,,[-15.  33.],3,01:23,NSH,EDM,EDM,22,NSH,18,3,2,8475714,,Too many men/ice served by Calle Jarnkrok
+53,penalty,Hooking,Dante Fabbro,Chase De Leo,[-77.   0.],1,08:15,NSH,ANA,NSH,18,ANA,24,0,1,8479371,8478029.0,Dante Fabbro Hooking against Chase De Leo
+178,penalty,Holding,Nicolas Deslauriers,Dante Fabbro,[-96.   0.],3,13:38,ANA,NSH,NSH,18,ANA,24,1,3,8475235,8479371.0,Nicolas Deslauriers Holding against Dante Fabbro
+201,penalty,Too many men on the ice,Rocco Grimaldi,,[-14.  37.],3,05:24,NSH,ANA,NSH,18,ANA,24,1,4,8476428,,Too many men/ice served by Rocco Grimaldi
+12,penalty,Tripping,Colin Blackwell,Lawrence Pilut,[ 52. -16.],1,17:52,NSH,BUF,NSH,18,BUF,7,0,0,8476278,8480935.0,Colin Blackwell Tripping against Lawrence Pilut
+27,penalty,Interference,Rasmus Dahlin,Kyle Turris,[-25. -35.],1,12:46,BUF,NSH,NSH,18,BUF,7,0,0,8480839,8474068.0,Rasmus Dahlin Interference against Kyle Turris
+125,penalty,Cross checking,Calle Jarnkrok,Brandon Montour,[-85.   2.],2,10:13,NSH,BUF,NSH,18,BUF,7,1,1,8475714,8477986.0,Calle Jarnkrok Cross checking against Brandon Montour
+166,penalty,Tripping,Yannick Weber,Marcus Johansson,[32. 37.],3,19:16,NSH,BUF,NSH,18,BUF,7,1,1,8474134,8475149.0,Yannick Weber Tripping against Marcus Johansson
+208,penalty,Tripping,Jack Eichel,Matt Duchene,[ 63. -29.],3,06:36,BUF,NSH,NSH,18,BUF,7,1,1,8478403,8475168.0,Jack Eichel Tripping against Matt Duchene
+233,penalty,Slashing,Rasmus Dahlin,Rocco Grimaldi,[66. -1.],3,02:46,BUF,NSH,NSH,18,BUF,7,2,1,8480839,8476428.0,Rasmus Dahlin Slashing against Rocco Grimaldi
+122,penalty,Hooking,Nick Bonino,Auston Matthews,[74. 14.],2,09:49,NSH,TOR,NSH,18,TOR,10,1,3,8474009,8479318.0,Nick Bonino Hooking against Auston Matthews
+146,penalty,Interference,Justin Holl,Roman Josi,[-57. -38.],2,03:23,TOR,NSH,NSH,18,TOR,10,1,4,8475718,8474600.0,Justin Holl Interference against Roman Josi
+150,penalty,Hooking,Kyle Turris,Mitchell Marner,[-84.  -8.],2,02:43,NSH,TOR,NSH,18,TOR,10,1,4,8474068,8478483.0,Kyle Turris Hooking against Mitchell Marner
+37,penalty,Hi-sticking,Jarred Tinordi,Garnet Hathaway,[-75.   7.],1,13:19,NSH,WSH,WSH,15,NSH,18,0,0,8475797,8477903.0,Jarred Tinordi Hi-sticking against Garnet Hathaway
+57,penalty,Holding,Dmitry Orlov,Filip Forsberg,[32. -1.],1,08:58,WSH,NSH,WSH,15,NSH,18,1,1,8475200,8476887.0,Dmitry Orlov Holding against Filip Forsberg
+86,penalty,Hooking,Kyle Turris,Dmitry Orlov,[ 69. -15.],1,02:25,NSH,WSH,WSH,15,NSH,18,2,3,8474068,8475200.0,Kyle Turris Hooking against Dmitry Orlov
+123,penalty,Hooking,Matt Duchene,John Carlson,[ 32. -38.],2,17:41,NSH,WSH,WSH,15,NSH,18,2,3,8475168,8474590.0,Matt Duchene Hooking against John Carlson
+159,penalty,Hi-sticking,Mattias Ekholm,Tom Wilson,[86. 31.],2,10:44,NSH,WSH,WSH,15,NSH,18,3,3,8475218,8476880.0,Mattias Ekholm Hi-sticking against Tom Wilson
+180,penalty,Hooking,Garnet Hathaway,Colin Blackwell,[-16. -31.],2,04:23,WSH,NSH,WSH,15,NSH,18,4,3,8477903,8476278.0,Garnet Hathaway Hooking against Colin Blackwell
+197,penalty,Roughing,Richard Panik,Ryan Johansen,[ 11. -27.],3,19:25,WSH,NSH,WSH,15,NSH,18,4,3,8475209,8475793.0,Richard Panik Roughing against Ryan Johansen
+198,penalty,Slashing,Ryan Johansen,Richard Panik,[-13. -18.],3,19:25,NSH,WSH,WSH,15,NSH,18,4,3,8475793,8475209.0,Ryan Johansen Slashing against Richard Panik
+202,penalty,Hi-sticking,Viktor Arvidsson,Tom Wilson,[-13.  -6.],3,18:03,NSH,WSH,WSH,15,NSH,18,4,3,8478042,8476880.0,Viktor Arvidsson Hi-sticking against Tom Wilson
+231,penalty,Slashing,Jakub Vrana,Yannick Weber,[-30.  14.],3,08:45,WSH,NSH,WSH,15,NSH,18,4,4,8477944,8474134.0,Jakub Vrana Slashing against Yannick Weber
+260,penalty,Hooking,Lars Eller,Jarred Tinordi,[-95.  23.],3,03:57,WSH,NSH,WSH,15,NSH,18,4,5,8474189,8475797.0,Lars Eller Hooking against Jarred Tinordi
+10,penalty,Hi-sticking,Colton Sissons,John Hayden,[ 55. -33.],1,17:07,NSH,NJD,NJD,1,NSH,18,0,1,8476925,8477401.0,Colton Sissons Hi-sticking against John Hayden
+15,penalty,Tripping,Damon Severson,Kyle Turris,[32. 38.],1,15:38,NJD,NSH,NJD,1,NSH,18,0,1,8476923,8474068.0,Damon Severson Tripping against Kyle Turris
+83,penalty,Holding,Blake Coleman,Dante Fabbro,[-89. -30.],2,18:27,NJD,NSH,NJD,1,NSH,18,1,2,8476399,8479371.0,Blake Coleman Holding against Dante Fabbro
+104,penalty,Hooking,Ryan Johansen,Nikita Gusev,[-68.  10.],2,13:02,NSH,NJD,NJD,1,NSH,18,1,2,8475793,8477038.0,Ryan Johansen Hooking against Nikita Gusev
+113,penalty,Hi-sticking,Matt Duchene,Nikita Gusev,[-71. -22.],2,10:01,NSH,NJD,NJD,1,NSH,18,2,2,8475168,8477038.0,Matt Duchene Hi-sticking against Nikita Gusev
+190,penalty,Hooking,Wayne Simmonds,Colton Sissons,[-76. -30.],3,10:40,NJD,NSH,NJD,1,NSH,18,5,4,8474190,8476925.0,Wayne Simmonds Hooking against Colton Sissons
