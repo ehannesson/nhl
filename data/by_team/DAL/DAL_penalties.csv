@@ -1,0 +1,490 @@
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,game_id,winning_team,date,description
+10,penalty,Tripping,Andrew Cogliano,Artemi Panarin,[-31. -19.],1,18:33,DAL,NYR,NYR,3,DAL,25,0,0,8471699,8478550.0,2019020810,,2020-02-04,Andrew Cogliano Tripping against Artemi Panarin
+41,penalty,Interference,Brendan Smith,Corey Perry,[-21. -15.],1,12:04,NYR,DAL,NYR,3,DAL,25,1,0,8474090,8470621.0,2019020810,,2020-02-04,Brendan Smith Interference against Corey Perry
+45,penalty,Missing key [PD_151],Pavel Buchnevich,,[ 8. 40.],1,11:52,NYR,DAL,NYR,3,DAL,25,1,1,8477402,,2019020810,,2020-02-04,Delaying Game - Unsucc. chlg served by Pavel Buchnevich
+70,penalty,Too many men on the ice,Alexander Radulov,,[-16.  40.],1,06:16,DAL,NYR,NYR,3,DAL,25,1,2,8471228,,2019020810,,2020-02-04,Too many men/ice served by Alexander Radulov
+147,penalty,Hooking,Brett Howden,Miro Heiskanen,[-11.  16.],2,06:22,NYR,DAL,NYR,3,DAL,25,2,4,8479353,8480036.0,2019020810,,2020-02-04,Brett Howden Hooking against Miro Heiskanen
+148,penalty,Embellishment,Miro Heiskanen,Brett Howden,[-9. 21.],2,06:22,DAL,NYR,NYR,3,DAL,25,2,4,8480036,8479353.0,2019020810,,2020-02-04,Miro Heiskanen Embellishment against Brett Howden
+163,penalty,Hooking,Adam Fox,Denis Gurianov,[-20.   8.],2,01:46,NYR,DAL,NYR,3,DAL,25,2,4,8479323,8478495.0,2019020810,,2020-02-04,Adam Fox Hooking against Denis Gurianov
+167,penalty,Tripping,Mika Zibanejad,Alexander Radulov,[-60.  -1.],2,00:33,NYR,DAL,NYR,3,DAL,25,2,4,8476459,8471228.0,2019020810,,2020-02-04,Mika Zibanejad Tripping against Alexander Radulov
+219,penalty,Holding,Roope Hintz,Brendan Lemieux,[-76. -17.],3,07:58,DAL,NYR,NYR,3,DAL,25,2,5,8478449,8477962.0,2019020810,,2020-02-04,Roope Hintz Holding against Brendan Lemieux
+244,penalty,Interference,Brendan Lemieux,Jamie Benn,[-32. -17.],3,01:00,NYR,DAL,NYR,3,DAL,25,3,5,8477962,8473994.0,2019020810,,2020-02-04,Brendan Lemieux Interference against Jamie Benn
+245,penalty,Roughing,Jamie Benn,Brendan Lemieux,[-82.   8.],3,01:00,DAL,NYR,NYR,3,DAL,25,3,5,8473994,8477962.0,2019020810,,2020-02-04,Jamie Benn Roughing against Brendan Lemieux
+25,penalty,Interference,Roope Hintz,Jordan Eberle,[74. 31.],1,15:50,DAL,NYI,NYI,2,DAL,25,1,0,8478449,8474586.0,2019020816,,2020-02-05,Roope Hintz Interference against Jordan Eberle
+44,penalty,Tripping,Corey Perry,Noah Dobson,[-93. -28.],1,12:13,DAL,NYI,NYI,2,DAL,25,1,0,8470621,8480865.0,2019020816,,2020-02-05,Corey Perry Tripping against Noah Dobson
+68,penalty,Interference,Casey Cizikas,Roope Hintz,[-78.   4.],1,06:41,NYI,DAL,NYI,2,DAL,25,1,0,8475231,8478449.0,2019020816,,2020-02-05,Casey Cizikas Interference against Roope Hintz
+114,penalty,Slashing,Alexander Radulov,Josh Bailey,[-64.  -7.],2,17:09,DAL,NYI,NYI,2,DAL,25,1,1,8471228,8474573.0,2019020816,,2020-02-05,Alexander Radulov Slashing against Josh Bailey
+137,penalty,Tripping,Radek Faksa,Brock Nelson,[-80. -36.],2,12:24,DAL,NYI,NYI,2,DAL,25,1,1,8476889,8475754.0,2019020816,,2020-02-05,Radek Faksa Tripping against Brock Nelson
+145,penalty,Hi-sticking,Josh Bailey,Andrej Sekera,[-93.  -3.],2,10:52,NYI,DAL,NYI,2,DAL,25,1,1,8474573,8471284.0,2019020816,,2020-02-05,Josh Bailey Hi-sticking against Andrej Sekera
+193,penalty,Holding,Matt Martin,Esa Lindell,[  8. -38.],3,19:16,NYI,DAL,NYI,2,DAL,25,2,2,8474709,8476902.0,2019020816,,2020-02-05,Matt Martin Holding against Esa Lindell
+234,penalty,Holding,Roope Hintz,Derick Brassard,[23. 37.],3,05:49,DAL,NYI,NYI,2,DAL,25,2,3,8478449,8473544.0,2019020816,,2020-02-05,Roope Hintz Holding against Derick Brassard
+15,penalty,Hooking,Luke Kunin,Blake Comeau,[44. 38.],1,17:37,MIN,DAL,DAL,25,MIN,30,0,0,8479316,8471260.0,2019020842,,2020-02-08,Luke Kunin Hooking against Blake Comeau
+73,penalty,Hooking,Jared Spurgeon,Corey Perry,[-72.  29.],1,04:46,MIN,DAL,DAL,25,MIN,30,0,0,8474716,8470621.0,2019020842,,2020-02-08,Jared Spurgeon Hooking against Corey Perry
+77,penalty,Hi stick - double minor,Jonas Brodin,Alexander Radulov,[-71.  13.],1,04:32,MIN,DAL,DAL,25,MIN,30,1,0,8476463,8471228.0,2019020842,,2020-02-08,Jonas Brodin Hi stick - double minor against Alexander Radulov
+82,penalty,Hooking,Radek Faksa,Zach Parise,[-85.  32.],1,03:44,DAL,MIN,DAL,25,MIN,30,1,0,8476889,8470610.0,2019020842,,2020-02-08,Radek Faksa Hooking against Zach Parise
+100,penalty,Tripping,Joel Eriksson Ek,Jamie Benn,[ 33. -36.],2,19:10,MIN,DAL,DAL,25,MIN,30,1,0,8478493,8473994.0,2019020842,,2020-02-08,Joel Eriksson Ek Tripping against Jamie Benn
+116,penalty,Slashing,Andrew Cogliano,Jared Spurgeon,[-73.  -7.],2,16:05,DAL,MIN,DAL,25,MIN,30,2,0,8471699,8474716.0,2019020842,,2020-02-08,Andrew Cogliano Slashing against Jared Spurgeon
+156,penalty,Tripping,Blake Comeau,Mats Zuccarello,[59. 14.],2,07:38,DAL,MIN,DAL,25,MIN,30,2,2,8471260,8475692.0,2019020842,,2020-02-08,Blake Comeau Tripping against Mats Zuccarello
+186,penalty,Roughing,Jordan Greenway,Corey Perry,[99. 15.],2,00:00,MIN,DAL,DAL,25,MIN,30,2,2,8478413,8470621.0,2019020842,,2020-02-08,Jordan Greenway Roughing against Corey Perry
+187,penalty,Roughing,Corey Perry,Jordan Greenway,[98. 16.],2,00:00,DAL,MIN,DAL,25,MIN,30,2,2,8470621,8478413.0,2019020842,,2020-02-08,Corey Perry Roughing against Jordan Greenway
+248,penalty,Hi-sticking,Kevin Fiala,Tyler Seguin,[85. 16.],3,05:53,MIN,DAL,DAL,25,MIN,30,2,2,8477942,8475794.0,2019020842,,2020-02-08,Kevin Fiala Hi-sticking against Tyler Seguin
+8,penalty,Tripping,Joel Kiviranta,Ivan Barbashev,[-30. -30.],1,17:31,DAL,STL,STL,19,DAL,25,0,0,8481641,8477964.0,2019020852,,2020-02-09,Joel Kiviranta Tripping against Ivan Barbashev
+19,penalty,Boarding,Jamie Benn,Ivan Barbashev,[-66. -40.],1,13:45,DAL,STL,STL,19,DAL,25,0,0,8473994,8477964.0,2019020852,,2020-02-09,Jamie Benn Boarding against Ivan Barbashev
+30,penalty,Roughing,Ivan Barbashev,Miro Heiskanen,[40. 41.],1,12:19,STL,DAL,STL,19,DAL,25,1,0,8477964,8480036.0,2019020852,,2020-02-09,Ivan Barbashev Roughing against Miro Heiskanen
+76,penalty,Tripping,Justin Faulk,Andrew Cogliano,[-81.  -5.],1,03:10,STL,DAL,STL,19,DAL,25,2,0,8475753,8471699.0,2019020852,,2020-02-09,Justin Faulk Tripping against Andrew Cogliano
+117,penalty,Hooking,David Perron,Jason Dickinson,[30.  3.],2,10:13,STL,DAL,STL,19,DAL,25,2,1,8474102,8477450.0,2019020852,,2020-02-09,David Perron Hooking against Jason Dickinson
+131,penalty,Hi-sticking,Jamie Benn,Jacob de la Rose,[-34.  40.],2,06:20,DAL,STL,STL,19,DAL,25,2,2,8473994,8477455.0,2019020852,,2020-02-09,Jamie Benn Hi-sticking against Jacob de la Rose
+240,penalty,Holding the stick,Jay Bouwmeester,Blake Comeau,[-97.  10.],3,00:46,STL,DAL,STL,19,DAL,25,2,2,8470151,8471260.0,2019020852,,2020-02-09,Jay Bouwmeester Holding the stick against Blake Comeau
+89,penalty,Boarding,Radek Faksa,Justin Williams,[-91. -31.],1,04:27,DAL,CAR,DAL,25,CAR,12,1,0,8476889,8468508.0,2019020873,,2020-02-12,Radek Faksa Boarding against Justin Williams
+125,penalty,Holding the stick,Martin Necas,Stephen Johns,[-99. -10.],2,15:18,CAR,DAL,DAL,25,CAR,12,1,1,8480039,8475730.0,2019020873,,2020-02-12,Martin Necas Holding the stick against Stephen Johns
+163,penalty,Hooking,Jordan Staal,Alexander Radulov,[84. -6.],2,09:19,CAR,DAL,DAL,25,CAR,12,1,1,8473533,8471228.0,2019020873,,2020-02-12,Jordan Staal Hooking against Alexander Radulov
+180,penalty,Hooking,Brock McGinn,Roope Hintz,[35. 41.],2,06:05,CAR,DAL,DAL,25,CAR,12,2,1,8476934,8478449.0,2019020873,,2020-02-12,Brock McGinn Hooking against Roope Hintz
+216,penalty,Tripping,Jake Gardiner,Denis Gurianov,[47.  3.],3,16:20,CAR,DAL,DAL,25,CAR,12,3,1,8474581,8478495.0,2019020873,,2020-02-12,Jake Gardiner Tripping against Denis Gurianov
+78,penalty,Roughing,Justin Holl,Tyler Seguin,[-39.  33.],2,19:02,TOR,DAL,TOR,10,DAL,25,0,2,8475718,8475794.0,2019020881,,2020-02-14,Justin Holl Roughing against Tyler Seguin
+87,penalty,Too many men on the ice,John Tavares,,[-82. -16.],2,16:42,TOR,DAL,TOR,10,DAL,25,0,2,8475166,,2019020881,,2020-02-14,Too many men/ice served by John Tavares
+102,penalty,Fighting,Jamie Oleksiak,Kyle Clifford,[-7.  5.],2,14:05,DAL,TOR,TOR,10,DAL,25,0,2,8476467,8475160.0,2019020881,,2020-02-14,Jamie Oleksiak Fighting against Kyle Clifford
+103,penalty,Fighting,Kyle Clifford,Jamie Oleksiak,[ 29. -13.],2,14:05,TOR,DAL,TOR,10,DAL,25,0,2,8475160,8476467.0,2019020881,,2020-02-14,Kyle Clifford Fighting against Jamie Oleksiak
+118,penalty,Tripping,Corey Perry,Auston Matthews,[-73. -21.],2,09:46,DAL,TOR,TOR,10,DAL,25,0,2,8470621,8479318.0,2019020881,,2020-02-14,Corey Perry Tripping against Auston Matthews
+143,penalty,Hooking,Mitchell Marner,Mattias Janmark,[-59. -25.],2,02:53,TOR,DAL,TOR,10,DAL,25,1,2,8478483,8477406.0,2019020881,,2020-02-14,Mitchell Marner Hooking against Mattias Janmark
+145,penalty,Holding,Miro Heiskanen,Kasperi Kapanen,[70.  3.],2,02:33,DAL,TOR,TOR,10,DAL,25,1,2,8480036,8477953.0,2019020881,,2020-02-14,Miro Heiskanen Holding against Kasperi Kapanen
+161,penalty,Tripping,John Tavares,Miro Heiskanen,[-52.  32.],3,18:49,TOR,DAL,TOR,10,DAL,25,1,2,8475166,8480036.0,2019020881,,2020-02-14,John Tavares Tripping against Miro Heiskanen
+131,penalty,Slashing,Ben Chiarot,Blake Comeau,[36. 32.],2,10:16,MTL,DAL,MTL,8,DAL,25,3,1,8475279,8471260.0,2019020900,,2020-02-16,Ben Chiarot Slashing against Blake Comeau
+149,penalty,Hooking,Joel Armia,Andrej Sekera,[-57. -36.],2,06:06,MTL,DAL,MTL,8,DAL,25,3,1,8476469,8471284.0,2019020900,,2020-02-16,Joel Armia Hooking against Andrej Sekera
+32,penalty,Interference - Goalkeeper,Jamie Benn,Craig Anderson,[-85.   3.],1,13:17,DAL,OTT,OTT,9,DAL,25,0,1,8473994,8467950.0,2019020910,,2020-02-17,Jamie Benn Interference - Goalkeeper against Craig Anderson
+105,penalty,Tripping,Corey Perry,Brady Tkachuk,[-65.  17.],2,19:15,DAL,OTT,OTT,9,DAL,25,2,2,8470621,8480801.0,2019020910,,2020-02-17,Corey Perry Tripping against Brady Tkachuk
+106,penalty,Embellishment,Brady Tkachuk,Corey Perry,[-71.  23.],2,19:15,OTT,DAL,OTT,9,DAL,25,2,2,8480801,8470621.0,2019020910,,2020-02-17,Brady Tkachuk Embellishment against Corey Perry
+195,penalty,Interference,Anton Khudobin,Denis Gurianov,[83.  9.],3,19:21,DAL,OTT,OTT,9,DAL,25,2,2,8471418,8478495.0,2019020910,,2020-02-17,Anton Khudobin Interference against Brady Tkachuk served by Denis Gurianov
+4,penalty,Hi-sticking,Jakob Chychrun,Jason Dickinson,[-7. 34.],1,19:09,ARI,DAL,DAL,25,ARI,53,0,0,8479345,8477450.0,2019020928,,2020-02-20,Jakob Chychrun Hi-sticking against Jason Dickinson
+71,penalty,Holding,Joe Pavelski,Conor Garland,[82. -6.],1,03:39,DAL,ARI,DAL,25,ARI,53,1,0,8470794,8478856.0,2019020928,,2020-02-20,Joe Pavelski Holding against Conor Garland
+129,penalty,Cross checking,Corey Perry,Alex Goligoski,[-4. 24.],2,11:24,DAL,ARI,DAL,25,ARI,53,1,0,8470621,8471274.0,2019020928,,2020-02-20,Corey Perry Cross checking against Alex Goligoski
+130,penalty,Slashing,Alex Goligoski,Corey Perry,[12. 19.],2,11:24,ARI,DAL,DAL,25,ARI,53,1,0,8471274,8470621.0,2019020928,,2020-02-20,Alex Goligoski Slashing against Corey Perry
+137,penalty,Boarding,Jamie Benn,Corey Perry,[-73.  41.],2,09:33,DAL,ARI,DAL,25,ARI,53,1,0,8473994,8470621.0,2019020928,,2020-02-20,Jamie Benn Boarding against Oliver Ekman-Larsson served by Corey Perry
+138,penalty,Game misconduct,Jamie Benn,Oliver Ekman-Larsson,[-67.  38.],2,09:33,DAL,ARI,DAL,25,ARI,53,1,0,8473994,8475171.0,2019020928,,2020-02-20,Jamie Benn Game misconduct against Oliver Ekman-Larsson
+149,penalty,Hooking,Carl Soderberg,Jamie Oleksiak,[-97.   5.],2,05:48,ARI,DAL,DAL,25,ARI,53,1,1,8471262,8476467.0,2019020928,,2020-02-20,Carl Soderberg Hooking against Jamie Oleksiak
+72,penalty,Slashing,Roman Polak,Ivan Barbashev,[-57. -35.],1,01:57,DAL,STL,DAL,25,STL,19,0,2,8471392,8477964.0,2019020944,,2020-02-22,Roman Polak Slashing against Ivan Barbashev
+141,penalty,Tripping,Ivan Barbashev,Alexander Radulov,[ 97. -13.],2,08:37,STL,DAL,DAL,25,STL,19,0,4,8477964,8471228.0,2019020944,,2020-02-22,Ivan Barbashev Tripping against Alexander Radulov
+142,penalty,Roughing,Sammy Blais,Mattias Janmark,[93. 30.],2,08:37,STL,DAL,DAL,25,STL,19,0,4,8478104,8477406.0,2019020944,,2020-02-22,Sammy Blais Roughing against Mattias Janmark
+143,penalty,Roughing,Mattias Janmark,Sammy Blais,[91. 30.],2,08:37,DAL,STL,DAL,25,STL,19,0,4,8477406,8478104.0,2019020944,,2020-02-22,Mattias Janmark Roughing against Sammy Blais
+160,penalty,Delaying Game - Puck over glass,Justin Faulk,,[89. 24.],2,03:11,STL,DAL,DAL,25,STL,19,0,4,8475753,,2019020944,,2020-02-22,Justin Faulk Delaying Game - Puck over glass
+168,penalty,Hooking,Mackenzie MacEachern,Blake Comeau,[-56.  34.],2,00:30,STL,DAL,DAL,25,STL,19,0,4,8476907,8471260.0,2019020944,,2020-02-22,Mackenzie MacEachern Hooking against Blake Comeau
+193,penalty,Tripping,Zach Sanford,Alexander Radulov,[-85.  20.],3,13:49,STL,DAL,DAL,25,STL,19,0,5,8477482,8471228.0,2019020944,,2020-02-22,Zach Sanford Tripping against Alexander Radulov
+202,penalty,Interference,Roman Polak,Corey Perry,[ 71. -37.],3,10:44,DAL,STL,DAL,25,STL,19,0,5,8471392,8470621.0,2019020944,,2020-02-22,Roman Polak Interference against Brayden Schenn served by Corey Perry
+203,penalty,Misconduct,Roman Polak,,[ 56. -36.],3,10:44,DAL,STL,DAL,25,STL,19,0,5,8471392,,2019020944,,2020-02-22,Roman Polak Misconduct
+204,penalty,Slashing,Brayden Schenn,Roman Polak,[ 64. -28.],3,10:44,STL,DAL,DAL,25,STL,19,0,5,8475170,8471392.0,2019020944,,2020-02-22,Brayden Schenn Slashing against Roman Polak
+82,penalty,Hooking,John Klingberg,Kirby Dach,[83. -8.],1,02:50,DAL,CHI,DAL,25,CHI,16,1,0,8475906,8481523.0,2019020961,,2020-02-23,John Klingberg Hooking against Kirby Dach
+111,penalty,Interference,Radek Faksa,Adam Boqvist,[-86. -10.],2,14:54,DAL,CHI,DAL,25,CHI,16,1,0,8476889,8480871.0,2019020961,,2020-02-23,Radek Faksa Interference against Adam Boqvist
+113,penalty,Interference,Jonathan Toews,Tyler Seguin,[-82.  -1.],2,14:50,CHI,DAL,DAL,25,CHI,16,1,0,8473604,8475794.0,2019020961,,2020-02-23,Jonathan Toews Interference against Tyler Seguin
+118,penalty,Hi-sticking,Roope Hintz,Alex DeBrincat,[-55. -40.],2,14:00,DAL,CHI,DAL,25,CHI,16,1,0,8478449,8479337.0,2019020961,,2020-02-23,Roope Hintz Hi-sticking against Alex DeBrincat
+137,penalty,Slashing,Alexander Radulov,Brandon Saad,[13. 34.],2,10:14,DAL,CHI,DAL,25,CHI,16,1,1,8471228,8476438.0,2019020961,,2020-02-23,Alexander Radulov Slashing against Brandon Saad
+150,penalty,Interference,Jamie Oleksiak,Dominik Kubalik,[60. 39.],2,06:24,DAL,CHI,DAL,25,CHI,16,1,1,8476467,8477330.0,2019020961,,2020-02-23,Jamie Oleksiak Interference against Dominik Kubalik
+168,penalty,PS - Hooking on breakaway,Duncan Keith,Mattias Janmark,[72.  3.],2,03:00,CHI,DAL,DAL,25,CHI,16,2,1,8470281,8477406.0,2019020961,,2020-02-23,Duncan Keith PS - Hooking on breakaway against Mattias Janmark
+45,penalty,Tripping,Tyler Seguin,Martin Necas,[-94.   5.],1,09:04,DAL,CAR,CAR,12,DAL,25,0,1,8475794,8480039.0,2019020974,,2020-02-26,Tyler Seguin Tripping against Martin Necas
+56,penalty,Tripping,Vincent Trocheck,Joe Pavelski,[-46. -38.],1,04:18,CAR,DAL,CAR,12,DAL,25,0,1,8476389,8470794.0,2019020974,,2020-02-26,Vincent Trocheck Tripping against Joe Pavelski
+83,penalty,Roughing,Mattias Janmark,Martin Necas,[ 77. -22.],2,17:07,DAL,CAR,CAR,12,DAL,25,1,3,8477406,8480039.0,2019020974,,2020-02-26,Mattias Janmark Roughing against Martin Necas
+90,penalty,Hooking,Sebastian Aho,Roope Hintz,[-64.   4.],2,14:59,CAR,DAL,CAR,12,DAL,25,1,3,8478427,8478449.0,2019020974,,2020-02-26,Sebastian Aho Hooking against Roope Hintz
+143,penalty,Hi-sticking,Jordan Martinook,Esa Lindell,[ 97. -22.],2,02:56,CAR,DAL,CAR,12,DAL,25,1,4,8476921,8476902.0,2019020974,,2020-02-26,Jordan Martinook Hi-sticking against Esa Lindell
+183,penalty,Slashing,Corey Perry,Jordan Martinook,[-61.  37.],3,09:21,DAL,CAR,CAR,12,DAL,25,1,4,8470621,8476921.0,2019020974,,2020-02-26,Corey Perry Slashing against Jordan Martinook
+208,penalty,Tripping,Esa Lindell,Jaccob Slavin,[-78.   3.],3,04:13,DAL,CAR,CAR,12,DAL,25,1,4,8476902,8476958.0,2019020974,,2020-02-26,Esa Lindell Tripping against Jaccob Slavin
+47,penalty,Tripping,Tyler Seguin,Chris Wagner,[14. 14.],1,06:53,DAL,BOS,BOS,6,DAL,25,0,0,8475794,8475780.0,2019020984,,2020-02-28,Tyler Seguin Tripping against Chris Wagner
+67,penalty,Hooking,Matt Grzelcyk,Radek Faksa,[-93.  12.],1,02:56,BOS,DAL,BOS,6,DAL,25,0,0,8476891,8476889.0,2019020984,,2020-02-28,Matt Grzelcyk Hooking against Radek Faksa
+75,penalty,Slashing,Andrew Cogliano,Charlie Coyle,[55. 38.],1,01:42,DAL,BOS,BOS,6,DAL,25,0,1,8471699,8475745.0,2019020984,,2020-02-28,Andrew Cogliano Slashing against Charlie Coyle
+143,penalty,Fighting,Joe Pavelski,David Krejci,[ 63. -13.],2,08:36,DAL,BOS,BOS,6,DAL,25,1,1,8470794,8471276.0,2019020984,,2020-02-28,Joe Pavelski Fighting against David Krejci
+144,penalty,Fighting,David Krejci,Joe Pavelski,[ 65. -22.],2,08:36,BOS,DAL,BOS,6,DAL,25,1,1,8471276,8470794.0,2019020984,,2020-02-28,David Krejci Fighting against Joe Pavelski
+177,penalty,Roughing,Chris Wagner,Mattias Janmark,[-69. -17.],2,01:11,BOS,DAL,BOS,6,DAL,25,3,1,8475780,8477406.0,2019020984,,2020-02-28,Chris Wagner Roughing against Mattias Janmark
+84,penalty,Interference,Roope Hintz,Alexander Steen,[-67. -18.],2,19:31,DAL,STL,STL,19,DAL,25,1,1,8478449,8470257.0,2019021006,,2020-03-01,Roope Hintz Interference against Alexander Steen
+96,penalty,Tripping,Jamie Oleksiak,Robert Thomas,[-95.  22.],2,17:10,DAL,STL,STL,19,DAL,25,1,1,8476467,8480023.0,2019021006,,2020-03-01,Jamie Oleksiak Tripping against Robert Thomas
+110,penalty,Slashing,Alexander Radulov,Sammy Blais,[-74.   8.],2,14:29,DAL,STL,STL,19,DAL,25,2,1,8471228,8478104.0,2019021006,,2020-03-01,Alexander Radulov Slashing against Sammy Blais
+23,penalty,Hooking,Jujhar Khaira,Mattias Janmark,[-69.  35.],1,14:52,EDM,DAL,DAL,25,EDM,22,0,0,8476915,8477406.0,2019021026,,2020-03-04,Jujhar Khaira Hooking against Mattias Janmark
+35,penalty,Tripping,Stephen Johns,James Neal,[88. 16.],1,11:39,DAL,EDM,DAL,25,EDM,22,0,0,8475730,8471707.0,2019021026,,2020-03-04,Stephen Johns Tripping against James Neal
+66,penalty,Too many men on the ice,Kailer Yamamoto,,[-14.  42.],1,05:16,EDM,DAL,DAL,25,EDM,22,0,0,8479977,,2019021026,,2020-03-04,Too many men/ice served by Kailer Yamamoto
+107,penalty,Slashing,Leon Draisaitl,Tyler Seguin,[81. 31.],2,17:39,EDM,DAL,DAL,25,EDM,22,0,0,8477934,8475794.0,2019021026,,2020-03-04,Leon Draisaitl Slashing against Tyler Seguin
+122,penalty,Cross checking,Alexander Radulov,Alex Chiasson,[-80.  -4.],2,14:18,DAL,EDM,DAL,25,EDM,22,0,0,8471228,8475163.0,2019021026,,2020-03-04,Alexander Radulov Cross checking against Alex Chiasson
+147,penalty,Interference,Corey Perry,Connor McDavid,[ 30. -39.],2,07:08,DAL,EDM,DAL,25,EDM,22,0,1,8470621,8478402.0,2019021026,,2020-03-04,Corey Perry Interference against Connor McDavid
+152,penalty,Cross checking,Blake Comeau,Darnell Nurse,[ 98. -10.],2,06:22,DAL,EDM,DAL,25,EDM,22,0,1,8471260,8477498.0,2019021026,,2020-03-04,Blake Comeau Cross checking against Darnell Nurse
+167,penalty,Hooking,Andreas Athanasiou,Alexander Radulov,[36. 21.],2,02:58,EDM,DAL,DAL,25,EDM,22,0,1,8476960,8471228.0,2019021026,,2020-03-04,Andreas Athanasiou Hooking against Alexander Radulov
+212,penalty,Tripping,Andreas Athanasiou,Roope Hintz,[-94.  14.],3,14:02,EDM,DAL,DAL,25,EDM,22,0,1,8476960,8478449.0,2019021026,,2020-03-04,Andreas Athanasiou Tripping against Roope Hintz
+265,penalty,Hi-sticking,Adam Larsson,Radek Faksa,[-98.  11.],3,02:53,EDM,DAL,DAL,25,EDM,22,1,1,8476457,8476889.0,2019021026,,2020-03-04,Adam Larsson Hi-sticking against Radek Faksa
+279,penalty,Tripping,Esa Lindell,Ryan Nugent-Hopkins,[-78.  -5.],4,04:24,DAL,EDM,DAL,25,EDM,22,1,1,8476902,8476454.0,2019021026,,2020-03-04,Esa Lindell Tripping against Ryan Nugent-Hopkins
+17,penalty,Holding,Rocco Grimaldi,Jason Dickinson,[-94.  -5.],1,14:50,NSH,DAL,NSH,18,DAL,25,0,0,8476428,8477450.0,2019021039,,2020-03-06,Rocco Grimaldi Holding against Jason Dickinson
+55,penalty,Interference,John Klingberg,Calle Jarnkrok,[ 73. -37.],1,05:23,DAL,NSH,NSH,18,DAL,25,0,0,8475906,8475714.0,2019021039,,2020-03-06,John Klingberg Interference against Calle Jarnkrok
+69,penalty,Holding,John Klingberg,Matt Duchene,[68.  7.],1,01:46,DAL,NSH,NSH,18,DAL,25,0,0,8475906,8475168.0,2019021039,,2020-03-06,John Klingberg Holding against Matt Duchene
+88,penalty,Too many men on the ice,Alexander Radulov,,[36. 39.],2,18:27,DAL,NSH,NSH,18,DAL,25,1,0,8471228,,2019021039,,2020-03-06,Too many men/ice served by Alexander Radulov
+114,penalty,Too many men on the ice,Viktor Arvidsson,,[-14.  38.],2,12:13,NSH,DAL,NSH,18,DAL,25,1,0,8478042,,2019021039,,2020-03-06,Too many men/ice served by Viktor Arvidsson
+123,penalty,Interference,Viktor Arvidsson,Andrew Cogliano,[-91.  28.],2,09:21,NSH,DAL,NSH,18,DAL,25,1,0,8478042,8471699.0,2019021039,,2020-03-06,Viktor Arvidsson Interference against Andrew Cogliano
+129,penalty,Tripping,Stephen Johns,Matt Duchene,[-44. -14.],2,06:55,DAL,NSH,NSH,18,DAL,25,1,0,8475730,8475168.0,2019021039,,2020-03-06,Stephen Johns Tripping against Matt Duchene
+170,penalty,Tripping,Viktor Arvidsson,John Klingberg,[68. 38.],3,17:58,NSH,DAL,NSH,18,DAL,25,2,0,8478042,8475906.0,2019021039,,2020-03-06,Viktor Arvidsson Tripping against John Klingberg
+38,penalty,Roughing,Corey Perry,Jarred Tinordi,[-86.  17.],1,11:26,DAL,NSH,DAL,25,NSH,18,0,0,8470621,8475797.0,2019021051,,2020-03-07,Corey Perry Roughing against Jarred Tinordi
+39,penalty,Roughing,Jarred Tinordi,Corey Perry,[-85.  13.],1,11:26,NSH,DAL,DAL,25,NSH,18,0,0,8475797,8470621.0,2019021051,,2020-03-07,Jarred Tinordi Roughing against Corey Perry
+51,penalty,Hooking,John Klingberg,Nick Bonino,[97. 20.],1,09:11,DAL,NSH,DAL,25,NSH,18,0,0,8475906,8474009.0,2019021051,,2020-03-07,John Klingberg Hooking against Nick Bonino
+88,penalty,Roughing,Yakov Trenin,Corey Perry,[-47.  10.],1,02:04,NSH,DAL,DAL,25,NSH,18,0,0,8478508,8470621.0,2019021051,,2020-03-07,Yakov Trenin Roughing against Corey Perry
+123,penalty,Roughing,Korbinian Holzer,Radek Faksa,[89. 34.],2,15:03,NSH,DAL,DAL,25,NSH,18,0,0,8473560,8476889.0,2019021051,,2020-03-07,Korbinian Holzer Roughing against Radek Faksa
+124,penalty,Roughing,Radek Faksa,Korbinian Holzer,[89. 32.],2,15:03,DAL,NSH,DAL,25,NSH,18,0,0,8476889,8473560.0,2019021051,,2020-03-07,Radek Faksa Roughing against Korbinian Holzer
+143,penalty,Interference,Jamie Oleksiak,Rocco Grimaldi,[-82.  -3.],2,11:28,DAL,NSH,DAL,25,NSH,18,0,0,8476467,8476428.0,2019021051,,2020-03-07,Jamie Oleksiak Interference against Rocco Grimaldi
+177,penalty,Hi-sticking,Roman Josi,Corey Perry,[74. -1.],2,04:38,NSH,DAL,DAL,25,NSH,18,0,1,8474600,8470621.0,2019021051,,2020-03-07,Roman Josi Hi-sticking against Corey Perry
+51,penalty,Tripping,Jacob Trouba,Mattias Janmark,[77. -4.],1,06:38,NYR,DAL,DAL,25,NYR,3,0,2,8476885,8477406.0,2019021076,,2020-03-11,Jacob Trouba Tripping against Mattias Janmark
+54,penalty,Roughing,Denis Gurianov,Justin Dowling,[-65.  40.],1,06:14,DAL,NYR,DAL,25,NYR,3,0,2,8478495,8475413.0,2019021076,,2020-03-11,Denis Gurianov Roughing against Ryan Lindgren served by Justin Dowling
+55,penalty,Roughing,Ryan Lindgren,Denis Gurianov,[-66.  40.],1,06:14,NYR,DAL,DAL,25,NYR,3,0,2,8479324,8478495.0,2019021076,,2020-03-11,Ryan Lindgren Roughing against Denis Gurianov
+56,penalty,Roughing,Denis Gurianov,Ryan Lindgren,[-63.  37.],1,06:14,DAL,NYR,DAL,25,NYR,3,0,2,8478495,8479324.0,2019021076,,2020-03-11,Denis Gurianov Roughing against Ryan Lindgren
+68,penalty,Tripping,Blake Comeau,Pavel Buchnevich,[52. 24.],1,03:28,DAL,NYR,DAL,25,NYR,3,0,2,8471260,8477402.0,2019021076,,2020-03-11,Blake Comeau Tripping against Pavel Buchnevich
+134,penalty,Fighting,Jamie Benn,Brendan Smith,[ 89. -20.],2,08:40,DAL,NYR,DAL,25,NYR,3,0,3,8473994,8474090.0,2019021076,,2020-03-11,Jamie Benn Fighting against Brendan Smith
+135,penalty,Fighting,Brendan Smith,Jamie Benn,[ 82. -19.],2,08:40,NYR,DAL,DAL,25,NYR,3,0,3,8474090,8473994.0,2019021076,,2020-03-11,Brendan Smith Fighting against Jamie Benn
+148,penalty,Slashing,Andrew Cogliano,Ryan Lindgren,[78. -7.],2,06:30,DAL,NYR,DAL,25,NYR,3,0,3,8471699,8479324.0,2019021076,,2020-03-11,Andrew Cogliano Slashing against Ryan Lindgren
+149,penalty,Slashing,Ryan Lindgren,Andrew Cogliano,[80. -9.],2,06:30,NYR,DAL,DAL,25,NYR,3,0,3,8479324,8471699.0,2019021076,,2020-03-11,Ryan Lindgren Slashing against Andrew Cogliano
+175,penalty,Tripping,Phillip Di Giuseppe,Mattias Janmark,[ 44. -14.],2,00:15,NYR,DAL,DAL,25,NYR,3,0,4,8476858,8477406.0,2019021076,,2020-03-11,Phillip Di Giuseppe Tripping against Mattias Janmark
+234,penalty,Tripping,Brendan Smith,Corey Perry,[-93. -16.],3,04:30,NYR,DAL,DAL,25,NYR,3,2,4,8474090,8470621.0,2019021076,,2020-03-11,Brendan Smith Tripping against Corey Perry
+16,penalty,Holding,Alexander Radulov,Par Lindholm,[-78. -25.],1,15:37,DAL,BOS,DAL,25,BOS,6,0,1,8471228,8480944.0,2019020010,,2019-10-08,Alexander Radulov Holding against Par Lindholm
+70,penalty,Hi-sticking,Radek Faksa,Sean Kuraly,[ 59. -39.],1,02:27,DAL,BOS,DAL,25,BOS,6,0,2,8476889,8476374.0,2019020010,,2019-10-08,Radek Faksa Hi-sticking against Sean Kuraly
+113,penalty,Tripping,Alexander Radulov,Par Lindholm,[53.  8.],2,10:30,DAL,BOS,DAL,25,BOS,6,1,2,8471228,8480944.0,2019020010,,2019-10-08,Alexander Radulov Tripping against Par Lindholm
+137,penalty,Interference,Mattias Janmark,Charlie McAvoy,[-40. -39.],2,04:00,DAL,BOS,DAL,25,BOS,6,1,2,8477406,8479325.0,2019020010,,2019-10-08,Mattias Janmark Interference against Charlie McAvoy
+142,penalty,Interference,Charlie McAvoy,Tyler Seguin,[60. -7.],2,02:48,BOS,DAL,DAL,25,BOS,6,1,2,8479325,8475794.0,2019020010,,2019-10-08,Charlie McAvoy Interference against Tyler Seguin
+159,penalty,Interference,Zdeno Chara,Andrew Cogliano,[-72.  37.],3,19:15,BOS,DAL,DAL,25,BOS,6,1,2,8465009,8471699.0,2019020010,,2019-10-08,Zdeno Chara Interference against Andrew Cogliano
+44,penalty,Hooking,Taylor Fedun,Tyler Bozak,[67. -9.],1,09:45,DAL,STL,STL,19,DAL,25,1,0,8476166,8475098.0,2019020024,,2019-10-06,Taylor Fedun Hooking against Tyler Bozak
+82,penalty,Hooking,Oskar Sundqvist,Rhett Gardner,[91. 37.],2,18:55,STL,DAL,STL,19,DAL,25,1,1,8476897,8479587.0,2019020024,,2019-10-06,Oskar Sundqvist Hooking against Rhett Gardner
+99,penalty,Hooking,Andrej Sekera,Vladimir Tarasenko,[-79. -36.],2,14:40,DAL,STL,STL,19,DAL,25,1,1,8471284,8475765.0,2019020024,,2019-10-06,Andrej Sekera Hooking against Vladimir Tarasenko
+148,penalty,Holding,Jay Bouwmeester,Roope Hintz,[-49.   1.],3,19:12,STL,DAL,STL,19,DAL,25,1,2,8470151,8478449.0,2019020024,,2019-10-06,Jay Bouwmeester Holding against Roope Hintz
+22,penalty,Hooking,Alexander Radulov,Jacob de la Rose,[ 48. -36.],1,12:33,DAL,DET,DET,17,DAL,25,0,0,8471228,8477455.0,2019020032,,2019-10-09,Alexander Radulov Hooking against Jacob de la Rose
+72,penalty,Interference,John Klingberg,Darren Helm,[-43. -30.],1,00:16,DAL,DET,DET,17,DAL,25,0,2,8475906,8471794.0,2019020032,,2019-10-09,John Klingberg Interference against Darren Helm
+83,penalty,Interference,Patrik Nemeth,Joe Pavelski,[-77.   4.],2,17:45,DET,DAL,DET,17,DAL,25,1,2,8475747,8470794.0,2019020032,,2019-10-09,Patrik Nemeth Interference against Joe Pavelski
+91,penalty,Tripping,Andrew Cogliano,Tyler Bertuzzi,[-15. -38.],2,15:06,DAL,DET,DET,17,DAL,25,1,2,8471699,8477479.0,2019020032,,2019-10-09,Andrew Cogliano Tripping against Tyler Bertuzzi
+110,penalty,Hooking,Jamie Benn,Darren Helm,[-19.  35.],2,08:56,DAL,DET,DET,17,DAL,25,2,2,8473994,8471794.0,2019020032,,2019-10-09,Jamie Benn Hooking against Darren Helm
+117,penalty,Too many men on the ice,Alexander Radulov,,[17. 39.],2,06:53,DAL,DET,DET,17,DAL,25,2,2,8471228,,2019020032,,2019-10-09,Too many men/ice served by Alexander Radulov
+131,penalty,Hooking,Mike Green,Mattias Janmark,[-74.  -4.],2,03:07,DET,DAL,DET,17,DAL,25,2,2,8471242,8477406.0,2019020032,,2019-10-09,Mike Green Hooking against Mattias Janmark
+162,penalty,Tripping,Joe Pavelski,Valtteri Filppula,[-76. -16.],3,13:24,DAL,DET,DET,17,DAL,25,3,3,8470794,8470047.0,2019020032,,2019-10-09,Joe Pavelski Tripping against Valtteri Filppula
+166,penalty,Too many men on the ice,Justin Dowling,,[-16.  40.],3,11:46,DAL,DET,DET,17,DAL,25,3,3,8475413,,2019020032,,2019-10-09,Too many men/ice served by Justin Dowling
+173,penalty,Interference - Goalkeeper,Andrew Cogliano,Jonathan Bernier,[83. -8.],3,10:26,DAL,DET,DET,17,DAL,25,3,3,8471699,8473541.0,2019020032,,2019-10-09,Andrew Cogliano Interference - Goalkeeper against Jonathan Bernier
+35,penalty,Tripping,Lars Eller,Andrej Sekera,[-85. -20.],1,12:44,WSH,DAL,WSH,15,DAL,25,1,0,8474189,8471284.0,2019020039,,2019-10-09,Lars Eller Tripping against Andrej Sekera
+77,penalty,Roughing,Esa Lindell,Jonas Siegenthaler,[ 62. -35.],1,05:12,DAL,WSH,WSH,15,DAL,25,1,0,8476902,8478399.0,2019020039,,2019-10-09,Esa Lindell Roughing against Jonas Siegenthaler
+132,penalty,Roughing,Justin Dowling,Lars Eller,[ 36. -28.],2,09:46,DAL,WSH,WSH,15,DAL,25,1,1,8475413,8474189.0,2019020039,,2019-10-09,Justin Dowling Roughing against Lars Eller
+158,penalty,Tripping,John Klingberg,Alex Ovechkin,[-8. 40.],2,01:33,DAL,WSH,WSH,15,DAL,25,2,1,8475906,8471214.0,2019020039,,2019-10-09,John Klingberg Tripping against Alex Ovechkin
+172,penalty,Hooking,Jonas Siegenthaler,Roope Hintz,[71.  3.],3,18:30,WSH,DAL,WSH,15,DAL,25,2,1,8478399,8478449.0,2019020039,,2019-10-09,Jonas Siegenthaler Hooking against Roope Hintz
+220,penalty,Holding,Garnet Hathaway,Roope Hintz,[96. -1.],3,06:39,WSH,DAL,WSH,15,DAL,25,2,3,8477903,8478449.0,2019020039,,2019-10-09,Garnet Hathaway Holding against Roope Hintz
+223,penalty,Holding,John Klingberg,Lars Eller,[-78. -39.],3,05:57,DAL,WSH,WSH,15,DAL,25,2,3,8475906,8474189.0,2019020039,,2019-10-09,John Klingberg Holding against Lars Eller
+225,penalty,Holding,Tyler Seguin,Nicklas Backstrom,[79. 37.],3,05:33,DAL,WSH,WSH,15,DAL,25,2,3,8475794,8473563.0,2019020039,,2019-10-09,Tyler Seguin Holding against Nicklas Backstrom
+230,penalty,Interference,Evgeny Kuznetsov,Mattias Janmark,[-65.   4.],3,03:53,WSH,DAL,WSH,15,DAL,25,2,3,8475744,8477406.0,2019020039,,2019-10-09,Evgeny Kuznetsov Interference against Mattias Janmark
+39,penalty,Slashing,Sam Bennett,Roope Hintz,[-62.   9.],1,10:58,CGY,DAL,DAL,25,CGY,20,0,0,8477935,8478449.0,2019020055,,2019-10-11,Sam Bennett Slashing against Roope Hintz
+90,penalty,Holding,Johnny Gaudreau,Miro Heiskanen,[-74.  -6.],2,18:42,CGY,DAL,DAL,25,CGY,20,0,0,8476346,8480036.0,2019020055,,2019-10-11,Johnny Gaudreau Holding against Miro Heiskanen
+111,penalty,Holding,TJ Brodie,Joe Pavelski,[86. 14.],2,15:23,CGY,DAL,DAL,25,CGY,20,0,0,8474673,8470794.0,2019020055,,2019-10-11,TJ Brodie Holding against Joe Pavelski
+145,penalty,Interference - Goalkeeper,Matthew Tkachuk,Ben Bishop,[-77.   0.],2,07:58,CGY,DAL,DAL,25,CGY,20,0,0,8479314,8471750.0,2019020055,,2019-10-11,Matthew Tkachuk Interference - Goalkeeper against Ben Bishop
+146,penalty,Embellishment,Ben Bishop,Alexander Radulov,[-80.   1.],2,07:58,DAL,CGY,DAL,25,CGY,20,0,0,8471750,8471228.0,2019020055,,2019-10-11,Ben Bishop Embellishment served by Alexander Radulov
+184,penalty,Hi-sticking,Johnny Gaudreau,John Klingberg,[-73. -19.],2,01:21,CGY,DAL,DAL,25,CGY,20,1,0,8476346,8475906.0,2019020055,,2019-10-11,Johnny Gaudreau Hi-sticking against John Klingberg
+199,penalty,Boarding,Joe Pavelski,Rasmus Andersson,[-97.  21.],3,18:22,DAL,CGY,DAL,25,CGY,20,2,0,8470794,8478397.0,2019020055,,2019-10-11,Joe Pavelski Boarding against Rasmus Andersson
+216,penalty,Delaying Game - Puck over glass,Justin Dowling,,[ 55. -36.],3,13:17,DAL,CGY,DAL,25,CGY,20,2,2,8475413,,2019020055,,2019-10-11,Justin Dowling Delaying Game - Puck over glass
+281,penalty,PS - Tripping on breakaway,Mark Giordano,Alexander Radulov,[-88.  12.],4,00:21,CGY,DAL,DAL,25,CGY,20,2,2,8470966,8471228.0,2019020055,,2019-10-11,Mark Giordano PS - Tripping on breakaway against Alexander Radulov
+3,penalty,Hi-sticking,Joel Hanley,Jonas Siegenthaler,[66.  5.],1,19:08,DAL,WSH,DAL,25,WSH,15,0,0,8477810,8478399.0,2019020070,,2019-10-15,Joel Hanley Hi-sticking against Jonas Siegenthaler
+4,penalty,Hi-sticking,Joel Hanley,Jonas Siegenthaler,[71.  7.],1,19:08,DAL,WSH,DAL,25,WSH,15,0,0,8477810,8478399.0,2019020070,,2019-10-15,Joel Hanley Hi-sticking against Jonas Siegenthaler
+11,penalty,Missing key [PD_151],Nick Caamano,,[12. 41.],1,16:43,DAL,WSH,DAL,25,WSH,15,0,1,8479381,,2019020070,,2019-10-15,Delaying Game - Unsucc. chlg served by Nick Caamano
+40,penalty,Tripping,Lars Eller,Radek Faksa,[-95.  16.],1,11:57,WSH,DAL,DAL,25,WSH,15,0,1,8474189,8476889.0,2019020070,,2019-10-15,Lars Eller Tripping against Radek Faksa
+79,penalty,Slashing,Dmitry Orlov,Joe Pavelski,[-74.  -1.],1,04:28,WSH,DAL,DAL,25,WSH,15,0,1,8475200,8470794.0,2019020070,,2019-10-15,Dmitry Orlov Slashing against Joe Pavelski
+100,penalty,Tripping,Tom Wilson,Roope Hintz,[-14.  24.],2,18:43,WSH,DAL,DAL,25,WSH,15,0,1,8476880,8478449.0,2019020070,,2019-10-15,Tom Wilson Tripping against Roope Hintz
+110,penalty,Interference,Jonas Siegenthaler,Andrew Cogliano,[74. -7.],2,16:14,WSH,DAL,DAL,25,WSH,15,0,1,8478399,8471699.0,2019020070,,2019-10-15,Jonas Siegenthaler Interference against Andrew Cogliano
+142,penalty,Delay of game,Radko Gudas,,[81. -6.],2,09:56,WSH,DAL,DAL,25,WSH,15,0,2,8475462,,2019020070,,2019-10-15,Radko Gudas Delay of game
+171,penalty,Hi-sticking,Tom Wilson,Jamie Benn,[ 78. -36.],2,02:37,WSH,DAL,DAL,25,WSH,15,0,2,8476880,8473994.0,2019020070,,2019-10-15,Tom Wilson Hi-sticking against Jamie Benn
+197,penalty,Holding the stick,Joel Hanley,Richard Panik,[83. -8.],3,16:54,DAL,WSH,DAL,25,WSH,15,0,2,8477810,8475209.0,2019020070,,2019-10-15,Joel Hanley Holding the stick against Richard Panik
+225,penalty,Interference,Joel L'Esperance,Richard Panik,[-71. -12.],3,07:54,DAL,WSH,DAL,25,WSH,15,1,3,8480769,8475209.0,2019020070,,2019-10-15,Joel L'Esperance Interference against Richard Panik
+36,penalty,Hooking,John Klingberg,Jeff Skinner,[59. 29.],1,09:34,DAL,BUF,BUF,7,DAL,25,0,0,8475906,8475784.0,2019020082,,2019-10-14,John Klingberg Hooking against Jeff Skinner
+44,penalty,Hooking,Henri Jokiharju,Joe Pavelski,[-39.  -1.],1,04:28,BUF,DAL,BUF,7,DAL,25,0,0,8480035,8470794.0,2019020082,,2019-10-14,Henri Jokiharju Hooking against Joe Pavelski
+74,penalty,Delay of game,Nick Caamano,,[ 8. 39.],2,14:55,DAL,BUF,BUF,7,DAL,25,0,0,8479381,,2019020082,,2019-10-14,Delay of Game - Bench served by Nick Caamano
+99,penalty,Interference,Victor Olofsson,Roope Hintz,[ 6. 18.],2,09:24,BUF,DAL,BUF,7,DAL,25,1,0,8478109,8478449.0,2019020082,,2019-10-14,Victor Olofsson Interference against Roope Hintz
+9,penalty,Hooking,Sonny Milano,John Klingberg,[41.  1.],1,17:30,CBJ,DAL,CBJ,29,DAL,25,0,0,8477947,8475906.0,2019020094,DAL,2019-10-17,Sonny Milano Hooking against John Klingberg
+48,penalty,Cross checking,Pierre-Luc Dubois,Miro Heiskanen,[78. 26.],1,08:28,CBJ,DAL,CBJ,29,DAL,25,1,0,8479400,8480036.0,2019020094,DAL,2019-10-17,Pierre-Luc Dubois Cross checking against Miro Heiskanen
+97,penalty,Holding,Taylor Fedun,Pierre-Luc Dubois,[-82.  35.],2,16:39,DAL,CBJ,CBJ,29,DAL,25,2,1,8476166,8479400.0,2019020094,DAL,2019-10-17,Taylor Fedun Holding against Pierre-Luc Dubois
+154,penalty,Holding,Andrej Sekera,Oliver Bjorkstrand,[-31.  38.],2,02:42,DAL,CBJ,CBJ,29,DAL,25,2,1,8471284,8477416.0,2019020094,DAL,2019-10-17,Andrej Sekera Holding against Oliver Bjorkstrand
+228,penalty,Interference,Roope Hintz,Boone Jenner,[ 32. -11.],3,04:14,DAL,CBJ,CBJ,29,DAL,25,3,1,8478449,8476432.0,2019020094,DAL,2019-10-17,Roope Hintz Interference against Boone Jenner
+106,penalty,Hooking,Denis Gurianov,Marcus Pettersson,[ 91. -31.],2,14:34,DAL,PIT,PIT,5,DAL,25,0,1,8478495,8477969.0,2019020108,DAL,2019-10-19,Denis Gurianov Hooking against Marcus Pettersson
+188,penalty,Roughing,Brandon Tanev,Miro Heiskanen,[ 27. -40.],3,18:16,PIT,DAL,PIT,5,DAL,25,1,1,8479293,8480036.0,2019020108,DAL,2019-10-19,Brandon Tanev Roughing against Miro Heiskanen
+230,penalty,Tripping,Jamie Oleksiak,Jared McCann,[39. 19.],3,07:02,DAL,PIT,PIT,5,DAL,25,3,2,8476467,8477955.0,2019020108,DAL,2019-10-19,Jamie Oleksiak Tripping against Jared McCann
+8,penalty,Hi-sticking,Alexander Radulov,Oskar Lindblom,[-26.  -9.],1,19:15,DAL,PHI,PHI,4,DAL,25,1,0,8471228,8478067.0,2019020117,DAL,2019-10-20,Alexander Radulov Hi-sticking against Oskar Lindblom
+38,penalty,Tripping,Tyler Seguin,Ivan Provorov,[88.  9.],1,12:53,DAL,PHI,PHI,4,DAL,25,1,1,8475794,8478500.0,2019020117,DAL,2019-10-20,Tyler Seguin Tripping against Ivan Provorov
+59,penalty,Holding,Travis Sanheim,Denis Gurianov,[97. -9.],1,07:16,PHI,DAL,PHI,4,DAL,25,1,1,8477948,8478495.0,2019020117,DAL,2019-10-20,Travis Sanheim Holding against Denis Gurianov
+66,penalty,Fighting,Jamie Oleksiak,Chris Stewart,[-10.  25.],1,06:10,DAL,PHI,PHI,4,DAL,25,1,2,8476467,8473485.0,2019020117,DAL,2019-10-20,Jamie Oleksiak Fighting against Chris Stewart
+67,penalty,Fighting,Chris Stewart,Jamie Oleksiak,[-12.  22.],1,06:10,PHI,DAL,PHI,4,DAL,25,1,2,8473485,8476467.0,2019020117,DAL,2019-10-20,Chris Stewart Fighting against Jamie Oleksiak
+141,penalty,Hi-sticking,Justin Dowling,Shayne Gostisbehere,[-98.  -7.],2,07:37,DAL,PHI,PHI,4,DAL,25,1,2,8475413,8476906.0,2019020117,DAL,2019-10-20,Justin Dowling Hi-sticking against Shayne Gostisbehere
+156,penalty,Hi-sticking,Matt Niskanen,Tyler Seguin,[-99.   5.],2,03:11,PHI,DAL,PHI,4,DAL,25,1,2,8471702,8475794.0,2019020117,DAL,2019-10-20,Matt Niskanen Hi-sticking against Tyler Seguin
+161,penalty,Tripping,Alexander Radulov,Tyler Pitlick,[39. 25.],2,02:22,DAL,PHI,PHI,4,DAL,25,1,2,8471228,8475752.0,2019020117,DAL,2019-10-20,Alexander Radulov Tripping against Tyler Pitlick
+36,penalty,Tripping,Thomas Chabot,Joe Pavelski,[-65. -10.],1,13:17,OTT,DAL,DAL,25,OTT,9,0,0,8478469,8470794.0,2019020132,,2019-10-22,Thomas Chabot Tripping against Joe Pavelski
+61,penalty,Tripping,Andrej Sekera,Brady Tkachuk,[98.  4.],1,06:30,DAL,OTT,DAL,25,OTT,9,0,0,8471284,8480801.0,2019020132,,2019-10-22,Andrej Sekera Tripping against Brady Tkachuk
+121,penalty,Delaying Game - Puck over glass,Vladislav Namestnikov,,[47. 37.],2,11:17,OTT,DAL,DAL,25,OTT,9,1,0,8476480,,2019020132,,2019-10-22,Vladislav Namestnikov Delaying Game - Puck over glass
+124,penalty,Interference,Jean-Gabriel Pageau,Esa Lindell,[-2. -1.],2,10:45,OTT,DAL,DAL,25,OTT,9,1,0,8476419,8476902.0,2019020132,,2019-10-22,Jean-Gabriel Pageau Interference against Esa Lindell
+136,penalty,Slashing,Dylan DeMelo,Roope Hintz,[76. 38.],2,05:45,OTT,DAL,DAL,25,OTT,9,2,0,8476331,8478449.0,2019020132,,2019-10-22,Dylan DeMelo Slashing against Roope Hintz
+157,penalty,Holding,Andrew Cogliano,Erik Brannstrom,[91. 31.],2,01:27,DAL,OTT,DAL,25,OTT,9,2,0,8471699,8480073.0,2019020132,,2019-10-22,Andrew Cogliano Holding against Erik Brannstrom
+193,penalty,Cross checking,Brady Tkachuk,Esa Lindell,[ 49. -14.],3,12:41,OTT,DAL,DAL,25,OTT,9,2,0,8480801,8476902.0,2019020132,,2019-10-22,Brady Tkachuk Cross checking against Esa Lindell
+36,penalty,Hooking,Jakob Silfverberg,Tyler Seguin,[-59.  12.],1,11:28,ANA,DAL,DAL,25,ANA,24,1,0,8475164,8475794.0,2019020152,ANA,2019-10-25,Jakob Silfverberg Hooking against Tyler Seguin
+42,penalty,Cross checking,Rickard Rakell,Jamie Benn,[-79.   4.],1,10:41,ANA,DAL,DAL,25,ANA,24,1,0,8476483,8473994.0,2019020152,ANA,2019-10-25,Rickard Rakell Cross checking against Jamie Benn
+99,penalty,Slashing,Alexander Radulov,Brendan Guhle,[47. 16.],2,17:28,DAL,ANA,DAL,25,ANA,24,2,0,8471228,8478425.0,2019020152,ANA,2019-10-25,Alexander Radulov Slashing against Brendan Guhle
+166,penalty,Holding,John Klingberg,Max Jones,[-76.  35.],2,01:20,DAL,ANA,DAL,25,ANA,24,2,1,8475906,8479368.0,2019020152,ANA,2019-10-25,John Klingberg Holding against Max Jones
+91,penalty,Interference,Marcus Pettersson,Andrew Cogliano,[-74.  40.],1,01:07,PIT,DAL,DAL,25,PIT,5,0,0,8477969,8471699.0,2019020166,PIT,2019-10-27,Marcus Pettersson Interference against Andrew Cogliano
+132,penalty,Tripping,Kris Letang,Denis Gurianov,[58. 14.],2,10:43,PIT,DAL,DAL,25,PIT,5,0,0,8471724,8478495.0,2019020166,PIT,2019-10-27,Kris Letang Tripping against Denis Gurianov
+21,penalty,Hi-sticking,Jordan Greenway,Taylor Fedun,[94.  0.],1,10:14,MIN,DAL,DAL,25,MIN,30,0,1,8478413,8476166.0,2019020186,MIN,2019-10-30,Jordan Greenway Hi-sticking against Taylor Fedun
+26,penalty,Cross checking,Corey Perry,Marcus Foligno,[-87.   5.],1,09:13,DAL,MIN,DAL,25,MIN,30,0,1,8470621,8475220.0,2019020186,MIN,2019-10-30,Corey Perry Cross checking against Marcus Foligno
+50,penalty,Tripping,Radek Faksa,Ryan Donato,[10. 31.],1,03:45,DAL,MIN,DAL,25,MIN,30,0,1,8476889,8477987.0,2019020186,MIN,2019-10-30,Radek Faksa Tripping against Ryan Donato
+64,penalty,Tripping,Jared Spurgeon,Tyler Seguin,[-98. -16.],1,01:13,MIN,DAL,DAL,25,MIN,30,0,2,8474716,8475794.0,2019020186,MIN,2019-10-30,Jared Spurgeon Tripping against Tyler Seguin
+71,penalty,Too many men on the ice,Denis Gurianov,,[12. 41.],2,19:16,DAL,MIN,DAL,25,MIN,30,0,2,8478495,,2019020186,MIN,2019-10-30,Too many men/ice served by Denis Gurianov
+117,penalty,Tripping,Radek Faksa,Joel Eriksson Ek,[ 2. 40.],2,06:23,DAL,MIN,DAL,25,MIN,30,0,2,8476889,8478493.0,2019020186,MIN,2019-10-30,Radek Faksa Tripping against Joel Eriksson Ek
+130,penalty,Roughing,Joe Pavelski,Mats Zuccarello,[45. 25.],2,04:08,DAL,MIN,DAL,25,MIN,30,0,3,8470794,8475692.0,2019020186,MIN,2019-10-30,Joe Pavelski Roughing against Mats Zuccarello
+131,penalty,Cross checking,Mats Zuccarello,Joe Pavelski,[41. 28.],2,04:08,MIN,DAL,DAL,25,MIN,30,0,3,8475692,8470794.0,2019020186,MIN,2019-10-30,Mats Zuccarello Cross checking against Joe Pavelski
+171,penalty,Tripping,Jonas Brodin,Denis Gurianov,[-37.  40.],3,16:19,MIN,DAL,DAL,25,MIN,30,1,3,8476463,8478495.0,2019020186,MIN,2019-10-30,Jonas Brodin Tripping against Denis Gurianov
+216,penalty,Too many men on the ice,Jason Zucker,,[-13.  40.],3,05:40,MIN,DAL,DAL,25,MIN,30,4,3,8475722,,2019020186,MIN,2019-10-30,Too many men/ice served by Jason Zucker
+20,penalty,Delaying Game - Puck over glass,Tyler Seguin,,[-72.  29.],1,16:33,DAL,COL,COL,21,DAL,25,0,0,8475794,,2019020201,DAL,2019-11-02,Tyler Seguin Delaying Game - Puck over glass
+35,penalty,Interference,Ian Cole,Denis Gurianov,[91. 32.],1,13:31,COL,DAL,COL,21,DAL,25,0,0,8474013,8478495.0,2019020201,DAL,2019-11-02,Ian Cole Interference against Denis Gurianov
+49,penalty,Interference,Jamie Oleksiak,Nathan MacKinnon,[-41. -37.],1,10:58,DAL,COL,COL,21,DAL,25,0,0,8476467,8477492.0,2019020201,DAL,2019-11-02,Jamie Oleksiak Interference against Nathan MacKinnon
+110,penalty,Delaying Game - Puck over glass,Radek Faksa,,[ 60. -40.],2,15:48,DAL,COL,COL,21,DAL,25,0,1,8476889,,2019020201,DAL,2019-11-02,Radek Faksa Delaying Game - Puck over glass
+133,penalty,Hooking,Andrew Cogliano,J.T. Compher,[84.  1.],2,10:36,DAL,COL,COL,21,DAL,25,0,2,8471699,8477456.0,2019020201,DAL,2019-11-02,Andrew Cogliano Hooking against J.T. Compher
+163,penalty,Holding the stick,Nazem Kadri,Joe Pavelski,[65. 28.],2,04:55,COL,DAL,COL,21,DAL,25,1,2,8475172,8470794.0,2019020201,DAL,2019-11-02,Nazem Kadri Holding the stick against Joe Pavelski
+167,penalty,Unsportsmanlike conduct,Corey Perry,J.T. Compher,[-85.   6.],2,04:30,DAL,COL,COL,21,DAL,25,1,2,8470621,8477456.0,2019020201,DAL,2019-11-02,Corey Perry Unsportsmanlike conduct against J.T. Compher
+168,penalty,Unsportsmanlike conduct,J.T. Compher,Corey Perry,[-84.   5.],2,04:30,COL,DAL,COL,21,DAL,25,1,2,8477456,8470621.0,2019020201,DAL,2019-11-02,J.T. Compher Unsportsmanlike conduct against Corey Perry
+180,penalty,Tripping,John Klingberg,Nazem Kadri,[-34.  38.],2,01:57,DAL,COL,COL,21,DAL,25,1,2,8475906,8475172.0,2019020201,DAL,2019-11-02,John Klingberg Tripping against Nazem Kadri
+18,penalty,Cross checking,Alexander Radulov,Ben Chiarot,[52. 41.],1,16:32,DAL,MTL,DAL,25,MTL,8,0,0,8471228,8475279.0,2019020212,,2019-11-05,Alexander Radulov Cross checking against Ben Chiarot
+22,penalty,Interference,Joel Armia,Jason Dickinson,[-71. -40.],1,15:43,MTL,DAL,DAL,25,MTL,8,0,0,8476469,8477450.0,2019020212,,2019-11-05,Joel Armia Interference against Jason Dickinson
+46,penalty,Hooking,Jamie Benn,Paul Byron,[96. -1.],1,11:05,DAL,MTL,DAL,25,MTL,8,0,0,8473994,8474038.0,2019020212,,2019-11-05,Jamie Benn Hooking against Paul Byron
+77,penalty,Cross checking,Ben Chiarot,Jason Dickinson,[-96.  24.],1,04:37,MTL,DAL,DAL,25,MTL,8,0,0,8475279,8477450.0,2019020212,,2019-11-05,Ben Chiarot Cross checking against Jason Dickinson
+86,penalty,Slashing,Alexander Radulov,Jordan Weal,[ 25. -27.],1,03:09,DAL,MTL,DAL,25,MTL,8,1,0,8471228,8475738.0,2019020212,,2019-11-05,Alexander Radulov Slashing against Jordan Weal
+166,penalty,Hooking,John Klingberg,Max Domi,[  8. -35.],2,06:24,DAL,MTL,DAL,25,MTL,8,1,0,8475906,8477503.0,2019020212,,2019-11-05,John Klingberg Hooking against Max Domi
+192,penalty,PS - Slash on breakaway,Nick Suzuki,Denis Gurianov,[52.  4.],2,01:11,MTL,DAL,DAL,25,MTL,8,1,0,8480018,8478495.0,2019020212,,2019-11-05,Nick Suzuki PS - Slash on breakaway against Denis Gurianov
+203,penalty,Tripping,Andrew Cogliano,Mike Reilly,[-93. -30.],3,18:46,DAL,MTL,DAL,25,MTL,8,2,0,8471699,8476422.0,2019020212,,2019-11-05,Andrew Cogliano Tripping against Mike Reilly
+241,penalty,Tripping,Jordan Weal,Denis Gurianov,[42. 38.],3,10:31,MTL,DAL,DAL,25,MTL,8,2,0,8475738,8478495.0,2019020212,,2019-11-05,Jordan Weal Tripping against Denis Gurianov
+282,penalty,Interference,Jeff Petry,Roope Hintz,[-57.   2.],3,02:04,MTL,DAL,DAL,25,MTL,8,4,1,8473507,8478449.0,2019020212,,2019-11-05,Jeff Petry Interference against Roope Hintz
+4,penalty,Missing key [PD_151],Vladislav Kamenev,,[-13.  41.],1,19:41,COL,DAL,DAL,25,COL,21,1,0,8477973,,2019020230,,2019-11-06,Delaying Game - Unsucc. chlg served by Vladislav Kamenev
+18,penalty,Holding,Joonas Donskoi,Jamie Oleksiak,[-75. -39.],1,16:22,COL,DAL,DAL,25,COL,21,1,0,8475820,8476467.0,2019020230,,2019-11-06,Joonas Donskoi Holding against Jamie Oleksiak
+38,penalty,Delaying Game - Puck over glass,Nikita Zadorov,,[-87.  33.],1,10:36,COL,DAL,DAL,25,COL,21,2,0,8477507,,2019020230,,2019-11-06,Nikita Zadorov Delaying Game - Puck over glass
+50,penalty,Hooking,Blake Comeau,Andre Burakovsky,[-17. -38.],1,07:36,DAL,COL,DAL,25,COL,21,2,0,8471260,8477444.0,2019020230,,2019-11-06,Blake Comeau Hooking against Andre Burakovsky
+54,penalty,Roughing,Nazem Kadri,Joe Pavelski,[-98.  10.],1,06:57,COL,DAL,DAL,25,COL,21,2,0,8475172,8470794.0,2019020230,,2019-11-06,Nazem Kadri Roughing against Joe Pavelski
+64,penalty,Interference,Miro Heiskanen,Matt Calvert,[ 39. -28.],1,04:59,DAL,COL,DAL,25,COL,21,2,0,8480036,8474685.0,2019020230,,2019-11-06,Miro Heiskanen Interference against Matt Calvert
+88,penalty,Interference,Jamie Oleksiak,J.T. Compher,[-92.  30.],2,19:02,DAL,COL,DAL,25,COL,21,2,1,8476467,8477456.0,2019020230,,2019-11-06,Jamie Oleksiak Interference against J.T. Compher
+131,penalty,Tripping,Vladislav Kamenev,Taylor Fedun,[-97.   4.],2,10:10,COL,DAL,DAL,25,COL,21,2,1,8477973,8476166.0,2019020230,,2019-11-06,Vladislav Kamenev Tripping against Taylor Fedun
+139,penalty,Missing key [PD_152],Jayson Megna,,[-15.  41.],2,09:06,COL,DAL,DAL,25,COL,21,3,1,8477126,,2019020230,,2019-11-06,"Delay Game - Un. chlg, double served by Jayson Megna"
+155,penalty,Interference,Blake Comeau,Ian Cole,[81. -3.],2,04:23,DAL,COL,DAL,25,COL,21,3,1,8471260,8474013.0,2019020230,,2019-11-06,Blake Comeau Interference against Ian Cole
+165,penalty,Tripping,Esa Lindell,Valeri Nichushkin,[-89.  30.],2,02:24,DAL,COL,DAL,25,COL,21,3,1,8476902,8477501.0,2019020230,,2019-11-06,Esa Lindell Tripping against Valeri Nichushkin
+225,penalty,Hooking,Alexander Radulov,Nathan MacKinnon,[ 84. -15.],3,11:16,DAL,COL,DAL,25,COL,21,4,1,8471228,8477492.0,2019020230,,2019-11-06,Alexander Radulov Hooking against Nathan MacKinnon
+240,penalty,Holding,Alexander Radulov,Nathan MacKinnon,[-62. -34.],3,07:19,DAL,COL,DAL,25,COL,21,4,1,8471228,8477492.0,2019020230,,2019-11-06,Alexander Radulov Holding against Nathan MacKinnon
+264,penalty,Hooking,Blake Comeau,Nazem Kadri,[ 31. -32.],3,01:23,DAL,COL,DAL,25,COL,21,4,1,8471260,8475172.0,2019020230,,2019-11-06,Blake Comeau Hooking against Nazem Kadri
+65,penalty,Interference,Jamie Benn,Blake Wheeler,[-71.   7.],1,02:03,DAL,WPG,WPG,52,DAL,25,0,0,8473994,8471218.0,2019020264,DAL,2019-11-10,Jamie Benn Interference against Blake Wheeler
+146,penalty,Hooking,Corey Perry,Blake Wheeler,[ 57. -29.],2,02:23,DAL,WPG,WPG,52,DAL,25,1,2,8470621,8471218.0,2019020264,DAL,2019-11-10,Corey Perry Hooking against Blake Wheeler
+180,penalty,Tripping,Dmitry Kulikov,Joe Pavelski,[ 76. -12.],3,15:14,WPG,DAL,WPG,52,DAL,25,2,2,8475179,8470794.0,2019020264,DAL,2019-11-10,Dmitry Kulikov Tripping against Joe Pavelski
+220,penalty,Delaying Game - Puck over glass,Anton Khudobin,Andrew Cogliano,[-74.  42.],3,05:15,DAL,WPG,WPG,52,DAL,25,2,2,8471418,8471699.0,2019020264,DAL,2019-11-10,Anton Khudobin Delaying Game - Puck over glass served by Andrew Cogliano
+18,penalty,Boarding,Travis Hamonic,Andrew Cogliano,[95. -8.],1,16:07,CGY,DAL,CGY,20,DAL,25,0,0,8474612,8471699.0,2019020284,DAL,2019-11-14,Travis Hamonic Boarding against Andrew Cogliano
+46,penalty,Slashing,Joe Pavelski,Andrew Mangiapane,[12. 38.],1,08:42,DAL,CGY,CGY,20,DAL,25,0,0,8470794,8478233.0,2019020284,DAL,2019-11-14,Joe Pavelski Slashing against Andrew Mangiapane
+75,penalty,Tripping,Alexander Radulov,Johnny Gaudreau,[ 80. -36.],1,00:58,DAL,CGY,CGY,20,DAL,25,0,0,8471228,8476346.0,2019020284,DAL,2019-11-14,Alexander Radulov Tripping against Johnny Gaudreau
+87,penalty,Interference,Sam Bennett,Miro Heiskanen,[86.  0.],2,18:33,CGY,DAL,CGY,20,DAL,25,0,0,8477935,8480036.0,2019020284,DAL,2019-11-14,Sam Bennett Interference against Miro Heiskanen
+185,penalty,Hooking,Mark Giordano,Tyler Seguin,[79.  0.],3,17:55,CGY,DAL,CGY,20,DAL,25,0,1,8470966,8475794.0,2019020284,DAL,2019-11-14,Mark Giordano Hooking against Tyler Seguin
+219,penalty,Hi stick - double minor,Radek Faksa,Johnny Gaudreau,[-84.  37.],3,11:22,DAL,CGY,CGY,20,DAL,25,0,2,8476889,8476346.0,2019020284,DAL,2019-11-14,Radek Faksa Hi stick - double minor against Johnny Gaudreau
+12,penalty,Fighting,Jordie Benn,Denis Gurianov,[-35.  20.],1,16:55,VAN,DAL,VAN,23,DAL,25,0,0,8474818,8478495.0,2019020291,DAL,2019-11-15,Jordie Benn Fighting against Denis Gurianov
+13,penalty,Fighting,Denis Gurianov,Jordie Benn,[67. -8.],1,16:55,DAL,VAN,VAN,23,DAL,25,0,0,8478495,8474818.0,2019020291,DAL,2019-11-15,Denis Gurianov Fighting against Jordie Benn
+21,penalty,Tripping,Tyler Seguin,J.T. Miller,[-18. -35.],1,15:00,DAL,VAN,VAN,23,DAL,25,0,1,8475794,8476468.0,2019020291,DAL,2019-11-15,Tyler Seguin Tripping against J.T. Miller
+48,penalty,Interference,Troy Stecher,Joe Pavelski,[87.  8.],1,08:03,VAN,DAL,VAN,23,DAL,25,0,1,8479442,8470794.0,2019020291,DAL,2019-11-15,Troy Stecher Interference against Joe Pavelski
+83,penalty,Slashing,Joe Pavelski,Sven Baertschi,[75. -5.],2,19:32,DAL,VAN,VAN,23,DAL,25,0,1,8470794,8476466.0,2019020291,DAL,2019-11-15,Joe Pavelski Slashing against Sven Baertschi
+110,penalty,Tripping,Rhett Gardner,Quinn Hughes,[-67.   4.],2,13:31,DAL,VAN,VAN,23,DAL,25,1,2,8479587,8480800.0,2019020291,DAL,2019-11-15,Rhett Gardner Tripping against Quinn Hughes
+117,penalty,Slashing,Bo Horvat,Jamie Benn,[-55.  -2.],2,10:49,VAN,DAL,VAN,23,DAL,25,1,2,8477500,8473994.0,2019020291,DAL,2019-11-15,Bo Horvat Slashing against Jamie Benn
+14,penalty,Tripping,Nick Caamano,Markus Granlund,[84.  2.],1,16:46,DAL,EDM,EDM,22,DAL,25,0,0,8479381,8476440.0,2019020301,,2019-11-18,Nick Caamano Tripping against Markus Granlund
+104,penalty,Hooking,Nick Caamano,James Neal,[-88.  26.],2,18:43,DAL,EDM,EDM,22,DAL,25,2,2,8479381,8471707.0,2019020301,,2019-11-18,Nick Caamano Hooking against James Neal
+182,penalty,Boarding,Blake Comeau,Sam Gagner,[72. 41.],2,03:14,DAL,EDM,EDM,22,DAL,25,3,2,8471260,8474040.0,2019020301,,2019-11-18,Blake Comeau Boarding against Sam Gagner
+207,penalty,Hi-sticking,Patrick Russell,Jason Dickinson,[-74.  37.],3,17:32,EDM,DAL,EDM,22,DAL,25,4,2,8479466,8477450.0,2019020301,,2019-11-18,Patrick Russell Hi-sticking against Jason Dickinson
+225,penalty,Tripping,Oscar Klefbom,Alexander Radulov,[-63.  15.],3,13:02,EDM,DAL,EDM,22,DAL,25,4,3,8476472,8471228.0,2019020301,,2019-11-18,Oscar Klefbom Tripping against Alexander Radulov
+38,penalty,Holding,Alexander Edler,Alexander Radulov,[-55.  12.],1,08:55,VAN,DAL,DAL,25,VAN,23,1,0,8471303,8471228.0,2019020327,VAN,2019-11-20,Alexander Edler Holding against Alexander Radulov
+57,penalty,Hooking,Jamie Benn,Alexander Edler,[ 41. -20.],1,04:12,DAL,VAN,DAL,25,VAN,23,1,0,8473994,8471303.0,2019020327,VAN,2019-11-20,Jamie Benn Hooking against Alexander Edler
+80,penalty,Tripping,Jay Beagle,Denis Gurianov,[30. -4.],2,18:08,VAN,DAL,DAL,25,VAN,23,1,0,8474291,8478495.0,2019020327,VAN,2019-11-20,Jay Beagle Tripping against Denis Gurianov
+87,penalty,Tripping,Alexander Radulov,Christopher Tanev,[53. 40.],2,16:26,DAL,VAN,DAL,25,VAN,23,1,0,8471228,8475690.0,2019020327,VAN,2019-11-20,Alexander Radulov Tripping against Christopher Tanev
+91,penalty,Interference - Goalkeeper,Jason Dickinson,Jacob Markstrom,[81.  1.],2,15:42,DAL,VAN,DAL,25,VAN,23,1,0,8477450,8474593.0,2019020327,VAN,2019-11-20,Jason Dickinson Interference - Goalkeeper against Jacob Markstrom
+116,penalty,Interference,Quinn Hughes,Tyler Seguin,[ 49. -35.],2,10:34,VAN,DAL,DAL,25,VAN,23,1,0,8480800,8475794.0,2019020327,VAN,2019-11-20,Quinn Hughes Interference against Tyler Seguin
+139,penalty,Tripping,Radek Faksa,Jordie Benn,[97.  1.],2,04:31,DAL,VAN,DAL,25,VAN,23,3,1,8476889,8474818.0,2019020327,VAN,2019-11-20,Radek Faksa Tripping against Jordie Benn
+233,penalty,Holding,Taylor Fedun,Sven Baertschi,[ 97. -21.],3,01:53,DAL,VAN,DAL,25,VAN,23,6,1,8476166,8476466.0,2019020327,VAN,2019-11-20,Taylor Fedun Holding against Sven Baertschi
+15,penalty,Tripping,Andrew Cogliano,Luca Sbisa,[-92. -11.],1,15:19,DAL,WPG,DAL,25,WPG,52,0,0,8471699,8474579.0,2019020342,,2019-11-22,Andrew Cogliano Tripping against Luca Sbisa
+121,penalty,Missing key [PD_151],Mathieu Perreault,,[-13.  41.],2,10:17,WPG,DAL,DAL,25,WPG,52,2,0,8473618,,2019020342,,2019-11-22,Delaying Game - Unsucc. chlg served by Mathieu Perreault
+152,penalty,Hooking,Mattias Janmark,Nathan Beaulieu,[-82. -19.],2,02:07,DAL,WPG,DAL,25,WPG,52,3,1,8477406,8476470.0,2019020342,,2019-11-22,Mattias Janmark Hooking against Nathan Beaulieu
+180,penalty,Tripping,Nikolaj Ehlers,Andrej Sekera,[98. -6.],3,13:58,WPG,DAL,DAL,25,WPG,52,3,1,8477940,8471284.0,2019020342,,2019-11-22,Nikolaj Ehlers Tripping against Andrej Sekera
+15,penalty,Tripping,Joe Pavelski,Andrew Shaw,[-70. -29.],1,17:03,DAL,CHI,DAL,25,CHI,16,0,0,8470794,8476381.0,2019020359,,2019-11-24,Joe Pavelski Tripping against Andrew Shaw
+120,penalty,Tripping,Blake Comeau,Alex DeBrincat,[ 37. -33.],2,15:50,DAL,CHI,DAL,25,CHI,16,1,1,8471260,8479337.0,2019020359,,2019-11-24,Blake Comeau Tripping against Alex DeBrincat
+160,penalty,Holding,Erik Gustafsson,Alexander Radulov,[ 90. -32.],2,07:04,CHI,DAL,DAL,25,CHI,16,1,1,8476979,8471228.0,2019020359,,2019-11-24,Erik Gustafsson Holding against Alexander Radulov
+180,penalty,Too many men on the ice,Dylan Strome,,[-11.  41.],2,01:14,CHI,DAL,DAL,25,CHI,16,1,1,8478440,,2019020359,,2019-11-24,Too many men/ice served by Dylan Strome
+182,penalty,Roughing,Joe Pavelski,David Kampf,[ 41. -38.],2,01:07,DAL,CHI,DAL,25,CHI,16,1,1,8470794,8480144.0,2019020359,,2019-11-24,Joe Pavelski Roughing against David Kampf
+189,penalty,Holding,Miro Heiskanen,Jonathan Toews,[-83.  -7.],2,00:10,DAL,CHI,DAL,25,CHI,16,1,1,8480036,8473604.0,2019020359,,2019-11-24,Miro Heiskanen Holding against Jonathan Toews
+240,penalty,Delay of game,David Kampf,,[-84.  -1.],3,07:52,CHI,DAL,DAL,25,CHI,16,1,1,8480144,,2019020359,,2019-11-24,David Kampf Delay of game
+285,penalty,Too many men on the ice,Andrew Shaw,,[-59.  -2.],4,02:33,CHI,DAL,DAL,25,CHI,16,1,1,8476381,,2019020359,,2019-11-24,Too many men/ice served by Andrew Shaw
+2,penalty,Tripping,Jon Merrill,Radek Faksa,[-92.  31.],1,19:35,VGK,DAL,DAL,25,VGK,54,0,0,8475750,8476889.0,2019020371,,2019-11-26,Jon Merrill Tripping against Radek Faksa
+41,penalty,Slashing,Jonathan Marchessault,John Klingberg,[-81.  11.],1,10:01,VGK,DAL,DAL,25,VGK,54,0,0,8476539,8475906.0,2019020371,,2019-11-26,Jonathan Marchessault Slashing against John Klingberg
+73,penalty,Hooking,Cody Eakin,Joe Pavelski,[-93. -14.],1,02:42,VGK,DAL,DAL,25,VGK,54,2,0,8475236,8470794.0,2019020371,,2019-11-26,Cody Eakin Hooking against Joe Pavelski
+74,penalty,Holding,Joe Pavelski,Cody Eakin,[-83. -15.],1,02:42,DAL,VGK,DAL,25,VGK,54,2,0,8470794,8475236.0,2019020371,,2019-11-26,Joe Pavelski Holding against Cody Eakin
+95,penalty,Hi-sticking,Tyler Seguin,Max Pacioretty,[ 68. -14.],2,18:52,DAL,VGK,DAL,25,VGK,54,2,0,8475794,8474157.0,2019020371,,2019-11-26,Tyler Seguin Hi-sticking against Max Pacioretty
+113,penalty,Interference,Jamie Oleksiak,Alex Tuch,[-15.  39.],2,15:25,DAL,VGK,DAL,25,VGK,54,2,0,8476467,8477949.0,2019020371,,2019-11-26,Jamie Oleksiak Interference against Alex Tuch
+121,penalty,Delay of game,Roman Polak,,[-97. -21.],2,13:43,DAL,VGK,DAL,25,VGK,54,2,0,8471392,,2019020371,,2019-11-26,Roman Polak Delay of game
+146,penalty,Hi-sticking,Tyler Seguin,Brayden McNabb,[ 98. -19.],2,08:17,DAL,VGK,DAL,25,VGK,54,2,0,8475794,8475188.0,2019020371,,2019-11-26,Tyler Seguin Hi-sticking against Brayden McNabb
+242,penalty,Hooking,Cody Glass,Miro Heiskanen,[47. 28.],3,07:59,VGK,DAL,DAL,25,VGK,54,3,2,8479996,8480036.0,2019020371,,2019-11-26,Cody Glass Hooking against Miro Heiskanen
+78,penalty,Slashing,Ryan Carpenter,Esa Lindell,[72.  2.],1,03:45,CHI,DAL,CHI,16,DAL,25,1,0,8477846,8476902.0,2019020376,,2019-11-27,Ryan Carpenter Slashing against Esa Lindell
+132,penalty,Tripping,Andrew Shaw,Alexander Radulov,[-22.   3.],2,13:28,CHI,DAL,CHI,16,DAL,25,1,0,8476381,8471228.0,2019020376,,2019-11-27,Andrew Shaw Tripping against Alexander Radulov
+243,penalty,Hi-sticking,Alexander Radulov,Jonathan Toews,[74. 32.],3,10:11,DAL,CHI,CHI,16,DAL,25,1,0,8471228,8473604.0,2019020376,,2019-11-27,Alexander Radulov Hi-sticking against Jonathan Toews
+198,penalty,Tripping,Justin Dowling,Vince Dunn,[-28.  31.],2,01:22,DAL,STL,DAL,25,STL,19,0,1,8475413,8478407.0,2019020402,,2019-11-30,Justin Dowling Tripping against Vince Dunn
+271,penalty,Hi-sticking,Roope Hintz,Zach Sanford,[79.  4.],3,05:20,DAL,STL,DAL,25,STL,19,0,1,8478449,8477482.0,2019020402,,2019-11-30,Roope Hintz Hi-sticking against Zach Sanford
+26,penalty,Holding,Jamie Oleksiak,Mats Zuccarello,[-76.  40.],1,11:04,DAL,MIN,MIN,30,DAL,25,0,0,8476467,8475692.0,2019020416,DAL,2019-12-01,Jamie Oleksiak Holding against Mats Zuccarello
+46,penalty,Holding,Ryan Donato,Roope Hintz,[-50.  38.],1,07:07,MIN,DAL,MIN,30,DAL,25,0,0,8477987,8478449.0,2019020416,DAL,2019-12-01,Ryan Donato Holding against Roope Hintz
+80,penalty,Interference,Jason Zucker,Corey Perry,[18. 33.],2,12:15,MIN,DAL,MIN,30,DAL,25,0,0,8475722,8470621.0,2019020416,DAL,2019-12-01,Jason Zucker Interference against Corey Perry
+95,penalty,Interference,Jamie Oleksiak,Jason Zucker,[87.  5.],2,07:29,DAL,MIN,MIN,30,DAL,25,0,0,8476467,8475722.0,2019020416,DAL,2019-12-01,Jamie Oleksiak Interference against Jason Zucker
+101,penalty,Hooking,Ryan Donato,Esa Lindell,[12. 41.],2,06:27,MIN,DAL,MIN,30,DAL,25,1,0,8477987,8476902.0,2019020416,DAL,2019-12-01,Ryan Donato Hooking against Esa Lindell
+189,penalty,Holding,Alexander Radulov,Marcus Foligno,[-72. -34.],3,02:43,DAL,MIN,MIN,30,DAL,25,1,2,8471228,8475220.0,2019020416,DAL,2019-12-01,Alexander Radulov Holding against Marcus Foligno
+15,penalty,Slashing,Alexander Radulov,Mark Scheifele,[-71.  20.],1,17:24,DAL,WPG,WPG,52,DAL,25,0,0,8471228,8476460.0,2019020431,,2019-12-04,Alexander Radulov Slashing against Mark Scheifele
+81,penalty,Holding,Josh Morrissey,Blake Comeau,[-94. -22.],2,17:37,WPG,DAL,WPG,52,DAL,25,1,0,8477504,8471260.0,2019020431,,2019-12-04,Josh Morrissey Holding against Blake Comeau
+143,penalty,Cross checking,Tyler Seguin,Mathieu Perreault,[-32. -37.],2,03:55,DAL,WPG,WPG,52,DAL,25,3,0,8475794,8473618.0,2019020431,,2019-12-04,Tyler Seguin Cross checking against Mathieu Perreault
+147,penalty,Cross checking,Patrik Laine,Blake Comeau,[34. 35.],2,03:21,WPG,DAL,WPG,52,DAL,25,3,0,8479339,8471260.0,2019020431,,2019-12-04,Patrik Laine Cross checking against Blake Comeau
+190,penalty,Slashing,Jamie Benn,Nikolaj Ehlers,[-84.  35.],3,13:18,DAL,WPG,WPG,52,DAL,25,4,1,8473994,8477940.0,2019020431,,2019-12-04,Jamie Benn Slashing against Nikolaj Ehlers
+191,penalty,Fighting,Corey Perry,Adam Lowry,[-79.  37.],3,13:18,DAL,WPG,WPG,52,DAL,25,4,1,8470621,8476392.0,2019020431,,2019-12-04,Corey Perry Fighting against Adam Lowry
+192,penalty,Slashing,Nikolaj Ehlers,Jamie Benn,[-89.  32.],3,13:18,WPG,DAL,WPG,52,DAL,25,4,1,8477940,8473994.0,2019020431,,2019-12-04,Nikolaj Ehlers Slashing against Jamie Benn
+193,penalty,Fighting,Adam Lowry,Corey Perry,[-79.  38.],3,13:18,WPG,DAL,WPG,52,DAL,25,4,1,8476392,8470621.0,2019020431,,2019-12-04,Adam Lowry Fighting against Corey Perry
+197,penalty,Hi-sticking,Denis Gurianov,Patrik Laine,[-68. -38.],3,12:34,DAL,WPG,WPG,52,DAL,25,4,1,8478495,8479339.0,2019020431,,2019-12-04,Denis Gurianov Hi-sticking against Patrik Laine
+201,penalty,Slashing,Kyle Connor,Andrej Sekera,[-84. -23.],3,12:04,WPG,DAL,WPG,52,DAL,25,4,1,8478398,8471284.0,2019020431,,2019-12-04,Kyle Connor Slashing against Andrej Sekera
+46,penalty,Holding,Anthony Bitetto,Andrew Cogliano,[-98.  11.],1,09:50,WPG,DAL,DAL,25,WPG,52,0,0,8475868,8471699.0,2019020445,,2019-12-06,Anthony Bitetto Holding against Andrew Cogliano
+73,penalty,Roughing,Blake Comeau,Mark Scheifele,[-80. -14.],1,03:38,DAL,WPG,DAL,25,WPG,52,0,0,8471260,8476460.0,2019020445,,2019-12-06,Blake Comeau Roughing against Mark Scheifele
+74,penalty,Roughing,Mark Scheifele,Blake Comeau,[-79. -10.],1,03:38,WPG,DAL,DAL,25,WPG,52,0,0,8476460,8471260.0,2019020445,,2019-12-06,Mark Scheifele Roughing against Blake Comeau
+85,penalty,Tripping,Patrik Laine,Miro Heiskanen,[-28. -30.],1,01:57,WPG,DAL,DAL,25,WPG,52,0,0,8479339,8480036.0,2019020445,,2019-12-06,Patrik Laine Tripping against Miro Heiskanen
+114,penalty,Tripping,Blake Comeau,Mark Scheifele,[-16.   3.],2,16:00,DAL,WPG,DAL,25,WPG,52,1,0,8471260,8476460.0,2019020445,,2019-12-06,Blake Comeau Tripping against Mark Scheifele
+154,penalty,Hooking,Mark Scheifele,Jamie Benn,[38. -4.],2,06:23,WPG,DAL,DAL,25,WPG,52,2,0,8476460,8473994.0,2019020445,,2019-12-06,Mark Scheifele Hooking against Jamie Benn
+155,penalty,Unsportsmanlike conduct,Mark Scheifele,Jamie Benn,[42.  1.],2,06:23,WPG,DAL,DAL,25,WPG,52,2,0,8476460,8473994.0,2019020445,,2019-12-06,Mark Scheifele Unsportsmanlike conduct against Jamie Benn
+184,penalty,Tripping,Andrej Sekera,Kyle Connor,[22. -3.],2,01:41,DAL,WPG,DAL,25,WPG,52,2,0,8471284,8478398.0,2019020445,,2019-12-06,Andrej Sekera Tripping against Kyle Connor
+209,penalty,Delaying Game - Puck over glass,Andrej Sekera,,[ 71. -31.],3,16:55,DAL,WPG,DAL,25,WPG,52,2,1,8471284,,2019020445,,2019-12-06,Andrej Sekera Delaying Game - Puck over glass
+288,penalty,Holding the stick,Josh Morrissey,Joe Pavelski,[68. 15.],4,03:29,WPG,DAL,DAL,25,WPG,52,2,2,8477504,8470794.0,2019020445,,2019-12-06,Josh Morrissey Holding the stick against Joe Pavelski
+13,penalty,Hi-sticking,Jamie Oleksiak,Ross Johnston,[93. -7.],1,18:08,DAL,NYI,DAL,25,NYI,2,0,0,8476467,8477527.0,2019020461,,2019-12-08,Jamie Oleksiak Hi-sticking against Ross Johnston
+88,penalty,Hi-sticking,Mathew Barzal,Jamie Oleksiak,[ 89. -32.],1,05:31,NYI,DAL,DAL,25,NYI,2,1,0,8478445,8476467.0,2019020461,,2019-12-08,Mathew Barzal Hi-sticking against Jamie Oleksiak
+125,penalty,Tripping,Mathew Barzal,Roope Hintz,[ 62. -17.],2,18:11,NYI,DAL,DAL,25,NYI,2,2,0,8478445,8478449.0,2019020461,,2019-12-08,Mathew Barzal Tripping against Roope Hintz
+88,penalty,Slashing,Kyle Palmieri,Jamie Benn,[-82.   1.],1,01:10,NJD,DAL,DAL,25,NJD,1,2,0,8475151,8473994.0,2019020478,,2019-12-11,Kyle Palmieri Slashing against Jamie Benn
+168,penalty,Slashing,Jamie Benn,P.K. Subban,[-54.  41.],2,03:56,DAL,NJD,DAL,25,NJD,1,2,0,8473994,8474056.0,2019020478,,2019-12-11,Jamie Benn Slashing against P.K. Subban
+185,penalty,Roughing,P.K. Subban,Jamie Benn,[ 36. -17.],3,19:13,NJD,DAL,DAL,25,NJD,1,2,0,8474056,8473994.0,2019020478,,2019-12-11,P.K. Subban Roughing against Jamie Benn
+194,penalty,Charging,P.K. Subban,Miro Heiskanen,[-97. -26.],3,17:03,NJD,DAL,DAL,25,NJD,1,2,0,8474056,8480036.0,2019020478,,2019-12-11,P.K. Subban Charging against Miro Heiskanen
+218,penalty,Interference,Miro Heiskanen,Kyle Palmieri,[ 56. -31.],3,11:24,DAL,NJD,DAL,25,NJD,1,2,0,8480036,8475151.0,2019020478,,2019-12-11,Miro Heiskanen Interference against Kyle Palmieri
+230,penalty,Tripping,Taylor Hall,Blake Comeau,[ 32. -40.],3,09:06,NJD,DAL,DAL,25,NJD,1,2,0,8475791,8471260.0,2019020478,,2019-12-11,Taylor Hall Tripping against Blake Comeau
+239,penalty,Hooking,Blake Comeau,Taylor Hall,[64. 39.],3,06:51,DAL,NJD,DAL,25,NJD,1,2,0,8471260,8475791.0,2019020478,,2019-12-11,Blake Comeau Hooking against Taylor Hall
+259,penalty,Tripping,Sami Vatanen,Andrew Cogliano,[-29. -22.],3,01:14,NJD,DAL,DAL,25,NJD,1,2,0,8475222,8471699.0,2019020478,,2019-12-11,Sami Vatanen Tripping against Andrew Cogliano
+152,penalty,Hooking,Blake Comeau,Nick Holden,[59. 26.],2,07:56,DAL,VGK,DAL,25,VGK,54,1,1,8471260,8474207.0,2019020499,,2019-12-14,Blake Comeau Hooking against Nick Holden
+183,penalty,Hooking,Shea Theodore,Corey Perry,[77.  4.],2,01:41,VGK,DAL,DAL,25,VGK,54,1,2,8477447,8470621.0,2019020499,,2019-12-14,Shea Theodore Hooking against Corey Perry
+214,penalty,Tripping,Reilly Smith,Blake Comeau,[-65. -37.],3,12:47,VGK,DAL,DAL,25,VGK,54,1,2,8475191,8471260.0,2019020499,,2019-12-14,Reilly Smith Tripping against Blake Comeau
+229,penalty,Holding,Taylor Fedun,Max Pacioretty,[ 33. -37.],3,10:27,DAL,VGK,DAL,25,VGK,54,1,2,8476166,8474157.0,2019020499,,2019-12-14,Taylor Fedun Holding against Max Pacioretty
+33,penalty,Hi-sticking,Craig Smith,Esa Lindell,[94. 17.],1,11:11,NSH,DAL,NSH,18,DAL,25,0,0,8475225,8476902.0,2019020505,,2019-12-15,Craig Smith Hi-sticking against Esa Lindell
+54,penalty,Slashing,Matt Irwin,Corey Perry,[-72. -11.],1,05:14,NSH,DAL,NSH,18,DAL,25,0,0,8475625,8470621.0,2019020505,,2019-12-15,Matt Irwin Slashing against Corey Perry
+95,penalty,Illegal check to head,Andrew Cogliano,Matt Irwin,[ 80. -36.],2,16:27,DAL,NSH,NSH,18,DAL,25,1,0,8471699,8475625.0,2019020505,,2019-12-15,Andrew Cogliano Illegal check to head against Matt Irwin
+212,penalty,Interference - Goalkeeper,Andrew Cogliano,Pekka Rinne,[-97.  -3.],3,09:20,DAL,NSH,NSH,18,DAL,25,1,4,8471699,8471469.0,2019020505,,2019-12-15,Andrew Cogliano Interference - Goalkeeper against Pekka Rinne
+235,penalty,Interference,Jamie Oleksiak,Calle Jarnkrok,[ 83. -32.],3,03:52,DAL,NSH,NSH,18,DAL,25,1,4,8476467,8475714.0,2019020505,,2019-12-15,Jamie Oleksiak Interference against Calle Jarnkrok
+7,penalty,Tripping,Andrew Cogliano,Ethan Bear,[-96.  11.],1,18:50,DAL,EDM,DAL,25,EDM,22,0,0,8471699,8478451.0,2019020523,,2019-12-17,Andrew Cogliano Tripping against Ethan Bear
+55,penalty,Hooking,Jamie Benn,Caleb Jones,[ 81. -13.],1,06:06,DAL,EDM,DAL,25,EDM,22,0,1,8473994,8478452.0,2019020523,,2019-12-17,Jamie Benn Hooking against Caleb Jones
+80,penalty,Tripping,Blake Comeau,Adam Larsson,[45. 40.],1,01:48,DAL,EDM,DAL,25,EDM,22,0,2,8471260,8476457.0,2019020523,,2019-12-17,Blake Comeau Tripping against Adam Larsson
+85,penalty,Tripping,Joakim Nygard,Roman Polak,[52. 40.],1,00:24,EDM,DAL,DAL,25,EDM,22,0,2,8481638,8471392.0,2019020523,,2019-12-17,Joakim Nygard Tripping against Roman Polak
+94,penalty,Tripping,Blake Comeau,Zack Kassian,[73. 40.],2,17:36,DAL,EDM,DAL,25,EDM,22,0,2,8471260,8475178.0,2019020523,,2019-12-17,Blake Comeau Tripping against Zack Kassian
+126,penalty,Tripping,Jamie Oleksiak,Josh Archibald,[-46. -38.],2,10:02,DAL,EDM,DAL,25,EDM,22,0,2,8476467,8476326.0,2019020523,,2019-12-17,Jamie Oleksiak Tripping against Josh Archibald
+132,penalty,Tripping,Ryan Nugent-Hopkins,Blake Comeau,[-34. -38.],2,08:51,EDM,DAL,DAL,25,EDM,22,0,2,8476454,8471260.0,2019020523,,2019-12-17,Ryan Nugent-Hopkins Tripping against Blake Comeau
+192,penalty,Tripping,Andrej Sekera,Ryan Nugent-Hopkins,[34. -7.],3,12:05,DAL,EDM,DAL,25,EDM,22,0,2,8471284,8476454.0,2019020523,,2019-12-17,Andrej Sekera Tripping against Ryan Nugent-Hopkins
+215,penalty,Interference,Caleb Jones,Joe Pavelski,[-80.  -6.],3,07:49,EDM,DAL,DAL,25,EDM,22,0,2,8478452,8470794.0,2019020523,,2019-12-17,Caleb Jones Interference against Joe Pavelski
+26,penalty,Tripping,Carter Verhaeghe,Jason Dickinson,[58. -6.],1,16:43,TBL,DAL,TBL,14,DAL,25,0,0,8477409,8477450.0,2019020539,,2019-12-20,Carter Verhaeghe Tripping against Jason Dickinson
+45,penalty,Tripping,Roope Hintz,Jan Rutta,[-62.  20.],1,11:32,DAL,TBL,TBL,14,DAL,25,0,1,8478449,8480172.0,2019020539,,2019-12-20,Roope Hintz Tripping against Jan Rutta
+56,penalty,Hooking,Alexander Radulov,Brayden Point,[57. -5.],1,08:49,DAL,TBL,TBL,14,DAL,25,0,1,8471228,8478010.0,2019020539,,2019-12-20,Alexander Radulov Hooking against Brayden Point
+71,penalty,Too many men on the ice,Alexander Radulov,,[14. 35.],1,04:59,DAL,TBL,TBL,14,DAL,25,1,1,8471228,,2019020539,,2019-12-20,Too many men/ice served by Alexander Radulov
+223,penalty,Roughing,Radek Faksa,Yanni Gourde,[81. -3.],3,07:52,DAL,TBL,TBL,14,DAL,25,3,2,8476889,8476826.0,2019020539,,2019-12-20,Radek Faksa Roughing against Yanni Gourde
+224,penalty,Roughing,Yanni Gourde,Radek Faksa,[80.  0.],3,07:52,TBL,DAL,TBL,14,DAL,25,3,2,8476826,8476889.0,2019020539,,2019-12-20,Yanni Gourde Roughing against Radek Faksa
+18,penalty,Slashing,Jason Dickinson,Frank Vatrano,[-62.  -3.],1,15:59,DAL,FLA,FLA,13,DAL,25,0,0,8477450,8478366.0,2019020548,,2019-12-21,Jason Dickinson Slashing against Frank Vatrano
+140,penalty,Interference,Brett Connolly,Roope Hintz,[-35. -40.],2,09:07,FLA,DAL,FLA,13,DAL,25,6,1,8475792,8478449.0,2019020548,,2019-12-21,Brett Connolly Interference against Roope Hintz
+143,penalty,PS - Hooking on breakaway,John Klingberg,Noel Acciari,[64.  1.],2,08:35,DAL,FLA,FLA,13,DAL,25,6,1,8475906,8478569.0,2019020548,,2019-12-21,John Klingberg PS - Hooking on breakaway against Noel Acciari
+162,penalty,Tripping,Keith Yandle,Tyler Seguin,[-91.  30.],2,04:36,FLA,DAL,FLA,13,DAL,25,7,1,8471735,8475794.0,2019020548,,2019-12-21,Keith Yandle Tripping against Tyler Seguin
+176,penalty,Holding,Andrej Sekera,Evgenii Dadonov,[82.  2.],2,01:56,DAL,FLA,FLA,13,DAL,25,7,2,8471284,8474149.0,2019020548,,2019-12-21,Andrej Sekera Holding against Evgenii Dadonov
+200,penalty,Cross checking,Corey Perry,Mike Hoffman,[-64. -29.],3,17:42,DAL,FLA,FLA,13,DAL,25,7,2,8470621,8474884.0,2019020548,,2019-12-21,Corey Perry Cross checking against Mike Hoffman
+204,penalty,Tripping,Jonathan Huberdeau,Miro Heiskanen,[-71. -37.],3,17:33,FLA,DAL,FLA,13,DAL,25,7,2,8476456,8480036.0,2019020548,,2019-12-21,Jonathan Huberdeau Tripping against Miro Heiskanen
+242,penalty,Tripping,Corey Perry,Aaron Ekblad,[96.  7.],3,09:25,DAL,FLA,FLA,13,DAL,25,7,3,8470621,8477932.0,2019020548,,2019-12-21,Corey Perry Tripping against Aaron Ekblad
+51,penalty,Slashing,Sam Bennett,Roope Hintz,[-66. -24.],1,06:37,CGY,DAL,DAL,25,CGY,20,1,1,8477935,8478449.0,2019020567,,2019-12-23,Sam Bennett Slashing against Roope Hintz
+59,penalty,Interference,Radek Faksa,Noah Hanifin,[-25.  19.],1,05:21,DAL,CGY,DAL,25,CGY,20,1,1,8476889,8478396.0,2019020567,,2019-12-23,Radek Faksa Interference against Noah Hanifin
+124,penalty,Hooking,Corey Perry,Travis Hamonic,[97.  8.],2,08:38,DAL,CGY,DAL,25,CGY,20,1,1,8470621,8474612.0,2019020567,,2019-12-23,Corey Perry Hooking against Travis Hamonic
+138,penalty,Hooking,Jamie Benn,Zac Rinaldo,[-95. -10.],2,06:00,DAL,CGY,DAL,25,CGY,20,1,2,8473994,8474736.0,2019020567,,2019-12-23,Jamie Benn Hooking against Zac Rinaldo
+182,penalty,Hooking,TJ Brodie,Denis Gurianov,[-76.  -7.],3,17:08,CGY,DAL,DAL,25,CGY,20,1,3,8474673,8478495.0,2019020567,,2019-12-23,TJ Brodie Hooking against Denis Gurianov
+207,penalty,Roughing,Rasmus Andersson,Radek Faksa,[-74.  -3.],3,10:50,CGY,DAL,DAL,25,CGY,20,1,3,8478397,8476889.0,2019020567,,2019-12-23,Rasmus Andersson Roughing against Radek Faksa
+208,penalty,Misconduct,Rasmus Andersson,,[71.  6.],3,10:50,CGY,DAL,DAL,25,CGY,20,1,3,8478397,,2019020567,,2019-12-23,Rasmus Andersson Misconduct
+209,penalty,Slashing,Andrew Cogliano,David Rittich,[-77.  -7.],3,10:50,DAL,CGY,DAL,25,CGY,20,1,3,8471699,8479496.0,2019020567,,2019-12-23,Andrew Cogliano Slashing against David Rittich
+210,penalty,Roughing,Radek Faksa,Rasmus Andersson,[-76.  -6.],3,10:50,DAL,CGY,DAL,25,CGY,20,1,3,8476889,8478397.0,2019020567,,2019-12-23,Radek Faksa Roughing against Rasmus Andersson
+215,penalty,Missing key [PD_151],Denis Gurianov,,[13. 41.],3,09:39,DAL,CGY,DAL,25,CGY,20,1,4,8478495,,2019020567,,2019-12-23,Delaying Game - Unsucc. chlg served by Denis Gurianov
+239,penalty,Delaying Game - Puck over glass,Zac Rinaldo,,[-94.  12.],3,03:34,CGY,DAL,DAL,25,CGY,20,1,4,8474736,,2019020567,,2019-12-23,Zac Rinaldo Delaying Game - Puck over glass
+63,penalty,Tripping,Alexander Radulov,Valeri Nichushkin,[98.  3.],1,06:01,DAL,COL,DAL,25,COL,21,1,0,8471228,8477501.0,2019020598,,2019-12-29,Alexander Radulov Tripping against Valeri Nichushkin
+99,penalty,Holding,Andre Burakovsky,Esa Lindell,[ 80. -36.],2,17:14,COL,DAL,DAL,25,COL,21,1,1,8477444,8476902.0,2019020598,,2019-12-29,Andre Burakovsky Holding against Esa Lindell
+163,penalty,Interference,Corey Perry,Joonas Donskoi,[-78. -16.],2,06:03,DAL,COL,DAL,25,COL,21,1,2,8470621,8475820.0,2019020598,,2019-12-29,Corey Perry Interference against Joonas Donskoi
+166,penalty,Tripping,Blake Comeau,Mikko Rantanen,[-3. 16.],2,05:35,DAL,COL,DAL,25,COL,21,1,2,8471260,8478420.0,2019020598,,2019-12-29,Blake Comeau Tripping against Mikko Rantanen
+172,penalty,Tripping,Gabriel Landeskog,Joe Pavelski,[91.  7.],2,04:18,COL,DAL,DAL,25,COL,21,1,2,8476455,8470794.0,2019020598,,2019-12-29,Gabriel Landeskog Tripping against Joe Pavelski
+189,penalty,Delaying Game - Puck over glass,Cale Makar,,[ 49. -34.],2,00:08,COL,DAL,DAL,25,COL,21,1,2,8480069,,2019020598,,2019-12-29,Cale Makar Delaying Game - Puck over glass
+210,penalty,Delaying Game - Puck over glass,Nikita Zadorov,,[-85. -17.],3,15:36,COL,DAL,DAL,25,COL,21,2,2,8477507,,2019020598,,2019-12-29,Nikita Zadorov Delaying Game - Puck over glass
+296,penalty,Tripping,Nathan MacKinnon,John Klingberg,[90. 32.],4,02:13,COL,DAL,DAL,25,COL,21,2,2,8477492,8475906.0,2019020598,,2019-12-29,Nathan MacKinnon Tripping against John Klingberg
+54,penalty,Interference,Oliver Ekman-Larsson,Jamie Benn,[ 57. -27.],1,10:12,ARI,DAL,ARI,53,DAL,25,1,0,8475171,8473994.0,2019020609,,2019-12-30,Oliver Ekman-Larsson Interference against Jamie Benn
+82,penalty,Cross checking,Corey Perry,Taylor Hall,[78.  0.],1,04:03,DAL,ARI,ARI,53,DAL,25,1,0,8470621,8475791.0,2019020609,,2019-12-30,Corey Perry Cross checking against Taylor Hall
+95,penalty,Delaying Game - Puck over glass,Esa Lindell,,[-15. -40.],1,00:24,DAL,ARI,ARI,53,DAL,25,2,0,8476902,,2019020609,,2019-12-30,Esa Lindell Delaying Game - Puck over glass
+108,penalty,Interference,Jamie Oleksiak,Derek Stepan,[-92. -21.],2,17:17,DAL,ARI,ARI,53,DAL,25,2,0,8476467,8474613.0,2019020609,,2019-12-30,Jamie Oleksiak Interference against Derek Stepan
+174,penalty,Roughing,Jason Demers,Alexander Radulov,[83.  5.],2,04:02,ARI,DAL,ARI,53,DAL,25,2,0,8474218,8471228.0,2019020609,,2019-12-30,Jason Demers Roughing against Alexander Radulov
+208,penalty,Slashing,Phil Kessel,Andrej Sekera,[ 40. -37.],3,16:05,ARI,DAL,ARI,53,DAL,25,2,1,8473548,8471284.0,2019020609,,2019-12-30,Phil Kessel Slashing against Andrej Sekera
+273,penalty,Roughing,Blake Comeau,Oliver Ekman-Larsson,[53. 39.],3,00:11,DAL,ARI,ARI,53,DAL,25,2,4,8471260,8475171.0,2019020609,,2019-12-30,Blake Comeau Roughing against Oliver Ekman-Larsson
+274,penalty,Roughing,Jamie Benn,Oliver Ekman-Larsson,[61. 36.],3,00:11,DAL,ARI,ARI,53,DAL,25,2,4,8473994,8475171.0,2019020609,,2019-12-30,Jamie Benn Roughing against Oliver Ekman-Larsson
+275,penalty,Roughing,Oliver Ekman-Larsson,Jamie Benn,[41. 39.],3,00:11,ARI,DAL,ARI,53,DAL,25,2,4,8475171,8473994.0,2019020609,,2019-12-30,Oliver Ekman-Larsson Roughing against Jamie Benn
+17,penalty,Elbowing,Corey Perry,Alexander Radulov,[39. -3.],1,17:16,DAL,NSH,DAL,25,NSH,18,0,0,8470621,8471228.0,2019020626,,2020-01-02,Corey Perry Elbowing against Ryan Ellis served by Alexander Radulov
+18,penalty,Game misconduct,Corey Perry,Ryan Ellis,[34. -5.],1,17:16,DAL,NSH,DAL,25,NSH,18,0,0,8470621,8475176.0,2019020626,,2020-01-02,Corey Perry Game misconduct against Ryan Ellis
+24,penalty,Delaying Game - Puck over glass,Blake Comeau,,[76. 39.],1,15:38,DAL,NSH,DAL,25,NSH,18,0,0,8471260,,2019020626,,2020-01-02,Blake Comeau Delaying Game - Puck over glass
+42,penalty,PS - Tripping on breakaway,Matt Irwin,Denis Gurianov,[-61.  -5.],1,11:22,NSH,DAL,DAL,25,NSH,18,0,2,8475625,8478495.0,2019020626,,2020-01-02,Matt Irwin PS - Tripping on breakaway against Denis Gurianov
+58,penalty,Roughing,Radek Faksa,Colin Blackwell,[-54. -39.],1,08:33,DAL,NSH,DAL,25,NSH,18,0,2,8476889,8476278.0,2019020626,,2020-01-02,Radek Faksa Roughing against Colin Blackwell
+59,penalty,Roughing,Colin Blackwell,Radek Faksa,[-60. -39.],1,08:33,NSH,DAL,DAL,25,NSH,18,0,2,8476278,8476889.0,2019020626,,2020-01-02,Colin Blackwell Roughing against Radek Faksa
+155,penalty,Boarding,Tyler Seguin,Austin Watson,[ 20. -38.],2,09:00,DAL,NSH,DAL,25,NSH,18,0,2,8475794,8475766.0,2019020626,,2020-01-02,Tyler Seguin Boarding against Austin Watson
+187,penalty,Cross checking,Roman Josi,Joe Pavelski,[ 98. -15.],2,03:16,NSH,DAL,DAL,25,NSH,18,0,2,8474600,8470794.0,2019020626,,2020-01-02,Roman Josi Cross checking against Joe Pavelski
+200,penalty,Delaying Game - Puck over glass,Colin Blackwell,,[ 45. -40.],2,00:49,NSH,DAL,DAL,25,NSH,18,1,2,8476278,,2019020626,,2020-01-02,Colin Blackwell Delaying Game - Puck over glass
+231,penalty,Hooking,Ryan Johansen,Miro Heiskanen,[-78.  39.],3,16:18,NSH,DAL,DAL,25,NSH,18,2,2,8475793,8480036.0,2019020626,,2020-01-02,Ryan Johansen Hooking against Miro Heiskanen
+35,penalty,Hi stick - double minor,Radek Faksa,Madison Bowey,[-69. -14.],1,12:32,DAL,DET,DAL,25,DET,17,0,1,8476889,8477474.0,2019020640,,2020-01-04,Radek Faksa Hi stick - double minor against Madison Bowey
+51,penalty,Too many men on the ice,Givani Smith,,[-13.  41.],1,08:06,DET,DAL,DAL,25,DET,17,1,1,8479379,,2019020640,,2020-01-04,Too many men/ice served by Givani Smith
+73,penalty,Slashing,Brian Lashoff,Joe Pavelski,[-96.  -3.],1,02:50,DET,DAL,DAL,25,DET,17,1,1,8474873,8470794.0,2019020640,,2020-01-04,Brian Lashoff Slashing against Joe Pavelski
+88,penalty,Holding,Madison Bowey,Roope Hintz,[95.  5.],2,18:46,DET,DAL,DAL,25,DET,17,1,1,8477474,8478449.0,2019020640,,2020-01-04,Madison Bowey Holding against Roope Hintz
+99,penalty,Hooking,Alexander Radulov,Patrik Nemeth,[98.  6.],2,17:19,DAL,DET,DAL,25,DET,17,2,1,8471228,8475747.0,2019020640,,2020-01-04,Alexander Radulov Hooking against Patrik Nemeth
+106,penalty,Tripping,Joe Pavelski,Luke Glendening,[-98.   4.],2,14:10,DAL,DET,DAL,25,DET,17,2,1,8470794,8476822.0,2019020640,,2020-01-04,Joe Pavelski Tripping against Luke Glendening
+185,penalty,Tripping,Jonathan Bernier,Filip Zadina,[-76.  -3.],3,11:22,DET,DAL,DAL,25,DET,17,3,1,8473541,8480821.0,2019020640,,2020-01-04,Jonathan Bernier Tripping against Jamie Benn served by Filip Zadina
+214,penalty,Delaying Game - Puck over glass,Roman Polak,,[60. 38.],3,03:15,DAL,DET,DAL,25,DET,17,3,1,8471392,,2019020640,,2020-01-04,Roman Polak Delaying Game - Puck over glass
+23,penalty,Tripping,Mattias Janmark,Trevor Lewis,[11. 39.],1,12:00,DAL,LAK,LAK,26,DAL,25,1,0,8477406,8473453.0,2019020677,,2020-01-09,Mattias Janmark Tripping against Trevor Lewis
+54,penalty,Tripping,Austin Wagner,Roope Hintz,[-51. -30.],1,01:42,LAK,DAL,LAK,26,DAL,25,1,0,8478455,8478449.0,2019020677,,2020-01-09,Austin Wagner Tripping against Roope Hintz
+116,penalty,Slashing,Drew Doughty,Jamie Benn,[-79. -15.],2,06:45,LAK,DAL,LAK,26,DAL,25,1,0,8474563,8473994.0,2019020677,,2020-01-09,Drew Doughty Slashing against Jamie Benn
+182,penalty,Holding,Roman Polak,Anze Kopitar,[-77.   0.],3,10:09,DAL,LAK,LAK,26,DAL,25,1,2,8471392,8471685.0,2019020677,,2020-01-09,Roman Polak Holding against Anze Kopitar
+35,penalty,Hi-sticking,Hampus Lindholm,Jamie Benn,[67. 34.],1,10:31,ANA,DAL,ANA,24,DAL,25,0,0,8476854,8473994.0,2019020687,,2020-01-10,Hampus Lindholm Hi-sticking against Jamie Benn
+84,penalty,Interference,Ryan Getzlaf,Tyler Seguin,[ 10. -40.],2,18:25,ANA,DAL,ANA,24,DAL,25,0,1,8470612,8475794.0,2019020687,,2020-01-10,Ryan Getzlaf Interference against Tyler Seguin
+96,penalty,Hi-sticking,Max Jones,Jason Dickinson,[-82.   3.],2,16:07,ANA,DAL,ANA,24,DAL,25,0,1,8479368,8477450.0,2019020687,,2020-01-10,Max Jones Hi-sticking against Jason Dickinson
+105,penalty,Fighting,Jamie Oleksiak,Nicolas Deslauriers,[ 20. -17.],2,14:46,DAL,ANA,ANA,24,DAL,25,0,2,8476467,8475235.0,2019020687,,2020-01-10,Jamie Oleksiak Fighting against Nicolas Deslauriers
+106,penalty,Fighting,Nicolas Deslauriers,Jamie Oleksiak,[ 18. -24.],2,14:46,ANA,DAL,ANA,24,DAL,25,0,2,8475235,8476467.0,2019020687,,2020-01-10,Nicolas Deslauriers Fighting against Jamie Oleksiak
+127,penalty,Hi-sticking,Roman Polak,Ryan Getzlaf,[ 17. -40.],2,11:19,DAL,ANA,ANA,24,DAL,25,0,2,8471392,8470612.0,2019020687,,2020-01-10,Roman Polak Hi-sticking against Ryan Getzlaf
+139,penalty,Tripping,Blake Comeau,Ondrej Kase,[55. 21.],2,06:37,DAL,ANA,ANA,24,DAL,25,0,2,8471260,8478131.0,2019020687,,2020-01-10,Blake Comeau Tripping against Ondrej Kase
+194,penalty,Roughing,Radek Faksa,Max Jones,[90. -7.],3,13:30,DAL,ANA,ANA,24,DAL,25,0,2,8476889,8479368.0,2019020687,,2020-01-10,Radek Faksa Roughing against Max Jones
+195,penalty,Roughing,Max Jones,Radek Faksa,[ 90. -12.],3,13:30,ANA,DAL,ANA,24,DAL,25,0,2,8479368,8476889.0,2019020687,,2020-01-10,Max Jones Roughing against Radek Faksa
+4,penalty,Hi-sticking,Evander Kane,Jamie Oleksiak,[ 39. -37.],1,19:08,SJS,DAL,SJS,28,DAL,25,0,0,8475169,8476467.0,2019020702,,2020-01-12,Evander Kane Hi-sticking against Jamie Oleksiak
+86,penalty,Hooking,Tyler Seguin,Evander Kane,[-48. -29.],2,19:08,DAL,SJS,SJS,28,DAL,25,1,1,8475794,8475169.0,2019020702,,2020-01-12,Tyler Seguin Hooking against Evander Kane
+135,penalty,Hooking,Radek Faksa,Erik Karlsson,[ 62. -28.],2,08:29,DAL,SJS,SJS,28,DAL,25,2,1,8476889,8474578.0,2019020702,,2020-01-12,Radek Faksa Hooking against Erik Karlsson
+211,penalty,Interference,Brenden Dillon,Jason Dickinson,[-30.  20.],3,07:23,SJS,DAL,SJS,28,DAL,25,2,1,8475455,8477450.0,2019020702,,2020-01-12,Brenden Dillon Interference against Jason Dickinson
+97,penalty,Tripping,Tyson Jost,John Klingberg,[-27.   1.],2,15:26,COL,DAL,COL,21,DAL,25,2,0,8479370,8475906.0,2019020722,,2020-01-17,Tyson Jost Tripping against John Klingberg
+112,penalty,Tripping,Mikko Rantanen,John Klingberg,[-67.  41.],2,11:44,COL,DAL,COL,21,DAL,25,2,0,8478420,8475906.0,2019020722,,2020-01-17,Mikko Rantanen Tripping against John Klingberg
+137,penalty,Tripping,Roman Polak,Pierre-Edouard Bellemare,[85. 36.],2,06:39,DAL,COL,COL,21,DAL,25,2,1,8471392,8477930.0,2019020722,,2020-01-17,Roman Polak Tripping against Pierre-Edouard Bellemare
+167,penalty,Delaying Game - Puck over glass,Erik Johnson,,[ 81. -39.],3,18:32,COL,DAL,COL,21,DAL,25,2,1,8473446,,2019020722,,2020-01-17,Erik Johnson Delaying Game - Puck over glass
+169,penalty,Interference,Jamie Benn,Matt Calvert,[61. -6.],3,18:28,DAL,COL,COL,21,DAL,25,2,1,8473994,8474685.0,2019020722,,2020-01-17,Jamie Benn Interference against Matt Calvert
+183,penalty,Fighting,Matt Calvert,Jamie Benn,[70. -5.],3,16:04,COL,DAL,COL,21,DAL,25,2,1,8474685,8473994.0,2019020722,,2020-01-17,Matt Calvert Fighting against Jamie Benn
+184,penalty,Fighting,Jamie Benn,Matt Calvert,[69. -4.],3,16:04,DAL,COL,COL,21,DAL,25,2,1,8473994,8474685.0,2019020722,,2020-01-17,Jamie Benn Fighting against Matt Calvert
+12,penalty,Tripping,Jack Eichel,Jamie Benn,[-80.   1.],1,18:56,BUF,DAL,DAL,25,BUF,7,0,0,8478403,8473994.0,2019020737,,2020-01-17,Jack Eichel Tripping against Jamie Benn
+38,penalty,Hi-sticking,Esa Lindell,Kyle Okposo,[-57. -38.],1,11:34,DAL,BUF,DAL,25,BUF,7,0,1,8476902,8473449.0,2019020737,,2020-01-17,Esa Lindell Hi-sticking against Kyle Okposo
+124,penalty,Tripping,Joel Kiviranta,Jake McCabe,[ 98. -18.],2,11:56,DAL,BUF,DAL,25,BUF,7,1,1,8481641,8476931.0,2019020737,,2020-01-17,Joel Kiviranta Tripping against Jake McCabe
+126,penalty,Hooking,Rasmus Dahlin,Blake Comeau,[50. -2.],2,11:00,BUF,DAL,DAL,25,BUF,7,1,1,8480839,8471260.0,2019020737,,2020-01-17,Rasmus Dahlin Hooking against Blake Comeau
+169,penalty,Hooking,Rasmus Ristolainen,Jamie Benn,[97.  7.],2,02:16,BUF,DAL,DAL,25,BUF,7,1,2,8477499,8473994.0,2019020737,,2020-01-17,Rasmus Ristolainen Hooking against Jamie Benn
+242,penalty,Interference,Lawrence Pilut,Andrew Cogliano,[-44.  -7.],3,03:35,BUF,DAL,DAL,25,BUF,7,1,2,8480935,8471699.0,2019020737,,2020-01-17,Lawrence Pilut Interference against Andrew Cogliano
+23,penalty,Interference,Stephen Johns,Marcus Foligno,[-97.   2.],1,15:09,DAL,MIN,MIN,30,DAL,25,0,0,8475730,8475220.0,2019020753,,2020-01-19,Stephen Johns Interference against Marcus Foligno
+24,penalty,Roughing,Luke Kunin,Mattias Janmark,[-4. 42.],1,15:09,MIN,DAL,MIN,30,DAL,25,0,0,8479316,8477406.0,2019020753,,2020-01-19,Luke Kunin Roughing against Mattias Janmark
+93,penalty,Slashing,Alexander Radulov,Victor Rask,[50. 29.],2,18:01,DAL,MIN,MIN,30,DAL,25,2,0,8471228,8476437.0,2019020753,,2020-01-19,Alexander Radulov Slashing against Victor Rask
+124,penalty,Roughing,Corey Perry,Mats Zuccarello,[-82.   7.],2,10:52,DAL,MIN,MIN,30,DAL,25,4,0,8470621,8475692.0,2019020753,,2020-01-19,Corey Perry Roughing against Mats Zuccarello
+125,penalty,Roughing,Mats Zuccarello,Corey Perry,[-84.   8.],2,10:52,MIN,DAL,MIN,30,DAL,25,4,0,8475692,8470621.0,2019020753,,2020-01-19,Mats Zuccarello Roughing against Corey Perry
+140,penalty,Tripping,Jordan Greenway,Roope Hintz,[ 30. -26.],2,04:12,MIN,DAL,MIN,30,DAL,25,4,0,8478413,8478449.0,2019020753,,2020-01-19,Jordan Greenway Tripping against Roope Hintz
+195,penalty,Interference,Jason Dickinson,Kevin Fiala,[ 74. -40.],3,07:18,DAL,MIN,MIN,30,DAL,25,5,0,8477450,8477942.0,2019020753,,2020-01-19,Jason Dickinson Interference against Kevin Fiala
+208,penalty,Roughing,Luke Kunin,Corey Perry,[90. 11.],3,04:54,MIN,DAL,MIN,30,DAL,25,6,0,8479316,8470621.0,2019020753,,2020-01-19,Luke Kunin Roughing against Corey Perry
+209,penalty,Roughing,Corey Perry,Luke Kunin,[99. 10.],3,04:54,DAL,MIN,MIN,30,DAL,25,6,0,8470621,8479316.0,2019020753,,2020-01-19,Corey Perry Roughing against Luke Kunin
+210,penalty,Roughing,Corey Perry,Denis Gurianov,[98. 14.],3,04:54,DAL,MIN,MIN,30,DAL,25,6,0,8470621,8478495.0,2019020753,,2020-01-19,Corey Perry Roughing against Luke Kunin served by Denis Gurianov
+211,penalty,Misconduct,Corey Perry,,[98. 14.],3,04:54,DAL,MIN,MIN,30,DAL,25,6,0,8470621,,2019020753,,2020-01-19,Corey Perry Misconduct
+212,penalty,Misconduct,Luke Kunin,Corey Perry,[91. 11.],3,04:54,MIN,DAL,MIN,30,DAL,25,6,0,8479316,8470621.0,2019020753,,2020-01-19,Luke Kunin Misconduct against Corey Perry
+17,penalty,Tripping,Cedric Paquette,Jason Dickinson,[-61.  -1.],1,13:43,TBL,DAL,DAL,25,TBL,14,0,0,8476975,8477450.0,2019020771,,2020-01-28,Cedric Paquette Tripping against Jason Dickinson
+31,penalty,Tripping,Tyler Johnson,Andrew Cogliano,[-97.   0.],1,09:04,TBL,DAL,DAL,25,TBL,14,0,0,8474870,8471699.0,2019020771,,2020-01-28,Tyler Johnson Tripping against Andrew Cogliano
+62,penalty,Hooking,Mattias Janmark,Carter Verhaeghe,[79. -6.],1,03:18,DAL,TBL,DAL,25,TBL,14,0,0,8477406,8477409.0,2019020771,,2020-01-28,Mattias Janmark Hooking against Carter Verhaeghe
+67,penalty,Hooking,Nikita Kucherov,Blake Comeau,[ 96. -20.],1,02:28,TBL,DAL,DAL,25,TBL,14,0,0,8476453,8471260.0,2019020771,,2020-01-28,Nikita Kucherov Hooking against Blake Comeau
+77,penalty,Hooking,Joe Pavelski,Ryan McDonagh,[-93.   6.],1,00:41,DAL,TBL,DAL,25,TBL,14,0,0,8470794,8474151.0,2019020771,,2020-01-28,Joe Pavelski Hooking against Ryan McDonagh
+131,penalty,Tripping,Pat Maroon,John Klingberg,[11. 40.],2,09:08,TBL,DAL,DAL,25,TBL,14,0,0,8474034,8475906.0,2019020771,,2020-01-28,Pat Maroon Tripping against John Klingberg
+145,penalty,Interference - Goalkeeper,Corey Perry,Andrei Vasilevskiy,[81.  0.],2,04:49,DAL,TBL,DAL,25,TBL,14,0,1,8470621,8476883.0,2019020771,,2020-01-28,Corey Perry Interference - Goalkeeper against Andrei Vasilevskiy
+235,penalty,Tripping,Joe Pavelski,Kevin Shattenkirk,[-98.  -2.],3,04:48,DAL,TBL,DAL,25,TBL,14,2,1,8470794,8474031.0,2019020771,,2020-01-28,Joe Pavelski Tripping against Kevin Shattenkirk
+122,penalty,Roughing,Cody Ceci,Blake Comeau,[94. 20.],2,15:06,TOR,DAL,DAL,25,TOR,10,1,2,8476879,8471260.0,2019020777,,2020-01-30,Cody Ceci Roughing against Blake Comeau
+137,penalty,Holding,Miro Heiskanen,Mitchell Marner,[-89.  30.],2,11:46,DAL,TOR,DAL,25,TOR,10,1,2,8480036,8478483.0,2019020777,,2020-01-30,Miro Heiskanen Holding against Mitchell Marner
+229,penalty,Tripping,Zach Hyman,John Klingberg,[-84.  34.],3,11:18,TOR,DAL,DAL,25,TOR,10,3,4,8475786,8475906.0,2019020777,,2020-01-30,Zach Hyman Tripping against John Klingberg
+231,penalty,Interference,Radek Faksa,Jake Muzzin,[-31.  22.],3,10:55,DAL,TOR,DAL,25,TOR,10,3,4,8476889,8474162.0,2019020777,,2020-01-30,Radek Faksa Interference against Jake Muzzin
+244,penalty,Interference,Jason Spezza,Alexander Radulov,[-80. -16.],3,07:05,TOR,DAL,DAL,25,TOR,10,3,4,8469455,8471228.0,2019020777,,2020-01-30,Jason Spezza Interference against Alexander Radulov
+2,penalty,Tripping,Stephen Johns,John Hayden,[64. 32.],1,19:43,DAL,NJD,NJD,1,DAL,25,0,0,8475730,8477401.0,2019020797,DAL,2020-02-02,Stephen Johns Tripping against John Hayden
+45,penalty,Interference,P.K. Subban,Tyler Seguin,[-96. -25.],1,07:54,NJD,DAL,NJD,1,DAL,25,0,0,8474056,8475794.0,2019020797,DAL,2020-02-02,P.K. Subban Interference against Tyler Seguin
+79,penalty,Tripping,Stephen Johns,Wayne Simmonds,[-66.   0.],2,17:20,DAL,NJD,NJD,1,DAL,25,1,0,8475730,8474190.0,2019020797,DAL,2020-02-02,Stephen Johns Tripping against Wayne Simmonds
+94,penalty,Tripping,Andy Greene,Mattias Janmark,[80.  3.],2,14:03,NJD,DAL,NJD,1,DAL,25,1,0,8472382,8477406.0,2019020797,DAL,2020-02-02,Andy Greene Tripping against Mattias Janmark
+173,penalty,Tripping,Andrew Cogliano,Sami Vatanen,[-88.  -9.],3,14:19,DAL,NJD,NJD,1,DAL,25,1,2,8471699,8475222.0,2019020797,DAL,2020-02-02,Andrew Cogliano Tripping against Sami Vatanen

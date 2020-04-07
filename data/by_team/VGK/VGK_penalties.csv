@@ -1,0 +1,491 @@
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,game_id,winning_team,date,description
+6,penalty,Slashing,Jonathan Marchessault,Yannick Weber,[ 29. -35.],1,18:51,VGK,NSH,NSH,18,VGK,54,0,0,8476539,8474134.0,2019020800,VGK,2020-02-02,Jonathan Marchessault Slashing against Yannick Weber
+19,penalty,Slashing,Viktor Arvidsson,Brayden McNabb,[-32. -37.],1,14:35,NSH,VGK,NSH,18,VGK,54,0,0,8478042,8475188.0,2019020800,VGK,2020-02-02,Viktor Arvidsson Slashing against Brayden McNabb
+46,penalty,Too many men on the ice,William Carrier,,[13. 38.],1,08:37,VGK,NSH,NSH,18,VGK,54,0,0,8477478,,2019020800,VGK,2020-02-02,Too many men/ice served by William Carrier
+63,penalty,Tripping,Colton Sissons,Chandler Stephenson,[-97.   0.],1,04:27,NSH,VGK,NSH,18,VGK,54,0,0,8476925,8476905.0,2019020800,VGK,2020-02-02,Colton Sissons Tripping against Chandler Stephenson
+75,penalty,Interference,William Carrier,Yannick Weber,[-89.  31.],1,01:03,VGK,NSH,NSH,18,VGK,54,0,0,8477478,8474134.0,2019020800,VGK,2020-02-02,William Carrier Interference against Yannick Weber
+90,penalty,Hi-sticking,Jon Merrill,Colin Blackwell,[-91.  30.],2,17:29,VGK,NSH,NSH,18,VGK,54,0,0,8475750,8476278.0,2019020800,VGK,2020-02-02,Jon Merrill Hi-sticking against Colin Blackwell
+108,penalty,Cross checking,Mattias Ekholm,Paul Stastny,[97.  4.],2,12:01,NSH,VGK,NSH,18,VGK,54,0,1,8475218,8471669.0,2019020800,VGK,2020-02-02,Mattias Ekholm Cross checking against Paul Stastny
+146,penalty,Tripping,Dante Fabbro,Alex Tuch,[96. -3.],2,03:52,NSH,VGK,NSH,18,VGK,54,0,1,8479371,8477949.0,2019020800,VGK,2020-02-02,Dante Fabbro Tripping against Alex Tuch
+234,penalty,Hi-sticking,Shea Theodore,Ryan Johansen,[ 94. -13.],3,03:42,VGK,NSH,NSH,18,VGK,54,0,2,8477447,8475793.0,2019020800,VGK,2020-02-02,Shea Theodore Hi-sticking against Ryan Johansen
+103,penalty,Tripping,Ryan McDonagh,Jonathan Marchessault,[67. -1.],2,15:16,TBL,VGK,TBL,14,VGK,54,2,1,8474151,8476539.0,2019020814,,2020-02-05,Ryan McDonagh Tripping against Jonathan Marchessault
+138,penalty,Hooking,Ryan McDonagh,William Carrier,[ 51. -36.],2,06:58,TBL,VGK,TBL,14,VGK,54,2,1,8474151,8477478.0,2019020814,,2020-02-05,Ryan McDonagh Hooking against William Carrier
+156,penalty,Tripping,Steven Stamkos,Jonathan Marchessault,[-36.  19.],2,03:12,TBL,VGK,TBL,14,VGK,54,2,1,8474564,8476539.0,2019020814,,2020-02-05,Steven Stamkos Tripping against Jonathan Marchessault
+161,penalty,Interference,Jonathan Marchessault,Alex Killorn,[-70.  36.],2,02:05,VGK,TBL,TBL,14,VGK,54,2,1,8476539,8473986.0,2019020814,,2020-02-05,Jonathan Marchessault Interference against Alex Killorn
+230,penalty,Roughing,Victor Hedman,Max Pacioretty,[-68.  -2.],3,05:09,TBL,VGK,TBL,14,VGK,54,3,2,8475167,8474157.0,2019020814,,2020-02-05,Victor Hedman Roughing against Max Pacioretty
+231,penalty,Roughing,Max Pacioretty,Victor Hedman,[-66.   1.],3,05:09,VGK,TBL,TBL,14,VGK,54,3,2,8474157,8475167.0,2019020814,,2020-02-05,Max Pacioretty Roughing against Victor Hedman
+55,penalty,Hi-sticking,Dominic Toninato,Paul Stastny,[-72.  23.],1,07:01,FLA,VGK,FLA,13,VGK,54,0,1,8476952,8471669.0,2019020830,,2020-02-07,Dominic Toninato Hi-sticking against Paul Stastny
+70,penalty,Hooking,Mark Stone,Jonathan Huberdeau,[-33. -19.],1,04:53,VGK,FLA,FLA,13,VGK,54,0,1,8475913,8476456.0,2019020830,,2020-02-07,Mark Stone Hooking against Jonathan Huberdeau
+77,penalty,Missing key [PD_151],William Carrier,,[-84.   3.],1,03:38,VGK,FLA,FLA,13,VGK,54,1,1,8477478,,2019020830,,2020-02-07,Delaying Game - Unsucc. chlg served by William Carrier
+118,penalty,Cross checking,Brayden McNabb,Evgenii Dadonov,[84.  4.],2,15:35,VGK,FLA,FLA,13,VGK,54,1,2,8475188,8474149.0,2019020830,,2020-02-07,Brayden McNabb Cross checking against Evgenii Dadonov
+119,penalty,Interference - Goalkeeper,Evgenii Dadonov,Marc-Andre Fleury,[86.  0.],2,15:35,FLA,VGK,FLA,13,VGK,54,1,2,8474149,8470594.0,2019020830,,2020-02-07,Evgenii Dadonov Interference - Goalkeeper against Marc-Andre Fleury
+132,penalty,PS - Tripping on breakaway,William Carrier,Brett Connolly,[69. -1.],2,13:20,VGK,FLA,FLA,13,VGK,54,1,2,8477478,8475792.0,2019020830,,2020-02-07,William Carrier PS - Tripping on breakaway against Brett Connolly
+160,penalty,Tripping,Keith Yandle,Tomas Nosek,[-17.  42.],2,06:03,FLA,VGK,FLA,13,VGK,54,2,3,8471735,8477931.0,2019020830,,2020-02-07,Keith Yandle Tripping against Tomas Nosek
+170,penalty,Too many men on the ice,Brett Connolly,,[17. 37.],2,02:53,FLA,VGK,FLA,13,VGK,54,2,3,8475792,,2019020830,,2020-02-07,Too many men/ice served by Brett Connolly
+188,penalty,Holding,Josh Brown,William Carrier,[80. -1.],3,17:53,FLA,VGK,FLA,13,VGK,54,2,4,8477384,8477478.0,2019020830,,2020-02-07,Josh Brown Holding against William Carrier
+194,penalty,Hooking,Reilly Smith,Frank Vatrano,[-95. -22.],3,16:18,VGK,FLA,FLA,13,VGK,54,2,4,8475191,8478366.0,2019020830,,2020-02-07,Reilly Smith Hooking against Frank Vatrano
+209,penalty,Interference - Goalkeeper,Dominic Toninato,Marc-Andre Fleury,[-85.   1.],3,12:09,FLA,VGK,FLA,13,VGK,54,2,5,8476952,8470594.0,2019020830,,2020-02-07,Dominic Toninato Interference - Goalkeeper against Marc-Andre Fleury
+111,penalty,Roughing,Brayden McNabb,Warren Foegele,[-96.  18.],2,16:29,VGK,CAR,VGK,54,CAR,12,3,1,8475188,8477998.0,2019020854,,2020-02-11,Brayden McNabb Roughing against Warren Foegele
+201,penalty,Hi stick - double minor,Zach Whitecloud,Erik Haula,[-52.  40.],3,17:55,VGK,CAR,VGK,54,CAR,12,3,2,8480727,8475287.0,2019020854,,2020-02-11,Zach Whitecloud Hi stick - double minor against Erik Haula
+222,penalty,Holding,Brett Pesce,Ryan Reaves,[-80.   0.],3,14:11,CAR,VGK,VGK,54,CAR,12,4,3,8477488,8471817.0,2019020854,,2020-02-11,Brett Pesce Holding against Ryan Reaves
+254,penalty,Tripping,Tomas Nosek,Trevor van Riemsdyk,[-70.   3.],3,07:02,VGK,CAR,VGK,54,CAR,12,4,4,8477931,8477845.0,2019020854,,2020-02-11,Tomas Nosek Tripping against Trevor van Riemsdyk
+285,penalty,Holding,Joel Edmundson,Reilly Smith,[-89.  23.],3,00:59,CAR,VGK,VGK,54,CAR,12,5,5,8476441,8475191.0,2019020854,,2020-02-11,Joel Edmundson Holding against Reilly Smith
+4,penalty,Roughing,Ryan Hartman,Ryan Reaves,[97.  2.],1,19:30,MIN,VGK,MIN,30,VGK,54,0,0,8477451,8471817.0,2019020871,,2020-02-12,Ryan Hartman Roughing against Ryan Reaves
+5,penalty,Roughing,Ryan Hartman,Mats Zuccarello,[97.  3.],1,19:30,MIN,VGK,MIN,30,VGK,54,0,0,8477451,8475692.0,2019020871,,2020-02-12,Ryan Hartman Roughing against Ryan Reaves served by Mats Zuccarello
+6,penalty,Roughing,Ryan Reaves,Ryan Hartman,[95. 10.],1,19:30,VGK,MIN,MIN,30,VGK,54,0,0,8471817,8477451.0,2019020871,,2020-02-12,Ryan Reaves Roughing against Ryan Hartman
+15,penalty,Interference,Jon Merrill,Zach Parise,[-84.  -5.],1,16:23,VGK,MIN,MIN,30,VGK,54,0,0,8475750,8470610.0,2019020871,,2020-02-12,Jon Merrill Interference against Zach Parise
+39,penalty,Unsportsmanlike conduct,Jonathan Marchessault,Kevin Fiala,[36. 39.],1,08:24,VGK,MIN,MIN,30,VGK,54,1,0,8476539,8477942.0,2019020871,,2020-02-12,Jonathan Marchessault Unsportsmanlike conduct against Kevin Fiala
+50,penalty,Delaying Game - Puck over glass,Marcus Foligno,,[ 79. -32.],1,06:51,MIN,VGK,MIN,30,VGK,54,2,0,8475220,,2019020871,,2020-02-12,Marcus Foligno Delaying Game - Puck over glass
+68,penalty,Roughing,Jordan Greenway,Cody Eakin,[45. 37.],1,01:19,MIN,VGK,MIN,30,VGK,54,2,0,8478413,8475236.0,2019020871,,2020-02-12,Jordan Greenway Roughing against Cody Eakin
+77,penalty,Tripping,Mikko Koivu,Alex Tuch,[-96.  -5.],2,18:49,MIN,VGK,MIN,30,VGK,54,2,0,8469459,8477949.0,2019020871,,2020-02-12,Mikko Koivu Tripping against Alex Tuch
+86,penalty,Hi-sticking,Mark Stone,Joel Eriksson Ek,[ 4. 40.],2,16:35,VGK,MIN,MIN,30,VGK,54,2,0,8475913,8478493.0,2019020871,,2020-02-12,Mark Stone Hi-sticking against Joel Eriksson Ek
+135,penalty,Roughing,Jonathan Marchessault,Mats Zuccarello,[ 30. -25.],2,05:06,VGK,MIN,MIN,30,VGK,54,3,0,8476539,8475692.0,2019020871,,2020-02-12,Jonathan Marchessault Roughing against Mats Zuccarello
+193,penalty,Hi-sticking,Ryan Reaves,Carson Soucy,[83. -2.],3,10:29,VGK,MIN,MIN,30,VGK,54,4,0,8471817,8477369.0,2019020871,,2020-02-12,Ryan Reaves Hi-sticking against Carson Soucy
+15,penalty,Cross checking,Robert Bortuzzo,Max Pacioretty,[-98.   3.],1,18:10,STL,VGK,VGK,54,STL,19,0,1,8474145,8474157.0,2019020889,,2020-02-14,Robert Bortuzzo Cross checking against Max Pacioretty
+25,penalty,Tripping,Jordan Kyrou,Deryk Engelland,[93. 25.],1,17:24,STL,VGK,VGK,54,STL,19,1,1,8479385,8468674.0,2019020889,,2020-02-14,Jordan Kyrou Tripping against Deryk Engelland
+90,penalty,Tripping,Jonathan Marchessault,Brayden Schenn,[-72. -23.],1,03:26,VGK,STL,VGK,54,STL,19,2,3,8476539,8475170.0,2019020889,,2020-02-14,Jonathan Marchessault Tripping against Brayden Schenn
+193,penalty,Roughing,Ryan Reaves,David Perron,[69. 22.],2,05:05,VGK,STL,VGK,54,STL,19,2,4,8471817,8474102.0,2019020889,,2020-02-14,Ryan Reaves Roughing against David Perron
+194,penalty,Roughing,David Perron,Ryan Reaves,[69. 22.],2,05:05,STL,VGK,VGK,54,STL,19,2,4,8474102,8471817.0,2019020889,,2020-02-14,David Perron Roughing against Ryan Reaves
+206,penalty,Holding,Jordan Kyrou,Cody Eakin,[ 30. -39.],2,01:57,STL,VGK,VGK,54,STL,19,2,4,8479385,8475236.0,2019020889,,2020-02-14,Jordan Kyrou Holding against Cody Eakin
+242,penalty,Holding,Carl Gunnarsson,Jonathan Marchessault,[-91.   7.],3,14:58,STL,VGK,VGK,54,STL,19,3,4,8474125,8476539.0,2019020889,,2020-02-14,Carl Gunnarsson Holding against Jonathan Marchessault
+269,penalty,Tripping,Alex Tuch,Vince Dunn,[55. 40.],3,10:26,VGK,STL,VGK,54,STL,19,4,4,8477949,8478407.0,2019020889,,2020-02-14,Alex Tuch Tripping against Vince Dunn
+330,penalty,Hooking,Jaden Schwartz,Jonathan Marchessault,[77.  0.],4,03:34,STL,VGK,VGK,54,STL,19,5,5,8475768,8476539.0,2019020889,,2020-02-14,Jaden Schwartz Hooking against Jonathan Marchessault
+1,penalty,Fighting,Ryan Reaves,Ross Johnston,[-1. 15.],1,19:57,VGK,NYI,VGK,54,NYI,2,0,0,8471817,8477527.0,2019020905,,2020-02-16,Ryan Reaves Fighting against Ross Johnston
+2,penalty,Fighting,Ross Johnston,Ryan Reaves,[-1. 16.],1,19:57,NYI,VGK,VGK,54,NYI,2,0,0,8477527,8471817.0,2019020905,,2020-02-16,Ross Johnston Fighting against Ryan Reaves
+39,penalty,Fighting,Anders Lee,Nick Holden,[ 95. -13.],1,09:31,NYI,VGK,VGK,54,NYI,2,0,0,8475314,8474207.0,2019020905,,2020-02-16,Anders Lee Fighting against Nick Holden
+40,penalty,Fighting,Nick Holden,Anders Lee,[ 94. -14.],1,09:31,VGK,NYI,VGK,54,NYI,2,0,0,8474207,8475314.0,2019020905,,2020-02-16,Nick Holden Fighting against Anders Lee
+55,penalty,Delaying Game - Puck over glass,Ryan Pulock,,[-65. -36.],1,07:04,NYI,VGK,VGK,54,NYI,2,0,0,8477506,,2019020905,,2020-02-16,Ryan Pulock Delaying Game - Puck over glass
+58,penalty,Interference,Jonathan Marchessault,Leo Komarov,[-77.   0.],1,06:19,VGK,NYI,VGK,54,NYI,2,0,0,8476539,8473463.0,2019020905,,2020-02-16,Jonathan Marchessault Interference against Leo Komarov
+134,penalty,Too many men on the ice,Cody Glass,,[13. 42.],2,06:39,VGK,NYI,VGK,54,NYI,2,0,0,8479996,,2019020905,,2020-02-16,Too many men/ice served by Cody Glass
+141,penalty,Tripping,Noah Dobson,Nate Schmidt,[-70. -38.],2,05:26,NYI,VGK,VGK,54,NYI,2,0,0,8480865,8477220.0,2019020905,,2020-02-16,Noah Dobson Tripping against Nate Schmidt
+234,penalty,Hooking,Brock Nelson,Paul Stastny,[-90.   9.],3,04:55,NYI,VGK,VGK,54,NYI,2,1,0,8475754,8471669.0,2019020905,,2020-02-16,Brock Nelson Hooking against Paul Stastny
+144,penalty,Tripping,Jon Merrill,Nic Dowd,[ 7. 16.],2,11:01,VGK,WSH,VGK,54,WSH,15,2,0,8475750,8475343.0,2019020918,,2020-02-18,Jon Merrill Tripping against Nic Dowd
+192,penalty,Slashing,John Carlson,Paul Stastny,[-88. -26.],3,19:26,WSH,VGK,VGK,54,WSH,15,3,0,8474590,8471669.0,2019020918,,2020-02-18,John Carlson Slashing against Paul Stastny
+198,penalty,Hooking,Cody Eakin,Dmitry Orlov,[74. 24.],3,16:44,VGK,WSH,VGK,54,WSH,15,3,0,8475236,8475200.0,2019020918,,2020-02-18,Cody Eakin Hooking against Dmitry Orlov
+206,penalty,Tripping,Dmitry Orlov,Mark Stone,[-69. -22.],3,14:38,WSH,VGK,VGK,54,WSH,15,3,0,8475200,8475913.0,2019020918,,2020-02-18,Dmitry Orlov Tripping against Mark Stone
+224,penalty,Tripping,Jon Merrill,Carl Hagelin,[97. -2.],3,10:29,VGK,WSH,VGK,54,WSH,15,3,1,8475750,8474176.0,2019020918,,2020-02-18,Jon Merrill Tripping against Carl Hagelin
+59,penalty,Hooking,Jon Merrill,Alex Killorn,[ 37. -14.],1,08:50,VGK,TBL,VGK,54,TBL,14,0,1,8475750,8473986.0,2019020939,,2020-02-21,Jon Merrill Hooking against Alex Killorn
+106,penalty,Holding,Marc-Andre Fleury,Chandler Stephenson,[-84.  -4.],2,18:34,VGK,TBL,VGK,54,TBL,14,1,1,8470594,8476905.0,2019020939,,2020-02-21,Marc-Andre Fleury Holding against Steven Stamkos served by Chandler Stephenson
+135,penalty,Elbowing,Erik Cernak,Cody Eakin,[ 92. -31.],2,11:38,TBL,VGK,VGK,54,TBL,14,2,1,8478416,8475236.0,2019020939,,2020-02-21,Erik Cernak Elbowing against Cody Eakin
+158,penalty,Tripping,Victor Hedman,Chandler Stephenson,[ 17. -34.],2,06:47,TBL,VGK,VGK,54,TBL,14,2,1,8475167,8476905.0,2019020939,,2020-02-21,Victor Hedman Tripping against Chandler Stephenson
+167,penalty,Hooking,William Karlsson,Cedric Paquette,[-67.  -4.],2,04:37,VGK,TBL,VGK,54,TBL,14,2,1,8476448,8476975.0,2019020939,,2020-02-21,William Karlsson Hooking against Cedric Paquette
+190,penalty,Holding,Braydon Coburn,William Carrier,[-83.  16.],3,19:20,TBL,VGK,VGK,54,TBL,14,4,2,8470601,8477478.0,2019020939,,2020-02-21,Braydon Coburn Holding against William Carrier
+211,penalty,Boarding,Blake Coleman,Alec Martinez,[95. 27.],3,13:27,TBL,VGK,VGK,54,TBL,14,5,2,8476399,8474166.0,2019020939,,2020-02-21,Blake Coleman Boarding against Alec Martinez
+252,penalty,Delaying Game - Puck over glass,Cody Eakin,,[94. 30.],3,03:27,VGK,TBL,VGK,54,TBL,14,5,2,8475236,,2019020939,,2020-02-21,Cody Eakin Delaying Game - Puck over glass
+82,penalty,Holding,Aaron Ekblad,Gage Quinney,[-98.  10.],1,05:05,FLA,VGK,VGK,54,FLA,13,1,1,8477932,8479748.0,2019020957,,2020-02-23,Aaron Ekblad Holding against Gage Quinney
+104,penalty,Hooking,Max Pacioretty,Noel Acciari,[ 89. -13.],1,00:15,VGK,FLA,VGK,54,FLA,13,1,1,8474157,8478569.0,2019020957,,2020-02-23,Max Pacioretty Hooking against Noel Acciari
+112,penalty,Interference - Goalkeeper,William Carrier,Sam Montembeault,[84.  1.],2,18:19,VGK,FLA,VGK,54,FLA,13,1,2,8477478,8478470.0,2019020957,,2020-02-23,William Carrier Interference - Goalkeeper against Sam Montembeault
+146,penalty,Tripping,Vincent Trocheck,Gage Quinney,[-62.  39.],2,09:52,FLA,VGK,VGK,54,FLA,13,1,2,8476389,8479748.0,2019020957,,2020-02-23,Vincent Trocheck Tripping against Gage Quinney
+181,penalty,Boarding,Noel Acciari,Nicolas Roy,[-15.  40.],2,02:49,FLA,VGK,VGK,54,FLA,13,2,2,8478569,8478462.0,2019020957,,2020-02-23,Noel Acciari Boarding against Nicolas Roy
+182,penalty,Roughing,William Carrier,Anton Stralman,[94. 29.],2,02:49,VGK,FLA,VGK,54,FLA,13,2,2,8477478,8471873.0,2019020957,,2020-02-23,William Carrier Roughing against Anton Stralman
+212,penalty,Missing key [PD_151],Gage Quinney,,[  0. -39.],3,14:49,VGK,FLA,VGK,54,FLA,13,4,3,8479748,,2019020957,,2020-02-23,Delaying Game - Unsucc. chlg served by Gage Quinney
+181,penalty,Tripping,Max Jones,William Karlsson,[43. 15.],3,15:36,ANA,VGK,ANA,24,VGK,54,3,3,8479368,8476448.0,2019020965,,2020-02-24,Max Jones Tripping against William Karlsson
+198,penalty,Tripping,Mark Stone,Ryan Getzlaf,[-28. -26.],3,11:13,VGK,ANA,ANA,24,VGK,54,3,4,8475913,8470612.0,2019020965,,2020-02-24,Mark Stone Tripping against Ryan Getzlaf
+242,penalty,Interference,Alec Martinez,Jakob Silfverberg,[  6. -12.],3,00:47,VGK,ANA,ANA,24,VGK,54,5,5,8474166,8475164.0,2019020965,,2020-02-24,Alec Martinez Interference against Jakob Silfverberg
+7,penalty,Hooking,Max Pacioretty,Caleb Jones,[50.  1.],1,18:45,VGK,EDM,VGK,54,EDM,22,0,0,8474157,8478452.0,2019020982,,2020-02-27,Max Pacioretty Hooking against Caleb Jones
+14,penalty,Tripping,Adam Larsson,Nick Cousins,[-1.  2.],1,16:08,EDM,VGK,VGK,54,EDM,22,0,0,8476457,8476393.0,2019020982,,2020-02-27,Adam Larsson Tripping against Nick Cousins
+55,penalty,Tripping,Paul Stastny,Mike Green,[ 74. -39.],1,08:03,VGK,EDM,VGK,54,EDM,22,0,0,8471669,8471242.0,2019020982,,2020-02-27,Paul Stastny Tripping against Mike Green
+153,penalty,Tripping,Patrick Russell,Alec Martinez,[-89. -21.],2,04:57,EDM,VGK,VGK,54,EDM,22,1,0,8479466,8474166.0,2019020982,,2020-02-27,Patrick Russell Tripping against Alec Martinez
+173,penalty,Too many men on the ice,William Carrier,,[11. 40.],2,00:00,VGK,EDM,VGK,54,EDM,22,1,0,8477478,,2019020982,,2020-02-27,Too many men/ice served by William Carrier
+187,penalty,Tripping,Ethan Bear,Chandler Stephenson,[-64. -30.],3,15:58,EDM,VGK,VGK,54,EDM,22,1,0,8478451,8476905.0,2019020982,,2020-02-27,Ethan Bear Tripping against Chandler Stephenson
+137,penalty,Holding,Jonathan Marchessault,Jimmy Vesey,[32. 38.],2,05:42,VGK,BUF,VGK,54,BUF,7,1,1,8476539,8476918.0,2019020997,,2020-02-29,Jonathan Marchessault Holding against Jimmy Vesey
+24,penalty,Cross checking,William Carrier,Austin Wagner,[87.  1.],1,13:25,VGK,LAK,VGK,54,LAK,26,0,1,8477478,8478455.0,2019021016,,2020-03-02,William Carrier Cross checking against Austin Wagner
+58,penalty,Hooking,Drew Doughty,Paul Stastny,[-78.   3.],1,04:23,LAK,VGK,VGK,54,LAK,26,0,2,8474563,8471669.0,2019021016,,2020-03-02,Drew Doughty Hooking against Paul Stastny
+74,penalty,Interference - Goalkeeper,Drew Doughty,Marc-Andre Fleury,[86.  1.],1,01:59,LAK,VGK,VGK,54,LAK,26,0,2,8474563,8470594.0,2019021016,,2020-03-02,Drew Doughty Interference - Goalkeeper against Marc-Andre Fleury
+75,penalty,Interference,Nate Schmidt,Dustin Brown,[-62.  40.],1,01:59,VGK,LAK,VGK,54,LAK,26,0,2,8477220,8470606.0,2019021016,,2020-03-02,Nate Schmidt Interference against Dustin Brown
+139,penalty,Slashing,Martin Frk,Max Pacioretty,[85.  1.],2,07:31,LAK,VGK,VGK,54,LAK,26,0,3,8476924,8474157.0,2019021016,,2020-03-02,Martin Frk Slashing against Max Pacioretty
+172,penalty,Interference - Goalkeeper,Alec Martinez,Calvin Petersen,[88. -2.],2,01:06,VGK,LAK,VGK,54,LAK,26,1,3,8474166,8477361.0,2019021016,,2020-03-02,Alec Martinez Interference - Goalkeeper against Calvin Petersen
+207,penalty,Interference,Kurtis MacDermid,Nick Cousins,[50.  0.],3,15:53,LAK,VGK,VGK,54,LAK,26,1,4,8477073,8476393.0,2019021016,,2020-03-02,Kurtis MacDermid Interference against Nick Cousins
+225,penalty,Too many men on the ice,Martin Frk,,[-12.  41.],3,11:39,LAK,VGK,VGK,54,LAK,26,1,4,8476924,,2019021016,,2020-03-02,Too many men/ice served by Martin Frk
+61,penalty,Tripping,Connor Carrick,Nick Cousins,[-81.  -4.],1,05:53,NJD,VGK,VGK,54,NJD,1,0,0,8476941,8476393.0,2019021027,,2020-03-04,Connor Carrick Tripping against Nick Cousins
+114,penalty,Hooking,Max Pacioretty,Mirco Mueller,[83. -9.],2,12:04,VGK,NJD,VGK,54,NJD,1,1,0,8474157,8477509.0,2019021027,,2020-03-04,Max Pacioretty Hooking against Mirco Mueller
+144,penalty,Holding,Max Pacioretty,Travis Zajac,[  8. -33.],2,06:12,VGK,NJD,VGK,54,NJD,1,1,0,8474157,8471233.0,2019021027,,2020-03-04,Max Pacioretty Holding against Travis Zajac
+231,penalty,Slashing,Brandon Pirri,Jack Hughes,[67. 24.],3,06:06,VGK,NJD,VGK,54,NJD,1,3,0,8475204,8481559.0,2019021027,,2020-03-04,Brandon Pirri Slashing against Jack Hughes
+22,penalty,Tripping,Nick Cousins,Cody Eakin,[ 16. -26.],1,15:54,VGK,WPG,WPG,52,VGK,54,1,0,8476393,8475236.0,2019021045,,2020-03-07,Nick Cousins Tripping against Cody Eakin
+48,penalty,Slashing,Blake Wheeler,Nicolas Roy,[61. -6.],1,09:35,WPG,VGK,WPG,52,VGK,54,2,0,8471218,8478462.0,2019021045,,2020-03-07,Blake Wheeler Slashing against Nicolas Roy
+159,penalty,Hooking,Jonathan Marchessault,Cody Eakin,[ -6. -23.],2,07:45,VGK,WPG,WPG,52,VGK,54,3,0,8476539,8475236.0,2019021045,,2020-03-07,Jonathan Marchessault Hooking against Cody Eakin
+98,penalty,Tripping,Mark Giordano,Brandon Pirri,[-71.  -1.],2,17:18,CGY,VGK,CGY,20,VGK,54,0,2,8470966,8475204.0,2019021062,,2020-03-09,Mark Giordano Tripping against Brandon Pirri
+149,penalty,Holding,Alec Martinez,Dillon Dube,[ 79. -35.],2,05:00,VGK,CGY,CGY,20,VGK,54,1,3,8474166,8479346.0,2019021062,,2020-03-09,Alec Martinez Holding against Dillon Dube
+74,penalty,Cross checking,Oscar Klefbom,Nick Holden,[-81.  40.],1,04:58,EDM,VGK,EDM,22,VGK,54,1,0,8476472,8474207.0,2019021068,,2020-03-10,Oscar Klefbom Cross checking against Nick Holden
+261,penalty,Tripping,Alex Chiasson,Jonathan Marchessault,[-27.  -1.],3,12:42,EDM,VGK,EDM,22,VGK,54,2,1,8475163,8476539.0,2019021068,,2020-03-10,Alex Chiasson Tripping against Jonathan Marchessault
+19,penalty,Tripping,Brent Burns,William Carrier,[-86.   9.],1,17:12,SJS,VGK,VGK,54,SJS,28,0,0,8470613,8477478.0,2019020004,,2019-10-08,Brent Burns Tripping against William Carrier
+36,penalty,Hooking,Brandon Pirri,Timo Meier,[59.  0.],1,14:13,VGK,SJS,VGK,54,SJS,28,2,0,8475204,8478414.0,2019020004,,2019-10-08,Brandon Pirri Hooking against Timo Meier
+39,penalty,Hooking,Kevin Labanc,Mark Stone,[ 55. -21.],1,13:13,SJS,VGK,VGK,54,SJS,28,2,0,8478099,8475913.0,2019020004,,2019-10-08,Kevin Labanc Hooking against Mark Stone
+54,penalty,Slashing,Marcus Sorensen,William Carrier,[ 68. -37.],1,10:08,SJS,VGK,VGK,54,SJS,28,2,0,8475834,8477478.0,2019020004,,2019-10-08,Marcus Sorensen Slashing against William Carrier
+56,penalty,Interference,Paul Stastny,Barclay Goodrow,[-52. -11.],1,10:01,VGK,SJS,VGK,54,SJS,28,2,0,8471669,8476624.0,2019020004,,2019-10-08,Paul Stastny Interference against Barclay Goodrow
+127,penalty,Slashing,Melker Karlsson,Nick Holden,[-93. -34.],2,13:58,SJS,VGK,VGK,54,SJS,28,3,1,8477922,8474207.0,2019020004,,2019-10-08,Melker Karlsson Slashing against Nick Holden
+167,penalty,Roughing,Brayden McNabb,Timo Meier,[ 58. -38.],2,06:16,VGK,SJS,VGK,54,SJS,28,3,1,8475188,8478414.0,2019020004,,2019-10-08,Brayden McNabb Roughing against Timo Meier
+212,penalty,Hooking,Shea Theodore,Lean Bergmann,[ 81. -18.],3,16:52,VGK,SJS,VGK,54,SJS,28,3,1,8477447,8481640.0,2019020004,,2019-10-08,Shea Theodore Hooking against Lean Bergmann
+270,penalty,Hi-sticking,Tomas Nosek,Kevin Labanc,[15. 25.],3,05:01,VGK,SJS,VGK,54,SJS,28,4,1,8477931,8478099.0,2019020004,,2019-10-08,Tomas Nosek Hi-sticking against Kevin Labanc
+108,penalty,Interference,William Karlsson,Erik Karlsson,[ 82. -15.],2,19:17,VGK,SJS,SJS,28,VGK,54,0,2,8476448,8474578.0,2019020017,,2019-10-06,William Karlsson Interference against Erik Karlsson
+121,penalty,Tripping,Max Pacioretty,Lean Bergmann,[11. 21.],2,13:04,VGK,SJS,SJS,28,VGK,54,0,2,8474157,8481640.0,2019020017,,2019-10-06,Max Pacioretty Tripping against Lean Bergmann
+134,penalty,Tripping,Mario Ferraro,Paul Stastny,[78. 14.],2,09:40,SJS,VGK,SJS,28,VGK,54,0,2,8479983,8471669.0,2019020017,,2019-10-06,Mario Ferraro Tripping against Paul Stastny
+154,penalty,Slashing,Brandon Pirri,Danil Yurtaykin,[-9. -2.],2,05:17,VGK,SJS,SJS,28,VGK,54,0,2,8475204,8481515.0,2019020017,,2019-10-06,Brandon Pirri Slashing against Danil Yurtaykin
+183,penalty,Hi-sticking,Jon Merrill,Kevin Labanc,[ 63. -16.],3,19:22,VGK,SJS,SJS,28,VGK,54,0,4,8475750,8478099.0,2019020017,,2019-10-06,Jon Merrill Hi-sticking against Kevin Labanc
+218,penalty,Tripping,Paul Stastny,Marc-Edouard Vlasic,[24. 21.],3,11:00,VGK,SJS,SJS,28,VGK,54,0,4,8471669,8471709.0,2019020017,,2019-10-06,Paul Stastny Tripping against Marc-Edouard Vlasic
+228,penalty,Slashing,Timo Meier,William Karlsson,[-53.   3.],3,10:14,SJS,VGK,SJS,28,VGK,54,0,5,8478414,8476448.0,2019020017,,2019-10-06,Timo Meier Slashing against William Karlsson
+245,penalty,Roughing,Marcus Sorensen,Lukas Radil,[80. 18.],3,05:55,SJS,VGK,SJS,28,VGK,54,1,5,8475834,8480780.0,2019020017,,2019-10-06,Marcus Sorensen Roughing against Nicolas Hague served by Lukas Radil
+246,penalty,Misconduct,William Karlsson,Joe Thornton,[75.  8.],3,05:55,VGK,SJS,SJS,28,VGK,54,1,5,8476448,8466138.0,2019020017,,2019-10-06,William Karlsson Misconduct against Joe Thornton
+247,penalty,Misconduct,Marcus Sorensen,,[71. 18.],3,05:55,SJS,VGK,SJS,28,VGK,54,1,5,8475834,,2019020017,,2019-10-06,Marcus Sorensen Misconduct
+248,penalty,Misconduct,Nicolas Hague,Mario Ferraro,[66.  1.],3,05:55,VGK,SJS,SJS,28,VGK,54,1,5,8479980,8479983.0,2019020017,,2019-10-06,Nicolas Hague Misconduct against Mario Ferraro
+249,penalty,Misconduct,Deryk Engelland,Barclay Goodrow,[81. 17.],3,05:55,VGK,SJS,SJS,28,VGK,54,1,5,8468674,8476624.0,2019020017,,2019-10-06,Deryk Engelland Misconduct against Barclay Goodrow
+250,penalty,Misconduct,Joe Thornton,William Karlsson,[74. -2.],3,05:55,SJS,VGK,SJS,28,VGK,54,1,5,8466138,8476448.0,2019020017,,2019-10-06,Joe Thornton Misconduct against William Karlsson
+251,penalty,Misconduct,Barclay Goodrow,Deryk Engelland,[77. 17.],3,05:55,SJS,VGK,SJS,28,VGK,54,1,5,8476624,8468674.0,2019020017,,2019-10-06,Barclay Goodrow Misconduct against Deryk Engelland
+25,penalty,Interference - Goalkeeper,Brett Ritchie,Marc-Andre Fleury,[80.  0.],1,14:45,BOS,VGK,VGK,54,BOS,6,0,0,8476439,8470594.0,2019020043,,2019-10-10,Brett Ritchie Interference - Goalkeeper against Marc-Andre Fleury
+90,penalty,Slashing,Brandon Pirri,Danton Heinen,[72.  3.],1,02:22,VGK,BOS,VGK,54,BOS,6,2,1,8475204,8478046.0,2019020043,,2019-10-10,Brandon Pirri Slashing against Danton Heinen
+129,penalty,Interference,David Backes,Brayden McNabb,[-46.  40.],2,16:42,BOS,VGK,VGK,54,BOS,6,2,4,8470655,8475188.0,2019020043,,2019-10-10,David Backes Interference against Brayden McNabb
+218,penalty,Hooking,Nicolas Hague,Danton Heinen,[96. 14.],3,18:00,VGK,BOS,VGK,54,BOS,6,2,4,8479980,8478046.0,2019020043,,2019-10-10,Nicolas Hague Hooking against Danton Heinen
+246,penalty,Holding,Brayden McNabb,David Pastrnak,[ 34. -37.],3,10:26,VGK,BOS,VGK,54,BOS,6,2,4,8475188,8477956.0,2019020043,,2019-10-10,Brayden McNabb Holding against David Pastrnak
+269,penalty,Cross checking,Brad Marchand,Brayden McNabb,[65.  1.],3,05:38,BOS,VGK,VGK,54,BOS,6,2,4,8473419,8475188.0,2019020043,,2019-10-10,Brad Marchand Cross checking against Brayden McNabb
+16,penalty,Tripping,Barrett Hayton,Max Pacioretty,[97.  3.],1,16:14,ARI,VGK,ARI,53,VGK,54,0,0,8480849,8474157.0,2019020057,,2019-10-11,Barrett Hayton Tripping against Max Pacioretty
+46,penalty,Interference,Jon Merrill,Vinnie Hinostroza,[ 60. -39.],1,11:18,VGK,ARI,ARI,53,VGK,54,1,0,8475750,8476994.0,2019020057,,2019-10-11,Jon Merrill Interference against Vinnie Hinostroza
+55,penalty,Hi-sticking,Christian Dvorak,Shea Theodore,[71.  6.],1,08:19,ARI,VGK,ARI,53,VGK,54,1,0,8477989,8477447.0,2019020057,,2019-10-11,Christian Dvorak Hi-sticking against Shea Theodore
+92,penalty,Missing key [PD_151],Conor Garland,,[-20.  40.],1,00:05,ARI,VGK,ARI,53,VGK,54,2,1,8478856,,2019020057,,2019-10-11,Delaying Game - Unsucc. chlg served by Conor Garland
+144,penalty,Too many men on the ice,Conor Garland,,[-12.  40.],2,05:54,ARI,VGK,ARI,53,VGK,54,3,1,8478856,,2019020057,,2019-10-11,Too many men/ice served by Conor Garland
+213,penalty,Tripping,Cody Glass,Barrett Hayton,[-24.  10.],3,05:50,VGK,ARI,ARI,53,VGK,54,4,1,8479996,8480849.0,2019020057,,2019-10-11,Cody Glass Tripping against Barrett Hayton
+1,penalty,Interference,Andrew Mangiapane,Nick Holden,[ 81. -34.],1,19:39,CGY,VGK,VGK,54,CGY,20,0,0,8478233,8474207.0,2019020074,,2019-10-14,Andrew Mangiapane Interference against Nick Holden
+18,penalty,Holding,Deryk Engelland,Tobias Rieder,[ 95. -19.],1,16:08,VGK,CGY,VGK,54,CGY,20,1,0,8468674,8476356.0,2019020074,,2019-10-14,Deryk Engelland Holding against Tobias Rieder
+132,penalty,Interference,Elias Lindholm,Shea Theodore,[-32. -17.],2,12:25,CGY,VGK,VGK,54,CGY,20,2,2,8477496,8477447.0,2019020074,,2019-10-14,Elias Lindholm Interference against Shea Theodore
+162,penalty,Interference,Brayden McNabb,Johnny Gaudreau,[-72.  23.],2,05:04,VGK,CGY,VGK,54,CGY,20,3,2,8475188,8476346.0,2019020074,,2019-10-14,Brayden McNabb Interference against Johnny Gaudreau
+176,penalty,Delaying Game - Puck over glass,Mark Stone,,[-84. -18.],2,01:41,VGK,CGY,VGK,54,CGY,20,4,2,8475913,,2019020074,,2019-10-14,Mark Stone Delaying Game - Puck over glass
+236,penalty,Tripping,Brayden McNabb,Johnny Gaudreau,[ 94. -11.],3,11:01,VGK,CGY,VGK,54,CGY,20,5,2,8475188,8476346.0,2019020074,,2019-10-14,Brayden McNabb Tripping against Johnny Gaudreau
+251,penalty,Interference,Michael Frolik,Cody Glass,[-37.   0.],3,06:54,CGY,VGK,VGK,54,CGY,20,5,2,8473564,8479996.0,2019020074,,2019-10-14,Michael Frolik Interference against Cody Glass
+2,penalty,Slashing,Jonathan Marchessault,Blake Lizotte,[-53.  21.],1,19:24,VGK,LAK,LAK,26,VGK,54,0,0,8476539,8481481.0,2019020076,,2019-10-14,Jonathan Marchessault Slashing against Blake Lizotte
+33,penalty,Holding the stick,Dustin Brown,Shea Theodore,[-96.  12.],1,13:51,LAK,VGK,LAK,26,VGK,54,0,1,8470606,8477447.0,2019020076,,2019-10-14,Dustin Brown Holding the stick against Shea Theodore
+51,penalty,Interference,Nicolas Hague,Kyle Clifford,[-96.  11.],1,09:01,VGK,LAK,LAK,26,VGK,54,1,2,8479980,8475160.0,2019020076,,2019-10-14,Nicolas Hague Interference against Kyle Clifford
+152,penalty,Interference,Jeff Carter,Jon Merrill,[80.  3.],2,06:31,LAK,VGK,LAK,26,VGK,54,1,2,8470604,8475750.0,2019020076,,2019-10-14,Jeff Carter Interference against Jon Merrill
+168,penalty,Hooking,Joakim Ryan,Ryan Reaves,[-39.  26.],2,04:40,LAK,VGK,LAK,26,VGK,54,1,3,8477046,8471817.0,2019020076,,2019-10-14,Joakim Ryan Hooking against Ryan Reaves
+252,penalty,Hooking,William Carrier,Joakim Ryan,[-33. -27.],3,06:57,VGK,LAK,LAK,26,VGK,54,2,5,8477478,8477046.0,2019020076,,2019-10-14,William Carrier Hooking against Joakim Ryan
+13,penalty,Tripping,Brayden McNabb,Craig Smith,[ 86. -15.],1,16:26,VGK,NSH,VGK,54,NSH,18,0,1,8475188,8475225.0,2019020090,,2019-10-16,Brayden McNabb Tripping against Craig Smith
+51,penalty,Cross checking,Mattias Ekholm,Paul Stastny,[-58. -22.],1,10:59,NSH,VGK,VGK,54,NSH,18,0,1,8475218,8471669.0,2019020090,,2019-10-16,Mattias Ekholm Cross checking against Paul Stastny
+99,penalty,Fighting,Roman Josi,Mark Stone,[-74.   0.],1,01:47,NSH,VGK,VGK,54,NSH,18,2,1,8474600,8475913.0,2019020090,,2019-10-16,Roman Josi Fighting against Mark Stone
+100,penalty,Fighting,Mark Stone,Roman Josi,[-73.   0.],1,01:47,VGK,NSH,VGK,54,NSH,18,2,1,8475913,8474600.0,2019020090,,2019-10-16,Mark Stone Fighting against Roman Josi
+124,penalty,Interference,Max Pacioretty,Matt Duchene,[ -6. -38.],2,18:32,VGK,NSH,VGK,54,NSH,18,2,2,8474157,8475168.0,2019020090,,2019-10-16,Max Pacioretty Interference against Matt Duchene
+175,penalty,Interference,Filip Forsberg,Mark Stone,[-25. -20.],2,07:03,NSH,VGK,VGK,54,NSH,18,2,4,8476887,8475913.0,2019020090,,2019-10-16,Filip Forsberg Interference against Mark Stone
+198,penalty,Holding,Dante Fabbro,Valentin Zykov,[91. 37.],2,02:32,NSH,VGK,VGK,54,NSH,18,2,4,8479371,8477458.0,2019020090,,2019-10-16,Dante Fabbro Holding against Valentin Zykov
+207,penalty,Too many men on the ice,Valentin Zykov,,[29. 37.],2,00:18,VGK,NSH,VGK,54,NSH,18,2,4,8477458,,2019020090,,2019-10-16,Too many men/ice served by Valentin Zykov
+227,penalty,Holding,Brayden McNabb,Matt Duchene,[94.  9.],3,16:11,VGK,NSH,VGK,54,NSH,18,2,4,8475188,8475168.0,2019020090,,2019-10-16,Brayden McNabb Holding against Matt Duchene
+280,penalty,Cross checking,Valentin Zykov,Dante Fabbro,[-59. -39.],3,07:36,VGK,NSH,VGK,54,NSH,18,2,5,8477458,8479371.0,2019020090,,2019-10-16,Valentin Zykov Cross checking against Dante Fabbro
+295,penalty,Fighting,Dan Hamhuis,Max Pacioretty,[-96.  20.],3,04:48,NSH,VGK,VGK,54,NSH,18,2,5,8469465,8474157.0,2019020090,,2019-10-16,Dan Hamhuis Fighting against Max Pacioretty
+296,penalty,Fighting,Max Pacioretty,Dan Hamhuis,[-96.  20.],3,04:48,VGK,NSH,VGK,54,NSH,18,2,5,8474157,8469465.0,2019020090,,2019-10-16,Max Pacioretty Fighting against Dan Hamhuis
+315,penalty,Holding,Nick Bonino,Cody Glass,[-84. -38.],3,00:38,NSH,VGK,VGK,54,NSH,18,2,5,8474009,8479996.0,2019020090,,2019-10-16,Nick Bonino Holding against Cody Glass
+16,penalty,Fighting,Scott Sabourin,Ryan Reaves,[ 6. 23.],1,17:33,OTT,VGK,VGK,54,OTT,9,0,0,8477149,8471817.0,2019020105,,2019-10-18,Scott Sabourin Fighting against Ryan Reaves
+17,penalty,Fighting,Ryan Reaves,Scott Sabourin,[ 5. 19.],1,17:33,VGK,OTT,VGK,54,OTT,9,0,0,8471817,8477149.0,2019020105,,2019-10-18,Ryan Reaves Fighting against Scott Sabourin
+54,penalty,Holding,William Carrier,Scott Sabourin,[-24. -37.],1,10:35,VGK,OTT,VGK,54,OTT,9,1,1,8477478,8477149.0,2019020105,,2019-10-18,William Carrier Holding against Scott Sabourin
+63,penalty,Tripping,Anthony Duclair,Tomas Nosek,[-82.   8.],1,08:27,OTT,VGK,VGK,54,OTT,9,1,1,8477407,8477931.0,2019020105,,2019-10-18,Anthony Duclair Tripping against Tomas Nosek
+147,penalty,Holding the stick,Thomas Chabot,Brandon Pirri,[29. 36.],2,14:02,OTT,VGK,VGK,54,OTT,9,2,1,8478469,8475204.0,2019020105,,2019-10-18,Thomas Chabot Holding the stick against Brandon Pirri
+175,penalty,Tripping,Marc-Andre Fleury,Brandon Pirri,[-85.  -6.],2,08:49,VGK,OTT,VGK,54,OTT,9,2,1,8470594,8475204.0,2019020105,,2019-10-18,Marc-Andre Fleury Tripping against Brady Tkachuk served by Brandon Pirri
+206,penalty,Interference - Goalkeeper,Tomas Nosek,Anders Nilsson,[84. -4.],2,04:13,VGK,OTT,VGK,54,OTT,9,2,1,8477931,8475195.0,2019020105,,2019-10-18,Tomas Nosek Interference - Goalkeeper against Anders Nilsson
+229,penalty,Hi-sticking,Brayden McNabb,Brady Tkachuk,[  0. -40.],2,00:00,VGK,OTT,VGK,54,OTT,9,2,1,8475188,8480801.0,2019020105,,2019-10-18,Brayden McNabb Hi-sticking against Brady Tkachuk
+308,penalty,Boarding,Anthony Duclair,Reilly Smith,[-39. -40.],3,05:08,OTT,VGK,VGK,54,OTT,9,2,2,8477407,8475191.0,2019020105,,2019-10-18,Anthony Duclair Boarding against Reilly Smith
+24,penalty,Interference,Brayden McNabb,Dominik Simon,[76. 27.],1,15:01,VGK,PIT,PIT,5,VGK,54,0,0,8475188,8478866.0,2019020118,VGK,2019-10-20,Brayden McNabb Interference against Dominik Simon
+83,penalty,Interference - Goalkeeper,Zach Aston-Reese,Marc-Andre Fleury,[-86.  -3.],2,17:38,PIT,VGK,PIT,5,VGK,54,0,0,8479944,8470594.0,2019020118,VGK,2019-10-20,Zach Aston-Reese Interference - Goalkeeper against Marc-Andre Fleury
+116,penalty,Hi-sticking,Dominik Simon,Jonathan Marchessault,[-53.  17.],2,10:03,PIT,VGK,PIT,5,VGK,54,0,1,8478866,8476539.0,2019020118,VGK,2019-10-20,Dominik Simon Hi-sticking against Jonathan Marchessault
+203,penalty,Tripping,Reilly Smith,John Marino,[-90. -12.],3,12:39,VGK,PIT,PIT,5,VGK,54,0,1,8475191,8478507.0,2019020118,VGK,2019-10-20,Reilly Smith Tripping against John Marino
+212,penalty,Delaying Game - Puck over glass,Cody Eakin,,[ 81. -38.],3,10:33,VGK,PIT,PIT,5,VGK,54,0,1,8475236,,2019020118,VGK,2019-10-20,Cody Eakin Delaying Game - Puck over glass
+247,penalty,Cross checking,Jon Merrill,Brandon Tanev,[78.  1.],3,02:50,VGK,PIT,PIT,5,VGK,54,0,1,8475750,8479293.0,2019020118,VGK,2019-10-20,Jon Merrill Cross checking against Brandon Tanev
+253,penalty,Boarding,Patric Hornqvist,Brayden McNabb,[ 86. -35.],3,01:04,PIT,VGK,PIT,5,VGK,54,0,2,8471887,8475188.0,2019020118,VGK,2019-10-20,Patric Hornqvist Boarding against Brayden McNabb
+8,penalty,Cross checking,Jake Bischoff,Claude Giroux,[-82.   2.],1,17:14,VGK,PHI,PHI,4,VGK,54,0,0,8476987,8473512.0,2019020130,,2019-10-22,Jake Bischoff Cross checking against Claude Giroux
+39,penalty,Interference,Ryan Reaves,Shayne Gostisbehere,[96. -8.],1,10:00,VGK,PHI,PHI,4,VGK,54,1,0,8471817,8476906.0,2019020130,,2019-10-22,Ryan Reaves Interference against Shayne Gostisbehere
+120,penalty,Hooking,Travis Sanheim,Jonathan Marchessault,[-74.  -1.],2,10:52,PHI,VGK,PHI,4,VGK,54,3,0,8477948,8476539.0,2019020130,,2019-10-22,Travis Sanheim Hooking against Jonathan Marchessault
+134,penalty,Boarding,Brayden McNabb,Travis Konecny,[90. 34.],2,07:25,VGK,PHI,PHI,4,VGK,54,3,0,8475188,8478439.0,2019020130,,2019-10-22,Brayden McNabb Boarding against Travis Konecny
+167,penalty,Cross checking,Jonathan Marchessault,Shayne Gostisbehere,[-70.   4.],2,00:45,VGK,PHI,PHI,4,VGK,54,5,0,8476539,8476906.0,2019020130,,2019-10-22,Jonathan Marchessault Cross checking against Shayne Gostisbehere
+176,penalty,Tripping,Kevin Hayes,Paul Stastny,[ 96. -12.],3,18:23,PHI,VGK,PHI,4,VGK,54,5,0,8475763,8471669.0,2019020130,,2019-10-22,Kevin Hayes Tripping against Paul Stastny
+178,penalty,Slashing,Robert Hagg,Mark Stone,[ 87. -33.],3,17:59,PHI,VGK,PHI,4,VGK,54,5,0,8477462,8475913.0,2019020130,,2019-10-22,Robert Hagg Slashing against Mark Stone
+216,penalty,Tripping,William Carrier,Claude Giroux,[-65.  40.],3,08:21,VGK,PHI,PHI,4,VGK,54,5,1,8477478,8473512.0,2019020130,,2019-10-22,William Carrier Tripping against Claude Giroux
+219,penalty,Tripping,Sean Couturier,Brayden McNabb,[-96.  -3.],3,08:02,PHI,VGK,PHI,4,VGK,54,5,1,8476461,8475188.0,2019020130,,2019-10-22,Sean Couturier Tripping against Brayden McNabb
+237,penalty,Too many men on the ice,Chris Stewart,,[15. 39.],3,01:52,PHI,VGK,PHI,4,VGK,54,6,2,8473485,,2019020130,,2019-10-22,Too many men/ice served by Chris Stewart
+15,penalty,Hooking,Brayden McNabb,Patrick Kane,[-81.  15.],1,14:30,VGK,CHI,CHI,16,VGK,54,0,0,8475188,8474141.0,2019020141,,2019-10-23,Brayden McNabb Hooking against Patrick Kane
+29,penalty,Interference,Drake Caggiula,Paul Stastny,[22. 37.],1,11:16,CHI,VGK,CHI,16,VGK,54,0,0,8479465,8471669.0,2019020141,,2019-10-23,Drake Caggiula Interference against Paul Stastny
+49,penalty,Cross checking,Jake Bischoff,Andrew Shaw,[-97.  -8.],1,08:19,VGK,CHI,CHI,16,VGK,54,0,0,8476987,8476381.0,2019020141,,2019-10-23,Jake Bischoff Cross checking against Andrew Shaw
+140,penalty,Kneeing,Brayden McNabb,Patrick Kane,[-60. -32.],2,10:12,VGK,CHI,CHI,16,VGK,54,1,0,8475188,8474141.0,2019020141,,2019-10-23,Brayden McNabb Kneeing against Patrick Kane
+148,penalty,Tripping,Erik Gustafsson,Reilly Smith,[-69.   2.],2,08:23,CHI,VGK,CHI,16,VGK,54,1,0,8476979,8475191.0,2019020141,,2019-10-23,Erik Gustafsson Tripping against Reilly Smith
+176,penalty,Interference,Deryk Engelland,Alex DeBrincat,[94. 13.],2,01:31,VGK,CHI,CHI,16,VGK,54,1,0,8468674,8479337.0,2019020141,,2019-10-23,Deryk Engelland Interference against Alex DeBrincat
+181,penalty,Hi stick - double minor,Jonathan Toews,Brayden McNabb,[79. -6.],2,00:53,CHI,VGK,CHI,16,VGK,54,1,0,8473604,8475188.0,2019020141,,2019-10-23,Jonathan Toews Hi stick - double minor against Brayden McNabb
+278,penalty,Tripping,Jonathan Toews,Shea Theodore,[-28. -23.],4,01:38,CHI,VGK,CHI,16,VGK,54,1,1,8473604,8477447.0,2019020141,,2019-10-23,Jonathan Toews Tripping against Shea Theodore
+48,penalty,Roughing,Gabriel Landeskog,Max Pacioretty,[-3. 41.],1,08:53,COL,VGK,VGK,54,COL,21,0,1,8476455,8474157.0,2019020155,COL,2019-10-26,Gabriel Landeskog Roughing against Max Pacioretty
+49,penalty,Roughing,Max Pacioretty,Gabriel Landeskog,[-4. 42.],1,08:53,VGK,COL,VGK,54,COL,21,0,1,8474157,8476455.0,2019020155,COL,2019-10-26,Max Pacioretty Roughing against Gabriel Landeskog
+74,penalty,Holding,Nikita Zadorov,Reilly Smith,[-99. -16.],1,03:56,COL,VGK,VGK,54,COL,21,0,1,8477507,8475191.0,2019020155,COL,2019-10-26,Nikita Zadorov Holding against Reilly Smith
+76,penalty,Interference,Cody Glass,Matt Calvert,[-68.  -6.],1,03:54,VGK,COL,VGK,54,COL,21,0,1,8479996,8474685.0,2019020155,COL,2019-10-26,Cody Glass Interference against Matt Calvert
+123,penalty,Interference - Goalkeeper,Nazem Kadri,Marc-Andre Fleury,[-84.  -1.],2,14:25,COL,VGK,VGK,54,COL,21,1,2,8475172,8470594.0,2019020155,COL,2019-10-26,Nazem Kadri Interference - Goalkeeper against Marc-Andre Fleury
+136,penalty,Tripping,Paul Stastny,Nazem Kadri,[-35.  40.],2,11:16,VGK,COL,VGK,54,COL,21,1,3,8471669,8475172.0,2019020155,COL,2019-10-26,Paul Stastny Tripping against Nazem Kadri
+152,penalty,Holding,Cody Eakin,Gabriel Landeskog,[-98. -10.],2,07:24,VGK,COL,VGK,54,COL,21,1,4,8475236,8476455.0,2019020155,COL,2019-10-26,Cody Eakin Holding against Gabriel Landeskog
+209,penalty,Tripping,Erik Johnson,Ryan Reaves,[ 23. -39.],3,11:40,COL,VGK,VGK,54,COL,21,1,5,8473446,8471817.0,2019020155,COL,2019-10-26,Erik Johnson Tripping against Ryan Reaves
+241,penalty,Boarding,Ian Cole,Cody Glass,[-95.  25.],3,02:24,COL,VGK,VGK,54,COL,21,1,5,8474013,8479996.0,2019020155,COL,2019-10-26,Ian Cole Boarding against Cody Glass
+82,penalty,Holding,Brendan Guhle,Cody Glass,[-70. -36.],1,04:07,ANA,VGK,VGK,54,ANA,24,3,1,8478425,8479996.0,2019020176,ANA,2019-10-28,Brendan Guhle Holding against Cody Glass
+147,penalty,Tripping,Jakob Silfverberg,Shea Theodore,[-71. -28.],2,11:29,ANA,VGK,VGK,54,ANA,24,3,1,8475164,8477447.0,2019020176,ANA,2019-10-28,Jakob Silfverberg Tripping against Shea Theodore
+219,penalty,Interference,Ryan Getzlaf,William Karlsson,[-36.  12.],3,16:12,ANA,VGK,VGK,54,ANA,24,4,1,8470612,8476448.0,2019020176,ANA,2019-10-28,Ryan Getzlaf Interference against William Karlsson
+225,penalty,Tripping,Sam Steel,Cody Eakin,[-96. -12.],3,15:33,ANA,VGK,VGK,54,ANA,24,5,1,8479351,8475236.0,2019020176,ANA,2019-10-28,Sam Steel Tripping against Cody Eakin
+265,penalty,Hooking,William Carrier,Michael Del Zotto,[-80.   3.],3,05:33,VGK,ANA,VGK,54,ANA,24,5,2,8477478,8474584.0,2019020176,ANA,2019-10-28,William Carrier Hooking against Michael Del Zotto
+125,penalty,Too many men on the ice,Jonathan Marchessault,,[24. 41.],2,14:36,VGK,MTL,VGK,54,MTL,8,2,1,8476539,,2019020195,,2019-11-01,Too many men/ice served by Jonathan Marchessault
+204,penalty,Tripping,Deryk Engelland,Nick Suzuki,[-62.  37.],2,01:49,VGK,MTL,VGK,54,MTL,8,2,2,8468674,8480018.0,2019020195,,2019-11-01,Deryk Engelland Tripping against Nick Suzuki
+240,penalty,Hooking,Tomas Tatar,Paul Stastny,[-97.   0.],3,14:40,MTL,VGK,VGK,54,MTL,8,3,2,8475193,8471669.0,2019020195,,2019-11-01,Tomas Tatar Hooking against Paul Stastny
+266,penalty,Holding,Nate Schmidt,Phillip Danault,[ 84. -36.],3,08:29,VGK,MTL,VGK,54,MTL,8,4,2,8477220,8476479.0,2019020195,,2019-11-01,Nate Schmidt Holding against Phillip Danault
+24,penalty,Delaying Game - Puck over glass,Patrik Laine,,[-50. -41.],1,15:25,WPG,VGK,VGK,54,WPG,52,0,1,8479339,,2019020215,WPG,2019-11-03,Patrik Laine Delaying Game - Puck over glass
+40,penalty,Holding the stick,Jon Merrill,Patrik Laine,[84. -2.],1,12:25,VGK,WPG,VGK,54,WPG,52,2,1,8475750,8479339.0,2019020215,WPG,2019-11-03,Jon Merrill Holding the stick against Patrik Laine
+43,penalty,Hi-sticking,Blake Wheeler,Brayden McNabb,[84. -9.],1,12:08,WPG,VGK,VGK,54,WPG,52,2,1,8471218,8475188.0,2019020215,WPG,2019-11-03,Blake Wheeler Hi-sticking against Brayden McNabb
+102,penalty,Fighting,Adam Lowry,Ryan Reaves,[20. 22.],2,17:46,WPG,VGK,VGK,54,WPG,52,3,1,8476392,8471817.0,2019020215,WPG,2019-11-03,Adam Lowry Fighting against Ryan Reaves
+103,penalty,Fighting,Ryan Reaves,Adam Lowry,[20. 22.],2,17:46,VGK,WPG,VGK,54,WPG,52,3,1,8471817,8476392.0,2019020215,WPG,2019-11-03,Ryan Reaves Fighting against Adam Lowry
+150,penalty,Tripping,Dmitry Kulikov,Jonathan Marchessault,[ 89. -33.],2,08:36,WPG,VGK,VGK,54,WPG,52,3,1,8475179,8476539.0,2019020215,WPG,2019-11-03,Dmitry Kulikov Tripping against Jonathan Marchessault
+182,penalty,Tripping,Shea Theodore,Bryan Little,[-89. -26.],2,00:53,VGK,WPG,VGK,54,WPG,52,3,1,8477447,8473412.0,2019020215,WPG,2019-11-03,Shea Theodore Tripping against Bryan Little
+206,penalty,Interference,Nick Holden,Andrew Copp,[90. -5.],3,15:17,VGK,WPG,VGK,54,WPG,52,3,1,8474207,8477429.0,2019020215,WPG,2019-11-03,Nick Holden Interference against Andrew Copp
+232,penalty,Hooking,Max Pacioretty,Nikolaj Ehlers,[ 63. -15.],3,10:13,VGK,WPG,VGK,54,WPG,52,3,1,8474157,8477940.0,2019020215,WPG,2019-11-03,Max Pacioretty Hooking against Nikolaj Ehlers
+10,penalty,Hooking,Josh Anderson,Paul Stastny,[-93.  28.],1,18:02,CBJ,VGK,CBJ,29,VGK,54,0,0,8476981,8471669.0,2019020227,,2019-11-06,Josh Anderson Hooking against Paul Stastny
+27,penalty,Slashing,Ryan Reaves,Dean Kukan,[-22.  37.],1,12:16,VGK,CBJ,CBJ,29,VGK,54,0,0,8471817,8478567.0,2019020227,,2019-11-06,Ryan Reaves Slashing against Dean Kukan
+66,penalty,Missing key [PD_151],Sonny Milano,,[-20.  42.],1,00:45,CBJ,VGK,CBJ,29,VGK,54,0,1,8477947,,2019020227,,2019-11-06,Delaying Game - Unsucc. chlg served by Sonny Milano
+88,penalty,Hooking,Tomas Nosek,Sonny Milano,[-98.   1.],2,13:35,VGK,CBJ,CBJ,29,VGK,54,1,1,8477931,8477947.0,2019020227,,2019-11-06,Tomas Nosek Hooking against Sonny Milano
+104,penalty,Interference - Goalkeeper,Nicolas Roy,Joonas Korpisalo,[84.  2.],2,09:33,VGK,CBJ,CBJ,29,VGK,54,1,2,8478462,8476914.0,2019020227,,2019-11-06,Nicolas Roy Interference - Goalkeeper against Joonas Korpisalo
+135,penalty,Slashing,Gustav Nyquist,Jon Merrill,[-80.  -5.],2,00:53,CBJ,VGK,CBJ,29,VGK,54,1,2,8474679,8475750.0,2019020227,,2019-11-06,Gustav Nyquist Slashing against Jon Merrill
+179,penalty,Hi-sticking,Jon Merrill,Oliver Bjorkstrand,[70. 30.],3,06:54,VGK,CBJ,CBJ,29,VGK,54,1,2,8475750,8477416.0,2019020227,,2019-11-06,Jon Merrill Hi-sticking against Oliver Bjorkstrand
+4,penalty,Interference,Nicolas Hague,Kasperi Kapanen,[-31.  40.],1,19:34,VGK,TOR,TOR,10,VGK,54,0,0,8479980,8477953.0,2019020237,VGK,2019-11-08,Nicolas Hague Interference against Kasperi Kapanen
+74,penalty,Hooking,Paul Stastny,Mitchell Marner,[-31. -39.],1,06:12,VGK,TOR,TOR,10,VGK,54,0,0,8471669,8478483.0,2019020237,VGK,2019-11-08,Paul Stastny Hooking against Mitchell Marner
+84,penalty,Hi-sticking,Dmytro Timashov,Nicolas Hague,[ 8. 41.],1,03:14,TOR,VGK,TOR,10,VGK,54,0,0,8478857,8479980.0,2019020237,VGK,2019-11-08,Dmytro Timashov Hi-sticking against Nicolas Hague
+109,penalty,Holding,William Nylander,Reilly Smith,[-56. -35.],2,16:51,TOR,VGK,TOR,10,VGK,54,0,0,8477939,8475191.0,2019020237,VGK,2019-11-08,William Nylander Holding against Reilly Smith
+149,penalty,Hooking,Brayden McNabb,Mitchell Marner,[60.  0.],2,08:49,VGK,TOR,TOR,10,VGK,54,0,0,8475188,8478483.0,2019020237,VGK,2019-11-08,Brayden McNabb Hooking against Mitchell Marner
+174,penalty,Hooking,Nick Holden,John Tavares,[86. 11.],2,03:48,VGK,TOR,TOR,10,VGK,54,0,0,8474207,8475166.0,2019020237,VGK,2019-11-08,Nick Holden Hooking against John Tavares
+197,penalty,Tripping,Paul Stastny,Jake Muzzin,[66. -2.],3,18:27,VGK,TOR,TOR,10,VGK,54,0,0,8471669,8474162.0,2019020237,VGK,2019-11-08,Paul Stastny Tripping against Jake Muzzin
+214,penalty,Interference,Justin Holl,William Carrier,[ 71. -35.],3,15:40,TOR,VGK,TOR,10,VGK,54,0,1,8475718,8477478.0,2019020237,VGK,2019-11-08,Justin Holl Interference against William Carrier
+227,penalty,Holding,William Carrier,Jake Muzzin,[ 54. -40.],3,13:16,VGK,TOR,TOR,10,VGK,54,0,1,8477478,8474162.0,2019020237,VGK,2019-11-08,William Carrier Holding against Jake Muzzin
+244,penalty,Slashing,Trevor Moore,Brayden McNabb,[-70.  34.],3,10:27,TOR,VGK,TOR,10,VGK,54,1,1,8479675,8475188.0,2019020237,VGK,2019-11-08,Trevor Moore Slashing against Brayden McNabb
+291,penalty,Too many men on the ice,Alexander Kerfoot,,[ 8. 40.],3,01:21,TOR,VGK,TOR,10,VGK,54,1,1,8477021,,2019020237,VGK,2019-11-08,Too many men/ice served by Alexander Kerfoot
+14,penalty,Hooking,Jonathan Marchessault,T.J. Oshie,[-83.  10.],1,16:22,VGK,WSH,WSH,15,VGK,54,1,0,8476539,8471698.0,2019020258,,2019-11-10,Jonathan Marchessault Hooking against T.J. Oshie
+71,penalty,Hooking,Cody Eakin,Evgeny Kuznetsov,[-66.  21.],1,05:35,VGK,WSH,WSH,15,VGK,54,2,1,8475236,8475744.0,2019020258,,2019-11-10,Cody Eakin Hooking against Evgeny Kuznetsov
+83,penalty,Interference,Radko Gudas,Tomas Nosek,[ 43. -39.],1,00:03,WSH,VGK,WSH,15,VGK,54,2,1,8475462,8477931.0,2019020258,,2019-11-10,Radko Gudas Interference against Tomas Nosek
+134,penalty,Tripping,Tomas Nosek,Dmitry Orlov,[-91.  21.],2,07:33,VGK,WSH,WSH,15,VGK,54,2,1,8477931,8475200.0,2019020258,,2019-11-10,Tomas Nosek Tripping against Dmitry Orlov
+147,penalty,Elbowing,Garnet Hathaway,Max Pacioretty,[-39. -38.],2,04:00,WSH,VGK,WSH,15,VGK,54,3,1,8477903,8474157.0,2019020258,,2019-11-10,Garnet Hathaway Elbowing against Max Pacioretty
+167,penalty,Roughing,T.J. Oshie,Brayden McNabb,[ 91. -28.],2,00:00,WSH,VGK,WSH,15,VGK,54,3,2,8471698,8475188.0,2019020258,,2019-11-10,T.J. Oshie Roughing against Brayden McNabb
+187,penalty,Too many men on the ice,Alex Ovechkin,,[21. 39.],3,14:15,WSH,VGK,WSH,15,VGK,54,3,2,8471214,,2019020258,,2019-11-10,Too many men/ice served by Alex Ovechkin
+211,penalty,Slashing,Jon Merrill,Evgeny Kuznetsov,[-75. -18.],3,09:41,VGK,WSH,WSH,15,VGK,54,3,2,8475750,8475744.0,2019020258,,2019-11-10,Jon Merrill Slashing against Evgeny Kuznetsov
+219,penalty,Roughing,Cody Eakin,Tom Wilson,[83. 32.],3,08:00,VGK,WSH,WSH,15,VGK,54,4,2,8475236,8476880.0,2019020258,,2019-11-10,Cody Eakin Roughing against Tom Wilson
+220,penalty,Roughing,Tom Wilson,Cody Eakin,[77. 30.],3,08:00,WSH,VGK,WSH,15,VGK,54,4,2,8476880,8475236.0,2019020258,,2019-11-10,Tom Wilson Roughing against Cody Eakin
+224,penalty,Hooking,Jon Merrill,T.J. Oshie,[-82.   6.],3,06:43,VGK,WSH,WSH,15,VGK,54,4,2,8475750,8471698.0,2019020258,,2019-11-10,Jon Merrill Hooking against T.J. Oshie
+231,penalty,Slashing,Deryk Engelland,T.J. Oshie,[-70.  -7.],3,05:40,VGK,WSH,WSH,15,VGK,54,4,2,8468674,8471698.0,2019020258,,2019-11-10,Deryk Engelland Slashing against T.J. Oshie
+264,penalty,Game Misconduct - Team staff,Jon Merrill,,[-13.  42.],3,00:00,VGK,WSH,WSH,15,VGK,54,5,2,8475750,,2019020258,,2019-11-10,Game Misconduct - Team staff served by Jon Merrill
+53,penalty,Hi-sticking,Adam Erne,Nicolas Hague,[-97.   3.],1,08:22,DET,VGK,DET,17,VGK,54,0,0,8477454,8479980.0,2019020266,VGK,2019-11-11,Adam Erne Hi-sticking against Nicolas Hague
+72,penalty,Hooking,Reilly Smith,Christoffer Ehn,[-94. -13.],1,02:37,VGK,DET,DET,17,VGK,54,0,1,8475191,8478036.0,2019020266,VGK,2019-11-11,Reilly Smith Hooking against Christoffer Ehn
+144,penalty,Slashing,Shea Theodore,Dylan Larkin,[62. 27.],2,01:55,VGK,DET,DET,17,VGK,54,1,2,8477447,8477946.0,2019020266,VGK,2019-11-11,Shea Theodore Slashing against Dylan Larkin
+169,penalty,Delay Gm - Face-off Violation,Christoffer Ehn,,[-19. -23.],3,11:56,DET,VGK,DET,17,VGK,54,1,2,8478036,,2019020266,VGK,2019-11-11,Christoffer Ehn Delay Gm - Face-off Violation
+2,penalty,PS - Hooking on breakaway,Nicolas Hague,Zack Smith,[68.  1.],1,19:16,VGK,CHI,VGK,54,CHI,16,0,0,8479980,8474250.0,2019020285,,2019-11-14,Nicolas Hague PS - Hooking on breakaway against Zack Smith
+26,penalty,Hooking,Andrew Shaw,Cody Eakin,[-65.  39.],1,14:29,CHI,VGK,VGK,54,CHI,16,1,0,8476381,8475236.0,2019020285,,2019-11-14,Andrew Shaw Hooking against Cody Eakin
+146,penalty,Slashing,Brayden McNabb,Alex DeBrincat,[-83.   9.],2,10:38,VGK,CHI,VGK,54,CHI,16,2,3,8475188,8479337.0,2019020285,,2019-11-14,Brayden McNabb Slashing against Alex DeBrincat
+147,penalty,Cross checking,Alex DeBrincat,Brayden McNabb,[-84.   8.],2,10:38,CHI,VGK,VGK,54,CHI,16,2,3,8479337,8475188.0,2019020285,,2019-11-14,Alex DeBrincat Cross checking against Brayden McNabb
+155,penalty,PS - Thow object at puck,Corey Crawford,Jonathan Marchessault,[87.  1.],2,09:15,CHI,VGK,VGK,54,CHI,16,2,3,8470645,8476539.0,2019020285,,2019-11-14,Corey Crawford PS - Thow object at puck against Jonathan Marchessault
+176,penalty,Slashing,Nicolas Roy,Brandon Saad,[-65.   3.],2,06:18,VGK,CHI,VGK,54,CHI,16,2,3,8478462,8476438.0,2019020285,,2019-11-14,Nicolas Roy Slashing against Brandon Saad
+248,penalty,Interference,Adam Boqvist,William Carrier,[  1. -37.],3,08:40,CHI,VGK,VGK,54,CHI,16,2,4,8480871,8477478.0,2019020285,,2019-11-14,Adam Boqvist Interference against William Carrier
+8,penalty,Slashing,Paul Stastny,Anze Kopitar,[-36.  -2.],1,18:35,VGK,LAK,LAK,26,VGK,54,0,0,8471669,8471685.0,2019020312,VGK,2019-11-16,Paul Stastny Slashing against Anze Kopitar
+21,penalty,Hooking,Dustin Brown,Jonathan Marchessault,[-56. -35.],1,15:10,LAK,VGK,LAK,26,VGK,54,0,0,8470606,8476539.0,2019020312,VGK,2019-11-16,Dustin Brown Hooking against Jonathan Marchessault
+49,penalty,Roughing,Matt Roy,Alex Tuch,[98. -4.],1,09:52,LAK,VGK,LAK,26,VGK,54,0,0,8478911,8477949.0,2019020312,VGK,2019-11-16,Matt Roy Roughing against Alex Tuch
+67,penalty,Hooking,Mark Stone,Sean Walker,[-58. -39.],1,06:17,VGK,LAK,LAK,26,VGK,54,1,0,8475913,8480336.0,2019020312,VGK,2019-11-16,Mark Stone Hooking against Sean Walker
+77,penalty,Slashing,Sean Walker,Alex Tuch,[79.  9.],1,04:25,LAK,VGK,LAK,26,VGK,54,2,0,8480336,8477949.0,2019020312,VGK,2019-11-16,Sean Walker Slashing against Alex Tuch
+103,penalty,Hooking,Michael Stone,Max Pacioretty,[-72.  -1.],1,02:29,CGY,VGK,VGK,54,CGY,20,1,0,8474628,8474157.0,2019020315,CGY,2019-11-18,Michael Stone Hooking against Max Pacioretty
+114,penalty,Roughing,Travis Hamonic,Mark Stone,[-94. -26.],1,00:39,CGY,VGK,VGK,54,CGY,20,1,0,8474612,8475913.0,2019020315,CGY,2019-11-18,Travis Hamonic Roughing against Mark Stone
+115,penalty,Roughing,Mark Stone,Travis Hamonic,[-90. -27.],1,00:39,VGK,CGY,VGK,54,CGY,20,1,0,8475913,8474612.0,2019020315,CGY,2019-11-18,Mark Stone Roughing against Travis Hamonic
+165,penalty,Interference - Goalkeeper,Matthew Tkachuk,Andrew Mangiapane,[-85.   2.],2,11:33,CGY,VGK,VGK,54,CGY,20,1,0,8479314,8478233.0,2019020315,CGY,2019-11-18,Matthew Tkachuk Interference - Goalkeeper against Marc-Andre Fleury served by Andrew Mangiapane
+166,penalty,Roughing,Matthew Tkachuk,Jon Merrill,[-86.   3.],2,11:33,CGY,VGK,VGK,54,CGY,20,1,0,8479314,8475750.0,2019020315,CGY,2019-11-18,Matthew Tkachuk Roughing against Jon Merrill
+167,penalty,Roughing,Jon Merrill,Matthew Tkachuk,[-86.   3.],2,11:33,VGK,CGY,VGK,54,CGY,20,1,0,8475750,8479314.0,2019020315,CGY,2019-11-18,Jon Merrill Roughing against Matthew Tkachuk
+172,penalty,Roughing,Jonathan Marchessault,Mark Jankowski,[95. 12.],2,11:11,VGK,CGY,VGK,54,CGY,20,1,0,8476539,8476873.0,2019020315,CGY,2019-11-18,Jonathan Marchessault Roughing against Mark Jankowski
+191,penalty,Roughing,Ryan Reaves,Rasmus Andersson,[-64. -38.],2,07:47,VGK,CGY,VGK,54,CGY,20,2,0,8471817,8478397.0,2019020315,CGY,2019-11-18,Ryan Reaves Roughing against Rasmus Andersson
+192,penalty,Tripping,William Carrier,Max Pacioretty,[-66. -39.],2,07:47,VGK,CGY,VGK,54,CGY,20,2,0,8477478,8474157.0,2019020315,CGY,2019-11-18,William Carrier Tripping against Milan Lucic served by Max Pacioretty
+193,penalty,Roughing,William Carrier,Milan Lucic,[-65. -38.],2,07:47,VGK,CGY,VGK,54,CGY,20,2,0,8477478,8473473.0,2019020315,CGY,2019-11-18,William Carrier Roughing against Milan Lucic
+194,penalty,Roughing,Milan Lucic,William Carrier,[-63. -37.],2,07:47,CGY,VGK,VGK,54,CGY,20,2,0,8473473,8477478.0,2019020315,CGY,2019-11-18,Milan Lucic Roughing against William Carrier
+195,penalty,Roughing,Rasmus Andersson,Ryan Reaves,[-63. -38.],2,07:47,CGY,VGK,VGK,54,CGY,20,2,0,8478397,8471817.0,2019020315,CGY,2019-11-18,Rasmus Andersson Roughing against Ryan Reaves
+297,penalty,Missing key [PD_151],Matthew Tkachuk,,[  0. -40.],3,05:35,CGY,VGK,VGK,54,CGY,20,4,0,8479314,,2019020315,CGY,2019-11-18,Delaying Game - Unsucc. chlg served by Matthew Tkachuk
+132,penalty,Cross checking,Justin Holl,Ryan Reaves,[81.  2.],2,13:23,TOR,VGK,VGK,54,TOR,10,0,0,8475718,8471817.0,2019020329,TOR,2019-11-20,Justin Holl Cross checking against Ryan Reaves
+247,penalty,Hooking,John Tavares,Alex Tuch,[30. 25.],3,10:00,TOR,VGK,VGK,54,TOR,10,2,1,8475166,8477949.0,2019020329,TOR,2019-11-20,John Tavares Hooking against Alex Tuch
+256,penalty,Slashing,Ryan Reaves,Pierre Engvall,[ 32. -19.],3,08:59,VGK,TOR,VGK,54,TOR,10,3,1,8471817,8478115.0,2019020329,TOR,2019-11-20,Ryan Reaves Slashing against Pierre Engvall
+283,penalty,Slashing,Brayden McNabb,Andreas Johnsson,[81.  4.],3,03:20,VGK,TOR,VGK,54,TOR,10,3,2,8475188,8477341.0,2019020329,TOR,2019-11-20,Brayden McNabb Slashing against Andreas Johnsson
+48,penalty,Tripping,Logan Couture,Reilly Smith,[-98. -15.],1,11:28,SJS,VGK,VGK,54,SJS,28,0,0,8474053,8475191.0,2019020344,,2019-11-23,Logan Couture Tripping against Reilly Smith
+132,penalty,Too many men on the ice,Patrick Marleau,,[-29.  42.],2,10:48,SJS,VGK,VGK,54,SJS,28,0,1,8466139,,2019020344,,2019-11-23,Too many men/ice served by Patrick Marleau
+149,penalty,Tripping,Marc-Andre Fleury,Ryan Reaves,[-85.  -2.],2,06:46,VGK,SJS,VGK,54,SJS,28,0,1,8470594,8471817.0,2019020344,,2019-11-23,Marc-Andre Fleury Tripping against Marcus Sorensen served by Ryan Reaves
+202,penalty,Interference,Brenden Dillon,Cody Eakin,[-88.  29.],3,15:42,SJS,VGK,VGK,54,SJS,28,0,1,8475455,8475236.0,2019020344,,2019-11-23,Brenden Dillon Interference against Cody Eakin
+237,penalty,Slashing,Cody Eakin,Timo Meier,[ 67. -17.],3,08:43,VGK,SJS,VGK,54,SJS,28,1,1,8475236,8478414.0,2019020344,,2019-11-23,Cody Eakin Slashing against Timo Meier
+147,penalty,Interference,Brayden McNabb,Leon Draisaitl,[-80.  34.],2,11:41,VGK,EDM,VGK,54,EDM,22,1,2,8475188,8477934.0,2019020360,,2019-11-24,Brayden McNabb Interference against Leon Draisaitl
+211,penalty,Interference,Max Pacioretty,Connor McDavid,[-62. -24.],3,19:21,VGK,EDM,VGK,54,EDM,22,2,3,8474157,8478402.0,2019020360,,2019-11-24,Max Pacioretty Interference against Connor McDavid
+241,penalty,Cross checking,Ryan Reaves,James Neal,[21. 19.],3,11:46,VGK,EDM,VGK,54,EDM,22,2,4,8471817,8471707.0,2019020360,,2019-11-24,Ryan Reaves Cross checking against James Neal
+2,penalty,Tripping,Jon Merrill,Radek Faksa,[-92.  31.],1,19:35,VGK,DAL,DAL,25,VGK,54,0,0,8475750,8476889.0,2019020371,,2019-11-26,Jon Merrill Tripping against Radek Faksa
+41,penalty,Slashing,Jonathan Marchessault,John Klingberg,[-81.  11.],1,10:01,VGK,DAL,DAL,25,VGK,54,0,0,8476539,8475906.0,2019020371,,2019-11-26,Jonathan Marchessault Slashing against John Klingberg
+73,penalty,Hooking,Cody Eakin,Joe Pavelski,[-93. -14.],1,02:42,VGK,DAL,DAL,25,VGK,54,2,0,8475236,8470794.0,2019020371,,2019-11-26,Cody Eakin Hooking against Joe Pavelski
+74,penalty,Holding,Joe Pavelski,Cody Eakin,[-83. -15.],1,02:42,DAL,VGK,DAL,25,VGK,54,2,0,8470794,8475236.0,2019020371,,2019-11-26,Joe Pavelski Holding against Cody Eakin
+95,penalty,Hi-sticking,Tyler Seguin,Max Pacioretty,[ 68. -14.],2,18:52,DAL,VGK,DAL,25,VGK,54,2,0,8475794,8474157.0,2019020371,,2019-11-26,Tyler Seguin Hi-sticking against Max Pacioretty
+113,penalty,Interference,Jamie Oleksiak,Alex Tuch,[-15.  39.],2,15:25,DAL,VGK,DAL,25,VGK,54,2,0,8476467,8477949.0,2019020371,,2019-11-26,Jamie Oleksiak Interference against Alex Tuch
+121,penalty,Delay of game,Roman Polak,,[-97. -21.],2,13:43,DAL,VGK,DAL,25,VGK,54,2,0,8471392,,2019020371,,2019-11-26,Roman Polak Delay of game
+146,penalty,Hi-sticking,Tyler Seguin,Brayden McNabb,[ 98. -19.],2,08:17,DAL,VGK,DAL,25,VGK,54,2,0,8475794,8475188.0,2019020371,,2019-11-26,Tyler Seguin Hi-sticking against Brayden McNabb
+242,penalty,Hooking,Cody Glass,Miro Heiskanen,[47. 28.],3,07:59,VGK,DAL,DAL,25,VGK,54,3,2,8479996,8480036.0,2019020371,,2019-11-26,Cody Glass Hooking against Miro Heiskanen
+83,penalty,Tripping,Nick Bonino,Jonathan Marchessault,[79. 36.],2,18:54,NSH,VGK,NSH,18,VGK,54,0,1,8474009,8476539.0,2019020385,,2019-11-28,Nick Bonino Tripping against Jonathan Marchessault
+89,penalty,Hooking,Alex Tuch,Mattias Ekholm,[ 79. -32.],2,18:10,VGK,NSH,NSH,18,VGK,54,0,1,8477949,8475218.0,2019020385,,2019-11-28,Alex Tuch Hooking against Mattias Ekholm
+210,penalty,Interference,Shea Theodore,Craig Smith,[82.  3.],3,06:43,VGK,NSH,NSH,18,VGK,54,3,2,8477447,8475225.0,2019020385,,2019-11-28,Shea Theodore Interference against Craig Smith
+219,penalty,Holding,Dante Fabbro,Jonathan Marchessault,[-30. -22.],3,04:26,NSH,VGK,NSH,18,VGK,54,3,2,8479371,8476539.0,2019020385,,2019-11-28,Dante Fabbro Holding against Jonathan Marchessault
+27,penalty,Hooking,Nicolas Hague,Clayton Keller,[ 72. -40.],1,14:46,VGK,ARI,VGK,54,ARI,53,0,0,8479980,8479343.0,2019020399,,2019-11-30,Nicolas Hague Hooking against Clayton Keller
+123,penalty,Delaying Game - Puck over glass,Derek Stepan,,[69. 35.],2,14:47,ARI,VGK,VGK,54,ARI,53,0,0,8474613,,2019020399,,2019-11-30,Derek Stepan Delaying Game - Puck over glass
+137,penalty,Holding,Oliver Ekman-Larsson,Deryk Engelland,[80.  1.],2,10:41,ARI,VGK,VGK,54,ARI,53,1,0,8475171,8468674.0,2019020399,,2019-11-30,Oliver Ekman-Larsson Holding against Deryk Engelland
+202,penalty,Tripping,Clayton Keller,Brayden McNabb,[-72.  -1.],3,13:29,ARI,VGK,VGK,54,ARI,53,1,1,8479343,8475188.0,2019020399,,2019-11-30,Clayton Keller Tripping against Brayden McNabb
+229,penalty,Illegal check to head,Brad Richardson,Cody Eakin,[-93. -29.],3,07:22,ARI,VGK,VGK,54,ARI,53,1,1,8470755,8475236.0,2019020399,,2019-11-30,Brad Richardson Illegal check to head against Cody Eakin
+234,penalty,Hooking,William Karlsson,Christian Dvorak,[-43.  37.],3,06:16,VGK,ARI,VGK,54,ARI,53,1,1,8476448,8477989.0,2019020399,,2019-11-30,William Karlsson Hooking against Christian Dvorak
+239,penalty,Holding,Phil Kessel,Jonathan Marchessault,[-93.   3.],3,05:57,ARI,VGK,VGK,54,ARI,53,1,1,8473548,8476539.0,2019020399,,2019-11-30,Phil Kessel Holding against Jonathan Marchessault
+11,penalty,Holding the stick,Brady Skjei,Alex Tuch,[33.  3.],1,18:08,NYR,VGK,NYR,3,VGK,54,0,1,8476869,8477949.0,2019020420,,2019-12-03,Brady Skjei Holding the stick against Alex Tuch
+58,penalty,Hooking,Nicolas Roy,Brendan Lemieux,[-81.   4.],1,08:04,VGK,NYR,NYR,3,VGK,54,0,2,8478462,8477962.0,2019020420,,2019-12-03,Nicolas Roy Hooking against Brendan Lemieux
+97,penalty,Delaying Game - Puck over glass,Nicolas Hague,,[-65.  39.],1,00:47,VGK,NYR,NYR,3,VGK,54,0,2,8479980,,2019020420,,2019-12-03,Nicolas Hague Delaying Game - Puck over glass
+123,penalty,Hi-sticking,Kaapo Kakko,Brayden McNabb,[ 58. -22.],2,14:01,NYR,VGK,NYR,3,VGK,54,0,3,8481554,8475188.0,2019020420,,2019-12-03,Kaapo Kakko Hi-sticking against Brayden McNabb
+189,penalty,Hooking,Shea Theodore,Kaapo Kakko,[-82.  -5.],3,18:27,VGK,NYR,NYR,3,VGK,54,1,4,8477447,8481554.0,2019020420,,2019-12-03,Shea Theodore Hooking against Kaapo Kakko
+201,penalty,Tripping,Max Pacioretty,Tony DeAngelo,[11.  6.],3,15:01,VGK,NYR,NYR,3,VGK,54,1,4,8474157,8477950.0,2019020420,,2019-12-03,Max Pacioretty Tripping against Tony DeAngelo
+252,penalty,Hooking,Max Pacioretty,Artemi Panarin,[-65. -11.],3,02:14,VGK,NYR,NYR,3,VGK,54,1,4,8474157,8478550.0,2019020420,,2019-12-03,Max Pacioretty Hooking against Artemi Panarin
+257,penalty,Throwing stick,Ryan Strome,,[-71.  29.],3,01:12,NYR,VGK,NYR,3,VGK,54,1,4,8476458,,2019020420,,2019-12-03,Ryan Strome Throwing stick
+259,penalty,Holding,Paul Stastny,Brady Skjei,[-65.  11.],3,00:45,VGK,NYR,NYR,3,VGK,54,1,4,8471669,8476869.0,2019020420,,2019-12-03,Paul Stastny Holding against Brady Skjei
+21,penalty,Holding the stick,Andy Greene,Alex Tuch,[-82.   6.],1,16:27,NJD,VGK,NJD,1,VGK,54,0,0,8472382,8477949.0,2019020427,,2019-12-04,Andy Greene Holding the stick against Alex Tuch
+58,penalty,Boarding,William Carrier,Max Pacioretty,[  4. -37.],1,08:34,VGK,NJD,NJD,1,VGK,54,0,0,8477478,8474157.0,2019020427,,2019-12-04,William Carrier Boarding against Matt Tennyson served by Max Pacioretty
+59,penalty,Roughing,William Carrier,Will Butcher,[  4. -38.],1,08:34,VGK,NJD,NJD,1,VGK,54,0,0,8477478,8477355.0,2019020427,,2019-12-04,William Carrier Roughing against Will Butcher
+60,penalty,Roughing,Will Butcher,William Carrier,[  7. -37.],1,08:34,NJD,VGK,NJD,1,VGK,54,0,0,8477355,8477478.0,2019020427,,2019-12-04,Will Butcher Roughing against William Carrier
+158,penalty,Missing key [PD_151],Jonathan Marchessault,,[  1. -37.],2,05:43,VGK,NJD,NJD,1,VGK,54,2,1,8476539,,2019020427,,2019-12-04,Delaying Game - Unsucc. chlg served by Jonathan Marchessault
+209,penalty,Hooking,Damon Severson,William Carrier,[-54. -18.],3,11:01,NJD,VGK,NJD,1,VGK,54,2,3,8476923,8477478.0,2019020427,,2019-12-04,Damon Severson Hooking against William Carrier
+239,penalty,Interference,Kyle Palmieri,Alex Tuch,[-44. -33.],3,04:45,NJD,VGK,NJD,1,VGK,54,3,4,8475151,8477949.0,2019020427,,2019-12-04,Kyle Palmieri Interference against Alex Tuch
+54,penalty,Tripping,Jon Merrill,Matt Martin,[15. 34.],1,08:53,VGK,NYI,NYI,2,VGK,54,0,0,8475750,8474709.0,2019020441,,2019-12-06,Jon Merrill Tripping against Matt Martin
+147,penalty,Interference,Mathew Barzal,Tomas Nosek,[-8. 41.],2,10:23,NYI,VGK,NYI,2,VGK,54,1,0,8478445,8477931.0,2019020441,,2019-12-06,Mathew Barzal Interference against Tomas Nosek
+291,penalty,Tripping,Jonathan Marchessault,Mathew Barzal,[-27.  10.],4,01:50,VGK,NYI,NYI,2,VGK,54,2,2,8476539,8478445.0,2019020441,,2019-12-06,Jonathan Marchessault Tripping against Mathew Barzal
+59,penalty,Hooking,Brady Skjei,William Karlsson,[-78.   0.],1,07:49,NYR,VGK,VGK,54,NYR,3,0,2,8476869,8476448.0,2019020466,,2019-12-09,Brady Skjei Hooking against William Karlsson
+85,penalty,Tripping,Paul Stastny,Brady Skjei,[-67.  40.],1,01:04,VGK,NYR,VGK,54,NYR,3,0,2,8471669,8476869.0,2019020466,,2019-12-09,Paul Stastny Tripping against Brady Skjei
+119,penalty,Hi stick - double minor,Ryan Reaves,Brendan Lemieux,[ 35. -18.],2,14:57,VGK,NYR,VGK,54,NYR,3,0,2,8471817,8477962.0,2019020466,,2019-12-09,Ryan Reaves Hi stick - double minor against Brendan Lemieux
+151,penalty,Delaying Game - Puck over glass,Marc Staal,,[ 64. -26.],2,06:23,NYR,VGK,VGK,54,NYR,3,0,4,8471686,,2019020466,,2019-12-09,Marc Staal Delaying Game - Puck over glass
+154,penalty,Slashing,Shea Theodore,Mika Zibanejad,[-83.   6.],2,06:13,VGK,NYR,VGK,54,NYR,3,0,4,8477447,8476459.0,2019020466,,2019-12-09,Shea Theodore Slashing against Mika Zibanejad
+182,penalty,Holding,Tony DeAngelo,Tomas Nosek,[ 88. -32.],2,00:58,NYR,VGK,VGK,54,NYR,3,0,4,8477950,8477931.0,2019020466,,2019-12-09,Tony DeAngelo Holding against Tomas Nosek
+203,penalty,Fighting,William Carrier,Brendan Lemieux,[ 29. -33.],3,16:56,VGK,NYR,VGK,54,NYR,3,0,4,8477478,8477962.0,2019020466,,2019-12-09,William Carrier Fighting against Brendan Lemieux
+204,penalty,Fighting,Brendan Lemieux,William Carrier,[ 30. -32.],3,16:56,NYR,VGK,VGK,54,NYR,3,0,4,8477962,8477478.0,2019020466,,2019-12-09,Brendan Lemieux Fighting against William Carrier
+228,penalty,Delaying Game - Puck over glass,Mika Zibanejad,,[-46. -41.],3,11:18,NYR,VGK,VGK,54,NYR,3,0,4,8476459,,2019020466,,2019-12-09,Mika Zibanejad Delaying Game - Puck over glass
+256,penalty,Holding,Paul Stastny,Kaapo Kakko,[ 76. -26.],3,05:29,VGK,NYR,VGK,54,NYR,3,0,4,8471669,8481554.0,2019020466,,2019-12-09,Paul Stastny Holding against Kaapo Kakko
+71,penalty,Interference,Mark Stone,Calvin de Haan,[-20. -40.],1,02:14,VGK,CHI,VGK,54,CHI,16,0,0,8475913,8475177.0,2019020482,,2019-12-11,Mark Stone Interference against Calvin de Haan
+103,penalty,Hooking,Dennis Gilbert,Paul Stastny,[72.  1.],2,14:30,CHI,VGK,VGK,54,CHI,16,0,0,8478502,8471669.0,2019020482,,2019-12-11,Dennis Gilbert Hooking against Paul Stastny
+169,penalty,Slashing,Alex Tuch,Erik Gustafsson,[-69. -36.],2,01:32,VGK,CHI,VGK,54,CHI,16,2,0,8477949,8476979.0,2019020482,,2019-12-11,Alex Tuch Slashing against Erik Gustafsson
+208,penalty,Cross checking,Brandon Saad,Nicolas Hague,[72.  2.],3,14:12,CHI,VGK,VGK,54,CHI,16,4,0,8476438,8479980.0,2019020482,,2019-12-11,Brandon Saad Cross checking against Nicolas Hague
+210,penalty,Interference,Valentin Zykov,Zack Smith,[-23. -20.],3,13:53,VGK,CHI,VGK,54,CHI,16,4,0,8477458,8474250.0,2019020482,,2019-12-11,Valentin Zykov Interference against Zack Smith
+260,penalty,Interference,Chandler Stephenson,Jonathan Toews,[69.  7.],3,01:50,VGK,CHI,VGK,54,CHI,16,5,0,8476905,8473604.0,2019020482,,2019-12-11,Chandler Stephenson Interference against Jonathan Toews
+57,penalty,Tripping,Carl Gunnarsson,Reilly Smith,[-78. -38.],1,03:11,STL,VGK,STL,19,VGK,54,1,2,8474125,8475191.0,2019020492,,2019-12-13,Carl Gunnarsson Tripping against Reilly Smith
+105,penalty,Delaying Game - Puck over glass,Alex Pietrangelo,,[ 49. -25.],2,07:59,STL,VGK,STL,19,VGK,54,2,2,8474565,,2019020492,,2019-12-13,Alex Pietrangelo Delaying Game - Puck over glass
+182,penalty,Hooking,Justin Faulk,Max Pacioretty,[-83.  -4.],3,05:38,STL,VGK,STL,19,VGK,54,4,2,8475753,8474157.0,2019020492,,2019-12-13,Justin Faulk Hooking against Max Pacioretty
+152,penalty,Hooking,Blake Comeau,Nick Holden,[59. 26.],2,07:56,DAL,VGK,DAL,25,VGK,54,1,1,8471260,8474207.0,2019020499,,2019-12-14,Blake Comeau Hooking against Nick Holden
+183,penalty,Hooking,Shea Theodore,Corey Perry,[77.  4.],2,01:41,VGK,DAL,DAL,25,VGK,54,1,2,8477447,8470621.0,2019020499,,2019-12-14,Shea Theodore Hooking against Corey Perry
+214,penalty,Tripping,Reilly Smith,Blake Comeau,[-65. -37.],3,12:47,VGK,DAL,DAL,25,VGK,54,1,2,8475191,8471260.0,2019020499,,2019-12-14,Reilly Smith Tripping against Blake Comeau
+229,penalty,Holding,Taylor Fedun,Max Pacioretty,[ 33. -37.],3,10:27,DAL,VGK,DAL,25,VGK,54,1,2,8476166,8474157.0,2019020499,,2019-12-14,Taylor Fedun Holding against Max Pacioretty
+29,penalty,Holding,Jordie Benn,Alex Tuch,[-97.  10.],1,13:56,VAN,VGK,VGK,54,VAN,23,1,1,8474818,8477949.0,2019020518,,2019-12-16,Jordie Benn Holding against Alex Tuch
+44,penalty,Slashing,Jordie Benn,Chandler Stephenson,[-72.   2.],1,10:18,VAN,VGK,VGK,54,VAN,23,1,1,8474818,8476905.0,2019020518,,2019-12-16,Jordie Benn Slashing against Chandler Stephenson
+67,penalty,Tripping,Reilly Smith,Elias Pettersson,[-92. -27.],1,05:18,VGK,VAN,VGK,54,VAN,23,2,1,8475191,8480012.0,2019020518,,2019-12-16,Reilly Smith Tripping against Elias Pettersson
+88,penalty,Roughing,Ryan Reaves,Antoine Roussel,[88.  8.],1,02:05,VGK,VAN,VGK,54,VAN,23,2,1,8471817,8474849.0,2019020518,,2019-12-16,Ryan Reaves Roughing against Antoine Roussel
+89,penalty,Roughing,Antoine Roussel,Ryan Reaves,[86.  8.],1,02:05,VAN,VGK,VGK,54,VAN,23,2,1,8474849,8471817.0,2019020518,,2019-12-16,Antoine Roussel Roughing against Ryan Reaves
+172,penalty,Too many men on the ice,Josh Leivo,,[-15.  38.],2,05:41,VAN,VGK,VGK,54,VAN,23,4,1,8476410,,2019020518,,2019-12-16,Too many men/ice served by Josh Leivo
+267,penalty,Tripping,Brayden McNabb,Elias Pettersson,[70. 22.],3,04:15,VGK,VAN,VGK,54,VAN,23,5,2,8475188,8480012.0,2019020518,,2019-12-16,Brayden McNabb Tripping against Elias Pettersson
+281,penalty,Tripping,Quinn Hughes,Jonathan Marchessault,[-71.  23.],3,01:40,VAN,VGK,VGK,54,VAN,23,5,3,8480800,8476539.0,2019020518,,2019-12-16,Quinn Hughes Tripping against Jonathan Marchessault
+290,penalty,Cross checking,Jay Beagle,Deryk Engelland,[74. -1.],3,00:08,VAN,VGK,VGK,54,VAN,23,6,3,8474291,8468674.0,2019020518,,2019-12-16,Jay Beagle Cross checking against Deryk Engelland
+291,penalty,Roughing,Deryk Engelland,Jay Beagle,[ 86. -33.],3,00:08,VGK,VAN,VGK,54,VAN,23,6,3,8468674,8474291.0,2019020518,,2019-12-16,Deryk Engelland Roughing against Jay Beagle
+23,penalty,Tripping,Ryan Hartman,Max Pacioretty,[ 70. -34.],1,15:05,MIN,VGK,VGK,54,MIN,30,0,0,8477451,8474157.0,2019020533,,2019-12-18,Ryan Hartman Tripping against Max Pacioretty
+73,penalty,Hooking,Nate Schmidt,Eric Staal,[ 92. -24.],1,03:59,VGK,MIN,VGK,54,MIN,30,0,0,8477220,8470595.0,2019020533,,2019-12-18,Nate Schmidt Hooking against Eric Staal
+83,penalty,Tripping,Reilly Smith,Ryan Hartman,[-49.   4.],1,01:25,VGK,MIN,VGK,54,MIN,30,0,0,8475191,8477451.0,2019020533,,2019-12-18,Reilly Smith Tripping against Ryan Hartman
+86,penalty,Interference,Mark Stone,Matt Dumba,[-62.   1.],1,01:02,VGK,MIN,VGK,54,MIN,30,0,0,8475913,8476856.0,2019020533,,2019-12-18,Mark Stone Interference against Matt Dumba
+156,penalty,Cross checking,Chandler Stephenson,Victor Rask,[-69. -22.],2,03:52,VGK,MIN,VGK,54,MIN,30,1,1,8476905,8476437.0,2019020533,,2019-12-18,Chandler Stephenson Cross checking against Victor Rask
+197,penalty,Tripping,Marc-Andre Fleury,William Carrier,[87.  7.],3,15:57,VGK,MIN,VGK,54,MIN,30,2,1,8470594,8477478.0,2019020533,,2019-12-18,Marc-Andre Fleury Tripping against Kevin Fiala served by William Carrier
+24,penalty,Tripping,Nicolas Hague,Jay Beagle,[-52.  40.],1,14:52,VGK,VAN,VAN,23,VGK,54,1,0,8479980,8474291.0,2019020547,,2019-12-20,Nicolas Hague Tripping against Jay Beagle
+91,penalty,Boarding,Valentin Zykov,Oscar Fantenberg,[-99.  -8.],2,17:32,VGK,VAN,VAN,23,VGK,54,3,1,8477458,8480147.0,2019020547,,2019-12-20,Valentin Zykov Boarding against Oscar Fantenberg
+144,penalty,Slashing,Deryk Engelland,Tyler Motte,[80. -4.],2,06:10,VGK,VAN,VAN,23,VGK,54,3,3,8468674,8477353.0,2019020547,,2019-12-20,Deryk Engelland Slashing against Tyler Motte
+145,penalty,Slashing,Tyler Motte,Deryk Engelland,[80. -2.],2,06:10,VAN,VGK,VAN,23,VGK,54,3,3,8477353,8468674.0,2019020547,,2019-12-20,Tyler Motte Slashing against Deryk Engelland
+148,penalty,Holding,Shea Theodore,Bo Horvat,[63. 16.],2,04:57,VGK,VAN,VAN,23,VGK,54,3,3,8477447,8477500.0,2019020547,,2019-12-20,Shea Theodore Holding against Bo Horvat
+175,penalty,Holding,Reilly Smith,Elias Pettersson,[-33. -39.],3,19:45,VGK,VAN,VAN,23,VGK,54,3,3,8475191,8480012.0,2019020547,,2019-12-20,Reilly Smith Holding against Elias Pettersson
+237,penalty,Face-off violation,Chandler Stephenson,,[-74. -23.],3,08:42,VGK,VAN,VAN,23,VGK,54,4,3,8476905,,2019020547,,2019-12-20,Delay Game - Bench – FO viol served by Chandler Stephenson
+248,penalty,Unsportsmanlike conduct,Ryan Reaves,Jake Virtanen,[ 88. -11.],3,05:29,VGK,VAN,VAN,23,VGK,54,4,3,8471817,8477937.0,2019020547,,2019-12-20,Ryan Reaves Unsportsmanlike conduct against Jake Virtanen
+249,penalty,Slashing,Jake Virtanen,Ryan Reaves,[83. -9.],3,05:29,VAN,VGK,VAN,23,VGK,54,4,3,8477937,8471817.0,2019020547,,2019-12-20,Jake Virtanen Slashing against Ryan Reaves
+262,penalty,Hooking,Jordie Benn,Alex Tuch,[73. 18.],3,02:30,VAN,VGK,VAN,23,VGK,54,4,4,8474818,8477949.0,2019020547,,2019-12-20,Jordie Benn Hooking against Alex Tuch
+8,penalty,Tripping,Evander Kane,Mark Stone,[49. 32.],1,18:30,SJS,VGK,SJS,28,VGK,54,0,0,8475169,8475913.0,2019020568,,2019-12-23,Evander Kane Tripping against Mark Stone
+66,penalty,Delaying Game - Puck over glass,Erik Karlsson,,[-42. -42.],1,02:43,SJS,VGK,SJS,28,VGK,54,0,0,8474578,,2019020568,,2019-12-23,Erik Karlsson Delaying Game - Puck over glass
+121,penalty,Delaying Game - Puck over glass,William Carrier,,[-31. -42.],2,12:33,VGK,SJS,SJS,28,VGK,54,0,0,8477478,,2019020568,,2019-12-23,William Carrier Delaying Game - Puck over glass
+129,penalty,Elbowing,Brent Burns,Alex Tuch,[99. -5.],2,08:52,SJS,VGK,SJS,28,VGK,54,0,0,8470613,8477949.0,2019020568,,2019-12-23,Brent Burns Elbowing against Alex Tuch
+158,penalty,Roughing,Ryan Reaves,Brenden Dillon,[88.  0.],2,01:11,VGK,SJS,SJS,28,VGK,54,0,1,8471817,8475455.0,2019020568,,2019-12-23,Ryan Reaves Roughing against Brenden Dillon
+159,penalty,Roughing,Brenden Dillon,Ryan Reaves,[88.  0.],2,01:11,SJS,VGK,SJS,28,VGK,54,0,1,8475455,8471817.0,2019020568,,2019-12-23,Brenden Dillon Roughing against Ryan Reaves
+222,penalty,Tripping,Brayden McNabb,Kevin Labanc,[79.  7.],3,10:18,VGK,SJS,SJS,28,VGK,54,1,2,8475188,8478099.0,2019020568,,2019-12-23,Brayden McNabb Tripping against Kevin Labanc
+250,penalty,Tripping,Evander Kane,Brayden McNabb,[86. -7.],3,06:57,SJS,VGK,SJS,28,VGK,54,1,2,8475169,8475188.0,2019020568,,2019-12-23,Evander Kane Tripping against Brayden McNabb
+251,penalty,Holding the stick,Brayden McNabb,Evander Kane,[88. -2.],3,06:57,VGK,SJS,SJS,28,VGK,54,1,2,8475188,8475169.0,2019020568,,2019-12-23,Brayden McNabb Holding the stick against Evander Kane
+274,penalty,Slashing,Chandler Stephenson,Joe Thornton,[ 88. -36.],3,02:16,VGK,SJS,SJS,28,VGK,54,1,3,8476905,8466138.0,2019020568,,2019-12-23,Chandler Stephenson Slashing against Joe Thornton
+13,penalty,Hi-sticking,Shea Theodore,Nazem Kadri,[-48.  39.],1,17:55,VGK,COL,VGK,54,COL,21,0,0,8477447,8475172.0,2019020580,,2019-12-24,Shea Theodore Hi-sticking against Nazem Kadri
+60,penalty,Holding,Joonas Donskoi,Nicolas Hague,[ 75. -39.],1,05:49,COL,VGK,VGK,54,COL,21,1,1,8475820,8479980.0,2019020580,,2019-12-24,Joonas Donskoi Holding against Nicolas Hague
+143,penalty,Fighting,Deryk Engelland,Valeri Nichushkin,[-68.   4.],2,11:11,VGK,COL,VGK,54,COL,21,1,3,8468674,8477501.0,2019020580,,2019-12-24,Deryk Engelland Fighting against Valeri Nichushkin
+144,penalty,Fighting,Valeri Nichushkin,Deryk Engelland,[-68.   2.],2,11:11,COL,VGK,VGK,54,COL,21,1,3,8477501,8468674.0,2019020580,,2019-12-24,Valeri Nichushkin Fighting against Deryk Engelland
+178,penalty,Hooking,Nate Schmidt,Matt Nieto,[-78.  -2.],2,06:15,VGK,COL,VGK,54,COL,21,2,3,8477220,8476442.0,2019020580,,2019-12-24,Nate Schmidt Hooking against Matt Nieto
+179,penalty,Cross checking,Max Pacioretty,Matt Calvert,[-82.  -2.],2,06:15,VGK,COL,VGK,54,COL,21,2,3,8474157,8474685.0,2019020580,,2019-12-24,Max Pacioretty Cross checking against Matt Calvert
+180,penalty,Roughing,Matt Calvert,Max Pacioretty,[-83.  -2.],2,06:15,COL,VGK,VGK,54,COL,21,2,3,8474685,8474157.0,2019020580,,2019-12-24,Matt Calvert Roughing against Max Pacioretty
+198,penalty,Missing key [PD_151],Jonathan Marchessault,,[  0. -41.],2,03:02,VGK,COL,VGK,54,COL,21,2,5,8476539,,2019020580,,2019-12-24,Delaying Game - Unsucc. chlg served by Jonathan Marchessault
+224,penalty,Tripping,Nick Holden,Nazem Kadri,[59.  1.],3,17:22,VGK,COL,VGK,54,COL,21,3,5,8474207,8475172.0,2019020580,,2019-12-24,Nick Holden Tripping against Nazem Kadri
+284,penalty,Hi-sticking,Nicolas Hague,Andre Burakovsky,[53. 22.],3,05:28,VGK,COL,VGK,54,COL,21,3,6,8479980,8477444.0,2019020580,,2019-12-24,Nicolas Hague Hi-sticking against Andre Burakovsky
+105,penalty,Tripping,Nate Schmidt,Adam Henrique,[-47. -38.],2,12:59,VGK,ANA,ANA,24,VGK,54,0,1,8477220,8474641.0,2019020591,,2019-12-28,Nate Schmidt Tripping against Adam Henrique
+112,penalty,Hi stick - double minor,Tomas Nosek,Ryan Getzlaf,[-17.  30.],2,11:44,VGK,ANA,ANA,24,VGK,54,0,1,8477931,8470612.0,2019020591,,2019-12-28,Tomas Nosek Hi stick - double minor against Ryan Getzlaf
+131,penalty,Hooking,Sam Steel,Brayden McNabb,[-97.   7.],2,08:28,ANA,VGK,ANA,24,VGK,54,3,1,8479351,8475188.0,2019020591,,2019-12-28,Sam Steel Hooking against Brayden McNabb
+132,penalty,Elbowing,Tomas Nosek,Ondrej Kase,[-84. -14.],2,08:28,VGK,ANA,ANA,24,VGK,54,3,1,8477931,8478131.0,2019020591,,2019-12-28,Tomas Nosek Elbowing against Ondrej Kase
+147,penalty,Roughing,Mark Stone,Ryan Getzlaf,[56. 40.],2,03:47,VGK,ANA,ANA,24,VGK,54,3,1,8475913,8470612.0,2019020591,,2019-12-28,Mark Stone Roughing against Ryan Getzlaf
+148,penalty,Roughing,Ryan Getzlaf,Mark Stone,[60. 39.],2,03:47,ANA,VGK,ANA,24,VGK,54,3,1,8470612,8475913.0,2019020591,,2019-12-28,Ryan Getzlaf Roughing against Mark Stone
+160,penalty,Tripping,Korbinian Holzer,Alex Tuch,[91. 31.],2,00:43,ANA,VGK,ANA,24,VGK,54,3,1,8473560,8477949.0,2019020591,,2019-12-28,Korbinian Holzer Tripping against Alex Tuch
+173,penalty,Kneeing,Josh Manson,Tomas Nosek,[ 16. -39.],3,16:37,ANA,VGK,ANA,24,VGK,54,3,1,8476312,8477931.0,2019020591,,2019-12-28,Josh Manson Kneeing against Tomas Nosek
+20,penalty,Hi stick - double minor,Ryan Reaves,Derek Stepan,[-86.   4.],1,16:31,VGK,ARI,VGK,54,ARI,53,0,0,8471817,8474613.0,2019020600,,2019-12-29,Ryan Reaves Hi stick - double minor against Derek Stepan
+30,penalty,Tripping,Taylor Hall,Tomas Nosek,[88. 36.],1,12:25,ARI,VGK,VGK,54,ARI,53,0,0,8475791,8477931.0,2019020600,,2019-12-29,Taylor Hall Tripping against Tomas Nosek
+83,penalty,Holding,William Carrier,Jakob Chychrun,[-86.  33.],1,01:50,VGK,ARI,VGK,54,ARI,53,2,1,8477478,8479345.0,2019020600,,2019-12-29,William Carrier Holding against Jakob Chychrun
+87,penalty,Hooking,Oliver Ekman-Larsson,Reilly Smith,[-76.   0.],1,01:29,ARI,VGK,VGK,54,ARI,53,2,1,8475171,8475191.0,2019020600,,2019-12-29,Oliver Ekman-Larsson Hooking against Reilly Smith
+113,penalty,Interference,Nick Holden,Conor Garland,[45. 38.],2,16:33,VGK,ARI,VGK,54,ARI,53,4,1,8474207,8478856.0,2019020600,,2019-12-29,Nick Holden Interference against Conor Garland
+143,penalty,Roughing,Christian Dvorak,Mark Stone,[28. 40.],2,09:37,ARI,VGK,VGK,54,ARI,53,4,1,8477989,8475913.0,2019020600,,2019-12-29,Christian Dvorak Roughing against Mark Stone
+174,penalty,Kneeing,Max Pacioretty,Derek Stepan,[30. 33.],2,01:30,VGK,ARI,VGK,54,ARI,53,4,1,8474157,8474613.0,2019020600,,2019-12-29,Max Pacioretty Kneeing against Derek Stepan
+209,penalty,Fighting,Max Pacioretty,Lawson Crouse,[-10.  41.],3,11:20,VGK,ARI,VGK,54,ARI,53,4,1,8474157,8478474.0,2019020600,,2019-12-29,Max Pacioretty Fighting against Lawson Crouse
+210,penalty,Fighting,Lawson Crouse,Max Pacioretty,[-10.  41.],3,11:20,ARI,VGK,VGK,54,ARI,53,4,1,8478474,8474157.0,2019020600,,2019-12-29,Lawson Crouse Fighting against Max Pacioretty
+92,penalty,Slashing,Adam Henrique,William Karlsson,[-69.  -2.],1,02:24,ANA,VGK,VGK,54,ANA,24,1,1,8474641,8476448.0,2019020615,,2020-01-01,Adam Henrique Slashing against William Karlsson
+196,penalty,Delaying Game - Puck over glass,Deryk Engelland,,[50. 37.],3,16:22,VGK,ANA,VGK,54,ANA,24,3,1,8468674,,2019020615,,2020-01-01,Deryk Engelland Delaying Game - Puck over glass
+228,penalty,PS - Slash on breakaway,Josh Manson,Jonathan Marchessault,[-69.  -1.],3,09:05,ANA,VGK,VGK,54,ANA,24,3,1,8476312,8476539.0,2019020615,,2020-01-01,Josh Manson PS - Slash on breakaway against Jonathan Marchessault
+241,penalty,Slashing,Mark Stone,Sam Steel,[58. 28.],3,07:29,VGK,ANA,VGK,54,ANA,24,4,1,8475913,8479351.0,2019020615,,2020-01-01,Mark Stone Slashing against Sam Steel
+267,penalty,Fighting,Max Comtois,Shea Theodore,[ 87. -32.],3,00:22,ANA,VGK,VGK,54,ANA,24,5,2,8480031,8477447.0,2019020615,,2020-01-01,Max Comtois Fighting against Shea Theodore
+268,penalty,Fighting,Shea Theodore,Max Comtois,[ 86. -33.],3,00:22,VGK,ANA,VGK,54,ANA,24,5,2,8477447,8480031.0,2019020615,,2020-01-01,Shea Theodore Fighting against Max Comtois
+52,penalty,Slashing,Sean Couturier,Mark Stone,[33. 24.],1,10:08,PHI,VGK,VGK,54,PHI,4,1,1,8476461,8475913.0,2019020638,,2020-01-03,Sean Couturier Slashing against Mark Stone
+78,penalty,PS - Hooking on breakaway,Nick Holden,Scott Laughton,[80. -2.],1,06:37,VGK,PHI,VGK,54,PHI,4,3,1,8474207,8476872.0,2019020638,,2020-01-03,Nick Holden PS - Hooking on breakaway against Scott Laughton
+192,penalty,Tripping,Ryan Reaves,Philippe Myers,[-80.  38.],2,01:45,VGK,PHI,VGK,54,PHI,4,5,3,8471817,8479026.0,2019020638,,2020-01-03,Ryan Reaves Tripping against Philippe Myers
+269,penalty,Delaying Game - Puck over glass,Reilly Smith,,[40. 40.],3,02:46,VGK,PHI,VGK,54,PHI,4,5,4,8475191,,2019020638,,2020-01-03,Reilly Smith Delaying Game - Puck over glass
+280,penalty,Cross checking,Deryk Engelland,Jakub Voracek,[80. -6.],3,01:29,VGK,PHI,VGK,54,PHI,4,5,4,8468674,8474161.0,2019020638,,2020-01-03,Deryk Engelland Cross checking against Jakub Voracek
+22,penalty,Elbowing,Deryk Engelland,Brayden Schenn,[-34.  31.],1,13:31,VGK,STL,VGK,54,STL,19,0,0,8468674,8475170.0,2019020644,,2020-01-04,Deryk Engelland Elbowing against Brayden Schenn
+115,penalty,Roughing,Nicolas Hague,Mackenzie MacEachern,[-92.   8.],2,12:51,VGK,STL,VGK,54,STL,19,0,3,8479980,8476907.0,2019020644,,2020-01-04,Nicolas Hague Roughing against Mackenzie MacEachern
+116,penalty,Roughing,Mackenzie MacEachern,Nicolas Hague,[-92.   9.],2,12:51,STL,VGK,VGK,54,STL,19,0,3,8476907,8479980.0,2019020644,,2020-01-04,Mackenzie MacEachern Roughing against Nicolas Hague
+117,penalty,Roughing,Max Pacioretty,Mackenzie MacEachern,[-91.   9.],2,12:51,VGK,STL,VGK,54,STL,19,0,3,8474157,8476907.0,2019020644,,2020-01-04,Max Pacioretty Roughing against Mackenzie MacEachern
+118,penalty,Roughing,Zach Sanford,Deryk Engelland,[-90.   9.],2,12:51,STL,VGK,VGK,54,STL,19,0,3,8477482,8468674.0,2019020644,,2020-01-04,Zach Sanford Roughing against Deryk Engelland
+119,penalty,Roughing,Deryk Engelland,Zach Sanford,[-91.  11.],2,12:51,VGK,STL,VGK,54,STL,19,0,3,8468674,8477482.0,2019020644,,2020-01-04,Deryk Engelland Roughing against Zach Sanford
+169,penalty,Holding,Justin Faulk,Max Pacioretty,[ 83. -24.],2,02:50,STL,VGK,VGK,54,STL,19,2,3,8475753,8474157.0,2019020644,,2020-01-04,Justin Faulk Holding against Max Pacioretty
+232,penalty,Holding,Chandler Stephenson,Alexander Steen,[51. 41.],3,07:52,VGK,STL,VGK,54,STL,19,4,3,8476905,8470257.0,2019020644,,2020-01-04,Chandler Stephenson Holding against Alexander Steen
+258,penalty,Roughing,Max Pacioretty,David Perron,[-95. -26.],3,02:11,VGK,STL,VGK,54,STL,19,4,4,8474157,8474102.0,2019020644,,2020-01-04,Max Pacioretty Roughing against David Perron
+259,penalty,Roughing,David Perron,Max Pacioretty,[-97. -24.],3,02:11,STL,VGK,VGK,54,STL,19,4,4,8474102,8474157.0,2019020644,,2020-01-04,David Perron Roughing against Max Pacioretty
+263,penalty,Hooking,Robert Thomas,Mark Stone,[63. 37.],3,01:16,STL,VGK,VGK,54,STL,19,4,4,8480023,8475913.0,2019020644,,2020-01-04,Robert Thomas Hooking against Mark Stone
+48,penalty,Broken stick,John Marino,,[-82.  -4.],1,10:52,PIT,VGK,VGK,54,PIT,5,0,2,8478507,,2019020673,,2020-01-08,John Marino Broken stick
+103,penalty,Holding the stick,Nicolas Hague,Alex Galchenyuk,[-92.  27.],2,17:38,VGK,PIT,VGK,54,PIT,5,0,2,8479980,8476851.0,2019020673,,2020-01-08,Nicolas Hague Holding the stick against Alex Galchenyuk
+145,penalty,Tripping,Jack Johnson,William Karlsson,[89. 34.],2,06:42,PIT,VGK,VGK,54,PIT,5,1,3,8471677,8476448.0,2019020673,,2020-01-08,Jack Johnson Tripping against William Karlsson
+182,penalty,Delaying Game - Puck over glass,Tomas Nosek,,[ 74. -38.],3,16:55,VGK,PIT,VGK,54,PIT,5,2,4,8477931,,2019020673,,2020-01-08,Tomas Nosek Delaying Game - Puck over glass
+236,penalty,Tripping,Evgeni Malkin,Shea Theodore,[-72.  16.],3,02:43,PIT,VGK,VGK,54,PIT,5,3,4,8471215,8477447.0,2019020673,,2020-01-08,Evgeni Malkin Tripping against Shea Theodore
+244,penalty,Slashing,Drew Doughty,Mark Stone,[-75.   2.],3,13:02,LAK,VGK,VGK,54,LAK,26,2,4,8474563,8475913.0,2019020686,,2020-01-10,Drew Doughty Slashing against Mark Stone
+282,penalty,Slashing,Paul Stastny,Jeff Carter,[22. -1.],3,00:10,VGK,LAK,VGK,54,LAK,26,2,4,8471669,8470604.0,2019020686,,2020-01-10,Paul Stastny Slashing against Jeff Carter
+19,penalty,Holding the stick,Boone Jenner,Chandler Stephenson,[-74.  -1.],1,15:27,CBJ,VGK,VGK,54,CBJ,29,0,0,8476432,8476905.0,2019020701,,2020-01-12,Boone Jenner Holding the stick against Chandler Stephenson
+50,penalty,Slashing,Paul Stastny,Kevin Stenlund,[61. 41.],1,08:15,VGK,CBJ,VGK,54,CBJ,29,0,0,8471669,8478831.0,2019020701,,2020-01-12,Paul Stastny Slashing against Kevin Stenlund
+64,penalty,Interference,Jon Merrill,Kevin Stenlund,[97.  9.],1,05:03,VGK,CBJ,VGK,54,CBJ,29,0,0,8475750,8478831.0,2019020701,,2020-01-12,Jon Merrill Interference against Kevin Stenlund
+114,penalty,Tripping,Boone Jenner,Tomas Nosek,[32. 41.],2,11:59,CBJ,VGK,VGK,54,CBJ,29,0,2,8476432,8477931.0,2019020701,,2020-01-12,Boone Jenner Tripping against Tomas Nosek
+157,penalty,Too many men on the ice,Sonny Milano,,[-23.  41.],2,02:53,CBJ,VGK,VGK,54,CBJ,29,0,2,8477947,,2019020701,,2020-01-12,Too many men/ice served by Sonny Milano
+48,penalty,Roughing,Alex Tuch,Evan Rodrigues,[-98.   8.],1,05:31,VGK,BUF,BUF,7,VGK,54,0,0,8477949,8478542.0,2019020714,,2020-01-15,Alex Tuch Roughing against Evan Rodrigues
+49,penalty,Holding,Evan Rodrigues,Alex Tuch,[-98.   7.],1,05:31,BUF,VGK,BUF,7,VGK,54,0,0,8478542,8477949.0,2019020714,,2020-01-15,Evan Rodrigues Holding against Alex Tuch
+83,penalty,Tripping,Colin Miller,Cody Eakin,[ 90. -17.],2,16:56,BUF,VGK,BUF,7,VGK,54,0,1,8476525,8475236.0,2019020714,,2020-01-15,Colin Miller Tripping against Cody Eakin
+92,penalty,Interference,Max Pacioretty,Rasmus Ristolainen,[47. 41.],2,14:44,VGK,BUF,BUF,7,VGK,54,0,1,8474157,8477499.0,2019020714,,2020-01-15,Max Pacioretty Interference against Rasmus Ristolainen
+144,penalty,Too many men on the ice,Jonathan Marchessault,,[18. 41.],2,00:46,VGK,BUF,BUF,7,VGK,54,1,1,8476539,,2019020714,,2020-01-15,Too many men/ice served by Jonathan Marchessault
+151,penalty,Tripping,Colin Miller,Tomas Nosek,[-89. -27.],3,18:24,BUF,VGK,BUF,7,VGK,54,2,1,8476525,8477931.0,2019020714,,2020-01-15,Colin Miller Tripping against Tomas Nosek
+152,penalty,Unsportsmanlike conduct,Colin Miller,Nicolas Hague,[-88. -34.],3,18:24,BUF,VGK,BUF,7,VGK,54,2,1,8476525,8479980.0,2019020714,,2020-01-15,Colin Miller Unsportsmanlike conduct against Nicolas Hague
+193,penalty,Holding the stick,Nicolas Hague,Jack Eichel,[-67. -41.],3,07:07,VGK,BUF,BUF,7,VGK,54,3,2,8479980,8478403.0,2019020714,,2020-01-15,Nicolas Hague Holding the stick against Jack Eichel
+25,penalty,Hooking,Connor Brown,Jonathan Marchessault,[-49. -19.],1,13:32,OTT,VGK,OTT,9,VGK,54,0,1,8477015,8476539.0,2019020734,,2020-01-17,Connor Brown Hooking against Jonathan Marchessault
+111,penalty,Tripping,Tomas Nosek,Tyler Ennis,[92. 10.],2,16:17,VGK,OTT,OTT,9,VGK,54,0,1,8477931,8474589.0,2019020734,,2020-01-17,Tomas Nosek Tripping against Tyler Ennis
+201,penalty,Hooking,Reilly Smith,Thomas Chabot,[-29. -36.],3,15:35,VGK,OTT,OTT,9,VGK,54,0,2,8475191,8478469.0,2019020734,,2020-01-17,Reilly Smith Hooking against Thomas Chabot
+238,penalty,Tripping,Nate Schmidt,Anthony Duclair,[ 78. -26.],3,08:52,VGK,OTT,OTT,9,VGK,54,1,4,8477220,8477407.0,2019020734,,2020-01-17,Nate Schmidt Tripping against Anthony Duclair
+256,penalty,Hooking,Reilly Smith,Brady Tkachuk,[83.  0.],3,03:21,VGK,OTT,OTT,9,VGK,54,2,4,8475191,8480801.0,2019020734,,2020-01-17,Reilly Smith Hooking against Brady Tkachuk
+34,penalty,Hooking,William Carrier,Marco Scandella,[97. 16.],1,13:37,VGK,MTL,MTL,8,VGK,54,1,0,8477478,8474618.0,2019020748,,2020-01-22,William Carrier Hooking against Marco Scandella
+83,penalty,Holding,Jesperi Kotkaniemi,Cody Eakin,[98.  0.],1,04:46,MTL,VGK,MTL,8,VGK,54,2,0,8480829,8475236.0,2019020748,,2020-01-22,Jesperi Kotkaniemi Holding against Cody Eakin
+243,penalty,Delaying Game - Puck over glass,Shea Weber,,[84.  6.],3,07:45,MTL,VGK,MTL,8,VGK,54,4,2,8470642,,2019020748,,2020-01-22,Shea Weber Delaying Game - Puck over glass
+7,penalty,Interference,Nicolas Hague,Danton Heinen,[54. 11.],1,18:21,VGK,BOS,BOS,6,VGK,54,0,1,8479980,8478046.0,2019020761,,2020-01-22,Nicolas Hague Interference against Danton Heinen
+33,penalty,Tripping,Mark Stone,Karson Kuhlman,[ 97. -10.],1,12:45,VGK,BOS,BOS,6,VGK,54,0,1,8475913,8480901.0,2019020761,,2020-01-22,Mark Stone Tripping against Karson Kuhlman
+68,penalty,Tripping,Zdeno Chara,Ryan Reaves,[-12.   4.],1,04:05,BOS,VGK,BOS,6,VGK,54,1,1,8465009,8471817.0,2019020761,,2020-01-22,Zdeno Chara Tripping against Ryan Reaves
+87,penalty,Interference,William Carrier,David Pastrnak,[16. 36.],2,18:18,VGK,BOS,BOS,6,VGK,54,1,1,8477478,8477956.0,2019020761,,2020-01-22,William Carrier Interference against David Pastrnak
+92,penalty,Too many men on the ice,Jonathan Marchessault,,[13. 38.],2,15:53,VGK,BOS,BOS,6,VGK,54,1,1,8476539,,2019020761,,2020-01-22,Too many men/ice served by Jonathan Marchessault
+113,penalty,Hi-sticking,Brandon Carlo,Reilly Smith,[-22.  31.],2,10:45,BOS,VGK,BOS,6,VGK,54,1,1,8478443,8475191.0,2019020761,,2020-01-22,Brandon Carlo Hi-sticking against Reilly Smith
+138,penalty,Boarding,Chandler Stephenson,Charlie McAvoy,[69. 38.],2,04:56,VGK,BOS,BOS,6,VGK,54,1,2,8476905,8479325.0,2019020761,,2020-01-22,Chandler Stephenson Boarding against Charlie McAvoy
+48,penalty,Slashing,Joel Edmundson,Mark Stone,[65. -4.],1,08:52,CAR,VGK,CAR,12,VGK,54,0,2,8476441,8475913.0,2019020788,,2020-02-01,Joel Edmundson Slashing against Mark Stone
+80,penalty,Hi-sticking,Warren Foegele,Jonathan Marchessault,[ 23. -39.],2,19:10,CAR,VGK,CAR,12,VGK,54,0,2,8477998,8476539.0,2019020788,,2020-02-01,Warren Foegele Hi-sticking against Jonathan Marchessault
+96,penalty,Tripping,Deryk Engelland,Justin Williams,[71. 39.],2,15:59,VGK,CAR,CAR,12,VGK,54,0,2,8468674,8468508.0,2019020788,,2020-02-01,Deryk Engelland Tripping against Justin Williams
+229,penalty,Hooking,Nicolas Roy,Andrei Svechnikov,[-62.  -4.],3,03:47,VGK,CAR,CAR,12,VGK,54,2,3,8478462,8480830.0,2019020788,,2020-02-01,Nicolas Roy Hooking against Andrei Svechnikov
+235,penalty,Hooking,Sebastian Aho,Max Pacioretty,[53.  6.],3,02:34,CAR,VGK,CAR,12,VGK,54,3,3,8478427,8474157.0,2019020788,,2020-02-01,Sebastian Aho Hooking against Max Pacioretty

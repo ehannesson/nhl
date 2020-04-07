@@ -1,0 +1,492 @@
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,game_id,winning_team,date,description
+23,penalty,Hooking,Zack Smith,Taylor Hall,[ 97. -21.],1,13:42,CHI,ARI,ARI,53,CHI,16,0,0,8474250,8475791.0,2019020802,CHI,2020-02-02,Zack Smith Hooking against Taylor Hall
+27,penalty,Tripping,Clayton Keller,Jonathan Toews,[63. 31.],1,12:30,ARI,CHI,ARI,53,CHI,16,0,0,8479343,8473604.0,2019020802,CHI,2020-02-02,Clayton Keller Tripping against Jonathan Toews
+65,penalty,Tripping,Christian Fischer,Drake Caggiula,[-54. -23.],1,03:24,ARI,CHI,ARI,53,CHI,16,0,1,8478432,8479465.0,2019020802,CHI,2020-02-02,Christian Fischer Tripping against Drake Caggiula
+156,penalty,Hooking,Jakob Chychrun,Patrick Kane,[ 64. -31.],2,00:23,ARI,CHI,ARI,53,CHI,16,2,2,8479345,8474141.0,2019020802,CHI,2020-02-02,Jakob Chychrun Hooking against Patrick Kane
+194,penalty,Holding,Olli Maatta,Conor Garland,[60. 39.],3,13:12,CHI,ARI,ARI,53,CHI,16,2,2,8476874,8478856.0,2019020802,CHI,2020-02-02,Olli Maatta Holding against Conor Garland
+211,penalty,Hooking,Jonathan Toews,Clayton Keller,[-47. -37.],3,09:57,CHI,ARI,ARI,53,CHI,16,2,2,8473604,8479343.0,2019020802,CHI,2020-02-02,Jonathan Toews Hooking against Clayton Keller
+41,penalty,Delaying Game - Puck over glass,Ryan Donato,,[52. 41.],1,09:10,MIN,CHI,MIN,30,CHI,16,0,0,8477987,,2019020821,,2020-02-05,Ryan Donato Delaying Game - Puck over glass
+43,penalty,Tripping,Patrick Kane,Jonas Brodin,[ 76. -22.],1,08:33,CHI,MIN,MIN,30,CHI,16,0,0,8474141,8476463.0,2019020821,,2020-02-05,Patrick Kane Tripping against Jonas Brodin
+73,penalty,Tripping,Mats Zuccarello,Connor Murphy,[-76. -35.],1,00:03,MIN,CHI,MIN,30,CHI,16,0,0,8475692,8476473.0,2019020821,,2020-02-05,Mats Zuccarello Tripping against Connor Murphy
+110,penalty,Tripping,Mikko Koivu,Patrick Kane,[-41. -38.],2,09:57,MIN,CHI,MIN,30,CHI,16,1,0,8469459,8474141.0,2019020821,,2020-02-05,Mikko Koivu Tripping against Patrick Kane
+120,penalty,Interference,Slater Koekkoek,Ryan Donato,[87.  5.],2,05:45,CHI,MIN,MIN,30,CHI,16,1,0,8476886,8477987.0,2019020821,,2020-02-05,Slater Koekkoek Interference against Ryan Donato
+73,penalty,Holding,Slater Koekkoek,Sean Kuraly,[89. -6.],1,04:04,CHI,BOS,CHI,16,BOS,6,0,0,8476886,8476374.0,2019020826,,2020-02-06,Slater Koekkoek Holding against Sean Kuraly
+120,penalty,Boarding,David Krejci,Adam Boqvist,[-60. -39.],2,13:47,BOS,CHI,CHI,16,BOS,6,0,0,8471276,8480871.0,2019020826,,2020-02-06,David Krejci Boarding against Adam Boqvist
+173,penalty,Hi-sticking,Jeremy Lauzon,Patrick Kane,[84.  7.],2,03:17,BOS,CHI,CHI,16,BOS,6,1,1,8478468,8474141.0,2019020826,,2020-02-06,Jeremy Lauzon Hi-sticking against Patrick Kane
+215,penalty,Slashing,Brandon Saad,Anders Bjork,[73.  0.],3,14:07,CHI,BOS,CHI,16,BOS,6,1,1,8476438,8478075.0,2019020826,,2020-02-06,Brandon Saad Slashing against Anders Bjork
+236,penalty,Tripping,Alex Nylander,David Pastrnak,[-56. -37.],3,08:19,CHI,BOS,CHI,16,BOS,6,1,1,8479423,8477956.0,2019020826,,2020-02-06,Alex Nylander Tripping against David Pastrnak
+237,penalty,Embellishment,David Pastrnak,Alex Nylander,[-58. -38.],3,08:19,BOS,CHI,CHI,16,BOS,6,1,1,8477956,8479423.0,2019020826,,2020-02-06,David Pastrnak Embellishment against Alex Nylander
+247,penalty,Slashing,Chris Wagner,Kirby Dach,[-81.   1.],3,05:19,BOS,CHI,CHI,16,BOS,6,1,1,8475780,8481523.0,2019020826,,2020-02-06,Chris Wagner Slashing against Kirby Dach
+255,penalty,Illegal check to head,Zack Smith,Torey Krug,[ 37. -37.],3,02:26,CHI,BOS,CHI,16,BOS,6,1,1,8474250,8476792.0,2019020826,,2020-02-06,Zack Smith Illegal check to head against Torey Krug
+257,penalty,Misconduct,Ryan Carpenter,,[ 5. 37.],3,02:12,CHI,BOS,CHI,16,BOS,6,1,1,8477846,,2019020826,,2020-02-06,Ryan Carpenter Misconduct
+261,penalty,Tripping,Torey Krug,Olli Maatta,[ 33. -39.],3,01:05,BOS,CHI,CHI,16,BOS,6,1,1,8476792,8476874.0,2019020826,,2020-02-06,Torey Krug Tripping against Olli Maatta
+48,penalty,Slashing,Connor Murphy,Blake Wheeler,[-73.   0.],1,08:20,CHI,WPG,WPG,52,CHI,16,0,2,8476473,8471218.0,2019020858,,2020-02-10,Connor Murphy Slashing against Blake Wheeler
+70,penalty,Roughing,Nick Seeler,Nikolaj Ehlers,[-76.   3.],1,02:16,CHI,WPG,WPG,52,CHI,16,0,2,8476372,8477940.0,2019020858,,2020-02-10,Nick Seeler Roughing against Nikolaj Ehlers
+93,penalty,Tripping,Sami Niku,Alex DeBrincat,[-95.  -9.],2,17:14,WPG,CHI,WPG,52,CHI,16,0,2,8478915,8479337.0,2019020858,,2020-02-10,Sami Niku Tripping against Alex DeBrincat
+104,penalty,Fighting,Nathan Beaulieu,Nick Seeler,[-44. -17.],2,15:10,WPG,CHI,WPG,52,CHI,16,1,2,8476470,8476372.0,2019020858,,2020-02-10,Nathan Beaulieu Fighting against Nick Seeler
+105,penalty,Fighting,Nick Seeler,Nathan Beaulieu,[-43. -18.],2,15:10,CHI,WPG,WPG,52,CHI,16,1,2,8476372,8476470.0,2019020858,,2020-02-10,Nick Seeler Fighting against Nathan Beaulieu
+110,penalty,Cross checking,Anthony Bitetto,Matthew Highmore,[-88.  31.],2,14:34,WPG,CHI,WPG,52,CHI,16,1,2,8475868,8478146.0,2019020858,,2020-02-10,Anthony Bitetto Cross checking against Matthew Highmore
+119,penalty,Hi-sticking,Kirby Dach,Neal Pionk,[-1. 36.],2,13:33,CHI,WPG,WPG,52,CHI,16,1,2,8481523,8480145.0,2019020858,,2020-02-10,Kirby Dach Hi-sticking against Neal Pionk
+159,penalty,Hi-sticking,Neal Pionk,Kirby Dach,[-98.   5.],2,05:43,WPG,CHI,WPG,52,CHI,16,1,2,8480145,8481523.0,2019020858,,2020-02-10,Neal Pionk Hi-sticking against Kirby Dach
+197,penalty,Interference,Slater Koekkoek,Mark Scheifele,[-21. -39.],3,15:21,CHI,WPG,WPG,52,CHI,16,1,2,8476886,8476460.0,2019020858,,2020-02-10,Slater Koekkoek Interference against Mark Scheifele
+212,penalty,Tripping,Jonathan Toews,Josh Morrissey,[53. 21.],3,11:12,CHI,WPG,WPG,52,CHI,16,1,2,8473604,8477504.0,2019020858,,2020-02-10,Jonathan Toews Tripping against Josh Morrissey
+241,penalty,Interference,Jonathan Toews,Blake Wheeler,[ 78. -33.],3,03:52,CHI,WPG,WPG,52,CHI,16,3,2,8473604,8471218.0,2019020858,,2020-02-10,Jonathan Toews Interference against Blake Wheeler
+60,penalty,Too many men on the ice,Alex DeBrincat,,[10. 12.],1,06:47,CHI,EDM,EDM,22,CHI,16,1,1,8479337,,2019020875,,2020-02-12,Too many men/ice served by Alex DeBrincat
+69,penalty,Tripping,Jonathan Toews,Riley Sheahan,[ 24. -34.],1,03:41,CHI,EDM,EDM,22,CHI,16,1,2,8473604,8475772.0,2019020875,,2020-02-12,Jonathan Toews Tripping against Riley Sheahan
+117,penalty,Slashing,Zack Smith,Gaetan Haas,[-88.  31.],2,16:02,CHI,EDM,EDM,22,CHI,16,3,3,8474250,8481813.0,2019020875,,2020-02-12,Zack Smith Slashing against Gaetan Haas
+142,penalty,Holding,Riley Sheahan,Slater Koekkoek,[-93.  -6.],2,10:53,EDM,CHI,EDM,22,CHI,16,4,3,8475772,8476886.0,2019020875,,2020-02-12,Riley Sheahan Holding against Slater Koekkoek
+151,penalty,Hooking,Oscar Klefbom,Patrick Kane,[ 76. -11.],2,07:48,EDM,CHI,EDM,22,CHI,16,4,3,8476472,8474141.0,2019020875,,2020-02-12,Oscar Klefbom Hooking against Patrick Kane
+197,penalty,Slashing,Riley Sheahan,Adam Boqvist,[-84.  35.],3,15:48,EDM,CHI,EDM,22,CHI,16,4,3,8475772,8480871.0,2019020875,,2020-02-12,Riley Sheahan Slashing against Adam Boqvist
+9,penalty,Hooking,Tyler Myers,Olli Maatta,[58.  3.],1,17:39,VAN,CHI,VAN,23,CHI,16,0,0,8474574,8476874.0,2019020879,,2020-02-13,Tyler Myers Hooking against Olli Maatta
+65,penalty,Missing key [PD_151],Dylan Strome,,[87. -1.],1,06:02,CHI,VAN,VAN,23,CHI,16,0,0,8478440,,2019020879,,2020-02-13,Delaying Game - Unsucc. chlg served by Dylan Strome
+91,penalty,Holding,Zack MacEwen,Patrick Kane,[-64.  37.],2,18:33,VAN,CHI,VAN,23,CHI,16,1,0,8479772,8474141.0,2019020879,,2020-02-13,Zack MacEwen Holding against Patrick Kane
+116,penalty,Delaying Game - Puck over glass,Brandon Sutter,,[-87. -35.],2,12:29,VAN,CHI,VAN,23,CHI,16,2,0,8474091,,2019020879,,2020-02-13,Brandon Sutter Delaying Game - Puck over glass
+134,penalty,Fighting,Tanner Pearson,Drake Caggiula,[-46.  17.],2,09:16,VAN,CHI,VAN,23,CHI,16,2,0,8476871,8479465.0,2019020879,,2020-02-13,Tanner Pearson Fighting against Drake Caggiula
+135,penalty,Fighting,Drake Caggiula,Tanner Pearson,[-40.  23.],2,09:16,CHI,VAN,VAN,23,CHI,16,2,0,8479465,8476871.0,2019020879,,2020-02-13,Drake Caggiula Fighting against Tanner Pearson
+145,penalty,Tripping,Kirby Dach,Tyler Myers,[ 37. -36.],2,06:28,CHI,VAN,VAN,23,CHI,16,2,0,8481523,8474574.0,2019020879,,2020-02-13,Kirby Dach Tripping against Tyler Myers
+181,penalty,Fighting,Adam Gaudette,Connor Murphy,[  8. -27.],3,18:32,VAN,CHI,VAN,23,CHI,16,2,0,8478874,8476473.0,2019020879,,2020-02-13,Adam Gaudette Fighting against Connor Murphy
+182,penalty,Fighting,Connor Murphy,Adam Gaudette,[ 10. -25.],3,18:32,CHI,VAN,VAN,23,CHI,16,2,0,8476473,8478874.0,2019020879,,2020-02-13,Connor Murphy Fighting against Adam Gaudette
+183,penalty,Slashing,Adam Gaudette,Jake Virtanen,[ 11. -30.],3,18:32,VAN,CHI,VAN,23,CHI,16,2,0,8478874,8477937.0,2019020879,,2020-02-13,Adam Gaudette Slashing against Connor Murphy served by Jake Virtanen
+201,penalty,Hooking,Jonathan Toews,Quinn Hughes,[ 77. -33.],3,14:21,CHI,VAN,VAN,23,CHI,16,2,0,8473604,8480800.0,2019020879,,2020-02-13,Jonathan Toews Hooking against Quinn Hughes
+218,penalty,Slashing,Tyler Myers,Dylan Strome,[ 62. -12.],3,07:53,VAN,CHI,VAN,23,CHI,16,2,0,8474574,8478440.0,2019020879,,2020-02-13,Tyler Myers Slashing against Dylan Strome
+38,penalty,Tripping,Sean Monahan,Ryan Carpenter,[-41.  36.],1,12:48,CGY,CHI,CGY,20,CHI,16,1,1,8477497,8477846.0,2019020903,,2020-02-16,Sean Monahan Tripping against Ryan Carpenter
+71,penalty,Hooking,Connor Murphy,Andrew Mangiapane,[-94.  -5.],1,06:30,CHI,CGY,CGY,20,CHI,16,2,2,8476473,8478233.0,2019020903,,2020-02-16,Connor Murphy Hooking against Andrew Mangiapane
+81,penalty,Too many men on the ice,Matthew Tkachuk,,[ 8. 39.],1,04:45,CGY,CHI,CGY,20,CHI,16,2,2,8479314,,2019020903,,2020-02-16,Too many men/ice served by Matthew Tkachuk
+163,penalty,Slashing,Jonathan Toews,Sam Bennett,[82. 32.],2,05:48,CHI,CGY,CGY,20,CHI,16,3,4,8473604,8477935.0,2019020903,,2020-02-16,Jonathan Toews Slashing against Sam Bennett
+210,penalty,Hi-sticking,Kirby Dach,Oliver Kylington,[98.  1.],3,13:39,CHI,CGY,CGY,20,CHI,16,3,6,8481523,8478430.0,2019020903,,2020-02-16,Kirby Dach Hi-sticking against Oliver Kylington
+218,penalty,Hooking,Andrew Mangiapane,Ryan Carpenter,[-33.  36.],3,12:06,CGY,CHI,CGY,20,CHI,16,3,6,8478233,8477846.0,2019020903,,2020-02-16,Andrew Mangiapane Hooking against Ryan Carpenter
+233,penalty,Hooking,Olli Maatta,Andrew Mangiapane,[-82.   1.],3,07:43,CHI,CGY,CGY,20,CHI,16,3,6,8476874,8478233.0,2019020903,,2020-02-16,Olli Maatta Hooking against Andrew Mangiapane
+256,penalty,Interference,Drake Caggiula,Elias Lindholm,[-15. -41.],3,03:28,CHI,CGY,CGY,20,CHI,16,4,6,8479465,8477496.0,2019020903,,2020-02-16,Drake Caggiula Interference against Elias Lindholm
+257,penalty,Roughing,Elias Lindholm,Drake Caggiula,[-14. -40.],3,03:28,CGY,CHI,CGY,20,CHI,16,4,6,8477496,8479465.0,2019020903,,2020-02-16,Elias Lindholm Roughing against Drake Caggiula
+17,penalty,Interference,Slater Koekkoek,Ryan Lindgren,[-95.  19.],1,17:19,CHI,NYR,CHI,16,NYR,3,0,1,8476886,8479324.0,2019020927,,2020-02-20,Slater Koekkoek Interference against Ryan Lindgren
+85,penalty,Slashing,Brett Howden,Alex Nylander,[65.  9.],1,02:06,NYR,CHI,CHI,16,NYR,3,0,1,8479353,8479423.0,2019020927,,2020-02-20,Brett Howden Slashing against Alex Nylander
+113,penalty,Hi-sticking,Brendan Lemieux,Drake Caggiula,[ 70. -37.],2,17:21,NYR,CHI,CHI,16,NYR,3,1,1,8477962,8479465.0,2019020927,,2020-02-20,Brendan Lemieux Hi-sticking against Drake Caggiula
+150,penalty,Roughing,Robin Lehner,Alex Nylander,[-80.  -1.],2,10:34,CHI,NYR,CHI,16,NYR,3,1,1,8475215,8479423.0,2019020927,,2020-02-20,Robin Lehner Roughing against Brendan Lemieux served by Alex Nylander
+163,penalty,Tripping,Brett Howden,Kirby Dach,[-71. -40.],2,06:29,NYR,CHI,CHI,16,NYR,3,1,1,8479353,8481523.0,2019020927,,2020-02-20,Brett Howden Tripping against Kirby Dach
+210,penalty,Holding,Olli Maatta,Julien Gauthier,[78. -1.],3,17:13,CHI,NYR,CHI,16,NYR,3,1,2,8476874,8479328.0,2019020927,,2020-02-20,Olli Maatta Holding against Julien Gauthier
+289,penalty,Boarding,Drake Caggiula,Ryan Lindgren,[-71. -39.],3,01:14,CHI,NYR,CHI,16,NYR,3,3,6,8479465,8479324.0,2019020927,,2020-02-20,Drake Caggiula Boarding against Ryan Lindgren
+15,penalty,Slashing,Matt Duchene,Alex Nylander,[-21. -31.],1,17:13,NSH,CHI,CHI,16,NSH,18,0,0,8475168,8479423.0,2019020943,,2020-02-22,Matt Duchene Slashing against Alex Nylander
+41,penalty,Tripping,Slater Koekkoek,Rocco Grimaldi,[-77.   5.],1,12:04,CHI,NSH,CHI,16,NSH,18,0,0,8476886,8476428.0,2019020943,,2020-02-22,Slater Koekkoek Tripping against Rocco Grimaldi
+47,penalty,PS - Hooking on breakaway,Filip Forsberg,Brandon Saad,[-81.   0.],1,10:46,NSH,CHI,CHI,16,NSH,18,0,0,8476887,8476438.0,2019020943,,2020-02-22,Filip Forsberg PS - Hooking on breakaway against Brandon Saad
+89,penalty,Cross checking,Viktor Arvidsson,Nick Seeler,[97. -2.],1,01:53,NSH,CHI,CHI,16,NSH,18,0,0,8478042,8476372.0,2019020943,,2020-02-22,Viktor Arvidsson Cross checking against Nick Seeler
+160,penalty,Holding,Duncan Keith,Kyle Turris,[-96. -14.],2,07:35,CHI,NSH,CHI,16,NSH,18,0,0,8470281,8474068.0,2019020943,,2020-02-22,Duncan Keith Holding against Kyle Turris
+177,penalty,Interference,Slater Koekkoek,Viktor Arvidsson,[ -8. -20.],2,04:33,CHI,NSH,CHI,16,NSH,18,0,1,8476886,8478042.0,2019020943,,2020-02-22,Slater Koekkoek Interference against Viktor Arvidsson
+182,penalty,Hooking,Duncan Keith,Craig Smith,[-75.   7.],2,03:46,CHI,NSH,CHI,16,NSH,18,0,1,8470281,8475225.0,2019020943,,2020-02-22,Duncan Keith Hooking against Craig Smith
+226,penalty,Tripping,Slater Koekkoek,Colin Blackwell,[78. 30.],3,14:04,CHI,NSH,CHI,16,NSH,18,0,1,8476886,8476278.0,2019020943,,2020-02-22,Slater Koekkoek Tripping against Colin Blackwell
+229,penalty,Hooking,Ryan Johansen,Connor Murphy,[89. 31.],3,13:33,NSH,CHI,CHI,16,NSH,18,0,1,8475793,8476473.0,2019020943,,2020-02-22,Ryan Johansen Hooking against Connor Murphy
+233,penalty,Tripping,Filip Forsberg,Kirby Dach,[ 59. -38.],3,12:22,NSH,CHI,CHI,16,NSH,18,0,1,8476887,8481523.0,2019020943,,2020-02-22,Filip Forsberg Tripping against Kirby Dach
+82,penalty,Hooking,John Klingberg,Kirby Dach,[83. -8.],1,02:50,DAL,CHI,DAL,25,CHI,16,1,0,8475906,8481523.0,2019020961,,2020-02-23,John Klingberg Hooking against Kirby Dach
+111,penalty,Interference,Radek Faksa,Adam Boqvist,[-86. -10.],2,14:54,DAL,CHI,DAL,25,CHI,16,1,0,8476889,8480871.0,2019020961,,2020-02-23,Radek Faksa Interference against Adam Boqvist
+113,penalty,Interference,Jonathan Toews,Tyler Seguin,[-82.  -1.],2,14:50,CHI,DAL,DAL,25,CHI,16,1,0,8473604,8475794.0,2019020961,,2020-02-23,Jonathan Toews Interference against Tyler Seguin
+118,penalty,Hi-sticking,Roope Hintz,Alex DeBrincat,[-55. -40.],2,14:00,DAL,CHI,DAL,25,CHI,16,1,0,8478449,8479337.0,2019020961,,2020-02-23,Roope Hintz Hi-sticking against Alex DeBrincat
+137,penalty,Slashing,Alexander Radulov,Brandon Saad,[13. 34.],2,10:14,DAL,CHI,DAL,25,CHI,16,1,1,8471228,8476438.0,2019020961,,2020-02-23,Alexander Radulov Slashing against Brandon Saad
+150,penalty,Interference,Jamie Oleksiak,Dominik Kubalik,[60. 39.],2,06:24,DAL,CHI,DAL,25,CHI,16,1,1,8476467,8477330.0,2019020961,,2020-02-23,Jamie Oleksiak Interference against Dominik Kubalik
+168,penalty,PS - Hooking on breakaway,Duncan Keith,Mattias Janmark,[72.  3.],2,03:00,CHI,DAL,DAL,25,CHI,16,2,1,8470281,8477406.0,2019020961,,2020-02-23,Duncan Keith PS - Hooking on breakaway against Mattias Janmark
+1,penalty,Tripping,Connor Murphy,Oskar Sundqvist,[43. 21.],1,19:49,CHI,STL,STL,19,CHI,16,0,0,8476473,8476897.0,2019020976,,2020-02-26,Connor Murphy Tripping against Oskar Sundqvist
+15,penalty,Slashing,Matthew Highmore,Tyler Bozak,[ 77. -10.],1,16:35,CHI,STL,STL,19,CHI,16,1,0,8478146,8475098.0,2019020976,,2020-02-26,Matthew Highmore Slashing against Tyler Bozak
+40,penalty,Hi-sticking,Marco Scandella,Brandon Saad,[-69.  -2.],1,09:09,STL,CHI,STL,19,CHI,16,1,0,8474618,8476438.0,2019020976,,2020-02-26,Marco Scandella Hi-sticking against Brandon Saad
+72,penalty,Hi-sticking,Jordan Kyrou,Connor Murphy,[ 66. -37.],1,00:32,STL,CHI,STL,19,CHI,16,1,2,8479385,8476473.0,2019020976,,2020-02-26,Jordan Kyrou Hi-sticking against Connor Murphy
+135,penalty,Delaying Game - Puck over glass,Slater Koekkoek,,[-47. -33.],2,02:55,CHI,STL,STL,19,CHI,16,2,3,8476886,,2019020976,,2020-02-26,Slater Koekkoek Delaying Game - Puck over glass
+165,penalty,Holding,Colton Parayko,Ryan Carpenter,[-89. -28.],3,13:41,STL,CHI,STL,19,CHI,16,4,4,8476892,8477846.0,2019020976,,2020-02-26,Colton Parayko Holding against Ryan Carpenter
+188,penalty,Hooking,Kirby Dach,Robert Thomas,[-85. -26.],3,08:23,CHI,STL,STL,19,CHI,16,5,5,8481523,8480023.0,2019020976,,2020-02-26,Kirby Dach Hooking against Robert Thomas
+208,penalty,Tripping,Oskar Sundqvist,Adam Boqvist,[-53. -25.],3,02:51,STL,CHI,STL,19,CHI,16,6,5,8476897,8480871.0,2019020976,,2020-02-26,Oskar Sundqvist Tripping against Adam Boqvist
+14,penalty,Hooking,Connor Murphy,Mitchell Stephens,[92. -8.],1,15:35,CHI,TBL,TBL,14,CHI,16,0,0,8476473,8478477.0,2019020986,,2020-02-28,Connor Murphy Hooking against Mitchell Stephens
+24,penalty,Tripping,Yanni Gourde,Jonathan Toews,[52. 13.],1,13:06,TBL,CHI,TBL,14,CHI,16,0,0,8476826,8473604.0,2019020986,,2020-02-28,Yanni Gourde Tripping against Jonathan Toews
+27,penalty,Hooking,Patrick Kane,Anthony Cirelli,[-68.  26.],1,11:40,CHI,TBL,TBL,14,CHI,16,0,0,8474141,8478519.0,2019020986,,2020-02-28,Patrick Kane Hooking against Anthony Cirelli
+51,penalty,Holding,Barclay Goodrow,Adam Boqvist,[65. 38.],1,06:45,TBL,CHI,TBL,14,CHI,16,0,0,8476624,8480871.0,2019020986,,2020-02-28,Barclay Goodrow Holding against Adam Boqvist
+60,penalty,Hi-sticking,Brandon Saad,Zach Bogosian,[58. 36.],1,04:33,CHI,TBL,TBL,14,CHI,16,0,0,8476438,8474567.0,2019020986,,2020-02-28,Brandon Saad Hi-sticking against Zach Bogosian
+70,penalty,Tripping,Alex Killorn,Slater Koekkoek,[-29.  26.],1,00:36,TBL,CHI,TBL,14,CHI,16,0,0,8473986,8476886.0,2019020986,,2020-02-28,Alex Killorn Tripping against Slater Koekkoek
+94,penalty,Too many men on the ice,Carter Verhaeghe,,[-13.  41.],2,14:40,TBL,CHI,TBL,14,CHI,16,0,0,8477409,,2019020986,,2020-02-28,Too many men/ice served by Carter Verhaeghe
+108,penalty,Hooking,Connor Murphy,Carter Verhaeghe,[-91.  31.],2,09:22,CHI,TBL,TBL,14,CHI,16,0,0,8476473,8477409.0,2019020986,,2020-02-28,Connor Murphy Hooking against Carter Verhaeghe
+159,penalty,Interference,Luke Schenn,Matthew Highmore,[-83. -17.],3,17:32,TBL,CHI,TBL,14,CHI,16,2,0,8474568,8478146.0,2019020986,,2020-02-28,Luke Schenn Interference against Matthew Highmore
+179,penalty,Interference,Slater Koekkoek,Tyler Johnson,[79. 29.],3,14:03,CHI,TBL,TBL,14,CHI,16,2,2,8476886,8474870.0,2019020986,,2020-02-28,Slater Koekkoek Interference against Tyler Johnson
+201,penalty,Slashing,Nikita Kucherov,Patrick Kane,[93. 18.],3,09:25,TBL,CHI,TBL,14,CHI,16,2,3,8476453,8474141.0,2019020986,,2020-02-28,Nikita Kucherov Slashing against Patrick Kane
+227,penalty,Slashing,Drake Caggiula,Cedric Paquette,[80. 34.],3,00:32,CHI,TBL,TBL,14,CHI,16,2,5,8479465,8476975.0,2019020986,,2020-02-28,Drake Caggiula Slashing against Cedric Paquette
+228,penalty,Roughing,Barclay Goodrow,Drake Caggiula,[86. 33.],3,00:32,TBL,CHI,TBL,14,CHI,16,2,5,8476624,8479465.0,2019020986,,2020-02-28,Barclay Goodrow Roughing against Drake Caggiula
+229,penalty,Misconduct,Zach Bogosian,,[82. 32.],3,00:32,TBL,CHI,TBL,14,CHI,16,2,5,8474567,,2019020986,,2020-02-28,Zach Bogosian Misconduct
+230,penalty,Misconduct,Cedric Paquette,,[86. 34.],3,00:32,TBL,CHI,TBL,14,CHI,16,2,5,8476975,,2019020986,,2020-02-28,Cedric Paquette Misconduct
+25,penalty,Holding,MacKenzie Weegar,Brandon Saad,[84. 27.],1,13:34,FLA,CHI,FLA,13,CHI,16,1,0,8477346,8476438.0,2019021002,,2020-03-01,MacKenzie Weegar Holding against Brandon Saad
+47,penalty,Hooking,Jonathan Huberdeau,Slater Koekkoek,[26. 16.],1,06:34,FLA,CHI,FLA,13,CHI,16,1,1,8476456,8476886.0,2019021002,,2020-03-01,Jonathan Huberdeau Hooking against Slater Koekkoek
+58,penalty,Hi-sticking,Erik Haula,Dominik Kubalik,[84. -6.],1,02:47,FLA,CHI,FLA,13,CHI,16,1,1,8475287,8477330.0,2019021002,,2020-03-01,Erik Haula Hi-sticking against Dominik Kubalik
+107,penalty,Interference,Olli Maatta,Mike Hoffman,[-23. -27.],2,11:51,CHI,FLA,FLA,13,CHI,16,1,2,8476874,8474884.0,2019021002,,2020-03-01,Olli Maatta Interference against Mike Hoffman
+121,penalty,Tripping,Duncan Keith,Aleksander Barkov,[ 96. -14.],2,09:47,CHI,FLA,FLA,13,CHI,16,1,2,8470281,8477493.0,2019021002,,2020-03-01,Duncan Keith Tripping against Aleksander Barkov
+153,penalty,Hi-sticking,Kirby Dach,Riley Stillman,[ 82. -34.],3,18:49,CHI,FLA,FLA,13,CHI,16,1,2,8481523,8479388.0,2019021002,,2020-03-01,Kirby Dach Hi-sticking against Riley Stillman
+122,penalty,Tripping,Patrick Kane,Michael Del Zotto,[ 83. -10.],2,14:06,CHI,ANA,CHI,16,ANA,24,2,1,8474141,8474584.0,2019021025,,2020-03-04,Patrick Kane Tripping against Michael Del Zotto
+125,penalty,Tripping,David Kampf,Max Jones,[-43. -33.],2,12:30,CHI,ANA,CHI,16,ANA,24,2,1,8480144,8479368.0,2019021025,,2020-03-04,David Kampf Tripping against Max Jones
+156,penalty,Hooking,Matt Irwin,Patrick Kane,[84. -9.],2,06:52,ANA,CHI,CHI,16,ANA,24,2,1,8475625,8474141.0,2019021025,,2020-03-04,Matt Irwin Hooking against Patrick Kane
+209,penalty,Tripping,Ryan Getzlaf,Kirby Dach,[-30. -37.],3,15:17,ANA,CHI,CHI,16,ANA,24,5,1,8470612,8481523.0,2019021025,,2020-03-04,Ryan Getzlaf Tripping against Kirby Dach
+237,penalty,Slashing,Drake Caggiula,Kiefer Sherwood,[78. -7.],3,09:14,CHI,ANA,CHI,16,ANA,24,5,2,8479465,8480748.0,2019021025,,2020-03-04,Drake Caggiula Slashing against Kiefer Sherwood
+52,penalty,Holding,Ryan Carpenter,Ethan Bear,[-98.   2.],1,08:43,CHI,EDM,CHI,16,EDM,22,0,0,8477846,8478451.0,2019021040,,2020-03-06,Ryan Carpenter Holding against Ethan Bear
+66,penalty,Hooking,Tyler Ennis,Slater Koekkoek,[57. 37.],1,03:25,EDM,CHI,CHI,16,EDM,22,1,0,8474589,8476886.0,2019021040,,2020-03-06,Tyler Ennis Hooking against Slater Koekkoek
+206,penalty,Too many men on the ice,Tyler Ennis,,[-19.  39.],3,11:08,EDM,CHI,CHI,16,EDM,22,4,3,8474589,,2019021040,,2020-03-06,Too many men/ice served by Tyler Ennis
+39,penalty,Holding,Gustav Lindstrom,Brandon Saad,[72. 39.],1,11:25,DET,CHI,DET,17,CHI,16,0,0,8480184,8476438.0,2019021044,,2020-03-07,Gustav Lindstrom Holding against Brandon Saad
+44,penalty,Tripping,Anthony Mantha,Corey Crawford,[-95. -13.],1,08:25,DET,CHI,DET,17,CHI,16,0,0,8477511,8470645.0,2019021044,,2020-03-07,Anthony Mantha Tripping against Corey Crawford
+57,penalty,Interference,Connor Murphy,Darren Helm,[-70. -36.],1,02:23,CHI,DET,DET,17,CHI,16,0,0,8476473,8471794.0,2019021044,,2020-03-07,Connor Murphy Interference against Darren Helm
+90,penalty,Tripping,Connor Murphy,Alex Biega,[67. 12.],2,11:22,CHI,DET,DET,17,CHI,16,1,0,8476473,8473415.0,2019021044,,2020-03-07,Connor Murphy Tripping against Alex Biega
+190,penalty,Hooking,Alex Biega,Brandon Saad,[ 2. -2.],3,08:41,DET,CHI,DET,17,CHI,16,2,1,8473415,8476438.0,2019021044,,2020-03-07,Alex Biega Hooking against Brandon Saad
+61,penalty,Tripping,Kirby Dach,Robert Bortuzzo,[21.  2.],1,06:40,CHI,STL,CHI,16,STL,19,0,0,8481523,8474145.0,2019021061,,2020-03-09,Kirby Dach Tripping against Robert Bortuzzo
+78,penalty,Hi-sticking,Sammy Blais,Adam Boqvist,[80. 23.],1,02:46,STL,CHI,CHI,16,STL,19,0,0,8478104,8480871.0,2019021061,,2020-03-09,Sammy Blais Hi-sticking against Adam Boqvist
+88,penalty,Slashing,Ivan Barbashev,Patrick Kane,[69. 10.],2,19:24,STL,CHI,CHI,16,STL,19,0,0,8477964,8474141.0,2019021061,,2020-03-09,Ivan Barbashev Slashing against Patrick Kane
+135,penalty,Holding,Ivan Barbashev,David Perron,[97.  5.],2,09:03,STL,CHI,CHI,16,STL,19,0,1,8477964,8474102.0,2019021061,,2020-03-09,Ivan Barbashev Holding against Jonathan Toews served by David Perron
+157,penalty,Roughing,Oskar Sundqvist,Adam Boqvist,[-55. -38.],2,05:01,STL,CHI,CHI,16,STL,19,0,1,8476897,8480871.0,2019021061,,2020-03-09,Oskar Sundqvist Roughing against Adam Boqvist
+158,penalty,Elbowing,Oskar Sundqvist,David Perron,[-53. -37.],2,05:01,STL,CHI,CHI,16,STL,19,0,1,8476897,8474102.0,2019021061,,2020-03-09,Oskar Sundqvist Elbowing against Adam Boqvist served by David Perron
+159,penalty,Fighting,Drake Caggiula,Vince Dunn,[-20. -35.],2,05:01,CHI,STL,CHI,16,STL,19,0,1,8479465,8478407.0,2019021061,,2020-03-09,Drake Caggiula Fighting against Vince Dunn
+160,penalty,Fighting,Vince Dunn,Drake Caggiula,[-20. -36.],2,05:01,STL,CHI,CHI,16,STL,19,0,1,8478407,8479465.0,2019021061,,2020-03-09,Vince Dunn Fighting against Drake Caggiula
+161,penalty,Misconduct,Mackenzie MacEachern,,[-15. -35.],2,05:01,STL,CHI,CHI,16,STL,19,0,1,8476907,,2019021061,,2020-03-09,Mackenzie MacEachern Misconduct
+162,penalty,Roughing,Kirby Dach,Robert Bortuzzo,[  9. -31.],2,05:01,CHI,STL,CHI,16,STL,19,0,1,8481523,8474145.0,2019021061,,2020-03-09,Kirby Dach Roughing against Robert Bortuzzo
+191,penalty,Holding,Dominik Kubalik,Brayden Schenn,[33. -1.],3,16:52,CHI,STL,CHI,16,STL,19,0,1,8477330,8475170.0,2019021061,,2020-03-09,Dominik Kubalik Holding against Brayden Schenn
+44,penalty,Tripping,Dylan Strome,Evander Kane,[98. -3.],1,11:05,CHI,SJS,CHI,16,SJS,28,0,0,8478440,8475169.0,2019021079,,2020-03-12,Dylan Strome Tripping against Evander Kane
+47,penalty,Hi-sticking,Ryan Carpenter,Joe Thornton,[68.  3.],1,10:50,CHI,SJS,CHI,16,SJS,28,0,0,8477846,8466138.0,2019021079,,2020-03-12,Ryan Carpenter Hi-sticking against Joe Thornton
+113,penalty,Hooking,Antti Suomela,Alex DeBrincat,[ 55. -10.],2,16:01,SJS,CHI,CHI,16,SJS,28,0,1,8480965,8479337.0,2019021079,,2020-03-12,Antti Suomela Hooking against Alex DeBrincat
+127,penalty,Holding,Evander Kane,Dylan Strome,[-20.  13.],2,13:55,SJS,CHI,CHI,16,SJS,28,1,1,8475169,8478440.0,2019021079,,2020-03-12,Evander Kane Holding against Dylan Strome
+174,penalty,Roughing,Brent Burns,Brandon Hagel,[ 9. 39.],2,04:01,SJS,CHI,CHI,16,SJS,28,1,1,8470613,8479542.0,2019021079,,2020-03-12,Brent Burns Roughing against Brandon Hagel
+221,penalty,Hooking,Alex DeBrincat,Joe Thornton,[81. 27.],3,16:13,CHI,SJS,CHI,16,SJS,28,4,1,8479337,8466138.0,2019021079,,2020-03-12,Alex DeBrincat Hooking against Joe Thornton
+14,penalty,Hooking,Jakub Voracek,Erik Gustafsson,[71. 18.],1,16:44,PHI,CHI,PHI,4,CHI,16,0,0,8474161,8476979.0,2019020016,,2019-10-08,Jakub Voracek Hooking against Erik Gustafsson
+120,penalty,Tripping,Duncan Keith,Travis Sanheim,[92. 23.],2,15:18,CHI,PHI,PHI,4,CHI,16,1,1,8470281,8477948.0,2019020016,,2019-10-08,Duncan Keith Tripping against Travis Sanheim
+136,penalty,Delaying Game - Puck over glass,Brent Seabrook,,[65. 38.],2,10:46,CHI,PHI,PHI,4,CHI,16,2,1,8470607,,2019020016,,2019-10-08,Brent Seabrook Delaying Game - Puck over glass
+169,penalty,Cross checking,Andrew Shaw,Travis Sanheim,[-96.  -8.],2,02:30,CHI,PHI,PHI,4,CHI,16,2,1,8476381,8477948.0,2019020016,,2019-10-08,Andrew Shaw Cross checking against Travis Sanheim
+172,penalty,Slashing,Claude Giroux,David Kampf,[-68. -10.],2,02:11,PHI,CHI,PHI,4,CHI,16,2,1,8473512,8480144.0,2019020016,,2019-10-08,Claude Giroux Slashing against David Kampf
+59,penalty,Interference,Ryan Carpenter,Erik Karlsson,[-53. -30.],1,08:39,CHI,SJS,CHI,16,SJS,28,1,0,8477846,8474578.0,2019020054,,2019-10-11,Ryan Carpenter Interference against Erik Karlsson
+95,penalty,Roughing,Patrick Kane,Brenden Dillon,[-92. -23.],1,01:34,CHI,SJS,CHI,16,SJS,28,2,1,8474141,8475455.0,2019020054,,2019-10-11,Patrick Kane Roughing against Brenden Dillon
+100,penalty,Cross checking,Brenden Dillon,Andrew Shaw,[-46. -12.],1,00:01,SJS,CHI,CHI,16,SJS,28,2,2,8475455,8476381.0,2019020054,,2019-10-11,Brenden Dillon Cross checking against Andrew Shaw
+186,penalty,Cross checking,Andrew Shaw,Brenden Dillon,[ 0. -2.],2,00:39,CHI,SJS,CHI,16,SJS,28,4,4,8476381,8475455.0,2019020054,,2019-10-11,Andrew Shaw Cross checking against Brenden Dillon
+234,penalty,Cross checking,Brent Burns,Ryan Carpenter,[-93. -16.],3,08:48,SJS,CHI,CHI,16,SJS,28,4,5,8470613,8477846.0,2019020054,,2019-10-11,Brent Burns Cross checking against Ryan Carpenter
+16,penalty,Tripping,Zack Smith,Mathieu Perreault,[ 39. -17.],1,16:42,CHI,WPG,CHI,16,WPG,52,0,0,8474250,8473618.0,2019020069,,2019-10-13,Zack Smith Tripping against Mathieu Perreault
+59,penalty,Hi-sticking,Adam Lowry,Connor Murphy,[94. 25.],1,09:00,WPG,CHI,CHI,16,WPG,52,1,0,8476392,8476473.0,2019020069,,2019-10-13,Adam Lowry Hi-sticking against Connor Murphy
+107,penalty,Hooking,Blake Wheeler,Connor Murphy,[-65. -39.],2,19:12,WPG,CHI,CHI,16,WPG,52,2,0,8471218,8476473.0,2019020069,,2019-10-13,Blake Wheeler Hooking against Connor Murphy
+126,penalty,Slashing,Duncan Keith,Nikolaj Ehlers,[-63.  15.],2,14:33,CHI,WPG,CHI,16,WPG,52,2,0,8470281,8477940.0,2019020069,,2019-10-13,Duncan Keith Slashing against Nikolaj Ehlers
+144,penalty,Slashing,Dylan Strome,Patrik Laine,[-67.  -1.],2,11:30,CHI,WPG,CHI,16,WPG,52,2,1,8478440,8479339.0,2019020069,,2019-10-13,Dylan Strome Slashing against Patrik Laine
+267,penalty,Tripping,Brandon Saad,Dmitry Kulikov,[-42.  26.],3,05:12,CHI,WPG,CHI,16,WPG,52,2,2,8476438,8475179.0,2019020069,,2019-10-13,Brandon Saad Tripping against Dmitry Kulikov
+66,penalty,Hi-sticking,Dominik Kubalik,Leon Draisaitl,[67. 13.],1,05:49,CHI,EDM,CHI,16,EDM,22,0,0,8477330,8477934.0,2019020084,,2019-10-15,Dominik Kubalik Hi-sticking against Leon Draisaitl
+76,penalty,Holding,Andrew Shaw,Josh Archibald,[15. 31.],1,03:08,CHI,EDM,CHI,16,EDM,22,0,0,8476381,8476326.0,2019020084,,2019-10-15,Andrew Shaw Holding against Josh Archibald
+124,penalty,Roughing,Jujhar Khaira,Andrew Shaw,[93. 14.],2,14:48,EDM,CHI,CHI,16,EDM,22,1,0,8476915,8476381.0,2019020084,,2019-10-15,Jujhar Khaira Roughing against Andrew Shaw
+151,penalty,Tripping,Ethan Bear,Drake Caggiula,[84. 11.],2,08:55,EDM,CHI,CHI,16,EDM,22,1,0,8478451,8479465.0,2019020084,,2019-10-15,Ethan Bear Tripping against Drake Caggiula
+221,penalty,Holding,Jujhar Khaira,Brent Seabrook,[83. 27.],3,13:28,EDM,CHI,CHI,16,EDM,22,2,0,8476915,8470607.0,2019020084,,2019-10-15,Jujhar Khaira Holding against Brent Seabrook
+249,penalty,Roughing,Darnell Nurse,Calvin de Haan,[ 61. -37.],3,05:37,EDM,CHI,CHI,16,EDM,22,2,0,8477498,8475177.0,2019020084,,2019-10-15,Darnell Nurse Roughing against Calvin de Haan
+250,penalty,Roughing,Calvin de Haan,Darnell Nurse,[ 57. -34.],3,05:37,CHI,EDM,CHI,16,EDM,22,2,0,8475177,8477498.0,2019020084,,2019-10-15,Calvin de Haan Roughing against Darnell Nurse
+259,penalty,Slashing,Dominik Kubalik,Darnell Nurse,[64. 40.],3,03:02,CHI,EDM,CHI,16,EDM,22,2,0,8477330,8477498.0,2019020084,,2019-10-15,Dominik Kubalik Slashing against Darnell Nurse
+26,penalty,Hooking,Andrew Shaw,Alexander Wennberg,[69.  0.],1,14:47,CHI,CBJ,CHI,16,CBJ,29,0,0,8476381,8477505.0,2019020110,CBJ,2019-10-19,Andrew Shaw Hooking against Alexander Wennberg
+83,penalty,Tripping,Vladislav Gavrikov,Patrick Kane,[-59. -17.],1,02:00,CBJ,CHI,CHI,16,CBJ,29,1,0,8478882,8474141.0,2019020110,CBJ,2019-10-19,Vladislav Gavrikov Tripping against Patrick Kane
+91,penalty,Slashing,Alexander Wennberg,Alex DeBrincat,[-36. -25.],1,01:06,CBJ,CHI,CHI,16,CBJ,29,1,0,8477505,8479337.0,2019020110,CBJ,2019-10-19,Alexander Wennberg Slashing against Alex DeBrincat
+165,penalty,Interference,Andrew Shaw,Pierre-Luc Dubois,[ 86. -32.],2,03:02,CHI,CBJ,CHI,16,CBJ,29,1,1,8476381,8479400.0,2019020110,CBJ,2019-10-19,Andrew Shaw Interference against Pierre-Luc Dubois
+173,penalty,Tripping,Robin Lehner,Dylan Strome,[-81.   2.],2,00:25,CHI,CBJ,CHI,16,CBJ,29,1,1,8475215,8478440.0,2019020110,CBJ,2019-10-19,Robin Lehner Tripping against Boone Jenner served by Dylan Strome
+207,penalty,Tripping,Seth Jones,Andrew Shaw,[-60. -11.],3,13:02,CBJ,CHI,CHI,16,CBJ,29,1,2,8477495,8476381.0,2019020110,CBJ,2019-10-19,Seth Jones Tripping against Andrew Shaw
+232,penalty,Interference,Brent Seabrook,Sonny Milano,[22. 12.],3,08:00,CHI,CBJ,CHI,16,CBJ,29,2,2,8470607,8477947.0,2019020110,CBJ,2019-10-19,Brent Seabrook Interference against Sonny Milano
+249,penalty,Hooking,Vladislav Gavrikov,Ryan Carpenter,[-86. -12.],3,03:47,CBJ,CHI,CHI,16,CBJ,29,2,2,8478882,8477846.0,2019020110,CBJ,2019-10-19,Vladislav Gavrikov Hooking against Ryan Carpenter
+41,penalty,Holding,Andrew Shaw,Nick Jensen,[-92. -23.],1,10:43,CHI,WSH,CHI,16,WSH,15,0,0,8476381,8475324.0,2019020126,WSH,2019-10-21,Andrew Shaw Holding against Nick Jensen
+61,penalty,Tripping,Lars Eller,Alex DeBrincat,[-59.  41.],1,07:01,WSH,CHI,CHI,16,WSH,15,0,1,8474189,8479337.0,2019020126,WSH,2019-10-21,Lars Eller Tripping against Alex DeBrincat
+94,penalty,Cross checking,Radko Gudas,Connor Murphy,[-20.   7.],1,00:00,WSH,CHI,CHI,16,WSH,15,0,1,8475462,8476473.0,2019020126,WSH,2019-10-21,Radko Gudas Cross checking against Connor Murphy
+95,penalty,Roughing,Radko Gudas,Jakub Vrana,[-22.   8.],1,00:00,WSH,CHI,CHI,16,WSH,15,0,1,8475462,8477944.0,2019020126,WSH,2019-10-21,Radko Gudas Roughing against Connor Murphy served by Jakub Vrana
+96,penalty,Roughing,Connor Murphy,Radko Gudas,[-16.   5.],1,00:00,CHI,WSH,CHI,16,WSH,15,0,1,8476473,8475462.0,2019020126,WSH,2019-10-21,Connor Murphy Roughing against Radko Gudas
+149,penalty,Hi stick - double minor,Chandler Stephenson,Kirby Dach,[-44. -34.],2,10:35,WSH,CHI,CHI,16,WSH,15,1,1,8476905,8481523.0,2019020126,WSH,2019-10-21,Chandler Stephenson Hi stick - double minor against Kirby Dach
+194,penalty,Tripping,Michal Kempny,Patrick Kane,[77. 39.],3,19:27,WSH,CHI,CHI,16,WSH,15,1,2,8479482,8474141.0,2019020126,WSH,2019-10-21,Michal Kempny Tripping against Patrick Kane
+15,penalty,Hooking,Brayden McNabb,Patrick Kane,[-81.  15.],1,14:30,VGK,CHI,CHI,16,VGK,54,0,0,8475188,8474141.0,2019020141,,2019-10-23,Brayden McNabb Hooking against Patrick Kane
+29,penalty,Interference,Drake Caggiula,Paul Stastny,[22. 37.],1,11:16,CHI,VGK,CHI,16,VGK,54,0,0,8479465,8471669.0,2019020141,,2019-10-23,Drake Caggiula Interference against Paul Stastny
+49,penalty,Cross checking,Jake Bischoff,Andrew Shaw,[-97.  -8.],1,08:19,VGK,CHI,CHI,16,VGK,54,0,0,8476987,8476381.0,2019020141,,2019-10-23,Jake Bischoff Cross checking against Andrew Shaw
+140,penalty,Kneeing,Brayden McNabb,Patrick Kane,[-60. -32.],2,10:12,VGK,CHI,CHI,16,VGK,54,1,0,8475188,8474141.0,2019020141,,2019-10-23,Brayden McNabb Kneeing against Patrick Kane
+148,penalty,Tripping,Erik Gustafsson,Reilly Smith,[-69.   2.],2,08:23,CHI,VGK,CHI,16,VGK,54,1,0,8476979,8475191.0,2019020141,,2019-10-23,Erik Gustafsson Tripping against Reilly Smith
+176,penalty,Interference,Deryk Engelland,Alex DeBrincat,[94. 13.],2,01:31,VGK,CHI,CHI,16,VGK,54,1,0,8468674,8479337.0,2019020141,,2019-10-23,Deryk Engelland Interference against Alex DeBrincat
+181,penalty,Hi stick - double minor,Jonathan Toews,Brayden McNabb,[79. -6.],2,00:53,CHI,VGK,CHI,16,VGK,54,1,0,8473604,8475188.0,2019020141,,2019-10-23,Jonathan Toews Hi stick - double minor against Brayden McNabb
+278,penalty,Tripping,Jonathan Toews,Shea Theodore,[-28. -23.],4,01:38,CHI,VGK,CHI,16,VGK,54,1,1,8473604,8477447.0,2019020141,,2019-10-23,Jonathan Toews Tripping against Shea Theodore
+36,penalty,Tripping,Ivan Provorov,Dominik Kubalik,[-33.  36.],1,10:11,PHI,CHI,CHI,16,PHI,4,0,0,8478500,8477330.0,2019020151,PHI,2019-10-25,Ivan Provorov Tripping against Dominik Kubalik
+120,penalty,Slashing,Dominik Kubalik,Robert Hagg,[-74. -39.],2,09:31,CHI,PHI,CHI,16,PHI,4,0,2,8477330,8477462.0,2019020151,PHI,2019-10-25,Dominik Kubalik Slashing against Robert Hagg
+132,penalty,Tripping,Justin Braun,Jonathan Toews,[96. -7.],2,05:45,PHI,CHI,CHI,16,PHI,4,0,2,8474027,8473604.0,2019020151,PHI,2019-10-25,Justin Braun Tripping against Jonathan Toews
+141,penalty,Hi-sticking,Ivan Provorov,Alex DeBrincat,[41. -3.],2,01:27,PHI,CHI,CHI,16,PHI,4,0,2,8478500,8479337.0,2019020151,PHI,2019-10-25,Ivan Provorov Hi-sticking against Alex DeBrincat
+177,penalty,Cross checking,James van Riemsdyk,Erik Gustafsson,[80.  7.],3,12:33,PHI,CHI,CHI,16,PHI,4,1,3,8474037,8476979.0,2019020151,PHI,2019-10-25,James van Riemsdyk Cross checking against Erik Gustafsson
+180,penalty,Holding,Patrick Kane,Sean Couturier,[-32. -38.],3,12:05,CHI,PHI,CHI,16,PHI,4,1,3,8474141,8476461.0,2019020151,PHI,2019-10-25,Patrick Kane Holding against Sean Couturier
+23,penalty,Hi-sticking,Duncan Keith,Jaccob Slavin,[-99.   9.],1,15:48,CHI,CAR,CAR,12,CHI,16,0,0,8470281,8476958.0,2019020161,CHI,2019-10-26,Duncan Keith Hi-sticking against Jaccob Slavin
+30,penalty,Boarding,Jake Gardiner,Alex Nylander,[69. 42.],1,15:01,CAR,CHI,CAR,12,CHI,16,1,0,8474581,8479423.0,2019020161,CHI,2019-10-26,Jake Gardiner Boarding against Alex Nylander
+134,penalty,Hooking,Martin Necas,Alex Nylander,[-67.   2.],2,09:06,CAR,CHI,CAR,12,CHI,16,1,0,8480039,8479423.0,2019020161,CHI,2019-10-26,Martin Necas Hooking against Alex Nylander
+186,penalty,Holding,Kirby Dach,Warren Foegele,[-58.  31.],3,18:24,CHI,CAR,CAR,12,CHI,16,2,0,8481523,8477998.0,2019020161,CHI,2019-10-26,Kirby Dach Holding against Warren Foegele
+239,penalty,Tripping,Joel Edmundson,Alex Nylander,[ 34. -25.],3,06:02,CAR,CHI,CAR,12,CHI,16,3,0,8476441,8479423.0,2019020161,CHI,2019-10-26,Joel Edmundson Tripping against Alex Nylander
+27,penalty,Tripping,Blake Lizotte,David Kampf,[76. 14.],1,16:24,LAK,CHI,CHI,16,LAK,26,1,0,8481481,8480144.0,2019020175,LAK,2019-10-28,Blake Lizotte Tripping against David Kampf
+68,penalty,Delaying Game - Puck over glass,Calvin de Haan,,[79. 22.],1,09:04,CHI,LAK,CHI,16,LAK,26,1,0,8475177,,2019020175,LAK,2019-10-28,Calvin de Haan Delaying Game - Puck over glass
+77,penalty,Tripping,Ilya Kovalchuk,Olli Maatta,[94.  8.],1,07:46,LAK,CHI,CHI,16,LAK,26,1,0,8469454,8476874.0,2019020175,LAK,2019-10-28,Ilya Kovalchuk Tripping against Olli Maatta
+145,penalty,Holding,Andrew Shaw,Matt Roy,[-47.  34.],2,14:36,CHI,LAK,CHI,16,LAK,26,2,0,8476381,8478911.0,2019020175,LAK,2019-10-28,Andrew Shaw Holding against Matt Roy
+271,penalty,Hooking,Jonathan Toews,Dustin Brown,[ 39. -19.],3,07:42,CHI,LAK,CHI,16,LAK,26,4,1,8473604,8470606.0,2019020175,LAK,2019-10-28,Jonathan Toews Hooking against Dustin Brown
+281,penalty,Roughing,Kyle Clifford,Slater Koekkoek,[ 84. -28.],3,05:26,LAK,CHI,CHI,16,LAK,26,4,1,8475160,8476886.0,2019020175,LAK,2019-10-28,Kyle Clifford Roughing against Slater Koekkoek
+282,penalty,Roughing,Slater Koekkoek,Kyle Clifford,[ 87. -28.],3,05:26,CHI,LAK,CHI,16,LAK,26,4,1,8476886,8475160.0,2019020175,LAK,2019-10-28,Slater Koekkoek Roughing against Kyle Clifford
+52,penalty,Cross checking,Mikael Granlund,Alex Nylander,[-67.  38.],1,07:06,NSH,CHI,NSH,18,CHI,16,0,0,8475798,8479423.0,2019020185,,2019-10-30,Mikael Granlund Cross checking against Alex Nylander
+91,penalty,Tripping,Dante Fabbro,Dylan Strome,[ 72. -29.],2,19:23,NSH,CHI,NSH,18,CHI,16,1,0,8479371,8478440.0,2019020185,,2019-10-30,Dante Fabbro Tripping against Dylan Strome
+111,penalty,Hooking,Duncan Keith,Mattias Ekholm,[-78.  12.],2,14:54,CHI,NSH,NSH,18,CHI,16,1,0,8470281,8475218.0,2019020185,,2019-10-30,Duncan Keith Hooking against Mattias Ekholm
+175,penalty,Hooking,Slater Koekkoek,Colton Sissons,[-48.  32.],2,02:10,CHI,NSH,NSH,18,CHI,16,2,0,8476886,8476925.0,2019020185,,2019-10-30,Slater Koekkoek Hooking against Colton Sissons
+221,penalty,Hi-sticking,Slater Koekkoek,Matt Duchene,[83. -7.],3,11:56,CHI,NSH,NSH,18,CHI,16,3,0,8476886,8475168.0,2019020185,,2019-10-30,Slater Koekkoek Hi-sticking against Matt Duchene
+232,penalty,Hooking,Patrick Kane,Matt Irwin,[-83. -32.],3,08:24,CHI,NSH,NSH,18,CHI,16,3,0,8474141,8475625.0,2019020185,,2019-10-30,Patrick Kane Hooking against Matt Irwin
+233,penalty,Unsportsmanlike conduct,Patrick Kane,,[-37.   1.],3,08:24,CHI,NSH,NSH,18,CHI,16,3,0,8474141,,2019020185,,2019-10-30,Patrick Kane Unsportsmanlike conduct
+236,penalty,Hooking,Ryan Johansen,Ryan Carpenter,[-73.  -1.],3,07:28,NSH,CHI,NSH,18,CHI,16,3,0,8475793,8477846.0,2019020185,,2019-10-30,Ryan Johansen Hooking against Ryan Carpenter
+21,penalty,Delaying Game - Puck over glass,Slater Koekkoek,,[-40.  36.],1,14:57,CHI,LAK,LAK,26,CHI,16,2,0,8476886,,2019020217,CHI,2019-11-03,Slater Koekkoek Delaying Game - Puck over glass
+37,penalty,Interference,Adrian Kempe,Duncan Keith,[ 2. 20.],1,11:52,LAK,CHI,LAK,26,CHI,16,2,0,8477960,8470281.0,2019020217,CHI,2019-11-03,Adrian Kempe Interference against Duncan Keith
+92,penalty,Interference,Calvin de Haan,Trevor Lewis,[-59. -39.],1,00:18,CHI,LAK,LAK,26,CHI,16,2,2,8475177,8473453.0,2019020217,CHI,2019-11-03,Calvin de Haan Interference against Trevor Lewis
+134,penalty,Hooking,Ryan Carpenter,Jeff Carter,[43. 41.],2,08:10,CHI,LAK,LAK,26,CHI,16,2,2,8477846,8470604.0,2019020217,CHI,2019-11-03,Ryan Carpenter Hooking against Jeff Carter
+159,penalty,Hooking,Olli Maatta,Dustin Brown,[ 86. -11.],2,03:42,CHI,LAK,LAK,26,CHI,16,2,2,8476874,8470606.0,2019020217,CHI,2019-11-03,Olli Maatta Hooking against Dustin Brown
+14,penalty,Tripping,Erik Gustafsson,Rickard Rakell,[ 82. -33.],1,14:44,CHI,ANA,ANA,24,CHI,16,0,0,8476979,8476483.0,2019020219,CHI,2019-11-04,Erik Gustafsson Tripping against Rickard Rakell
+25,penalty,Hooking,Josh Mahura,Ryan Carpenter,[-83.  -5.],1,12:42,ANA,CHI,ANA,24,CHI,16,0,0,8479372,8477846.0,2019020219,CHI,2019-11-04,Josh Mahura Hooking against Ryan Carpenter
+53,penalty,Delaying Game - Puck over glass,Nick Ritchie,,[ 16. -40.],1,06:02,ANA,CHI,ANA,24,CHI,16,0,1,8477941,,2019020219,CHI,2019-11-04,Nick Ritchie Delaying Game - Puck over glass
+56,penalty,Tripping,Hampus Lindholm,Alex Nylander,[-94.  25.],1,05:11,ANA,CHI,ANA,24,CHI,16,0,1,8476854,8479423.0,2019020219,CHI,2019-11-04,Hampus Lindholm Tripping against Alex Nylander
+112,penalty,Hooking,Ryan Carpenter,Carter Rowney,[-79.  -5.],2,12:55,CHI,ANA,ANA,24,CHI,16,0,2,8477846,8477240.0,2019020219,CHI,2019-11-04,Ryan Carpenter Hooking against Carter Rowney
+176,penalty,Interference,Hampus Lindholm,Dylan Strome,[-16.  23.],3,18:35,ANA,CHI,ANA,24,CHI,16,1,2,8476854,8478440.0,2019020219,CHI,2019-11-04,Hampus Lindholm Interference against Dylan Strome
+183,penalty,Slashing,Jonathan Toews,Rickard Rakell,[-21.  27.],3,17:26,CHI,ANA,ANA,24,CHI,16,1,2,8473604,8476483.0,2019020219,CHI,2019-11-04,Jonathan Toews Slashing against Rickard Rakell
+193,penalty,Slashing,Jonathan Toews,Adam Henrique,[52. 26.],3,14:42,CHI,ANA,ANA,24,CHI,16,1,2,8473604,8474641.0,2019020219,CHI,2019-11-04,Jonathan Toews Slashing against Adam Henrique
+222,penalty,Tripping,Carter Rowney,Andrew Shaw,[42. -1.],3,06:59,ANA,CHI,ANA,24,CHI,16,2,2,8477240,8476381.0,2019020219,CHI,2019-11-04,Carter Rowney Tripping against Andrew Shaw
+36,penalty,Hooking,Noah Gregor,David Kampf,[-88. -18.],1,09:35,SJS,CHI,SJS,28,CHI,16,0,0,8479393,8480144.0,2019020234,CHI,2019-11-06,Noah Gregor Hooking against David Kampf
+60,penalty,Tripping,Duncan Keith,Logan Couture,[ 93. -17.],1,02:08,CHI,SJS,SJS,28,CHI,16,0,0,8470281,8474053.0,2019020234,CHI,2019-11-06,Duncan Keith Tripping against Logan Couture
+67,penalty,Hooking,Brandon Saad,Barclay Goodrow,[63.  1.],1,00:33,CHI,SJS,SJS,28,CHI,16,0,0,8476438,8476624.0,2019020234,CHI,2019-11-06,Brandon Saad Hooking against Barclay Goodrow
+107,penalty,Hi-sticking,Timo Meier,Dylan Strome,[59. 10.],2,08:44,SJS,CHI,SJS,28,CHI,16,1,0,8478414,8478440.0,2019020234,CHI,2019-11-06,Timo Meier Hi-sticking against Dylan Strome
+178,penalty,Hi-sticking,Andrew Shaw,Erik Karlsson,[-81. -16.],3,13:28,CHI,SJS,SJS,28,CHI,16,3,0,8476381,8474578.0,2019020234,CHI,2019-11-06,Andrew Shaw Hi-sticking against Erik Karlsson
+184,penalty,Hi-sticking,Marcus Sorensen,Patrick Kane,[ 1. -2.],3,10:58,SJS,CHI,SJS,28,CHI,16,3,0,8475834,8474141.0,2019020234,CHI,2019-11-06,Marcus Sorensen Hi-sticking against Patrick Kane
+41,penalty,Slashing,Jake Virtanen,Brandon Saad,[-60.  28.],1,12:19,VAN,CHI,CHI,16,VAN,23,1,0,8477937,8476438.0,2019020243,VAN,2019-11-08,Jake Virtanen Slashing against Brandon Saad
+92,penalty,Hooking,J.T. Miller,David Kampf,[ 91. -29.],1,01:28,VAN,CHI,CHI,16,VAN,23,1,0,8476468,8480144.0,2019020243,VAN,2019-11-08,J.T. Miller Hooking against David Kampf
+98,penalty,Slashing,Jonathan Toews,Jake Virtanen,[69.  2.],1,00:56,CHI,VAN,CHI,16,VAN,23,2,0,8473604,8477937.0,2019020243,VAN,2019-11-08,Jonathan Toews Slashing against Jake Virtanen
+112,penalty,Tripping,Adam Boqvist,Tim Schaller,[-96.  -7.],2,17:50,CHI,VAN,CHI,16,VAN,23,2,1,8480871,8477213.0,2019020243,VAN,2019-11-08,Adam Boqvist Tripping against Tim Schaller
+114,penalty,Interference,J.T. Miller,Jonathan Toews,[-64. -12.],2,17:46,VAN,CHI,CHI,16,VAN,23,2,1,8476468,8473604.0,2019020243,VAN,2019-11-08,J.T. Miller Interference against Jonathan Toews
+165,penalty,Slashing,Elias Pettersson,Zack Smith,[-19. -15.],2,06:56,VAN,CHI,CHI,16,VAN,23,2,1,8480012,8474250.0,2019020243,VAN,2019-11-08,Elias Pettersson Slashing against Zack Smith
+176,penalty,Slashing,Dylan Strome,Jordie Benn,[ 94. -16.],2,03:02,CHI,VAN,CHI,16,VAN,23,2,1,8478440,8474818.0,2019020243,VAN,2019-11-08,Dylan Strome Slashing against Jordie Benn
+225,penalty,Hi-sticking,Alexander Edler,Drake Caggiula,[-93.  28.],3,11:31,VAN,CHI,CHI,16,VAN,23,2,1,8471303,8479465.0,2019020243,VAN,2019-11-08,Alexander Edler Hi-sticking against Drake Caggiula
+244,penalty,Hi-sticking,J.T. Miller,Calvin de Haan,[36. -8.],3,05:51,VAN,CHI,CHI,16,VAN,23,2,1,8476468,8475177.0,2019020243,VAN,2019-11-08,J.T. Miller Hi-sticking against Calvin de Haan
+250,penalty,Holding,Drake Caggiula,Troy Stecher,[-95. -19.],3,03:56,CHI,VAN,CHI,16,VAN,23,3,1,8479465,8479442.0,2019020243,VAN,2019-11-08,Drake Caggiula Holding against Troy Stecher
+86,penalty,Hooking,Patrick Kane,Alex Galchenyuk,[-27. -41.],1,00:36,CHI,PIT,PIT,5,CHI,16,0,0,8474141,8476851.0,2019020257,CHI,2019-11-10,Patrick Kane Hooking against Alex Galchenyuk
+105,penalty,Tripping,Jack Johnson,Dylan Strome,[ 89. -23.],2,16:22,PIT,CHI,PIT,5,CHI,16,0,0,8471677,8478440.0,2019020257,CHI,2019-11-10,Jack Johnson Tripping against Dylan Strome
+108,penalty,Boarding,Brandon Tanev,Alex DeBrincat,[94. 30.],2,15:56,PIT,CHI,PIT,5,CHI,16,0,0,8479293,8479337.0,2019020257,CHI,2019-11-10,Brandon Tanev Boarding against Alex DeBrincat
+140,penalty,Slashing,Ryan Carpenter,Nick Bjugstad,[-68.  14.],2,08:09,CHI,PIT,PIT,5,CHI,16,0,2,8477846,8475760.0,2019020257,CHI,2019-11-10,Ryan Carpenter Slashing against Nick Bjugstad
+192,penalty,Tripping,Dylan Strome,Nick Bjugstad,[ 26. -41.],3,14:17,CHI,PIT,PIT,5,CHI,16,1,2,8478440,8475760.0,2019020257,CHI,2019-11-10,Dylan Strome Tripping against Nick Bjugstad
+3,penalty,Roughing,Jonathan Toews,Jake Muzzin,[-95.  11.],1,19:28,CHI,TOR,CHI,16,TOR,10,0,0,8473604,8474162.0,2019020268,,2019-11-11,Jonathan Toews Roughing against Jake Muzzin
+4,penalty,Roughing,Jonathan Toews,Dylan Strome,[-96.  11.],1,19:28,CHI,TOR,CHI,16,TOR,10,0,0,8473604,8478440.0,2019020268,,2019-11-11,Jonathan Toews Roughing against Jake Muzzin served by Dylan Strome
+5,penalty,Roughing,Jake Muzzin,Jonathan Toews,[-94.  11.],1,19:28,TOR,CHI,CHI,16,TOR,10,0,0,8474162,8473604.0,2019020268,,2019-11-11,Jake Muzzin Roughing against Jonathan Toews
+76,penalty,Interference,Justin Holl,Drake Caggiula,[-79.   9.],1,03:44,TOR,CHI,CHI,16,TOR,10,3,0,8475718,8479465.0,2019020268,,2019-11-11,Justin Holl Interference against Drake Caggiula
+78,penalty,Slashing,Dylan Strome,Ilya Mikheyev,[-96.  17.],1,03:34,CHI,TOR,CHI,16,TOR,10,3,0,8478440,8481624.0,2019020268,,2019-11-11,Dylan Strome Slashing against Ilya Mikheyev
+85,penalty,Tripping,Jake Muzzin,David Kampf,[22. 39.],1,02:43,TOR,CHI,CHI,16,TOR,10,3,1,8474162,8480144.0,2019020268,,2019-11-11,Jake Muzzin Tripping against David Kampf
+135,penalty,Hooking,Morgan Rielly,Drake Caggiula,[79.  6.],2,11:59,TOR,CHI,CHI,16,TOR,10,4,1,8476853,8479465.0,2019020268,,2019-11-11,Morgan Rielly Hooking against Drake Caggiula
+160,penalty,Hooking,Cody Ceci,Alex Nylander,[73.  6.],2,06:52,TOR,CHI,CHI,16,TOR,10,4,1,8476879,8479423.0,2019020268,,2019-11-11,Cody Ceci Hooking against Alex Nylander
+178,penalty,Slashing,Dylan Strome,Travis Dermott,[16. 38.],2,02:55,CHI,TOR,CHI,16,TOR,10,4,1,8478440,8478408.0,2019020268,,2019-11-11,Dylan Strome Slashing against Travis Dermott
+209,penalty,Hi-sticking,Alex Nylander,Cody Ceci,[ -2. -37.],3,16:05,CHI,TOR,CHI,16,TOR,10,4,2,8479423,8476879.0,2019020268,,2019-11-11,Alex Nylander Hi-sticking against Cody Ceci
+218,penalty,Hi-sticking,Auston Matthews,Calvin de Haan,[72. 17.],3,14:56,TOR,CHI,CHI,16,TOR,10,4,2,8479318,8475177.0,2019020268,,2019-11-11,Auston Matthews Hi-sticking against Calvin de Haan
+251,penalty,Hooking,Erik Gustafsson,John Tavares,[75.  4.],3,07:23,CHI,TOR,CHI,16,TOR,10,4,2,8476979,8475166.0,2019020268,,2019-11-11,Erik Gustafsson Hooking against John Tavares
+278,penalty,Hooking,Zack Smith,Andreas Johnsson,[83.  6.],3,01:37,CHI,TOR,CHI,16,TOR,10,5,3,8474250,8477341.0,2019020268,,2019-11-11,Zack Smith Hooking against Andreas Johnsson
+2,penalty,PS - Hooking on breakaway,Nicolas Hague,Zack Smith,[68.  1.],1,19:16,VGK,CHI,VGK,54,CHI,16,0,0,8479980,8474250.0,2019020285,,2019-11-14,Nicolas Hague PS - Hooking on breakaway against Zack Smith
+26,penalty,Hooking,Andrew Shaw,Cody Eakin,[-65.  39.],1,14:29,CHI,VGK,VGK,54,CHI,16,1,0,8476381,8475236.0,2019020285,,2019-11-14,Andrew Shaw Hooking against Cody Eakin
+146,penalty,Slashing,Brayden McNabb,Alex DeBrincat,[-83.   9.],2,10:38,VGK,CHI,VGK,54,CHI,16,2,3,8475188,8479337.0,2019020285,,2019-11-14,Brayden McNabb Slashing against Alex DeBrincat
+147,penalty,Cross checking,Alex DeBrincat,Brayden McNabb,[-84.   8.],2,10:38,CHI,VGK,VGK,54,CHI,16,2,3,8479337,8475188.0,2019020285,,2019-11-14,Alex DeBrincat Cross checking against Brayden McNabb
+155,penalty,PS - Thow object at puck,Corey Crawford,Jonathan Marchessault,[87.  1.],2,09:15,CHI,VGK,VGK,54,CHI,16,2,3,8470645,8476539.0,2019020285,,2019-11-14,Corey Crawford PS - Thow object at puck against Jonathan Marchessault
+176,penalty,Slashing,Nicolas Roy,Brandon Saad,[-65.   3.],2,06:18,VGK,CHI,VGK,54,CHI,16,2,3,8478462,8476438.0,2019020285,,2019-11-14,Nicolas Roy Slashing against Brandon Saad
+248,penalty,Interference,Adam Boqvist,William Carrier,[  1. -37.],3,08:40,CHI,VGK,VGK,54,CHI,16,2,4,8480871,8477478.0,2019020285,,2019-11-14,Adam Boqvist Interference against William Carrier
+140,penalty,Holding,Mikael Granlund,David Kampf,[90. 30.],2,04:25,NSH,CHI,NSH,18,CHI,16,0,4,8475798,8480144.0,2019020310,,2019-11-17,Mikael Granlund Holding against David Kampf
+152,penalty,Interference,Brandon Saad,Mattias Ekholm,[35.  2.],2,00:25,CHI,NSH,NSH,18,CHI,16,0,4,8476438,8475218.0,2019020310,,2019-11-17,Brandon Saad Interference against Mattias Ekholm
+62,penalty,Hooking,Alex DeBrincat,Casey Mittelstadt,[-53. -18.],1,08:01,CHI,BUF,CHI,16,BUF,7,0,0,8479337,8479999.0,2019020314,BUF,2019-11-18,Alex DeBrincat Hooking against Casey Mittelstadt
+86,penalty,Hi-sticking,Jimmy Vesey,Connor Murphy,[89. 29.],1,03:20,BUF,CHI,CHI,16,BUF,7,1,0,8476918,8476473.0,2019020314,BUF,2019-11-18,Jimmy Vesey Hi-sticking against Connor Murphy
+122,penalty,Tripping,Zemgus Girgensons,David Kampf,[14. 27.],2,16:36,BUF,CHI,CHI,16,BUF,7,1,0,8476878,8480144.0,2019020314,BUF,2019-11-18,Zemgus Girgensons Tripping against David Kampf
+131,penalty,Hooking,Andrew Shaw,Jack Eichel,[-23.  11.],2,14:29,CHI,BUF,CHI,16,BUF,7,1,0,8476381,8478403.0,2019020314,BUF,2019-11-18,Andrew Shaw Hooking against Jack Eichel
+161,penalty,Slashing,Brandon Montour,Ryan Carpenter,[74.  3.],2,10:35,BUF,CHI,CHI,16,BUF,7,1,0,8477986,8477846.0,2019020314,BUF,2019-11-18,Brandon Montour Slashing against Ryan Carpenter
+184,penalty,Fighting,Erik Gustafsson,Jimmy Vesey,[ -7. -22.],2,05:59,CHI,BUF,CHI,16,BUF,7,2,0,8476979,8476918.0,2019020314,BUF,2019-11-18,Erik Gustafsson Fighting against Jimmy Vesey
+185,penalty,Fighting,Jimmy Vesey,Erik Gustafsson,[-11. -22.],2,05:59,BUF,CHI,CHI,16,BUF,7,2,0,8476918,8476979.0,2019020314,BUF,2019-11-18,Jimmy Vesey Fighting against Erik Gustafsson
+197,penalty,Holding,Rasmus Dahlin,Kirby Dach,[70.  0.],2,02:56,BUF,CHI,CHI,16,BUF,7,2,0,8480839,8481523.0,2019020314,BUF,2019-11-18,Rasmus Dahlin Holding against Kirby Dach
+210,penalty,Interference,Kirby Dach,Sam Reinhart,[40. 24.],2,00:02,CHI,BUF,CHI,16,BUF,7,2,0,8481523,8477933.0,2019020314,BUF,2019-11-18,Kirby Dach Interference against Sam Reinhart
+228,penalty,Hi-sticking,Jake McCabe,Connor Murphy,[97.  3.],3,16:26,BUF,CHI,CHI,16,BUF,7,2,0,8476931,8476473.0,2019020314,BUF,2019-11-18,Jake McCabe Hi-sticking against Connor Murphy
+266,penalty,Cross checking,Olli Maatta,Evan Rodrigues,[79.  9.],3,09:56,CHI,BUF,CHI,16,BUF,7,4,1,8476874,8478542.0,2019020314,BUF,2019-11-18,Olli Maatta Cross checking against Evan Rodrigues
+119,penalty,Tripping,Dougie Hamilton,Dominik Kubalik,[-29.   2.],2,11:46,CAR,CHI,CHI,16,CAR,12,0,2,8476462,8477330.0,2019020326,CAR,2019-11-20,Dougie Hamilton Tripping against Dominik Kubalik
+148,penalty,Tripping,Patrick Kane,Eetu Luostarinen,[-67. -35.],2,06:27,CHI,CAR,CHI,16,CAR,12,0,3,8474141,8480185.0,2019020326,CAR,2019-11-20,Patrick Kane Tripping against Eetu Luostarinen
+202,penalty,Holding,Jake Gardiner,Dylan Strome,[-47.  40.],3,14:14,CAR,CHI,CHI,16,CAR,12,0,3,8474581,8478440.0,2019020326,CAR,2019-11-20,Jake Gardiner Holding against Dylan Strome
+238,penalty,Interference,Brett Pesce,Andrew Shaw,[-82.   2.],3,06:11,CAR,CHI,CHI,16,CAR,12,2,3,8477488,8476381.0,2019020326,CAR,2019-11-20,Brett Pesce Interference against Andrew Shaw
+276,penalty,Misconduct,Patrick Kane,,[22. -1.],3,00:18,CHI,CAR,CHI,16,CAR,12,2,4,8474141,,2019020326,CAR,2019-11-20,Patrick Kane Misconduct
+73,penalty,Cross checking,Alex Killorn,Slater Koekkoek,[74.  1.],1,07:04,TBL,CHI,CHI,16,TBL,14,0,0,8473986,8476886.0,2019020341,,2019-11-22,Alex Killorn Cross checking against Slater Koekkoek
+82,penalty,Interference,Duncan Keith,Brayden Point,[-28. -37.],1,05:00,CHI,TBL,CHI,16,TBL,14,0,0,8470281,8478010.0,2019020341,,2019-11-22,Duncan Keith Interference against Brayden Point
+111,penalty,Interference,Erik Cernak,David Kampf,[-76. -37.],1,00:15,TBL,CHI,CHI,16,TBL,14,0,1,8478416,8480144.0,2019020341,,2019-11-22,Erik Cernak Interference against David Kampf
+193,penalty,Slashing,Jan Rutta,Kirby Dach,[69.  1.],2,03:55,TBL,CHI,CHI,16,TBL,14,0,1,8480172,8481523.0,2019020341,,2019-11-22,Jan Rutta Slashing against Kirby Dach
+210,penalty,Boarding,David Kampf,Mathieu Joseph,[ 37. -38.],3,17:17,CHI,TBL,CHI,16,TBL,14,0,1,8480144,8478472.0,2019020341,,2019-11-22,David Kampf Boarding against Mathieu Joseph
+270,penalty,Hooking,Brandon Saad,Ondrej Palat,[-60.  40.],3,05:08,CHI,TBL,CHI,16,TBL,14,1,3,8476438,8476292.0,2019020341,,2019-11-22,Brandon Saad Hooking against Ondrej Palat
+15,penalty,Tripping,Joe Pavelski,Andrew Shaw,[-70. -29.],1,17:03,DAL,CHI,DAL,25,CHI,16,0,0,8470794,8476381.0,2019020359,,2019-11-24,Joe Pavelski Tripping against Andrew Shaw
+120,penalty,Tripping,Blake Comeau,Alex DeBrincat,[ 37. -33.],2,15:50,DAL,CHI,DAL,25,CHI,16,1,1,8471260,8479337.0,2019020359,,2019-11-24,Blake Comeau Tripping against Alex DeBrincat
+160,penalty,Holding,Erik Gustafsson,Alexander Radulov,[ 90. -32.],2,07:04,CHI,DAL,DAL,25,CHI,16,1,1,8476979,8471228.0,2019020359,,2019-11-24,Erik Gustafsson Holding against Alexander Radulov
+180,penalty,Too many men on the ice,Dylan Strome,,[-11.  41.],2,01:14,CHI,DAL,DAL,25,CHI,16,1,1,8478440,,2019020359,,2019-11-24,Too many men/ice served by Dylan Strome
+182,penalty,Roughing,Joe Pavelski,David Kampf,[ 41. -38.],2,01:07,DAL,CHI,DAL,25,CHI,16,1,1,8470794,8480144.0,2019020359,,2019-11-24,Joe Pavelski Roughing against David Kampf
+189,penalty,Holding,Miro Heiskanen,Jonathan Toews,[-83.  -7.],2,00:10,DAL,CHI,DAL,25,CHI,16,1,1,8480036,8473604.0,2019020359,,2019-11-24,Miro Heiskanen Holding against Jonathan Toews
+240,penalty,Delay of game,David Kampf,,[-84.  -1.],3,07:52,CHI,DAL,DAL,25,CHI,16,1,1,8480144,,2019020359,,2019-11-24,David Kampf Delay of game
+285,penalty,Too many men on the ice,Andrew Shaw,,[-59.  -2.],4,02:33,CHI,DAL,DAL,25,CHI,16,1,1,8476381,,2019020359,,2019-11-24,Too many men/ice served by Andrew Shaw
+78,penalty,Slashing,Ryan Carpenter,Esa Lindell,[72.  2.],1,03:45,CHI,DAL,CHI,16,DAL,25,1,0,8477846,8476902.0,2019020376,,2019-11-27,Ryan Carpenter Slashing against Esa Lindell
+132,penalty,Tripping,Andrew Shaw,Alexander Radulov,[-22.   3.],2,13:28,CHI,DAL,CHI,16,DAL,25,1,0,8476381,8471228.0,2019020376,,2019-11-27,Andrew Shaw Tripping against Alexander Radulov
+243,penalty,Hi-sticking,Alexander Radulov,Jonathan Toews,[74. 32.],3,10:11,DAL,CHI,CHI,16,DAL,25,1,0,8471228,8473604.0,2019020376,,2019-11-27,Alexander Radulov Hi-sticking against Jonathan Toews
+39,penalty,Fighting,Ryan Graves,Andrew Shaw,[-18.  34.],1,14:35,COL,CHI,CHI,16,COL,21,0,2,8477435,8476381.0,2019020394,,2019-11-29,Ryan Graves Fighting against Andrew Shaw
+40,penalty,Fighting,Andrew Shaw,Ryan Graves,[-43.  28.],1,14:35,CHI,COL,CHI,16,COL,21,0,2,8476381,8477435.0,2019020394,,2019-11-29,Andrew Shaw Fighting against Ryan Graves
+68,penalty,Interference,Erik Gustafsson,Logan O'Connor,[32. 38.],1,07:51,CHI,COL,CHI,16,COL,21,1,2,8476979,8481186.0,2019020394,,2019-11-29,Erik Gustafsson Interference against Logan O'Connor
+100,penalty,Hooking,Erik Gustafsson,Nathan MacKinnon,[ 34. -25.],1,01:34,CHI,COL,CHI,16,COL,21,1,3,8476979,8477492.0,2019020394,,2019-11-29,Erik Gustafsson Hooking against Nathan MacKinnon
+123,penalty,Tripping,Pierre-Edouard Bellemare,Calvin de Haan,[-97.  -3.],2,14:55,COL,CHI,CHI,16,COL,21,1,3,8477930,8475177.0,2019020394,,2019-11-29,Pierre-Edouard Bellemare Tripping against Calvin de Haan
+271,penalty,Tripping,Andrew Shaw,Samuel Girard,[-93.  28.],3,00:28,CHI,COL,CHI,16,COL,21,2,5,8476381,8479398.0,2019020394,,2019-11-29,Andrew Shaw Tripping against Samuel Girard
+272,penalty,Roughing,Andrew Shaw,Kirby Dach,[-96.   7.],3,00:28,CHI,COL,CHI,16,COL,21,2,5,8476381,8481523.0,2019020394,,2019-11-29,Andrew Shaw Roughing against Nikita Zadorov served by Kirby Dach
+273,penalty,Roughing,Nikita Zadorov,Andrew Shaw,[-94.  19.],3,00:28,COL,CHI,CHI,16,COL,21,2,5,8477507,8476381.0,2019020394,,2019-11-29,Nikita Zadorov Roughing against Andrew Shaw
+2,penalty,Slashing,Jonathan Toews,Joonas Donskoi,[-30. -34.],1,19:34,CHI,COL,COL,21,CHI,16,0,0,8473604,8475820.0,2019020413,,2019-12-02,Jonathan Toews Slashing against Joonas Donskoi
+28,penalty,Holding,Anton Wedin,Mikko Rantanen,[35. 34.],1,12:38,CHI,COL,COL,21,CHI,16,0,1,8481637,8478420.0,2019020413,,2019-12-02,Anton Wedin Holding against Mikko Rantanen
+75,penalty,Fighting,Samuel Girard,Alex DeBrincat,[74. 17.],1,02:37,COL,CHI,COL,21,CHI,16,3,1,8479398,8479337.0,2019020413,,2019-12-02,Samuel Girard Fighting against Alex DeBrincat
+76,penalty,Fighting,Alex DeBrincat,Samuel Girard,[76. 15.],1,02:37,CHI,COL,COL,21,CHI,16,3,1,8479337,8479398.0,2019020413,,2019-12-02,Alex DeBrincat Fighting against Samuel Girard
+78,penalty,Holding,Tyson Jost,David Kampf,[98. -6.],1,02:25,COL,CHI,COL,21,CHI,16,3,1,8479370,8480144.0,2019020413,,2019-12-02,Tyson Jost Holding against David Kampf
+84,penalty,Hi stick - double minor,Ryan Graves,Andrew Shaw,[82. -2.],1,01:23,COL,CHI,COL,21,CHI,16,3,1,8477435,8476381.0,2019020413,,2019-12-02,Ryan Graves Hi stick - double minor against Andrew Shaw
+146,penalty,Tripping,Erik Gustafsson,Vladislav Kamenev,[-23. -25.],2,05:36,CHI,COL,COL,21,CHI,16,7,2,8476979,8477973.0,2019020413,,2019-12-02,Erik Gustafsson Tripping against Vladislav Kamenev
+172,penalty,Tripping,Calle Rosen,Alex Nylander,[51. 35.],3,17:25,COL,CHI,COL,21,CHI,16,7,2,8480157,8479423.0,2019020413,,2019-12-02,Calle Rosen Tripping against Alex Nylander
+205,penalty,Tripping,Andrew Shaw,Samuel Girard,[97. -8.],3,10:28,CHI,COL,COL,21,CHI,16,7,2,8476381,8479398.0,2019020413,,2019-12-02,Andrew Shaw Tripping against Samuel Girard
+214,penalty,Interference,Vladislav Kamenev,Andrew Shaw,[63. 40.],3,06:55,COL,CHI,COL,21,CHI,16,7,2,8477973,8476381.0,2019020413,,2019-12-02,Vladislav Kamenev Interference against Andrew Shaw
+217,penalty,Delaying Game - Puck over glass,Pierre-Edouard Bellemare,,[ 53. -30.],3,06:31,COL,CHI,COL,21,CHI,16,7,2,8477930,,2019020413,,2019-12-02,Pierre-Edouard Bellemare Delaying Game - Puck over glass
+10,penalty,Tripping,Brayden Schenn,Brandon Saad,[-83.  38.],1,16:07,STL,CHI,CHI,16,STL,19,0,1,8475170,8476438.0,2019020422,,2019-12-03,Brayden Schenn Tripping against Brandon Saad
+54,penalty,Tripping,Patrick Kane,Jaden Schwartz,[-43. -30.],1,05:52,CHI,STL,CHI,16,STL,19,0,1,8474141,8475768.0,2019020422,,2019-12-03,Patrick Kane Tripping against Jaden Schwartz
+87,penalty,Slashing,Nathan Walker,Calvin de Haan,[-27.  40.],2,19:39,STL,CHI,CHI,16,STL,19,0,2,8477573,8475177.0,2019020422,,2019-12-03,Nathan Walker Slashing against Calvin de Haan
+140,penalty,Slashing,Jonathan Toews,Tyler Bozak,[-62. -38.],2,06:08,CHI,STL,CHI,16,STL,19,0,2,8473604,8475098.0,2019020422,,2019-12-03,Jonathan Toews Slashing against Tyler Bozak
+2,penalty,Hooking,Patrick Kane,Brad Marchand,[73.  2.],1,19:27,CHI,BOS,BOS,6,CHI,16,0,0,8474141,8473419.0,2019020438,,2019-12-06,Patrick Kane Hooking against Brad Marchand
+72,penalty,Tripping,Anton Wedin,Charlie Coyle,[-47.  -2.],1,03:25,CHI,BOS,BOS,6,CHI,16,0,0,8481637,8475745.0,2019020438,,2019-12-06,Anton Wedin Tripping against Charlie Coyle
+85,penalty,Interference,David Pastrnak,Dennis Gilbert,[ 11. -28.],1,01:19,BOS,CHI,BOS,6,CHI,16,0,1,8477956,8478502.0,2019020438,,2019-12-06,David Pastrnak Interference against Dennis Gilbert
+99,penalty,Too many men on the ice,Alex Nylander,,[-80.  21.],2,19:07,CHI,BOS,BOS,6,CHI,16,0,2,8479423,,2019020438,,2019-12-06,Too many men/ice served by Alex Nylander
+148,penalty,Hi-sticking,Alex Nylander,Charlie McAvoy,[65. 34.],2,09:25,CHI,BOS,BOS,6,CHI,16,0,2,8479423,8479325.0,2019020438,,2019-12-06,Alex Nylander Hi-sticking against Charlie McAvoy
+163,penalty,Roughing,David Pastrnak,Connor Murphy,[-78.   2.],2,07:02,BOS,CHI,BOS,6,CHI,16,0,2,8477956,8476473.0,2019020438,,2019-12-06,David Pastrnak Roughing against Connor Murphy
+253,penalty,Fighting,Zack Smith,John Moore,[-31. -23.],3,08:14,CHI,BOS,BOS,6,CHI,16,1,3,8474250,8475186.0,2019020438,,2019-12-06,Zack Smith Fighting against John Moore
+254,penalty,Fighting,John Moore,Zack Smith,[-32. -24.],3,08:14,BOS,CHI,BOS,6,CHI,16,1,3,8475186,8474250.0,2019020438,,2019-12-06,John Moore Fighting against Zack Smith
+263,penalty,Roughing,Charlie Coyle,Slater Koekkoek,[57. -7.],3,06:20,BOS,CHI,BOS,6,CHI,16,1,3,8475745,8476886.0,2019020438,,2019-12-06,Charlie Coyle Roughing against Slater Koekkoek
+5,penalty,Delaying Game - Puck over glass,Alex Nylander,,[ 12. -40.],1,18:41,CHI,NJD,NJD,1,CHI,16,0,0,8479423,,2019020447,,2019-12-07,Alex Nylander Delaying Game - Puck over glass
+18,penalty,Interference,Calvin de Haan,Miles Wood,[ 96. -13.],1,15:39,CHI,NJD,NJD,1,CHI,16,0,0,8475177,8477425.0,2019020447,,2019-12-07,Calvin de Haan Interference against Miles Wood
+29,penalty,Fighting,Dennis Gilbert,Wayne Simmonds,[60. 19.],1,13:31,CHI,NJD,NJD,1,CHI,16,0,0,8478502,8474190.0,2019020447,,2019-12-07,Dennis Gilbert Fighting against Wayne Simmonds
+30,penalty,Fighting,Wayne Simmonds,Dennis Gilbert,[76. 28.],1,13:31,NJD,CHI,NJD,1,CHI,16,0,0,8474190,8478502.0,2019020447,,2019-12-07,Wayne Simmonds Fighting against Dennis Gilbert
+62,penalty,Elbowing,Zack Smith,Nikita Gusev,[-94.  23.],1,07:30,CHI,NJD,NJD,1,CHI,16,0,0,8474250,8477038.0,2019020447,,2019-12-07,Zack Smith Elbowing against Nikita Gusev
+121,penalty,Hooking,Sami Vatanen,Patrick Kane,[66. 23.],2,11:41,NJD,CHI,NJD,1,CHI,16,1,0,8475222,8474141.0,2019020447,,2019-12-07,Sami Vatanen Hooking against Patrick Kane
+183,penalty,Slashing,Kyle Palmieri,Alex Nylander,[50. 26.],3,15:59,NJD,CHI,NJD,1,CHI,16,1,1,8475151,8479423.0,2019020447,,2019-12-07,Kyle Palmieri Slashing against Alex Nylander
+189,penalty,Hi-sticking,Zack Smith,Will Butcher,[-80.  38.],3,13:44,CHI,NJD,NJD,1,CHI,16,1,1,8474250,8477355.0,2019020447,,2019-12-07,Zack Smith Hi-sticking against Will Butcher
+43,penalty,Tripping,Jason Demers,Brandon Saad,[-63.  19.],1,11:47,ARI,CHI,CHI,16,ARI,53,1,0,8474218,8476438.0,2019020465,ARI,2019-12-09,Jason Demers Tripping against Brandon Saad
+98,penalty,Interference,Brent Seabrook,Vinnie Hinostroza,[95. 15.],1,00:31,CHI,ARI,CHI,16,ARI,53,3,1,8470607,8476994.0,2019020465,ARI,2019-12-09,Brent Seabrook Interference against Vinnie Hinostroza
+125,penalty,Tripping,Jonathan Toews,Alex Goligoski,[70. -6.],2,14:50,CHI,ARI,CHI,16,ARI,53,3,1,8473604,8471274.0,2019020465,ARI,2019-12-09,Jonathan Toews Tripping against Alex Goligoski
+136,penalty,Misconduct,Dennis Gilbert,Jason Demers,[94. 22.],2,12:59,CHI,ARI,CHI,16,ARI,53,3,2,8478502,8474218.0,2019020465,ARI,2019-12-09,Dennis Gilbert Misconduct against Jason Demers
+137,penalty,Fighting,Dennis Gilbert,Jason Demers,[95. 21.],2,12:59,CHI,ARI,CHI,16,ARI,53,3,2,8478502,8474218.0,2019020465,ARI,2019-12-09,Dennis Gilbert Fighting against Jason Demers
+138,penalty,Instigator,Dennis Gilbert,Dylan Sikura,[92. 26.],2,12:59,CHI,ARI,CHI,16,ARI,53,3,2,8478502,8478106.0,2019020465,ARI,2019-12-09,Dennis Gilbert Instigator against Jason Demers served by Dylan Sikura
+139,penalty,Fighting,Jason Demers,Dennis Gilbert,[93. 26.],2,12:59,ARI,CHI,CHI,16,ARI,53,3,2,8474218,8478502.0,2019020465,ARI,2019-12-09,Jason Demers Fighting against Dennis Gilbert
+185,penalty,Slashing,Slater Koekkoek,Vinnie Hinostroza,[-74.   5.],2,02:32,CHI,ARI,CHI,16,ARI,53,3,3,8476886,8476994.0,2019020465,ARI,2019-12-09,Slater Koekkoek Slashing against Vinnie Hinostroza
+234,penalty,Tripping,Calvin de Haan,Carl Soderberg,[ 96. -11.],3,12:26,CHI,ARI,CHI,16,ARI,53,3,3,8475177,8471262.0,2019020465,ARI,2019-12-09,Calvin de Haan Tripping against Carl Soderberg
+289,penalty,Hooking,Nick Schmaltz,Alex DeBrincat,[-66.   6.],4,03:00,ARI,CHI,CHI,16,ARI,53,3,3,8477951,8479337.0,2019020465,ARI,2019-12-09,Nick Schmaltz Hooking against Alex DeBrincat
+294,penalty,Slashing,Jonathan Toews,Oliver Ekman-Larsson,[ 89. -31.],4,01:25,CHI,ARI,CHI,16,ARI,53,3,3,8473604,8475171.0,2019020465,ARI,2019-12-09,Jonathan Toews Slashing against Oliver Ekman-Larsson
+71,penalty,Interference,Mark Stone,Calvin de Haan,[-20. -40.],1,02:14,VGK,CHI,VGK,54,CHI,16,0,0,8475913,8475177.0,2019020482,,2019-12-11,Mark Stone Interference against Calvin de Haan
+103,penalty,Hooking,Dennis Gilbert,Paul Stastny,[72.  1.],2,14:30,CHI,VGK,VGK,54,CHI,16,0,0,8478502,8471669.0,2019020482,,2019-12-11,Dennis Gilbert Hooking against Paul Stastny
+169,penalty,Slashing,Alex Tuch,Erik Gustafsson,[-69. -36.],2,01:32,VGK,CHI,VGK,54,CHI,16,2,0,8477949,8476979.0,2019020482,,2019-12-11,Alex Tuch Slashing against Erik Gustafsson
+208,penalty,Cross checking,Brandon Saad,Nicolas Hague,[72.  2.],3,14:12,CHI,VGK,VGK,54,CHI,16,4,0,8476438,8479980.0,2019020482,,2019-12-11,Brandon Saad Cross checking against Nicolas Hague
+210,penalty,Interference,Valentin Zykov,Zack Smith,[-23. -20.],3,13:53,VGK,CHI,VGK,54,CHI,16,4,0,8477458,8474250.0,2019020482,,2019-12-11,Valentin Zykov Interference against Zack Smith
+260,penalty,Interference,Chandler Stephenson,Jonathan Toews,[69.  7.],3,01:50,VGK,CHI,VGK,54,CHI,16,5,0,8476905,8473604.0,2019020482,,2019-12-11,Chandler Stephenson Interference against Jonathan Toews
+1,penalty,Tripping,Alex DeBrincat,Christian Fischer,[-19. -40.],1,19:50,CHI,ARI,ARI,53,CHI,16,0,0,8479337,8478432.0,2019020495,,2019-12-13,Alex DeBrincat Tripping against Christian Fischer
+43,penalty,Tripping,Jakob Chychrun,Dylan Strome,[-87. -18.],1,09:10,ARI,CHI,ARI,53,CHI,16,2,0,8479345,8478440.0,2019020495,,2019-12-13,Jakob Chychrun Tripping against Dylan Strome
+50,penalty,Hooking,Alex Nylander,Alex Goligoski,[-96. -20.],1,07:52,CHI,ARI,ARI,53,CHI,16,2,0,8479423,8471274.0,2019020495,,2019-12-13,Alex Nylander Hooking against Alex Goligoski
+69,penalty,Cross checking,Zack Smith,Aaron Ness,[-79.  -2.],1,03:02,CHI,ARI,ARI,53,CHI,16,3,0,8474250,8474604.0,2019020495,,2019-12-13,Zack Smith Cross checking against Aaron Ness
+95,penalty,Hooking,Nick Schmaltz,Kirby Dach,[37. 24.],2,18:22,ARI,CHI,ARI,53,CHI,16,3,0,8477951,8481523.0,2019020495,,2019-12-13,Nick Schmaltz Hooking against Kirby Dach
+180,penalty,Tripping,Kirby Dach,Oliver Ekman-Larsson,[-97.  15.],3,14:26,CHI,ARI,ARI,53,CHI,16,4,1,8481523,8475171.0,2019020495,,2019-12-13,Kirby Dach Tripping against Oliver Ekman-Larsson
+200,penalty,Too many men on the ice,Phil Kessel,,[-13.  39.],3,07:44,ARI,CHI,ARI,53,CHI,16,4,1,8473548,,2019020495,,2019-12-13,Too many men/ice served by Phil Kessel
+8,penalty,Delaying Game - Puck over glass,Brent Seabrook,,[87. 25.],1,16:37,CHI,STL,STL,19,CHI,16,0,0,8470607,,2019020512,,2019-12-15,Brent Seabrook Delaying Game - Puck over glass
+80,penalty,Hooking,Ryan Carpenter,Jacob de la Rose,[-83.  -5.],2,18:09,CHI,STL,STL,19,CHI,16,0,1,8477846,8477455.0,2019020512,,2019-12-15,Ryan Carpenter Hooking against Jacob de la Rose
+82,penalty,Interference,Brayden Schenn,Olli Maatta,[-75.   6.],2,17:28,STL,CHI,STL,19,CHI,16,0,1,8475170,8476874.0,2019020512,,2019-12-15,Brayden Schenn Interference against Olli Maatta
+87,penalty,Too many men on the ice,David Perron,,[-38.  41.],2,16:11,STL,CHI,STL,19,CHI,16,0,1,8474102,,2019020512,,2019-12-15,Too many men/ice served by David Perron
+110,penalty,Slashing,Vince Dunn,Dylan Strome,[77.  0.],2,09:50,STL,CHI,STL,19,CHI,16,0,1,8478407,8478440.0,2019020512,,2019-12-15,Vince Dunn Slashing against Dylan Strome
+124,penalty,Tripping,Patrick Kane,David Perron,[-29. -18.],2,05:57,CHI,STL,STL,19,CHI,16,0,1,8474141,8474102.0,2019020512,,2019-12-15,Patrick Kane Tripping against David Perron
+218,penalty,Delaying Game - Puck over glass,Justin Faulk,,[-73.  41.],3,01:55,STL,CHI,STL,19,CHI,16,4,3,8475753,,2019020512,,2019-12-15,Justin Faulk Delaying Game - Puck over glass
+48,penalty,Interference,Jordan Greenway,Adam Boqvist,[69. 22.],1,09:28,MIN,CHI,CHI,16,MIN,30,1,0,8478413,8480871.0,2019020517,MIN,2019-12-16,Jordan Greenway Interference against Adam Boqvist
+53,penalty,Hooking,Kirby Dach,Brennan Menell,[-76. -38.],1,08:16,CHI,MIN,CHI,16,MIN,30,2,0,8481523,8479734.0,2019020517,MIN,2019-12-16,Kirby Dach Hooking against Brennan Menell
+81,penalty,Interference,Jordan Greenway,Jonathan Toews,[-76. -38.],2,19:15,MIN,CHI,CHI,16,MIN,30,2,1,8478413,8473604.0,2019020517,MIN,2019-12-16,Jordan Greenway Interference against Jonathan Toews
+82,penalty,Hi-sticking,Jonathan Toews,Jordan Greenway,[-70. -37.],2,19:15,CHI,MIN,CHI,16,MIN,30,2,1,8473604,8478413.0,2019020517,MIN,2019-12-16,Jonathan Toews Hi-sticking against Jordan Greenway
+127,penalty,Tripping,Eric Staal,Zack Smith,[-80.  37.],2,08:31,MIN,CHI,CHI,16,MIN,30,3,2,8470595,8474250.0,2019020517,MIN,2019-12-16,Eric Staal Tripping against Zack Smith
+129,penalty,Too many men on the ice,Andre Burakovsky,,[-41.  14.],2,15:46,COL,CHI,CHI,16,COL,21,1,1,8477444,,2019020536,,2019-12-19,Too many men/ice served by Andre Burakovsky
+171,penalty,Slashing,Brandon Saad,Pierre-Edouard Bellemare,[23. 32.],2,07:00,CHI,COL,CHI,16,COL,21,1,3,8476438,8477930.0,2019020536,,2019-12-19,Brandon Saad Slashing against Pierre-Edouard Bellemare
+184,penalty,Interference,Pavel Francouz,Joonas Donskoi,[95. 12.],2,05:13,COL,CHI,CHI,16,COL,21,1,3,8480925,8475820.0,2019020536,,2019-12-19,Pavel Francouz Interference against Ryan Carpenter served by Joonas Donskoi
+269,penalty,Roughing,Erik Gustafsson,Samuel Girard,[-95. -19.],3,06:12,CHI,COL,CHI,16,COL,21,1,3,8476979,8479398.0,2019020536,,2019-12-19,Erik Gustafsson Roughing against Samuel Girard
+285,penalty,Cross checking,Valeri Nichushkin,Zack Smith,[-41. -39.],3,01:58,COL,CHI,CHI,16,COL,21,1,4,8477501,8474250.0,2019020536,,2019-12-19,Valeri Nichushkin Cross checking against Zack Smith
+79,penalty,Slashing,Dominik Kubalik,Jack Roslovic,[-56.   0.],1,01:52,CHI,WPG,WPG,52,CHI,16,0,1,8477330,8478458.0,2019020543,,2019-12-20,Dominik Kubalik Slashing against Jack Roslovic
+121,penalty,Holding,Dennis Gilbert,Mark Scheifele,[85. 37.],2,14:31,CHI,WPG,WPG,52,CHI,16,0,1,8478502,8476460.0,2019020543,,2019-12-20,Dennis Gilbert Holding against Mark Scheifele
+136,penalty,Tripping,Josh Morrissey,Matthew Highmore,[-49.  39.],2,10:02,WPG,CHI,WPG,52,CHI,16,0,1,8477504,8478146.0,2019020543,,2019-12-20,Josh Morrissey Tripping against Matthew Highmore
+209,penalty,Too many men on the ice,Joona Luoto,,[16. 32.],3,10:11,WPG,CHI,WPG,52,CHI,16,1,2,8481649,,2019020543,,2019-12-20,Too many men/ice served by Joona Luoto
+16,penalty,Hooking,Olli Maatta,Joonas Donskoi,[-80.   1.],1,16:13,CHI,COL,COL,21,CHI,16,0,0,8476874,8475820.0,2019020562,,2019-12-22,Olli Maatta Hooking against Joonas Donskoi
+112,penalty,Tripping,Ryan Graves,Ryan Carpenter,[-83.   0.],2,14:20,COL,CHI,COL,21,CHI,16,2,1,8477435,8477846.0,2019020562,,2019-12-22,Ryan Graves Tripping against Ryan Carpenter
+125,penalty,Fighting,Gabriel Landeskog,Dennis Gilbert,[60. 40.],2,11:30,COL,CHI,COL,21,CHI,16,2,1,8476455,8478502.0,2019020562,,2019-12-22,Gabriel Landeskog Fighting against Dennis Gilbert
+126,penalty,Fighting,Dennis Gilbert,Gabriel Landeskog,[58. 40.],2,11:30,CHI,COL,COL,21,CHI,16,2,1,8478502,8476455.0,2019020562,,2019-12-22,Dennis Gilbert Fighting against Gabriel Landeskog
+151,penalty,Holding,Erik Johnson,Kirby Dach,[-55. -35.],2,07:26,COL,CHI,COL,21,CHI,16,2,1,8473446,8481523.0,2019020562,,2019-12-22,Erik Johnson Holding against Kirby Dach
+161,penalty,Hooking,Matthew Highmore,Gabriel Landeskog,[91. 15.],2,04:19,CHI,COL,COL,21,CHI,16,2,1,8478146,8476455.0,2019020562,,2019-12-22,Matthew Highmore Hooking against Gabriel Landeskog
+201,penalty,Holding,Dennis Gilbert,Nathan MacKinnon,[-67. -39.],3,12:01,CHI,COL,COL,21,CHI,16,3,1,8478502,8477492.0,2019020562,,2019-12-22,Dennis Gilbert Holding against Nathan MacKinnon
+222,penalty,Tripping,Mikko Rantanen,Patrick Kane,[1. 0.],3,07:53,COL,CHI,COL,21,CHI,16,3,3,8478420,8474141.0,2019020562,,2019-12-22,Mikko Rantanen Tripping against Patrick Kane
+2,penalty,Hi-sticking,Jesper Boqvist,Adam Boqvist,[83. 27.],1,19:23,NJD,CHI,CHI,16,NJD,1,0,0,8480003,8480871.0,2019020578,,2019-12-24,Jesper Boqvist Hi-sticking against Adam Boqvist
+43,penalty,Fighting,Dennis Gilbert,John Hayden,[-32.   2.],1,11:38,CHI,NJD,CHI,16,NJD,1,1,0,8478502,8477401.0,2019020578,,2019-12-24,Dennis Gilbert Fighting against John Hayden
+44,penalty,Instigator,John Hayden,Nikita Gusev,[-33.   5.],1,11:38,NJD,CHI,CHI,16,NJD,1,1,0,8477401,8477038.0,2019020578,,2019-12-24,John Hayden Instigator against Dennis Gilbert served by Nikita Gusev
+45,penalty,Fighting,John Hayden,Dennis Gilbert,[-37.   4.],1,11:38,NJD,CHI,CHI,16,NJD,1,1,0,8477401,8478502.0,2019020578,,2019-12-24,John Hayden Fighting against Dennis Gilbert
+46,penalty,Misconduct,John Hayden,Dennis Gilbert,[-36.   2.],1,11:38,NJD,CHI,CHI,16,NJD,1,1,0,8477401,8478502.0,2019020578,,2019-12-24,John Hayden Misconduct against Dennis Gilbert
+50,penalty,Hooking,Dylan Strome,Pavel Zacha,[77.  2.],1,10:37,CHI,NJD,CHI,16,NJD,1,1,0,8478440,8478401.0,2019020578,,2019-12-24,Dylan Strome Hooking against Pavel Zacha
+67,penalty,Slashing,Wayne Simmonds,Corey Crawford,[83. -2.],1,07:44,NJD,CHI,CHI,16,NJD,1,1,0,8474190,8470645.0,2019020578,,2019-12-24,Wayne Simmonds Slashing against Corey Crawford
+68,penalty,Roughing,Jonathan Toews,Wayne Simmonds,[84. -3.],1,07:44,CHI,NJD,CHI,16,NJD,1,1,0,8473604,8474190.0,2019020578,,2019-12-24,Jonathan Toews Roughing against Wayne Simmonds
+88,penalty,Cross checking,Travis Zajac,Ryan Carpenter,[-85.   7.],1,04:06,NJD,CHI,CHI,16,NJD,1,1,1,8471233,8477846.0,2019020578,,2019-12-24,Travis Zajac Cross checking against Ryan Carpenter
+94,penalty,Boarding,Mirco Mueller,Kirby Dach,[-77.  40.],1,02:23,NJD,CHI,CHI,16,NJD,1,1,1,8477509,8481523.0,2019020578,,2019-12-24,Mirco Mueller Boarding against Kirby Dach
+147,penalty,Elbowing,Pavel Zacha,Erik Gustafsson,[-97.  -5.],2,12:12,NJD,CHI,CHI,16,NJD,1,1,3,8478401,8476979.0,2019020578,,2019-12-24,Pavel Zacha Elbowing against Erik Gustafsson
+192,penalty,Holding,Sami Vatanen,John Quenneville,[88. -7.],2,03:13,NJD,CHI,CHI,16,NJD,1,1,4,8475222,8477961.0,2019020578,,2019-12-24,Sami Vatanen Holding against John Quenneville
+245,penalty,Hooking,Patrick Kane,Jack Hughes,[-17.  37.],3,12:17,CHI,NJD,CHI,16,NJD,1,1,6,8474141,8481559.0,2019020578,,2019-12-24,Patrick Kane Hooking against Jack Hughes
+266,penalty,Cross checking,Mirco Mueller,Matthew Highmore,[-97.  11.],3,06:50,NJD,CHI,CHI,16,NJD,1,1,6,8477509,8478146.0,2019020578,,2019-12-24,Mirco Mueller Cross checking against Matthew Highmore
+279,penalty,Tripping,David Kampf,Jack Hughes,[-33.  21.],3,04:12,CHI,NJD,CHI,16,NJD,1,1,6,8480144,8481559.0,2019020578,,2019-12-24,David Kampf Tripping against Jack Hughes
+133,penalty,Hi-sticking,Matthew Highmore,Adam Pelech,[-37. -37.],2,16:28,CHI,NYI,CHI,16,NYI,2,3,1,8478146,8476917.0,2019020589,,2019-12-28,Matthew Highmore Hi-sticking against Adam Pelech
+173,penalty,Tripping,Nick Leddy,Alex Nylander,[ 57. -25.],2,10:03,NYI,CHI,CHI,16,NYI,2,3,1,8475181,8479423.0,2019020589,,2019-12-28,Nick Leddy Tripping against Alex Nylander
+194,penalty,Hooking,Olli Maatta,Josh Bailey,[-73.  -1.],2,05:09,CHI,NYI,CHI,16,NYI,2,3,1,8476874,8474573.0,2019020589,,2019-12-28,Olli Maatta Hooking against Josh Bailey
+268,penalty,Tripping,Mathew Barzal,Patrick Kane,[-95.   5.],3,11:58,NYI,CHI,CHI,16,NYI,2,5,1,8478445,8474141.0,2019020589,,2019-12-28,Mathew Barzal Tripping against Patrick Kane
+286,penalty,Cross checking,Ross Johnston,Dennis Gilbert,[-40.  39.],3,07:03,NYI,CHI,CHI,16,NYI,2,5,1,8477527,8478502.0,2019020589,,2019-12-28,Ross Johnston Cross checking against Dennis Gilbert
+294,penalty,Roughing,Matt Martin,Michael Dal Colle,[ 23. -33.],3,03:39,NYI,CHI,CHI,16,NYI,2,5,1,8474709,8477936.0,2019020589,,2019-12-28,Matt Martin Roughing against Slater Koekkoek served by Michael Dal Colle
+295,penalty,Misconduct,Matt Martin,,[ 17. -33.],3,03:39,NYI,CHI,CHI,16,NYI,2,5,1,8474709,,2019020589,,2019-12-28,Matt Martin Misconduct
+296,penalty,Misconduct,Slater Koekkoek,Matt Martin,[ 18. -29.],3,03:39,CHI,NYI,CHI,16,NYI,2,5,1,8476886,8474709.0,2019020589,,2019-12-28,Slater Koekkoek Misconduct against Matt Martin
+5,penalty,Hooking,Connor Murphy,Alexander Wennberg,[72.  3.],1,17:32,CHI,CBJ,CBJ,29,CHI,16,0,0,8476473,8477505.0,2019020604,,2019-12-30,Connor Murphy Hooking against Alexander Wennberg
+30,penalty,Hi-sticking,Alexander Wennberg,Jonathan Toews,[-98. -18.],1,11:05,CBJ,CHI,CBJ,29,CHI,16,1,0,8477505,8473604.0,2019020604,,2019-12-30,Alexander Wennberg Hi-sticking against Jonathan Toews
+46,penalty,Hooking,Kevin Stenlund,Patrick Kane,[-48. -22.],1,06:17,CBJ,CHI,CBJ,29,CHI,16,1,0,8478831,8474141.0,2019020604,,2019-12-30,Kevin Stenlund Hooking against Patrick Kane
+117,penalty,Hooking,Dylan Strome,Alexander Wennberg,[37.  2.],2,05:44,CHI,CBJ,CBJ,29,CHI,16,2,0,8478440,8477505.0,2019020604,,2019-12-30,Dylan Strome Hooking against Alexander Wennberg
+170,penalty,Roughing,Nathan Gerbe,Slater Koekkoek,[76. 40.],3,10:59,CBJ,CHI,CBJ,29,CHI,16,2,1,8471804,8476886.0,2019020604,,2019-12-30,Nathan Gerbe Roughing against Slater Koekkoek
+171,penalty,Roughing,Slater Koekkoek,Nathan Gerbe,[83. 37.],3,10:59,CHI,CBJ,CBJ,29,CHI,16,2,1,8476886,8471804.0,2019020604,,2019-12-30,Slater Koekkoek Roughing against Nathan Gerbe
+184,penalty,Tripping,Alexander Wennberg,Alex DeBrincat,[-12. -26.],3,06:09,CBJ,CHI,CBJ,29,CHI,16,2,1,8477505,8479337.0,2019020604,,2019-12-30,Alexander Wennberg Tripping against Alex DeBrincat
+191,penalty,Delaying Game - Puck over glass,Seth Jones,,[-67. -40.],3,03:44,CBJ,CHI,CBJ,29,CHI,16,2,1,8477495,,2019020604,,2019-12-30,Seth Jones Delaying Game - Puck over glass
+207,penalty,Hi-sticking,Nick Foligno,Dylan Strome,[80.  8.],4,03:55,CBJ,CHI,CBJ,29,CHI,16,2,2,8473422,8478440.0,2019020604,,2019-12-30,Nick Foligno Hi-sticking against Dylan Strome
+225,penalty,Too many men on the ice,Dylan Strome,,[17. 40.],4,00:19,CHI,CBJ,CBJ,29,CHI,16,2,2,8478440,,2019020604,,2019-12-30,Too many men/ice served by Dylan Strome
+36,penalty,Holding,Derek Ryan,Dominik Kubalik,[41. 24.],1,14:59,CGY,CHI,CGY,20,CHI,16,0,1,8478585,8477330.0,2019020622,,2020-01-01,Derek Ryan Holding against Dominik Kubalik
+144,penalty,Charging,Zac Rinaldo,Matthew Highmore,[-25. -41.],2,11:58,CGY,CHI,CGY,20,CHI,16,0,3,8474736,8478146.0,2019020622,,2020-01-01,Zac Rinaldo Charging against Matthew Highmore
+146,penalty,Hi-sticking,Patrick Kane,Elias Lindholm,[80. 36.],2,11:45,CHI,CGY,CGY,20,CHI,16,0,3,8474141,8477496.0,2019020622,,2020-01-01,Patrick Kane Hi-sticking against Elias Lindholm
+157,penalty,Tripping,Mark Giordano,Olli Maatta,[ 45. -12.],2,09:55,CGY,CHI,CGY,20,CHI,16,0,4,8470966,8476874.0,2019020622,,2020-01-01,Mark Giordano Tripping against Olli Maatta
+264,penalty,Slashing,Rasmus Andersson,Ryan Carpenter,[-42.   6.],3,06:28,CGY,CHI,CGY,20,CHI,16,1,4,8478397,8477846.0,2019020622,,2020-01-01,Rasmus Andersson Slashing against Ryan Carpenter
+11,penalty,Too many men on the ice,Dylan Strome,,[-19.  41.],1,16:58,CHI,VAN,VAN,23,CHI,16,0,0,8478440,,2019020637,,2020-01-03,Too many men/ice served by Dylan Strome
+22,penalty,Hooking,Bo Horvat,Erik Gustafsson,[ 12. -32.],1,13:52,VAN,CHI,VAN,23,CHI,16,1,0,8477500,8476979.0,2019020637,,2020-01-03,Bo Horvat Hooking against Erik Gustafsson
+76,penalty,Elbowing,Tyler Myers,Alex DeBrincat,[-71.  40.],1,00:55,VAN,CHI,VAN,23,CHI,16,1,1,8474574,8479337.0,2019020637,,2020-01-03,Tyler Myers Elbowing against Alex DeBrincat
+107,penalty,Tripping,Adam Gaudette,Alex DeBrincat,[ 70. -42.],2,14:00,VAN,CHI,VAN,23,CHI,16,2,2,8478874,8479337.0,2019020637,,2020-01-03,Adam Gaudette Tripping against Alex DeBrincat
+125,penalty,Delaying Game - Puck over glass,Zack Smith,,[ 67. -41.],2,10:49,CHI,VAN,VAN,23,CHI,16,2,4,8474250,,2019020637,,2020-01-03,Zack Smith Delaying Game - Puck over glass
+164,penalty,Holding,Erik Gustafsson,Troy Stecher,[-51.  -4.],2,05:23,CHI,VAN,VAN,23,CHI,16,4,4,8476979,8479442.0,2019020637,,2020-01-03,Erik Gustafsson Holding against Troy Stecher
+165,penalty,Holding,Troy Stecher,Erik Gustafsson,[-43.  -1.],2,05:23,VAN,CHI,VAN,23,CHI,16,4,4,8479442,8476979.0,2019020637,,2020-01-03,Troy Stecher Holding against Erik Gustafsson
+248,penalty,Tripping,Tyler Motte,Alex DeBrincat,[-4. 33.],3,02:41,VAN,CHI,VAN,23,CHI,16,6,5,8477353,8479337.0,2019020637,,2020-01-03,Tyler Motte Tripping against Alex DeBrincat
+3,penalty,Tripping,Dylan Larkin,Connor Murphy,[62. 39.],1,19:40,DET,CHI,CHI,16,DET,17,0,0,8477946,8476473.0,2019020657,,2020-01-06,Dylan Larkin Tripping against Connor Murphy
+13,penalty,Slashing,Dominik Kubalik,Dylan Larkin,[62. 40.],1,17:18,CHI,DET,CHI,16,DET,17,0,0,8477330,8477946.0,2019020657,,2020-01-06,Dominik Kubalik Slashing against Dylan Larkin
+66,penalty,Hi-sticking,Connor Murphy,Filip Zadina,[-54. -40.],1,05:24,CHI,DET,CHI,16,DET,17,0,1,8476473,8480821.0,2019020657,,2020-01-06,Connor Murphy Hi-sticking against Filip Zadina
+80,penalty,Tripping,Mike Green,Jonathan Toews,[-46. -37.],1,02:24,DET,CHI,CHI,16,DET,17,0,2,8471242,8473604.0,2019020657,,2020-01-06,Mike Green Tripping against Jonathan Toews
+102,penalty,Tripping,Jonathan Toews,Luke Glendening,[ 94. -13.],2,18:28,CHI,DET,CHI,16,DET,17,0,2,8473604,8476822.0,2019020657,,2020-01-06,Jonathan Toews Tripping against Luke Glendening
+137,penalty,Hooking,Brian Lashoff,Kirby Dach,[84.  9.],2,11:06,DET,CHI,CHI,16,DET,17,0,2,8474873,8481523.0,2019020657,,2020-01-06,Brian Lashoff Hooking against Kirby Dach
+16,penalty,Hi-sticking,Noah Hanifin,Jonathan Toews,[-75.  34.],1,16:06,CGY,CHI,CHI,16,CGY,20,0,0,8478396,8473604.0,2019020672,,2020-01-08,Noah Hanifin Hi-sticking against Jonathan Toews
+148,penalty,Too many men on the ice,John Quenneville,,[14. 37.],2,09:08,CHI,CGY,CHI,16,CGY,20,1,1,8477961,,2019020672,,2020-01-08,Too many men/ice served by John Quenneville
+152,penalty,Hi-sticking,Zack Smith,Matthew Tkachuk,[-28.   2.],2,08:13,CHI,CGY,CHI,16,CGY,20,1,1,8474250,8479314.0,2019020672,,2020-01-08,Zack Smith Hi-sticking against Matthew Tkachuk
+204,penalty,Tripping,Erik Gustafsson,Dillon Dube,[ 38. -25.],3,17:52,CHI,CGY,CHI,16,CGY,20,1,2,8476979,8479346.0,2019020672,,2020-01-08,Erik Gustafsson Tripping against Dillon Dube
+210,penalty,Slashing,Zack Smith,Derek Ryan,[ 47. -36.],3,17:09,CHI,CGY,CHI,16,CGY,20,1,2,8474250,8478585.0,2019020672,,2020-01-08,Zack Smith Slashing against Derek Ryan
+251,penalty,Hooking,Travis Hamonic,Jonathan Toews,[-83.  -9.],3,06:38,CGY,CHI,CHI,16,CGY,20,1,2,8474612,8473604.0,2019020672,,2020-01-08,Travis Hamonic Hooking against Jonathan Toews
+95,penalty,Too many men on the ice,John Quenneville,,[ 9. 37.],1,00:46,CHI,NSH,CHI,16,NSH,18,0,3,8477961,,2019020684,,2020-01-10,Too many men/ice served by John Quenneville
+138,penalty,Hi-sticking,Olli Maatta,Matt Duchene,[97. -7.],2,12:44,CHI,NSH,CHI,16,NSH,18,1,3,8476874,8475168.0,2019020684,,2020-01-10,Olli Maatta Hi-sticking against Matt Duchene
+164,penalty,Holding,Jarred Tinordi,Dominik Kubalik,[95. -8.],2,07:48,NSH,CHI,CHI,16,NSH,18,1,3,8475797,8477330.0,2019020684,,2020-01-10,Jarred Tinordi Holding against Dominik Kubalik
+223,penalty,Hooking,Roman Josi,Jonathan Toews,[-96.   9.],3,15:17,NSH,CHI,CHI,16,NSH,18,1,3,8474600,8473604.0,2019020684,,2020-01-10,Roman Josi Hooking against Jonathan Toews
+249,penalty,Tripping,Nick Bonino,Matthew Highmore,[78.  0.],3,10:19,NSH,CHI,CHI,16,NSH,18,2,3,8474009,8478146.0,2019020684,,2020-01-10,Nick Bonino Tripping against Matthew Highmore
+47,penalty,Tripping,Erik Gudbranson,Drake Caggiula,[-74. -19.],1,09:03,ANA,CHI,CHI,16,ANA,24,1,1,8475790,8479465.0,2019020699,,2020-01-14,Erik Gudbranson Tripping against Drake Caggiula
+91,penalty,Delay Gm - Face-off Violation,Ryan Carpenter,,[-69.  21.],2,19:24,CHI,ANA,CHI,16,ANA,24,1,1,8477846,,2019020699,,2020-01-14,Ryan Carpenter Delay Gm - Face-off Violation
+32,penalty,Holding the stick,Dominik Kubalik,Anthony Duclair,[ 33. -24.],1,14:49,CHI,OTT,OTT,9,CHI,16,1,0,8477330,8477407.0,2019020720,,2020-01-15,Dominik Kubalik Holding the stick against Anthony Duclair
+73,penalty,Elbowing,Mark Borowiecki,Kirby Dach,[-58.  32.],1,04:57,OTT,CHI,OTT,9,CHI,16,2,0,8474697,8481523.0,2019020720,,2020-01-15,Mark Borowiecki Elbowing against Kirby Dach
+83,penalty,Hi-sticking,Slater Koekkoek,Brady Tkachuk,[79.  4.],1,02:12,CHI,OTT,OTT,9,CHI,16,2,0,8476886,8480801.0,2019020720,,2020-01-15,Slater Koekkoek Hi-sticking against Brady Tkachuk
+11,penalty,Hooking,Cale Fleury,Matthew Highmore,[83. 13.],1,16:48,MTL,CHI,MTL,8,CHI,16,0,0,8479985,8478146.0,2019020725,,2020-01-16,Cale Fleury Hooking against Matthew Highmore
+21,penalty,Holding,Kirby Dach,Shea Weber,[ 98. -14.],1,15:30,CHI,MTL,MTL,8,CHI,16,0,0,8481523,8470642.0,2019020725,,2020-01-16,Kirby Dach Holding against Shea Weber
+137,penalty,Hi-sticking,Drake Caggiula,Ilya Kovalchuk,[37. 40.],2,11:06,CHI,MTL,MTL,8,CHI,16,1,2,8479465,8469454.0,2019020725,,2020-01-16,Drake Caggiula Hi-sticking against Ilya Kovalchuk
+147,penalty,Roughing,Max Domi,Matthew Highmore,[-12.  35.],2,09:08,MTL,CHI,MTL,8,CHI,16,1,2,8477503,8478146.0,2019020725,,2020-01-16,Max Domi Roughing against Matthew Highmore
+176,penalty,Hi-sticking,Zack Smith,Phillip Danault,[-30. -28.],2,04:36,CHI,MTL,MTL,8,CHI,16,1,3,8474250,8476479.0,2019020725,,2020-01-16,Zack Smith Hi-sticking against Phillip Danault
+222,penalty,Too many men on the ice,Nick Cousins,,[ 7. 37.],3,11:56,MTL,CHI,MTL,8,CHI,16,1,3,8476393,,2019020725,,2020-01-16,Too many men/ice served by Nick Cousins
+81,penalty,Hooking,Patrick Kane,Travis Dermott,[-89.  17.],1,01:12,CHI,TOR,TOR,10,CHI,16,0,3,8474141,8478408.0,2019020747,,2020-01-19,Patrick Kane Hooking against Travis Dermott
+113,penalty,Slashing,Connor Murphy,Zach Hyman,[34. 19.],2,13:45,CHI,TOR,TOR,10,CHI,16,1,4,8476473,8475786.0,2019020747,,2020-01-19,Connor Murphy Slashing against Zach Hyman
+259,penalty,Hi-sticking,Kasperi Kapanen,Connor Murphy,[-63. -11.],3,00:42,TOR,CHI,TOR,10,CHI,16,2,6,8477953,8476473.0,2019020747,,2020-01-19,Kasperi Kapanen Hi-sticking against Connor Murphy
+47,penalty,Hooking,Dominik Kubalik,Dmitry Kulikov,[-33. -22.],1,11:33,CHI,WPG,CHI,16,WPG,52,1,0,8477330,8475179.0,2019020758,,2020-01-20,Dominik Kubalik Hooking against Dmitry Kulikov
+48,penalty,Embellishment,Dmitry Kulikov,Dominik Kubalik,[-37. -14.],1,11:33,WPG,CHI,CHI,16,WPG,52,1,0,8475179,8477330.0,2019020758,,2020-01-20,Dmitry Kulikov Embellishment against Dominik Kubalik
+103,penalty,Interference,Drake Caggiula,Adam Lowry,[-36.   2.],1,00:16,CHI,WPG,CHI,16,WPG,52,2,0,8479465,8476392.0,2019020758,,2020-01-20,Drake Caggiula Interference against Adam Lowry
+125,penalty,Interference,Drake Caggiula,Nikolaj Ehlers,[58. 10.],2,15:40,CHI,WPG,CHI,16,WPG,52,2,0,8479465,8477940.0,2019020758,,2020-01-20,Drake Caggiula Interference against Nikolaj Ehlers
+126,penalty,Unsportsmanlike conduct,Drake Caggiula,,[  1. -38.],2,15:40,CHI,WPG,CHI,16,WPG,52,2,0,8479465,,2019020758,,2020-01-20,Drake Caggiula Unsportsmanlike conduct
+169,penalty,Holding,Anthony Bitetto,Patrick Kane,[69. 40.],2,07:47,WPG,CHI,CHI,16,WPG,52,2,0,8475868,8474141.0,2019020758,,2020-01-20,Anthony Bitetto Holding against Patrick Kane
+176,penalty,Tripping,Drake Caggiula,Luca Sbisa,[87. -5.],2,05:44,CHI,WPG,CHI,16,WPG,52,2,0,8479465,8474579.0,2019020758,,2020-01-20,Drake Caggiula Tripping against Luca Sbisa
+248,penalty,Hooking,Mark Scheifele,Alex Nylander,[-80.  11.],3,09:27,WPG,CHI,CHI,16,WPG,52,3,1,8476460,8479423.0,2019020758,,2020-01-20,Mark Scheifele Hooking against Alex Nylander
+286,penalty,Hooking,Olli Maatta,Mason Appleton,[81.  2.],3,00:37,CHI,WPG,CHI,16,WPG,52,5,2,8476874,8478891.0,2019020758,,2020-01-20,Olli Maatta Hooking against Mason Appleton
+52,penalty,Delaying Game - Puck over glass,Adam Boqvist,,[ 57. -38.],1,04:59,CHI,FLA,CHI,16,FLA,13,0,0,8480871,,2019020765,,2020-01-22,Adam Boqvist Delaying Game - Puck over glass
+111,penalty,Tripping,Aaron Ekblad,Dominik Kubalik,[29. 39.],2,12:06,FLA,CHI,CHI,16,FLA,13,0,2,8477932,8477330.0,2019020765,,2020-01-22,Aaron Ekblad Tripping against Dominik Kubalik
+165,penalty,Tripping,Alex DeBrincat,Josh Brown,[96. 12.],2,01:37,CHI,FLA,CHI,16,FLA,13,1,3,8479337,8477384.0,2019020765,,2020-01-22,Alex DeBrincat Tripping against Josh Brown
+180,penalty,Holding,Keith Yandle,Drake Caggiula,[-79.   1.],3,17:56,FLA,CHI,CHI,16,FLA,13,1,4,8471735,8479465.0,2019020765,,2020-01-22,Keith Yandle Holding against Drake Caggiula
+209,penalty,Tripping,Noel Acciari,David Kampf,[-40. -22.],3,13:52,FLA,CHI,CHI,16,FLA,13,2,4,8478569,8480144.0,2019020765,,2020-01-22,Noel Acciari Tripping against David Kampf
+242,penalty,Hi-sticking,Mike Hoffman,Brandon Saad,[-82.   0.],3,05:01,FLA,CHI,CHI,16,FLA,13,2,4,8474884,8476438.0,2019020765,,2020-01-22,Mike Hoffman Hi-sticking against Brandon Saad
+258,penalty,Hooking,Jonathan Toews,Noel Acciari,[ -2. -34.],3,00:32,CHI,FLA,CHI,16,FLA,13,3,4,8473604,8478569.0,2019020765,,2020-01-22,Jonathan Toews Hooking against Noel Acciari

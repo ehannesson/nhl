@@ -1,0 +1,533 @@
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,game_id,winning_team,date,description
+119,penalty,Holding,Michael Del Zotto,Matt Luff,[97.  6.],2,15:54,ANA,LAK,LAK,26,ANA,24,0,2,8474584,8479644.0,2019020804,ANA,2020-02-02,Michael Del Zotto Holding against Matt Luff
+131,penalty,Holding,Adrian Kempe,Michael Del Zotto,[-51.  -1.],2,12:49,LAK,ANA,LAK,26,ANA,24,0,3,8477960,8474584.0,2019020804,ANA,2020-02-02,Adrian Kempe Holding against Michael Del Zotto
+140,penalty,Fighting,Kurtis MacDermid,Nicolas Deslauriers,[-59.  -1.],2,10:23,LAK,ANA,LAK,26,ANA,24,0,3,8477073,8475235.0,2019020804,ANA,2020-02-02,Kurtis MacDermid Fighting against Nicolas Deslauriers
+141,penalty,Fighting,Nicolas Deslauriers,Kurtis MacDermid,[-69.  -2.],2,10:23,ANA,LAK,LAK,26,ANA,24,0,3,8475235,8477073.0,2019020804,ANA,2020-02-02,Nicolas Deslauriers Fighting against Kurtis MacDermid
+166,penalty,Holding,Cam Fowler,Jeff Carter,[ 79. -15.],2,03:42,ANA,LAK,LAK,26,ANA,24,0,3,8475764,8470604.0,2019020804,ANA,2020-02-02,Cam Fowler Holding against Jeff Carter
+16,penalty,Hi stick - double minor,Sam Steel,Mike Reilly,[-51.  17.],1,15:29,ANA,OTT,OTT,9,ANA,24,0,0,8479351,8476422.0,2019020819,,2020-02-05,Sam Steel Hi stick - double minor against Mike Reilly
+96,penalty,Tripping,Ryan Getzlaf,Jean-Gabriel Pageau,[-96.  -3.],2,16:56,ANA,OTT,OTT,9,ANA,24,0,1,8470612,8476419.0,2019020819,,2020-02-05,Ryan Getzlaf Tripping against Jean-Gabriel Pageau
+126,penalty,Slashing,Mark Borowiecki,Troy Terry,[ 62. -34.],2,11:20,OTT,ANA,OTT,9,ANA,24,1,1,8474697,8478873.0,2019020819,,2020-02-05,Mark Borowiecki Slashing against Troy Terry
+156,penalty,Tripping,Dylan DeMelo,Max Jones,[79. 10.],2,02:46,OTT,ANA,OTT,9,ANA,24,1,2,8476331,8479368.0,2019020819,,2020-02-05,Dylan DeMelo Tripping against Max Jones
+161,penalty,Too many men on the ice,Nicolas Deslauriers,,[ 6. 39.],2,01:21,ANA,OTT,OTT,9,ANA,24,1,2,8475235,,2019020819,,2020-02-05,Too many men/ice served by Nicolas Deslauriers
+172,penalty,Tripping,Erik Gudbranson,Tyler Ennis,[25. 30.],3,17:47,ANA,OTT,OTT,9,ANA,24,1,2,8475790,8474589.0,2019020819,,2020-02-05,Erik Gudbranson Tripping against Tyler Ennis
+215,penalty,Tripping,Thomas Chabot,Troy Terry,[-96. -10.],3,07:03,OTT,ANA,OTT,9,ANA,24,2,2,8478469,8478873.0,2019020819,,2020-02-05,Thomas Chabot Tripping against Troy Terry
+3,penalty,Delay of game,Victor Mete,,[85.  4.],1,19:03,MTL,ANA,MTL,8,ANA,24,0,0,8479376,,2019020828,,2020-02-07,Victor Mete Delay of game
+47,penalty,Hooking,Ben Chiarot,Jakob Silfverberg,[74. -5.],1,08:06,MTL,ANA,MTL,8,ANA,24,0,0,8475279,8475164.0,2019020828,,2020-02-07,Ben Chiarot Hooking against Jakob Silfverberg
+69,penalty,Interference,Nick Ritchie,Brendan Gallagher,[-19.  41.],1,03:49,ANA,MTL,MTL,8,ANA,24,0,0,8477941,8475848.0,2019020828,,2020-02-07,Nick Ritchie Interference against Brendan Gallagher
+119,penalty,Slashing,Ryan Getzlaf,Tomas Tatar,[73. 11.],2,15:14,ANA,MTL,MTL,8,ANA,24,1,0,8470612,8475193.0,2019020828,,2020-02-07,Ryan Getzlaf Slashing against Tomas Tatar
+174,penalty,Tripping,Sam Steel,Nick Cousins,[62.  5.],2,03:44,ANA,MTL,MTL,8,ANA,24,2,1,8479351,8476393.0,2019020828,,2020-02-07,Sam Steel Tripping against Nick Cousins
+227,penalty,Hooking,Nick Ritchie,Victor Mete,[82. 21.],3,11:56,ANA,MTL,MTL,8,ANA,24,2,2,8477941,8479376.0,2019020828,,2020-02-07,Nick Ritchie Hooking against Victor Mete
+242,penalty,Tripping,Josh Manson,Joel Armia,[-59. -26.],3,08:20,ANA,MTL,MTL,8,ANA,24,2,2,8476312,8476469.0,2019020828,,2020-02-07,Josh Manson Tripping against Joel Armia
+72,penalty,Hi-sticking,Max Jones,Tyson Barrie,[69. 29.],1,04:24,ANA,TOR,TOR,10,ANA,24,1,1,8479368,8475197.0,2019020839,,2020-02-08,Max Jones Hi-sticking against Tyson Barrie
+74,penalty,Delaying Game - Puck over glass,Derek Grant,,[98.  1.],1,04:06,ANA,TOR,TOR,10,ANA,24,1,1,8474683,,2019020839,,2020-02-08,Derek Grant Delaying Game - Puck over glass
+83,penalty,Holding,Dmytro Timashov,Ryan Getzlaf,[60.  7.],1,01:24,TOR,ANA,TOR,10,ANA,24,1,1,8478857,8470612.0,2019020839,,2020-02-08,Dmytro Timashov Holding against Ryan Getzlaf
+93,penalty,Interference,Josh Manson,Auston Matthews,[71.  3.],2,17:52,ANA,TOR,TOR,10,ANA,24,1,1,8476312,8479318.0,2019020839,,2020-02-08,Josh Manson Interference against Auston Matthews
+134,penalty,Hooking,John Tavares,Adam Henrique,[-53. -28.],2,09:29,TOR,ANA,TOR,10,ANA,24,2,1,8475166,8474641.0,2019020839,,2020-02-08,John Tavares Hooking against Adam Henrique
+147,penalty,Roughing,Kyle Clifford,Ryan Getzlaf,[-88.  -4.],2,06:21,TOR,ANA,TOR,10,ANA,24,3,1,8475160,8470612.0,2019020839,,2020-02-08,Kyle Clifford Roughing against Ryan Getzlaf
+148,penalty,Roughing,Ryan Getzlaf,Kyle Clifford,[-88.  -2.],2,06:21,ANA,TOR,TOR,10,ANA,24,3,1,8470612,8475160.0,2019020839,,2020-02-08,Ryan Getzlaf Roughing against Kyle Clifford
+207,penalty,Tripping,Nick Ritchie,Alexander Kerfoot,[68.  1.],3,13:09,ANA,TOR,TOR,10,ANA,24,3,1,8477941,8477021.0,2019020839,,2020-02-08,Nick Ritchie Tripping against Alexander Kerfoot
+226,penalty,Holding the stick,Kyle Clifford,Michael Del Zotto,[-89. -23.],3,08:30,TOR,ANA,TOR,10,ANA,24,3,2,8475160,8474584.0,2019020839,,2020-02-08,Kyle Clifford Holding the stick against Michael Del Zotto
+278,penalty,Tripping,Rickard Rakell,Mitchell Marner,[ -3. -16.],4,01:04,ANA,TOR,TOR,10,ANA,24,4,4,8476483,8478483.0,2019020839,,2020-02-08,Rickard Rakell Tripping against Mitchell Marner
+45,penalty,PS - Hooking on breakaway,Lawrence Pilut,Troy Terry,[-78.   5.],1,02:08,BUF,ANA,BUF,7,ANA,24,0,3,8480935,8478873.0,2019020856,,2020-02-09,Lawrence Pilut PS - Hooking on breakaway against Troy Terry
+96,penalty,Interference,Cam Fowler,Michael Frolik,[46.  5.],2,09:28,ANA,BUF,BUF,7,ANA,24,1,3,8475764,8473564.0,2019020856,,2020-02-09,Cam Fowler Interference against Michael Frolik
+113,penalty,Tripping,Scott Wilson,Korbinian Holzer,[-95. -26.],2,05:59,BUF,ANA,BUF,7,ANA,24,2,3,8476293,8473560.0,2019020856,,2020-02-09,Scott Wilson Tripping against Korbinian Holzer
+184,penalty,Hooking,Jakob Silfverberg,Rasmus Dahlin,[21. 30.],3,06:59,ANA,BUF,BUF,7,ANA,24,2,3,8475164,8480839.0,2019020856,,2020-02-09,Jakob Silfverberg Hooking against Rasmus Dahlin
+21,penalty,Hooking,Jaden Schwartz,Danton Heinen,[29. -1.],1,15:55,STL,ANA,ANA,24,STL,19,1,1,8475768,8478046.0,2019020876,,2020-03-12,Jaden Schwartz Hooking against Danton Heinen
+47,penalty,Tripping,Jani Hakanpaa,Ryan O'Reilly,[-81.  -1.],1,10:14,ANA,STL,ANA,24,STL,19,1,1,8475825,8475158.0,2019020876,,2020-03-12,Jani Hakanpaa Tripping against Ryan O'Reilly
+67,penalty,Tripping,Ryan Getzlaf,Colton Parayko,[27. 13.],1,04:48,ANA,STL,ANA,24,STL,19,1,1,8470612,8476892.0,2019020876,,2020-03-12,Ryan Getzlaf Tripping against Colton Parayko
+29,penalty,Hooking,Max Jones,TJ Brodie,[33. 21.],1,13:49,ANA,CGY,ANA,24,CGY,20,0,0,8479368,8474673.0,2019020890,,2020-02-14,Max Jones Hooking against TJ Brodie
+42,penalty,Hooking,Michael Stone,Troy Terry,[62. 14.],1,11:11,CGY,ANA,ANA,24,CGY,20,0,1,8474628,8478873.0,2019020890,,2020-02-14,Michael Stone Hooking against Troy Terry
+71,penalty,Fighting,Zac Rinaldo,Nicolas Deslauriers,[  1. -24.],1,06:20,CGY,ANA,ANA,24,CGY,20,0,3,8474736,8475235.0,2019020890,,2020-02-14,Zac Rinaldo Fighting against Nicolas Deslauriers
+73,penalty,Fighting,Nicolas Deslauriers,Zac Rinaldo,[  0. -20.],1,06:20,ANA,CGY,ANA,24,CGY,20,0,3,8475235,8474736.0,2019020890,,2020-02-14,Nicolas Deslauriers Fighting against Zac Rinaldo
+74,penalty,Charging,Sam Bennett,Jacob Larsson,[-97.  -7.],1,06:07,CGY,ANA,ANA,24,CGY,20,0,3,8477935,8478491.0,2019020890,,2020-02-14,Sam Bennett Charging against Jacob Larsson
+162,penalty,Interference,Nicolas Deslauriers,Sean Monahan,[29. 19.],2,08:06,ANA,CGY,ANA,24,CGY,20,0,4,8475235,8477497.0,2019020890,,2020-02-14,Nicolas Deslauriers Interference against Sean Monahan
+168,penalty,Tripping,Michael Stone,Troy Terry,[-80.  -1.],2,04:58,CGY,ANA,ANA,24,CGY,20,0,4,8474628,8478873.0,2019020890,,2020-02-14,Michael Stone Tripping against Troy Terry
+215,penalty,Slashing,Zac Rinaldo,Hampus Lindholm,[-52. -34.],3,12:29,CGY,ANA,ANA,24,CGY,20,0,6,8474736,8476854.0,2019020890,,2020-02-14,Zac Rinaldo Slashing against Hampus Lindholm
+47,penalty,Unsportsmanlike conduct,Troy Stecher,,[ 8. 40.],1,08:47,VAN,ANA,VAN,23,ANA,24,0,1,8479442,,2019020909,,2020-02-17,Troy Stecher Unsportsmanlike conduct
+60,penalty,Holding,Korbinian Holzer,Elias Pettersson,[-85. -33.],1,06:13,ANA,VAN,VAN,23,ANA,24,0,2,8473560,8480012.0,2019020909,,2020-02-17,Korbinian Holzer Holding against Elias Pettersson
+111,penalty,Delaying Game - Puck over glass,Christopher Tanev,,[-69. -35.],2,13:47,VAN,ANA,VAN,23,ANA,24,0,2,8475690,,2019020909,,2020-02-17,Christopher Tanev Delaying Game - Puck over glass
+136,penalty,Delaying Game - Puck over glass,Hampus Lindholm,,[ 93. -12.],2,09:15,ANA,VAN,VAN,23,ANA,24,0,3,8476854,,2019020909,,2020-02-17,Hampus Lindholm Delaying Game - Puck over glass
+137,penalty,Misconduct,Nick Ritchie,,[64.  1.],2,09:15,ANA,VAN,VAN,23,ANA,24,0,3,8477941,,2019020909,,2020-02-17,Nick Ritchie Misconduct
+151,penalty,Interference,Josh Manson,Elias Pettersson,[-63.  26.],2,06:12,ANA,VAN,VAN,23,ANA,24,1,3,8476312,8480012.0,2019020909,,2020-02-17,Josh Manson Interference against Elias Pettersson
+171,penalty,Roughing,Josh Manson,Tyler Myers,[ 92. -19.],2,00:03,ANA,VAN,VAN,23,ANA,24,1,3,8476312,8474574.0,2019020909,,2020-02-17,Josh Manson Roughing against Tyler Myers
+172,penalty,Roughing,Josh Manson,Tyler Myers,[ 96. -18.],2,00:03,ANA,VAN,VAN,23,ANA,24,1,3,8476312,8474574.0,2019020909,,2020-02-17,Josh Manson Roughing against Tyler Myers
+173,penalty,Cross checking,Tyler Myers,Max Jones,[97.  3.],2,00:03,VAN,ANA,VAN,23,ANA,24,1,3,8474574,8479368.0,2019020909,,2020-02-17,Tyler Myers Cross checking against Max Jones
+174,penalty,Roughing,Tyler Myers,Josh Manson,[ 98. -10.],2,00:03,VAN,ANA,VAN,23,ANA,24,1,3,8474574,8476312.0,2019020909,,2020-02-17,Tyler Myers Roughing against Josh Manson
+36,penalty,Tripping,Brendan Guhle,Dillon Dube,[-85.  11.],1,09:27,ANA,CGY,CGY,20,ANA,24,0,0,8478425,8479346.0,2019020915,,2020-02-18,Brendan Guhle Tripping against Dillon Dube
+52,penalty,Interference,Andrew Mangiapane,Korbinian Holzer,[-20.   5.],1,05:09,CGY,ANA,CGY,20,ANA,24,0,0,8478233,8473560.0,2019020915,,2020-02-18,Andrew Mangiapane Interference against Korbinian Holzer
+129,penalty,Hooking,Nick Ritchie,Rasmus Andersson,[ 8. -1.],2,07:16,ANA,CGY,CGY,20,ANA,24,1,2,8477941,8478397.0,2019020915,,2020-02-18,Nick Ritchie Hooking against Rasmus Andersson
+155,penalty,Roughing,Nicolas Deslauriers,Andrew Mangiapane,[-13.  36.],2,01:30,ANA,CGY,CGY,20,ANA,24,1,2,8475235,8478233.0,2019020915,,2020-02-18,Nicolas Deslauriers Roughing against Andrew Mangiapane
+167,penalty,Holding,Milan Lucic,Max Jones,[-65.  36.],3,19:00,CGY,ANA,CGY,20,ANA,24,1,2,8473473,8479368.0,2019020915,,2020-02-18,Milan Lucic Holding against Max Jones
+235,penalty,Hi-sticking,Sam Steel,Noah Hanifin,[75.  0.],3,05:34,ANA,CGY,CGY,20,ANA,24,5,3,8479351,8478396.0,2019020915,,2020-02-18,Sam Steel Hi-sticking against Noah Hanifin
+135,penalty,Interference,Korbinian Holzer,Mike Hoffman,[70.  6.],2,11:28,ANA,FLA,ANA,24,FLA,13,1,1,8473560,8474884.0,2019020931,,2020-02-20,Korbinian Holzer Interference against Mike Hoffman
+167,penalty,Interference - Goalkeeper,Mike Hoffman,John Gibson,[85.  2.],2,03:57,FLA,ANA,ANA,24,FLA,13,1,3,8474884,8476434.0,2019020931,,2020-02-20,Mike Hoffman Interference - Goalkeeper against John Gibson
+168,penalty,Unsportsmanlike conduct,John Gibson,Troy Terry,[83.  1.],2,03:57,ANA,FLA,ANA,24,FLA,13,1,3,8476434,8478873.0,2019020931,,2020-02-20,John Gibson Unsportsmanlike conduct served by Troy Terry
+214,penalty,Hooking,Dominic Toninato,Jakob Silfverberg,[ 55. -26.],3,12:12,FLA,ANA,ANA,24,FLA,13,1,3,8476952,8475164.0,2019020931,,2020-02-20,Dominic Toninato Hooking against Jakob Silfverberg
+54,penalty,Tripping,Ryan Graves,Troy Terry,[70. -5.],1,06:31,COL,ANA,ANA,24,COL,21,0,0,8477435,8478873.0,2019020947,,2020-02-28,Ryan Graves Tripping against Troy Terry
+67,penalty,Elbowing,Nick Ritchie,Tyson Jost,[-30.  22.],1,02:37,ANA,COL,ANA,24,COL,21,0,0,8477941,8479370.0,2019020947,,2020-02-28,Nick Ritchie Elbowing against Tyson Jost
+212,penalty,Missing key [PD_161],Vladislav Kamenev,,[ 8. 42.],3,11:29,COL,ANA,ANA,24,COL,21,0,1,8477973,,2019020947,,2020-02-28,Interference - Bench served by Vladislav Kamenev
+181,penalty,Tripping,Max Jones,William Karlsson,[43. 15.],3,15:36,ANA,VGK,ANA,24,VGK,54,3,3,8479368,8476448.0,2019020965,,2020-02-24,Max Jones Tripping against William Karlsson
+198,penalty,Tripping,Mark Stone,Ryan Getzlaf,[-28. -26.],3,11:13,VGK,ANA,ANA,24,VGK,54,3,4,8475913,8470612.0,2019020965,,2020-02-24,Mark Stone Tripping against Ryan Getzlaf
+242,penalty,Interference,Alec Martinez,Jakob Silfverberg,[  6. -12.],3,00:47,VGK,ANA,ANA,24,VGK,54,5,5,8474166,8475164.0,2019020965,,2020-02-24,Alec Martinez Interference against Jakob Silfverberg
+34,penalty,Slashing,Adam Henrique,Ryan Nugent-Hopkins,[-51.  10.],1,13:04,ANA,EDM,ANA,24,EDM,22,1,0,8474641,8476454.0,2019020980,,2020-02-26,Adam Henrique Slashing against Ryan Nugent-Hopkins
+144,penalty,Hooking,Adam Larsson,Rickard Rakell,[-80.  -4.],2,06:08,EDM,ANA,ANA,24,EDM,22,2,1,8476457,8476483.0,2019020980,,2020-02-26,Adam Larsson Hooking against Rickard Rakell
+161,penalty,Hooking,Ryan Getzlaf,Connor McDavid,[-67. -21.],2,00:37,ANA,EDM,ANA,24,EDM,22,2,1,8470612,8478402.0,2019020980,,2020-02-26,Ryan Getzlaf Hooking against Connor McDavid
+178,penalty,Hi-sticking,Danton Heinen,Riley Sheahan,[ -8. -23.],3,16:30,ANA,EDM,ANA,24,EDM,22,2,1,8478046,8475772.0,2019020980,,2020-02-26,Danton Heinen Hi-sticking against Riley Sheahan
+192,penalty,Holding,Caleb Jones,Sonny Milano,[ 82. -23.],3,13:58,EDM,ANA,ANA,24,EDM,22,2,2,8478452,8477947.0,2019020980,,2020-02-26,Caleb Jones Holding against Sonny Milano
+245,penalty,Tripping,Connor McDavid,Sonny Milano,[-93.  -5.],4,03:51,EDM,ANA,ANA,24,EDM,22,3,3,8478402,8477947.0,2019020980,,2020-02-26,Connor McDavid Tripping against Sonny Milano
+39,penalty,Tripping,Evan Rodrigues,Jakob Silfverberg,[99.  9.],1,09:46,PIT,ANA,ANA,24,PIT,5,0,0,8478542,8475164.0,2019020998,,2020-02-29,Evan Rodrigues Tripping against Jakob Silfverberg
+78,penalty,Hooking,Ryan Getzlaf,Sidney Crosby,[ 27. -33.],1,00:56,ANA,PIT,ANA,24,PIT,5,1,0,8470612,8471675.0,2019020998,,2020-02-29,Ryan Getzlaf Hooking against Sidney Crosby
+79,penalty,Unsportsmanlike conduct,Ryan Getzlaf,,[ -2. -33.],1,00:56,ANA,PIT,ANA,24,PIT,5,1,0,8470612,,2019020998,,2020-02-29,Ryan Getzlaf Unsportsmanlike conduct
+92,penalty,Delaying Game - Puck over glass,Jack Johnson,,[-77.  40.],2,17:49,PIT,ANA,ANA,24,PIT,5,1,1,8471677,,2019020998,,2020-02-29,Jack Johnson Delaying Game - Puck over glass
+113,penalty,Roughing,Jacob Larsson,Sidney Crosby,[95.  1.],2,13:35,ANA,PIT,ANA,24,PIT,5,1,1,8478491,8471675.0,2019020998,,2020-02-29,Jacob Larsson Roughing against Sidney Crosby
+114,penalty,Roughing,Matt Irwin,Jason Zucker,[95. -1.],2,13:35,ANA,PIT,ANA,24,PIT,5,1,1,8475625,8475722.0,2019020998,,2020-02-29,Matt Irwin Roughing against Jason Zucker
+115,penalty,Roughing,Jason Zucker,Matt Irwin,[97. -3.],2,13:35,PIT,ANA,ANA,24,PIT,5,1,1,8475722,8475625.0,2019020998,,2020-02-29,Jason Zucker Roughing against Matt Irwin
+130,penalty,Hi stick - double minor,Justin Schultz,Ryan Getzlaf,[-93.   9.],2,11:11,PIT,ANA,ANA,24,PIT,5,1,1,8474602,8470612.0,2019020998,,2020-02-29,Justin Schultz Hi stick - double minor against Ryan Getzlaf
+141,penalty,Boarding,Max Jones,Chad Ruhwedel,[-97.  -4.],2,09:20,ANA,PIT,ANA,24,PIT,5,2,1,8479368,8477244.0,2019020998,,2020-02-29,Max Jones Boarding against Chad Ruhwedel
+147,penalty,Hooking,Evgeni Malkin,Josh Manson,[95. 14.],2,07:42,PIT,ANA,ANA,24,PIT,5,2,1,8471215,8476312.0,2019020998,,2020-02-29,Evgeni Malkin Hooking against Josh Manson
+148,penalty,Unsportsmanlike conduct,Evgeni Malkin,,[ -8. -37.],2,07:42,PIT,ANA,ANA,24,PIT,5,2,1,8471215,,2019020998,,2020-02-29,Evgeni Malkin Unsportsmanlike conduct
+181,penalty,Cross checking,Kris Letang,Adam Henrique,[97.  2.],3,19:13,PIT,ANA,ANA,24,PIT,5,3,1,8471724,8474641.0,2019020998,,2020-02-29,Kris Letang Cross checking against Adam Henrique
+182,penalty,Slashing,Adam Henrique,Kris Letang,[89. 13.],3,19:13,ANA,PIT,ANA,24,PIT,5,3,1,8474641,8471724.0,2019020998,,2020-02-29,Adam Henrique Slashing against Kris Letang
+207,penalty,Too many men on the ice,Sonny Milano,,[-18.  41.],3,12:59,ANA,PIT,ANA,24,PIT,5,3,1,8477947,,2019020998,,2020-02-29,Too many men/ice served by Sonny Milano
+58,penalty,Tripping,Sonny Milano,Miles Wood,[-77.  30.],1,04:10,ANA,NJD,ANA,24,NJD,1,0,0,8477947,8477425.0,2019021015,,2020-03-02,Sonny Milano Tripping against Miles Wood
+98,penalty,Holding,Carter Rowney,Nico Hischier,[75. -7.],2,16:49,ANA,NJD,ANA,24,NJD,1,0,1,8477240,8480002.0,2019021015,,2020-03-02,Carter Rowney Holding against Nico Hischier
+184,penalty,Interference,John Gibson,Nicolas Deslauriers,[98. -1.],2,00:41,ANA,NJD,ANA,24,NJD,1,0,2,8476434,8475235.0,2019021015,,2020-03-02,John Gibson Interference against Kevin Rooney served by Nicolas Deslauriers
+228,penalty,Hi-sticking,Josh Jacobs,Andrew Agozzino,[80. -3.],3,10:07,NJD,ANA,ANA,24,NJD,1,0,2,8477972,8475461.0,2019021015,,2020-03-02,Josh Jacobs Hi-sticking against Andrew Agozzino
+236,penalty,Slashing,Kevin Rooney,Max Jones,[63. 10.],3,08:08,NJD,ANA,ANA,24,NJD,1,0,2,8479291,8479368.0,2019021015,,2020-03-02,Kevin Rooney Slashing against Max Jones
+122,penalty,Tripping,Patrick Kane,Michael Del Zotto,[ 83. -10.],2,14:06,CHI,ANA,CHI,16,ANA,24,2,1,8474141,8474584.0,2019021025,,2020-03-04,Patrick Kane Tripping against Michael Del Zotto
+125,penalty,Tripping,David Kampf,Max Jones,[-43. -33.],2,12:30,CHI,ANA,CHI,16,ANA,24,2,1,8480144,8479368.0,2019021025,,2020-03-04,David Kampf Tripping against Max Jones
+156,penalty,Hooking,Matt Irwin,Patrick Kane,[84. -9.],2,06:52,ANA,CHI,CHI,16,ANA,24,2,1,8475625,8474141.0,2019021025,,2020-03-04,Matt Irwin Hooking against Patrick Kane
+209,penalty,Tripping,Ryan Getzlaf,Kirby Dach,[-30. -37.],3,15:17,ANA,CHI,CHI,16,ANA,24,5,1,8470612,8481523.0,2019021025,,2020-03-04,Ryan Getzlaf Tripping against Kirby Dach
+237,penalty,Slashing,Drake Caggiula,Kiefer Sherwood,[78. -7.],3,09:14,CHI,ANA,CHI,16,ANA,24,5,2,8479465,8480748.0,2019021025,,2020-03-04,Drake Caggiula Slashing against Kiefer Sherwood
+49,penalty,Fighting,Nicolas Deslauriers,Pierre-Edouard Bellemare,[-34.  37.],1,09:20,ANA,COL,COL,21,ANA,24,1,1,8475235,8477930.0,2019021031,,2020-03-05,Nicolas Deslauriers Fighting against Pierre-Edouard Bellemare
+50,penalty,Fighting,Pierre-Edouard Bellemare,Nicolas Deslauriers,[-33.  35.],1,09:20,COL,ANA,COL,21,ANA,24,1,1,8477930,8475235.0,2019021031,,2020-03-05,Pierre-Edouard Bellemare Fighting against Nicolas Deslauriers
+66,penalty,Delaying Game - Puck over glass,Kiefer Sherwood,,[-41. -37.],1,05:58,ANA,COL,COL,21,ANA,24,1,2,8480748,,2019021031,,2020-03-05,Kiefer Sherwood Delaying Game - Puck over glass
+88,penalty,Slashing,Kiefer Sherwood,Vladislav Namestnikov,[ 79. -21.],1,00:58,ANA,COL,COL,21,ANA,24,2,2,8480748,8476480.0,2019021031,,2020-03-05,Kiefer Sherwood Slashing against Vladislav Namestnikov
+139,penalty,Hooking,Gabriel Landeskog,Adam Henrique,[-62.  41.],2,09:12,COL,ANA,COL,21,ANA,24,2,2,8476455,8474641.0,2019021031,,2020-03-05,Gabriel Landeskog Hooking against Adam Henrique
+186,penalty,Holding,Joonas Donskoi,Michael Del Zotto,[-96.  -1.],3,15:47,COL,ANA,COL,21,ANA,24,2,3,8475820,8474584.0,2019021031,,2020-03-05,Joonas Donskoi Holding against Michael Del Zotto
+194,penalty,Hi-sticking,Sonny Milano,Samuel Girard,[ 69. -39.],3,13:19,ANA,COL,COL,21,ANA,24,2,3,8477947,8479398.0,2019021031,,2020-03-05,Sonny Milano Hi-sticking against Samuel Girard
+211,penalty,Roughing,Vladislav Namestnikov,Ryan Getzlaf,[-88. -11.],3,10:22,COL,ANA,COL,21,ANA,24,3,3,8476480,8470612.0,2019021031,,2020-03-05,Vladislav Namestnikov Roughing against Ryan Getzlaf
+212,penalty,Roughing,Ryan Getzlaf,Vladislav Namestnikov,[-85.  -8.],3,10:22,ANA,COL,COL,21,ANA,24,3,3,8470612,8476480.0,2019021031,,2020-03-05,Ryan Getzlaf Roughing against Vladislav Namestnikov
+219,penalty,Roughing,Mark Barberio,Max Jones,[81.  3.],3,08:20,COL,ANA,COL,21,ANA,24,3,3,8474717,8479368.0,2019021031,,2020-03-05,Mark Barberio Roughing against Max Jones
+220,penalty,Roughing,Max Jones,Mark Barberio,[82.  0.],3,08:20,ANA,COL,COL,21,ANA,24,3,3,8479368,8474717.0,2019021031,,2020-03-05,Max Jones Roughing against Mark Barberio
+51,penalty,Delaying Game - Puck over glass,John Gibson,Sam Steel,[-60. -40.],1,08:22,ANA,TOR,ANA,24,TOR,10,1,0,8476434,8479351.0,2019021048,,2020-03-07,John Gibson Delaying Game - Puck over glass served by Sam Steel
+111,penalty,Tripping,Justin Holl,Sonny Milano,[-88. -20.],2,12:12,TOR,ANA,ANA,24,TOR,10,1,0,8475718,8477947.0,2019021048,,2020-03-07,Justin Holl Tripping against Sonny Milano
+143,penalty,Fighting,Kyle Clifford,Nicolas Deslauriers,[-39.  24.],2,05:20,TOR,ANA,ANA,24,TOR,10,1,0,8475160,8475235.0,2019021048,,2020-03-07,Kyle Clifford Fighting against Nicolas Deslauriers
+144,penalty,Fighting,Nicolas Deslauriers,Kyle Clifford,[-4. 26.],2,05:20,ANA,TOR,ANA,24,TOR,10,1,0,8475235,8475160.0,2019021048,,2020-03-07,Nicolas Deslauriers Fighting against Kyle Clifford
+168,penalty,Tripping,Mitchell Marner,Sam Steel,[-23.  32.],2,01:22,TOR,ANA,ANA,24,TOR,10,1,0,8478483,8479351.0,2019021048,,2020-03-07,Mitchell Marner Tripping against Sam Steel
+186,penalty,Boarding,David Backes,Denis Malgin,[33. 40.],3,16:35,ANA,TOR,ANA,24,TOR,10,1,0,8470655,8478843.0,2019021048,,2020-03-07,David Backes Boarding against Denis Malgin
+217,penalty,Tripping,Kiefer Sherwood,Calle Rosen,[ 94. -15.],3,08:15,ANA,TOR,ANA,24,TOR,10,2,0,8480748,8480157.0,2019021048,,2020-03-07,Kiefer Sherwood Tripping against Calle Rosen
+31,penalty,Holding,Jonas Brodin,Jakob Silfverberg,[45. 13.],1,13:13,MIN,ANA,ANA,24,MIN,30,0,0,8476463,8475164.0,2019021063,,2020-03-09,Jonas Brodin Holding against Jakob Silfverberg
+51,penalty,Missing key [PD_151],David Backes,,[-82.   1.],1,07:58,ANA,MIN,ANA,24,MIN,30,1,1,8470655,,2019021063,,2020-03-09,Delaying Game - Unsucc. chlg served by David Backes
+59,penalty,Tripping,Jonas Brodin,Carter Rowney,[ 48. -39.],1,06:14,MIN,ANA,ANA,24,MIN,30,1,2,8476463,8477240.0,2019021063,,2020-03-09,Jonas Brodin Tripping against Carter Rowney
+68,penalty,Fighting,Jordan Greenway,Ryan Getzlaf,[-73.  39.],1,04:06,MIN,ANA,ANA,24,MIN,30,1,2,8478413,8470612.0,2019021063,,2020-03-09,Jordan Greenway Fighting against Ryan Getzlaf
+69,penalty,Fighting,Ryan Getzlaf,Jordan Greenway,[-54.  39.],1,04:06,ANA,MIN,ANA,24,MIN,30,1,2,8470612,8478413.0,2019021063,,2020-03-09,Ryan Getzlaf Fighting against Jordan Greenway
+72,penalty,Tripping,Max Jones,Kevin Fiala,[-30.   3.],1,02:11,ANA,MIN,ANA,24,MIN,30,1,2,8479368,8477942.0,2019021063,,2020-03-09,Max Jones Tripping against Kevin Fiala
+80,penalty,Hooking,Alex Galchenyuk,David Backes,[-31.  32.],1,00:24,MIN,ANA,ANA,24,MIN,30,1,2,8476851,8470655.0,2019021063,,2020-03-09,Alex Galchenyuk Hooking against David Backes
+150,penalty,Cross checking,Marcus Foligno,Kiefer Sherwood,[96. 14.],2,03:38,MIN,ANA,ANA,24,MIN,30,3,2,8475220,8480748.0,2019021063,,2020-03-09,Marcus Foligno Cross checking against Kiefer Sherwood
+254,penalty,Tripping,Josh Manson,Kevin Fiala,[ 95. -25.],4,01:05,ANA,MIN,ANA,24,MIN,30,4,4,8476312,8477942.0,2019021063,,2020-03-09,Josh Manson Tripping against Kevin Fiala
+14,penalty,Hooking,Nikita Zaitsev,Max Jones,[83.  7.],1,18:26,OTT,ANA,ANA,24,OTT,9,0,0,8479458,8479368.0,2019021078,,2020-03-11,Nikita Zaitsev Hooking against Max Jones
+42,penalty,Interference,Adam Henrique,Christian Wolanin,[97. 22.],1,12:49,ANA,OTT,ANA,24,OTT,9,2,0,8474641,8478846.0,2019021078,,2020-03-11,Adam Henrique Interference against Christian Wolanin
+86,penalty,Cross checking,Max Jones,Andreas Englund,[93. 34.],1,02:09,ANA,OTT,ANA,24,OTT,9,4,0,8479368,8477971.0,2019021078,,2020-03-11,Max Jones Cross checking against Andreas Englund
+121,penalty,Slashing,Rickard Rakell,Colin White,[ 42. -21.],2,15:57,ANA,OTT,ANA,24,OTT,9,4,0,8476483,8478400.0,2019021078,,2020-03-11,Rickard Rakell Slashing against Colin White
+145,penalty,Hooking,Mike Reilly,Rickard Rakell,[-72.   0.],2,10:33,OTT,ANA,ANA,24,OTT,9,4,1,8476422,8476483.0,2019021078,,2020-03-11,Mike Reilly Hooking against Rickard Rakell
+199,penalty,Tripping,David Backes,Brady Tkachuk,[-53.  21.],3,16:30,ANA,OTT,ANA,24,OTT,9,5,1,8470655,8480801.0,2019021078,,2020-03-11,David Backes Tripping against Brady Tkachuk
+243,penalty,Hi-sticking,David Backes,Jayce Hawryluk,[-76. -32.],3,02:19,ANA,OTT,ANA,24,OTT,9,5,2,8470655,8477963.0,2019021078,,2020-03-11,David Backes Hi-sticking against Jayce Hawryluk
+236,penalty,Interference - Goalkeeper,Carl Soderberg,John Gibson,[-81.   5.],3,10:54,ARI,ANA,ANA,24,ARI,53,2,1,8471262,8476434.0,2019020012,,2019-10-04,Carl Soderberg Interference - Goalkeeper against John Gibson
+241,penalty,Hooking,Carter Rowney,Clayton Keller,[39. 21.],3,07:46,ANA,ARI,ANA,24,ARI,53,2,1,8477240,8479343.0,2019020012,,2019-10-04,Carter Rowney Hooking against Clayton Keller
+57,penalty,Fighting,Brenden Dillon,Nicolas Deslauriers,[ 59. -37.],1,08:32,SJS,ANA,ANA,24,SJS,28,1,0,8475455,8475235.0,2019020030,,2019-10-06,Brenden Dillon Fighting against Nicolas Deslauriers
+58,penalty,Fighting,Nicolas Deslauriers,Brenden Dillon,[ 52. -31.],1,08:32,ANA,SJS,ANA,24,SJS,28,1,0,8475235,8475455.0,2019020030,,2019-10-06,Nicolas Deslauriers Fighting against Brenden Dillon
+64,penalty,Slashing,Lean Bergmann,Max Jones,[ 85. -30.],1,06:52,SJS,ANA,ANA,24,SJS,28,1,0,8481640,8479368.0,2019020030,,2019-10-06,Lean Bergmann Slashing against Max Jones
+74,penalty,Hooking,Kevin Labanc,Ondrej Kase,[73.  5.],1,04:53,SJS,ANA,ANA,24,SJS,28,1,0,8478099,8478131.0,2019020030,,2019-10-06,Kevin Labanc Hooking against Ondrej Kase
+101,penalty,Hooking,Troy Terry,Lean Bergmann,[-52.  32.],2,17:38,ANA,SJS,ANA,24,SJS,28,1,0,8478873,8481640.0,2019020030,,2019-10-06,Troy Terry Hooking against Lean Bergmann
+155,penalty,Cross checking,Josh Manson,Danil Yurtaykin,[80. 11.],2,04:14,ANA,SJS,ANA,24,SJS,28,2,1,8476312,8481515.0,2019020030,,2019-10-06,Josh Manson Cross checking against Danil Yurtaykin
+213,penalty,Tripping,Jakob Silfverberg,Mario Ferraro,[79. 11.],3,11:25,ANA,SJS,ANA,24,SJS,28,3,1,8475164,8479983.0,2019020030,,2019-10-06,Jakob Silfverberg Tripping against Mario Ferraro
+240,penalty,Too many men on the ice,Troy Terry,,[-2. 36.],3,02:09,ANA,SJS,ANA,24,SJS,28,3,1,8478873,,2019020030,,2019-10-06,Too many men/ice served by Troy Terry
+81,penalty,Hooking,Dennis Cholowski,Troy Terry,[-56. -37.],2,17:57,DET,ANA,DET,17,ANA,24,0,0,8479395,8478873.0,2019020040,,2019-10-09,Dennis Cholowski Hooking against Troy Terry
+99,penalty,Hi-sticking,Madison Bowey,Max Jones,[33.  0.],2,14:25,DET,ANA,DET,17,ANA,24,0,0,8477474,8479368.0,2019020040,,2019-10-09,Madison Bowey Hi-sticking against Max Jones
+119,penalty,Too many men on the ice,Troy Terry,,[-22.  40.],2,09:26,ANA,DET,DET,17,ANA,24,0,0,8478873,,2019020040,,2019-10-09,Too many men/ice served by Troy Terry
+152,penalty,Hooking,Mike Green,Ondrej Kase,[70.  0.],3,19:00,DET,ANA,DET,17,ANA,24,1,0,8471242,8478131.0,2019020040,,2019-10-09,Mike Green Hooking against Ondrej Kase
+194,penalty,Tripping,Nick Ritchie,Dylan Larkin,[ 21. -24.],3,06:53,ANA,DET,DET,17,ANA,24,1,3,8477941,8477946.0,2019020040,,2019-10-09,Nick Ritchie Tripping against Dylan Larkin
+14,penalty,Slashing,Hampus Lindholm,Dominik Simon,[ 32. -38.],1,17:21,ANA,PIT,PIT,5,ANA,24,0,0,8476854,8478866.0,2019020050,,2019-10-11,Hampus Lindholm Slashing against Dominik Simon
+24,penalty,Fighting,Korbinian Holzer,Teddy Blueger,[98.  9.],1,14:57,ANA,PIT,PIT,5,ANA,24,0,0,8473560,8476927.0,2019020050,,2019-10-11,Korbinian Holzer Fighting against Teddy Blueger
+25,penalty,Fighting,Teddy Blueger,Korbinian Holzer,[96.  8.],1,14:57,PIT,ANA,PIT,5,ANA,24,0,0,8476927,8473560.0,2019020050,,2019-10-11,Teddy Blueger Fighting against Korbinian Holzer
+26,penalty,Instigator,Teddy Blueger,Patric Hornqvist,[96.  5.],1,14:57,PIT,ANA,PIT,5,ANA,24,0,0,8476927,8471887.0,2019020050,,2019-10-11,Teddy Blueger Instigator against Korbinian Holzer served by Patric Hornqvist
+27,penalty,Misconduct,Teddy Blueger,,[-68. -23.],1,14:57,PIT,ANA,PIT,5,ANA,24,0,0,8476927,,2019020050,,2019-10-11,Teddy Blueger Misconduct
+67,penalty,Too many men on the ice,Andrew Agozzino,,[-14.  39.],1,05:59,PIT,ANA,PIT,5,ANA,24,0,0,8475461,,2019020050,,2019-10-11,Too many men/ice served by Andrew Agozzino
+90,penalty,Slashing,Max Jones,Dominik Simon,[-26.  39.],1,01:00,ANA,PIT,PIT,5,ANA,24,0,0,8479368,8478866.0,2019020050,,2019-10-11,Max Jones Slashing against Dominik Simon
+109,penalty,Roughing,Josh Manson,Brandon Tanev,[ 56. -38.],2,17:11,ANA,PIT,PIT,5,ANA,24,0,0,8476312,8479293.0,2019020050,,2019-10-11,Josh Manson Roughing against Brandon Tanev
+122,penalty,Hooking,Josh Manson,Jake Guentzel,[-29. -40.],2,14:39,ANA,PIT,PIT,5,ANA,24,1,1,8476312,8477404.0,2019020050,,2019-10-11,Josh Manson Hooking against Jake Guentzel
+126,penalty,Hi-sticking,Adam Henrique,Kris Letang,[ 27. -36.],2,13:40,ANA,PIT,PIT,5,ANA,24,1,1,8474641,8471724.0,2019020050,,2019-10-11,Adam Henrique Hi-sticking against Kris Letang
+191,penalty,Delaying Game - Puck over glass,Derek Grant,,[-95.  33.],2,00:49,ANA,PIT,PIT,5,ANA,24,1,1,8474683,,2019020050,,2019-10-11,Derek Grant Delaying Game - Puck over glass
+247,penalty,Tripping,Zach Aston-Reese,Ondrej Kase,[-31.  36.],3,09:58,PIT,ANA,PIT,5,ANA,24,2,1,8479944,8478131.0,2019020050,,2019-10-11,Zach Aston-Reese Tripping against Ondrej Kase
+74,penalty,Holding,Nick Ritchie,Alexander Wennberg,[78. 39.],1,01:09,ANA,CBJ,CBJ,29,ANA,24,0,0,8477941,8477505.0,2019020059,,2019-10-12,Nick Ritchie Holding against Alexander Wennberg
+90,penalty,Tripping,Michael Del Zotto,Oliver Bjorkstrand,[-94.  34.],2,15:35,ANA,CBJ,CBJ,29,ANA,24,0,0,8474584,8477416.0,2019020059,,2019-10-12,Michael Del Zotto Tripping against Oliver Bjorkstrand
+114,penalty,Delaying Game - Puck over glass,Ryan Getzlaf,,[-53. -29.],2,07:40,ANA,CBJ,CBJ,29,ANA,24,0,0,8470612,,2019020059,,2019-10-12,Ryan Getzlaf Delaying Game - Puck over glass
+181,penalty,Tripping,Cam Atkinson,Josh Manson,[96.  1.],3,11:36,CBJ,ANA,CBJ,29,ANA,24,1,2,8474715,8476312.0,2019020059,,2019-10-12,Cam Atkinson Tripping against Josh Manson
+20,penalty,Slashing,Michael Del Zotto,Charlie Coyle,[78. 15.],1,15:50,ANA,BOS,BOS,6,ANA,24,0,0,8474584,8475745.0,2019020078,,2019-10-14,Michael Del Zotto Slashing against Charlie Coyle
+75,penalty,Slashing,Patrice Bergeron,Ondrej Kase,[-17.  17.],1,02:44,BOS,ANA,BOS,6,ANA,24,1,0,8470638,8478131.0,2019020078,,2019-10-14,Patrice Bergeron Slashing against Ondrej Kase
+111,penalty,Tripping,David Pastrnak,Max Comtois,[ 51. -10.],2,15:20,BOS,ANA,BOS,6,ANA,24,1,0,8477956,8480031.0,2019020078,,2019-10-14,David Pastrnak Tripping against Max Comtois
+128,penalty,Hooking,Steven Kampfer,Max Jones,[79. -7.],2,10:32,BOS,ANA,BOS,6,ANA,24,1,0,8474000,8479368.0,2019020078,,2019-10-14,Steven Kampfer Hooking against Max Jones
+140,penalty,Holding,Sam Steel,Joakim Nordstrom,[-58. -14.],2,07:10,ANA,BOS,BOS,6,ANA,24,2,0,8479351,8475807.0,2019020078,,2019-10-14,Sam Steel Holding against Joakim Nordstrom
+162,penalty,Delaying Game - Puck over glass,Charlie McAvoy,,[92. 13.],2,01:07,BOS,ANA,BOS,6,ANA,24,2,1,8479325,,2019020078,,2019-10-14,Charlie McAvoy Delaying Game - Puck over glass
+185,penalty,Holding,Max Comtois,Charlie Coyle,[-67.   5.],3,16:23,ANA,BOS,BOS,6,ANA,24,3,1,8480031,8475745.0,2019020078,,2019-10-14,Max Comtois Holding against Charlie Coyle
+252,penalty,Roughing,Ryan Getzlaf,Chris Wagner,[-65.  10.],3,00:19,ANA,BOS,BOS,6,ANA,24,4,2,8470612,8475780.0,2019020078,,2019-10-14,Ryan Getzlaf Roughing against Chris Wagner
+253,penalty,Roughing,Chris Wagner,Ryan Getzlaf,[-70.   4.],3,00:19,BOS,ANA,BOS,6,ANA,24,4,2,8475780,8470612.0,2019020078,,2019-10-14,Chris Wagner Roughing against Ryan Getzlaf
+23,penalty,Tripping,Kyle Okposo,Cam Fowler,[-96.  16.],1,14:53,BUF,ANA,ANA,24,BUF,7,0,0,8473449,8475764.0,2019020096,,2019-12-12,Kyle Okposo Tripping against Cam Fowler
+60,penalty,Tripping,Henri Jokiharju,Jakob Silfverberg,[-55. -22.],1,07:07,BUF,ANA,ANA,24,BUF,7,0,1,8480035,8475164.0,2019020096,,2019-12-12,Henri Jokiharju Tripping against Jakob Silfverberg
+75,penalty,Holding the stick,Adam Henrique,Jack Eichel,[-53. -35.],1,04:38,ANA,BUF,ANA,24,BUF,7,0,1,8474641,8478403.0,2019020096,,2019-12-12,Adam Henrique Holding the stick against Jack Eichel
+116,penalty,Interference,Henri Jokiharju,Max Comtois,[-69.  -2.],2,18:15,BUF,ANA,ANA,24,BUF,7,2,2,8480035,8480031.0,2019020096,,2019-12-12,Henri Jokiharju Interference against Max Comtois
+117,penalty,Slashing,Max Comtois,Henri Jokiharju,[-29.   1.],2,18:15,ANA,BUF,ANA,24,BUF,7,2,2,8480031,8480035.0,2019020096,,2019-12-12,Max Comtois Slashing against Henri Jokiharju
+127,penalty,Delaying Game - Puck over glass,Jacob Larsson,,[ 39. -36.],2,14:16,ANA,BUF,ANA,24,BUF,7,2,2,8478491,,2019020096,,2019-12-12,Jacob Larsson Delaying Game - Puck over glass
+134,penalty,Tripping,Johan Larsson,Sam Steel,[-83. -21.],2,11:44,BUF,ANA,ANA,24,BUF,7,2,2,8475728,8479351.0,2019020096,,2019-12-12,Johan Larsson Tripping against Sam Steel
+142,penalty,Boarding,Carter Rowney,Victor Olofsson,[ 83. -35.],2,10:33,ANA,BUF,ANA,24,BUF,7,3,2,8477240,8478109.0,2019020096,,2019-12-12,Carter Rowney Boarding against Victor Olofsson
+143,penalty,Roughing,Marco Scandella,Josh Manson,[ 85. -36.],2,10:33,BUF,ANA,ANA,24,BUF,7,3,2,8474618,8476312.0,2019020096,,2019-12-12,Marco Scandella Roughing against Josh Manson
+144,penalty,Roughing,Josh Manson,Marco Scandella,[ 89. -32.],2,10:33,ANA,BUF,ANA,24,BUF,7,3,2,8476312,8474618.0,2019020096,,2019-12-12,Josh Manson Roughing against Marco Scandella
+148,penalty,Delaying Game - Smothering puck,Rasmus Dahlin,,[-20. -36.],2,09:45,BUF,ANA,ANA,24,BUF,7,3,2,8480839,,2019020096,,2019-12-12,Rasmus Dahlin Delaying Game - Smothering puck
+155,penalty,Slashing,Ondrej Kase,Jake McCabe,[-65.  28.],2,08:24,ANA,BUF,ANA,24,BUF,7,3,2,8478131,8476931.0,2019020096,,2019-12-12,Ondrej Kase Slashing against Jake McCabe
+167,penalty,Roughing,Linus Ullmark,Jimmy Vesey,[-73.  -2.],2,04:03,BUF,ANA,ANA,24,BUF,7,3,2,8476999,8476918.0,2019020096,,2019-12-12,Linus Ullmark Roughing against Nick Ritchie served by Jimmy Vesey
+168,penalty,Roughing,Nick Ritchie,Troy Terry,[ 80. -36.],2,04:03,ANA,BUF,ANA,24,BUF,7,3,2,8477941,8478873.0,2019020096,,2019-12-12,Nick Ritchie Roughing against Vladimir Sobotka served by Troy Terry
+169,penalty,Roughing,Nick Ritchie,Vladimir Sobotka,[-75.  -3.],2,04:03,ANA,BUF,ANA,24,BUF,7,3,2,8477941,8471743.0,2019020096,,2019-12-12,Nick Ritchie Roughing against Vladimir Sobotka
+183,penalty,Delaying Game - Smothering puck,Korbinian Holzer,Zemgus Girgensons,[33. 40.],2,00:00,ANA,BUF,ANA,24,BUF,7,4,2,8473560,8476878.0,2019020096,,2019-12-12,Korbinian Holzer Delaying Game - Smothering puck against Zemgus Girgensons
+184,penalty,Roughing,Adam Henrique,Johan Larsson,[40. 39.],2,00:00,ANA,BUF,ANA,24,BUF,7,4,2,8474641,8475728.0,2019020096,,2019-12-12,Adam Henrique Roughing against Johan Larsson
+185,penalty,Roughing,Johan Larsson,Adam Henrique,[42. 40.],2,00:00,BUF,ANA,ANA,24,BUF,7,4,2,8475728,8474641.0,2019020096,,2019-12-12,Johan Larsson Roughing against Adam Henrique
+204,penalty,Hooking,Jacob Larsson,Jack Eichel,[-69.  32.],3,14:27,ANA,BUF,ANA,24,BUF,7,4,2,8478491,8478403.0,2019020096,,2019-12-12,Jacob Larsson Hooking against Jack Eichel
+255,penalty,Hi-sticking,Jeff Skinner,Max Comtois,[76.  8.],3,00:13,BUF,ANA,ANA,24,BUF,7,5,2,8475784,8480031.0,2019020096,,2019-12-12,Jeff Skinner Hi-sticking against Max Comtois
+256,penalty,Hi-sticking,Max Comtois,Jeff Skinner,[ 70. -12.],3,00:13,ANA,BUF,ANA,24,BUF,7,5,2,8480031,8475784.0,2019020096,,2019-12-12,Max Comtois Hi-sticking against Jeff Skinner
+35,penalty,Hooking,Adam Henrique,Jordan Staal,[-80.   9.],1,08:34,ANA,CAR,ANA,24,CAR,12,1,0,8474641,8473533.0,2019020112,CAR,2019-10-19,Adam Henrique Hooking against Jordan Staal
+72,penalty,Hooking,Nino Niederreiter,Derek Grant,[88. 26.],2,18:08,CAR,ANA,ANA,24,CAR,12,3,0,8475799,8474683.0,2019020112,CAR,2019-10-19,Nino Niederreiter Hooking against Derek Grant
+77,penalty,Holding,Devin Shore,Sebastian Aho,[-65.  38.],2,15:24,ANA,CAR,ANA,24,CAR,12,3,0,8476913,8478427.0,2019020112,CAR,2019-10-19,Devin Shore Holding against Sebastian Aho
+95,penalty,Interference,Hampus Lindholm,Martin Necas,[55.  0.],2,11:20,ANA,CAR,ANA,24,CAR,12,4,0,8476854,8480039.0,2019020112,CAR,2019-10-19,Hampus Lindholm Interference against Martin Necas
+118,penalty,Fighting,Joel Edmundson,Josh Manson,[53. 23.],2,06:21,CAR,ANA,ANA,24,CAR,12,4,2,8476441,8476312.0,2019020112,CAR,2019-10-19,Joel Edmundson Fighting against Josh Manson
+119,penalty,Fighting,Josh Manson,Joel Edmundson,[71. 37.],2,06:21,ANA,CAR,ANA,24,CAR,12,4,2,8476312,8476441.0,2019020112,CAR,2019-10-19,Josh Manson Fighting against Joel Edmundson
+49,penalty,Tripping,Mark Jankowski,Ondrej Kase,[16.  2.],1,07:12,CGY,ANA,ANA,24,CGY,20,0,0,8476873,8478131.0,2019020128,,2019-10-23,Mark Jankowski Tripping against Ondrej Kase
+113,penalty,Tripping,Michael Stone,Ryan Getzlaf,[-40.  35.],2,13:50,CGY,ANA,ANA,24,CGY,20,1,0,8474628,8470612.0,2019020128,,2019-10-23,Michael Stone Tripping against Ryan Getzlaf
+212,penalty,Tripping,Elias Lindholm,Hampus Lindholm,[-90.   8.],3,09:43,CGY,ANA,ANA,24,CGY,20,1,2,8477496,8476854.0,2019020128,,2019-10-23,Elias Lindholm Tripping against Hampus Lindholm
+19,penalty,Cross checking,Hampus Lindholm,Viktor Arvidsson,[ 95. -36.],1,15:21,ANA,NSH,NSH,18,ANA,24,0,0,8476854,8478042.0,2019020138,,2019-10-24,Hampus Lindholm Cross checking against Viktor Arvidsson
+39,penalty,Interference,Jacob Larsson,Matt Duchene,[17.  2.],1,10:28,ANA,NSH,NSH,18,ANA,24,0,0,8478491,8475168.0,2019020138,,2019-10-24,Jacob Larsson Interference against Matt Duchene
+48,penalty,Cross checking,Jakob Silfverberg,Roman Josi,[-90.  36.],1,09:09,ANA,NSH,NSH,18,ANA,24,0,0,8475164,8474600.0,2019020138,,2019-10-24,Jakob Silfverberg Cross checking against Roman Josi
+58,penalty,Slashing,Colton Sissons,Ondrej Kase,[39. 37.],1,05:47,NSH,ANA,NSH,18,ANA,24,1,0,8476925,8478131.0,2019020138,,2019-10-24,Colton Sissons Slashing against Ondrej Kase
+99,penalty,PS - Hooking on breakaway,Yannick Weber,Troy Terry,[72.  0.],2,16:45,NSH,ANA,NSH,18,ANA,24,3,0,8474134,8478873.0,2019020138,,2019-10-24,Yannick Weber PS - Hooking on breakaway against Troy Terry
+118,penalty,Slashing,Dante Fabbro,Adam Henrique,[ 73. -23.],2,10:42,NSH,ANA,NSH,18,ANA,24,3,0,8479371,8474641.0,2019020138,,2019-10-24,Dante Fabbro Slashing against Adam Henrique
+143,penalty,Hi-sticking,Miikka Salomaki,Josh Manson,[-24. -37.],2,05:55,NSH,ANA,NSH,18,ANA,24,4,0,8476447,8476312.0,2019020138,,2019-10-24,Miikka Salomaki Hi-sticking against Josh Manson
+190,penalty,Hi-sticking,Korbinian Holzer,Viktor Arvidsson,[ 80. -40.],3,11:18,ANA,NSH,NSH,18,ANA,24,6,1,8473560,8478042.0,2019020138,,2019-10-24,Korbinian Holzer Hi-sticking against Viktor Arvidsson
+195,penalty,Interference,Josh Manson,Viktor Arvidsson,[67.  4.],3,09:35,ANA,NSH,NSH,18,ANA,24,6,1,8476312,8478042.0,2019020138,,2019-10-24,Josh Manson Interference against Viktor Arvidsson
+213,penalty,Cross checking,Nick Ritchie,Jakob Silfverberg,[ 91. -34.],3,05:15,ANA,NSH,NSH,18,ANA,24,6,1,8477941,8475164.0,2019020138,,2019-10-24,Nick Ritchie Cross checking against Viktor Arvidsson served by Jakob Silfverberg
+214,penalty,Game misconduct,Nick Ritchie,,[58. 38.],3,05:15,ANA,NSH,NSH,18,ANA,24,6,1,8477941,,2019020138,,2019-10-24,Nick Ritchie Game misconduct
+36,penalty,Hooking,Jakob Silfverberg,Tyler Seguin,[-59.  12.],1,11:28,ANA,DAL,DAL,25,ANA,24,1,0,8475164,8475794.0,2019020152,ANA,2019-10-25,Jakob Silfverberg Hooking against Tyler Seguin
+42,penalty,Cross checking,Rickard Rakell,Jamie Benn,[-79.   4.],1,10:41,ANA,DAL,DAL,25,ANA,24,1,0,8476483,8473994.0,2019020152,ANA,2019-10-25,Rickard Rakell Cross checking against Jamie Benn
+99,penalty,Slashing,Alexander Radulov,Brendan Guhle,[47. 16.],2,17:28,DAL,ANA,DAL,25,ANA,24,2,0,8471228,8478425.0,2019020152,ANA,2019-10-25,Alexander Radulov Slashing against Brendan Guhle
+166,penalty,Holding,John Klingberg,Max Jones,[-76.  35.],2,01:20,DAL,ANA,DAL,25,ANA,24,2,1,8475906,8479368.0,2019020152,ANA,2019-10-25,John Klingberg Holding against Max Jones
+65,penalty,Tripping,Sam Steel,Nazem Kadri,[33. 41.],1,06:16,ANA,COL,COL,21,ANA,24,0,2,8479351,8475172.0,2019020169,ANA,2019-10-27,Sam Steel Tripping against Nazem Kadri
+72,penalty,Hi-sticking,Nazem Kadri,Max Jones,[-38. -27.],1,04:31,COL,ANA,COL,21,ANA,24,0,2,8475172,8479368.0,2019020169,ANA,2019-10-27,Nazem Kadri Hi-sticking against Max Jones
+87,penalty,Interference,Gabriel Landeskog,Jakob Silfverberg,[ 42. -38.],1,01:13,COL,ANA,COL,21,ANA,24,0,2,8476455,8475164.0,2019020169,ANA,2019-10-27,Gabriel Landeskog Interference against Jakob Silfverberg
+94,penalty,Delaying Game - Puck over glass,Nick Ritchie,,[40. 42.],2,18:44,ANA,COL,COL,21,ANA,24,0,2,8477941,,2019020169,ANA,2019-10-27,Nick Ritchie Delaying Game - Puck over glass
+105,penalty,Hooking,Cam Fowler,Tyson Jost,[ 31. -32.],2,15:54,ANA,COL,COL,21,ANA,24,0,2,8475764,8479370.0,2019020169,ANA,2019-10-27,Cam Fowler Hooking against Tyson Jost
+119,penalty,Slashing,Gabriel Landeskog,Jakob Silfverberg,[-40.  41.],2,13:09,COL,ANA,COL,21,ANA,24,1,2,8476455,8475164.0,2019020169,ANA,2019-10-27,Gabriel Landeskog Slashing against Jakob Silfverberg
+150,penalty,Interference,Hampus Lindholm,Nathan MacKinnon,[ 32. -40.],2,05:02,ANA,COL,COL,21,ANA,24,1,3,8476854,8477492.0,2019020169,ANA,2019-10-27,Hampus Lindholm Interference against Nathan MacKinnon
+172,penalty,Cross checking,Erik Gudbranson,Joonas Donskoi,[-69. -41.],3,19:32,ANA,COL,COL,21,ANA,24,1,3,8475790,8475820.0,2019020169,ANA,2019-10-27,Erik Gudbranson Cross checking against Joonas Donskoi
+182,penalty,Missing key [PD_151],Max Comtois,,[-11.  42.],3,18:22,ANA,COL,COL,21,ANA,24,2,3,8480031,,2019020169,ANA,2019-10-27,Delaying Game - Unsucc. chlg served by Max Comtois
+82,penalty,Holding,Brendan Guhle,Cody Glass,[-70. -36.],1,04:07,ANA,VGK,VGK,54,ANA,24,3,1,8478425,8479996.0,2019020176,ANA,2019-10-28,Brendan Guhle Holding against Cody Glass
+147,penalty,Tripping,Jakob Silfverberg,Shea Theodore,[-71. -28.],2,11:29,ANA,VGK,VGK,54,ANA,24,3,1,8475164,8477447.0,2019020176,ANA,2019-10-28,Jakob Silfverberg Tripping against Shea Theodore
+219,penalty,Interference,Ryan Getzlaf,William Karlsson,[-36.  12.],3,16:12,ANA,VGK,VGK,54,ANA,24,4,1,8470612,8476448.0,2019020176,ANA,2019-10-28,Ryan Getzlaf Interference against William Karlsson
+225,penalty,Tripping,Sam Steel,Cody Eakin,[-96. -12.],3,15:33,ANA,VGK,VGK,54,ANA,24,5,1,8479351,8475236.0,2019020176,ANA,2019-10-28,Sam Steel Tripping against Cody Eakin
+265,penalty,Hooking,William Carrier,Michael Del Zotto,[-80.   3.],3,05:33,VGK,ANA,VGK,54,ANA,24,5,2,8477478,8474584.0,2019020176,ANA,2019-10-28,William Carrier Hooking against Michael Del Zotto
+67,penalty,Tripping,Neal Pionk,Michael Del Zotto,[83.  7.],1,06:17,WPG,ANA,ANA,24,WPG,52,1,2,8480145,8474584.0,2019020187,,2019-10-30,Neal Pionk Tripping against Michael Del Zotto
+147,penalty,Slashing,Ryan Getzlaf,Andrew Copp,[ 59. -13.],2,08:27,ANA,WPG,ANA,24,WPG,52,5,3,8470612,8477429.0,2019020187,,2019-10-30,Ryan Getzlaf Slashing against Andrew Copp
+158,penalty,Holding,Jacob Larsson,Mathieu Perreault,[97. -3.],2,06:10,ANA,WPG,ANA,24,WPG,52,5,3,8478491,8473618.0,2019020187,,2019-10-30,Jacob Larsson Holding against Mathieu Perreault
+10,penalty,Roughing,Jay Beagle,Ryan Getzlaf,[-77.  -5.],1,18:54,VAN,ANA,ANA,24,VAN,23,0,0,8474291,8470612.0,2019020202,,2019-11-03,Jay Beagle Roughing against Ryan Getzlaf
+11,penalty,Roughing,Ryan Getzlaf,Jay Beagle,[-90. -12.],1,18:54,ANA,VAN,ANA,24,VAN,23,0,0,8470612,8474291.0,2019020202,,2019-11-03,Ryan Getzlaf Roughing against Jay Beagle
+35,penalty,Holding,Max Jones,Quinn Hughes,[89. 16.],1,11:32,ANA,VAN,ANA,24,VAN,23,0,0,8479368,8480800.0,2019020202,,2019-11-03,Max Jones Holding against Quinn Hughes
+53,penalty,Delaying Game - Puck over glass,Adam Henrique,,[-12. -39.],1,07:49,ANA,VAN,ANA,24,VAN,23,0,0,8474641,,2019020202,,2019-11-03,Adam Henrique Delaying Game - Puck over glass
+115,penalty,Holding,Christopher Tanev,Rickard Rakell,[-85.  11.],2,13:24,VAN,ANA,ANA,24,VAN,23,1,0,8475690,8476483.0,2019020202,,2019-11-03,Christopher Tanev Holding against Rickard Rakell
+131,penalty,Slashing,Max Jones,Bo Horvat,[73. 39.],2,08:59,ANA,VAN,ANA,24,VAN,23,1,0,8479368,8477500.0,2019020202,,2019-11-03,Max Jones Slashing against Bo Horvat
+177,penalty,Slashing,Tanner Pearson,Rickard Rakell,[79.  5.],3,19:20,VAN,ANA,ANA,24,VAN,23,1,0,8476871,8476483.0,2019020202,,2019-11-03,Tanner Pearson Slashing against Rickard Rakell
+185,penalty,Holding,Derek Grant,J.T. Miller,[33. 37.],3,16:33,ANA,VAN,ANA,24,VAN,23,1,0,8474683,8476468.0,2019020202,,2019-11-03,Derek Grant Holding against J.T. Miller
+191,penalty,Cross checking,Brock Boeser,Rickard Rakell,[65. 39.],3,14:14,VAN,ANA,ANA,24,VAN,23,1,0,8478444,8476483.0,2019020202,,2019-11-03,Brock Boeser Cross checking against Rickard Rakell
+212,penalty,Hooking,Korbinian Holzer,Elias Pettersson,[-85.  34.],3,08:57,ANA,VAN,ANA,24,VAN,23,1,0,8473560,8480012.0,2019020202,,2019-11-03,Korbinian Holzer Hooking against Elias Pettersson
+224,penalty,Delaying Game - Smothering puck,Jacob Markstrom,Josh Leivo,[80. -5.],3,03:03,VAN,ANA,ANA,24,VAN,23,1,1,8474593,8476410.0,2019020202,,2019-11-03,Jacob Markstrom Delaying Game - Smothering puck served by Josh Leivo
+14,penalty,Tripping,Erik Gustafsson,Rickard Rakell,[ 82. -33.],1,14:44,CHI,ANA,ANA,24,CHI,16,0,0,8476979,8476483.0,2019020219,CHI,2019-11-04,Erik Gustafsson Tripping against Rickard Rakell
+25,penalty,Hooking,Josh Mahura,Ryan Carpenter,[-83.  -5.],1,12:42,ANA,CHI,ANA,24,CHI,16,0,0,8479372,8477846.0,2019020219,CHI,2019-11-04,Josh Mahura Hooking against Ryan Carpenter
+53,penalty,Delaying Game - Puck over glass,Nick Ritchie,,[ 16. -40.],1,06:02,ANA,CHI,ANA,24,CHI,16,0,1,8477941,,2019020219,CHI,2019-11-04,Nick Ritchie Delaying Game - Puck over glass
+56,penalty,Tripping,Hampus Lindholm,Alex Nylander,[-94.  25.],1,05:11,ANA,CHI,ANA,24,CHI,16,0,1,8476854,8479423.0,2019020219,CHI,2019-11-04,Hampus Lindholm Tripping against Alex Nylander
+112,penalty,Hooking,Ryan Carpenter,Carter Rowney,[-79.  -5.],2,12:55,CHI,ANA,ANA,24,CHI,16,0,2,8477846,8477240.0,2019020219,CHI,2019-11-04,Ryan Carpenter Hooking against Carter Rowney
+176,penalty,Interference,Hampus Lindholm,Dylan Strome,[-16.  23.],3,18:35,ANA,CHI,ANA,24,CHI,16,1,2,8476854,8478440.0,2019020219,CHI,2019-11-04,Hampus Lindholm Interference against Dylan Strome
+183,penalty,Slashing,Jonathan Toews,Rickard Rakell,[-21.  27.],3,17:26,CHI,ANA,ANA,24,CHI,16,1,2,8473604,8476483.0,2019020219,CHI,2019-11-04,Jonathan Toews Slashing against Rickard Rakell
+193,penalty,Slashing,Jonathan Toews,Adam Henrique,[52. 26.],3,14:42,CHI,ANA,ANA,24,CHI,16,1,2,8473604,8474641.0,2019020219,CHI,2019-11-04,Jonathan Toews Slashing against Adam Henrique
+222,penalty,Tripping,Carter Rowney,Andrew Shaw,[42. -1.],3,06:59,ANA,CHI,ANA,24,CHI,16,2,2,8477240,8476381.0,2019020219,CHI,2019-11-04,Carter Rowney Tripping against Andrew Shaw
+50,penalty,Delaying Game - Smothering puck,Alex Stalock,Jordan Greenway,[82. -7.],1,07:35,MIN,ANA,ANA,24,MIN,30,0,0,8471774,8478413.0,2019020233,MIN,2019-11-06,Alex Stalock Delaying Game - Smothering puck served by Jordan Greenway
+59,penalty,Hooking,Ryan Getzlaf,Mikko Koivu,[96.  9.],1,04:25,ANA,MIN,ANA,24,MIN,30,0,0,8470612,8469459.0,2019020233,MIN,2019-11-06,Ryan Getzlaf Hooking against Mikko Koivu
+87,penalty,Tripping,Korbinian Holzer,Ryan Donato,[-18.  24.],2,17:41,ANA,MIN,ANA,24,MIN,30,2,0,8473560,8477987.0,2019020233,MIN,2019-11-06,Korbinian Holzer Tripping against Ryan Donato
+172,penalty,Tripping,Mats Zuccarello,Sam Steel,[-28.  -8.],2,00:41,MIN,ANA,ANA,24,MIN,30,2,1,8475692,8479351.0,2019020233,MIN,2019-11-06,Mats Zuccarello Tripping against Sam Steel
+33,penalty,Slashing,Connor McDavid,Jakob Silfverberg,[-21. -33.],1,13:56,EDM,ANA,ANA,24,EDM,22,1,1,8478402,8475164.0,2019020269,EDM,2019-11-11,Connor McDavid Slashing against Jakob Silfverberg
+38,penalty,Tripping,Rickard Rakell,Oscar Klefbom,[83. -5.],1,13:30,ANA,EDM,ANA,24,EDM,22,1,1,8476483,8476472.0,2019020269,EDM,2019-11-11,Rickard Rakell Tripping against Oscar Klefbom
+91,penalty,Tripping,Zack Kassian,Adam Henrique,[-78.  -3.],2,19:03,EDM,ANA,ANA,24,EDM,22,1,2,8475178,8474641.0,2019020269,EDM,2019-11-11,Zack Kassian Tripping against Adam Henrique
+105,penalty,Tripping,Connor McDavid,Carter Rowney,[72. -2.],2,15:59,EDM,ANA,ANA,24,EDM,22,1,2,8478402,8477240.0,2019020269,EDM,2019-11-11,Connor McDavid Tripping against Carter Rowney
+120,penalty,Tripping,Ryan Getzlaf,Gaetan Haas,[28. -1.],2,12:55,ANA,EDM,ANA,24,EDM,22,1,2,8470612,8481813.0,2019020269,EDM,2019-11-11,Ryan Getzlaf Tripping against Gaetan Haas
+126,penalty,Hooking,Kris Russell,Rickard Rakell,[-77.   3.],2,11:51,EDM,ANA,ANA,24,EDM,22,1,3,8471729,8476483.0,2019020269,EDM,2019-11-11,Kris Russell Hooking against Rickard Rakell
+138,penalty,Hi-sticking,Alex Chiasson,Derek Grant,[ 96. -13.],2,09:10,EDM,ANA,ANA,24,EDM,22,1,4,8475163,8474683.0,2019020269,EDM,2019-11-11,Alex Chiasson Hi-sticking against Derek Grant
+220,penalty,Hooking,Korbinian Holzer,Gaetan Haas,[-54. -37.],3,07:01,ANA,EDM,ANA,24,EDM,22,2,5,8473560,8481813.0,2019020269,EDM,2019-11-11,Korbinian Holzer Hooking against Gaetan Haas
+238,penalty,Delaying Game - Puck over glass,Ryan Getzlaf,,[-98.  10.],3,01:40,ANA,EDM,ANA,24,EDM,22,2,6,8470612,,2019020269,EDM,2019-11-11,Ryan Getzlaf Delaying Game - Puck over glass
+26,penalty,Holding,Nick Ritchie,Robby Fabbri,[-89.  23.],1,14:37,ANA,DET,ANA,24,DET,17,0,0,8477941,8477952.0,2019020278,DET,2019-11-13,Nick Ritchie Holding against Robby Fabbri
+77,penalty,Roughing,Dylan McIlrath,Ryan Getzlaf,[-75. -13.],1,02:09,DET,ANA,ANA,24,DET,17,0,0,8475795,8470612.0,2019020278,DET,2019-11-13,Dylan McIlrath Roughing against Ryan Getzlaf
+78,penalty,Slashing,Anthony Mantha,Ryan Getzlaf,[-59. -38.],1,02:09,DET,ANA,ANA,24,DET,17,0,0,8477511,8470612.0,2019020278,DET,2019-11-13,Anthony Mantha Slashing against Ryan Getzlaf
+79,penalty,Slashing,Ryan Getzlaf,Anthony Mantha,[-52. -29.],1,02:09,ANA,DET,ANA,24,DET,17,0,0,8470612,8477511.0,2019020278,DET,2019-11-13,Ryan Getzlaf Slashing against Anthony Mantha
+80,penalty,Slashing,Ryan Getzlaf,Anthony Mantha,[-53. -37.],1,02:09,ANA,DET,ANA,24,DET,17,0,0,8470612,8477511.0,2019020278,DET,2019-11-13,Ryan Getzlaf Slashing against Anthony Mantha
+82,penalty,Fighting,Givani Smith,Nicolas Deslauriers,[-42.  33.],1,02:04,DET,ANA,ANA,24,DET,17,0,0,8479379,8475235.0,2019020278,DET,2019-11-13,Givani Smith Fighting against Nicolas Deslauriers
+83,penalty,Fighting,Nicolas Deslauriers,Givani Smith,[-48.  22.],1,02:04,ANA,DET,ANA,24,DET,17,0,0,8475235,8479379.0,2019020278,DET,2019-11-13,Nicolas Deslauriers Fighting against Givani Smith
+97,penalty,Missing key [PD_151],Adam Erne,,[-81.   0.],2,19:11,DET,ANA,ANA,24,DET,17,2,0,8477454,,2019020278,DET,2019-11-13,Delaying Game - Unsucc. chlg served by Adam Erne
+124,penalty,Interference,Alex Biega,Carter Rowney,[-7. 18.],2,12:05,DET,ANA,ANA,24,DET,17,2,0,8473415,8477240.0,2019020278,DET,2019-11-13,Alex Biega Interference against Carter Rowney
+214,penalty,Hooking,Troy Terry,Andreas Athanasiou,[-66. -37.],3,13:07,ANA,DET,ANA,24,DET,17,3,2,8478873,8476960.0,2019020278,DET,2019-11-13,Troy Terry Hooking against Andreas Athanasiou
+262,penalty,Tripping,Brendan Guhle,Andreas Athanasiou,[-90.  27.],3,01:31,ANA,DET,ANA,24,DET,17,3,2,8478425,8476960.0,2019020278,DET,2019-11-13,Brendan Guhle Tripping against Andreas Athanasiou
+265,penalty,Hooking,Korbinian Holzer,Andreas Athanasiou,[-92.  -7.],3,01:10,ANA,DET,ANA,24,DET,17,3,2,8473560,8476960.0,2019020278,DET,2019-11-13,Korbinian Holzer Hooking against Andreas Athanasiou
+15,penalty,Cross checking,Erik Gudbranson,Melker Karlsson,[-86.  34.],1,17:24,ANA,SJS,ANA,24,SJS,28,1,0,8475790,8477922.0,2019020292,SJS,2019-11-15,Erik Gudbranson Cross checking against Melker Karlsson
+39,penalty,Fighting,Dalton Prout,Nicolas Deslauriers,[ 38. -37.],1,12:27,SJS,ANA,ANA,24,SJS,28,1,1,8474774,8475235.0,2019020292,SJS,2019-11-15,Dalton Prout Fighting against Nicolas Deslauriers
+40,penalty,Fighting,Nicolas Deslauriers,Dalton Prout,[ 38. -34.],1,12:27,ANA,SJS,ANA,24,SJS,28,1,1,8475235,8474774.0,2019020292,SJS,2019-11-15,Nicolas Deslauriers Fighting against Dalton Prout
+113,penalty,Slashing,Kevin Labanc,Adam Henrique,[-2.  3.],2,15:42,SJS,ANA,ANA,24,SJS,28,1,1,8478099,8474641.0,2019020292,SJS,2019-11-15,Kevin Labanc Slashing against Adam Henrique
+121,penalty,Face-off violation,Melker Karlsson,,[-68. -22.],2,13:44,SJS,ANA,ANA,24,SJS,28,1,1,8477922,,2019020292,SJS,2019-11-15,Delay Game - Bench – FO viol served by Melker Karlsson
+147,penalty,Tripping,Brent Burns,Troy Terry,[-37. -29.],2,07:21,SJS,ANA,ANA,24,SJS,28,1,1,8470613,8478873.0,2019020292,SJS,2019-11-15,Brent Burns Tripping against Troy Terry
+157,penalty,Hooking,Max Jones,Barclay Goodrow,[80. 30.],2,06:04,ANA,SJS,ANA,24,SJS,28,2,1,8479368,8476624.0,2019020292,SJS,2019-11-15,Max Jones Hooking against Barclay Goodrow
+207,penalty,Holding the stick,Derek Grant,Lukas Radil,[-61.  35.],3,13:18,ANA,SJS,ANA,24,SJS,28,2,2,8474683,8480780.0,2019020292,SJS,2019-11-15,Derek Grant Holding the stick against Lukas Radil
+220,penalty,Hooking,Dalton Prout,Ondrej Kase,[99.  6.],3,10:50,SJS,ANA,ANA,24,SJS,28,2,3,8474774,8478131.0,2019020292,SJS,2019-11-15,Dalton Prout Hooking against Ondrej Kase
+79,penalty,Slashing,Ryan O'Reilly,Ryan Getzlaf,[67. 41.],1,00:39,STL,ANA,STL,19,ANA,24,0,2,8475158,8470612.0,2019020309,ANA,2019-11-17,Ryan O'Reilly Slashing against Ryan Getzlaf
+112,penalty,Hi-sticking,Devin Shore,Robert Bortuzzo,[ 69. -17.],2,14:11,ANA,STL,STL,19,ANA,24,1,2,8476913,8474145.0,2019020309,ANA,2019-11-17,Devin Shore Hi-sticking against Robert Bortuzzo
+133,penalty,Charging,Oskar Sundqvist,John Gibson,[-97.   0.],2,09:51,STL,ANA,STL,19,ANA,24,1,3,8476897,8476434.0,2019020309,ANA,2019-11-17,Oskar Sundqvist Charging against John Gibson
+134,penalty,Roughing,Oskar Sundqvist,David Perron,[-97.   7.],2,09:51,STL,ANA,STL,19,ANA,24,1,3,8476897,8474102.0,2019020309,ANA,2019-11-17,Oskar Sundqvist Roughing against Nicolas Deslauriers served by David Perron
+135,penalty,Roughing,Nicolas Deslauriers,Oskar Sundqvist,[-97.   2.],2,09:51,ANA,STL,STL,19,ANA,24,1,3,8475235,8476897.0,2019020309,ANA,2019-11-17,Nicolas Deslauriers Roughing against Oskar Sundqvist
+166,penalty,Delaying Game - Puck over glass,Derek Grant,,[-42. -20.],2,00:34,ANA,STL,STL,19,ANA,24,1,3,8474683,,2019020309,ANA,2019-11-17,Derek Grant Delaying Game - Puck over glass
+205,penalty,Too many men on the ice,Adam Henrique,,[1. 2.],3,06:45,ANA,STL,STL,19,ANA,24,1,3,8474641,,2019020309,ANA,2019-11-17,Too many men/ice served by Adam Henrique
+233,penalty,Hi-sticking,Korbinian Holzer,Ivan Barbashev,[ 63. -28.],3,00:45,ANA,STL,STL,19,ANA,24,1,4,8473560,8477964.0,2019020309,ANA,2019-11-17,Korbinian Holzer Hi-sticking against Ivan Barbashev
+75,penalty,Delaying Game - Puck over glass,T.J. Oshie,,[30. 32.],1,02:00,WSH,ANA,WSH,15,ANA,24,1,0,8471698,,2019020316,,2019-11-19,T.J. Oshie Delaying Game - Puck over glass
+117,penalty,Slashing,Carter Rowney,Jakub Vrana,[76.  2.],2,13:41,ANA,WSH,WSH,15,ANA,24,1,0,8477240,8477944.0,2019020316,,2019-11-19,Carter Rowney Slashing against Jakub Vrana
+178,penalty,Roughing,Erik Gudbranson,Carter Rowney,[91. -7.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8475790,8477240.0,2019020316,,2019-11-19,Erik Gudbranson Roughing against Garnet Hathaway served by Carter Rowney
+179,penalty,Misconduct,Erik Gudbranson,Garnet Hathaway,[86. -9.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8475790,8477903.0,2019020316,,2019-11-19,Erik Gudbranson Misconduct against Garnet Hathaway
+180,penalty,Match penalty,Garnet Hathaway,Travis Boyd,[90. -7.],2,00:34,WSH,ANA,WSH,15,ANA,24,3,0,8477903,8476329.0,2019020316,,2019-11-19,Garnet Hathaway Match penalty against Erik Gudbranson served by Travis Boyd
+181,penalty,Fighting,Garnet Hathaway,Derek Grant,[94. -8.],2,00:34,WSH,ANA,WSH,15,ANA,24,3,0,8477903,8474683.0,2019020316,,2019-11-19,Garnet Hathaway Fighting against Derek Grant
+182,penalty,Roughing,Brendan Leipsic,Brendan Guhle,[ 88. -11.],2,00:34,WSH,ANA,WSH,15,ANA,24,3,0,8476894,8478425.0,2019020316,,2019-11-19,Brendan Leipsic Roughing against Brendan Guhle
+183,penalty,Fighting,Derek Grant,Garnet Hathaway,[88. -9.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8474683,8477903.0,2019020316,,2019-11-19,Derek Grant Fighting against Garnet Hathaway
+184,penalty,Roughing,Brendan Leipsic,Brendan Guhle,[91. -6.],2,00:34,WSH,ANA,WSH,15,ANA,24,3,0,8476894,8478425.0,2019020316,,2019-11-19,Brendan Leipsic Roughing against Brendan Guhle
+185,penalty,Roughing,Brendan Guhle,Brendan Leipsic,[90. -5.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8478425,8476894.0,2019020316,,2019-11-19,Brendan Guhle Roughing against Brendan Leipsic
+186,penalty,Roughing,Brendan Guhle,Brendan Leipsic,[92. -8.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8478425,8476894.0,2019020316,,2019-11-19,Brendan Guhle Roughing against Brendan Leipsic
+187,penalty,Game misconduct,Nick Ritchie,Garnet Hathaway,[85. -9.],2,00:34,ANA,WSH,WSH,15,ANA,24,3,0,8477941,8477903.0,2019020316,,2019-11-19,Nick Ritchie Game misconduct against Garnet Hathaway
+230,penalty,Hi stick - double minor,T.J. Oshie,Carter Rowney,[-72. -38.],3,07:05,WSH,ANA,WSH,15,ANA,24,4,0,8471698,8477240.0,2019020316,,2019-11-19,T.J. Oshie Hi stick - double minor against Carter Rowney
+112,penalty,Tripping,Carter Rowney,Aaron Ekblad,[ 40. -16.],2,15:10,ANA,FLA,FLA,13,ANA,24,0,1,8477240,8477932.0,2019020334,,2019-11-22,Carter Rowney Tripping against Aaron Ekblad
+154,penalty,Tripping,Denis Malgin,Sam Steel,[-85. -29.],2,04:23,FLA,ANA,FLA,13,ANA,24,0,2,8478843,8479351.0,2019020334,,2019-11-22,Denis Malgin Tripping against Sam Steel
+4,penalty,Tripping,Cory Conacher,Sam Steel,[ 92. -15.],1,18:18,TBL,ANA,TBL,14,ANA,24,0,0,8476195,8479351.0,2019020353,,2019-11-25,Cory Conacher Tripping against Sam Steel
+77,penalty,Tripping,Erik Gudbranson,Ryan McDonagh,[54. -7.],1,02:48,ANA,TBL,TBL,14,ANA,24,1,0,8475790,8474151.0,2019020353,,2019-11-25,Erik Gudbranson Tripping against Ryan McDonagh
+115,penalty,Hooking,Jan Rutta,Rickard Rakell,[ 64. -12.],2,14:06,TBL,ANA,TBL,14,ANA,24,2,1,8480172,8476483.0,2019020353,,2019-11-25,Jan Rutta Hooking against Rickard Rakell
+140,penalty,Hooking,Hampus Lindholm,Nikita Kucherov,[-58.  30.],2,07:38,ANA,TBL,TBL,14,ANA,24,2,2,8476854,8476453.0,2019020353,,2019-11-25,Hampus Lindholm Hooking against Nikita Kucherov
+188,penalty,Hi-sticking,Pat Maroon,Carter Rowney,[-70.  23.],3,15:46,TBL,ANA,TBL,14,ANA,24,4,2,8474034,8477240.0,2019020353,,2019-11-25,Pat Maroon Hi-sticking against Carter Rowney
+195,penalty,Slashing,Troy Terry,Victor Hedman,[-68.  28.],3,14:22,ANA,TBL,TBL,14,ANA,24,4,2,8478873,8475167.0,2019020353,,2019-11-25,Troy Terry Slashing against Victor Hedman
+227,penalty,Roughing,Erik Cernak,Korbinian Holzer,[ 49. -28.],3,04:31,TBL,ANA,TBL,14,ANA,24,5,2,8478416,8473560.0,2019020353,,2019-11-25,Erik Cernak Roughing against Korbinian Holzer
+228,penalty,Cross checking,Anthony Cirelli,Korbinian Holzer,[ 53. -26.],3,04:31,TBL,ANA,TBL,14,ANA,24,5,2,8478519,8473560.0,2019020353,,2019-11-25,Anthony Cirelli Cross checking against Korbinian Holzer
+229,penalty,Cross checking,Nick Ritchie,Anthony Cirelli,[ 63. -27.],3,04:31,ANA,TBL,TBL,14,ANA,24,5,2,8477941,8478519.0,2019020353,,2019-11-25,Nick Ritchie Cross checking against Anthony Cirelli
+230,penalty,Roughing,Nick Ritchie,Anthony Cirelli,[ 57. -33.],3,04:31,ANA,TBL,TBL,14,ANA,24,5,2,8477941,8478519.0,2019020353,,2019-11-25,Nick Ritchie Roughing against Anthony Cirelli
+231,penalty,Misconduct,Nick Ritchie,,[ 69. -32.],3,04:31,ANA,TBL,TBL,14,ANA,24,5,2,8477941,,2019020353,,2019-11-25,Nick Ritchie Misconduct
+232,penalty,Cross checking,Korbinian Holzer,Erik Cernak,[ 68. -34.],3,04:31,ANA,TBL,TBL,14,ANA,24,5,2,8473560,8478416.0,2019020353,,2019-11-25,Korbinian Holzer Cross checking against Erik Cernak
+247,penalty,Roughing,Pat Maroon,Derek Grant,[-89.  30.],3,00:00,TBL,ANA,TBL,14,ANA,24,6,2,8474034,8474683.0,2019020353,,2019-11-25,Pat Maroon Roughing against Derek Grant
+248,penalty,Roughing,Derek Grant,Pat Maroon,[-82.  34.],3,00:00,ANA,TBL,TBL,14,ANA,24,6,2,8474683,8474034.0,2019020353,,2019-11-25,Derek Grant Roughing against Pat Maroon
+54,penalty,Holding,Nick Ritchie,Cal Clutterbuck,[-79. -11.],1,10:22,ANA,NYI,ANA,24,NYI,2,0,0,8477941,8473504.0,2019020372,,2019-11-26,Nick Ritchie Holding against Cal Clutterbuck
+83,penalty,Fighting,Scott Mayfield,Nicolas Deslauriers,[24.  0.],1,04:25,NYI,ANA,ANA,24,NYI,2,0,0,8476429,8475235.0,2019020372,,2019-11-26,Scott Mayfield Fighting against Nicolas Deslauriers
+84,penalty,Fighting,Nicolas Deslauriers,Scott Mayfield,[23. -4.],1,04:25,ANA,NYI,ANA,24,NYI,2,0,0,8475235,8476429.0,2019020372,,2019-11-26,Nicolas Deslauriers Fighting against Scott Mayfield
+85,penalty,Roughing,Nicolas Deslauriers,Sam Steel,[16.  3.],1,04:25,ANA,NYI,ANA,24,NYI,2,0,0,8475235,8479351.0,2019020372,,2019-11-26,Nicolas Deslauriers Roughing against Cal Clutterbuck served by Sam Steel
+135,penalty,Slashing,Anders Lee,Ondrej Kase,[-69.  38.],2,11:55,NYI,ANA,ANA,24,NYI,2,0,0,8475314,8478131.0,2019020372,,2019-11-26,Anders Lee Slashing against Ondrej Kase
+211,penalty,Tripping,Johnny Boychuk,Nicolas Deslauriers,[97. -4.],3,13:37,NYI,ANA,ANA,24,NYI,2,1,0,8470187,8475235.0,2019020372,,2019-11-26,Johnny Boychuk Tripping against Nicolas Deslauriers
+7,penalty,Slashing,Ondrej Kase,Oliver Ekman-Larsson,[-19. -29.],1,17:43,ANA,ARI,ARI,53,ANA,24,0,0,8478131,8475171.0,2019020386,,2019-11-28,Ondrej Kase Slashing against Oliver Ekman-Larsson
+33,penalty,Tripping,Michael Grabner,Max Jones,[ 67. -12.],1,13:12,ARI,ANA,ARI,53,ANA,24,1,1,8473546,8479368.0,2019020386,,2019-11-28,Michael Grabner Tripping against Max Jones
+155,penalty,Interference,Christian Fischer,Rickard Rakell,[84. 27.],2,07:48,ARI,ANA,ARI,53,ANA,24,2,2,8478432,8476483.0,2019020386,,2019-11-28,Christian Fischer Interference against Rickard Rakell
+156,penalty,Embellishment,Rickard Rakell,Christian Fischer,[83. 24.],2,07:48,ANA,ARI,ARI,53,ANA,24,2,2,8476483,8478432.0,2019020386,,2019-11-28,Rickard Rakell Embellishment against Christian Fischer
+183,penalty,Hooking,Barrett Hayton,Ondrej Kase,[54. 14.],2,00:00,ARI,ANA,ARI,53,ANA,24,2,2,8480849,8478131.0,2019020386,,2019-11-28,Barrett Hayton Hooking against Ondrej Kase
+220,penalty,Tripping,Jakob Chychrun,Ondrej Kase,[-75.  -8.],3,08:38,ARI,ANA,ARI,53,ANA,24,3,3,8479345,8478131.0,2019020386,,2019-11-28,Jakob Chychrun Tripping against Ondrej Kase
+258,penalty,Slashing,Max Jones,Derek Stepan,[-77.   2.],4,02:19,ANA,ARI,ARI,53,ANA,24,3,3,8479368,8474613.0,2019020386,,2019-11-28,Max Jones Slashing against Derek Stepan
+9,penalty,Fighting,Anthony Bitetto,Erik Gudbranson,[78. -6.],1,17:17,WPG,ANA,ANA,24,WPG,52,0,0,8475868,8475790.0,2019020396,,2019-11-29,Anthony Bitetto Fighting against Erik Gudbranson
+10,penalty,Fighting,Erik Gudbranson,Anthony Bitetto,[72. 12.],1,17:17,ANA,WPG,ANA,24,WPG,52,0,0,8475790,8475868.0,2019020396,,2019-11-29,Erik Gudbranson Fighting against Anthony Bitetto
+11,penalty,Interference,Anthony Bitetto,Ondrej Kase,[-16.   4.],1,17:17,WPG,ANA,ANA,24,WPG,52,0,0,8475868,8478131.0,2019020396,,2019-11-29,Anthony Bitetto Interference against Ondrej Kase
+12,penalty,Instigator,Erik Gudbranson,Anthony Bitetto,[ 68. -12.],1,17:17,ANA,WPG,ANA,24,WPG,52,0,0,8475790,8475868.0,2019020396,,2019-11-29,Erik Gudbranson Instigator against Anthony Bitetto
+13,penalty,Misconduct,Erik Gudbranson,,[ 69. -18.],1,17:17,ANA,WPG,ANA,24,WPG,52,0,0,8475790,,2019020396,,2019-11-29,Erik Gudbranson Misconduct
+52,penalty,Roughing,Joona Luoto,Jacob Larsson,[-94.  -8.],1,08:46,WPG,ANA,ANA,24,WPG,52,0,0,8481649,8478491.0,2019020396,,2019-11-29,Joona Luoto Roughing against Jacob Larsson
+60,penalty,Tripping,Neal Pionk,Max Jones,[72. 10.],1,05:30,WPG,ANA,ANA,24,WPG,52,0,0,8480145,8479368.0,2019020396,,2019-11-29,Neal Pionk Tripping against Max Jones
+78,penalty,Charging,Nick Ritchie,Neal Pionk,[ 98. -17.],1,00:32,ANA,WPG,ANA,24,WPG,52,0,0,8477941,8480145.0,2019020396,,2019-11-29,Nick Ritchie Charging against Neal Pionk
+177,penalty,Interference,Korbinian Holzer,Andrew Copp,[ 24. -38.],3,14:27,ANA,WPG,ANA,24,WPG,52,0,3,8473560,8477429.0,2019020396,,2019-11-29,Korbinian Holzer Interference against Andrew Copp
+189,penalty,Cross checking,Korbinian Holzer,Mark Scheifele,[-74. -33.],3,10:59,ANA,WPG,ANA,24,WPG,52,0,3,8473560,8476460.0,2019020396,,2019-11-29,Korbinian Holzer Cross checking against Mark Scheifele
+219,penalty,Hooking,Erik Gudbranson,Nick Ritchie,[-82.  -4.],3,03:25,ANA,WPG,ANA,24,WPG,52,0,3,8475790,8477941.0,2019020396,,2019-11-29,Erik Gudbranson Hooking against Andrew Copp served by Nick Ritchie
+220,penalty,Misconduct,Erik Gudbranson,,[-86.  -5.],3,03:25,ANA,WPG,ANA,24,WPG,52,0,3,8475790,,2019020396,,2019-11-29,Erik Gudbranson Misconduct
+30,penalty,Slashing,Tyler Toffoli,Carter Rowney,[46. 25.],1,11:59,LAK,ANA,ANA,24,LAK,26,1,0,8475726,8477240.0,2019020423,,2019-12-03,Tyler Toffoli Slashing against Carter Rowney
+117,penalty,Interference,Hampus Lindholm,Blake Lizotte,[61. 41.],2,12:07,ANA,LAK,ANA,24,LAK,26,3,1,8476854,8481481.0,2019020423,,2019-12-03,Hampus Lindholm Interference against Blake Lizotte
+124,penalty,Delay of game,Erik Gudbranson,,[83.  0.],2,10:27,ANA,LAK,ANA,24,LAK,26,3,1,8475790,,2019020423,,2019-12-03,Erik Gudbranson Delay of game
+91,penalty,Interference,Carl Hagelin,Devin Shore,[67.  4.],1,01:52,WSH,ANA,ANA,24,WSH,15,0,1,8474176,8476913.0,2019020451,,2019-12-08,Carl Hagelin Interference against Devin Shore
+114,penalty,Too many men on the ice,Sam Steel,,[-10.  40.],2,17:48,ANA,WSH,ANA,24,WSH,15,0,1,8479351,,2019020451,,2019-12-08,Too many men/ice served by Sam Steel
+122,penalty,Unsportsmanlike conduct,Erik Gudbranson,Devin Shore,[70.  2.],2,15:06,ANA,WSH,ANA,24,WSH,15,0,1,8475790,8476913.0,2019020451,,2019-12-08,Erik Gudbranson Unsportsmanlike conduct against Garnet Hathaway served by Devin Shore
+123,penalty,Misconduct,Garnet Hathaway,Erik Gudbranson,[59.  4.],2,15:06,WSH,ANA,ANA,24,WSH,15,0,1,8477903,8475790.0,2019020451,,2019-12-08,Garnet Hathaway Misconduct against Erik Gudbranson
+124,penalty,Misconduct,Erik Gudbranson,,[71.  6.],2,15:06,ANA,WSH,ANA,24,WSH,15,0,1,8475790,,2019020451,,2019-12-08,Erik Gudbranson Misconduct
+137,penalty,Fighting,Radko Gudas,Nicolas Deslauriers,[ 51. -26.],2,11:43,WSH,ANA,ANA,24,WSH,15,0,2,8475462,8475235.0,2019020451,,2019-12-08,Radko Gudas Fighting against Nicolas Deslauriers
+138,penalty,Fighting,Nicolas Deslauriers,Radko Gudas,[ 52. -13.],2,11:43,ANA,WSH,ANA,24,WSH,15,0,2,8475235,8475462.0,2019020451,,2019-12-08,Nicolas Deslauriers Fighting against Radko Gudas
+139,penalty,Misconduct,Nicolas Deslauriers,,[ 69. -19.],2,11:43,ANA,WSH,ANA,24,WSH,15,0,2,8475235,,2019020451,,2019-12-08,Nicolas Deslauriers Misconduct
+143,penalty,Hi-sticking,Cam Fowler,Jakub Vrana,[ 90. -20.],2,10:54,ANA,WSH,ANA,24,WSH,15,0,2,8475764,8477944.0,2019020451,,2019-12-08,Cam Fowler Hi-sticking against Jakub Vrana
+145,penalty,Cross checking,T.J. Oshie,Derek Grant,[-26.  40.],2,10:24,WSH,ANA,ANA,24,WSH,15,0,2,8471698,8474683.0,2019020451,,2019-12-08,T.J. Oshie Cross checking against Derek Grant
+153,penalty,Slashing,Jonas Siegenthaler,Troy Terry,[-45.  41.],2,08:20,WSH,ANA,ANA,24,WSH,15,0,2,8478399,8478873.0,2019020451,,2019-12-08,Jonas Siegenthaler Slashing against Troy Terry
+205,penalty,Fighting,Garnet Hathaway,Erik Gudbranson,[-30.   4.],3,16:54,WSH,ANA,ANA,24,WSH,15,2,3,8477903,8475790.0,2019020451,,2019-12-08,Garnet Hathaway Fighting against Erik Gudbranson
+206,penalty,Fighting,Erik Gudbranson,Garnet Hathaway,[-32.   7.],3,16:54,ANA,WSH,ANA,24,WSH,15,2,3,8475790,8477903.0,2019020451,,2019-12-08,Erik Gudbranson Fighting against Garnet Hathaway
+238,penalty,Roughing,Evgeny Kuznetsov,Derek Grant,[-90.  12.],3,10:21,WSH,ANA,ANA,24,WSH,15,2,3,8475744,8474683.0,2019020451,,2019-12-08,Evgeny Kuznetsov Roughing against Derek Grant
+239,penalty,Cross checking,Derek Grant,Evgeny Kuznetsov,[-38.  28.],3,10:21,ANA,WSH,ANA,24,WSH,15,2,3,8474683,8475744.0,2019020451,,2019-12-08,Derek Grant Cross checking against Evgeny Kuznetsov
+42,penalty,Hi-sticking,Kyle Connor,Max Comtois,[-35.  31.],1,10:01,WPG,ANA,WPG,52,ANA,24,1,1,8478398,8480031.0,2019020463,ANA,2019-12-08,Kyle Connor Hi-sticking against Max Comtois
+47,penalty,Hooking,Jakob Silfverberg,Andrew Copp,[-81.   2.],1,09:17,ANA,WPG,WPG,52,ANA,24,1,1,8475164,8477429.0,2019020463,ANA,2019-12-08,Jakob Silfverberg Hooking against Andrew Copp
+58,penalty,Fighting,Nikolaj Ehlers,Ryan Getzlaf,[59. 29.],1,05:09,WPG,ANA,WPG,52,ANA,24,1,1,8477940,8470612.0,2019020463,ANA,2019-12-08,Nikolaj Ehlers Fighting against Ryan Getzlaf
+59,penalty,Fighting,Ryan Getzlaf,Nikolaj Ehlers,[75. 24.],1,05:09,ANA,WPG,WPG,52,ANA,24,1,1,8470612,8477940.0,2019020463,ANA,2019-12-08,Ryan Getzlaf Fighting against Nikolaj Ehlers
+65,penalty,Holding,Max Comtois,Nathan Beaulieu,[99.  0.],1,04:03,ANA,WPG,WPG,52,ANA,24,1,1,8480031,8476470.0,2019020463,ANA,2019-12-08,Max Comtois Holding against Nathan Beaulieu
+114,penalty,Holding,Nicolas Deslauriers,Nikolaj Ehlers,[39. 39.],2,12:29,ANA,WPG,WPG,52,ANA,24,1,1,8475235,8477940.0,2019020463,ANA,2019-12-08,Nicolas Deslauriers Holding against Nikolaj Ehlers
+234,penalty,Tripping,Ryan Getzlaf,Andrew Copp,[  9. -26.],3,04:45,ANA,WPG,WPG,52,ANA,24,2,2,8470612,8477429.0,2019020463,ANA,2019-12-08,Ryan Getzlaf Tripping against Andrew Copp
+241,penalty,Cross checking,Adam Lowry,Ondrej Kase,[85. -1.],3,03:46,WPG,ANA,WPG,52,ANA,24,3,2,8476392,8478131.0,2019020463,ANA,2019-12-08,Adam Lowry Cross checking against Ondrej Kase
+33,penalty,Interference,Matt Dumba,Derek Grant,[85. 28.],1,10:14,MIN,ANA,MIN,30,ANA,24,0,1,8476856,8474683.0,2019020476,,2019-12-11,Matt Dumba Interference against Derek Grant
+43,penalty,Interference,Carter Rowney,Ryan Hartman,[-51.  27.],1,07:55,ANA,MIN,MIN,30,ANA,24,0,2,8477240,8477451.0,2019020476,,2019-12-11,Carter Rowney Interference against Ryan Hartman
+60,penalty,Tripping,Korbinian Holzer,Carson Soucy,[-20. -26.],1,03:56,ANA,MIN,MIN,30,ANA,24,0,2,8473560,8477369.0,2019020476,,2019-12-11,Korbinian Holzer Tripping against Carson Soucy
+61,penalty,Fighting,Ryan Hartman,Derek Grant,[-41. -18.],1,03:56,MIN,ANA,MIN,30,ANA,24,0,2,8477451,8474683.0,2019020476,,2019-12-11,Ryan Hartman Fighting against Derek Grant
+62,penalty,Fighting,Derek Grant,Ryan Hartman,[-57.  -1.],1,03:56,ANA,MIN,MIN,30,ANA,24,0,2,8474683,8477451.0,2019020476,,2019-12-11,Derek Grant Fighting against Ryan Hartman
+87,penalty,Tripping,Matt Dumba,Ryan Getzlaf,[-81. -38.],2,15:39,MIN,ANA,MIN,30,ANA,24,0,2,8476856,8470612.0,2019020476,,2019-12-11,Matt Dumba Tripping against Ryan Getzlaf
+130,penalty,Holding,Hampus Lindholm,Ryan Suter,[98.  7.],2,02:26,ANA,MIN,MIN,30,ANA,24,1,2,8476854,8470600.0,2019020476,,2019-12-11,Hampus Lindholm Holding against Ryan Suter
+156,penalty,Interference,Matt Dumba,Troy Terry,[80. 38.],3,15:25,MIN,ANA,MIN,30,ANA,24,2,2,8476856,8478873.0,2019020476,,2019-12-11,Matt Dumba Interference against Troy Terry
+199,penalty,Playing without a helmet,Hampus Lindholm,,[-65.  16.],3,05:05,ANA,MIN,MIN,30,ANA,24,2,2,8476854,,2019020476,,2019-12-11,Hampus Lindholm Playing without a helmet
+215,penalty,Tripping,Ryan Getzlaf,Ryan Donato,[79.  2.],4,04:33,ANA,MIN,MIN,30,ANA,24,2,2,8470612,8477987.0,2019020476,,2019-12-11,Ryan Getzlaf Tripping against Ryan Donato
+57,penalty,Hooking,Max Comtois,Tyler Toffoli,[ 82. -35.],1,06:35,ANA,LAK,ANA,24,LAK,26,0,0,8480031,8475726.0,2019020497,,2019-12-14,Max Comtois Hooking against Tyler Toffoli
+59,penalty,Slashing,Alex Iafallo,Josh Manson,[-71. -35.],1,06:28,LAK,ANA,ANA,24,LAK,26,0,0,8480113,8476312.0,2019020497,,2019-12-14,Alex Iafallo Slashing against Josh Manson
+110,penalty,Tripping,Derek Grant,Dustin Brown,[70. 38.],2,16:51,ANA,LAK,ANA,24,LAK,26,0,1,8474683,8470606.0,2019020497,,2019-12-14,Derek Grant Tripping against Dustin Brown
+115,penalty,Holding,Adam Henrique,Anze Kopitar,[ 26. -16.],2,15:39,ANA,LAK,ANA,24,LAK,26,0,1,8474641,8471685.0,2019020497,,2019-12-14,Adam Henrique Holding against Anze Kopitar
+141,penalty,Fighting,Kurtis MacDermid,Nicolas Deslauriers,[-23.   0.],2,09:40,LAK,ANA,ANA,24,LAK,26,0,2,8477073,8475235.0,2019020497,,2019-12-14,Kurtis MacDermid Fighting against Nicolas Deslauriers
+142,penalty,Fighting,Nicolas Deslauriers,Kurtis MacDermid,[2. 2.],2,09:40,ANA,LAK,ANA,24,LAK,26,0,2,8475235,8477073.0,2019020497,,2019-12-14,Nicolas Deslauriers Fighting against Kurtis MacDermid
+155,penalty,Slashing,Jeff Carter,Jakob Silfverberg,[-14.  -8.],2,05:12,LAK,ANA,ANA,24,LAK,26,0,2,8470604,8475164.0,2019020497,,2019-12-14,Jeff Carter Slashing against Jakob Silfverberg
+190,penalty,Cross checking,Austin Wagner,Sam Carrick,[ -5. -35.],3,16:03,LAK,ANA,ANA,24,LAK,26,0,2,8478455,8475842.0,2019020497,,2019-12-14,Austin Wagner Cross checking against Sam Carrick
+21,penalty,Hi-sticking,Adam Fox,Ryan Getzlaf,[ 83. -15.],1,13:04,NYR,ANA,ANA,24,NYR,3,0,2,8479323,8470612.0,2019020504,,2019-12-15,Adam Fox Hi-sticking against Ryan Getzlaf
+42,penalty,Interference,Sam Steel,Ryan Lindgren,[ 97. -16.],1,07:49,ANA,NYR,ANA,24,NYR,3,1,2,8479351,8479324.0,2019020504,,2019-12-15,Sam Steel Interference against Ryan Lindgren
+112,penalty,Slashing,Marc Staal,Sam Steel,[-81.  -4.],2,11:19,NYR,ANA,ANA,24,NYR,3,2,2,8471686,8479351.0,2019020504,,2019-12-15,Marc Staal Slashing against Sam Steel
+115,penalty,Holding,Jesper Fast,Hampus Lindholm,[76. 27.],2,10:36,NYR,ANA,ANA,24,NYR,3,2,2,8475855,8476854.0,2019020504,,2019-12-15,Jesper Fast Holding against Hampus Lindholm
+116,penalty,Holding,Hampus Lindholm,Jesper Fast,[58. 42.],2,10:36,ANA,NYR,ANA,24,NYR,3,2,2,8476854,8475855.0,2019020504,,2019-12-15,Hampus Lindholm Holding against Jesper Fast
+122,penalty,Tripping,Ryan Lindgren,Sam Steel,[-96.  14.],2,08:47,NYR,ANA,ANA,24,NYR,3,2,2,8479324,8479351.0,2019020504,,2019-12-15,Ryan Lindgren Tripping against Sam Steel
+225,penalty,Slashing,Cam Fowler,Pavel Buchnevich,[-79.  34.],3,08:58,ANA,NYR,ANA,24,NYR,3,2,3,8475764,8477402.0,2019020504,,2019-12-15,Cam Fowler Slashing against Pavel Buchnevich
+247,penalty,Tripping,Brady Skjei,Troy Terry,[39. 17.],3,03:11,NYR,ANA,ANA,24,NYR,3,2,3,8476869,8478873.0,2019020504,,2019-12-15,Brady Skjei Tripping against Troy Terry
+33,penalty,Hooking,Chris Stewart,Ryan Getzlaf,[69. -1.],1,13:06,PHI,ANA,PHI,4,ANA,24,0,0,8473485,8470612.0,2019020528,,2019-12-18,Chris Stewart Hooking against Ryan Getzlaf
+48,penalty,Fighting,Nicolas Deslauriers,Chris Stewart,[81. 24.],1,08:12,ANA,PHI,PHI,4,ANA,24,0,0,8475235,8473485.0,2019020528,,2019-12-18,Nicolas Deslauriers Fighting against Chris Stewart
+49,penalty,Fighting,Chris Stewart,Nicolas Deslauriers,[82. 25.],1,08:12,PHI,ANA,PHI,4,ANA,24,0,0,8473485,8475235.0,2019020528,,2019-12-18,Chris Stewart Fighting against Nicolas Deslauriers
+78,penalty,Interference,Hampus Lindholm,Claude Giroux,[72. 36.],1,01:12,ANA,PHI,PHI,4,ANA,24,0,0,8476854,8473512.0,2019020528,,2019-12-18,Hampus Lindholm Interference against Claude Giroux
+108,penalty,Hi-sticking,Hampus Lindholm,Sean Couturier,[44.  0.],2,14:20,ANA,PHI,PHI,4,ANA,24,2,0,8476854,8476461.0,2019020528,,2019-12-18,Hampus Lindholm Hi-sticking against Sean Couturier
+149,penalty,Tripping,Claude Giroux,Rickard Rakell,[ 68. -37.],2,04:04,PHI,ANA,PHI,4,ANA,24,2,0,8473512,8476483.0,2019020528,,2019-12-18,Claude Giroux Tripping against Rickard Rakell
+157,penalty,Kneeing,Nicolas Aube-Kubel,Troy Terry,[ 51. -32.],2,01:58,PHI,ANA,PHI,4,ANA,24,2,1,8477979,8478873.0,2019020528,,2019-12-18,Nicolas Aube-Kubel Kneeing against Troy Terry
+177,penalty,Boarding,Matt Niskanen,Ondrej Kase,[98. -5.],3,18:30,PHI,ANA,PHI,4,ANA,24,2,1,8471702,8478131.0,2019020528,,2019-12-18,Matt Niskanen Boarding against Ondrej Kase
+178,penalty,Roughing,Travis Konecny,Erik Gudbranson,[95. 18.],3,18:30,PHI,ANA,PHI,4,ANA,24,2,1,8478439,8475790.0,2019020528,,2019-12-18,Travis Konecny Roughing against Erik Gudbranson
+179,penalty,Roughing,Erik Gudbranson,Travis Konecny,[95. 21.],3,18:30,ANA,PHI,PHI,4,ANA,24,2,1,8475790,8478439.0,2019020528,,2019-12-18,Erik Gudbranson Roughing against Travis Konecny
+204,penalty,Tripping,Kevin Hayes,Josh Manson,[-94.  25.],3,12:20,PHI,ANA,PHI,4,ANA,24,3,1,8475763,8476312.0,2019020528,,2019-12-18,Kevin Hayes Tripping against Josh Manson
+82,penalty,Interference,Hampus Lindholm,Wayne Simmonds,[-59. -22.],2,15:21,ANA,NJD,NJD,1,ANA,24,1,1,8476854,8474190.0,2019020535,,2019-12-19,Hampus Lindholm Interference against Wayne Simmonds
+103,penalty,Interference,Michael Del Zotto,Jesper Bratt,[-83.   3.],2,10:18,ANA,NJD,NJD,1,ANA,24,1,1,8474584,8479407.0,2019020535,,2019-12-19,Michael Del Zotto Interference against Jesper Bratt
+140,penalty,Hi-sticking,Blake Coleman,Max Comtois,[ 68. -39.],2,01:31,NJD,ANA,NJD,1,ANA,24,2,1,8476399,8480031.0,2019020535,,2019-12-19,Blake Coleman Hi-sticking against Max Comtois
+142,penalty,Hooking,Cam Fowler,Nico Hischier,[ 1. 35.],2,01:03,ANA,NJD,NJD,1,ANA,24,2,1,8475764,8480002.0,2019020535,,2019-12-19,Cam Fowler Hooking against Nico Hischier
+155,penalty,Fighting,Max Comtois,Damon Severson,[-4. 36.],3,17:36,ANA,NJD,NJD,1,ANA,24,3,1,8480031,8476923.0,2019020535,,2019-12-19,Max Comtois Fighting against Damon Severson
+156,penalty,Fighting,Damon Severson,Max Comtois,[ 3. 34.],3,17:36,NJD,ANA,NJD,1,ANA,24,3,1,8476923,8480031.0,2019020535,,2019-12-19,Damon Severson Fighting against Max Comtois
+196,penalty,Tripping,Nico Hischier,Jakob Silfverberg,[-69. -39.],3,04:03,NJD,ANA,NJD,1,ANA,24,3,1,8480002,8475164.0,2019020535,,2019-12-19,Nico Hischier Tripping against Jakob Silfverberg
+210,penalty,Holding,Hampus Lindholm,Nico Hischier,[ 58. -24.],3,01:18,ANA,NJD,NJD,1,ANA,24,3,1,8476854,8480002.0,2019020535,,2019-12-19,Hampus Lindholm Holding against Nico Hischier
+39,penalty,Tripping,Casey Cizikas,Devin Shore,[-18. -24.],1,11:47,NYI,ANA,NYI,2,ANA,24,1,0,8475231,8476913.0,2019020553,,2019-12-22,Casey Cizikas Tripping against Devin Shore
+62,penalty,Tripping,Derick Brassard,Sam Steel,[ 58. -36.],1,04:44,NYI,ANA,NYI,2,ANA,24,1,0,8473544,8479351.0,2019020553,,2019-12-22,Derick Brassard Tripping against Sam Steel
+70,penalty,Tripping,Cam Fowler,Mathew Barzal,[81.  0.],1,03:16,ANA,NYI,NYI,2,ANA,24,1,1,8475764,8478445.0,2019020553,,2019-12-22,Cam Fowler Tripping against Mathew Barzal
+136,penalty,Slashing,Sam Steel,Anthony Beauvillier,[-69. -34.],2,09:20,ANA,NYI,NYI,2,ANA,24,3,3,8479351,8478463.0,2019020553,,2019-12-22,Sam Steel Slashing against Anthony Beauvillier
+157,penalty,Delay of game,Ross Johnston,,[5. 0.],2,05:19,NYI,ANA,NYI,2,ANA,24,4,4,8477527,,2019020553,,2019-12-22,Delay of Game - Bench served by Ross Johnston
+162,penalty,Tripping,Casey Cizikas,Ondrej Kase,[55.  2.],2,03:19,NYI,ANA,NYI,2,ANA,24,4,4,8475231,8478131.0,2019020553,,2019-12-22,Casey Cizikas Tripping against Ondrej Kase
+230,penalty,Tripping,Josh Manson,Anthony Beauvillier,[ 61. -38.],3,06:52,ANA,NYI,NYI,2,ANA,24,4,5,8476312,8478463.0,2019020553,,2019-12-22,Josh Manson Tripping against Anthony Beauvillier
+6,penalty,Hi-sticking,Korbinian Holzer,Artemi Panarin,[-65. -39.],1,18:27,ANA,NYR,NYR,3,ANA,24,0,0,8473560,8478550.0,2019020565,,2019-12-23,Korbinian Holzer Hi-sticking against Artemi Panarin
+71,penalty,Roughing,Max Comtois,Ryan Lindgren,[-41.  40.],1,08:07,ANA,NYR,NYR,3,ANA,24,2,1,8480031,8479324.0,2019020565,,2019-12-23,Max Comtois Roughing against Ryan Lindgren
+72,penalty,Roughing,Ryan Lindgren,Max Comtois,[-38.  39.],1,08:07,NYR,ANA,NYR,3,ANA,24,2,1,8479324,8480031.0,2019020565,,2019-12-23,Ryan Lindgren Roughing against Max Comtois
+98,penalty,Tripping,Erik Gudbranson,Artemi Panarin,[-59. -13.],1,02:04,ANA,NYR,NYR,3,ANA,24,3,1,8475790,8478550.0,2019020565,,2019-12-23,Erik Gudbranson Tripping against Artemi Panarin
+120,penalty,Hooking,Greg McKegg,Sam Steel,[-83.  10.],2,16:27,NYR,ANA,NYR,3,ANA,24,3,1,8475735,8479351.0,2019020565,,2019-12-23,Greg McKegg Hooking against Sam Steel
+144,penalty,Delaying Game - Puck over glass,Devin Shore,,[ 42. -39.],2,10:06,ANA,NYR,NYR,3,ANA,24,3,1,8476913,,2019020565,,2019-12-23,Devin Shore Delaying Game - Puck over glass
+156,penalty,Roughing,Michael Del Zotto,Brett Howden,[89. 11.],2,07:02,ANA,NYR,NYR,3,ANA,24,3,1,8474584,8479353.0,2019020565,,2019-12-23,Michael Del Zotto Roughing against Brett Howden
+157,penalty,Roughing,Brett Howden,Michael Del Zotto,[89. 14.],2,07:02,NYR,ANA,NYR,3,ANA,24,3,1,8479353,8474584.0,2019020565,,2019-12-23,Brett Howden Roughing against Michael Del Zotto
+175,penalty,Unsportsmanlike conduct,Brendan Lemieux,Erik Gudbranson,[42. 21.],2,03:16,NYR,ANA,NYR,3,ANA,24,4,1,8477962,8475790.0,2019020565,,2019-12-23,Brendan Lemieux Unsportsmanlike conduct against Erik Gudbranson
+176,penalty,Unsportsmanlike conduct,Erik Gudbranson,Nicolas Deslauriers,[53. 29.],2,03:16,ANA,NYR,NYR,3,ANA,24,4,1,8475790,8475235.0,2019020565,,2019-12-23,Erik Gudbranson Unsportsmanlike conduct against Brendan Lemieux served by Nicolas Deslauriers
+177,penalty,Misconduct,Erik Gudbranson,Brendan Lemieux,[38. 34.],2,03:16,ANA,NYR,NYR,3,ANA,24,4,1,8475790,8477962.0,2019020565,,2019-12-23,Erik Gudbranson Misconduct against Brendan Lemieux
+179,penalty,Tripping,Tony DeAngelo,Josh Manson,[-95.  14.],2,03:03,NYR,ANA,NYR,3,ANA,24,4,1,8477950,8476312.0,2019020565,,2019-12-23,Tony DeAngelo Tripping against Josh Manson
+192,penalty,Roughing,Brendan Lemieux,Chris Kreider,[-41. -23.],2,00:00,NYR,ANA,NYR,3,ANA,24,4,1,8477962,8475184.0,2019020565,,2019-12-23,Brendan Lemieux Roughing against Carter Rowney served by Chris Kreider
+193,penalty,Misconduct,Brendan Lemieux,Carter Rowney,[-39. -23.],2,00:00,NYR,ANA,NYR,3,ANA,24,4,1,8477962,8477240.0,2019020565,,2019-12-23,Brendan Lemieux Misconduct against Carter Rowney
+218,penalty,Fighting,Nicolas Deslauriers,Micheal Haley,[-82. -36.],3,14:22,ANA,NYR,NYR,3,ANA,24,5,1,8475235,8474230.0,2019020565,,2019-12-23,Nicolas Deslauriers Fighting against Micheal Haley
+219,penalty,Fighting,Micheal Haley,Nicolas Deslauriers,[-89. -29.],3,14:22,NYR,ANA,NYR,3,ANA,24,5,1,8474230,8475235.0,2019020565,,2019-12-23,Micheal Haley Fighting against Nicolas Deslauriers
+220,penalty,Slashing,Jacob Larsson,Brendan Smith,[-71. -16.],3,14:22,ANA,NYR,NYR,3,ANA,24,5,1,8478491,8474090.0,2019020565,,2019-12-23,Jacob Larsson Slashing against Brendan Smith
+248,penalty,Holding,Ryan Lindgren,Isac Lundestrom,[ 77. -38.],3,09:14,NYR,ANA,NYR,3,ANA,24,5,1,8479324,8480806.0,2019020565,,2019-12-23,Ryan Lindgren Holding against Isac Lundestrom
+263,penalty,Slashing,Josh Manson,Brendan Smith,[-11. -29.],3,04:20,ANA,NYR,NYR,3,ANA,24,5,1,8476312,8474090.0,2019020565,,2019-12-23,Josh Manson Slashing against Brendan Smith
+105,penalty,Tripping,Nate Schmidt,Adam Henrique,[-47. -38.],2,12:59,VGK,ANA,ANA,24,VGK,54,0,1,8477220,8474641.0,2019020591,,2019-12-28,Nate Schmidt Tripping against Adam Henrique
+112,penalty,Hi stick - double minor,Tomas Nosek,Ryan Getzlaf,[-17.  30.],2,11:44,VGK,ANA,ANA,24,VGK,54,0,1,8477931,8470612.0,2019020591,,2019-12-28,Tomas Nosek Hi stick - double minor against Ryan Getzlaf
+131,penalty,Hooking,Sam Steel,Brayden McNabb,[-97.   7.],2,08:28,ANA,VGK,ANA,24,VGK,54,3,1,8479351,8475188.0,2019020591,,2019-12-28,Sam Steel Hooking against Brayden McNabb
+132,penalty,Elbowing,Tomas Nosek,Ondrej Kase,[-84. -14.],2,08:28,VGK,ANA,ANA,24,VGK,54,3,1,8477931,8478131.0,2019020591,,2019-12-28,Tomas Nosek Elbowing against Ondrej Kase
+147,penalty,Roughing,Mark Stone,Ryan Getzlaf,[56. 40.],2,03:47,VGK,ANA,ANA,24,VGK,54,3,1,8475913,8470612.0,2019020591,,2019-12-28,Mark Stone Roughing against Ryan Getzlaf
+148,penalty,Roughing,Ryan Getzlaf,Mark Stone,[60. 39.],2,03:47,ANA,VGK,ANA,24,VGK,54,3,1,8470612,8475913.0,2019020591,,2019-12-28,Ryan Getzlaf Roughing against Mark Stone
+160,penalty,Tripping,Korbinian Holzer,Alex Tuch,[91. 31.],2,00:43,ANA,VGK,ANA,24,VGK,54,3,1,8473560,8477949.0,2019020591,,2019-12-28,Korbinian Holzer Tripping against Alex Tuch
+173,penalty,Kneeing,Josh Manson,Tomas Nosek,[ 16. -39.],3,16:37,ANA,VGK,ANA,24,VGK,54,3,1,8476312,8477931.0,2019020591,,2019-12-28,Josh Manson Kneeing against Tomas Nosek
+18,penalty,Holding,Josh Manson,Sean Couturier,[ 1. 34.],1,16:15,ANA,PHI,ANA,24,PHI,4,1,0,8476312,8476461.0,2019020610,,2019-12-30,Josh Manson Holding against Sean Couturier
+23,penalty,Interference,Nicolas Aube-Kubel,Ondrej Kase,[-55.  14.],1,15:04,PHI,ANA,ANA,24,PHI,4,1,0,8477979,8478131.0,2019020610,,2019-12-30,Nicolas Aube-Kubel Interference against Ondrej Kase
+76,penalty,Slashing,Mikhail Vorobyev,Nicolas Deslauriers,[ 7. 39.],1,01:54,PHI,ANA,ANA,24,PHI,4,1,1,8478844,8475235.0,2019020610,,2019-12-30,Mikhail Vorobyev Slashing against Nicolas Deslauriers
+148,penalty,Tripping,Ondrej Kase,Travis Konecny,[77.  6.],2,03:41,ANA,PHI,ANA,24,PHI,4,1,1,8478131,8478439.0,2019020610,,2019-12-30,Ondrej Kase Tripping against Travis Konecny
+188,penalty,Tripping,Mikhail Vorobyev,Korbinian Holzer,[-97.   7.],3,13:54,PHI,ANA,ANA,24,PHI,4,1,1,8478844,8473560.0,2019020610,,2019-12-30,Mikhail Vorobyev Tripping against Korbinian Holzer
+191,penalty,Boarding,Matt Niskanen,Adam Henrique,[94. 25.],3,13:04,PHI,ANA,ANA,24,PHI,4,1,1,8471702,8474641.0,2019020610,,2019-12-30,Matt Niskanen Boarding against Adam Henrique
+92,penalty,Slashing,Adam Henrique,William Karlsson,[-69.  -2.],1,02:24,ANA,VGK,VGK,54,ANA,24,1,1,8474641,8476448.0,2019020615,,2020-01-01,Adam Henrique Slashing against William Karlsson
+196,penalty,Delaying Game - Puck over glass,Deryk Engelland,,[50. 37.],3,16:22,VGK,ANA,VGK,54,ANA,24,3,1,8468674,,2019020615,,2020-01-01,Deryk Engelland Delaying Game - Puck over glass
+228,penalty,PS - Slash on breakaway,Josh Manson,Jonathan Marchessault,[-69.  -1.],3,09:05,ANA,VGK,VGK,54,ANA,24,3,1,8476312,8476539.0,2019020615,,2020-01-01,Josh Manson PS - Slash on breakaway against Jonathan Marchessault
+241,penalty,Slashing,Mark Stone,Sam Steel,[58. 28.],3,07:29,VGK,ANA,VGK,54,ANA,24,4,1,8475913,8479351.0,2019020615,,2020-01-01,Mark Stone Slashing against Sam Steel
+267,penalty,Fighting,Max Comtois,Shea Theodore,[ 87. -32.],3,00:22,ANA,VGK,VGK,54,ANA,24,5,2,8480031,8477447.0,2019020615,,2020-01-01,Max Comtois Fighting against Shea Theodore
+268,penalty,Fighting,Shea Theodore,Max Comtois,[ 86. -33.],3,00:22,VGK,ANA,VGK,54,ANA,24,5,2,8477447,8480031.0,2019020615,,2020-01-01,Shea Theodore Fighting against Max Comtois
+133,penalty,Interference,Adam Henrique,Christian Fischer,[-57.  35.],2,12:17,ANA,ARI,ARI,53,ANA,24,1,2,8474641,8478432.0,2019020636,,2020-01-03,Adam Henrique Interference against Christian Fischer
+173,penalty,Slashing,Brad Richardson,Jakob Silfverberg,[-68.  38.],2,02:23,ARI,ANA,ARI,53,ANA,24,1,2,8470755,8475164.0,2019020636,,2020-01-03,Brad Richardson Slashing against Jakob Silfverberg
+211,penalty,Slashing,Ondrej Kase,Jakob Chychrun,[-42.  40.],3,10:39,ANA,ARI,ARI,53,ANA,24,4,2,8478131,8479345.0,2019020636,,2020-01-03,Ondrej Kase Slashing against Jakob Chychrun
+215,penalty,Interference,Michael Del Zotto,Nick Schmaltz,[76.  2.],3,09:34,ANA,ARI,ARI,53,ANA,24,4,2,8474584,8477951.0,2019020636,,2020-01-03,Michael Del Zotto Interference against Nick Schmaltz
+1,penalty,Fighting,Austin Watson,Nicolas Deslauriers,[29. 24.],1,19:57,NSH,ANA,ANA,24,NSH,18,0,0,8475766,8475235.0,2019020658,,2020-01-06,Austin Watson Fighting against Nicolas Deslauriers
+2,penalty,Fighting,Nicolas Deslauriers,Austin Watson,[45. 27.],1,19:57,ANA,NSH,ANA,24,NSH,18,0,0,8475235,8475766.0,2019020658,,2020-01-06,Nicolas Deslauriers Fighting against Austin Watson
+89,penalty,Embellishment,Viktor Arvidsson,Max Jones,[26. 31.],1,00:45,NSH,ANA,ANA,24,NSH,18,1,1,8478042,8479368.0,2019020658,,2020-01-06,Viktor Arvidsson Embellishment against Max Jones
+90,penalty,Interference,Max Jones,Viktor Arvidsson,[ 8. 39.],1,00:45,ANA,NSH,ANA,24,NSH,18,1,1,8479368,8478042.0,2019020658,,2020-01-06,Max Jones Interference against Viktor Arvidsson
+105,penalty,Interference,Cam Fowler,Filip Forsberg,[ 91. -18.],2,18:02,ANA,NSH,ANA,24,NSH,18,1,1,8475764,8476887.0,2019020658,,2020-01-06,Cam Fowler Interference against Filip Forsberg
+130,penalty,Interference,Kyle Turris,Daniel Sprong,[75. 18.],2,13:24,NSH,ANA,ANA,24,NSH,18,1,2,8474068,8478466.0,2019020658,,2020-01-06,Kyle Turris Interference against Daniel Sprong
+136,penalty,Tripping,Filip Forsberg,Ryan Getzlaf,[-69.  32.],2,11:52,NSH,ANA,ANA,24,NSH,18,1,2,8476887,8470612.0,2019020658,,2020-01-06,Filip Forsberg Tripping against Ryan Getzlaf
+156,penalty,Tripping,Ryan Johansen,Isac Lundestrom,[-87.  36.],2,06:59,NSH,ANA,ANA,24,NSH,18,2,2,8475793,8480806.0,2019020658,,2020-01-06,Ryan Johansen Tripping against Isac Lundestrom
+169,penalty,Holding,Alexandre Carrier,Jakob Silfverberg,[ 20. -38.],2,03:54,NSH,ANA,ANA,24,NSH,18,3,2,8478851,8475164.0,2019020658,,2020-01-06,Alexandre Carrier Holding against Jakob Silfverberg
+188,penalty,Holding,Max Comtois,Roman Josi,[ 40. -38.],3,19:02,ANA,NSH,ANA,24,NSH,18,4,2,8480031,8474600.0,2019020658,,2020-01-06,Max Comtois Holding against Roman Josi
+265,penalty,Too many men on the ice,Rocco Grimaldi,,[ 7. 37.],3,02:30,NSH,ANA,ANA,24,NSH,18,4,4,8476428,,2019020658,,2020-01-06,Too many men/ice served by Rocco Grimaldi
+32,penalty,Hooking,Sonny Milano,Erik Gudbranson,[-71.  15.],1,14:15,CBJ,ANA,ANA,24,CBJ,29,1,0,8477947,8475790.0,2019020674,,2020-01-10,Sonny Milano Hooking against Erik Gudbranson
+101,penalty,Hooking,Ondrej Kase,Vladislav Gavrikov,[-64.  33.],2,13:33,ANA,CBJ,ANA,24,CBJ,29,2,1,8478131,8478882.0,2019020674,,2020-01-10,Ondrej Kase Hooking against Vladislav Gavrikov
+155,penalty,Delay of game,Daniel Sprong,,[-16.  42.],2,01:23,ANA,CBJ,ANA,24,CBJ,29,2,2,8478466,,2019020674,,2020-01-10,Delay of Game - Bench served by Daniel Sprong
+184,penalty,Tripping,Scott Harrington,Jacob Larsson,[78. 35.],3,12:02,CBJ,ANA,ANA,24,CBJ,29,2,3,8476449,8478491.0,2019020674,,2020-01-10,Scott Harrington Tripping against Jacob Larsson
+187,penalty,Interference,Devin Shore,David Savard,[28. 19.],3,11:21,ANA,CBJ,ANA,24,CBJ,29,2,3,8476913,8475233.0,2019020674,,2020-01-10,Devin Shore Interference against David Savard
+35,penalty,Hi-sticking,Hampus Lindholm,Jamie Benn,[67. 34.],1,10:31,ANA,DAL,ANA,24,DAL,25,0,0,8476854,8473994.0,2019020687,,2020-01-10,Hampus Lindholm Hi-sticking against Jamie Benn
+84,penalty,Interference,Ryan Getzlaf,Tyler Seguin,[ 10. -40.],2,18:25,ANA,DAL,ANA,24,DAL,25,0,1,8470612,8475794.0,2019020687,,2020-01-10,Ryan Getzlaf Interference against Tyler Seguin
+96,penalty,Hi-sticking,Max Jones,Jason Dickinson,[-82.   3.],2,16:07,ANA,DAL,ANA,24,DAL,25,0,1,8479368,8477450.0,2019020687,,2020-01-10,Max Jones Hi-sticking against Jason Dickinson
+105,penalty,Fighting,Jamie Oleksiak,Nicolas Deslauriers,[ 20. -17.],2,14:46,DAL,ANA,ANA,24,DAL,25,0,2,8476467,8475235.0,2019020687,,2020-01-10,Jamie Oleksiak Fighting against Nicolas Deslauriers
+106,penalty,Fighting,Nicolas Deslauriers,Jamie Oleksiak,[ 18. -24.],2,14:46,ANA,DAL,ANA,24,DAL,25,0,2,8475235,8476467.0,2019020687,,2020-01-10,Nicolas Deslauriers Fighting against Jamie Oleksiak
+127,penalty,Hi-sticking,Roman Polak,Ryan Getzlaf,[ 17. -40.],2,11:19,DAL,ANA,ANA,24,DAL,25,0,2,8471392,8470612.0,2019020687,,2020-01-10,Roman Polak Hi-sticking against Ryan Getzlaf
+139,penalty,Tripping,Blake Comeau,Ondrej Kase,[55. 21.],2,06:37,DAL,ANA,ANA,24,DAL,25,0,2,8471260,8478131.0,2019020687,,2020-01-10,Blake Comeau Tripping against Ondrej Kase
+194,penalty,Roughing,Radek Faksa,Max Jones,[90. -7.],3,13:30,DAL,ANA,ANA,24,DAL,25,0,2,8476889,8479368.0,2019020687,,2020-01-10,Radek Faksa Roughing against Max Jones
+195,penalty,Roughing,Max Jones,Radek Faksa,[ 90. -12.],3,13:30,ANA,DAL,ANA,24,DAL,25,0,2,8479368,8476889.0,2019020687,,2020-01-10,Max Jones Roughing against Radek Faksa
+47,penalty,Tripping,Erik Gudbranson,Drake Caggiula,[-74. -19.],1,09:03,ANA,CHI,CHI,16,ANA,24,1,1,8475790,8479465.0,2019020699,,2020-01-14,Erik Gudbranson Tripping against Drake Caggiula
+91,penalty,Delay Gm - Face-off Violation,Ryan Carpenter,,[-69.  21.],2,19:24,CHI,ANA,CHI,16,ANA,24,1,1,8477846,,2019020699,,2020-01-14,Ryan Carpenter Delay Gm - Face-off Violation
+85,penalty,Unsportsmanlike conduct,Josh Manson,David Perron,[-70.  29.],2,12:11,ANA,STL,STL,19,ANA,24,2,1,8476312,8474102.0,2019020713,,2020-01-14,Josh Manson Unsportsmanlike conduct against David Perron
+86,penalty,Unsportsmanlike conduct,David Perron,Josh Manson,[-70.  15.],2,12:11,STL,ANA,STL,19,ANA,24,2,1,8474102,8476312.0,2019020713,,2020-01-14,David Perron Unsportsmanlike conduct against Josh Manson
+95,penalty,Hooking,Max Jones,Ryan O'Reilly,[98.  2.],2,10:26,ANA,STL,STL,19,ANA,24,2,1,8479368,8475158.0,2019020713,,2020-01-14,Max Jones Hooking against Ryan O'Reilly
+159,penalty,Hooking,David Perron,Ondrej Kase,[58. 21.],3,16:27,STL,ANA,STL,19,ANA,24,3,1,8474102,8478131.0,2019020713,,2020-01-14,David Perron Hooking against Ondrej Kase
+165,penalty,Tripping,David Perron,Adam Henrique,[-4. 32.],3,14:01,STL,ANA,STL,19,ANA,24,3,1,8474102,8474641.0,2019020713,,2020-01-14,David Perron Tripping against Adam Henrique
+53,penalty,Hooking,Dante Fabbro,Chase De Leo,[-77.   0.],1,08:15,NSH,ANA,NSH,18,ANA,24,0,1,8479371,8478029.0,2019020735,,2020-01-17,Dante Fabbro Hooking against Chase De Leo
+178,penalty,Holding,Nicolas Deslauriers,Dante Fabbro,[-96.   0.],3,13:38,ANA,NSH,NSH,18,ANA,24,1,3,8475235,8479371.0,2019020735,,2020-01-17,Nicolas Deslauriers Holding against Dante Fabbro
+201,penalty,Too many men on the ice,Rocco Grimaldi,,[-14.  37.],3,05:24,NSH,ANA,NSH,18,ANA,24,1,4,8476428,,2019020735,,2020-01-17,Too many men/ice served by Rocco Grimaldi
+53,penalty,Tripping,Rickard Rakell,Jordan Staal,[65. -4.],1,11:09,ANA,CAR,CAR,12,ANA,24,1,0,8476483,8473533.0,2019020741,,2020-01-18,Rickard Rakell Tripping against Jordan Staal
+102,penalty,Hi-sticking,Jordan Staal,Cam Fowler,[68.  3.],2,19:01,CAR,ANA,CAR,12,ANA,24,1,1,8473533,8475764.0,2019020741,,2020-01-18,Jordan Staal Hi-sticking against Cam Fowler
+132,penalty,Slashing,Ryan Getzlaf,Haydn Fleury,[-91.  24.],2,12:30,ANA,CAR,CAR,12,ANA,24,1,1,8470612,8477938.0,2019020741,,2020-01-18,Ryan Getzlaf Slashing against Haydn Fleury
+187,penalty,Holding,Joel Edmundson,Jakob Silfverberg,[-86. -32.],2,00:15,CAR,ANA,CAR,12,ANA,24,1,1,8476441,8475164.0,2019020741,,2020-01-18,Joel Edmundson Holding against Jakob Silfverberg
+125,penalty,Tripping,Cam Fowler,Joe Thornton,[-92.  -8.],2,11:44,ANA,SJS,SJS,28,ANA,24,2,0,8475764,8466138.0,2019020773,,2020-01-28,Cam Fowler Tripping against Joe Thornton
+204,penalty,Interference,Melker Karlsson,Troy Terry,[70. 21.],3,14:47,SJS,ANA,SJS,28,ANA,24,4,1,8477922,8478873.0,2019020773,,2020-01-28,Melker Karlsson Interference against Troy Terry
+245,penalty,Interference,Tomas Hertl,Erik Gudbranson,[75. 17.],3,02:13,SJS,ANA,SJS,28,ANA,24,4,1,8476881,8475790.0,2019020773,,2020-01-28,Tomas Hertl Interference against Erik Gudbranson
+246,penalty,Fighting,Evander Kane,Erik Gudbranson,[49. 17.],3,02:13,SJS,ANA,SJS,28,ANA,24,4,1,8475169,8475790.0,2019020773,,2020-01-28,Evander Kane Fighting against Erik Gudbranson
+247,penalty,Fighting,Erik Gudbranson,Evander Kane,[43. 21.],3,02:13,ANA,SJS,SJS,28,ANA,24,4,1,8475790,8475169.0,2019020773,,2020-01-28,Erik Gudbranson Fighting against Evander Kane
+51,penalty,Tripping,Michael Del Zotto,Vinnie Hinostroza,[-96.  -3.],1,09:04,ANA,ARI,ANA,24,ARI,53,1,1,8474584,8476994.0,2019020779,,2020-01-30,Michael Del Zotto Tripping against Vinnie Hinostroza
+58,penalty,Tripping,Carl Soderberg,Hampus Lindholm,[-58.  39.],1,06:58,ARI,ANA,ANA,24,ARI,53,1,1,8471262,8476854.0,2019020779,,2020-01-30,Carl Soderberg Tripping against Hampus Lindholm
+62,penalty,Holding,Jakob Silfverberg,Lawson Crouse,[ 2. 30.],1,06:01,ANA,ARI,ANA,24,ARI,53,1,1,8475164,8478474.0,2019020779,,2020-01-30,Jakob Silfverberg Holding against Lawson Crouse
+89,penalty,Tripping,Max Jones,Jason Demers,[89. 35.],1,00:47,ANA,ARI,ANA,24,ARI,53,2,1,8479368,8474218.0,2019020779,,2020-01-30,Max Jones Tripping against Jason Demers
+156,penalty,Roughing,Nick Ritchie,Taylor Hall,[98. 11.],2,03:24,ANA,ARI,ANA,24,ARI,53,3,2,8477941,8475791.0,2019020779,,2020-01-30,Nick Ritchie Roughing against Taylor Hall
+163,penalty,Interference,Nick Ritchie,Jakob Chychrun,[-96.  11.],2,01:09,ANA,ARI,ANA,24,ARI,53,3,2,8477941,8479345.0,2019020779,,2020-01-30,Nick Ritchie Interference against Jakob Chychrun
+203,penalty,Interference,Nick Schmaltz,Michael Del Zotto,[-89. -15.],3,13:28,ARI,ANA,ANA,24,ARI,53,4,2,8477951,8474584.0,2019020779,,2020-01-30,Nick Schmaltz Interference against Michael Del Zotto
+229,penalty,Tripping,Clayton Keller,Josh Manson,[-47. -26.],3,04:09,ARI,ANA,ANA,24,ARI,53,4,2,8479343,8476312.0,2019020779,,2020-01-30,Clayton Keller Tripping against Josh Manson
+237,penalty,Slashing,Conor Garland,Max Jones,[-32.  34.],3,01:23,ARI,ANA,ANA,24,ARI,53,4,2,8478856,8479368.0,2019020779,,2020-01-30,Conor Garland Slashing against Max Jones
+46,penalty,Hooking,Erik Cernak,Jakob Silfverberg,[73. 40.],1,10:31,TBL,ANA,ANA,24,TBL,14,1,1,8478416,8475164.0,2019020791,,2020-02-01,Erik Cernak Hooking against Jakob Silfverberg
+104,penalty,Tripping,Victor Hedman,Michael Del Zotto,[-73.   2.],2,17:07,TBL,ANA,ANA,24,TBL,14,2,2,8475167,8474584.0,2019020791,,2020-02-01,Victor Hedman Tripping against Michael Del Zotto
+124,penalty,Holding the stick,Derek Grant,Erik Cernak,[54. 42.],2,13:39,ANA,TBL,ANA,24,TBL,14,2,2,8474683,8478416.0,2019020791,,2020-02-01,Derek Grant Holding the stick against Erik Cernak
+142,penalty,Holding,Max Jones,Erik Cernak,[ 75. -38.],2,07:39,ANA,TBL,ANA,24,TBL,14,2,2,8479368,8478416.0,2019020791,,2020-02-01,Max Jones Holding against Erik Cernak
+166,penalty,Hooking,Tyler Johnson,Ryan Getzlaf,[78.  5.],3,19:49,TBL,ANA,ANA,24,TBL,14,2,3,8474870,8470612.0,2019020791,,2020-02-01,Tyler Johnson Hooking against Ryan Getzlaf
+168,penalty,Hooking,Cam Fowler,Anthony Cirelli,[-42.   1.],3,19:37,ANA,TBL,ANA,24,TBL,14,2,3,8475764,8478519.0,2019020791,,2020-02-01,Cam Fowler Hooking against Anthony Cirelli
