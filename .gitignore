@@ -105,3 +105,4 @@ venv.bak/
 
 # scrape file
 scrape.py
+data/evolving-hockey
