@@ -1,456 +1,456 @@
-,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
-23,penalty,Hooking,Zack Smith,Taylor Hall,[ 97. -21.],1,13:42,CHI,ARI,ARI,53,CHI,16,0,0,8474250,8475791.0,Zack Smith Hooking against Taylor Hall
-27,penalty,Tripping,Clayton Keller,Jonathan Toews,[63. 31.],1,12:30,ARI,CHI,ARI,53,CHI,16,0,0,8479343,8473604.0,Clayton Keller Tripping against Jonathan Toews
-65,penalty,Tripping,Christian Fischer,Drake Caggiula,[-54. -23.],1,03:24,ARI,CHI,ARI,53,CHI,16,0,1,8478432,8479465.0,Christian Fischer Tripping against Drake Caggiula
-156,penalty,Hooking,Jakob Chychrun,Patrick Kane,[ 64. -31.],2,00:23,ARI,CHI,ARI,53,CHI,16,2,2,8479345,8474141.0,Jakob Chychrun Hooking against Patrick Kane
-194,penalty,Holding,Olli Maatta,Conor Garland,[60. 39.],3,13:12,CHI,ARI,ARI,53,CHI,16,2,2,8476874,8478856.0,Olli Maatta Holding against Conor Garland
-211,penalty,Hooking,Jonathan Toews,Clayton Keller,[-47. -37.],3,09:57,CHI,ARI,ARI,53,CHI,16,2,2,8473604,8479343.0,Jonathan Toews Hooking against Clayton Keller
-82,penalty,Hooking,Niklas Hjalmarsson,Kailer Yamamoto,[-78.  -1.],1,02:35,ARI,EDM,ARI,53,EDM,22,0,0,8471769,8479977.0,Niklas Hjalmarsson Hooking against Kailer Yamamoto
-115,penalty,Tripping,Phil Kessel,Kailer Yamamoto,[-53. -34.],2,14:40,ARI,EDM,ARI,53,EDM,22,1,0,8473548,8479977.0,Phil Kessel Tripping against Kailer Yamamoto
-132,penalty,Slashing,Adam Larsson,Carl Soderberg,[-83.   6.],2,10:01,EDM,ARI,ARI,53,EDM,22,2,0,8476457,8471262.0,Adam Larsson Slashing against Carl Soderberg
-140,penalty,Interference,Carl Soderberg,Oscar Klefbom,[-72.   3.],2,05:57,ARI,EDM,ARI,53,EDM,22,2,0,8471262,8476472.0,Carl Soderberg Interference against Oscar Klefbom
-194,penalty,Hi stick - double minor,Alex Chiasson,Carl Soderberg,[50. 17.],3,11:36,EDM,ARI,ARI,53,EDM,22,2,0,8475163,8471262.0,Alex Chiasson Hi stick - double minor against Carl Soderberg
-236,penalty,Unsportsmanlike conduct,Jakob Chychrun,Jujhar Khaira,[0. 2.],3,00:44,ARI,EDM,ARI,53,EDM,22,3,0,8479345,8476915.0,Jakob Chychrun Unsportsmanlike conduct against Jujhar Khaira
-237,penalty,Unsportsmanlike conduct,Jujhar Khaira,Jakob Chychrun,[1. 3.],3,00:44,EDM,ARI,ARI,53,EDM,22,3,0,8476915,8479345.0,Jujhar Khaira Unsportsmanlike conduct against Jakob Chychrun
-10,penalty,Hooking,Niklas Hjalmarsson,Andrei Svechnikov,[-51.   7.],1,18:10,ARI,CAR,ARI,53,CAR,12,0,0,8471769,8480830.0,Niklas Hjalmarsson Hooking against Andrei Svechnikov
-18,penalty,Hooking,Joel Edmundson,Nick Schmaltz,[57.  0.],1,15:51,CAR,ARI,ARI,53,CAR,12,0,0,8476441,8477951.0,Joel Edmundson Hooking against Nick Schmaltz
-94,penalty,Hi-sticking,Justin Williams,Aaron Ness,[ 79. -34.],2,17:41,CAR,ARI,ARI,53,CAR,12,1,0,8468508,8474604.0,Justin Williams Hi-sticking against Aaron Ness
-144,penalty,Holding,Joel Edmundson,Clayton Keller,[-90.  12.],2,07:14,CAR,ARI,ARI,53,CAR,12,2,3,8476441,8479343.0,Joel Edmundson Holding against Clayton Keller
-152,penalty,Boarding,Brad Richardson,Lucas Wallmark,[ 2. 38.],2,05:01,ARI,CAR,ARI,53,CAR,12,2,3,8470755,8478027.0,Brad Richardson Boarding against Lucas Wallmark
-157,penalty,Hooking,Jake Gardiner,Taylor Hall,[-85.   8.],2,02:57,CAR,ARI,ARI,53,CAR,12,2,3,8474581,8475791.0,Jake Gardiner Hooking against Taylor Hall
-225,penalty,Boarding,Lucas Wallmark,Aaron Ness,[-93.  -7.],3,03:45,CAR,ARI,ARI,53,CAR,12,3,4,8478027,8474604.0,Lucas Wallmark Boarding against Aaron Ness
-33,penalty,Hooking,Charlie McAvoy,Taylor Hall,[-62. -32.],1,10:51,BOS,ARI,BOS,6,ARI,53,0,0,8479325,8475791.0,Charlie McAvoy Hooking against Taylor Hall
-59,penalty,Hi-sticking,Conor Garland,Zdeno Chara,[-79. -33.],1,05:54,ARI,BOS,BOS,6,ARI,53,0,0,8478856,8465009.0,Conor Garland Hi-sticking against Zdeno Chara
-74,penalty,Hi-sticking,Jeremy Lauzon,Vinnie Hinostroza,[-91. -27.],1,02:33,BOS,ARI,BOS,6,ARI,53,0,0,8478468,8476994.0,Jeremy Lauzon Hi-sticking against Vinnie Hinostroza
-83,penalty,Match penalty,Jeremy Lauzon,Anders Bjork,[52. 38.],1,00:21,BOS,ARI,BOS,6,ARI,53,0,0,8478468,8478075.0,Jeremy Lauzon Match penalty against Derek Stepan served by Anders Bjork
-101,penalty,Roughing,Lawson Crouse,Charlie McAvoy,[79. 37.],2,15:14,ARI,BOS,BOS,6,ARI,53,0,1,8478474,8479325.0,Lawson Crouse Roughing against Charlie McAvoy
-130,penalty,Interference,Brad Richardson,Chris Wagner,[-75.   0.],2,08:01,ARI,BOS,BOS,6,ARI,53,1,1,8470755,8475780.0,Brad Richardson Interference against Chris Wagner
-140,penalty,Hooking,Niklas Hjalmarsson,Chris Wagner,[-64.   4.],2,05:47,ARI,BOS,BOS,6,ARI,53,2,1,8471769,8475780.0,Niklas Hjalmarsson Hooking against Chris Wagner
-37,penalty,Hooking,Ben Chiarot,Jakob Chychrun,[75.  1.],1,14:27,MTL,ARI,MTL,8,ARI,53,2,1,8475279,8479345.0,Ben Chiarot Hooking against Jakob Chychrun
-63,penalty,Cross checking,Nick Cousins,Jakob Chychrun,[ 12. -33.],1,08:34,MTL,ARI,MTL,8,ARI,53,2,1,8476393,8479345.0,Nick Cousins Cross checking against Jakob Chychrun
-71,penalty,Holding,Christian Dvorak,Jeff Petry,[56. 30.],1,07:04,ARI,MTL,MTL,8,ARI,53,2,1,8477989,8473507.0,Christian Dvorak Holding against Jeff Petry
-90,penalty,Hi stick - double minor,Oliver Ekman-Larsson,Nick Suzuki,[-70.  39.],1,01:52,ARI,MTL,MTL,8,ARI,53,2,1,8475171,8480018.0,Oliver Ekman-Larsson Hi stick - double minor against Nick Suzuki
-92,penalty,Tripping,Derek Stepan,Joel Armia,[-73.  23.],1,01:31,ARI,MTL,MTL,8,ARI,53,2,1,8474613,8476469.0,Derek Stepan Tripping against Joel Armia
-118,penalty,Delaying Game - Puck over glass,Clayton Keller,,[67. 41.],2,15:19,ARI,MTL,MTL,8,ARI,53,2,1,8479343,,Clayton Keller Delaying Game - Puck over glass
-125,penalty,Interference,Jonathan Drouin,Taylor Hall,[ 38. -42.],2,13:26,MTL,ARI,MTL,8,ARI,53,2,1,8477494,8475791.0,Jonathan Drouin Interference against Taylor Hall
-137,penalty,Roughing,Ben Chiarot,Conor Garland,[-82.   0.],2,11:24,MTL,ARI,MTL,8,ARI,53,2,1,8475279,8478856.0,Ben Chiarot Roughing against Conor Garland
-142,penalty,Hi-sticking,Carl Soderberg,Marco Scandella,[-79.  -2.],2,10:52,ARI,MTL,MTL,8,ARI,53,2,1,8471262,8474618.0,Carl Soderberg Hi-sticking against Marco Scandella
-221,penalty,Hooking,Brett Kulak,Conor Garland,[80. -1.],3,10:41,MTL,ARI,MTL,8,ARI,53,2,2,8476967,8478856.0,Brett Kulak Hooking against Conor Garland
-248,penalty,Hooking,Joel Armia,Derek Stepan,[81.  4.],3,02:23,MTL,ARI,MTL,8,ARI,53,2,2,8476469,8474613.0,Joel Armia Hooking against Derek Stepan
-43,penalty,Tripping,Jakob Chychrun,William Nylander,[ 49. -32.],1,09:57,ARI,TOR,TOR,10,ARI,53,0,1,8479345,8477939.0,Jakob Chychrun Tripping against William Nylander
-114,penalty,Slashing,Jake Muzzin,Derek Stepan,[-65.  24.],2,14:36,TOR,ARI,TOR,10,ARI,53,1,1,8474162,8474613.0,Jake Muzzin Slashing against Derek Stepan
-148,penalty,Slashing,Nick Schmaltz,Kasperi Kapanen,[86. 37.],2,06:33,ARI,TOR,TOR,10,ARI,53,1,1,8477951,8477953.0,Nick Schmaltz Slashing against Kasperi Kapanen
-218,penalty,Holding the stick,Kyle Clifford,Ilya Lyubushkin,[-75. -38.],3,10:39,TOR,ARI,TOR,10,ARI,53,2,2,8475160,8480950.0,Kyle Clifford Holding the stick against Ilya Lyubushkin
-237,penalty,Tripping,Phil Kessel,Tyson Barrie,[ 87. -21.],3,06:41,ARI,TOR,TOR,10,ARI,53,2,2,8473548,8475197.0,Phil Kessel Tripping against Tyson Barrie
-260,penalty,Tripping,Zach Hyman,Jakob Chychrun,[-65.  40.],3,00:35,TOR,ARI,TOR,10,ARI,53,2,2,8475786,8479345.0,Zach Hyman Tripping against Jakob Chychrun
-105,penalty,Tripping,Taylor Hall,Connor Brown,[63. 12.],2,19:09,ARI,OTT,OTT,9,ARI,53,2,0,8475791,8477015.0,Taylor Hall Tripping against Connor Brown
-136,penalty,Tripping,Brady Tkachuk,Jordan Oesterle,[-32.  30.],2,11:16,OTT,ARI,OTT,9,ARI,53,2,0,8480801,8477851.0,Brady Tkachuk Tripping against Jordan Oesterle
-160,penalty,Hi-sticking,Oliver Ekman-Larsson,Colin White,[-93.  25.],2,07:05,ARI,OTT,OTT,9,ARI,53,2,0,8475171,8478400.0,Oliver Ekman-Larsson Hi-sticking against Colin White
-173,penalty,Hooking,Nikita Zaitsev,Phil Kessel,[81. -5.],2,03:29,OTT,ARI,OTT,9,ARI,53,2,0,8479458,8473548.0,Nikita Zaitsev Hooking against Phil Kessel
-280,penalty,Too many men on the ice,Nick Schmaltz,,[ 8. 38.],3,01:53,ARI,OTT,OTT,9,ARI,53,3,2,8477951,,Too many men/ice served by Nick Schmaltz
-8,penalty,Delaying Game - Puck over glass,Vinnie Hinostroza,,[-18. -41.],1,18:06,ARI,WSH,ARI,53,WSH,15,0,0,8476994,,Vinnie Hinostroza Delaying Game - Puck over glass
-71,penalty,Holding,Lars Eller,Taylor Hall,[59. 23.],1,08:08,WSH,ARI,ARI,53,WSH,15,0,0,8474189,8475791.0,Lars Eller Holding against Taylor Hall
-111,penalty,Tripping,Brad Richardson,Alex Ovechkin,[  9. -10.],2,19:32,ARI,WSH,ARI,53,WSH,15,0,0,8470755,8471214.0,Brad Richardson Tripping against Alex Ovechkin
-121,penalty,Roughing,Tom Wilson,Taylor Hall,[-93. -12.],2,17:04,WSH,ARI,ARI,53,WSH,15,0,0,8476880,8475791.0,Tom Wilson Roughing against Taylor Hall
-220,penalty,Tripping,Michal Kempny,Christian Fischer,[ -4. -22.],3,16:32,WSH,ARI,ARI,53,WSH,15,1,1,8479482,8478432.0,Michal Kempny Tripping against Christian Fischer
-246,penalty,Holding,Oliver Ekman-Larsson,Tom Wilson,[-79.  -2.],3,09:29,ARI,WSH,ARI,53,WSH,15,2,1,8475171,8476880.0,Oliver Ekman-Larsson Holding against Tom Wilson
-5,penalty,Hooking,Brock Nelson,Oliver Ekman-Larsson,[-96.  17.],1,19:37,NYI,ARI,ARI,53,NYI,2,0,0,8475754,8475171.0,Brock Nelson Hooking against Oliver Ekman-Larsson
-73,penalty,Tripping,Oliver Ekman-Larsson,Anders Lee,[-71. -36.],1,05:05,ARI,NYI,ARI,53,NYI,2,1,0,8475171,8475314.0,Oliver Ekman-Larsson Tripping against Anders Lee
-125,penalty,Boarding,Christian Fischer,Jordan Eberle,[-26. -38.],2,13:25,ARI,NYI,ARI,53,NYI,2,1,0,8478432,8474586.0,Christian Fischer Boarding against Jordan Eberle
-137,penalty,Tripping,Devon Toews,Nick Schmaltz,[-75.  37.],2,09:27,NYI,ARI,ARI,53,NYI,2,1,0,8478038,8477951.0,Devon Toews Tripping against Nick Schmaltz
-148,penalty,Tripping,Clayton Keller,Derick Brassard,[-22. -26.],2,05:05,ARI,NYI,ARI,53,NYI,2,1,0,8479343,8473544.0,Clayton Keller Tripping against Derick Brassard
-4,penalty,Hi-sticking,Jakob Chychrun,Jason Dickinson,[-7. 34.],1,19:09,ARI,DAL,DAL,25,ARI,53,0,0,8479345,8477450.0,Jakob Chychrun Hi-sticking against Jason Dickinson
-71,penalty,Holding,Joe Pavelski,Conor Garland,[82. -6.],1,03:39,DAL,ARI,DAL,25,ARI,53,1,0,8470794,8478856.0,Joe Pavelski Holding against Conor Garland
-129,penalty,Cross checking,Corey Perry,Alex Goligoski,[-4. 24.],2,11:24,DAL,ARI,DAL,25,ARI,53,1,0,8470621,8471274.0,Corey Perry Cross checking against Alex Goligoski
-130,penalty,Slashing,Alex Goligoski,Corey Perry,[12. 19.],2,11:24,ARI,DAL,DAL,25,ARI,53,1,0,8471274,8470621.0,Alex Goligoski Slashing against Corey Perry
-137,penalty,Boarding,Jamie Benn,Corey Perry,[-73.  41.],2,09:33,DAL,ARI,DAL,25,ARI,53,1,0,8473994,8470621.0,Jamie Benn Boarding against Oliver Ekman-Larsson served by Corey Perry
-138,penalty,Game misconduct,Jamie Benn,Oliver Ekman-Larsson,[-67.  38.],2,09:33,DAL,ARI,DAL,25,ARI,53,1,0,8473994,8475171.0,Jamie Benn Game misconduct against Oliver Ekman-Larsson
-149,penalty,Hooking,Carl Soderberg,Jamie Oleksiak,[-97.   5.],2,05:48,ARI,DAL,DAL,25,ARI,53,1,1,8471262,8476467.0,Carl Soderberg Hooking against Jamie Oleksiak
-6,penalty,Tripping,Lawson Crouse,Robert Thomas,[97.  3.],1,17:49,ARI,STL,STL,19,ARI,53,0,0,8478474,8480023.0,Lawson Crouse Tripping against Robert Thomas
-29,penalty,Holding,Justin Faulk,Brad Richardson,[-47. -38.],1,11:29,STL,ARI,STL,19,ARI,53,0,0,8475753,8470755.0,Justin Faulk Holding against Brad Richardson
-32,penalty,Slashing,Oskar Sundqvist,Jordan Oesterle,[-51.  40.],1,10:22,STL,ARI,STL,19,ARI,53,0,0,8476897,8477851.0,Oskar Sundqvist Slashing against Jordan Oesterle
-105,penalty,Cross checking,Jordan Oesterle,Carl Gunnarsson,[-80.  -2.],2,11:06,ARI,STL,STL,19,ARI,53,0,0,8477851,8474125.0,Jordan Oesterle Cross checking against Carl Gunnarsson
-137,penalty,Tripping,Alex Pietrangelo,Barrett Hayton,[38. 24.],2,03:29,STL,ARI,STL,19,ARI,53,0,0,8474565,8480849.0,Alex Pietrangelo Tripping against Barrett Hayton
-197,penalty,Hi-sticking,Conor Garland,Oskar Sundqvist,[98.  1.],3,07:34,ARI,STL,STL,19,ARI,53,1,0,8478856,8476897.0,Conor Garland Hi-sticking against Oskar Sundqvist
-104,penalty,Tripping,Mikhail Sergachev,Taylor Hall,[-61.  -7.],2,16:01,TBL,ARI,ARI,53,TBL,14,2,1,8479410,8475791.0,Mikhail Sergachev Tripping against Taylor Hall
-168,penalty,Holding,Cameron Gaunce,Lawson Crouse,[-79.   0.],2,03:06,TBL,ARI,ARI,53,TBL,14,4,3,8474611,8478474.0,Cameron Gaunce Holding against Lawson Crouse
-219,penalty,Tripping,Nikita Kucherov,Taylor Hall,[36. 32.],3,12:43,TBL,ARI,ARI,53,TBL,14,4,3,8476453,8475791.0,Nikita Kucherov Tripping against Taylor Hall
-224,penalty,Interference,Jordan Oesterle,Anthony Cirelli,[50.  5.],3,12:09,ARI,TBL,ARI,53,TBL,14,4,3,8477851,8478519.0,Jordan Oesterle Interference against Anthony Cirelli
-251,penalty,Holding,Victor Hedman,Vinnie Hinostroza,[66. -4.],3,05:51,TBL,ARI,ARI,53,TBL,14,5,3,8475167,8476994.0,Victor Hedman Holding against Vinnie Hinostroza
-255,penalty,Missing key [PD_151],Carter Verhaeghe,,[12. 39.],3,05:32,TBL,ARI,ARI,53,TBL,14,6,3,8477409,,Delaying Game - Unsucc. chlg served by Carter Verhaeghe
-53,penalty,Tripping,Barrett Hayton,Frank Vatrano,[-14.  20.],1,06:17,ARI,FLA,ARI,53,FLA,13,0,0,8480849,8478366.0,Barrett Hayton Tripping against Frank Vatrano
-207,penalty,Tripping,Oliver Ekman-Larsson,Evgenii Dadonov,[-69.  -6.],3,11:58,ARI,FLA,ARI,53,FLA,13,1,1,8475171,8474149.0,Oliver Ekman-Larsson Tripping against Evgenii Dadonov
-17,penalty,Hi-sticking,Rasmus Dahlin,Clayton Keller,[52. 17.],1,15:55,BUF,ARI,ARI,53,BUF,7,0,0,8480839,8479343.0,Rasmus Dahlin Hi-sticking against Clayton Keller
-46,penalty,Tripping,Victor Olofsson,Oliver Ekman-Larsson,[37. 18.],1,09:37,BUF,ARI,ARI,53,BUF,7,0,2,8478109,8475171.0,Victor Olofsson Tripping against Oliver Ekman-Larsson
-52,penalty,Slashing,Niklas Hjalmarsson,Jimmy Vesey,[-83.  12.],1,06:47,ARI,BUF,ARI,53,BUF,7,0,2,8471769,8476918.0,Niklas Hjalmarsson Slashing against Jimmy Vesey
-233,penalty,Hooking,Niklas Hjalmarsson,Sam Reinhart,[-75. -31.],3,02:14,ARI,BUF,ARI,53,BUF,7,4,2,8471769,8477933.0,Niklas Hjalmarsson Hooking against Sam Reinhart
-30,penalty,Tripping,Quinn Hughes,Phil Kessel,[ 33. -22.],1,14:21,VAN,ARI,VAN,23,ARI,53,0,0,8480800,8473548.0,Quinn Hughes Tripping against Phil Kessel
-46,penalty,Delaying Game - Puck over glass,Zack MacEwen,,[45. 40.],1,10:52,VAN,ARI,VAN,23,ARI,53,0,1,8479772,,Zack MacEwen Delaying Game - Puck over glass
-111,penalty,Hooking,Jason Demers,Elias Pettersson,[76.  2.],2,17:03,ARI,VAN,VAN,23,ARI,53,0,1,8474218,8480012.0,Jason Demers Hooking against Elias Pettersson
-155,penalty,Hooking,Tyler Toffoli,Jason Demers,[67. 27.],2,07:11,VAN,ARI,VAN,23,ARI,53,0,1,8475726,8474218.0,Tyler Toffoli Hooking against Jason Demers
-173,penalty,Tripping,Alex Goligoski,J.T. Miller,[-52. -20.],2,02:34,ARI,VAN,VAN,23,ARI,53,0,1,8471274,8476468.0,Alex Goligoski Tripping against J.T. Miller
-193,penalty,Roughing,Clayton Keller,Jake Virtanen,[ 92. -32.],3,16:55,ARI,VAN,VAN,23,ARI,53,0,1,8479343,8477937.0,Clayton Keller Roughing against Jake Virtanen
-29,penalty,Hooking,Ilya Lyubushkin,Derek Ryan,[-81.  -1.],1,14:31,ARI,CGY,CGY,20,ARI,53,0,1,8480950,8478585.0,Ilya Lyubushkin Hooking against Derek Ryan
-152,penalty,Holding,Erik Gustafsson,Taylor Hall,[-89. -35.],2,11:37,CGY,ARI,CGY,20,ARI,53,3,1,8476979,8475791.0,Erik Gustafsson Holding against Taylor Hall
-198,penalty,Delaying Game - Smothering puck,Alex Goligoski,,[10. 18.],2,04:42,ARI,CGY,CGY,20,ARI,53,3,2,8471274,,Alex Goligoski Delaying Game - Smothering puck
-220,penalty,Holding,Noah Hanifin,Christian Dvorak,[-99.   2.],2,01:24,CGY,ARI,CGY,20,ARI,53,3,2,8478396,8477989.0,Noah Hanifin Holding against Christian Dvorak
-222,penalty,Hooking,Nick Schmaltz,Mark Giordano,[-88. -33.],2,01:20,ARI,CGY,CGY,20,ARI,53,3,2,8477951,8470966.0,Nick Schmaltz Hooking against Mark Giordano
-276,penalty,Hi-sticking,Mark Jankowski,Niklas Hjalmarsson,[-53.  -3.],3,09:20,CGY,ARI,CGY,20,ARI,53,3,2,8476873,8471769.0,Mark Jankowski Hi-sticking against Niklas Hjalmarsson
-285,penalty,Interference,Niklas Hjalmarsson,Matthew Tkachuk,[-48.  32.],3,06:37,ARI,CGY,CGY,20,ARI,53,3,2,8471769,8479314.0,Niklas Hjalmarsson Interference against Matthew Tkachuk
-8,penalty,Fighting,Adam Lowry,Lawson Crouse,[9. 0.],1,17:53,WPG,ARI,WPG,52,ARI,53,0,0,8476392,8478474.0,Adam Lowry Fighting against Lawson Crouse
-9,penalty,Fighting,Lawson Crouse,Adam Lowry,[5. 6.],1,17:53,ARI,WPG,WPG,52,ARI,53,0,0,8478474,8476392.0,Lawson Crouse Fighting against Adam Lowry
-70,penalty,Cross checking,Taylor Hall,Dylan DeMelo,[64. 40.],1,03:25,ARI,WPG,WPG,52,ARI,53,0,1,8475791,8476331.0,Taylor Hall Cross checking against Dylan DeMelo
-123,penalty,Tripping,Derek Stepan,Tucker Poolman,[ -7. -29.],2,10:45,ARI,WPG,WPG,52,ARI,53,1,2,8474613,8477359.0,Derek Stepan Tripping against Tucker Poolman
-192,penalty,Tripping,Dylan DeMelo,Nick Schmaltz,[63. -2.],3,15:32,WPG,ARI,WPG,52,ARI,53,2,2,8476331,8477951.0,Dylan DeMelo Tripping against Nick Schmaltz
-255,penalty,Holding,Josh Morrissey,Vinnie Hinostroza,[91. 32.],3,00:25,WPG,ARI,WPG,52,ARI,53,4,2,8477504,8476994.0,Josh Morrissey Holding against Vinnie Hinostroza
-236,penalty,Interference - Goalkeeper,Carl Soderberg,John Gibson,[-81.   5.],3,10:54,ARI,ANA,ANA,24,ARI,53,2,1,8471262,8476434.0,Carl Soderberg Interference - Goalkeeper against John Gibson
-241,penalty,Hooking,Carter Rowney,Clayton Keller,[39. 21.],3,07:46,ANA,ARI,ANA,24,ARI,53,2,1,8477240,8479343.0,Carter Rowney Hooking against Clayton Keller
-69,penalty,Interference,Charlie McAvoy,Lawson Crouse,[15. 39.],1,06:59,BOS,ARI,ARI,53,BOS,6,0,0,8479325,8478474.0,Charlie McAvoy Interference against Lawson Crouse
-146,penalty,Roughing,Connor Clifton,Lawson Crouse,[-85. -23.],2,08:55,BOS,ARI,ARI,53,BOS,6,0,1,8477365,8478474.0,Connor Clifton Roughing against Lawson Crouse
-147,penalty,Roughing,Lawson Crouse,Connor Clifton,[-75. -19.],2,08:55,ARI,BOS,ARI,53,BOS,6,0,1,8478474,8477365.0,Lawson Crouse Roughing against Connor Clifton
-173,penalty,Hi-sticking,Christian Fischer,Connor Clifton,[-96.  -6.],2,02:01,ARI,BOS,ARI,53,BOS,6,0,1,8478432,8477365.0,Christian Fischer Hi-sticking against Connor Clifton
-176,penalty,Interference,David Pastrnak,Michael Grabner,[-33.   4.],2,01:53,BOS,ARI,ARI,53,BOS,6,0,1,8477956,8473546.0,David Pastrnak Interference against Michael Grabner
-186,penalty,Interference,Karson Kuhlman,Lawson Crouse,[-68.  20.],3,19:12,BOS,ARI,ARI,53,BOS,6,0,1,8480901,8478474.0,Karson Kuhlman Interference against Lawson Crouse
-195,penalty,Slashing,Jordan Oesterle,Chris Wagner,[-66.   2.],3,16:36,ARI,BOS,ARI,53,BOS,6,0,1,8477851,8475780.0,Jordan Oesterle Slashing against Chris Wagner
-16,penalty,Tripping,Barrett Hayton,Max Pacioretty,[97.  3.],1,16:14,ARI,VGK,ARI,53,VGK,54,0,0,8480849,8474157.0,Barrett Hayton Tripping against Max Pacioretty
-46,penalty,Interference,Jon Merrill,Vinnie Hinostroza,[ 60. -39.],1,11:18,VGK,ARI,ARI,53,VGK,54,1,0,8475750,8476994.0,Jon Merrill Interference against Vinnie Hinostroza
-55,penalty,Hi-sticking,Christian Dvorak,Shea Theodore,[71.  6.],1,08:19,ARI,VGK,ARI,53,VGK,54,1,0,8477989,8477447.0,Christian Dvorak Hi-sticking against Shea Theodore
-92,penalty,Missing key [PD_151],Conor Garland,,[-20.  40.],1,00:05,ARI,VGK,ARI,53,VGK,54,2,1,8478856,,Delaying Game - Unsucc. chlg served by Conor Garland
-144,penalty,Too many men on the ice,Conor Garland,,[-12.  40.],2,05:54,ARI,VGK,ARI,53,VGK,54,3,1,8478856,,Too many men/ice served by Conor Garland
-213,penalty,Tripping,Cody Glass,Barrett Hayton,[-24.  10.],3,05:50,VGK,ARI,ARI,53,VGK,54,4,1,8479996,8480849.0,Cody Glass Tripping against Barrett Hayton
-3,penalty,Holding,Erik Johnson,Clayton Keller,[83. 11.],1,19:20,COL,ARI,COL,21,ARI,53,0,0,8473446,8479343.0,Erik Johnson Holding against Clayton Keller
-73,penalty,Slashing,Phil Kessel,Samuel Girard,[-56. -14.],2,18:48,ARI,COL,COL,21,ARI,53,0,0,8473548,8479398.0,Phil Kessel Slashing against Samuel Girard
-85,penalty,Holding,Nikita Zadorov,Barrett Hayton,[-4. -2.],2,16:12,COL,ARI,COL,21,ARI,53,0,0,8477507,8480849.0,Nikita Zadorov Holding against Barrett Hayton
-119,penalty,Slashing,Phil Kessel,Matt Calvert,[64. -4.],2,07:22,ARI,COL,COL,21,ARI,53,0,0,8473548,8474685.0,Phil Kessel Slashing against Matt Calvert
-150,penalty,Roughing,Ryan Graves,Barrett Hayton,[70. 39.],3,18:08,COL,ARI,COL,21,ARI,53,0,0,8477435,8480849.0,Ryan Graves Roughing against Barrett Hayton
-168,penalty,Tripping,Jason Demers,Mikko Rantanen,[-72.   1.],3,13:47,ARI,COL,COL,21,ARI,53,0,0,8474218,8478420.0,Jason Demers Tripping against Mikko Rantanen
-221,penalty,Delaying Game - Puck over glass,Jakob Chychrun,,[-94.  32.],3,03:23,ARI,COL,COL,21,ARI,53,2,2,8479345,,Jakob Chychrun Delaying Game - Puck over glass
-20,penalty,Hooking,Derek Stepan,David Gustafsson,[ 37. -25.],1,13:27,ARI,WPG,WPG,52,ARI,53,0,0,8474613,8481019.0,Derek Stepan Hooking against David Gustafsson
-58,penalty,Hi-sticking,Alex Goligoski,Blake Wheeler,[-72.  10.],1,06:49,ARI,WPG,WPG,52,ARI,53,1,0,8471274,8471218.0,Alex Goligoski Hi-sticking against Blake Wheeler
-97,penalty,Hi-sticking,Dmitry Kulikov,Vinnie Hinostroza,[-75. -39.],2,15:20,WPG,ARI,WPG,52,ARI,53,1,1,8475179,8476994.0,Dmitry Kulikov Hi-sticking against Vinnie Hinostroza
-103,penalty,Slashing,Mark Scheifele,Christian Dvorak,[-2. 19.],2,14:35,WPG,ARI,WPG,52,ARI,53,1,2,8476460,8477989.0,Mark Scheifele Slashing against Christian Dvorak
-118,penalty,Roughing,Brad Richardson,Nikolaj Ehlers,[-15.  39.],2,12:06,ARI,WPG,WPG,52,ARI,53,1,3,8470755,8477940.0,Brad Richardson Roughing against Nikolaj Ehlers
-190,penalty,Hi stick - double minor,Conor Garland,Patrik Laine,[-57. -36.],3,16:15,ARI,WPG,WPG,52,ARI,53,1,4,8478856,8479339.0,Conor Garland Hi stick - double minor against Patrik Laine
-219,penalty,Tripping,Nick Schmaltz,Neal Pionk,[51. 16.],3,05:44,ARI,WPG,WPG,52,ARI,53,2,4,8477951,8480145.0,Nick Schmaltz Tripping against Neal Pionk
-39,penalty,Hooking,Ryan Johansen,Phil Kessel,[-77.   4.],1,10:40,NSH,ARI,ARI,53,NSH,18,1,0,8475793,8473548.0,Ryan Johansen Hooking against Phil Kessel
-51,penalty,Hooking,Roman Josi,Jakob Chychrun,[61. 11.],1,07:47,NSH,ARI,ARI,53,NSH,18,2,0,8474600,8479345.0,Roman Josi Hooking against Jakob Chychrun
-70,penalty,Hooking,Alex Goligoski,Ryan Johansen,[-85.  11.],1,03:43,ARI,NSH,ARI,53,NSH,18,2,0,8471274,8475793.0,Alex Goligoski Hooking against Ryan Johansen
-98,penalty,Interference,Conor Garland,Ryan Johansen,[37. 21.],2,16:12,ARI,NSH,ARI,53,NSH,18,2,1,8478856,8475793.0,Conor Garland Interference against Ryan Johansen
-111,penalty,Roughing,Mikael Granlund,Brad Richardson,[91. 22.],2,12:23,NSH,ARI,ARI,53,NSH,18,2,1,8475798,8470755.0,Mikael Granlund Roughing against Brad Richardson
-112,penalty,Interference,Brad Richardson,Mikael Granlund,[86. 22.],2,12:23,ARI,NSH,ARI,53,NSH,18,2,1,8470755,8475798.0,Brad Richardson Interference against Mikael Granlund
-135,penalty,Slashing,Dan Hamhuis,Michael Grabner,[-76.   4.],2,07:12,NSH,ARI,ARI,53,NSH,18,2,1,8469465,8473546.0,Dan Hamhuis Slashing against Michael Grabner
-179,penalty,Cross checking,Yannick Weber,Conor Garland,[ 9. 36.],3,14:57,NSH,ARI,ARI,53,NSH,18,3,1,8474134,8478856.0,Yannick Weber Cross checking against Conor Garland
-193,penalty,Cross checking,Roman Josi,Clayton Keller,[ 44. -36.],3,11:51,NSH,ARI,ARI,53,NSH,18,4,1,8474600,8479343.0,Roman Josi Cross checking against Clayton Keller
-211,penalty,Interference,Kyle Capobianco,Rocco Grimaldi,[-69.  23.],3,07:29,ARI,NSH,ARI,53,NSH,18,4,1,8478476,8476428.0,Kyle Capobianco Interference against Rocco Grimaldi
-235,penalty,Tripping,Rocco Grimaldi,Kyle Capobianco,[ 3. -4.],3,02:15,NSH,ARI,ARI,53,NSH,18,5,2,8476428,8478476.0,Rocco Grimaldi Tripping against Kyle Capobianco
-18,penalty,Hooking,Jordan Szwarz,Jason Demers,[ 52. -40.],1,15:11,OTT,ARI,ARI,53,OTT,9,0,0,8475224,8474218.0,Jordan Szwarz Hooking against Jason Demers
-66,penalty,Hooking,Colin White,Michael Grabner,[96. -9.],1,03:30,OTT,ARI,ARI,53,OTT,9,2,0,8478400,8473546.0,Colin White Hooking against Michael Grabner
-138,penalty,Unsportsmanlike conduct,Anthony Duclair,,[15. 39.],2,06:14,OTT,ARI,ARI,53,OTT,9,3,0,8477407,,Anthony Duclair Unsportsmanlike conduct
-146,penalty,Holding the stick,Phil Kessel,Nikita Zaitsev,[-24. -40.],2,04:40,ARI,OTT,ARI,53,OTT,9,3,0,8473548,8479458.0,Phil Kessel Holding the stick against Nikita Zaitsev
-167,penalty,Hi stick - double minor,Connor Brown,Christian Fischer,[60. 19.],2,00:25,OTT,ARI,ARI,53,OTT,9,3,0,8477015,8478432.0,Connor Brown Hi stick - double minor against Christian Fischer
-192,penalty,Interference,Ilya Lyubushkin,Colin White,[-66. -41.],3,16:27,ARI,OTT,ARI,53,OTT,9,4,1,8480950,8478400.0,Ilya Lyubushkin Interference against Colin White
-7,penalty,Holding the stick,Adam Fox,Christian Fischer,[ 95. -24.],1,17:21,NYR,ARI,NYR,3,ARI,53,0,0,8479323,8478432.0,Adam Fox Holding the stick against Christian Fischer
-34,penalty,Cross checking,Pavel Buchnevich,Clayton Keller,[83. -3.],1,10:49,NYR,ARI,NYR,3,ARI,53,0,0,8477402,8479343.0,Pavel Buchnevich Cross checking against Clayton Keller
-139,penalty,Tripping,Pavel Buchnevich,Vinnie Hinostroza,[-69. -39.],2,08:08,NYR,ARI,NYR,3,ARI,53,1,1,8477402,8476994.0,Pavel Buchnevich Tripping against Vinnie Hinostroza
-158,penalty,Delaying Game - Puck over glass,Christian Fischer,Chris Kreider,[60.  8.],2,04:45,ARI,NYR,NYR,3,ARI,53,1,2,8478432,8475184.0,Christian Fischer Delaying Game - Puck over glass against Chris Kreider
-160,penalty,Too many men on the ice,Artemi Panarin,Conor Garland,[-12.  39.],2,03:54,ARI,NYR,NYR,3,ARI,53,1,2,8478550,8478856.0, against Artemi PanarinToo many men/ice served by Conor Garland
-200,penalty,Tripping,Ryan Strome,Lawson Crouse,[73. 11.],3,14:20,NYR,ARI,NYR,3,ARI,53,2,2,8476458,8478474.0,Ryan Strome Tripping against Lawson Crouse
-205,penalty,Delaying Game - Puck over glass,Brendan Smith,Derek Stepan,[81. -8.],3,13:56,NYR,ARI,NYR,3,ARI,53,2,2,8474090,8474613.0,Brendan Smith Delaying Game - Puck over glass against Derek Stepan
-35,penalty,Tripping,Oliver Wahlstrom,Clayton Keller,[44. 40.],1,12:09,NYI,ARI,NYI,2,ARI,53,1,0,8480789,8479343.0,Oliver Wahlstrom Tripping against Clayton Keller
-128,penalty,Tripping,Adam Pelech,Conor Garland,[96. 16.],2,11:01,NYI,ARI,NYI,2,ARI,53,1,1,8476917,8478856.0,Adam Pelech Tripping against Conor Garland
-154,penalty,Hooking,Phil Kessel,Cal Clutterbuck,[-71.   1.],2,04:54,ARI,NYI,NYI,2,ARI,53,2,1,8473548,8473504.0,Phil Kessel Hooking against Cal Clutterbuck
-158,penalty,Slashing,Mathew Barzal,Jakob Chychrun,[-82.  30.],2,04:13,NYI,ARI,NYI,2,ARI,53,2,1,8478445,8479345.0,Mathew Barzal Slashing against Jakob Chychrun
-54,penalty,Interference,Sami Vatanen,Clayton Keller,[-77.  -2.],1,06:06,NJD,ARI,NJD,1,ARI,53,0,0,8475222,8479343.0,Sami Vatanen Interference against Clayton Keller
-57,penalty,Hi-sticking,Derek Stepan,Andy Greene,[-87.  27.],1,05:37,ARI,NJD,NJD,1,ARI,53,0,0,8474613,8472382.0,Derek Stepan Hi-sticking against Andy Greene
-69,penalty,Hooking,Oliver Ekman-Larsson,Nico Hischier,[ 23. -32.],1,02:40,ARI,NJD,NJD,1,ARI,53,1,0,8475171,8480002.0,Oliver Ekman-Larsson Hooking against Nico Hischier
-86,penalty,Tripping,Carl Soderberg,Blake Coleman,[ 84. -35.],2,19:30,ARI,NJD,NJD,1,ARI,53,2,1,8471262,8476399.0,Carl Soderberg Tripping against Blake Coleman
-99,penalty,Interference,Mirco Mueller,Nick Schmaltz,[ -9. -39.],2,16:37,NJD,ARI,NJD,1,ARI,53,2,2,8477509,8477951.0,Mirco Mueller Interference against Nick Schmaltz
-107,penalty,Tripping,Ilya Lyubushkin,Kevin Rooney,[-98.  18.],2,13:06,ARI,NJD,NJD,1,ARI,53,2,2,8480950,8479291.0,Ilya Lyubushkin Tripping against Kevin Rooney
-110,penalty,Boarding,Taylor Hall,Oliver Ekman-Larsson,[-98.   6.],2,13:01,NJD,ARI,NJD,1,ARI,53,2,2,8475791,8475171.0,Taylor Hall Boarding against Oliver Ekman-Larsson
-188,penalty,Hooking,Vinnie Hinostroza,Travis Zajac,[51.  3.],3,08:46,ARI,NJD,NJD,1,ARI,53,3,4,8476994,8471233.0,Vinnie Hinostroza Hooking against Travis Zajac
-15,penalty,Tripping,Lawson Crouse,Evan Rodrigues,[88. 21.],1,16:32,ARI,BUF,BUF,7,ARI,53,0,0,8478474,8478542.0,Lawson Crouse Tripping against Evan Rodrigues
-131,penalty,Tripping,Carter Hutton,Jeff Skinner,[82.  3.],2,04:57,BUF,ARI,BUF,7,ARI,53,2,1,8475622,8475784.0,Carter Hutton Tripping against Christian Fischer served by Jeff Skinner
-139,penalty,Hooking,Rasmus Dahlin,Lawson Crouse,[ 21. -32.],2,02:56,BUF,ARI,BUF,7,ARI,53,2,2,8480839,8478474.0,Rasmus Dahlin Hooking against Lawson Crouse
-160,penalty,Hooking,Vinnie Hinostroza,Casey Mittelstadt,[ 37. -16.],3,18:13,ARI,BUF,BUF,7,ARI,53,2,2,8476994,8479999.0,Vinnie Hinostroza Hooking against Casey Mittelstadt
-27,penalty,Tripping,Ilya Lyubushkin,Jonathan Drouin,[-83. -28.],1,16:00,ARI,MTL,ARI,53,MTL,8,0,1,8480950,8477494.0,Ilya Lyubushkin Tripping against Jonathan Drouin
-58,penalty,Slashing,Tomas Tatar,Clayton Keller,[  0. -25.],1,10:11,MTL,ARI,ARI,53,MTL,8,0,1,8475193,8479343.0,Tomas Tatar Slashing against Clayton Keller
-138,penalty,Holding,Mike Reilly,Derek Stepan,[-95.   9.],2,18:06,MTL,ARI,ARI,53,MTL,8,0,2,8476422,8474613.0,Mike Reilly Holding against Derek Stepan
-173,penalty,Tripping,Jason Demers,Jeff Petry,[95. 18.],2,08:42,ARI,MTL,ARI,53,MTL,8,0,2,8474218,8473507.0,Jason Demers Tripping against Jeff Petry
-179,penalty,Hooking,Shea Weber,Derek Stepan,[-79.  -2.],2,06:46,MTL,ARI,ARI,53,MTL,8,0,2,8470642,8474613.0,Shea Weber Hooking against Derek Stepan
-20,penalty,Holding,Joonas Donskoi,Oliver Ekman-Larsson,[-97.  -5.],1,14:00,COL,ARI,ARI,53,COL,21,0,0,8475820,8475171.0,Joonas Donskoi Holding against Oliver Ekman-Larsson
-36,penalty,Tripping,Darcy Kuemper,Phil Kessel,[-88.  13.],1,11:18,ARI,COL,ARI,53,COL,21,1,0,8475311,8473548.0,Darcy Kuemper Tripping against Matt Calvert served by Phil Kessel
-99,penalty,Tripping,Clayton Keller,Pierre-Edouard Bellemare,[64. 19.],2,17:17,ARI,COL,ARI,53,COL,21,2,0,8479343,8477930.0,Clayton Keller Tripping against Pierre-Edouard Bellemare
-120,penalty,Holding,Jakob Chychrun,J.T. Compher,[77.  0.],2,12:51,ARI,COL,ARI,53,COL,21,2,0,8479345,8477456.0,Jakob Chychrun Holding against J.T. Compher
-132,penalty,Interference,Barrett Hayton,Matt Calvert,[-89. -11.],2,09:44,ARI,COL,ARI,53,COL,21,2,0,8480849,8474685.0,Barrett Hayton Interference against Matt Calvert
-143,penalty,Hooking,Erik Johnson,Barrett Hayton,[-94. -13.],2,06:10,COL,ARI,ARI,53,COL,21,2,0,8473446,8480849.0,Erik Johnson Hooking against Barrett Hayton
-152,penalty,Fighting,Nazem Kadri,Lawson Crouse,[67.  1.],2,03:17,COL,ARI,ARI,53,COL,21,3,0,8475172,8478474.0,Nazem Kadri Fighting against Lawson Crouse
-153,penalty,Fighting,Lawson Crouse,Nazem Kadri,[ 73. -11.],2,03:17,ARI,COL,ARI,53,COL,21,3,0,8478474,8475172.0,Lawson Crouse Fighting against Nazem Kadri
-154,penalty,Slashing,Lawson Crouse,Nazem Kadri,[ 72. -17.],2,03:17,ARI,COL,ARI,53,COL,21,3,0,8478474,8475172.0,Lawson Crouse Slashing against Nazem Kadri
-155,penalty,Roughing,Nazem Kadri,Lawson Crouse,[ 70. -20.],2,03:17,COL,ARI,ARI,53,COL,21,3,0,8475172,8478474.0,Nazem Kadri Roughing against Lawson Crouse
-75,penalty,Holding,Zack Kassian,Derek Stepan,[-11.  39.],2,19:38,EDM,ARI,EDM,22,ARI,53,1,1,8475178,8474613.0,Zack Kassian Holding against Derek Stepan
-135,penalty,Interference,Connor McDavid,Christian Fischer,[-11. -19.],2,07:30,EDM,ARI,EDM,22,ARI,53,1,2,8478402,8478432.0,Connor McDavid Interference against Christian Fischer
-142,penalty,Tripping,Jordan Oesterle,Matt Benning,[-56.  22.],2,04:51,ARI,EDM,EDM,22,ARI,53,1,2,8477851,8476988.0,Jordan Oesterle Tripping against Matt Benning
-167,penalty,Hooking,Carl Soderberg,Connor McDavid,[-82.  -7.],2,00:08,ARI,EDM,EDM,22,ARI,53,1,2,8471262,8478402.0,Carl Soderberg Hooking against Connor McDavid
-180,penalty,Tripping,James Neal,Jason Demers,[ 88. -14.],3,18:36,EDM,ARI,EDM,22,ARI,53,1,2,8471707,8474218.0,James Neal Tripping against Jason Demers
-8,penalty,Tripping,TJ Brodie,Conor Garland,[43. 36.],1,18:40,CGY,ARI,CGY,20,ARI,53,0,0,8474673,8478856.0,TJ Brodie Tripping against Conor Garland
-59,penalty,Interference,Ilya Lyubushkin,Matthew Tkachuk,[ 16. -18.],1,04:22,ARI,CGY,CGY,20,ARI,53,0,1,8480950,8479314.0,Ilya Lyubushkin Interference against Matthew Tkachuk
-74,penalty,Tripping,Jakob Chychrun,Elias Lindholm,[-91.   8.],1,01:23,ARI,CGY,CGY,20,ARI,53,0,1,8479345,8477496.0,Jakob Chychrun Tripping against Elias Lindholm
-91,penalty,Cross checking,Michael Frolik,Aaron Ness,[-12.  39.],2,18:23,CGY,ARI,CGY,20,ARI,53,0,1,8473564,8474604.0,Michael Frolik Cross checking against Aaron Ness
-106,penalty,Delaying Game - Puck over glass,Travis Hamonic,,[-48. -39.],2,14:30,CGY,ARI,CGY,20,ARI,53,0,2,8474612,,Travis Hamonic Delaying Game - Puck over glass
-123,penalty,Delaying Game - Puck over glass,Barrett Hayton,,[ 54. -33.],2,09:30,ARI,CGY,CGY,20,ARI,53,0,2,8480849,,Barrett Hayton Delaying Game - Puck over glass
-152,penalty,Hooking,Carl Soderberg,Matthew Tkachuk,[84.  3.],2,04:10,ARI,CGY,CGY,20,ARI,53,0,2,8471262,8479314.0,Carl Soderberg Hooking against Matthew Tkachuk
-165,penalty,Hooking,Derek Ryan,Christian Dvorak,[-72. -10.],2,01:55,CGY,ARI,CGY,20,ARI,53,1,2,8478585,8477989.0,Derek Ryan Hooking against Christian Dvorak
-185,penalty,Holding,Andrew Mangiapane,Jakob Chychrun,[-91.  30.],3,17:52,CGY,ARI,CGY,20,ARI,53,1,2,8478233,8479345.0,Andrew Mangiapane Holding against Jakob Chychrun
-190,penalty,Hooking,Oliver Ekman-Larsson,Tobias Rieder,[-73.  -1.],3,17:04,ARI,CGY,CGY,20,ARI,53,1,2,8475171,8476356.0,Oliver Ekman-Larsson Hooking against Tobias Rieder
-248,penalty,Tripping,Barrett Hayton,TJ Brodie,[ 9. 23.],3,04:10,ARI,CGY,CGY,20,ARI,53,1,3,8480849,8474673.0,Barrett Hayton Tripping against TJ Brodie
-44,penalty,Tripping,Scott Harrington,Vinnie Hinostroza,[ 27. -39.],1,11:18,CBJ,ARI,ARI,53,CBJ,29,0,1,8476449,8476994.0,Scott Harrington Tripping against Vinnie Hinostroza
-69,penalty,Tripping,Barrett Hayton,Boone Jenner,[89. 20.],1,03:25,ARI,CBJ,ARI,53,CBJ,29,1,1,8480849,8476432.0,Barrett Hayton Tripping against Boone Jenner
-83,penalty,Holding,Ilya Lyubushkin,Cam Atkinson,[-86.  20.],1,00:08,ARI,CBJ,ARI,53,CBJ,29,1,1,8480950,8474715.0,Ilya Lyubushkin Holding against Cam Atkinson
-150,penalty,Tripping,Alex Goligoski,Sonny Milano,[70. 15.],2,02:56,ARI,CBJ,ARI,53,CBJ,29,2,1,8471274,8477947.0,Alex Goligoski Tripping against Sonny Milano
-156,penalty,Roughing,Pierre-Luc Dubois,Jakob Chychrun,[96. 21.],2,01:10,CBJ,ARI,ARI,53,CBJ,29,2,2,8479400,8479345.0,Pierre-Luc Dubois Roughing against Jakob Chychrun
-157,penalty,Cross checking,Jakob Chychrun,Oliver Bjorkstrand,[65. 41.],2,01:10,ARI,CBJ,ARI,53,CBJ,29,2,2,8479345,8477416.0,Jakob Chychrun Cross checking against Oliver Bjorkstrand
-175,penalty,Interference,Alexandre Texier,Michael Grabner,[82.  4.],3,17:27,CBJ,ARI,ARI,53,CBJ,29,2,2,8480074,8473546.0,Alexandre Texier Interference against Michael Grabner
-183,penalty,Tripping,Clayton Keller,Gustav Nyquist,[-30. -38.],3,14:37,ARI,CBJ,ARI,53,CBJ,29,2,2,8479343,8474679.0,Clayton Keller Tripping against Gustav Nyquist
-226,penalty,Hooking,Vladislav Gavrikov,Clayton Keller,[ 70. -15.],3,01:48,CBJ,ARI,ARI,53,CBJ,29,2,3,8478882,8479343.0,Vladislav Gavrikov Hooking against Clayton Keller
-63,penalty,Hooking,Mikko Koivu,Lawson Crouse,[ 67. -21.],1,01:40,MIN,ARI,ARI,53,MIN,30,2,0,8469459,8478474.0,Mikko Koivu Hooking against Lawson Crouse
-83,penalty,Hooking,Jordan Oesterle,Joel Eriksson Ek,[ 91. -20.],2,17:46,ARI,MIN,ARI,53,MIN,30,2,0,8477851,8478493.0,Jordan Oesterle Hooking against Joel Eriksson Ek
-192,penalty,Cross checking,Ryan Hartman,Derek Stepan,[67.  2.],3,10:00,MIN,ARI,ARI,53,MIN,30,3,4,8477451,8474613.0,Ryan Hartman Cross checking against Derek Stepan
-224,penalty,Holding,Eric Staal,Phil Kessel,[37. 13.],3,00:12,MIN,ARI,ARI,53,MIN,30,3,4,8470595,8473548.0,Eric Staal Holding against Phil Kessel
-45,penalty,Slashing,Jakub Vrana,Jordan Oesterle,[-56. -32.],1,09:06,WSH,ARI,WSH,15,ARI,53,0,0,8477944,8477851.0,Jakub Vrana Slashing against Jordan Oesterle
-57,penalty,Hooking,Nick Schmaltz,Jakub Vrana,[-81.  -1.],1,05:00,ARI,WSH,WSH,15,ARI,53,0,1,8477951,8477944.0,Nick Schmaltz Hooking against Jakub Vrana
-161,penalty,Hooking,Jason Demers,T.J. Oshie,[76.  0.],2,00:29,ARI,WSH,WSH,15,ARI,53,1,3,8474218,8471698.0,Jason Demers Hooking against T.J. Oshie
-180,penalty,Tripping,Derek Stepan,Dmitry Orlov,[-71. -29.],3,14:27,ARI,WSH,WSH,15,ARI,53,2,3,8474613,8475200.0,Derek Stepan Tripping against Dmitry Orlov
-192,penalty,Hi-sticking,T.J. Oshie,Christian Fischer,[62. 41.],3,10:11,WSH,ARI,WSH,15,ARI,53,2,3,8471698,8478432.0,T.J. Oshie Hi-sticking against Christian Fischer
-40,penalty,Tripping,Ilya Lyubushkin,Mackenzie MacEachern,[88. 32.],1,07:29,ARI,STL,STL,19,ARI,53,0,0,8480950,8476907.0,Ilya Lyubushkin Tripping against Mackenzie MacEachern
-112,penalty,Delaying Game - Puck over glass,Jakob Chychrun,,[-76. -29.],2,12:17,ARI,STL,STL,19,ARI,53,1,1,8479345,,Jakob Chychrun Delaying Game - Puck over glass
-153,penalty,Illegal check to head,Sammy Blais,Jason Demers,[-95.   1.],2,02:02,STL,ARI,STL,19,ARI,53,2,1,8478104,8474218.0,Sammy Blais Illegal check to head against Jason Demers
-169,penalty,Tripping,Justin Faulk,Carl Soderberg,[-86.  36.],3,15:13,STL,ARI,STL,19,ARI,53,2,1,8475753,8471262.0,Justin Faulk Tripping against Carl Soderberg
-192,penalty,Tripping,Alex Goligoski,Oskar Sundqvist,[ 91. -30.],3,08:41,ARI,STL,STL,19,ARI,53,2,2,8471274,8476897.0,Alex Goligoski Tripping against Oskar Sundqvist
-222,penalty,Too many men on the ice,David Perron,,[0. 1.],4,03:31,STL,ARI,STL,19,ARI,53,2,2,8474102,,Too many men/ice served by David Perron
-27,penalty,Hooking,Alex Goligoski,Ryan Donato,[-83.   3.],1,12:17,ARI,MIN,MIN,30,ARI,53,0,0,8471274,8477987.0,Alex Goligoski Hooking against Ryan Donato
-40,penalty,Holding,Kevin Fiala,Jakob Chychrun,[-82.  38.],1,08:34,MIN,ARI,MIN,30,ARI,53,0,0,8477942,8479345.0,Kevin Fiala Holding against Jakob Chychrun
-78,penalty,Holding,Alex Goligoski,Ryan Hartman,[55. 21.],2,17:28,ARI,MIN,MIN,30,ARI,53,1,0,8471274,8477451.0,Alex Goligoski Holding against Ryan Hartman
-148,penalty,Interference,Ryan Hartman,Lawson Crouse,[56. 31.],3,16:59,MIN,ARI,MIN,30,ARI,53,1,1,8477451,8478474.0,Ryan Hartman Interference against Lawson Crouse
-155,penalty,Interference,Oliver Ekman-Larsson,Eric Staal,[-35.  35.],3,14:31,ARI,MIN,MIN,30,ARI,53,1,1,8475171,8470595.0,Oliver Ekman-Larsson Interference against Eric Staal
-188,penalty,Delaying Game - Puck over glass,Jason Zucker,,[ 35. -39.],3,05:12,MIN,ARI,MIN,30,ARI,53,3,2,8475722,,Jason Zucker Delaying Game - Puck over glass
-49,penalty,Interference,Milan Lucic,Jakob Chychrun,[-98.   6.],1,06:57,CGY,ARI,ARI,53,CGY,20,0,0,8473473,8479345.0,Milan Lucic Interference against Jakob Chychrun
-55,penalty,Tripping,Mikael Backlund,Clayton Keller,[34. 28.],1,05:01,CGY,ARI,ARI,53,CGY,20,0,0,8474150,8479343.0,Mikael Backlund Tripping against Clayton Keller
-66,penalty,Interference,Michael Grabner,Sean Monahan,[-60. -16.],1,02:28,ARI,CGY,ARI,53,CGY,20,0,0,8473546,8477497.0,Michael Grabner Interference against Sean Monahan
-82,penalty,Tripping,Michael Stone,Clayton Keller,[-61.  -9.],2,18:01,CGY,ARI,ARI,53,CGY,20,0,0,8474628,8479343.0,Michael Stone Tripping against Clayton Keller
-131,penalty,Tripping,Jason Demers,Tobias Rieder,[38. 35.],2,07:11,ARI,CGY,ARI,53,CGY,20,2,0,8474218,8476356.0,Jason Demers Tripping against Tobias Rieder
-165,penalty,Roughing,Matthew Tkachuk,Darcy Kuemper,[67. -2.],2,00:12,CGY,ARI,ARI,53,CGY,20,2,0,8479314,8475311.0,Matthew Tkachuk Roughing against Darcy Kuemper
-166,penalty,Cross checking,Johnny Gaudreau,Jason Demers,[69. -1.],2,00:12,CGY,ARI,ARI,53,CGY,20,2,0,8476346,8474218.0,Johnny Gaudreau Cross checking against Jason Demers
-167,penalty,Roughing,Matthew Tkachuk,Darcy Kuemper,[73. -3.],2,00:12,CGY,ARI,ARI,53,CGY,20,2,0,8479314,8475311.0,Matthew Tkachuk Roughing against Darcy Kuemper
-168,penalty,Roughing,Jason Demers,Mark Giordano,[71.  0.],2,00:12,ARI,CGY,ARI,53,CGY,20,2,0,8474218,8470966.0,Jason Demers Roughing against Mark Giordano
-169,penalty,Goalie leave crease,David Rittich,Rasmus Andersson,[70. -1.],2,00:12,CGY,ARI,ARI,53,CGY,20,2,0,8479496,8478397.0,David Rittich Goalie leave crease against Darcy Kuemper served by Rasmus Andersson
-170,penalty,Roughing,Darcy Kuemper,Vinnie Hinostroza,[76. -1.],2,00:12,ARI,CGY,ARI,53,CGY,20,2,0,8475311,8476994.0,Darcy Kuemper Roughing against Matthew Tkachuk served by Vinnie Hinostroza
-171,penalty,Roughing,Darcy Kuemper,Vinnie Hinostroza,[75.  0.],2,00:12,ARI,CGY,ARI,53,CGY,20,2,0,8475311,8476994.0,Darcy Kuemper Roughing against Matthew Tkachuk served by Vinnie Hinostroza
-220,penalty,Roughing,Lawson Crouse,Conor Garland,[-15.  40.],3,07:18,ARI,CGY,ARI,53,CGY,20,2,0,8478474,8478856.0,Lawson Crouse Roughing against Rasmus Andersson served by Conor Garland
-221,penalty,Roughing,Lawson Crouse,Rasmus Andersson,[-18.  39.],3,07:18,ARI,CGY,ARI,53,CGY,20,2,0,8478474,8478397.0,Lawson Crouse Roughing against Rasmus Andersson
-222,penalty,Roughing,Rasmus Andersson,Lawson Crouse,[-13.  39.],3,07:18,CGY,ARI,ARI,53,CGY,20,2,0,8478397,8478474.0,Rasmus Andersson Roughing against Lawson Crouse
-52,penalty,Interference,Ben Hutton,Lawson Crouse,[ 42. -40.],1,06:00,LAK,ARI,ARI,53,LAK,26,1,0,8477018,8478474.0,Ben Hutton Interference against Lawson Crouse
-69,penalty,Interference,Alex Iafallo,Christian Fischer,[-56. -30.],1,02:32,LAK,ARI,ARI,53,LAK,26,2,0,8480113,8478432.0,Alex Iafallo Interference against Christian Fischer
-94,penalty,Holding,Michael Grabner,Alex Iafallo,[51. 39.],2,16:51,ARI,LAK,ARI,53,LAK,26,2,0,8473546,8480113.0,Michael Grabner Holding against Alex Iafallo
-102,penalty,Slashing,Christian Dvorak,Anze Kopitar,[69.  3.],2,13:30,ARI,LAK,ARI,53,LAK,26,2,0,8477989,8471685.0,Christian Dvorak Slashing against Anze Kopitar
-120,penalty,Tripping,Nikolai Prokhorkin,Nick Schmaltz,[ 77. -40.],2,10:30,LAK,ARI,ARI,53,LAK,26,2,0,8476947,8477951.0,Nikolai Prokhorkin Tripping against Nick Schmaltz
-126,penalty,Hi-sticking,Blake Lizotte,Brad Richardson,[0. 1.],2,09:00,LAK,ARI,ARI,53,LAK,26,3,0,8481481,8470755.0,Blake Lizotte Hi-sticking against Brad Richardson
-133,penalty,Hooking,Jakob Chychrun,Kyle Clifford,[ 37. -39.],2,06:30,ARI,LAK,ARI,53,LAK,26,3,0,8479345,8475160.0,Jakob Chychrun Hooking against Kyle Clifford
-156,penalty,Tripping,Brad Richardson,Michael Amadio,[ 84. -11.],2,00:32,ARI,LAK,ARI,53,LAK,26,3,0,8470755,8478020.0,Brad Richardson Tripping against Michael Amadio
-155,penalty,Hi-sticking,William Nylander,Alex Goligoski,[94. 12.],2,04:24,TOR,ARI,ARI,53,TOR,10,0,1,8477939,8471274.0,William Nylander Hi-sticking against Alex Goligoski
-217,penalty,Hi-sticking,Jake Muzzin,Vinnie Hinostroza,[77.  3.],3,11:45,TOR,ARI,ARI,53,TOR,10,0,3,8474162,8476994.0,Jake Muzzin Hi-sticking against Vinnie Hinostroza
-236,penalty,Tripping,Morgan Rielly,Conor Garland,[97.  1.],3,06:31,TOR,ARI,ARI,53,TOR,10,0,3,8476853,8478856.0,Morgan Rielly Tripping against Conor Garland
-40,penalty,Hooking,Alex Iafallo,Conor Garland,[62. -6.],1,10:24,LAK,ARI,LAK,26,ARI,53,0,0,8480113,8478856.0,Alex Iafallo Hooking against Conor Garland
-90,penalty,Tripping,Christian Fischer,Nikolai Prokhorkin,[ 44. -26.],2,18:44,ARI,LAK,LAK,26,ARI,53,0,1,8478432,8476947.0,Christian Fischer Tripping against Nikolai Prokhorkin
-149,penalty,Hooking,Clayton Keller,Ben Hutton,[-94.   6.],2,04:04,ARI,LAK,LAK,26,ARI,53,1,2,8479343,8477018.0,Clayton Keller Hooking against Ben Hutton
-185,penalty,Hooking,Jordan Oesterle,Dustin Brown,[-81.  12.],3,13:15,ARI,LAK,LAK,26,ARI,53,1,2,8477851,8470606.0,Jordan Oesterle Hooking against Dustin Brown
-4,penalty,Too many men on the ice,Nick Schmaltz,,[-21.  39.],1,18:19,ARI,EDM,ARI,53,EDM,22,0,0,8477951,,Too many men/ice served by Nick Schmaltz
-12,penalty,Tripping,Patrick Russell,Jakob Chychrun,[-75.   3.],1,17:11,EDM,ARI,ARI,53,EDM,22,0,1,8479466,8479345.0,Patrick Russell Tripping against Jakob Chychrun
-37,penalty,Slashing,Joakim Nygard,Conor Garland,[ 56. -37.],1,12:13,EDM,ARI,ARI,53,EDM,22,0,1,8481638,8478856.0,Joakim Nygard Slashing against Conor Garland
-7,penalty,Slashing,Ondrej Kase,Oliver Ekman-Larsson,[-19. -29.],1,17:43,ANA,ARI,ARI,53,ANA,24,0,0,8478131,8475171.0,Ondrej Kase Slashing against Oliver Ekman-Larsson
-33,penalty,Tripping,Michael Grabner,Max Jones,[ 67. -12.],1,13:12,ARI,ANA,ARI,53,ANA,24,1,1,8473546,8479368.0,Michael Grabner Tripping against Max Jones
-155,penalty,Interference,Christian Fischer,Rickard Rakell,[84. 27.],2,07:48,ARI,ANA,ARI,53,ANA,24,2,2,8478432,8476483.0,Christian Fischer Interference against Rickard Rakell
-156,penalty,Embellishment,Rickard Rakell,Christian Fischer,[83. 24.],2,07:48,ANA,ARI,ARI,53,ANA,24,2,2,8476483,8478432.0,Rickard Rakell Embellishment against Christian Fischer
-183,penalty,Hooking,Barrett Hayton,Ondrej Kase,[54. 14.],2,00:00,ARI,ANA,ARI,53,ANA,24,2,2,8480849,8478131.0,Barrett Hayton Hooking against Ondrej Kase
-220,penalty,Tripping,Jakob Chychrun,Ondrej Kase,[-75.  -8.],3,08:38,ARI,ANA,ARI,53,ANA,24,3,3,8479345,8478131.0,Jakob Chychrun Tripping against Ondrej Kase
-258,penalty,Slashing,Max Jones,Derek Stepan,[-77.   2.],4,02:19,ANA,ARI,ARI,53,ANA,24,3,3,8479368,8474613.0,Max Jones Slashing against Derek Stepan
-27,penalty,Hooking,Nicolas Hague,Clayton Keller,[ 72. -40.],1,14:46,VGK,ARI,VGK,54,ARI,53,0,0,8479980,8479343.0,Nicolas Hague Hooking against Clayton Keller
-123,penalty,Delaying Game - Puck over glass,Derek Stepan,,[69. 35.],2,14:47,ARI,VGK,VGK,54,ARI,53,0,0,8474613,,Derek Stepan Delaying Game - Puck over glass
-137,penalty,Holding,Oliver Ekman-Larsson,Deryk Engelland,[80.  1.],2,10:41,ARI,VGK,VGK,54,ARI,53,1,0,8475171,8468674.0,Oliver Ekman-Larsson Holding against Deryk Engelland
-202,penalty,Tripping,Clayton Keller,Brayden McNabb,[-72.  -1.],3,13:29,ARI,VGK,VGK,54,ARI,53,1,1,8479343,8475188.0,Clayton Keller Tripping against Brayden McNabb
-229,penalty,Illegal check to head,Brad Richardson,Cody Eakin,[-93. -29.],3,07:22,ARI,VGK,VGK,54,ARI,53,1,1,8470755,8475236.0,Brad Richardson Illegal check to head against Cody Eakin
-234,penalty,Hooking,William Karlsson,Christian Dvorak,[-43.  37.],3,06:16,VGK,ARI,VGK,54,ARI,53,1,1,8476448,8477989.0,William Karlsson Hooking against Christian Dvorak
-239,penalty,Holding,Phil Kessel,Jonathan Marchessault,[-93.   3.],3,05:57,ARI,VGK,VGK,54,ARI,53,1,1,8473548,8476539.0,Phil Kessel Holding against Jonathan Marchessault
-56,penalty,Hi-sticking,Jakob Chychrun,Kevin Labanc,[-87.  29.],1,03:26,ARI,SJS,ARI,53,SJS,28,2,1,8479345,8478099.0,Jakob Chychrun Hi-sticking against Kevin Labanc
-142,penalty,Tripping,Erik Karlsson,Brad Richardson,[85.  9.],3,19:24,SJS,ARI,ARI,53,SJS,28,2,3,8474578,8470755.0,Erik Karlsson Tripping against Brad Richardson
-157,penalty,Tripping,Erik Karlsson,Clayton Keller,[83. 33.],3,13:05,SJS,ARI,ARI,53,SJS,28,2,3,8474578,8479343.0,Erik Karlsson Tripping against Clayton Keller
-161,penalty,Delaying Game - Puck over glass,Radim Simek,,[ 80. -36.],3,10:49,SJS,ARI,ARI,53,SJS,28,2,3,8480160,,Radim Simek Delaying Game - Puck over glass
-56,penalty,Holding,Vladislav Gavrikov,Lawson Crouse,[-74. -40.],1,02:14,CBJ,ARI,CBJ,29,ARI,53,0,0,8478882,8478474.0,Vladislav Gavrikov Holding against Lawson Crouse
-66,penalty,Hi stick - double minor,Jakob Chychrun,Gustav Nyquist,[-67.  41.],2,19:29,ARI,CBJ,CBJ,29,ARI,53,0,1,8479345,8474679.0,Jakob Chychrun Hi stick - double minor against Gustav Nyquist
-134,penalty,Hooking,Oliver Ekman-Larsson,Oliver Bjorkstrand,[-93.  26.],2,00:36,ARI,CBJ,CBJ,29,ARI,53,1,3,8475171,8477416.0,Oliver Ekman-Larsson Hooking against Oliver Bjorkstrand
-13,penalty,Slashing,Claude Giroux,Lawson Crouse,[68. 24.],1,17:56,PHI,ARI,PHI,4,ARI,53,0,0,8473512,8478474.0,Claude Giroux Slashing against Lawson Crouse
-27,penalty,Tripping,Claude Giroux,Vinnie Hinostroza,[-20. -21.],1,14:07,PHI,ARI,PHI,4,ARI,53,0,1,8473512,8476994.0,Claude Giroux Tripping against Vinnie Hinostroza
-42,penalty,Tripping,Jakob Chychrun,Jakub Voracek,[-97.   3.],1,10:17,ARI,PHI,PHI,4,ARI,53,0,1,8479345,8474161.0,Jakob Chychrun Tripping against Jakub Voracek
-117,penalty,Hi-sticking,Philippe Myers,Michael Grabner,[-42.  -9.],2,11:58,PHI,ARI,PHI,4,ARI,53,0,1,8479026,8473546.0,Philippe Myers Hi-sticking against Michael Grabner
-137,penalty,Interference,Jakob Chychrun,Tyler Pitlick,[97. 10.],2,05:56,ARI,PHI,PHI,4,ARI,53,0,1,8479345,8475752.0,Jakob Chychrun Interference against Tyler Pitlick
-155,penalty,Slashing,Nick Schmaltz,Philippe Myers,[-50. -20.],2,02:16,ARI,PHI,PHI,4,ARI,53,0,1,8477951,8479026.0,Nick Schmaltz Slashing against Philippe Myers
-235,penalty,Cross checking,Kevin Hayes,Oliver Ekman-Larsson,[-96.  -5.],3,02:23,PHI,ARI,PHI,4,ARI,53,1,2,8475763,8475171.0,Kevin Hayes Cross checking against Oliver Ekman-Larsson
-56,penalty,Interference,Marcus Pettersson,Christian Fischer,[-84.   1.],1,10:11,PIT,ARI,PIT,5,ARI,53,0,0,8477969,8478432.0,Marcus Pettersson Interference against Christian Fischer
-86,penalty,Slashing,Jake Guentzel,Vinnie Hinostroza,[-73.   7.],1,02:50,PIT,ARI,PIT,5,ARI,53,0,0,8477404,8476994.0,Jake Guentzel Slashing against Vinnie Hinostroza
-103,penalty,Delaying Game - Puck over glass,Vinnie Hinostroza,,[-71. -22.],2,18:05,ARI,PIT,PIT,5,ARI,53,0,0,8476994,,Vinnie Hinostroza Delaying Game - Puck over glass
-105,penalty,Cross checking,Oliver Ekman-Larsson,Jake Guentzel,[-80.  -4.],2,17:54,ARI,PIT,PIT,5,ARI,53,0,0,8475171,8477404.0,Oliver Ekman-Larsson Cross checking against Jake Guentzel
-137,penalty,Tripping,Brandon Tanev,Clayton Keller,[26.  6.],2,10:59,PIT,ARI,PIT,5,ARI,53,0,0,8479293,8479343.0,Brandon Tanev Tripping against Clayton Keller
-232,penalty,Tripping,Jake Guentzel,Vinnie Hinostroza,[63. -5.],3,08:31,PIT,ARI,PIT,5,ARI,53,1,0,8477404,8476994.0,Jake Guentzel Tripping against Vinnie Hinostroza
-271,penalty,Delaying Game - Puck over glass,Bryan Rust,,[-68.  26.],3,00:13,PIT,ARI,PIT,5,ARI,53,1,0,8475810,,Bryan Rust Delaying Game - Puck over glass
-43,penalty,Tripping,Jason Demers,Brandon Saad,[-63.  19.],1,11:47,ARI,CHI,CHI,16,ARI,53,1,0,8474218,8476438.0,Jason Demers Tripping against Brandon Saad
-98,penalty,Interference,Brent Seabrook,Vinnie Hinostroza,[95. 15.],1,00:31,CHI,ARI,CHI,16,ARI,53,3,1,8470607,8476994.0,Brent Seabrook Interference against Vinnie Hinostroza
-125,penalty,Tripping,Jonathan Toews,Alex Goligoski,[70. -6.],2,14:50,CHI,ARI,CHI,16,ARI,53,3,1,8473604,8471274.0,Jonathan Toews Tripping against Alex Goligoski
-136,penalty,Misconduct,Dennis Gilbert,Jason Demers,[94. 22.],2,12:59,CHI,ARI,CHI,16,ARI,53,3,2,8478502,8474218.0,Dennis Gilbert Misconduct against Jason Demers
-137,penalty,Fighting,Dennis Gilbert,Jason Demers,[95. 21.],2,12:59,CHI,ARI,CHI,16,ARI,53,3,2,8478502,8474218.0,Dennis Gilbert Fighting against Jason Demers
-138,penalty,Instigator,Dennis Gilbert,Dylan Sikura,[92. 26.],2,12:59,CHI,ARI,CHI,16,ARI,53,3,2,8478502,8478106.0,Dennis Gilbert Instigator against Jason Demers served by Dylan Sikura
-139,penalty,Fighting,Jason Demers,Dennis Gilbert,[93. 26.],2,12:59,ARI,CHI,CHI,16,ARI,53,3,2,8474218,8478502.0,Jason Demers Fighting against Dennis Gilbert
-185,penalty,Slashing,Slater Koekkoek,Vinnie Hinostroza,[-74.   5.],2,02:32,CHI,ARI,CHI,16,ARI,53,3,3,8476886,8476994.0,Slater Koekkoek Slashing against Vinnie Hinostroza
-234,penalty,Tripping,Calvin de Haan,Carl Soderberg,[ 96. -11.],3,12:26,CHI,ARI,CHI,16,ARI,53,3,3,8475177,8471262.0,Calvin de Haan Tripping against Carl Soderberg
-289,penalty,Hooking,Nick Schmaltz,Alex DeBrincat,[-66.   6.],4,03:00,ARI,CHI,CHI,16,ARI,53,3,3,8477951,8479337.0,Nick Schmaltz Hooking against Alex DeBrincat
-294,penalty,Slashing,Jonathan Toews,Oliver Ekman-Larsson,[ 89. -31.],4,01:25,CHI,ARI,CHI,16,ARI,53,3,3,8473604,8475171.0,Jonathan Toews Slashing against Oliver Ekman-Larsson
-83,penalty,Hooking,Clayton Keller,TJ Brodie,[ 87. -35.],1,02:03,ARI,CGY,ARI,53,CGY,20,0,2,8479343,8474673.0,Clayton Keller Hooking against TJ Brodie
-85,penalty,Cross checking,Derek Stepan,Sean Monahan,[-69.  -6.],1,01:58,ARI,CGY,ARI,53,CGY,20,0,2,8474613,8477497.0,Derek Stepan Cross checking against Sean Monahan
-86,penalty,Cross checking,Sean Monahan,Derek Stepan,[-68.  -4.],1,01:58,CGY,ARI,ARI,53,CGY,20,0,2,8477497,8474613.0,Sean Monahan Cross checking against Derek Stepan
-122,penalty,Tripping,Alex Goligoski,Zac Rinaldo,[31.  9.],2,12:34,ARI,CGY,ARI,53,CGY,20,0,3,8471274,8474736.0,Alex Goligoski Tripping against Zac Rinaldo
-226,penalty,Hi-sticking,Conor Garland,Zac Rinaldo,[25. 21.],3,06:25,ARI,CGY,ARI,53,CGY,20,1,4,8478856,8474736.0,Conor Garland Hi-sticking against Zac Rinaldo
-251,penalty,Hi-sticking,Michael Frolik,Aaron Ness,[-97. -11.],3,01:03,CGY,ARI,ARI,53,CGY,20,1,5,8473564,8474604.0,Michael Frolik Hi-sticking against Aaron Ness
-1,penalty,Tripping,Alex DeBrincat,Christian Fischer,[-19. -40.],1,19:50,CHI,ARI,ARI,53,CHI,16,0,0,8479337,8478432.0,Alex DeBrincat Tripping against Christian Fischer
-43,penalty,Tripping,Jakob Chychrun,Dylan Strome,[-87. -18.],1,09:10,ARI,CHI,ARI,53,CHI,16,2,0,8479345,8478440.0,Jakob Chychrun Tripping against Dylan Strome
-50,penalty,Hooking,Alex Nylander,Alex Goligoski,[-96. -20.],1,07:52,CHI,ARI,ARI,53,CHI,16,2,0,8479423,8471274.0,Alex Nylander Hooking against Alex Goligoski
-69,penalty,Cross checking,Zack Smith,Aaron Ness,[-79.  -2.],1,03:02,CHI,ARI,ARI,53,CHI,16,3,0,8474250,8474604.0,Zack Smith Cross checking against Aaron Ness
-95,penalty,Hooking,Nick Schmaltz,Kirby Dach,[37. 24.],2,18:22,ARI,CHI,ARI,53,CHI,16,3,0,8477951,8481523.0,Nick Schmaltz Hooking against Kirby Dach
-180,penalty,Tripping,Kirby Dach,Oliver Ekman-Larsson,[-97.  15.],3,14:26,CHI,ARI,ARI,53,CHI,16,4,1,8481523,8475171.0,Kirby Dach Tripping against Oliver Ekman-Larsson
-200,penalty,Too many men on the ice,Phil Kessel,,[-13.  39.],3,07:44,ARI,CHI,ARI,53,CHI,16,4,1,8473548,,Too many men/ice served by Phil Kessel
-26,penalty,Tripping,P.K. Subban,Carl Soderberg,[39. 39.],1,13:27,NJD,ARI,ARI,53,NJD,1,0,1,8474056,8471262.0,P.K. Subban Tripping against Carl Soderberg
-53,penalty,Holding the stick,P.K. Subban,Derek Stepan,[83.  6.],1,06:22,NJD,ARI,ARI,53,NJD,1,0,1,8474056,8474613.0,P.K. Subban Holding the stick against Derek Stepan
-82,penalty,Hi-sticking,Alex Goligoski,Miles Wood,[ -4. -40.],1,00:10,ARI,NJD,ARI,53,NJD,1,1,1,8471274,8477425.0,Alex Goligoski Hi-sticking against Miles Wood
-145,penalty,Slashing,Nick Schmaltz,Will Butcher,[-94.   7.],2,04:31,ARI,NJD,ARI,53,NJD,1,1,1,8477951,8477355.0,Nick Schmaltz Slashing against Will Butcher
-206,penalty,Slashing,Wayne Simmonds,Phil Kessel,[-60. -34.],3,11:37,NJD,ARI,ARI,53,NJD,1,1,1,8474190,8473548.0,Wayne Simmonds Slashing against Phil Kessel
-237,penalty,Tripping,Clayton Keller,Pavel Zacha,[ 55. -14.],3,04:31,ARI,NJD,ARI,53,NJD,1,1,2,8479343,8478401.0,Clayton Keller Tripping against Pavel Zacha
-46,penalty,Holding,Kevin Labanc,Ilya Lyubushkin,[89. 35.],1,06:56,SJS,ARI,SJS,28,ARI,53,0,1,8478099,8480950.0,Kevin Labanc Holding against Ilya Lyubushkin
-139,penalty,Tripping,Tomas Hertl,Ilya Lyubushkin,[-63. -38.],2,03:57,SJS,ARI,SJS,28,ARI,53,2,2,8476881,8480950.0,Tomas Hertl Tripping against Ilya Lyubushkin
-156,penalty,Cross checking,Jakob Chychrun,Evander Kane,[90. -8.],3,19:22,ARI,SJS,SJS,28,ARI,53,2,2,8479345,8475169.0,Jakob Chychrun Cross checking against Evander Kane
-177,penalty,Cross checking,Evander Kane,Nick Schmaltz,[-22.  41.],3,13:06,SJS,ARI,SJS,28,ARI,53,2,2,8475169,8477951.0,Evander Kane Cross checking against Nick Schmaltz
-192,penalty,Delay Gm - Face-off Violation,Brad Richardson,,[ 69. -22.],3,08:43,ARI,SJS,SJS,28,ARI,53,2,2,8470755,,Brad Richardson Delay Gm - Face-off Violation
-213,penalty,Playing without a helmet,Ilya Lyubushkin,,[70. 41.],3,00:59,ARI,SJS,SJS,28,ARI,53,2,3,8480950,,Ilya Lyubushkin Playing without a helmet
-216,penalty,Cross checking,Brad Richardson,Tomas Hertl,[79. -1.],3,00:44,ARI,SJS,SJS,28,ARI,53,2,3,8470755,8476881.0,Brad Richardson Cross checking against Tomas Hertl
-7,penalty,Too many men on the ice,Christian Fischer,,[-13.  40.],1,18:18,ARI,MIN,ARI,53,MIN,30,0,0,8478432,,Too many men/ice served by Christian Fischer
-13,penalty,Hooking,Brad Hunt,Brad Richardson,[-9. 39.],1,16:39,MIN,ARI,ARI,53,MIN,30,0,0,8476779,8470755.0,Brad Hunt Hooking against Brad Richardson
-45,penalty,Slashing,Taylor Hall,Carson Soucy,[ 1. 38.],1,09:02,ARI,MIN,ARI,53,MIN,30,0,0,8475791,8477369.0,Taylor Hall Slashing against Carson Soucy
-46,penalty,Cross checking,Carson Soucy,Taylor Hall,[ 6. 39.],1,09:02,MIN,ARI,ARI,53,MIN,30,0,0,8477369,8475791.0,Carson Soucy Cross checking against Taylor Hall
-113,penalty,Holding,Oliver Ekman-Larsson,Ryan Donato,[  3. -31.],2,14:43,ARI,MIN,ARI,53,MIN,30,1,2,8475171,8477987.0,Oliver Ekman-Larsson Holding against Ryan Donato
-124,penalty,Hooking,Carson Soucy,Derek Stepan,[-80.  -7.],2,11:45,MIN,ARI,ARI,53,MIN,30,1,2,8477369,8474613.0,Carson Soucy Hooking against Derek Stepan
-174,penalty,Hooking,Kevin Fiala,Oliver Ekman-Larsson,[61. 21.],2,01:17,MIN,ARI,ARI,53,MIN,30,2,4,8477942,8475171.0,Kevin Fiala Hooking against Oliver Ekman-Larsson
-190,penalty,Delaying Game - Puck over glass,Victor Rask,,[ 62. -20.],3,17:37,MIN,ARI,ARI,53,MIN,30,3,4,8476437,,Victor Rask Delaying Game - Puck over glass
-221,penalty,Hooking,Eric Staal,Oliver Ekman-Larsson,[-92. -30.],3,12:02,MIN,ARI,ARI,53,MIN,30,5,6,8470595,8475171.0,Eric Staal Hooking against Oliver Ekman-Larsson
-222,penalty,Embellishment,Oliver Ekman-Larsson,Eric Staal,[-70. -39.],3,12:02,ARI,MIN,ARI,53,MIN,30,5,6,8475171,8470595.0,Oliver Ekman-Larsson Embellishment against Eric Staal
-27,penalty,Tripping,Phil Kessel,Valtteri Filppula,[-60.  -8.],1,14:26,ARI,DET,DET,17,ARI,53,0,0,8473548,8470047.0,Phil Kessel Tripping against Valtteri Filppula
-214,penalty,Hi-sticking,Clayton Keller,Jimmy Howard,[90. -4.],3,12:04,ARI,DET,DET,17,ARI,53,0,4,8479343,8470657.0,Clayton Keller Hi-sticking against Jimmy Howard
-237,penalty,Hooking,Alex Goligoski,Robby Fabbri,[-90.  -7.],3,08:46,ARI,DET,DET,17,ARI,53,1,5,8471274,8477952.0,Alex Goligoski Hooking against Robby Fabbri
-156,penalty,Delaying Game - Puck over glass,Dante Fabbro,,[ 57. -37.],2,01:19,NSH,ARI,NSH,18,ARI,53,2,1,8479371,,Dante Fabbro Delaying Game - Puck over glass
-173,penalty,Interference,Nick Schmaltz,Calle Jarnkrok,[35. 11.],3,15:13,ARI,NSH,NSH,18,ARI,53,2,1,8477951,8475714.0,Nick Schmaltz Interference against Calle Jarnkrok
-217,penalty,Holding,Colton Sissons,Nick Schmaltz,[-47.  18.],3,00:25,NSH,ARI,NSH,18,ARI,53,3,2,8476925,8477951.0,Colton Sissons Holding against Nick Schmaltz
-20,penalty,Hi stick - double minor,Ryan Reaves,Derek Stepan,[-86.   4.],1,16:31,VGK,ARI,VGK,54,ARI,53,0,0,8471817,8474613.0,Ryan Reaves Hi stick - double minor against Derek Stepan
-30,penalty,Tripping,Taylor Hall,Tomas Nosek,[88. 36.],1,12:25,ARI,VGK,VGK,54,ARI,53,0,0,8475791,8477931.0,Taylor Hall Tripping against Tomas Nosek
-83,penalty,Holding,William Carrier,Jakob Chychrun,[-86.  33.],1,01:50,VGK,ARI,VGK,54,ARI,53,2,1,8477478,8479345.0,William Carrier Holding against Jakob Chychrun
-87,penalty,Hooking,Oliver Ekman-Larsson,Reilly Smith,[-76.   0.],1,01:29,ARI,VGK,VGK,54,ARI,53,2,1,8475171,8475191.0,Oliver Ekman-Larsson Hooking against Reilly Smith
-113,penalty,Interference,Nick Holden,Conor Garland,[45. 38.],2,16:33,VGK,ARI,VGK,54,ARI,53,4,1,8474207,8478856.0,Nick Holden Interference against Conor Garland
-143,penalty,Roughing,Christian Dvorak,Mark Stone,[28. 40.],2,09:37,ARI,VGK,VGK,54,ARI,53,4,1,8477989,8475913.0,Christian Dvorak Roughing against Mark Stone
-174,penalty,Kneeing,Max Pacioretty,Derek Stepan,[30. 33.],2,01:30,VGK,ARI,VGK,54,ARI,53,4,1,8474157,8474613.0,Max Pacioretty Kneeing against Derek Stepan
-209,penalty,Fighting,Max Pacioretty,Lawson Crouse,[-10.  41.],3,11:20,VGK,ARI,VGK,54,ARI,53,4,1,8474157,8478474.0,Max Pacioretty Fighting against Lawson Crouse
-210,penalty,Fighting,Lawson Crouse,Max Pacioretty,[-10.  41.],3,11:20,ARI,VGK,VGK,54,ARI,53,4,1,8478474,8474157.0,Lawson Crouse Fighting against Max Pacioretty
-54,penalty,Interference,Oliver Ekman-Larsson,Jamie Benn,[ 57. -27.],1,10:12,ARI,DAL,ARI,53,DAL,25,1,0,8475171,8473994.0,Oliver Ekman-Larsson Interference against Jamie Benn
-82,penalty,Cross checking,Corey Perry,Taylor Hall,[78.  0.],1,04:03,DAL,ARI,ARI,53,DAL,25,1,0,8470621,8475791.0,Corey Perry Cross checking against Taylor Hall
-95,penalty,Delaying Game - Puck over glass,Esa Lindell,,[-15. -40.],1,00:24,DAL,ARI,ARI,53,DAL,25,2,0,8476902,,Esa Lindell Delaying Game - Puck over glass
-108,penalty,Interference,Jamie Oleksiak,Derek Stepan,[-92. -21.],2,17:17,DAL,ARI,ARI,53,DAL,25,2,0,8476467,8474613.0,Jamie Oleksiak Interference against Derek Stepan
-174,penalty,Roughing,Jason Demers,Alexander Radulov,[83.  5.],2,04:02,ARI,DAL,ARI,53,DAL,25,2,0,8474218,8471228.0,Jason Demers Roughing against Alexander Radulov
-208,penalty,Slashing,Phil Kessel,Andrej Sekera,[ 40. -37.],3,16:05,ARI,DAL,ARI,53,DAL,25,2,1,8473548,8471284.0,Phil Kessel Slashing against Andrej Sekera
-273,penalty,Roughing,Blake Comeau,Oliver Ekman-Larsson,[53. 39.],3,00:11,DAL,ARI,ARI,53,DAL,25,2,4,8471260,8475171.0,Blake Comeau Roughing against Oliver Ekman-Larsson
-274,penalty,Roughing,Jamie Benn,Oliver Ekman-Larsson,[61. 36.],3,00:11,DAL,ARI,ARI,53,DAL,25,2,4,8473994,8475171.0,Jamie Benn Roughing against Oliver Ekman-Larsson
-275,penalty,Roughing,Oliver Ekman-Larsson,Jamie Benn,[41. 39.],3,00:11,ARI,DAL,ARI,53,DAL,25,2,4,8475171,8473994.0,Oliver Ekman-Larsson Roughing against Jamie Benn
-22,penalty,Hi-sticking,Jordan Kyrou,Oliver Ekman-Larsson,[-77. -33.],1,13:52,STL,ARI,ARI,53,STL,19,0,0,8479385,8475171.0,Jordan Kyrou Hi-sticking against Oliver Ekman-Larsson
-62,penalty,Holding,Ivan Barbashev,Oliver Ekman-Larsson,[-7. 37.],1,03:58,STL,ARI,ARI,53,STL,19,1,1,8477964,8475171.0,Ivan Barbashev Holding against Oliver Ekman-Larsson
-63,penalty,Unsportsmanlike conduct,Ivan Barbashev,,[  0. -38.],1,03:58,STL,ARI,ARI,53,STL,19,1,1,8477964,,Ivan Barbashev Unsportsmanlike conduct
-87,penalty,Tripping,Antti Raanta,Phil Kessel,[ 82. -10.],2,18:19,ARI,STL,ARI,53,STL,19,1,1,8477293,8473548.0,Antti Raanta Tripping against Jaden Schwartz served by Phil Kessel
-89,penalty,Hooking,Oliver Ekman-Larsson,Brayden Schenn,[ 61. -31.],2,18:07,ARI,STL,ARI,53,STL,19,1,1,8475171,8475170.0,Oliver Ekman-Larsson Hooking against Brayden Schenn
-113,penalty,Tripping,Carl Soderberg,Oskar Sundqvist,[ 49. -19.],2,13:21,ARI,STL,ARI,53,STL,19,1,1,8471262,8476897.0,Carl Soderberg Tripping against Oskar Sundqvist
-220,penalty,Tripping,Jason Demers,Ivan Barbashev,[-76. -35.],3,06:51,ARI,STL,ARI,53,STL,19,2,1,8474218,8477964.0,Jason Demers Tripping against Ivan Barbashev
-234,penalty,Boarding,Jacob de la Rose,Phil Kessel,[53. 40.],3,02:32,STL,ARI,ARI,53,STL,19,2,1,8477455,8473548.0,Jacob de la Rose Boarding against Phil Kessel
-133,penalty,Interference,Adam Henrique,Christian Fischer,[-57.  35.],2,12:17,ANA,ARI,ARI,53,ANA,24,1,2,8474641,8478432.0,Adam Henrique Interference against Christian Fischer
-173,penalty,Slashing,Brad Richardson,Jakob Silfverberg,[-68.  38.],2,02:23,ARI,ANA,ARI,53,ANA,24,1,2,8470755,8475164.0,Brad Richardson Slashing against Jakob Silfverberg
-211,penalty,Slashing,Ondrej Kase,Jakob Chychrun,[-42.  40.],3,10:39,ANA,ARI,ARI,53,ANA,24,4,2,8478131,8479345.0,Ondrej Kase Slashing against Jakob Chychrun
-215,penalty,Interference,Michael Del Zotto,Nick Schmaltz,[76.  2.],3,09:34,ANA,ARI,ARI,53,ANA,24,4,2,8474584,8477951.0,Michael Del Zotto Interference against Nick Schmaltz
-28,penalty,Holding the stick,Sean Couturier,Christian Fischer,[-10.  35.],1,14:19,PHI,ARI,ARI,53,PHI,4,0,0,8476461,8478432.0,Sean Couturier Holding the stick against Christian Fischer
-71,penalty,Roughing,Travis Sanheim,Taylor Hall,[81.  1.],1,04:37,PHI,ARI,ARI,53,PHI,4,2,0,8477948,8475791.0,Travis Sanheim Roughing against Taylor Hall
-83,penalty,Interference,Vinnie Hinostroza,Travis Sanheim,[ -4. -13.],1,02:36,ARI,PHI,ARI,53,PHI,4,3,0,8476994,8477948.0,Vinnie Hinostroza Interference against Travis Sanheim
-114,penalty,Interference,Scott Laughton,Jordan Oesterle,[33. 38.],2,15:24,PHI,ARI,ARI,53,PHI,4,3,0,8476872,8477851.0,Scott Laughton Interference against Jordan Oesterle
-125,penalty,Hooking,Christian Dvorak,Nicolas Aube-Kubel,[66.  3.],2,11:42,ARI,PHI,ARI,53,PHI,4,3,0,8477989,8477979.0,Christian Dvorak Hooking against Nicolas Aube-Kubel
-135,penalty,Hooking,Jordan Oesterle,Nicolas Aube-Kubel,[84. -8.],2,09:12,ARI,PHI,ARI,53,PHI,4,3,0,8477851,8477979.0,Jordan Oesterle Hooking against Nicolas Aube-Kubel
-142,penalty,Hooking,Claude Giroux,Brad Richardson,[72. 39.],2,07:38,PHI,ARI,ARI,53,PHI,4,3,0,8473512,8470755.0,Claude Giroux Hooking against Brad Richardson
-168,penalty,Hooking,Scott Laughton,Conor Garland,[-66.   4.],2,02:34,PHI,ARI,ARI,53,PHI,4,3,0,8476872,8478856.0,Scott Laughton Hooking against Conor Garland
-177,penalty,Roughing,Vinnie Hinostroza,Travis Konecny,[12. 19.],2,00:00,ARI,PHI,ARI,53,PHI,4,4,0,8476994,8478439.0,Vinnie Hinostroza Roughing against Travis Konecny
-178,penalty,Roughing,Travis Konecny,Vinnie Hinostroza,[11. 22.],2,00:00,PHI,ARI,ARI,53,PHI,4,4,0,8478439,8476994.0,Travis Konecny Roughing against Vinnie Hinostroza
-238,penalty,Tripping,Phil Kessel,Sean Couturier,[-37.   5.],3,03:21,ARI,PHI,ARI,53,PHI,4,5,2,8473548,8476461.0,Phil Kessel Tripping against Sean Couturier
-88,penalty,Interference,Lawson Crouse,Aleksander Barkov,[43. 21.],1,03:31,ARI,FLA,FLA,13,ARI,53,0,0,8478474,8477493.0,Lawson Crouse Interference against Aleksander Barkov
-152,penalty,Tripping,Evgenii Dadonov,Vinnie Hinostroza,[-73. -24.],2,10:25,FLA,ARI,FLA,13,ARI,53,0,0,8474149,8476994.0,Evgenii Dadonov Tripping against Vinnie Hinostroza
-177,penalty,Roughing,Aleksander Barkov,Christian Fischer,[-94. -19.],2,06:11,FLA,ARI,FLA,13,ARI,53,2,2,8477493,8478432.0,Aleksander Barkov Roughing against Christian Fischer
-178,penalty,Roughing,Christian Fischer,Aleksander Barkov,[-94. -21.],2,06:11,ARI,FLA,FLA,13,ARI,53,2,2,8478432,8477493.0,Christian Fischer Roughing against Aleksander Barkov
-185,penalty,Tripping,Brett Connolly,Nick Schmaltz,[-70. -36.],2,04:55,FLA,ARI,FLA,13,ARI,53,2,2,8475792,8477951.0,Brett Connolly Tripping against Nick Schmaltz
-201,penalty,Hooking,Taylor Hall,Jayce Hawryluk,[-23.  40.],2,01:02,ARI,FLA,FLA,13,ARI,53,2,3,8475791,8477963.0,Taylor Hall Hooking against Jayce Hawryluk
-84,penalty,Unsportsmanlike conduct,Braydon Coburn,Lawson Crouse,[-62.  38.],2,16:30,TBL,ARI,TBL,14,ARI,53,2,0,8470601,8478474.0,Braydon Coburn Unsportsmanlike conduct against Lawson Crouse
-155,penalty,Tripping,Cedric Paquette,Ilya Lyubushkin,[-53. -40.],3,15:13,TBL,ARI,TBL,14,ARI,53,4,0,8476975,8480950.0,Cedric Paquette Tripping against Ilya Lyubushkin
-186,penalty,Interference,Taylor Hall,Conor Garland,[-48. -40.],3,07:16,ARI,TBL,TBL,14,ARI,53,4,0,8475791,8478856.0,Taylor Hall Interference against Ondrej Palat served by Conor Garland
-187,penalty,Roughing,Tyler Johnson,Taylor Hall,[-53. -37.],3,07:16,TBL,ARI,TBL,14,ARI,53,4,0,8474870,8475791.0,Tyler Johnson Roughing against Taylor Hall
-188,penalty,Roughing,Taylor Hall,Tyler Johnson,[-55. -39.],3,07:16,ARI,TBL,TBL,14,ARI,53,4,0,8475791,8474870.0,Taylor Hall Roughing against Tyler Johnson
-15,penalty,Tripping,Christian Dvorak,Nino Niederreiter,[ 46. -34.],1,15:43,ARI,CAR,CAR,12,ARI,53,0,0,8477989,8475799.0,Christian Dvorak Tripping against Nino Niederreiter
-42,penalty,Cross checking,Nino Niederreiter,Oliver Ekman-Larsson,[-87.  20.],1,09:02,CAR,ARI,CAR,12,ARI,53,0,0,8475799,8475171.0,Nino Niederreiter Cross checking against Oliver Ekman-Larsson
-110,penalty,Tripping,Erik Haula,Jordan Oesterle,[86. -4.],2,12:44,CAR,ARI,CAR,12,ARI,53,1,0,8475287,8477851.0,Erik Haula Tripping against Jordan Oesterle
-185,penalty,Slashing,Vinnie Hinostroza,Brock McGinn,[-71.  -2.],3,17:17,ARI,CAR,CAR,12,ARI,53,3,0,8476994,8476934.0,Vinnie Hinostroza Slashing against Brock McGinn
-194,penalty,Hooking,Andrei Svechnikov,Conor Garland,[-17.   6.],3,14:37,CAR,ARI,CAR,12,ARI,53,3,0,8480830,8478856.0,Andrei Svechnikov Hooking against Conor Garland
-213,penalty,Boarding,Clayton Keller,Teuvo Teravainen,[-96.  -8.],3,07:13,ARI,CAR,CAR,12,ARI,53,3,0,8479343,8476882.0,Clayton Keller Boarding against Teuvo Teravainen
-5,penalty,Slashing,Clayton Keller,Marcus Pettersson,[ 92. -32.],1,18:17,ARI,PIT,ARI,53,PIT,5,0,0,8479343,8477969.0,Clayton Keller Slashing against Marcus Pettersson
-9,penalty,Delaying Game - Puck over glass,Lawson Crouse,,[-35. -38.],1,17:35,ARI,PIT,ARI,53,PIT,5,0,0,8478474,,Lawson Crouse Delaying Game - Puck over glass
-40,penalty,Tripping,Marcus Pettersson,Carl Soderberg,[-25.  38.],1,09:56,PIT,ARI,ARI,53,PIT,5,0,1,8477969,8471262.0,Marcus Pettersson Tripping against Carl Soderberg
-78,penalty,Cross checking,Evgeni Malkin,Brad Richardson,[-16.  25.],1,00:00,PIT,ARI,ARI,53,PIT,5,1,1,8471215,8470755.0,Evgeni Malkin Cross checking against Brad Richardson
-93,penalty,Slashing,Niklas Hjalmarsson,Patric Hornqvist,[51. -9.],2,16:39,ARI,PIT,ARI,53,PIT,5,1,1,8471769,8471887.0,Niklas Hjalmarsson Slashing against Patric Hornqvist
-111,penalty,Interference,Christian Fischer,Evgeni Malkin,[-33. -38.],2,14:02,ARI,PIT,ARI,53,PIT,5,1,2,8478432,8471215.0,Christian Fischer Interference against Evgeni Malkin
-157,penalty,Illegal check to head,Andrew Agozzino,Jordan Oesterle,[90. 32.],2,05:59,PIT,ARI,ARI,53,PIT,5,2,2,8475461,8477851.0,Andrew Agozzino Illegal check to head against Jordan Oesterle
-217,penalty,Interference,Alex Galchenyuk,Jason Demers,[ 42. -39.],3,11:07,PIT,ARI,ARI,53,PIT,5,2,2,8476851,8474218.0,Alex Galchenyuk Interference against Jason Demers
-264,penalty,Hooking,Teddy Blueger,Conor Garland,[17.  3.],4,01:21,PIT,ARI,ARI,53,PIT,5,3,3,8476927,8478856.0,Teddy Blueger Hooking against Conor Garland
-265,penalty,Hi-sticking,Conor Garland,Evgeni Malkin,[-78. -12.],4,01:21,ARI,PIT,ARI,53,PIT,5,3,3,8478856,8471215.0,Conor Garland Hi-sticking against Evgeni Malkin
-83,penalty,Tripping,Evander Kane,Jakob Chychrun,[ 44. -33.],1,02:23,SJS,ARI,ARI,53,SJS,28,1,0,8475169,8479345.0,Evander Kane Tripping against Jakob Chychrun
-105,penalty,Tripping,Stefan Noesen,Jordan Oesterle,[87. 10.],2,16:04,SJS,ARI,ARI,53,SJS,28,1,0,8476474,8477851.0,Stefan Noesen Tripping against Jordan Oesterle
-137,penalty,Tripping,Jason Demers,Evander Kane,[36. 34.],2,08:25,ARI,SJS,ARI,53,SJS,28,2,2,8474218,8475169.0,Jason Demers Tripping against Evander Kane
-181,penalty,Hooking,Conor Garland,Radim Simek,[76.  2.],3,16:39,ARI,SJS,ARI,53,SJS,28,3,2,8478856,8480160.0,Conor Garland Hooking against Radim Simek
-229,penalty,Tripping,Adin Hill,Nick Schmaltz,[-80.  -2.],3,02:53,ARI,SJS,ARI,53,SJS,28,4,2,8478499,8477951.0,Adin Hill Tripping against Timo Meier served by Nick Schmaltz
-53,penalty,Slashing,Michael Chaput,Adam Gaudette,[46. 24.],1,09:29,ARI,VAN,VAN,23,ARI,53,0,1,8475808,8478874.0,Michael Chaput Slashing against Adam Gaudette
-61,penalty,Hooking,Ilya Lyubushkin,Brandon Sutter,[-70.   1.],1,06:51,ARI,VAN,VAN,23,ARI,53,0,1,8480950,8474091.0,Ilya Lyubushkin Hooking against Brandon Sutter
-85,penalty,Hooking,Tyler Motte,Nick Schmaltz,[ 69. -25.],1,00:20,VAN,ARI,VAN,23,ARI,53,1,1,8477353,8477951.0,Tyler Motte Hooking against Nick Schmaltz
-113,penalty,Tripping,Oscar Fantenberg,Nick Schmaltz,[-67. -31.],2,10:56,VAN,ARI,VAN,23,ARI,53,1,1,8480147,8477951.0,Oscar Fantenberg Tripping against Nick Schmaltz
-17,penalty,Slashing,Sam Gagner,Christian Dvorak,[-65.  -7.],1,16:30,EDM,ARI,EDM,22,ARI,53,0,0,8474040,8477989.0,Sam Gagner Slashing against Christian Dvorak
-47,penalty,Tripping,Phil Kessel,Ethan Bear,[-78. -36.],1,08:23,ARI,EDM,EDM,22,ARI,53,1,0,8473548,8478451.0,Phil Kessel Tripping against Ethan Bear
-78,penalty,Too many men on the ice,Conor Garland,,[12. 39.],1,00:17,ARI,EDM,EDM,22,ARI,53,3,0,8478856,,Too many men/ice served by Conor Garland
-114,penalty,Interference,Connor McDavid,Michael Chaput,[-71.  -6.],2,11:41,EDM,ARI,EDM,22,ARI,53,5,1,8478402,8475808.0,Connor McDavid Interference against Michael Chaput
-123,penalty,Hooking,Derek Stepan,James Neal,[-15.  37.],2,09:25,ARI,EDM,EDM,22,ARI,53,5,2,8474613,8471707.0,Derek Stepan Hooking against James Neal
-155,penalty,Boarding,Adam Larsson,Lawson Crouse,[-39.  41.],2,02:35,EDM,ARI,EDM,22,ARI,53,6,2,8476457,8478474.0,Adam Larsson Boarding against Lawson Crouse
-160,penalty,Tripping,Oliver Ekman-Larsson,Riley Sheahan,[-48. -14.],2,01:43,ARI,EDM,EDM,22,ARI,53,6,2,8475171,8475772.0,Oliver Ekman-Larsson Tripping against Riley Sheahan
-210,penalty,Slashing,Adam Larsson,Clayton Keller,[-75.   4.],3,10:04,EDM,ARI,EDM,22,ARI,53,6,2,8476457,8479343.0,Adam Larsson Slashing against Clayton Keller
-51,penalty,Tripping,Michael Del Zotto,Vinnie Hinostroza,[-96.  -3.],1,09:04,ANA,ARI,ANA,24,ARI,53,1,1,8474584,8476994.0,Michael Del Zotto Tripping against Vinnie Hinostroza
-58,penalty,Tripping,Carl Soderberg,Hampus Lindholm,[-58.  39.],1,06:58,ARI,ANA,ANA,24,ARI,53,1,1,8471262,8476854.0,Carl Soderberg Tripping against Hampus Lindholm
-62,penalty,Holding,Jakob Silfverberg,Lawson Crouse,[ 2. 30.],1,06:01,ANA,ARI,ANA,24,ARI,53,1,1,8475164,8478474.0,Jakob Silfverberg Holding against Lawson Crouse
-89,penalty,Tripping,Max Jones,Jason Demers,[89. 35.],1,00:47,ANA,ARI,ANA,24,ARI,53,2,1,8479368,8474218.0,Max Jones Tripping against Jason Demers
-156,penalty,Roughing,Nick Ritchie,Taylor Hall,[98. 11.],2,03:24,ANA,ARI,ANA,24,ARI,53,3,2,8477941,8475791.0,Nick Ritchie Roughing against Taylor Hall
-163,penalty,Interference,Nick Ritchie,Jakob Chychrun,[-96.  11.],2,01:09,ANA,ARI,ANA,24,ARI,53,3,2,8477941,8479345.0,Nick Ritchie Interference against Jakob Chychrun
-203,penalty,Interference,Nick Schmaltz,Michael Del Zotto,[-89. -15.],3,13:28,ARI,ANA,ANA,24,ARI,53,4,2,8477951,8474584.0,Nick Schmaltz Interference against Michael Del Zotto
-229,penalty,Tripping,Clayton Keller,Josh Manson,[-47. -26.],3,04:09,ARI,ANA,ANA,24,ARI,53,4,2,8479343,8476312.0,Clayton Keller Tripping against Josh Manson
-237,penalty,Slashing,Conor Garland,Max Jones,[-32.  34.],3,01:23,ARI,ANA,ANA,24,ARI,53,4,2,8478856,8479368.0,Conor Garland Slashing against Max Jones
-53,penalty,Hooking,Joakim Ryan,Nick Schmaltz,[ 73. -36.],1,07:12,LAK,ARI,ARI,53,LAK,26,0,1,8477046,8477951.0,Joakim Ryan Hooking against Nick Schmaltz
-98,penalty,PS - Tripping on breakaway,Oliver Ekman-Larsson,Austin Wagner,[70. -6.],2,17:17,ARI,LAK,ARI,53,LAK,26,0,1,8475171,8478455.0,Oliver Ekman-Larsson PS - Tripping on breakaway against Austin Wagner
-104,penalty,Hi-sticking,Conor Garland,Dustin Brown,[ 7. -2.],2,15:41,ARI,LAK,ARI,53,LAK,26,0,1,8478856,8470606.0,Conor Garland Hi-sticking against Dustin Brown
-105,penalty,Interference,Dustin Brown,Conor Garland,[6. 0.],2,15:41,LAK,ARI,ARI,53,LAK,26,0,1,8470606,8478856.0,Dustin Brown Interference against Conor Garland
-120,penalty,Interference,Jeff Carter,Clayton Keller,[-66.   5.],2,10:45,LAK,ARI,ARI,53,LAK,26,0,1,8470604,8479343.0,Jeff Carter Interference against Clayton Keller
-229,penalty,Tripping,Jakob Chychrun,Blake Lizotte,[-87. -34.],3,04:12,ARI,LAK,ARI,53,LAK,26,2,1,8479345,8481481.0,Jakob Chychrun Tripping against Blake Lizotte
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,game_id,winning_team,date,description
+23,penalty,Hooking,Zack Smith,Taylor Hall,[ 97. -21.],1,13:42,CHI,ARI,ARI,53,CHI,16,0,0,8474250,8475791.0,2019020802,CHI,2020-02-02,Zack Smith Hooking against Taylor Hall
+27,penalty,Tripping,Clayton Keller,Jonathan Toews,[63. 31.],1,12:30,ARI,CHI,ARI,53,CHI,16,0,0,8479343,8473604.0,2019020802,CHI,2020-02-02,Clayton Keller Tripping against Jonathan Toews
+65,penalty,Tripping,Christian Fischer,Drake Caggiula,[-54. -23.],1,03:24,ARI,CHI,ARI,53,CHI,16,0,1,8478432,8479465.0,2019020802,CHI,2020-02-02,Christian Fischer Tripping against Drake Caggiula
+156,penalty,Hooking,Jakob Chychrun,Patrick Kane,[ 64. -31.],2,00:23,ARI,CHI,ARI,53,CHI,16,2,2,8479345,8474141.0,2019020802,CHI,2020-02-02,Jakob Chychrun Hooking against Patrick Kane
+194,penalty,Holding,Olli Maatta,Conor Garland,[60. 39.],3,13:12,CHI,ARI,ARI,53,CHI,16,2,2,8476874,8478856.0,2019020802,CHI,2020-02-02,Olli Maatta Holding against Conor Garland
+211,penalty,Hooking,Jonathan Toews,Clayton Keller,[-47. -37.],3,09:57,CHI,ARI,ARI,53,CHI,16,2,2,8473604,8479343.0,2019020802,CHI,2020-02-02,Jonathan Toews Hooking against Clayton Keller
+82,penalty,Hooking,Niklas Hjalmarsson,Kailer Yamamoto,[-78.  -1.],1,02:35,ARI,EDM,ARI,53,EDM,22,0,0,8471769,8479977.0,2019020824,,2020-02-05,Niklas Hjalmarsson Hooking against Kailer Yamamoto
+115,penalty,Tripping,Phil Kessel,Kailer Yamamoto,[-53. -34.],2,14:40,ARI,EDM,ARI,53,EDM,22,1,0,8473548,8479977.0,2019020824,,2020-02-05,Phil Kessel Tripping against Kailer Yamamoto
+132,penalty,Slashing,Adam Larsson,Carl Soderberg,[-83.   6.],2,10:01,EDM,ARI,ARI,53,EDM,22,2,0,8476457,8471262.0,2019020824,,2020-02-05,Adam Larsson Slashing against Carl Soderberg
+140,penalty,Interference,Carl Soderberg,Oscar Klefbom,[-72.   3.],2,05:57,ARI,EDM,ARI,53,EDM,22,2,0,8471262,8476472.0,2019020824,,2020-02-05,Carl Soderberg Interference against Oscar Klefbom
+194,penalty,Hi stick - double minor,Alex Chiasson,Carl Soderberg,[50. 17.],3,11:36,EDM,ARI,ARI,53,EDM,22,2,0,8475163,8471262.0,2019020824,,2020-02-05,Alex Chiasson Hi stick - double minor against Carl Soderberg
+236,penalty,Unsportsmanlike conduct,Jakob Chychrun,Jujhar Khaira,[0. 2.],3,00:44,ARI,EDM,ARI,53,EDM,22,3,0,8479345,8476915.0,2019020824,,2020-02-05,Jakob Chychrun Unsportsmanlike conduct against Jujhar Khaira
+237,penalty,Unsportsmanlike conduct,Jujhar Khaira,Jakob Chychrun,[1. 3.],3,00:44,EDM,ARI,ARI,53,EDM,22,3,0,8476915,8479345.0,2019020824,,2020-02-05,Jujhar Khaira Unsportsmanlike conduct against Jakob Chychrun
+10,penalty,Hooking,Niklas Hjalmarsson,Andrei Svechnikov,[-51.   7.],1,18:10,ARI,CAR,ARI,53,CAR,12,0,0,8471769,8480830.0,2019020838,,2020-02-07,Niklas Hjalmarsson Hooking against Andrei Svechnikov
+18,penalty,Hooking,Joel Edmundson,Nick Schmaltz,[57.  0.],1,15:51,CAR,ARI,ARI,53,CAR,12,0,0,8476441,8477951.0,2019020838,,2020-02-07,Joel Edmundson Hooking against Nick Schmaltz
+94,penalty,Hi-sticking,Justin Williams,Aaron Ness,[ 79. -34.],2,17:41,CAR,ARI,ARI,53,CAR,12,1,0,8468508,8474604.0,2019020838,,2020-02-07,Justin Williams Hi-sticking against Aaron Ness
+144,penalty,Holding,Joel Edmundson,Clayton Keller,[-90.  12.],2,07:14,CAR,ARI,ARI,53,CAR,12,2,3,8476441,8479343.0,2019020838,,2020-02-07,Joel Edmundson Holding against Clayton Keller
+152,penalty,Boarding,Brad Richardson,Lucas Wallmark,[ 2. 38.],2,05:01,ARI,CAR,ARI,53,CAR,12,2,3,8470755,8478027.0,2019020838,,2020-02-07,Brad Richardson Boarding against Lucas Wallmark
+157,penalty,Hooking,Jake Gardiner,Taylor Hall,[-85.   8.],2,02:57,CAR,ARI,ARI,53,CAR,12,2,3,8474581,8475791.0,2019020838,,2020-02-07,Jake Gardiner Hooking against Taylor Hall
+225,penalty,Boarding,Lucas Wallmark,Aaron Ness,[-93.  -7.],3,03:45,CAR,ARI,ARI,53,CAR,12,3,4,8478027,8474604.0,2019020838,,2020-02-07,Lucas Wallmark Boarding against Aaron Ness
+33,penalty,Hooking,Charlie McAvoy,Taylor Hall,[-62. -32.],1,10:51,BOS,ARI,BOS,6,ARI,53,0,0,8479325,8475791.0,2019020844,,2020-02-08,Charlie McAvoy Hooking against Taylor Hall
+59,penalty,Hi-sticking,Conor Garland,Zdeno Chara,[-79. -33.],1,05:54,ARI,BOS,BOS,6,ARI,53,0,0,8478856,8465009.0,2019020844,,2020-02-08,Conor Garland Hi-sticking against Zdeno Chara
+74,penalty,Hi-sticking,Jeremy Lauzon,Vinnie Hinostroza,[-91. -27.],1,02:33,BOS,ARI,BOS,6,ARI,53,0,0,8478468,8476994.0,2019020844,,2020-02-08,Jeremy Lauzon Hi-sticking against Vinnie Hinostroza
+83,penalty,Match penalty,Jeremy Lauzon,Anders Bjork,[52. 38.],1,00:21,BOS,ARI,BOS,6,ARI,53,0,0,8478468,8478075.0,2019020844,,2020-02-08,Jeremy Lauzon Match penalty against Derek Stepan served by Anders Bjork
+101,penalty,Roughing,Lawson Crouse,Charlie McAvoy,[79. 37.],2,15:14,ARI,BOS,BOS,6,ARI,53,0,1,8478474,8479325.0,2019020844,,2020-02-08,Lawson Crouse Roughing against Charlie McAvoy
+130,penalty,Interference,Brad Richardson,Chris Wagner,[-75.   0.],2,08:01,ARI,BOS,BOS,6,ARI,53,1,1,8470755,8475780.0,2019020844,,2020-02-08,Brad Richardson Interference against Chris Wagner
+140,penalty,Hooking,Niklas Hjalmarsson,Chris Wagner,[-64.   4.],2,05:47,ARI,BOS,BOS,6,ARI,53,2,1,8471769,8475780.0,2019020844,,2020-02-08,Niklas Hjalmarsson Hooking against Chris Wagner
+37,penalty,Hooking,Ben Chiarot,Jakob Chychrun,[75.  1.],1,14:27,MTL,ARI,MTL,8,ARI,53,2,1,8475279,8479345.0,2019020860,,2020-02-11,Ben Chiarot Hooking against Jakob Chychrun
+63,penalty,Cross checking,Nick Cousins,Jakob Chychrun,[ 12. -33.],1,08:34,MTL,ARI,MTL,8,ARI,53,2,1,8476393,8479345.0,2019020860,,2020-02-11,Nick Cousins Cross checking against Jakob Chychrun
+71,penalty,Holding,Christian Dvorak,Jeff Petry,[56. 30.],1,07:04,ARI,MTL,MTL,8,ARI,53,2,1,8477989,8473507.0,2019020860,,2020-02-11,Christian Dvorak Holding against Jeff Petry
+90,penalty,Hi stick - double minor,Oliver Ekman-Larsson,Nick Suzuki,[-70.  39.],1,01:52,ARI,MTL,MTL,8,ARI,53,2,1,8475171,8480018.0,2019020860,,2020-02-11,Oliver Ekman-Larsson Hi stick - double minor against Nick Suzuki
+92,penalty,Tripping,Derek Stepan,Joel Armia,[-73.  23.],1,01:31,ARI,MTL,MTL,8,ARI,53,2,1,8474613,8476469.0,2019020860,,2020-02-11,Derek Stepan Tripping against Joel Armia
+118,penalty,Delaying Game - Puck over glass,Clayton Keller,,[67. 41.],2,15:19,ARI,MTL,MTL,8,ARI,53,2,1,8479343,,2019020860,,2020-02-11,Clayton Keller Delaying Game - Puck over glass
+125,penalty,Interference,Jonathan Drouin,Taylor Hall,[ 38. -42.],2,13:26,MTL,ARI,MTL,8,ARI,53,2,1,8477494,8475791.0,2019020860,,2020-02-11,Jonathan Drouin Interference against Taylor Hall
+137,penalty,Roughing,Ben Chiarot,Conor Garland,[-82.   0.],2,11:24,MTL,ARI,MTL,8,ARI,53,2,1,8475279,8478856.0,2019020860,,2020-02-11,Ben Chiarot Roughing against Conor Garland
+142,penalty,Hi-sticking,Carl Soderberg,Marco Scandella,[-79.  -2.],2,10:52,ARI,MTL,MTL,8,ARI,53,2,1,8471262,8474618.0,2019020860,,2020-02-11,Carl Soderberg Hi-sticking against Marco Scandella
+221,penalty,Hooking,Brett Kulak,Conor Garland,[80. -1.],3,10:41,MTL,ARI,MTL,8,ARI,53,2,2,8476967,8478856.0,2019020860,,2020-02-11,Brett Kulak Hooking against Conor Garland
+248,penalty,Hooking,Joel Armia,Derek Stepan,[81.  4.],3,02:23,MTL,ARI,MTL,8,ARI,53,2,2,8476469,8474613.0,2019020860,,2020-02-11,Joel Armia Hooking against Derek Stepan
+43,penalty,Tripping,Jakob Chychrun,William Nylander,[ 49. -32.],1,09:57,ARI,TOR,TOR,10,ARI,53,0,1,8479345,8477939.0,2019020867,,2020-02-12,Jakob Chychrun Tripping against William Nylander
+114,penalty,Slashing,Jake Muzzin,Derek Stepan,[-65.  24.],2,14:36,TOR,ARI,TOR,10,ARI,53,1,1,8474162,8474613.0,2019020867,,2020-02-12,Jake Muzzin Slashing against Derek Stepan
+148,penalty,Slashing,Nick Schmaltz,Kasperi Kapanen,[86. 37.],2,06:33,ARI,TOR,TOR,10,ARI,53,1,1,8477951,8477953.0,2019020867,,2020-02-12,Nick Schmaltz Slashing against Kasperi Kapanen
+218,penalty,Holding the stick,Kyle Clifford,Ilya Lyubushkin,[-75. -38.],3,10:39,TOR,ARI,TOR,10,ARI,53,2,2,8475160,8480950.0,2019020867,,2020-02-12,Kyle Clifford Holding the stick against Ilya Lyubushkin
+237,penalty,Tripping,Phil Kessel,Tyson Barrie,[ 87. -21.],3,06:41,ARI,TOR,TOR,10,ARI,53,2,2,8473548,8475197.0,2019020867,,2020-02-12,Phil Kessel Tripping against Tyson Barrie
+260,penalty,Tripping,Zach Hyman,Jakob Chychrun,[-65.  40.],3,00:35,TOR,ARI,TOR,10,ARI,53,2,2,8475786,8479345.0,2019020867,,2020-02-12,Zach Hyman Tripping against Jakob Chychrun
+105,penalty,Tripping,Taylor Hall,Connor Brown,[63. 12.],2,19:09,ARI,OTT,OTT,9,ARI,53,2,0,8475791,8477015.0,2019020885,,2020-02-14,Taylor Hall Tripping against Connor Brown
+136,penalty,Tripping,Brady Tkachuk,Jordan Oesterle,[-32.  30.],2,11:16,OTT,ARI,OTT,9,ARI,53,2,0,8480801,8477851.0,2019020885,,2020-02-14,Brady Tkachuk Tripping against Jordan Oesterle
+160,penalty,Hi-sticking,Oliver Ekman-Larsson,Colin White,[-93.  25.],2,07:05,ARI,OTT,OTT,9,ARI,53,2,0,8475171,8478400.0,2019020885,,2020-02-14,Oliver Ekman-Larsson Hi-sticking against Colin White
+173,penalty,Hooking,Nikita Zaitsev,Phil Kessel,[81. -5.],2,03:29,OTT,ARI,OTT,9,ARI,53,2,0,8479458,8473548.0,2019020885,,2020-02-14,Nikita Zaitsev Hooking against Phil Kessel
+280,penalty,Too many men on the ice,Nick Schmaltz,,[ 8. 38.],3,01:53,ARI,OTT,OTT,9,ARI,53,3,2,8477951,,2019020885,,2020-02-14,Too many men/ice served by Nick Schmaltz
+8,penalty,Delaying Game - Puck over glass,Vinnie Hinostroza,,[-18. -41.],1,18:06,ARI,WSH,ARI,53,WSH,15,0,0,8476994,,2019020904,,2020-02-16,Vinnie Hinostroza Delaying Game - Puck over glass
+71,penalty,Holding,Lars Eller,Taylor Hall,[59. 23.],1,08:08,WSH,ARI,ARI,53,WSH,15,0,0,8474189,8475791.0,2019020904,,2020-02-16,Lars Eller Holding against Taylor Hall
+111,penalty,Tripping,Brad Richardson,Alex Ovechkin,[  9. -10.],2,19:32,ARI,WSH,ARI,53,WSH,15,0,0,8470755,8471214.0,2019020904,,2020-02-16,Brad Richardson Tripping against Alex Ovechkin
+121,penalty,Roughing,Tom Wilson,Taylor Hall,[-93. -12.],2,17:04,WSH,ARI,ARI,53,WSH,15,0,0,8476880,8475791.0,2019020904,,2020-02-16,Tom Wilson Roughing against Taylor Hall
+220,penalty,Tripping,Michal Kempny,Christian Fischer,[ -4. -22.],3,16:32,WSH,ARI,ARI,53,WSH,15,1,1,8479482,8478432.0,2019020904,,2020-02-16,Michal Kempny Tripping against Christian Fischer
+246,penalty,Holding,Oliver Ekman-Larsson,Tom Wilson,[-79.  -2.],3,09:29,ARI,WSH,ARI,53,WSH,15,2,1,8475171,8476880.0,2019020904,,2020-02-16,Oliver Ekman-Larsson Holding against Tom Wilson
+5,penalty,Hooking,Brock Nelson,Oliver Ekman-Larsson,[-96.  17.],1,19:37,NYI,ARI,ARI,53,NYI,2,0,0,8475754,8475171.0,2019020916,,2020-02-18,Brock Nelson Hooking against Oliver Ekman-Larsson
+73,penalty,Tripping,Oliver Ekman-Larsson,Anders Lee,[-71. -36.],1,05:05,ARI,NYI,ARI,53,NYI,2,1,0,8475171,8475314.0,2019020916,,2020-02-18,Oliver Ekman-Larsson Tripping against Anders Lee
+125,penalty,Boarding,Christian Fischer,Jordan Eberle,[-26. -38.],2,13:25,ARI,NYI,ARI,53,NYI,2,1,0,8478432,8474586.0,2019020916,,2020-02-18,Christian Fischer Boarding against Jordan Eberle
+137,penalty,Tripping,Devon Toews,Nick Schmaltz,[-75.  37.],2,09:27,NYI,ARI,ARI,53,NYI,2,1,0,8478038,8477951.0,2019020916,,2020-02-18,Devon Toews Tripping against Nick Schmaltz
+148,penalty,Tripping,Clayton Keller,Derick Brassard,[-22. -26.],2,05:05,ARI,NYI,ARI,53,NYI,2,1,0,8479343,8473544.0,2019020916,,2020-02-18,Clayton Keller Tripping against Derick Brassard
+4,penalty,Hi-sticking,Jakob Chychrun,Jason Dickinson,[-7. 34.],1,19:09,ARI,DAL,DAL,25,ARI,53,0,0,8479345,8477450.0,2019020928,,2020-02-20,Jakob Chychrun Hi-sticking against Jason Dickinson
+71,penalty,Holding,Joe Pavelski,Conor Garland,[82. -6.],1,03:39,DAL,ARI,DAL,25,ARI,53,1,0,8470794,8478856.0,2019020928,,2020-02-20,Joe Pavelski Holding against Conor Garland
+129,penalty,Cross checking,Corey Perry,Alex Goligoski,[-4. 24.],2,11:24,DAL,ARI,DAL,25,ARI,53,1,0,8470621,8471274.0,2019020928,,2020-02-20,Corey Perry Cross checking against Alex Goligoski
+130,penalty,Slashing,Alex Goligoski,Corey Perry,[12. 19.],2,11:24,ARI,DAL,DAL,25,ARI,53,1,0,8471274,8470621.0,2019020928,,2020-02-20,Alex Goligoski Slashing against Corey Perry
+137,penalty,Boarding,Jamie Benn,Corey Perry,[-73.  41.],2,09:33,DAL,ARI,DAL,25,ARI,53,1,0,8473994,8470621.0,2019020928,,2020-02-20,Jamie Benn Boarding against Oliver Ekman-Larsson served by Corey Perry
+138,penalty,Game misconduct,Jamie Benn,Oliver Ekman-Larsson,[-67.  38.],2,09:33,DAL,ARI,DAL,25,ARI,53,1,0,8473994,8475171.0,2019020928,,2020-02-20,Jamie Benn Game misconduct against Oliver Ekman-Larsson
+149,penalty,Hooking,Carl Soderberg,Jamie Oleksiak,[-97.   5.],2,05:48,ARI,DAL,DAL,25,ARI,53,1,1,8471262,8476467.0,2019020928,,2020-02-20,Carl Soderberg Hooking against Jamie Oleksiak
+6,penalty,Tripping,Lawson Crouse,Robert Thomas,[97.  3.],1,17:49,ARI,STL,STL,19,ARI,53,0,0,8478474,8480023.0,2019020938,,2020-02-21,Lawson Crouse Tripping against Robert Thomas
+29,penalty,Holding,Justin Faulk,Brad Richardson,[-47. -38.],1,11:29,STL,ARI,STL,19,ARI,53,0,0,8475753,8470755.0,2019020938,,2020-02-21,Justin Faulk Holding against Brad Richardson
+32,penalty,Slashing,Oskar Sundqvist,Jordan Oesterle,[-51.  40.],1,10:22,STL,ARI,STL,19,ARI,53,0,0,8476897,8477851.0,2019020938,,2020-02-21,Oskar Sundqvist Slashing against Jordan Oesterle
+105,penalty,Cross checking,Jordan Oesterle,Carl Gunnarsson,[-80.  -2.],2,11:06,ARI,STL,STL,19,ARI,53,0,0,8477851,8474125.0,2019020938,,2020-02-21,Jordan Oesterle Cross checking against Carl Gunnarsson
+137,penalty,Tripping,Alex Pietrangelo,Barrett Hayton,[38. 24.],2,03:29,STL,ARI,STL,19,ARI,53,0,0,8474565,8480849.0,2019020938,,2020-02-21,Alex Pietrangelo Tripping against Barrett Hayton
+197,penalty,Hi-sticking,Conor Garland,Oskar Sundqvist,[98.  1.],3,07:34,ARI,STL,STL,19,ARI,53,1,0,8478856,8476897.0,2019020938,,2020-02-21,Conor Garland Hi-sticking against Oskar Sundqvist
+104,penalty,Tripping,Mikhail Sergachev,Taylor Hall,[-61.  -7.],2,16:01,TBL,ARI,ARI,53,TBL,14,2,1,8479410,8475791.0,2019020955,,2020-02-23,Mikhail Sergachev Tripping against Taylor Hall
+168,penalty,Holding,Cameron Gaunce,Lawson Crouse,[-79.   0.],2,03:06,TBL,ARI,ARI,53,TBL,14,4,3,8474611,8478474.0,2019020955,,2020-02-23,Cameron Gaunce Holding against Lawson Crouse
+219,penalty,Tripping,Nikita Kucherov,Taylor Hall,[36. 32.],3,12:43,TBL,ARI,ARI,53,TBL,14,4,3,8476453,8475791.0,2019020955,,2020-02-23,Nikita Kucherov Tripping against Taylor Hall
+224,penalty,Interference,Jordan Oesterle,Anthony Cirelli,[50.  5.],3,12:09,ARI,TBL,ARI,53,TBL,14,4,3,8477851,8478519.0,2019020955,,2020-02-23,Jordan Oesterle Interference against Anthony Cirelli
+251,penalty,Holding,Victor Hedman,Vinnie Hinostroza,[66. -4.],3,05:51,TBL,ARI,ARI,53,TBL,14,5,3,8475167,8476994.0,2019020955,,2020-02-23,Victor Hedman Holding against Vinnie Hinostroza
+255,penalty,Missing key [PD_151],Carter Verhaeghe,,[12. 39.],3,05:32,TBL,ARI,ARI,53,TBL,14,6,3,8477409,,2019020955,,2020-02-23,Delaying Game - Unsucc. chlg served by Carter Verhaeghe
+53,penalty,Tripping,Barrett Hayton,Frank Vatrano,[-14.  20.],1,06:17,ARI,FLA,ARI,53,FLA,13,0,0,8480849,8478366.0,2019020979,,2020-02-26,Barrett Hayton Tripping against Frank Vatrano
+207,penalty,Tripping,Oliver Ekman-Larsson,Evgenii Dadonov,[-69.  -6.],3,11:58,ARI,FLA,ARI,53,FLA,13,1,1,8475171,8474149.0,2019020979,,2020-02-26,Oliver Ekman-Larsson Tripping against Evgenii Dadonov
+17,penalty,Hi-sticking,Rasmus Dahlin,Clayton Keller,[52. 17.],1,15:55,BUF,ARI,ARI,53,BUF,7,0,0,8480839,8479343.0,2019021008,,2020-03-02,Rasmus Dahlin Hi-sticking against Clayton Keller
+46,penalty,Tripping,Victor Olofsson,Oliver Ekman-Larsson,[37. 18.],1,09:37,BUF,ARI,ARI,53,BUF,7,0,2,8478109,8475171.0,2019021008,,2020-03-02,Victor Olofsson Tripping against Oliver Ekman-Larsson
+52,penalty,Slashing,Niklas Hjalmarsson,Jimmy Vesey,[-83.  12.],1,06:47,ARI,BUF,ARI,53,BUF,7,0,2,8471769,8476918.0,2019021008,,2020-03-02,Niklas Hjalmarsson Slashing against Jimmy Vesey
+233,penalty,Hooking,Niklas Hjalmarsson,Sam Reinhart,[-75. -31.],3,02:14,ARI,BUF,ARI,53,BUF,7,4,2,8471769,8477933.0,2019021008,,2020-03-02,Niklas Hjalmarsson Hooking against Sam Reinhart
+30,penalty,Tripping,Quinn Hughes,Phil Kessel,[ 33. -22.],1,14:21,VAN,ARI,VAN,23,ARI,53,0,0,8480800,8473548.0,2019021032,,2020-03-05,Quinn Hughes Tripping against Phil Kessel
+46,penalty,Delaying Game - Puck over glass,Zack MacEwen,,[45. 40.],1,10:52,VAN,ARI,VAN,23,ARI,53,0,1,8479772,,2019021032,,2020-03-05,Zack MacEwen Delaying Game - Puck over glass
+111,penalty,Hooking,Jason Demers,Elias Pettersson,[76.  2.],2,17:03,ARI,VAN,VAN,23,ARI,53,0,1,8474218,8480012.0,2019021032,,2020-03-05,Jason Demers Hooking against Elias Pettersson
+155,penalty,Hooking,Tyler Toffoli,Jason Demers,[67. 27.],2,07:11,VAN,ARI,VAN,23,ARI,53,0,1,8475726,8474218.0,2019021032,,2020-03-05,Tyler Toffoli Hooking against Jason Demers
+173,penalty,Tripping,Alex Goligoski,J.T. Miller,[-52. -20.],2,02:34,ARI,VAN,VAN,23,ARI,53,0,1,8471274,8476468.0,2019021032,,2020-03-05,Alex Goligoski Tripping against J.T. Miller
+193,penalty,Roughing,Clayton Keller,Jake Virtanen,[ 92. -32.],3,16:55,ARI,VAN,VAN,23,ARI,53,0,1,8479343,8477937.0,2019021032,,2020-03-05,Clayton Keller Roughing against Jake Virtanen
+29,penalty,Hooking,Ilya Lyubushkin,Derek Ryan,[-81.  -1.],1,14:31,ARI,CGY,CGY,20,ARI,53,0,1,8480950,8478585.0,2019021046,,2020-03-07,Ilya Lyubushkin Hooking against Derek Ryan
+152,penalty,Holding,Erik Gustafsson,Taylor Hall,[-89. -35.],2,11:37,CGY,ARI,CGY,20,ARI,53,3,1,8476979,8475791.0,2019021046,,2020-03-07,Erik Gustafsson Holding against Taylor Hall
+198,penalty,Delaying Game - Smothering puck,Alex Goligoski,,[10. 18.],2,04:42,ARI,CGY,CGY,20,ARI,53,3,2,8471274,,2019021046,,2020-03-07,Alex Goligoski Delaying Game - Smothering puck
+220,penalty,Holding,Noah Hanifin,Christian Dvorak,[-99.   2.],2,01:24,CGY,ARI,CGY,20,ARI,53,3,2,8478396,8477989.0,2019021046,,2020-03-07,Noah Hanifin Holding against Christian Dvorak
+222,penalty,Hooking,Nick Schmaltz,Mark Giordano,[-88. -33.],2,01:20,ARI,CGY,CGY,20,ARI,53,3,2,8477951,8470966.0,2019021046,,2020-03-07,Nick Schmaltz Hooking against Mark Giordano
+276,penalty,Hi-sticking,Mark Jankowski,Niklas Hjalmarsson,[-53.  -3.],3,09:20,CGY,ARI,CGY,20,ARI,53,3,2,8476873,8471769.0,2019021046,,2020-03-07,Mark Jankowski Hi-sticking against Niklas Hjalmarsson
+285,penalty,Interference,Niklas Hjalmarsson,Matthew Tkachuk,[-48.  32.],3,06:37,ARI,CGY,CGY,20,ARI,53,3,2,8471769,8479314.0,2019021046,,2020-03-07,Niklas Hjalmarsson Interference against Matthew Tkachuk
+8,penalty,Fighting,Adam Lowry,Lawson Crouse,[9. 0.],1,17:53,WPG,ARI,WPG,52,ARI,53,0,0,8476392,8478474.0,2019021067,,2020-03-10,Adam Lowry Fighting against Lawson Crouse
+9,penalty,Fighting,Lawson Crouse,Adam Lowry,[5. 6.],1,17:53,ARI,WPG,WPG,52,ARI,53,0,0,8478474,8476392.0,2019021067,,2020-03-10,Lawson Crouse Fighting against Adam Lowry
+70,penalty,Cross checking,Taylor Hall,Dylan DeMelo,[64. 40.],1,03:25,ARI,WPG,WPG,52,ARI,53,0,1,8475791,8476331.0,2019021067,,2020-03-10,Taylor Hall Cross checking against Dylan DeMelo
+123,penalty,Tripping,Derek Stepan,Tucker Poolman,[ -7. -29.],2,10:45,ARI,WPG,WPG,52,ARI,53,1,2,8474613,8477359.0,2019021067,,2020-03-10,Derek Stepan Tripping against Tucker Poolman
+192,penalty,Tripping,Dylan DeMelo,Nick Schmaltz,[63. -2.],3,15:32,WPG,ARI,WPG,52,ARI,53,2,2,8476331,8477951.0,2019021067,,2020-03-10,Dylan DeMelo Tripping against Nick Schmaltz
+255,penalty,Holding,Josh Morrissey,Vinnie Hinostroza,[91. 32.],3,00:25,WPG,ARI,WPG,52,ARI,53,4,2,8477504,8476994.0,2019021067,,2020-03-10,Josh Morrissey Holding against Vinnie Hinostroza
+236,penalty,Interference - Goalkeeper,Carl Soderberg,John Gibson,[-81.   5.],3,10:54,ARI,ANA,ANA,24,ARI,53,2,1,8471262,8476434.0,2019020012,,2019-10-04,Carl Soderberg Interference - Goalkeeper against John Gibson
+241,penalty,Hooking,Carter Rowney,Clayton Keller,[39. 21.],3,07:46,ANA,ARI,ANA,24,ARI,53,2,1,8477240,8479343.0,2019020012,,2019-10-04,Carter Rowney Hooking against Clayton Keller
+69,penalty,Interference,Charlie McAvoy,Lawson Crouse,[15. 39.],1,06:59,BOS,ARI,ARI,53,BOS,6,0,0,8479325,8478474.0,2019020027,,2019-10-06,Charlie McAvoy Interference against Lawson Crouse
+146,penalty,Roughing,Connor Clifton,Lawson Crouse,[-85. -23.],2,08:55,BOS,ARI,ARI,53,BOS,6,0,1,8477365,8478474.0,2019020027,,2019-10-06,Connor Clifton Roughing against Lawson Crouse
+147,penalty,Roughing,Lawson Crouse,Connor Clifton,[-75. -19.],2,08:55,ARI,BOS,ARI,53,BOS,6,0,1,8478474,8477365.0,2019020027,,2019-10-06,Lawson Crouse Roughing against Connor Clifton
+173,penalty,Hi-sticking,Christian Fischer,Connor Clifton,[-96.  -6.],2,02:01,ARI,BOS,ARI,53,BOS,6,0,1,8478432,8477365.0,2019020027,,2019-10-06,Christian Fischer Hi-sticking against Connor Clifton
+176,penalty,Interference,David Pastrnak,Michael Grabner,[-33.   4.],2,01:53,BOS,ARI,ARI,53,BOS,6,0,1,8477956,8473546.0,2019020027,,2019-10-06,David Pastrnak Interference against Michael Grabner
+186,penalty,Interference,Karson Kuhlman,Lawson Crouse,[-68.  20.],3,19:12,BOS,ARI,ARI,53,BOS,6,0,1,8480901,8478474.0,2019020027,,2019-10-06,Karson Kuhlman Interference against Lawson Crouse
+195,penalty,Slashing,Jordan Oesterle,Chris Wagner,[-66.   2.],3,16:36,ARI,BOS,ARI,53,BOS,6,0,1,8477851,8475780.0,2019020027,,2019-10-06,Jordan Oesterle Slashing against Chris Wagner
+16,penalty,Tripping,Barrett Hayton,Max Pacioretty,[97.  3.],1,16:14,ARI,VGK,ARI,53,VGK,54,0,0,8480849,8474157.0,2019020057,,2019-10-11,Barrett Hayton Tripping against Max Pacioretty
+46,penalty,Interference,Jon Merrill,Vinnie Hinostroza,[ 60. -39.],1,11:18,VGK,ARI,ARI,53,VGK,54,1,0,8475750,8476994.0,2019020057,,2019-10-11,Jon Merrill Interference against Vinnie Hinostroza
+55,penalty,Hi-sticking,Christian Dvorak,Shea Theodore,[71.  6.],1,08:19,ARI,VGK,ARI,53,VGK,54,1,0,8477989,8477447.0,2019020057,,2019-10-11,Christian Dvorak Hi-sticking against Shea Theodore
+92,penalty,Missing key [PD_151],Conor Garland,,[-20.  40.],1,00:05,ARI,VGK,ARI,53,VGK,54,2,1,8478856,,2019020057,,2019-10-11,Delaying Game - Unsucc. chlg served by Conor Garland
+144,penalty,Too many men on the ice,Conor Garland,,[-12.  40.],2,05:54,ARI,VGK,ARI,53,VGK,54,3,1,8478856,,2019020057,,2019-10-11,Too many men/ice served by Conor Garland
+213,penalty,Tripping,Cody Glass,Barrett Hayton,[-24.  10.],3,05:50,VGK,ARI,ARI,53,VGK,54,4,1,8479996,8480849.0,2019020057,,2019-10-11,Cody Glass Tripping against Barrett Hayton
+3,penalty,Holding,Erik Johnson,Clayton Keller,[83. 11.],1,19:20,COL,ARI,COL,21,ARI,53,0,0,8473446,8479343.0,2019020072,,2019-10-13,Erik Johnson Holding against Clayton Keller
+73,penalty,Slashing,Phil Kessel,Samuel Girard,[-56. -14.],2,18:48,ARI,COL,COL,21,ARI,53,0,0,8473548,8479398.0,2019020072,,2019-10-13,Phil Kessel Slashing against Samuel Girard
+85,penalty,Holding,Nikita Zadorov,Barrett Hayton,[-4. -2.],2,16:12,COL,ARI,COL,21,ARI,53,0,0,8477507,8480849.0,2019020072,,2019-10-13,Nikita Zadorov Holding against Barrett Hayton
+119,penalty,Slashing,Phil Kessel,Matt Calvert,[64. -4.],2,07:22,ARI,COL,COL,21,ARI,53,0,0,8473548,8474685.0,2019020072,,2019-10-13,Phil Kessel Slashing against Matt Calvert
+150,penalty,Roughing,Ryan Graves,Barrett Hayton,[70. 39.],3,18:08,COL,ARI,COL,21,ARI,53,0,0,8477435,8480849.0,2019020072,,2019-10-13,Ryan Graves Roughing against Barrett Hayton
+168,penalty,Tripping,Jason Demers,Mikko Rantanen,[-72.   1.],3,13:47,ARI,COL,COL,21,ARI,53,0,0,8474218,8478420.0,2019020072,,2019-10-13,Jason Demers Tripping against Mikko Rantanen
+221,penalty,Delaying Game - Puck over glass,Jakob Chychrun,,[-94.  32.],3,03:23,ARI,COL,COL,21,ARI,53,2,2,8479345,,2019020072,,2019-10-13,Jakob Chychrun Delaying Game - Puck over glass
+20,penalty,Hooking,Derek Stepan,David Gustafsson,[ 37. -25.],1,13:27,ARI,WPG,WPG,52,ARI,53,0,0,8474613,8481019.0,2019020087,,2019-10-16,Derek Stepan Hooking against David Gustafsson
+58,penalty,Hi-sticking,Alex Goligoski,Blake Wheeler,[-72.  10.],1,06:49,ARI,WPG,WPG,52,ARI,53,1,0,8471274,8471218.0,2019020087,,2019-10-16,Alex Goligoski Hi-sticking against Blake Wheeler
+97,penalty,Hi-sticking,Dmitry Kulikov,Vinnie Hinostroza,[-75. -39.],2,15:20,WPG,ARI,WPG,52,ARI,53,1,1,8475179,8476994.0,2019020087,,2019-10-16,Dmitry Kulikov Hi-sticking against Vinnie Hinostroza
+103,penalty,Slashing,Mark Scheifele,Christian Dvorak,[-2. 19.],2,14:35,WPG,ARI,WPG,52,ARI,53,1,2,8476460,8477989.0,2019020087,,2019-10-16,Mark Scheifele Slashing against Christian Dvorak
+118,penalty,Roughing,Brad Richardson,Nikolaj Ehlers,[-15.  39.],2,12:06,ARI,WPG,WPG,52,ARI,53,1,3,8470755,8477940.0,2019020087,,2019-10-16,Brad Richardson Roughing against Nikolaj Ehlers
+190,penalty,Hi stick - double minor,Conor Garland,Patrik Laine,[-57. -36.],3,16:15,ARI,WPG,WPG,52,ARI,53,1,4,8478856,8479339.0,2019020087,,2019-10-16,Conor Garland Hi stick - double minor against Patrik Laine
+219,penalty,Tripping,Nick Schmaltz,Neal Pionk,[51. 16.],3,05:44,ARI,WPG,WPG,52,ARI,53,2,4,8477951,8480145.0,2019020087,,2019-10-16,Nick Schmaltz Tripping against Neal Pionk
+39,penalty,Hooking,Ryan Johansen,Phil Kessel,[-77.   4.],1,10:40,NSH,ARI,ARI,53,NSH,18,1,0,8475793,8473548.0,2019020104,NSH,2019-10-18,Ryan Johansen Hooking against Phil Kessel
+51,penalty,Hooking,Roman Josi,Jakob Chychrun,[61. 11.],1,07:47,NSH,ARI,ARI,53,NSH,18,2,0,8474600,8479345.0,2019020104,NSH,2019-10-18,Roman Josi Hooking against Jakob Chychrun
+70,penalty,Hooking,Alex Goligoski,Ryan Johansen,[-85.  11.],1,03:43,ARI,NSH,ARI,53,NSH,18,2,0,8471274,8475793.0,2019020104,NSH,2019-10-18,Alex Goligoski Hooking against Ryan Johansen
+98,penalty,Interference,Conor Garland,Ryan Johansen,[37. 21.],2,16:12,ARI,NSH,ARI,53,NSH,18,2,1,8478856,8475793.0,2019020104,NSH,2019-10-18,Conor Garland Interference against Ryan Johansen
+111,penalty,Roughing,Mikael Granlund,Brad Richardson,[91. 22.],2,12:23,NSH,ARI,ARI,53,NSH,18,2,1,8475798,8470755.0,2019020104,NSH,2019-10-18,Mikael Granlund Roughing against Brad Richardson
+112,penalty,Interference,Brad Richardson,Mikael Granlund,[86. 22.],2,12:23,ARI,NSH,ARI,53,NSH,18,2,1,8470755,8475798.0,2019020104,NSH,2019-10-18,Brad Richardson Interference against Mikael Granlund
+135,penalty,Slashing,Dan Hamhuis,Michael Grabner,[-76.   4.],2,07:12,NSH,ARI,ARI,53,NSH,18,2,1,8469465,8473546.0,2019020104,NSH,2019-10-18,Dan Hamhuis Slashing against Michael Grabner
+179,penalty,Cross checking,Yannick Weber,Conor Garland,[ 9. 36.],3,14:57,NSH,ARI,ARI,53,NSH,18,3,1,8474134,8478856.0,2019020104,NSH,2019-10-18,Yannick Weber Cross checking against Conor Garland
+193,penalty,Cross checking,Roman Josi,Clayton Keller,[ 44. -36.],3,11:51,NSH,ARI,ARI,53,NSH,18,4,1,8474600,8479343.0,2019020104,NSH,2019-10-18,Roman Josi Cross checking against Clayton Keller
+211,penalty,Interference,Kyle Capobianco,Rocco Grimaldi,[-69.  23.],3,07:29,ARI,NSH,ARI,53,NSH,18,4,1,8478476,8476428.0,2019020104,NSH,2019-10-18,Kyle Capobianco Interference against Rocco Grimaldi
+235,penalty,Tripping,Rocco Grimaldi,Kyle Capobianco,[ 3. -4.],3,02:15,NSH,ARI,ARI,53,NSH,18,5,2,8476428,8478476.0,2019020104,NSH,2019-10-18,Rocco Grimaldi Tripping against Kyle Capobianco
+18,penalty,Hooking,Jordan Szwarz,Jason Demers,[ 52. -40.],1,15:11,OTT,ARI,ARI,53,OTT,9,0,0,8475224,8474218.0,2019020120,OTT,2019-10-20,Jordan Szwarz Hooking against Jason Demers
+66,penalty,Hooking,Colin White,Michael Grabner,[96. -9.],1,03:30,OTT,ARI,ARI,53,OTT,9,2,0,8478400,8473546.0,2019020120,OTT,2019-10-20,Colin White Hooking against Michael Grabner
+138,penalty,Unsportsmanlike conduct,Anthony Duclair,,[15. 39.],2,06:14,OTT,ARI,ARI,53,OTT,9,3,0,8477407,,2019020120,OTT,2019-10-20,Anthony Duclair Unsportsmanlike conduct
+146,penalty,Holding the stick,Phil Kessel,Nikita Zaitsev,[-24. -40.],2,04:40,ARI,OTT,ARI,53,OTT,9,3,0,8473548,8479458.0,2019020120,OTT,2019-10-20,Phil Kessel Holding the stick against Nikita Zaitsev
+167,penalty,Hi stick - double minor,Connor Brown,Christian Fischer,[60. 19.],2,00:25,OTT,ARI,ARI,53,OTT,9,3,0,8477015,8478432.0,2019020120,OTT,2019-10-20,Connor Brown Hi stick - double minor against Christian Fischer
+192,penalty,Interference,Ilya Lyubushkin,Colin White,[-66. -41.],3,16:27,ARI,OTT,ARI,53,OTT,9,4,1,8480950,8478400.0,2019020120,OTT,2019-10-20,Ilya Lyubushkin Interference against Colin White
+7,penalty,Holding the stick,Adam Fox,Christian Fischer,[ 95. -24.],1,17:21,NYR,ARI,NYR,3,ARI,53,0,0,8479323,8478432.0,2019020136,,2019-10-23,Adam Fox Holding the stick against Christian Fischer
+34,penalty,Cross checking,Pavel Buchnevich,Clayton Keller,[83. -3.],1,10:49,NYR,ARI,NYR,3,ARI,53,0,0,8477402,8479343.0,2019020136,,2019-10-23,Pavel Buchnevich Cross checking against Clayton Keller
+139,penalty,Tripping,Pavel Buchnevich,Vinnie Hinostroza,[-69. -39.],2,08:08,NYR,ARI,NYR,3,ARI,53,1,1,8477402,8476994.0,2019020136,,2019-10-23,Pavel Buchnevich Tripping against Vinnie Hinostroza
+158,penalty,Delaying Game - Puck over glass,Christian Fischer,Chris Kreider,[60.  8.],2,04:45,ARI,NYR,NYR,3,ARI,53,1,2,8478432,8475184.0,2019020136,,2019-10-23,Christian Fischer Delaying Game - Puck over glass against Chris Kreider
+160,penalty,Too many men on the ice,Artemi Panarin,Conor Garland,[-12.  39.],2,03:54,ARI,NYR,NYR,3,ARI,53,1,2,8478550,8478856.0,2019020136,,2019-10-23, against Artemi PanarinToo many men/ice served by Conor Garland
+200,penalty,Tripping,Ryan Strome,Lawson Crouse,[73. 11.],3,14:20,NYR,ARI,NYR,3,ARI,53,2,2,8476458,8478474.0,2019020136,,2019-10-23,Ryan Strome Tripping against Lawson Crouse
+205,penalty,Delaying Game - Puck over glass,Brendan Smith,Derek Stepan,[81. -8.],3,13:56,NYR,ARI,NYR,3,ARI,53,2,2,8474090,8474613.0,2019020136,,2019-10-23,Brendan Smith Delaying Game - Puck over glass against Derek Stepan
+35,penalty,Tripping,Oliver Wahlstrom,Clayton Keller,[44. 40.],1,12:09,NYI,ARI,NYI,2,ARI,53,1,0,8480789,8479343.0,2019020146,ARI,2019-10-25,Oliver Wahlstrom Tripping against Clayton Keller
+128,penalty,Tripping,Adam Pelech,Conor Garland,[96. 16.],2,11:01,NYI,ARI,NYI,2,ARI,53,1,1,8476917,8478856.0,2019020146,ARI,2019-10-25,Adam Pelech Tripping against Conor Garland
+154,penalty,Hooking,Phil Kessel,Cal Clutterbuck,[-71.   1.],2,04:54,ARI,NYI,NYI,2,ARI,53,2,1,8473548,8473504.0,2019020146,ARI,2019-10-25,Phil Kessel Hooking against Cal Clutterbuck
+158,penalty,Slashing,Mathew Barzal,Jakob Chychrun,[-82.  30.],2,04:13,NYI,ARI,NYI,2,ARI,53,2,1,8478445,8479345.0,2019020146,ARI,2019-10-25,Mathew Barzal Slashing against Jakob Chychrun
+54,penalty,Interference,Sami Vatanen,Clayton Keller,[-77.  -2.],1,06:06,NJD,ARI,NJD,1,ARI,53,0,0,8475222,8479343.0,2019020157,ARI,2019-10-26,Sami Vatanen Interference against Clayton Keller
+57,penalty,Hi-sticking,Derek Stepan,Andy Greene,[-87.  27.],1,05:37,ARI,NJD,NJD,1,ARI,53,0,0,8474613,8472382.0,2019020157,ARI,2019-10-26,Derek Stepan Hi-sticking against Andy Greene
+69,penalty,Hooking,Oliver Ekman-Larsson,Nico Hischier,[ 23. -32.],1,02:40,ARI,NJD,NJD,1,ARI,53,1,0,8475171,8480002.0,2019020157,ARI,2019-10-26,Oliver Ekman-Larsson Hooking against Nico Hischier
+86,penalty,Tripping,Carl Soderberg,Blake Coleman,[ 84. -35.],2,19:30,ARI,NJD,NJD,1,ARI,53,2,1,8471262,8476399.0,2019020157,ARI,2019-10-26,Carl Soderberg Tripping against Blake Coleman
+99,penalty,Interference,Mirco Mueller,Nick Schmaltz,[ -9. -39.],2,16:37,NJD,ARI,NJD,1,ARI,53,2,2,8477509,8477951.0,2019020157,ARI,2019-10-26,Mirco Mueller Interference against Nick Schmaltz
+107,penalty,Tripping,Ilya Lyubushkin,Kevin Rooney,[-98.  18.],2,13:06,ARI,NJD,NJD,1,ARI,53,2,2,8480950,8479291.0,2019020157,ARI,2019-10-26,Ilya Lyubushkin Tripping against Kevin Rooney
+110,penalty,Boarding,Taylor Hall,Oliver Ekman-Larsson,[-98.   6.],2,13:01,NJD,ARI,NJD,1,ARI,53,2,2,8475791,8475171.0,2019020157,ARI,2019-10-26,Taylor Hall Boarding against Oliver Ekman-Larsson
+188,penalty,Hooking,Vinnie Hinostroza,Travis Zajac,[51.  3.],3,08:46,ARI,NJD,NJD,1,ARI,53,3,4,8476994,8471233.0,2019020157,ARI,2019-10-26,Vinnie Hinostroza Hooking against Travis Zajac
+15,penalty,Tripping,Lawson Crouse,Evan Rodrigues,[88. 21.],1,16:32,ARI,BUF,BUF,7,ARI,53,0,0,8478474,8478542.0,2019020177,ARI,2019-10-29,Lawson Crouse Tripping against Evan Rodrigues
+131,penalty,Tripping,Carter Hutton,Jeff Skinner,[82.  3.],2,04:57,BUF,ARI,BUF,7,ARI,53,2,1,8475622,8475784.0,2019020177,ARI,2019-10-29,Carter Hutton Tripping against Christian Fischer served by Jeff Skinner
+139,penalty,Hooking,Rasmus Dahlin,Lawson Crouse,[ 21. -32.],2,02:56,BUF,ARI,BUF,7,ARI,53,2,2,8480839,8478474.0,2019020177,ARI,2019-10-29,Rasmus Dahlin Hooking against Lawson Crouse
+160,penalty,Hooking,Vinnie Hinostroza,Casey Mittelstadt,[ 37. -16.],3,18:13,ARI,BUF,BUF,7,ARI,53,2,2,8476994,8479999.0,2019020177,ARI,2019-10-29,Vinnie Hinostroza Hooking against Casey Mittelstadt
+27,penalty,Tripping,Ilya Lyubushkin,Jonathan Drouin,[-83. -28.],1,16:00,ARI,MTL,ARI,53,MTL,8,0,1,8480950,8477494.0,2019020192,MTL,2019-10-31,Ilya Lyubushkin Tripping against Jonathan Drouin
+58,penalty,Slashing,Tomas Tatar,Clayton Keller,[  0. -25.],1,10:11,MTL,ARI,ARI,53,MTL,8,0,1,8475193,8479343.0,2019020192,MTL,2019-10-31,Tomas Tatar Slashing against Clayton Keller
+138,penalty,Holding,Mike Reilly,Derek Stepan,[-95.   9.],2,18:06,MTL,ARI,ARI,53,MTL,8,0,2,8476422,8474613.0,2019020192,MTL,2019-10-31,Mike Reilly Holding against Derek Stepan
+173,penalty,Tripping,Jason Demers,Jeff Petry,[95. 18.],2,08:42,ARI,MTL,ARI,53,MTL,8,0,2,8474218,8473507.0,2019020192,MTL,2019-10-31,Jason Demers Tripping against Jeff Petry
+179,penalty,Hooking,Shea Weber,Derek Stepan,[-79.  -2.],2,06:46,MTL,ARI,ARI,53,MTL,8,0,2,8470642,8474613.0,2019020192,MTL,2019-10-31,Shea Weber Hooking against Derek Stepan
+20,penalty,Holding,Joonas Donskoi,Oliver Ekman-Larsson,[-97.  -5.],1,14:00,COL,ARI,ARI,53,COL,21,0,0,8475820,8475171.0,2019020214,,2019-11-03,Joonas Donskoi Holding against Oliver Ekman-Larsson
+36,penalty,Tripping,Darcy Kuemper,Phil Kessel,[-88.  13.],1,11:18,ARI,COL,ARI,53,COL,21,1,0,8475311,8473548.0,2019020214,,2019-11-03,Darcy Kuemper Tripping against Matt Calvert served by Phil Kessel
+99,penalty,Tripping,Clayton Keller,Pierre-Edouard Bellemare,[64. 19.],2,17:17,ARI,COL,ARI,53,COL,21,2,0,8479343,8477930.0,2019020214,,2019-11-03,Clayton Keller Tripping against Pierre-Edouard Bellemare
+120,penalty,Holding,Jakob Chychrun,J.T. Compher,[77.  0.],2,12:51,ARI,COL,ARI,53,COL,21,2,0,8479345,8477456.0,2019020214,,2019-11-03,Jakob Chychrun Holding against J.T. Compher
+132,penalty,Interference,Barrett Hayton,Matt Calvert,[-89. -11.],2,09:44,ARI,COL,ARI,53,COL,21,2,0,8480849,8474685.0,2019020214,,2019-11-03,Barrett Hayton Interference against Matt Calvert
+143,penalty,Hooking,Erik Johnson,Barrett Hayton,[-94. -13.],2,06:10,COL,ARI,ARI,53,COL,21,2,0,8473446,8480849.0,2019020214,,2019-11-03,Erik Johnson Hooking against Barrett Hayton
+152,penalty,Fighting,Nazem Kadri,Lawson Crouse,[67.  1.],2,03:17,COL,ARI,ARI,53,COL,21,3,0,8475172,8478474.0,2019020214,,2019-11-03,Nazem Kadri Fighting against Lawson Crouse
+153,penalty,Fighting,Lawson Crouse,Nazem Kadri,[ 73. -11.],2,03:17,ARI,COL,ARI,53,COL,21,3,0,8478474,8475172.0,2019020214,,2019-11-03,Lawson Crouse Fighting against Nazem Kadri
+154,penalty,Slashing,Lawson Crouse,Nazem Kadri,[ 72. -17.],2,03:17,ARI,COL,ARI,53,COL,21,3,0,8478474,8475172.0,2019020214,,2019-11-03,Lawson Crouse Slashing against Nazem Kadri
+155,penalty,Roughing,Nazem Kadri,Lawson Crouse,[ 70. -20.],2,03:17,COL,ARI,ARI,53,COL,21,3,0,8475172,8478474.0,2019020214,,2019-11-03,Nazem Kadri Roughing against Lawson Crouse
+75,penalty,Holding,Zack Kassian,Derek Stepan,[-11.  39.],2,19:38,EDM,ARI,EDM,22,ARI,53,1,1,8475178,8474613.0,2019020223,ARI,2019-11-05,Zack Kassian Holding against Derek Stepan
+135,penalty,Interference,Connor McDavid,Christian Fischer,[-11. -19.],2,07:30,EDM,ARI,EDM,22,ARI,53,1,2,8478402,8478432.0,2019020223,ARI,2019-11-05,Connor McDavid Interference against Christian Fischer
+142,penalty,Tripping,Jordan Oesterle,Matt Benning,[-56.  22.],2,04:51,ARI,EDM,EDM,22,ARI,53,1,2,8477851,8476988.0,2019020223,ARI,2019-11-05,Jordan Oesterle Tripping against Matt Benning
+167,penalty,Hooking,Carl Soderberg,Connor McDavid,[-82.  -7.],2,00:08,ARI,EDM,EDM,22,ARI,53,1,2,8471262,8478402.0,2019020223,ARI,2019-11-05,Carl Soderberg Hooking against Connor McDavid
+180,penalty,Tripping,James Neal,Jason Demers,[ 88. -14.],3,18:36,EDM,ARI,EDM,22,ARI,53,1,2,8471707,8474218.0,2019020223,ARI,2019-11-05,James Neal Tripping against Jason Demers
+8,penalty,Tripping,TJ Brodie,Conor Garland,[43. 36.],1,18:40,CGY,ARI,CGY,20,ARI,53,0,0,8474673,8478856.0,2019020231,ARI,2019-11-06,TJ Brodie Tripping against Conor Garland
+59,penalty,Interference,Ilya Lyubushkin,Matthew Tkachuk,[ 16. -18.],1,04:22,ARI,CGY,CGY,20,ARI,53,0,1,8480950,8479314.0,2019020231,ARI,2019-11-06,Ilya Lyubushkin Interference against Matthew Tkachuk
+74,penalty,Tripping,Jakob Chychrun,Elias Lindholm,[-91.   8.],1,01:23,ARI,CGY,CGY,20,ARI,53,0,1,8479345,8477496.0,2019020231,ARI,2019-11-06,Jakob Chychrun Tripping against Elias Lindholm
+91,penalty,Cross checking,Michael Frolik,Aaron Ness,[-12.  39.],2,18:23,CGY,ARI,CGY,20,ARI,53,0,1,8473564,8474604.0,2019020231,ARI,2019-11-06,Michael Frolik Cross checking against Aaron Ness
+106,penalty,Delaying Game - Puck over glass,Travis Hamonic,,[-48. -39.],2,14:30,CGY,ARI,CGY,20,ARI,53,0,2,8474612,,2019020231,ARI,2019-11-06,Travis Hamonic Delaying Game - Puck over glass
+123,penalty,Delaying Game - Puck over glass,Barrett Hayton,,[ 54. -33.],2,09:30,ARI,CGY,CGY,20,ARI,53,0,2,8480849,,2019020231,ARI,2019-11-06,Barrett Hayton Delaying Game - Puck over glass
+152,penalty,Hooking,Carl Soderberg,Matthew Tkachuk,[84.  3.],2,04:10,ARI,CGY,CGY,20,ARI,53,0,2,8471262,8479314.0,2019020231,ARI,2019-11-06,Carl Soderberg Hooking against Matthew Tkachuk
+165,penalty,Hooking,Derek Ryan,Christian Dvorak,[-72. -10.],2,01:55,CGY,ARI,CGY,20,ARI,53,1,2,8478585,8477989.0,2019020231,ARI,2019-11-06,Derek Ryan Hooking against Christian Dvorak
+185,penalty,Holding,Andrew Mangiapane,Jakob Chychrun,[-91.  30.],3,17:52,CGY,ARI,CGY,20,ARI,53,1,2,8478233,8479345.0,2019020231,ARI,2019-11-06,Andrew Mangiapane Holding against Jakob Chychrun
+190,penalty,Hooking,Oliver Ekman-Larsson,Tobias Rieder,[-73.  -1.],3,17:04,ARI,CGY,CGY,20,ARI,53,1,2,8475171,8476356.0,2019020231,ARI,2019-11-06,Oliver Ekman-Larsson Hooking against Tobias Rieder
+248,penalty,Tripping,Barrett Hayton,TJ Brodie,[ 9. 23.],3,04:10,ARI,CGY,CGY,20,ARI,53,1,3,8480849,8474673.0,2019020231,ARI,2019-11-06,Barrett Hayton Tripping against TJ Brodie
+44,penalty,Tripping,Scott Harrington,Vinnie Hinostroza,[ 27. -39.],1,11:18,CBJ,ARI,ARI,53,CBJ,29,0,1,8476449,8476994.0,2019020246,CBJ,2019-11-08,Scott Harrington Tripping against Vinnie Hinostroza
+69,penalty,Tripping,Barrett Hayton,Boone Jenner,[89. 20.],1,03:25,ARI,CBJ,ARI,53,CBJ,29,1,1,8480849,8476432.0,2019020246,CBJ,2019-11-08,Barrett Hayton Tripping against Boone Jenner
+83,penalty,Holding,Ilya Lyubushkin,Cam Atkinson,[-86.  20.],1,00:08,ARI,CBJ,ARI,53,CBJ,29,1,1,8480950,8474715.0,2019020246,CBJ,2019-11-08,Ilya Lyubushkin Holding against Cam Atkinson
+150,penalty,Tripping,Alex Goligoski,Sonny Milano,[70. 15.],2,02:56,ARI,CBJ,ARI,53,CBJ,29,2,1,8471274,8477947.0,2019020246,CBJ,2019-11-08,Alex Goligoski Tripping against Sonny Milano
+156,penalty,Roughing,Pierre-Luc Dubois,Jakob Chychrun,[96. 21.],2,01:10,CBJ,ARI,ARI,53,CBJ,29,2,2,8479400,8479345.0,2019020246,CBJ,2019-11-08,Pierre-Luc Dubois Roughing against Jakob Chychrun
+157,penalty,Cross checking,Jakob Chychrun,Oliver Bjorkstrand,[65. 41.],2,01:10,ARI,CBJ,ARI,53,CBJ,29,2,2,8479345,8477416.0,2019020246,CBJ,2019-11-08,Jakob Chychrun Cross checking against Oliver Bjorkstrand
+175,penalty,Interference,Alexandre Texier,Michael Grabner,[82.  4.],3,17:27,CBJ,ARI,ARI,53,CBJ,29,2,2,8480074,8473546.0,2019020246,CBJ,2019-11-08,Alexandre Texier Interference against Michael Grabner
+183,penalty,Tripping,Clayton Keller,Gustav Nyquist,[-30. -38.],3,14:37,ARI,CBJ,ARI,53,CBJ,29,2,2,8479343,8474679.0,2019020246,CBJ,2019-11-08,Clayton Keller Tripping against Gustav Nyquist
+226,penalty,Hooking,Vladislav Gavrikov,Clayton Keller,[ 70. -15.],3,01:48,CBJ,ARI,ARI,53,CBJ,29,2,3,8478882,8479343.0,2019020246,CBJ,2019-11-08,Vladislav Gavrikov Hooking against Clayton Keller
+63,penalty,Hooking,Mikko Koivu,Lawson Crouse,[ 67. -21.],1,01:40,MIN,ARI,ARI,53,MIN,30,2,0,8469459,8478474.0,2019020259,MIN,2019-11-10,Mikko Koivu Hooking against Lawson Crouse
+83,penalty,Hooking,Jordan Oesterle,Joel Eriksson Ek,[ 91. -20.],2,17:46,ARI,MIN,ARI,53,MIN,30,2,0,8477851,8478493.0,2019020259,MIN,2019-11-10,Jordan Oesterle Hooking against Joel Eriksson Ek
+192,penalty,Cross checking,Ryan Hartman,Derek Stepan,[67.  2.],3,10:00,MIN,ARI,ARI,53,MIN,30,3,4,8477451,8474613.0,2019020259,MIN,2019-11-10,Ryan Hartman Cross checking against Derek Stepan
+224,penalty,Holding,Eric Staal,Phil Kessel,[37. 13.],3,00:12,MIN,ARI,ARI,53,MIN,30,3,4,8470595,8473548.0,2019020259,MIN,2019-11-10,Eric Staal Holding against Phil Kessel
+45,penalty,Slashing,Jakub Vrana,Jordan Oesterle,[-56. -32.],1,09:06,WSH,ARI,WSH,15,ARI,53,0,0,8477944,8477851.0,2019020270,ARI,2019-11-12,Jakub Vrana Slashing against Jordan Oesterle
+57,penalty,Hooking,Nick Schmaltz,Jakub Vrana,[-81.  -1.],1,05:00,ARI,WSH,WSH,15,ARI,53,0,1,8477951,8477944.0,2019020270,ARI,2019-11-12,Nick Schmaltz Hooking against Jakub Vrana
+161,penalty,Hooking,Jason Demers,T.J. Oshie,[76.  0.],2,00:29,ARI,WSH,WSH,15,ARI,53,1,3,8474218,8471698.0,2019020270,ARI,2019-11-12,Jason Demers Hooking against T.J. Oshie
+180,penalty,Tripping,Derek Stepan,Dmitry Orlov,[-71. -29.],3,14:27,ARI,WSH,WSH,15,ARI,53,2,3,8474613,8475200.0,2019020270,ARI,2019-11-12,Derek Stepan Tripping against Dmitry Orlov
+192,penalty,Hi-sticking,T.J. Oshie,Christian Fischer,[62. 41.],3,10:11,WSH,ARI,WSH,15,ARI,53,2,3,8471698,8478432.0,2019020270,ARI,2019-11-12,T.J. Oshie Hi-sticking against Christian Fischer
+40,penalty,Tripping,Ilya Lyubushkin,Mackenzie MacEachern,[88. 32.],1,07:29,ARI,STL,STL,19,ARI,53,0,0,8480950,8476907.0,2019020275,ARI,2019-11-13,Ilya Lyubushkin Tripping against Mackenzie MacEachern
+112,penalty,Delaying Game - Puck over glass,Jakob Chychrun,,[-76. -29.],2,12:17,ARI,STL,STL,19,ARI,53,1,1,8479345,,2019020275,ARI,2019-11-13,Jakob Chychrun Delaying Game - Puck over glass
+153,penalty,Illegal check to head,Sammy Blais,Jason Demers,[-95.   1.],2,02:02,STL,ARI,STL,19,ARI,53,2,1,8478104,8474218.0,2019020275,ARI,2019-11-13,Sammy Blais Illegal check to head against Jason Demers
+169,penalty,Tripping,Justin Faulk,Carl Soderberg,[-86.  36.],3,15:13,STL,ARI,STL,19,ARI,53,2,1,8475753,8471262.0,2019020275,ARI,2019-11-13,Justin Faulk Tripping against Carl Soderberg
+192,penalty,Tripping,Alex Goligoski,Oskar Sundqvist,[ 91. -30.],3,08:41,ARI,STL,STL,19,ARI,53,2,2,8471274,8476897.0,2019020275,ARI,2019-11-13,Alex Goligoski Tripping against Oskar Sundqvist
+222,penalty,Too many men on the ice,David Perron,,[0. 1.],4,03:31,STL,ARI,STL,19,ARI,53,2,2,8474102,,2019020275,ARI,2019-11-13,Too many men/ice served by David Perron
+27,penalty,Hooking,Alex Goligoski,Ryan Donato,[-83.   3.],1,12:17,ARI,MIN,MIN,30,ARI,53,0,0,8471274,8477987.0,2019020289,ARI,2019-11-15,Alex Goligoski Hooking against Ryan Donato
+40,penalty,Holding,Kevin Fiala,Jakob Chychrun,[-82.  38.],1,08:34,MIN,ARI,MIN,30,ARI,53,0,0,8477942,8479345.0,2019020289,ARI,2019-11-15,Kevin Fiala Holding against Jakob Chychrun
+78,penalty,Holding,Alex Goligoski,Ryan Hartman,[55. 21.],2,17:28,ARI,MIN,MIN,30,ARI,53,1,0,8471274,8477451.0,2019020289,ARI,2019-11-15,Alex Goligoski Holding against Ryan Hartman
+148,penalty,Interference,Ryan Hartman,Lawson Crouse,[56. 31.],3,16:59,MIN,ARI,MIN,30,ARI,53,1,1,8477451,8478474.0,2019020289,ARI,2019-11-15,Ryan Hartman Interference against Lawson Crouse
+155,penalty,Interference,Oliver Ekman-Larsson,Eric Staal,[-35.  35.],3,14:31,ARI,MIN,MIN,30,ARI,53,1,1,8475171,8470595.0,2019020289,ARI,2019-11-15,Oliver Ekman-Larsson Interference against Eric Staal
+188,penalty,Delaying Game - Puck over glass,Jason Zucker,,[ 35. -39.],3,05:12,MIN,ARI,MIN,30,ARI,53,3,2,8475722,,2019020289,ARI,2019-11-15,Jason Zucker Delaying Game - Puck over glass
+49,penalty,Interference,Milan Lucic,Jakob Chychrun,[-98.   6.],1,06:57,CGY,ARI,ARI,53,CGY,20,0,0,8473473,8479345.0,2019020302,CGY,2019-11-16,Milan Lucic Interference against Jakob Chychrun
+55,penalty,Tripping,Mikael Backlund,Clayton Keller,[34. 28.],1,05:01,CGY,ARI,ARI,53,CGY,20,0,0,8474150,8479343.0,2019020302,CGY,2019-11-16,Mikael Backlund Tripping against Clayton Keller
+66,penalty,Interference,Michael Grabner,Sean Monahan,[-60. -16.],1,02:28,ARI,CGY,ARI,53,CGY,20,0,0,8473546,8477497.0,2019020302,CGY,2019-11-16,Michael Grabner Interference against Sean Monahan
+82,penalty,Tripping,Michael Stone,Clayton Keller,[-61.  -9.],2,18:01,CGY,ARI,ARI,53,CGY,20,0,0,8474628,8479343.0,2019020302,CGY,2019-11-16,Michael Stone Tripping against Clayton Keller
+131,penalty,Tripping,Jason Demers,Tobias Rieder,[38. 35.],2,07:11,ARI,CGY,ARI,53,CGY,20,2,0,8474218,8476356.0,2019020302,CGY,2019-11-16,Jason Demers Tripping against Tobias Rieder
+165,penalty,Roughing,Matthew Tkachuk,Darcy Kuemper,[67. -2.],2,00:12,CGY,ARI,ARI,53,CGY,20,2,0,8479314,8475311.0,2019020302,CGY,2019-11-16,Matthew Tkachuk Roughing against Darcy Kuemper
+166,penalty,Cross checking,Johnny Gaudreau,Jason Demers,[69. -1.],2,00:12,CGY,ARI,ARI,53,CGY,20,2,0,8476346,8474218.0,2019020302,CGY,2019-11-16,Johnny Gaudreau Cross checking against Jason Demers
+167,penalty,Roughing,Matthew Tkachuk,Darcy Kuemper,[73. -3.],2,00:12,CGY,ARI,ARI,53,CGY,20,2,0,8479314,8475311.0,2019020302,CGY,2019-11-16,Matthew Tkachuk Roughing against Darcy Kuemper
+168,penalty,Roughing,Jason Demers,Mark Giordano,[71.  0.],2,00:12,ARI,CGY,ARI,53,CGY,20,2,0,8474218,8470966.0,2019020302,CGY,2019-11-16,Jason Demers Roughing against Mark Giordano
+169,penalty,Goalie leave crease,David Rittich,Rasmus Andersson,[70. -1.],2,00:12,CGY,ARI,ARI,53,CGY,20,2,0,8479496,8478397.0,2019020302,CGY,2019-11-16,David Rittich Goalie leave crease against Darcy Kuemper served by Rasmus Andersson
+170,penalty,Roughing,Darcy Kuemper,Vinnie Hinostroza,[76. -1.],2,00:12,ARI,CGY,ARI,53,CGY,20,2,0,8475311,8476994.0,2019020302,CGY,2019-11-16,Darcy Kuemper Roughing against Matthew Tkachuk served by Vinnie Hinostroza
+171,penalty,Roughing,Darcy Kuemper,Vinnie Hinostroza,[75.  0.],2,00:12,ARI,CGY,ARI,53,CGY,20,2,0,8475311,8476994.0,2019020302,CGY,2019-11-16,Darcy Kuemper Roughing against Matthew Tkachuk served by Vinnie Hinostroza
+220,penalty,Roughing,Lawson Crouse,Conor Garland,[-15.  40.],3,07:18,ARI,CGY,ARI,53,CGY,20,2,0,8478474,8478856.0,2019020302,CGY,2019-11-16,Lawson Crouse Roughing against Rasmus Andersson served by Conor Garland
+221,penalty,Roughing,Lawson Crouse,Rasmus Andersson,[-18.  39.],3,07:18,ARI,CGY,ARI,53,CGY,20,2,0,8478474,8478397.0,2019020302,CGY,2019-11-16,Lawson Crouse Roughing against Rasmus Andersson
+222,penalty,Roughing,Rasmus Andersson,Lawson Crouse,[-13.  39.],3,07:18,CGY,ARI,ARI,53,CGY,20,2,0,8478397,8478474.0,2019020302,CGY,2019-11-16,Rasmus Andersson Roughing against Lawson Crouse
+52,penalty,Interference,Ben Hutton,Lawson Crouse,[ 42. -40.],1,06:00,LAK,ARI,ARI,53,LAK,26,1,0,8477018,8478474.0,2019020317,LAK,2019-11-19,Ben Hutton Interference against Lawson Crouse
+69,penalty,Interference,Alex Iafallo,Christian Fischer,[-56. -30.],1,02:32,LAK,ARI,ARI,53,LAK,26,2,0,8480113,8478432.0,2019020317,LAK,2019-11-19,Alex Iafallo Interference against Christian Fischer
+94,penalty,Holding,Michael Grabner,Alex Iafallo,[51. 39.],2,16:51,ARI,LAK,ARI,53,LAK,26,2,0,8473546,8480113.0,2019020317,LAK,2019-11-19,Michael Grabner Holding against Alex Iafallo
+102,penalty,Slashing,Christian Dvorak,Anze Kopitar,[69.  3.],2,13:30,ARI,LAK,ARI,53,LAK,26,2,0,8477989,8471685.0,2019020317,LAK,2019-11-19,Christian Dvorak Slashing against Anze Kopitar
+120,penalty,Tripping,Nikolai Prokhorkin,Nick Schmaltz,[ 77. -40.],2,10:30,LAK,ARI,ARI,53,LAK,26,2,0,8476947,8477951.0,2019020317,LAK,2019-11-19,Nikolai Prokhorkin Tripping against Nick Schmaltz
+126,penalty,Hi-sticking,Blake Lizotte,Brad Richardson,[0. 1.],2,09:00,LAK,ARI,ARI,53,LAK,26,3,0,8481481,8470755.0,2019020317,LAK,2019-11-19,Blake Lizotte Hi-sticking against Brad Richardson
+133,penalty,Hooking,Jakob Chychrun,Kyle Clifford,[ 37. -39.],2,06:30,ARI,LAK,ARI,53,LAK,26,3,0,8479345,8475160.0,2019020317,LAK,2019-11-19,Jakob Chychrun Hooking against Kyle Clifford
+156,penalty,Tripping,Brad Richardson,Michael Amadio,[ 84. -11.],2,00:32,ARI,LAK,ARI,53,LAK,26,3,0,8470755,8478020.0,2019020317,LAK,2019-11-19,Brad Richardson Tripping against Michael Amadio
+155,penalty,Hi-sticking,William Nylander,Alex Goligoski,[94. 12.],2,04:24,TOR,ARI,ARI,53,TOR,10,0,1,8477939,8471274.0,2019020343,,2019-11-22,William Nylander Hi-sticking against Alex Goligoski
+217,penalty,Hi-sticking,Jake Muzzin,Vinnie Hinostroza,[77.  3.],3,11:45,TOR,ARI,ARI,53,TOR,10,0,3,8474162,8476994.0,2019020343,,2019-11-22,Jake Muzzin Hi-sticking against Vinnie Hinostroza
+236,penalty,Tripping,Morgan Rielly,Conor Garland,[97.  1.],3,06:31,TOR,ARI,ARI,53,TOR,10,0,3,8476853,8478856.0,2019020343,,2019-11-22,Morgan Rielly Tripping against Conor Garland
+40,penalty,Hooking,Alex Iafallo,Conor Garland,[62. -6.],1,10:24,LAK,ARI,LAK,26,ARI,53,0,0,8480113,8478856.0,2019020350,,2019-11-24,Alex Iafallo Hooking against Conor Garland
+90,penalty,Tripping,Christian Fischer,Nikolai Prokhorkin,[ 44. -26.],2,18:44,ARI,LAK,LAK,26,ARI,53,0,1,8478432,8476947.0,2019020350,,2019-11-24,Christian Fischer Tripping against Nikolai Prokhorkin
+149,penalty,Hooking,Clayton Keller,Ben Hutton,[-94.   6.],2,04:04,ARI,LAK,LAK,26,ARI,53,1,2,8479343,8477018.0,2019020350,,2019-11-24,Clayton Keller Hooking against Ben Hutton
+185,penalty,Hooking,Jordan Oesterle,Dustin Brown,[-81.  12.],3,13:15,ARI,LAK,LAK,26,ARI,53,1,2,8477851,8470606.0,2019020350,,2019-11-24,Jordan Oesterle Hooking against Dustin Brown
+4,penalty,Too many men on the ice,Nick Schmaltz,,[-21.  39.],1,18:19,ARI,EDM,ARI,53,EDM,22,0,0,8477951,,2019020364,EDM,2019-11-25,Too many men/ice served by Nick Schmaltz
+12,penalty,Tripping,Patrick Russell,Jakob Chychrun,[-75.   3.],1,17:11,EDM,ARI,ARI,53,EDM,22,0,1,8479466,8479345.0,2019020364,EDM,2019-11-25,Patrick Russell Tripping against Jakob Chychrun
+37,penalty,Slashing,Joakim Nygard,Conor Garland,[ 56. -37.],1,12:13,EDM,ARI,ARI,53,EDM,22,0,1,8481638,8478856.0,2019020364,EDM,2019-11-25,Joakim Nygard Slashing against Conor Garland
+7,penalty,Slashing,Ondrej Kase,Oliver Ekman-Larsson,[-19. -29.],1,17:43,ANA,ARI,ARI,53,ANA,24,0,0,8478131,8475171.0,2019020386,,2019-11-28,Ondrej Kase Slashing against Oliver Ekman-Larsson
+33,penalty,Tripping,Michael Grabner,Max Jones,[ 67. -12.],1,13:12,ARI,ANA,ARI,53,ANA,24,1,1,8473546,8479368.0,2019020386,,2019-11-28,Michael Grabner Tripping against Max Jones
+155,penalty,Interference,Christian Fischer,Rickard Rakell,[84. 27.],2,07:48,ARI,ANA,ARI,53,ANA,24,2,2,8478432,8476483.0,2019020386,,2019-11-28,Christian Fischer Interference against Rickard Rakell
+156,penalty,Embellishment,Rickard Rakell,Christian Fischer,[83. 24.],2,07:48,ANA,ARI,ARI,53,ANA,24,2,2,8476483,8478432.0,2019020386,,2019-11-28,Rickard Rakell Embellishment against Christian Fischer
+183,penalty,Hooking,Barrett Hayton,Ondrej Kase,[54. 14.],2,00:00,ARI,ANA,ARI,53,ANA,24,2,2,8480849,8478131.0,2019020386,,2019-11-28,Barrett Hayton Hooking against Ondrej Kase
+220,penalty,Tripping,Jakob Chychrun,Ondrej Kase,[-75.  -8.],3,08:38,ARI,ANA,ARI,53,ANA,24,3,3,8479345,8478131.0,2019020386,,2019-11-28,Jakob Chychrun Tripping against Ondrej Kase
+258,penalty,Slashing,Max Jones,Derek Stepan,[-77.   2.],4,02:19,ANA,ARI,ARI,53,ANA,24,3,3,8479368,8474613.0,2019020386,,2019-11-28,Max Jones Slashing against Derek Stepan
+27,penalty,Hooking,Nicolas Hague,Clayton Keller,[ 72. -40.],1,14:46,VGK,ARI,VGK,54,ARI,53,0,0,8479980,8479343.0,2019020399,,2019-11-30,Nicolas Hague Hooking against Clayton Keller
+123,penalty,Delaying Game - Puck over glass,Derek Stepan,,[69. 35.],2,14:47,ARI,VGK,VGK,54,ARI,53,0,0,8474613,,2019020399,,2019-11-30,Derek Stepan Delaying Game - Puck over glass
+137,penalty,Holding,Oliver Ekman-Larsson,Deryk Engelland,[80.  1.],2,10:41,ARI,VGK,VGK,54,ARI,53,1,0,8475171,8468674.0,2019020399,,2019-11-30,Oliver Ekman-Larsson Holding against Deryk Engelland
+202,penalty,Tripping,Clayton Keller,Brayden McNabb,[-72.  -1.],3,13:29,ARI,VGK,VGK,54,ARI,53,1,1,8479343,8475188.0,2019020399,,2019-11-30,Clayton Keller Tripping against Brayden McNabb
+229,penalty,Illegal check to head,Brad Richardson,Cody Eakin,[-93. -29.],3,07:22,ARI,VGK,VGK,54,ARI,53,1,1,8470755,8475236.0,2019020399,,2019-11-30,Brad Richardson Illegal check to head against Cody Eakin
+234,penalty,Hooking,William Karlsson,Christian Dvorak,[-43.  37.],3,06:16,VGK,ARI,VGK,54,ARI,53,1,1,8476448,8477989.0,2019020399,,2019-11-30,William Karlsson Hooking against Christian Dvorak
+239,penalty,Holding,Phil Kessel,Jonathan Marchessault,[-93.   3.],3,05:57,ARI,VGK,VGK,54,ARI,53,1,1,8473548,8476539.0,2019020399,,2019-11-30,Phil Kessel Holding against Jonathan Marchessault
+56,penalty,Hi-sticking,Jakob Chychrun,Kevin Labanc,[-87.  29.],1,03:26,ARI,SJS,ARI,53,SJS,28,2,1,8479345,8478099.0,2019020412,,2019-12-01,Jakob Chychrun Hi-sticking against Kevin Labanc
+142,penalty,Tripping,Erik Karlsson,Brad Richardson,[85.  9.],3,19:24,SJS,ARI,ARI,53,SJS,28,2,3,8474578,8470755.0,2019020412,,2019-12-01,Erik Karlsson Tripping against Brad Richardson
+157,penalty,Tripping,Erik Karlsson,Clayton Keller,[83. 33.],3,13:05,SJS,ARI,ARI,53,SJS,28,2,3,8474578,8479343.0,2019020412,,2019-12-01,Erik Karlsson Tripping against Clayton Keller
+161,penalty,Delaying Game - Puck over glass,Radim Simek,,[ 80. -36.],3,10:49,SJS,ARI,ARI,53,SJS,28,2,3,8480160,,2019020412,,2019-12-01,Radim Simek Delaying Game - Puck over glass
+56,penalty,Holding,Vladislav Gavrikov,Lawson Crouse,[-74. -40.],1,02:14,CBJ,ARI,CBJ,29,ARI,53,0,0,8478882,8478474.0,2019020429,,2019-12-04,Vladislav Gavrikov Holding against Lawson Crouse
+66,penalty,Hi stick - double minor,Jakob Chychrun,Gustav Nyquist,[-67.  41.],2,19:29,ARI,CBJ,CBJ,29,ARI,53,0,1,8479345,8474679.0,2019020429,,2019-12-04,Jakob Chychrun Hi stick - double minor against Gustav Nyquist
+134,penalty,Hooking,Oliver Ekman-Larsson,Oliver Bjorkstrand,[-93.  26.],2,00:36,ARI,CBJ,CBJ,29,ARI,53,1,3,8475171,8477416.0,2019020429,,2019-12-04,Oliver Ekman-Larsson Hooking against Oliver Bjorkstrand
+13,penalty,Slashing,Claude Giroux,Lawson Crouse,[68. 24.],1,17:56,PHI,ARI,PHI,4,ARI,53,0,0,8473512,8478474.0,2019020442,,2019-12-06,Claude Giroux Slashing against Lawson Crouse
+27,penalty,Tripping,Claude Giroux,Vinnie Hinostroza,[-20. -21.],1,14:07,PHI,ARI,PHI,4,ARI,53,0,1,8473512,8476994.0,2019020442,,2019-12-06,Claude Giroux Tripping against Vinnie Hinostroza
+42,penalty,Tripping,Jakob Chychrun,Jakub Voracek,[-97.   3.],1,10:17,ARI,PHI,PHI,4,ARI,53,0,1,8479345,8474161.0,2019020442,,2019-12-06,Jakob Chychrun Tripping against Jakub Voracek
+117,penalty,Hi-sticking,Philippe Myers,Michael Grabner,[-42.  -9.],2,11:58,PHI,ARI,PHI,4,ARI,53,0,1,8479026,8473546.0,2019020442,,2019-12-06,Philippe Myers Hi-sticking against Michael Grabner
+137,penalty,Interference,Jakob Chychrun,Tyler Pitlick,[97. 10.],2,05:56,ARI,PHI,PHI,4,ARI,53,0,1,8479345,8475752.0,2019020442,,2019-12-06,Jakob Chychrun Interference against Tyler Pitlick
+155,penalty,Slashing,Nick Schmaltz,Philippe Myers,[-50. -20.],2,02:16,ARI,PHI,PHI,4,ARI,53,0,1,8477951,8479026.0,2019020442,,2019-12-06,Nick Schmaltz Slashing against Philippe Myers
+235,penalty,Cross checking,Kevin Hayes,Oliver Ekman-Larsson,[-96.  -5.],3,02:23,PHI,ARI,PHI,4,ARI,53,1,2,8475763,8475171.0,2019020442,,2019-12-06,Kevin Hayes Cross checking against Oliver Ekman-Larsson
+56,penalty,Interference,Marcus Pettersson,Christian Fischer,[-84.   1.],1,10:11,PIT,ARI,PIT,5,ARI,53,0,0,8477969,8478432.0,2019020449,,2019-12-07,Marcus Pettersson Interference against Christian Fischer
+86,penalty,Slashing,Jake Guentzel,Vinnie Hinostroza,[-73.   7.],1,02:50,PIT,ARI,PIT,5,ARI,53,0,0,8477404,8476994.0,2019020449,,2019-12-07,Jake Guentzel Slashing against Vinnie Hinostroza
+103,penalty,Delaying Game - Puck over glass,Vinnie Hinostroza,,[-71. -22.],2,18:05,ARI,PIT,PIT,5,ARI,53,0,0,8476994,,2019020449,,2019-12-07,Vinnie Hinostroza Delaying Game - Puck over glass
+105,penalty,Cross checking,Oliver Ekman-Larsson,Jake Guentzel,[-80.  -4.],2,17:54,ARI,PIT,PIT,5,ARI,53,0,0,8475171,8477404.0,2019020449,,2019-12-07,Oliver Ekman-Larsson Cross checking against Jake Guentzel
+137,penalty,Tripping,Brandon Tanev,Clayton Keller,[26.  6.],2,10:59,PIT,ARI,PIT,5,ARI,53,0,0,8479293,8479343.0,2019020449,,2019-12-07,Brandon Tanev Tripping against Clayton Keller
+232,penalty,Tripping,Jake Guentzel,Vinnie Hinostroza,[63. -5.],3,08:31,PIT,ARI,PIT,5,ARI,53,1,0,8477404,8476994.0,2019020449,,2019-12-07,Jake Guentzel Tripping against Vinnie Hinostroza
+271,penalty,Delaying Game - Puck over glass,Bryan Rust,,[-68.  26.],3,00:13,PIT,ARI,PIT,5,ARI,53,1,0,8475810,,2019020449,,2019-12-07,Bryan Rust Delaying Game - Puck over glass
+43,penalty,Tripping,Jason Demers,Brandon Saad,[-63.  19.],1,11:47,ARI,CHI,CHI,16,ARI,53,1,0,8474218,8476438.0,2019020465,ARI,2019-12-09,Jason Demers Tripping against Brandon Saad
+98,penalty,Interference,Brent Seabrook,Vinnie Hinostroza,[95. 15.],1,00:31,CHI,ARI,CHI,16,ARI,53,3,1,8470607,8476994.0,2019020465,ARI,2019-12-09,Brent Seabrook Interference against Vinnie Hinostroza
+125,penalty,Tripping,Jonathan Toews,Alex Goligoski,[70. -6.],2,14:50,CHI,ARI,CHI,16,ARI,53,3,1,8473604,8471274.0,2019020465,ARI,2019-12-09,Jonathan Toews Tripping against Alex Goligoski
+136,penalty,Misconduct,Dennis Gilbert,Jason Demers,[94. 22.],2,12:59,CHI,ARI,CHI,16,ARI,53,3,2,8478502,8474218.0,2019020465,ARI,2019-12-09,Dennis Gilbert Misconduct against Jason Demers
+137,penalty,Fighting,Dennis Gilbert,Jason Demers,[95. 21.],2,12:59,CHI,ARI,CHI,16,ARI,53,3,2,8478502,8474218.0,2019020465,ARI,2019-12-09,Dennis Gilbert Fighting against Jason Demers
+138,penalty,Instigator,Dennis Gilbert,Dylan Sikura,[92. 26.],2,12:59,CHI,ARI,CHI,16,ARI,53,3,2,8478502,8478106.0,2019020465,ARI,2019-12-09,Dennis Gilbert Instigator against Jason Demers served by Dylan Sikura
+139,penalty,Fighting,Jason Demers,Dennis Gilbert,[93. 26.],2,12:59,ARI,CHI,CHI,16,ARI,53,3,2,8474218,8478502.0,2019020465,ARI,2019-12-09,Jason Demers Fighting against Dennis Gilbert
+185,penalty,Slashing,Slater Koekkoek,Vinnie Hinostroza,[-74.   5.],2,02:32,CHI,ARI,CHI,16,ARI,53,3,3,8476886,8476994.0,2019020465,ARI,2019-12-09,Slater Koekkoek Slashing against Vinnie Hinostroza
+234,penalty,Tripping,Calvin de Haan,Carl Soderberg,[ 96. -11.],3,12:26,CHI,ARI,CHI,16,ARI,53,3,3,8475177,8471262.0,2019020465,ARI,2019-12-09,Calvin de Haan Tripping against Carl Soderberg
+289,penalty,Hooking,Nick Schmaltz,Alex DeBrincat,[-66.   6.],4,03:00,ARI,CHI,CHI,16,ARI,53,3,3,8477951,8479337.0,2019020465,ARI,2019-12-09,Nick Schmaltz Hooking against Alex DeBrincat
+294,penalty,Slashing,Jonathan Toews,Oliver Ekman-Larsson,[ 89. -31.],4,01:25,CHI,ARI,CHI,16,ARI,53,3,3,8473604,8475171.0,2019020465,ARI,2019-12-09,Jonathan Toews Slashing against Oliver Ekman-Larsson
+83,penalty,Hooking,Clayton Keller,TJ Brodie,[ 87. -35.],1,02:03,ARI,CGY,ARI,53,CGY,20,0,2,8479343,8474673.0,2019020480,,2019-12-11,Clayton Keller Hooking against TJ Brodie
+85,penalty,Cross checking,Derek Stepan,Sean Monahan,[-69.  -6.],1,01:58,ARI,CGY,ARI,53,CGY,20,0,2,8474613,8477497.0,2019020480,,2019-12-11,Derek Stepan Cross checking against Sean Monahan
+86,penalty,Cross checking,Sean Monahan,Derek Stepan,[-68.  -4.],1,01:58,CGY,ARI,ARI,53,CGY,20,0,2,8477497,8474613.0,2019020480,,2019-12-11,Sean Monahan Cross checking against Derek Stepan
+122,penalty,Tripping,Alex Goligoski,Zac Rinaldo,[31.  9.],2,12:34,ARI,CGY,ARI,53,CGY,20,0,3,8471274,8474736.0,2019020480,,2019-12-11,Alex Goligoski Tripping against Zac Rinaldo
+226,penalty,Hi-sticking,Conor Garland,Zac Rinaldo,[25. 21.],3,06:25,ARI,CGY,ARI,53,CGY,20,1,4,8478856,8474736.0,2019020480,,2019-12-11,Conor Garland Hi-sticking against Zac Rinaldo
+251,penalty,Hi-sticking,Michael Frolik,Aaron Ness,[-97. -11.],3,01:03,CGY,ARI,ARI,53,CGY,20,1,5,8473564,8474604.0,2019020480,,2019-12-11,Michael Frolik Hi-sticking against Aaron Ness
+1,penalty,Tripping,Alex DeBrincat,Christian Fischer,[-19. -40.],1,19:50,CHI,ARI,ARI,53,CHI,16,0,0,8479337,8478432.0,2019020495,,2019-12-13,Alex DeBrincat Tripping against Christian Fischer
+43,penalty,Tripping,Jakob Chychrun,Dylan Strome,[-87. -18.],1,09:10,ARI,CHI,ARI,53,CHI,16,2,0,8479345,8478440.0,2019020495,,2019-12-13,Jakob Chychrun Tripping against Dylan Strome
+50,penalty,Hooking,Alex Nylander,Alex Goligoski,[-96. -20.],1,07:52,CHI,ARI,ARI,53,CHI,16,2,0,8479423,8471274.0,2019020495,,2019-12-13,Alex Nylander Hooking against Alex Goligoski
+69,penalty,Cross checking,Zack Smith,Aaron Ness,[-79.  -2.],1,03:02,CHI,ARI,ARI,53,CHI,16,3,0,8474250,8474604.0,2019020495,,2019-12-13,Zack Smith Cross checking against Aaron Ness
+95,penalty,Hooking,Nick Schmaltz,Kirby Dach,[37. 24.],2,18:22,ARI,CHI,ARI,53,CHI,16,3,0,8477951,8481523.0,2019020495,,2019-12-13,Nick Schmaltz Hooking against Kirby Dach
+180,penalty,Tripping,Kirby Dach,Oliver Ekman-Larsson,[-97.  15.],3,14:26,CHI,ARI,ARI,53,CHI,16,4,1,8481523,8475171.0,2019020495,,2019-12-13,Kirby Dach Tripping against Oliver Ekman-Larsson
+200,penalty,Too many men on the ice,Phil Kessel,,[-13.  39.],3,07:44,ARI,CHI,ARI,53,CHI,16,4,1,8473548,,2019020495,,2019-12-13,Too many men/ice served by Phil Kessel
+26,penalty,Tripping,P.K. Subban,Carl Soderberg,[39. 39.],1,13:27,NJD,ARI,ARI,53,NJD,1,0,1,8474056,8471262.0,2019020513,,2019-12-15,P.K. Subban Tripping against Carl Soderberg
+53,penalty,Holding the stick,P.K. Subban,Derek Stepan,[83.  6.],1,06:22,NJD,ARI,ARI,53,NJD,1,0,1,8474056,8474613.0,2019020513,,2019-12-15,P.K. Subban Holding the stick against Derek Stepan
+82,penalty,Hi-sticking,Alex Goligoski,Miles Wood,[ -4. -40.],1,00:10,ARI,NJD,ARI,53,NJD,1,1,1,8471274,8477425.0,2019020513,,2019-12-15,Alex Goligoski Hi-sticking against Miles Wood
+145,penalty,Slashing,Nick Schmaltz,Will Butcher,[-94.   7.],2,04:31,ARI,NJD,ARI,53,NJD,1,1,1,8477951,8477355.0,2019020513,,2019-12-15,Nick Schmaltz Slashing against Will Butcher
+206,penalty,Slashing,Wayne Simmonds,Phil Kessel,[-60. -34.],3,11:37,NJD,ARI,ARI,53,NJD,1,1,1,8474190,8473548.0,2019020513,,2019-12-15,Wayne Simmonds Slashing against Phil Kessel
+237,penalty,Tripping,Clayton Keller,Pavel Zacha,[ 55. -14.],3,04:31,ARI,NJD,ARI,53,NJD,1,1,2,8479343,8478401.0,2019020513,,2019-12-15,Clayton Keller Tripping against Pavel Zacha
+46,penalty,Holding,Kevin Labanc,Ilya Lyubushkin,[89. 35.],1,06:56,SJS,ARI,SJS,28,ARI,53,0,1,8478099,8480950.0,2019020534,,2019-12-18,Kevin Labanc Holding against Ilya Lyubushkin
+139,penalty,Tripping,Tomas Hertl,Ilya Lyubushkin,[-63. -38.],2,03:57,SJS,ARI,SJS,28,ARI,53,2,2,8476881,8480950.0,2019020534,,2019-12-18,Tomas Hertl Tripping against Ilya Lyubushkin
+156,penalty,Cross checking,Jakob Chychrun,Evander Kane,[90. -8.],3,19:22,ARI,SJS,SJS,28,ARI,53,2,2,8479345,8475169.0,2019020534,,2019-12-18,Jakob Chychrun Cross checking against Evander Kane
+177,penalty,Cross checking,Evander Kane,Nick Schmaltz,[-22.  41.],3,13:06,SJS,ARI,SJS,28,ARI,53,2,2,8475169,8477951.0,2019020534,,2019-12-18,Evander Kane Cross checking against Nick Schmaltz
+192,penalty,Delay Gm - Face-off Violation,Brad Richardson,,[ 69. -22.],3,08:43,ARI,SJS,SJS,28,ARI,53,2,2,8470755,,2019020534,,2019-12-18,Brad Richardson Delay Gm - Face-off Violation
+213,penalty,Playing without a helmet,Ilya Lyubushkin,,[70. 41.],3,00:59,ARI,SJS,SJS,28,ARI,53,2,3,8480950,,2019020534,,2019-12-18,Ilya Lyubushkin Playing without a helmet
+216,penalty,Cross checking,Brad Richardson,Tomas Hertl,[79. -1.],3,00:44,ARI,SJS,SJS,28,ARI,53,2,3,8470755,8476881.0,2019020534,,2019-12-18,Brad Richardson Cross checking against Tomas Hertl
+7,penalty,Too many men on the ice,Christian Fischer,,[-13.  40.],1,18:18,ARI,MIN,ARI,53,MIN,30,0,0,8478432,,2019020546,,2019-12-20,Too many men/ice served by Christian Fischer
+13,penalty,Hooking,Brad Hunt,Brad Richardson,[-9. 39.],1,16:39,MIN,ARI,ARI,53,MIN,30,0,0,8476779,8470755.0,2019020546,,2019-12-20,Brad Hunt Hooking against Brad Richardson
+45,penalty,Slashing,Taylor Hall,Carson Soucy,[ 1. 38.],1,09:02,ARI,MIN,ARI,53,MIN,30,0,0,8475791,8477369.0,2019020546,,2019-12-20,Taylor Hall Slashing against Carson Soucy
+46,penalty,Cross checking,Carson Soucy,Taylor Hall,[ 6. 39.],1,09:02,MIN,ARI,ARI,53,MIN,30,0,0,8477369,8475791.0,2019020546,,2019-12-20,Carson Soucy Cross checking against Taylor Hall
+113,penalty,Holding,Oliver Ekman-Larsson,Ryan Donato,[  3. -31.],2,14:43,ARI,MIN,ARI,53,MIN,30,1,2,8475171,8477987.0,2019020546,,2019-12-20,Oliver Ekman-Larsson Holding against Ryan Donato
+124,penalty,Hooking,Carson Soucy,Derek Stepan,[-80.  -7.],2,11:45,MIN,ARI,ARI,53,MIN,30,1,2,8477369,8474613.0,2019020546,,2019-12-20,Carson Soucy Hooking against Derek Stepan
+174,penalty,Hooking,Kevin Fiala,Oliver Ekman-Larsson,[61. 21.],2,01:17,MIN,ARI,ARI,53,MIN,30,2,4,8477942,8475171.0,2019020546,,2019-12-20,Kevin Fiala Hooking against Oliver Ekman-Larsson
+190,penalty,Delaying Game - Puck over glass,Victor Rask,,[ 62. -20.],3,17:37,MIN,ARI,ARI,53,MIN,30,3,4,8476437,,2019020546,,2019-12-20,Victor Rask Delaying Game - Puck over glass
+221,penalty,Hooking,Eric Staal,Oliver Ekman-Larsson,[-92. -30.],3,12:02,MIN,ARI,ARI,53,MIN,30,5,6,8470595,8475171.0,2019020546,,2019-12-20,Eric Staal Hooking against Oliver Ekman-Larsson
+222,penalty,Embellishment,Oliver Ekman-Larsson,Eric Staal,[-70. -39.],3,12:02,ARI,MIN,ARI,53,MIN,30,5,6,8475171,8470595.0,2019020546,,2019-12-20,Oliver Ekman-Larsson Embellishment against Eric Staal
+27,penalty,Tripping,Phil Kessel,Valtteri Filppula,[-60.  -8.],1,14:26,ARI,DET,DET,17,ARI,53,0,0,8473548,8470047.0,2019020566,,2019-12-23,Phil Kessel Tripping against Valtteri Filppula
+214,penalty,Hi-sticking,Clayton Keller,Jimmy Howard,[90. -4.],3,12:04,ARI,DET,DET,17,ARI,53,0,4,8479343,8470657.0,2019020566,,2019-12-23,Clayton Keller Hi-sticking against Jimmy Howard
+237,penalty,Hooking,Alex Goligoski,Robby Fabbri,[-90.  -7.],3,08:46,ARI,DET,DET,17,ARI,53,1,5,8471274,8477952.0,2019020566,,2019-12-23,Alex Goligoski Hooking against Robby Fabbri
+156,penalty,Delaying Game - Puck over glass,Dante Fabbro,,[ 57. -37.],2,01:19,NSH,ARI,NSH,18,ARI,53,2,1,8479371,,2019020576,,2019-12-24,Dante Fabbro Delaying Game - Puck over glass
+173,penalty,Interference,Nick Schmaltz,Calle Jarnkrok,[35. 11.],3,15:13,ARI,NSH,NSH,18,ARI,53,2,1,8477951,8475714.0,2019020576,,2019-12-24,Nick Schmaltz Interference against Calle Jarnkrok
+217,penalty,Holding,Colton Sissons,Nick Schmaltz,[-47.  18.],3,00:25,NSH,ARI,NSH,18,ARI,53,3,2,8476925,8477951.0,2019020576,,2019-12-24,Colton Sissons Holding against Nick Schmaltz
+20,penalty,Hi stick - double minor,Ryan Reaves,Derek Stepan,[-86.   4.],1,16:31,VGK,ARI,VGK,54,ARI,53,0,0,8471817,8474613.0,2019020600,,2019-12-29,Ryan Reaves Hi stick - double minor against Derek Stepan
+30,penalty,Tripping,Taylor Hall,Tomas Nosek,[88. 36.],1,12:25,ARI,VGK,VGK,54,ARI,53,0,0,8475791,8477931.0,2019020600,,2019-12-29,Taylor Hall Tripping against Tomas Nosek
+83,penalty,Holding,William Carrier,Jakob Chychrun,[-86.  33.],1,01:50,VGK,ARI,VGK,54,ARI,53,2,1,8477478,8479345.0,2019020600,,2019-12-29,William Carrier Holding against Jakob Chychrun
+87,penalty,Hooking,Oliver Ekman-Larsson,Reilly Smith,[-76.   0.],1,01:29,ARI,VGK,VGK,54,ARI,53,2,1,8475171,8475191.0,2019020600,,2019-12-29,Oliver Ekman-Larsson Hooking against Reilly Smith
+113,penalty,Interference,Nick Holden,Conor Garland,[45. 38.],2,16:33,VGK,ARI,VGK,54,ARI,53,4,1,8474207,8478856.0,2019020600,,2019-12-29,Nick Holden Interference against Conor Garland
+143,penalty,Roughing,Christian Dvorak,Mark Stone,[28. 40.],2,09:37,ARI,VGK,VGK,54,ARI,53,4,1,8477989,8475913.0,2019020600,,2019-12-29,Christian Dvorak Roughing against Mark Stone
+174,penalty,Kneeing,Max Pacioretty,Derek Stepan,[30. 33.],2,01:30,VGK,ARI,VGK,54,ARI,53,4,1,8474157,8474613.0,2019020600,,2019-12-29,Max Pacioretty Kneeing against Derek Stepan
+209,penalty,Fighting,Max Pacioretty,Lawson Crouse,[-10.  41.],3,11:20,VGK,ARI,VGK,54,ARI,53,4,1,8474157,8478474.0,2019020600,,2019-12-29,Max Pacioretty Fighting against Lawson Crouse
+210,penalty,Fighting,Lawson Crouse,Max Pacioretty,[-10.  41.],3,11:20,ARI,VGK,VGK,54,ARI,53,4,1,8478474,8474157.0,2019020600,,2019-12-29,Lawson Crouse Fighting against Max Pacioretty
+54,penalty,Interference,Oliver Ekman-Larsson,Jamie Benn,[ 57. -27.],1,10:12,ARI,DAL,ARI,53,DAL,25,1,0,8475171,8473994.0,2019020609,,2019-12-30,Oliver Ekman-Larsson Interference against Jamie Benn
+82,penalty,Cross checking,Corey Perry,Taylor Hall,[78.  0.],1,04:03,DAL,ARI,ARI,53,DAL,25,1,0,8470621,8475791.0,2019020609,,2019-12-30,Corey Perry Cross checking against Taylor Hall
+95,penalty,Delaying Game - Puck over glass,Esa Lindell,,[-15. -40.],1,00:24,DAL,ARI,ARI,53,DAL,25,2,0,8476902,,2019020609,,2019-12-30,Esa Lindell Delaying Game - Puck over glass
+108,penalty,Interference,Jamie Oleksiak,Derek Stepan,[-92. -21.],2,17:17,DAL,ARI,ARI,53,DAL,25,2,0,8476467,8474613.0,2019020609,,2019-12-30,Jamie Oleksiak Interference against Derek Stepan
+174,penalty,Roughing,Jason Demers,Alexander Radulov,[83.  5.],2,04:02,ARI,DAL,ARI,53,DAL,25,2,0,8474218,8471228.0,2019020609,,2019-12-30,Jason Demers Roughing against Alexander Radulov
+208,penalty,Slashing,Phil Kessel,Andrej Sekera,[ 40. -37.],3,16:05,ARI,DAL,ARI,53,DAL,25,2,1,8473548,8471284.0,2019020609,,2019-12-30,Phil Kessel Slashing against Andrej Sekera
+273,penalty,Roughing,Blake Comeau,Oliver Ekman-Larsson,[53. 39.],3,00:11,DAL,ARI,ARI,53,DAL,25,2,4,8471260,8475171.0,2019020609,,2019-12-30,Blake Comeau Roughing against Oliver Ekman-Larsson
+274,penalty,Roughing,Jamie Benn,Oliver Ekman-Larsson,[61. 36.],3,00:11,DAL,ARI,ARI,53,DAL,25,2,4,8473994,8475171.0,2019020609,,2019-12-30,Jamie Benn Roughing against Oliver Ekman-Larsson
+275,penalty,Roughing,Oliver Ekman-Larsson,Jamie Benn,[41. 39.],3,00:11,ARI,DAL,ARI,53,DAL,25,2,4,8475171,8473994.0,2019020609,,2019-12-30,Oliver Ekman-Larsson Roughing against Jamie Benn
+22,penalty,Hi-sticking,Jordan Kyrou,Oliver Ekman-Larsson,[-77. -33.],1,13:52,STL,ARI,ARI,53,STL,19,0,0,8479385,8475171.0,2019020624,,2020-01-01,Jordan Kyrou Hi-sticking against Oliver Ekman-Larsson
+62,penalty,Holding,Ivan Barbashev,Oliver Ekman-Larsson,[-7. 37.],1,03:58,STL,ARI,ARI,53,STL,19,1,1,8477964,8475171.0,2019020624,,2020-01-01,Ivan Barbashev Holding against Oliver Ekman-Larsson
+63,penalty,Unsportsmanlike conduct,Ivan Barbashev,,[  0. -38.],1,03:58,STL,ARI,ARI,53,STL,19,1,1,8477964,,2019020624,,2020-01-01,Ivan Barbashev Unsportsmanlike conduct
+87,penalty,Tripping,Antti Raanta,Phil Kessel,[ 82. -10.],2,18:19,ARI,STL,ARI,53,STL,19,1,1,8477293,8473548.0,2019020624,,2020-01-01,Antti Raanta Tripping against Jaden Schwartz served by Phil Kessel
+89,penalty,Hooking,Oliver Ekman-Larsson,Brayden Schenn,[ 61. -31.],2,18:07,ARI,STL,ARI,53,STL,19,1,1,8475171,8475170.0,2019020624,,2020-01-01,Oliver Ekman-Larsson Hooking against Brayden Schenn
+113,penalty,Tripping,Carl Soderberg,Oskar Sundqvist,[ 49. -19.],2,13:21,ARI,STL,ARI,53,STL,19,1,1,8471262,8476897.0,2019020624,,2020-01-01,Carl Soderberg Tripping against Oskar Sundqvist
+220,penalty,Tripping,Jason Demers,Ivan Barbashev,[-76. -35.],3,06:51,ARI,STL,ARI,53,STL,19,2,1,8474218,8477964.0,2019020624,,2020-01-01,Jason Demers Tripping against Ivan Barbashev
+234,penalty,Boarding,Jacob de la Rose,Phil Kessel,[53. 40.],3,02:32,STL,ARI,ARI,53,STL,19,2,1,8477455,8473548.0,2019020624,,2020-01-01,Jacob de la Rose Boarding against Phil Kessel
+133,penalty,Interference,Adam Henrique,Christian Fischer,[-57.  35.],2,12:17,ANA,ARI,ARI,53,ANA,24,1,2,8474641,8478432.0,2019020636,,2020-01-03,Adam Henrique Interference against Christian Fischer
+173,penalty,Slashing,Brad Richardson,Jakob Silfverberg,[-68.  38.],2,02:23,ARI,ANA,ARI,53,ANA,24,1,2,8470755,8475164.0,2019020636,,2020-01-03,Brad Richardson Slashing against Jakob Silfverberg
+211,penalty,Slashing,Ondrej Kase,Jakob Chychrun,[-42.  40.],3,10:39,ANA,ARI,ARI,53,ANA,24,4,2,8478131,8479345.0,2019020636,,2020-01-03,Ondrej Kase Slashing against Jakob Chychrun
+215,penalty,Interference,Michael Del Zotto,Nick Schmaltz,[76.  2.],3,09:34,ANA,ARI,ARI,53,ANA,24,4,2,8474584,8477951.0,2019020636,,2020-01-03,Michael Del Zotto Interference against Nick Schmaltz
+28,penalty,Holding the stick,Sean Couturier,Christian Fischer,[-10.  35.],1,14:19,PHI,ARI,ARI,53,PHI,4,0,0,8476461,8478432.0,2019020650,,2020-01-05,Sean Couturier Holding the stick against Christian Fischer
+71,penalty,Roughing,Travis Sanheim,Taylor Hall,[81.  1.],1,04:37,PHI,ARI,ARI,53,PHI,4,2,0,8477948,8475791.0,2019020650,,2020-01-05,Travis Sanheim Roughing against Taylor Hall
+83,penalty,Interference,Vinnie Hinostroza,Travis Sanheim,[ -4. -13.],1,02:36,ARI,PHI,ARI,53,PHI,4,3,0,8476994,8477948.0,2019020650,,2020-01-05,Vinnie Hinostroza Interference against Travis Sanheim
+114,penalty,Interference,Scott Laughton,Jordan Oesterle,[33. 38.],2,15:24,PHI,ARI,ARI,53,PHI,4,3,0,8476872,8477851.0,2019020650,,2020-01-05,Scott Laughton Interference against Jordan Oesterle
+125,penalty,Hooking,Christian Dvorak,Nicolas Aube-Kubel,[66.  3.],2,11:42,ARI,PHI,ARI,53,PHI,4,3,0,8477989,8477979.0,2019020650,,2020-01-05,Christian Dvorak Hooking against Nicolas Aube-Kubel
+135,penalty,Hooking,Jordan Oesterle,Nicolas Aube-Kubel,[84. -8.],2,09:12,ARI,PHI,ARI,53,PHI,4,3,0,8477851,8477979.0,2019020650,,2020-01-05,Jordan Oesterle Hooking against Nicolas Aube-Kubel
+142,penalty,Hooking,Claude Giroux,Brad Richardson,[72. 39.],2,07:38,PHI,ARI,ARI,53,PHI,4,3,0,8473512,8470755.0,2019020650,,2020-01-05,Claude Giroux Hooking against Brad Richardson
+168,penalty,Hooking,Scott Laughton,Conor Garland,[-66.   4.],2,02:34,PHI,ARI,ARI,53,PHI,4,3,0,8476872,8478856.0,2019020650,,2020-01-05,Scott Laughton Hooking against Conor Garland
+177,penalty,Roughing,Vinnie Hinostroza,Travis Konecny,[12. 19.],2,00:00,ARI,PHI,ARI,53,PHI,4,4,0,8476994,8478439.0,2019020650,,2020-01-05,Vinnie Hinostroza Roughing against Travis Konecny
+178,penalty,Roughing,Travis Konecny,Vinnie Hinostroza,[11. 22.],2,00:00,PHI,ARI,ARI,53,PHI,4,4,0,8478439,8476994.0,2019020650,,2020-01-05,Travis Konecny Roughing against Vinnie Hinostroza
+238,penalty,Tripping,Phil Kessel,Sean Couturier,[-37.   5.],3,03:21,ARI,PHI,ARI,53,PHI,4,5,2,8473548,8476461.0,2019020650,,2020-01-05,Phil Kessel Tripping against Sean Couturier
+88,penalty,Interference,Lawson Crouse,Aleksander Barkov,[43. 21.],1,03:31,ARI,FLA,FLA,13,ARI,53,0,0,8478474,8477493.0,2019020664,,2020-01-09,Lawson Crouse Interference against Aleksander Barkov
+152,penalty,Tripping,Evgenii Dadonov,Vinnie Hinostroza,[-73. -24.],2,10:25,FLA,ARI,FLA,13,ARI,53,0,0,8474149,8476994.0,2019020664,,2020-01-09,Evgenii Dadonov Tripping against Vinnie Hinostroza
+177,penalty,Roughing,Aleksander Barkov,Christian Fischer,[-94. -19.],2,06:11,FLA,ARI,FLA,13,ARI,53,2,2,8477493,8478432.0,2019020664,,2020-01-09,Aleksander Barkov Roughing against Christian Fischer
+178,penalty,Roughing,Christian Fischer,Aleksander Barkov,[-94. -21.],2,06:11,ARI,FLA,FLA,13,ARI,53,2,2,8478432,8477493.0,2019020664,,2020-01-09,Christian Fischer Roughing against Aleksander Barkov
+185,penalty,Tripping,Brett Connolly,Nick Schmaltz,[-70. -36.],2,04:55,FLA,ARI,FLA,13,ARI,53,2,2,8475792,8477951.0,2019020664,,2020-01-09,Brett Connolly Tripping against Nick Schmaltz
+201,penalty,Hooking,Taylor Hall,Jayce Hawryluk,[-23.  40.],2,01:02,ARI,FLA,FLA,13,ARI,53,2,3,8475791,8477963.0,2019020664,,2020-01-09,Taylor Hall Hooking against Jayce Hawryluk
+84,penalty,Unsportsmanlike conduct,Braydon Coburn,Lawson Crouse,[-62.  38.],2,16:30,TBL,ARI,TBL,14,ARI,53,2,0,8470601,8478474.0,2019020680,,2020-01-10,Braydon Coburn Unsportsmanlike conduct against Lawson Crouse
+155,penalty,Tripping,Cedric Paquette,Ilya Lyubushkin,[-53. -40.],3,15:13,TBL,ARI,TBL,14,ARI,53,4,0,8476975,8480950.0,2019020680,,2020-01-10,Cedric Paquette Tripping against Ilya Lyubushkin
+186,penalty,Interference,Taylor Hall,Conor Garland,[-48. -40.],3,07:16,ARI,TBL,TBL,14,ARI,53,4,0,8475791,8478856.0,2019020680,,2020-01-10,Taylor Hall Interference against Ondrej Palat served by Conor Garland
+187,penalty,Roughing,Tyler Johnson,Taylor Hall,[-53. -37.],3,07:16,TBL,ARI,TBL,14,ARI,53,4,0,8474870,8475791.0,2019020680,,2020-01-10,Tyler Johnson Roughing against Taylor Hall
+188,penalty,Roughing,Taylor Hall,Tyler Johnson,[-55. -39.],3,07:16,ARI,TBL,TBL,14,ARI,53,4,0,8475791,8474870.0,2019020680,,2020-01-10,Taylor Hall Roughing against Tyler Johnson
+15,penalty,Tripping,Christian Dvorak,Nino Niederreiter,[ 46. -34.],1,15:43,ARI,CAR,CAR,12,ARI,53,0,0,8477989,8475799.0,2019020690,,2020-01-11,Christian Dvorak Tripping against Nino Niederreiter
+42,penalty,Cross checking,Nino Niederreiter,Oliver Ekman-Larsson,[-87.  20.],1,09:02,CAR,ARI,CAR,12,ARI,53,0,0,8475799,8475171.0,2019020690,,2020-01-11,Nino Niederreiter Cross checking against Oliver Ekman-Larsson
+110,penalty,Tripping,Erik Haula,Jordan Oesterle,[86. -4.],2,12:44,CAR,ARI,CAR,12,ARI,53,1,0,8475287,8477851.0,2019020690,,2020-01-11,Erik Haula Tripping against Jordan Oesterle
+185,penalty,Slashing,Vinnie Hinostroza,Brock McGinn,[-71.  -2.],3,17:17,ARI,CAR,CAR,12,ARI,53,3,0,8476994,8476934.0,2019020690,,2020-01-11,Vinnie Hinostroza Slashing against Brock McGinn
+194,penalty,Hooking,Andrei Svechnikov,Conor Garland,[-17.   6.],3,14:37,CAR,ARI,CAR,12,ARI,53,3,0,8480830,8478856.0,2019020690,,2020-01-11,Andrei Svechnikov Hooking against Conor Garland
+213,penalty,Boarding,Clayton Keller,Teuvo Teravainen,[-96.  -8.],3,07:13,ARI,CAR,CAR,12,ARI,53,3,0,8479343,8476882.0,2019020690,,2020-01-11,Clayton Keller Boarding against Teuvo Teravainen
+5,penalty,Slashing,Clayton Keller,Marcus Pettersson,[ 92. -32.],1,18:17,ARI,PIT,ARI,53,PIT,5,0,0,8479343,8477969.0,2019020706,,2020-01-13,Clayton Keller Slashing against Marcus Pettersson
+9,penalty,Delaying Game - Puck over glass,Lawson Crouse,,[-35. -38.],1,17:35,ARI,PIT,ARI,53,PIT,5,0,0,8478474,,2019020706,,2020-01-13,Lawson Crouse Delaying Game - Puck over glass
+40,penalty,Tripping,Marcus Pettersson,Carl Soderberg,[-25.  38.],1,09:56,PIT,ARI,ARI,53,PIT,5,0,1,8477969,8471262.0,2019020706,,2020-01-13,Marcus Pettersson Tripping against Carl Soderberg
+78,penalty,Cross checking,Evgeni Malkin,Brad Richardson,[-16.  25.],1,00:00,PIT,ARI,ARI,53,PIT,5,1,1,8471215,8470755.0,2019020706,,2020-01-13,Evgeni Malkin Cross checking against Brad Richardson
+93,penalty,Slashing,Niklas Hjalmarsson,Patric Hornqvist,[51. -9.],2,16:39,ARI,PIT,ARI,53,PIT,5,1,1,8471769,8471887.0,2019020706,,2020-01-13,Niklas Hjalmarsson Slashing against Patric Hornqvist
+111,penalty,Interference,Christian Fischer,Evgeni Malkin,[-33. -38.],2,14:02,ARI,PIT,ARI,53,PIT,5,1,2,8478432,8471215.0,2019020706,,2020-01-13,Christian Fischer Interference against Evgeni Malkin
+157,penalty,Illegal check to head,Andrew Agozzino,Jordan Oesterle,[90. 32.],2,05:59,PIT,ARI,ARI,53,PIT,5,2,2,8475461,8477851.0,2019020706,,2020-01-13,Andrew Agozzino Illegal check to head against Jordan Oesterle
+217,penalty,Interference,Alex Galchenyuk,Jason Demers,[ 42. -39.],3,11:07,PIT,ARI,ARI,53,PIT,5,2,2,8476851,8474218.0,2019020706,,2020-01-13,Alex Galchenyuk Interference against Jason Demers
+264,penalty,Hooking,Teddy Blueger,Conor Garland,[17.  3.],4,01:21,PIT,ARI,ARI,53,PIT,5,3,3,8476927,8478856.0,2019020706,,2020-01-13,Teddy Blueger Hooking against Conor Garland
+265,penalty,Hi-sticking,Conor Garland,Evgeni Malkin,[-78. -12.],4,01:21,ARI,PIT,ARI,53,PIT,5,3,3,8478856,8471215.0,2019020706,,2020-01-13,Conor Garland Hi-sticking against Evgeni Malkin
+83,penalty,Tripping,Evander Kane,Jakob Chychrun,[ 44. -33.],1,02:23,SJS,ARI,ARI,53,SJS,28,1,0,8475169,8479345.0,2019020724,,2020-01-15,Evander Kane Tripping against Jakob Chychrun
+105,penalty,Tripping,Stefan Noesen,Jordan Oesterle,[87. 10.],2,16:04,SJS,ARI,ARI,53,SJS,28,1,0,8476474,8477851.0,2019020724,,2020-01-15,Stefan Noesen Tripping against Jordan Oesterle
+137,penalty,Tripping,Jason Demers,Evander Kane,[36. 34.],2,08:25,ARI,SJS,ARI,53,SJS,28,2,2,8474218,8475169.0,2019020724,,2020-01-15,Jason Demers Tripping against Evander Kane
+181,penalty,Hooking,Conor Garland,Radim Simek,[76.  2.],3,16:39,ARI,SJS,ARI,53,SJS,28,3,2,8478856,8480160.0,2019020724,,2020-01-15,Conor Garland Hooking against Radim Simek
+229,penalty,Tripping,Adin Hill,Nick Schmaltz,[-80.  -2.],3,02:53,ARI,SJS,ARI,53,SJS,28,4,2,8478499,8477951.0,2019020724,,2020-01-15,Adin Hill Tripping against Timo Meier served by Nick Schmaltz
+53,penalty,Slashing,Michael Chaput,Adam Gaudette,[46. 24.],1,09:29,ARI,VAN,VAN,23,ARI,53,0,1,8475808,8478874.0,2019020739,,2020-01-17,Michael Chaput Slashing against Adam Gaudette
+61,penalty,Hooking,Ilya Lyubushkin,Brandon Sutter,[-70.   1.],1,06:51,ARI,VAN,VAN,23,ARI,53,0,1,8480950,8474091.0,2019020739,,2020-01-17,Ilya Lyubushkin Hooking against Brandon Sutter
+85,penalty,Hooking,Tyler Motte,Nick Schmaltz,[ 69. -25.],1,00:20,VAN,ARI,VAN,23,ARI,53,1,1,8477353,8477951.0,2019020739,,2020-01-17,Tyler Motte Hooking against Nick Schmaltz
+113,penalty,Tripping,Oscar Fantenberg,Nick Schmaltz,[-67. -31.],2,10:56,VAN,ARI,VAN,23,ARI,53,1,1,8480147,8477951.0,2019020739,,2020-01-17,Oscar Fantenberg Tripping against Nick Schmaltz
+17,penalty,Slashing,Sam Gagner,Christian Dvorak,[-65.  -7.],1,16:30,EDM,ARI,EDM,22,ARI,53,0,0,8474040,8477989.0,2019020745,,2020-01-18,Sam Gagner Slashing against Christian Dvorak
+47,penalty,Tripping,Phil Kessel,Ethan Bear,[-78. -36.],1,08:23,ARI,EDM,EDM,22,ARI,53,1,0,8473548,8478451.0,2019020745,,2020-01-18,Phil Kessel Tripping against Ethan Bear
+78,penalty,Too many men on the ice,Conor Garland,,[12. 39.],1,00:17,ARI,EDM,EDM,22,ARI,53,3,0,8478856,,2019020745,,2020-01-18,Too many men/ice served by Conor Garland
+114,penalty,Interference,Connor McDavid,Michael Chaput,[-71.  -6.],2,11:41,EDM,ARI,EDM,22,ARI,53,5,1,8478402,8475808.0,2019020745,,2020-01-18,Connor McDavid Interference against Michael Chaput
+123,penalty,Hooking,Derek Stepan,James Neal,[-15.  37.],2,09:25,ARI,EDM,EDM,22,ARI,53,5,2,8474613,8471707.0,2019020745,,2020-01-18,Derek Stepan Hooking against James Neal
+155,penalty,Boarding,Adam Larsson,Lawson Crouse,[-39.  41.],2,02:35,EDM,ARI,EDM,22,ARI,53,6,2,8476457,8478474.0,2019020745,,2020-01-18,Adam Larsson Boarding against Lawson Crouse
+160,penalty,Tripping,Oliver Ekman-Larsson,Riley Sheahan,[-48. -14.],2,01:43,ARI,EDM,EDM,22,ARI,53,6,2,8475171,8475772.0,2019020745,,2020-01-18,Oliver Ekman-Larsson Tripping against Riley Sheahan
+210,penalty,Slashing,Adam Larsson,Clayton Keller,[-75.   4.],3,10:04,EDM,ARI,EDM,22,ARI,53,6,2,8476457,8479343.0,2019020745,,2020-01-18,Adam Larsson Slashing against Clayton Keller
+51,penalty,Tripping,Michael Del Zotto,Vinnie Hinostroza,[-96.  -3.],1,09:04,ANA,ARI,ANA,24,ARI,53,1,1,8474584,8476994.0,2019020779,,2020-01-30,Michael Del Zotto Tripping against Vinnie Hinostroza
+58,penalty,Tripping,Carl Soderberg,Hampus Lindholm,[-58.  39.],1,06:58,ARI,ANA,ANA,24,ARI,53,1,1,8471262,8476854.0,2019020779,,2020-01-30,Carl Soderberg Tripping against Hampus Lindholm
+62,penalty,Holding,Jakob Silfverberg,Lawson Crouse,[ 2. 30.],1,06:01,ANA,ARI,ANA,24,ARI,53,1,1,8475164,8478474.0,2019020779,,2020-01-30,Jakob Silfverberg Holding against Lawson Crouse
+89,penalty,Tripping,Max Jones,Jason Demers,[89. 35.],1,00:47,ANA,ARI,ANA,24,ARI,53,2,1,8479368,8474218.0,2019020779,,2020-01-30,Max Jones Tripping against Jason Demers
+156,penalty,Roughing,Nick Ritchie,Taylor Hall,[98. 11.],2,03:24,ANA,ARI,ANA,24,ARI,53,3,2,8477941,8475791.0,2019020779,,2020-01-30,Nick Ritchie Roughing against Taylor Hall
+163,penalty,Interference,Nick Ritchie,Jakob Chychrun,[-96.  11.],2,01:09,ANA,ARI,ANA,24,ARI,53,3,2,8477941,8479345.0,2019020779,,2020-01-30,Nick Ritchie Interference against Jakob Chychrun
+203,penalty,Interference,Nick Schmaltz,Michael Del Zotto,[-89. -15.],3,13:28,ARI,ANA,ANA,24,ARI,53,4,2,8477951,8474584.0,2019020779,,2020-01-30,Nick Schmaltz Interference against Michael Del Zotto
+229,penalty,Tripping,Clayton Keller,Josh Manson,[-47. -26.],3,04:09,ARI,ANA,ANA,24,ARI,53,4,2,8479343,8476312.0,2019020779,,2020-01-30,Clayton Keller Tripping against Josh Manson
+237,penalty,Slashing,Conor Garland,Max Jones,[-32.  34.],3,01:23,ARI,ANA,ANA,24,ARI,53,4,2,8478856,8479368.0,2019020779,,2020-01-30,Conor Garland Slashing against Max Jones
+53,penalty,Hooking,Joakim Ryan,Nick Schmaltz,[ 73. -36.],1,07:12,LAK,ARI,ARI,53,LAK,26,0,1,8477046,8477951.0,2019020784,,2020-01-31,Joakim Ryan Hooking against Nick Schmaltz
+98,penalty,PS - Tripping on breakaway,Oliver Ekman-Larsson,Austin Wagner,[70. -6.],2,17:17,ARI,LAK,ARI,53,LAK,26,0,1,8475171,8478455.0,2019020784,,2020-01-31,Oliver Ekman-Larsson PS - Tripping on breakaway against Austin Wagner
+104,penalty,Hi-sticking,Conor Garland,Dustin Brown,[ 7. -2.],2,15:41,ARI,LAK,ARI,53,LAK,26,0,1,8478856,8470606.0,2019020784,,2020-01-31,Conor Garland Hi-sticking against Dustin Brown
+105,penalty,Interference,Dustin Brown,Conor Garland,[6. 0.],2,15:41,LAK,ARI,ARI,53,LAK,26,0,1,8470606,8478856.0,2019020784,,2020-01-31,Dustin Brown Interference against Conor Garland
+120,penalty,Interference,Jeff Carter,Clayton Keller,[-66.   5.],2,10:45,LAK,ARI,ARI,53,LAK,26,0,1,8470604,8479343.0,2019020784,,2020-01-31,Jeff Carter Interference against Clayton Keller
+229,penalty,Tripping,Jakob Chychrun,Blake Lizotte,[-87. -34.],3,04:12,ARI,LAK,ARI,53,LAK,26,2,1,8479345,8481481.0,2019020784,,2020-01-31,Jakob Chychrun Tripping against Blake Lizotte

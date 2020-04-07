@@ -44,10 +44,64 @@ class Game:
         self.game_id = game_id
 
         self.live_data = self.getLiveData()
-        self.home = self.live_data['boxscore']['teams']['home']['team']['triCode']
-        self.away = self.live_data['boxscore']['teams']['away']['team']['triCode']
-        self.home_id = self.live_data['boxscore']['teams']['home']['team']['id']
-        self.away_id = self.live_data['boxscore']['teams']['away']['team']['id']
+
+        temp_home = self.live_data['boxscore']['teams']['home']
+        temp_away = self.live_data['boxscore']['teams']['away']
+        self.home = temp_home['team']['triCode']
+        self.away = temp_away['team']['triCode']
+        self.home_id = temp_home['team']['id']
+        self.away_id = temp_away['team']['id']
+
+        self.home_goals = self.live_data['linescore']['teams']['home']['goals']
+        self.away_goals = self.live_data['linescore']['teams']['home']['goals']
+
+        # bool for if the game is final (i.e. complete)
+        temp_cur = self.live_data['plays']['currentPlay']
+        # try:
+        #     if temp_cur['result']['event'] == 'Game End':
+        #         self.final = True
+        #     else:
+        #         self.final = False
+        # except KeyError:
+        #     self.final = False
+
+        # TODO: figure out what is happening with the final status...
+        self.final = True
+
+        # set winner
+        if not self.final:
+            self.winner = None
+        elif self.home_goals > self.away_goals:
+            self.winner = self.home
+        else:
+            self.winner = self.away
+
+        # TODO: this isn't always the correct date (sometimes one day after...)
+        self.date = temp_cur['about']['dateTime'][:10]
+
+        # create aggregate (boxscore) stats dataframe
+        _stats = self.live_data['boxscore']['teams']
+        _home = [self.date, self.home, self.home_id, self.away, True, self.winner==self.home]
+        _away = [self.date, self.away, self.away_id, self.home, False, self.winner==self.away]
+
+        for stat in _stats['home']['teamStats']['teamSkaterStats'].keys():
+            # append the for and against stat for both home and away rows
+            _home.append(_stats['home']['teamStats']['teamSkaterStats'][stat])
+            _home.append(_stats['away']['teamStats']['teamSkaterStats'][stat])
+
+            _away.append(_stats['away']['teamStats']['teamSkaterStats'][stat])
+            _away.append(_stats['home']['teamStats']['teamSkaterStats'][stat])
+
+        cols = ['date', 'team', 'team_id', 'opponent', 'home', 'win',
+                'goals_for', 'goals_against', 'penalty_minutes_for',
+                'penalty_minutes_against', 'shots_for', 'shots_against',
+                'PPP_for', 'PPP_against', 'PPG_for', 'PPG_against',
+                'PPO_for', 'PPO_against', 'faceoff_win_percentage_for',
+                'faceoff_win_percentage_against', 'blocked_shots_for',
+                'blocked_shots_against', 'takeaways_for', 'takeaways_against',
+                'giveaways_for', 'giveaways_against', 'hits_for', 'hits_against']
+
+        self.agg_stats = pd.DataFrame([_home, _away], columns=cols)
 
         # private attributes
         self._shotData = None
@@ -195,7 +249,8 @@ class Game:
                 'period_time_remaining', 'player_one_team', 'player_two_team',
                 'home_team', 'home_team_id', 'away_team', 'away_team_id',
                 'home_goals', 'away_goals', 'game_winning', 'empty_net',
-                'player_one_id', 'player_two_id', 'description']
+                'player_one_id', 'player_two_id', 'game_id', 'winning_team',
+                'date', 'description']
 
         weird_events = {'Unknown', 'Period Start', 'Period End', 'Game End', 'Game Scheduled',
                         'Period Ready', 'Period Official', 'Early Intermission Start',
@@ -276,16 +331,14 @@ class Game:
             else:
                 player_two_team = self.home
 
-            if type(player_two_id) is float:
-                # force player_two_id into integer, if it is float
-                player_two_id = int(player_two_id)
 
             vals = [event, secondary_type, player_one, player_one_role]
             vals += [player_two, player_two_role, coords, period]
             vals += [period_time_remaining, player_one_team, player_two_team]
             vals += [self.home, self.home_id, self.away, self.away_id]
             vals += [home_goals, away_goals, game_winning, empty_net]
-            vals += [player_one_id, player_two_id, description]
+            vals += [player_one_id, player_two_id, self.game_id, self.winner]
+            vals += [self.date, description]
 
             _data.append(vals)
 

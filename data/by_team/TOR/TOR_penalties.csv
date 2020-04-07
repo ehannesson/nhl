@@ -1,446 +1,446 @@
-,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
-49,penalty,Hi-sticking,John Tavares,Dominic Toninato,[1. 2.],1,07:39,TOR,FLA,TOR,10,FLA,13,0,1,8475166,8476952.0,John Tavares Hi-sticking against Dominic Toninato
-95,penalty,Tripping,Mike Matheson,Pierre Engvall,[ 89. -32.],2,17:38,FLA,TOR,TOR,10,FLA,13,0,1,8476875,8478115.0,Mike Matheson Tripping against Pierre Engvall
-148,penalty,Slashing,Jayce Hawryluk,Jason Spezza,[69. 22.],2,02:57,FLA,TOR,TOR,10,FLA,13,1,1,8477963,8469455.0,Jayce Hawryluk Slashing against Jason Spezza
-177,penalty,Hooking,Mitchell Marner,Vincent Trocheck,[79. -8.],3,16:49,TOR,FLA,TOR,10,FLA,13,3,2,8478483,8476389.0,Mitchell Marner Hooking against Vincent Trocheck
-188,penalty,Tripping,Mike Hoffman,Auston Matthews,[-20.   9.],3,13:27,FLA,TOR,TOR,10,FLA,13,3,3,8474884,8479318.0,Mike Hoffman Tripping against Auston Matthews
-12,penalty,Hooking,Zach Hyman,Jacob Trouba,[ 86. -16.],1,16:49,TOR,NYR,NYR,3,TOR,10,0,0,8475786,8476885.0,Zach Hyman Hooking against Jacob Trouba
-96,penalty,Cross checking,Ryan Lindgren,Mitchell Marner,[-73.   0.],2,19:01,NYR,TOR,NYR,3,TOR,10,3,1,8479324,8478483.0,Ryan Lindgren Cross checking against Mitchell Marner
-116,penalty,Hi-sticking,Tyson Barrie,Mika Zibanejad,[-9. 39.],2,14:44,TOR,NYR,NYR,3,TOR,10,3,1,8475197,8476459.0,Tyson Barrie Hi-sticking against Mika Zibanejad
-252,penalty,Hooking,Greg McKegg,Pierre Engvall,[81.  2.],3,04:16,NYR,TOR,NYR,3,TOR,10,4,2,8475735,8478115.0,Greg McKegg Hooking against Pierre Engvall
-271,penalty,Fighting,Zach Hyman,Jacob Trouba,[91. -8.],3,00:58,TOR,NYR,NYR,3,TOR,10,5,3,8475786,8476885.0,Zach Hyman Fighting against Jacob Trouba
-272,penalty,Fighting,Jacob Trouba,Zach Hyman,[91. -8.],3,00:58,NYR,TOR,NYR,3,TOR,10,5,3,8476885,8475786.0,Jacob Trouba Fighting against Zach Hyman
-275,penalty,Roughing,John Tavares,Ryan Lindgren,[96. -2.],3,00:18,TOR,NYR,NYR,3,TOR,10,5,3,8475166,8479324.0,John Tavares Roughing against Ryan Lindgren
-276,penalty,Roughing,Ryan Lindgren,John Tavares,[95. -6.],3,00:18,NYR,TOR,NYR,3,TOR,10,5,3,8479324,8475166.0,Ryan Lindgren Roughing against John Tavares
-72,penalty,Hi-sticking,Max Jones,Tyson Barrie,[69. 29.],1,04:24,ANA,TOR,TOR,10,ANA,24,1,1,8479368,8475197.0,Max Jones Hi-sticking against Tyson Barrie
-74,penalty,Delaying Game - Puck over glass,Derek Grant,,[98.  1.],1,04:06,ANA,TOR,TOR,10,ANA,24,1,1,8474683,,Derek Grant Delaying Game - Puck over glass
-83,penalty,Holding,Dmytro Timashov,Ryan Getzlaf,[60.  7.],1,01:24,TOR,ANA,TOR,10,ANA,24,1,1,8478857,8470612.0,Dmytro Timashov Holding against Ryan Getzlaf
-93,penalty,Interference,Josh Manson,Auston Matthews,[71.  3.],2,17:52,ANA,TOR,TOR,10,ANA,24,1,1,8476312,8479318.0,Josh Manson Interference against Auston Matthews
-134,penalty,Hooking,John Tavares,Adam Henrique,[-53. -28.],2,09:29,TOR,ANA,TOR,10,ANA,24,2,1,8475166,8474641.0,John Tavares Hooking against Adam Henrique
-147,penalty,Roughing,Kyle Clifford,Ryan Getzlaf,[-88.  -4.],2,06:21,TOR,ANA,TOR,10,ANA,24,3,1,8475160,8470612.0,Kyle Clifford Roughing against Ryan Getzlaf
-148,penalty,Roughing,Ryan Getzlaf,Kyle Clifford,[-88.  -2.],2,06:21,ANA,TOR,TOR,10,ANA,24,3,1,8470612,8475160.0,Ryan Getzlaf Roughing against Kyle Clifford
-207,penalty,Tripping,Nick Ritchie,Alexander Kerfoot,[68.  1.],3,13:09,ANA,TOR,TOR,10,ANA,24,3,1,8477941,8477021.0,Nick Ritchie Tripping against Alexander Kerfoot
-226,penalty,Holding the stick,Kyle Clifford,Michael Del Zotto,[-89. -23.],3,08:30,TOR,ANA,TOR,10,ANA,24,3,2,8475160,8474584.0,Kyle Clifford Holding the stick against Michael Del Zotto
-278,penalty,Tripping,Rickard Rakell,Mitchell Marner,[ -3. -16.],4,01:04,ANA,TOR,TOR,10,ANA,24,4,4,8476483,8478483.0,Rickard Rakell Tripping against Mitchell Marner
-91,penalty,Slashing,Jonathan Drouin,Rasmus Sandin,[ 44. -21.],2,18:14,MTL,TOR,MTL,8,TOR,10,0,0,8477494,8480873.0,Jonathan Drouin Slashing against Rasmus Sandin
-128,penalty,Tripping,Travis Dermott,Joel Armia,[-21.  20.],2,10:35,TOR,MTL,MTL,8,TOR,10,0,0,8478408,8476469.0,Travis Dermott Tripping against Joel Armia
-150,penalty,Delaying Game - Puck over glass,Victor Mete,,[-86. -22.],2,04:57,MTL,TOR,MTL,8,TOR,10,0,0,8479376,,Victor Mete Delaying Game - Puck over glass
-222,penalty,Too many men on the ice,John Tavares,,[-18.  41.],3,08:08,TOR,MTL,MTL,8,TOR,10,0,1,8475166,,Too many men/ice served by John Tavares
-43,penalty,Tripping,Jakob Chychrun,William Nylander,[ 49. -32.],1,09:57,ARI,TOR,TOR,10,ARI,53,0,1,8479345,8477939.0,Jakob Chychrun Tripping against William Nylander
-114,penalty,Slashing,Jake Muzzin,Derek Stepan,[-65.  24.],2,14:36,TOR,ARI,TOR,10,ARI,53,1,1,8474162,8474613.0,Jake Muzzin Slashing against Derek Stepan
-148,penalty,Slashing,Nick Schmaltz,Kasperi Kapanen,[86. 37.],2,06:33,ARI,TOR,TOR,10,ARI,53,1,1,8477951,8477953.0,Nick Schmaltz Slashing against Kasperi Kapanen
-218,penalty,Holding the stick,Kyle Clifford,Ilya Lyubushkin,[-75. -38.],3,10:39,TOR,ARI,TOR,10,ARI,53,2,2,8475160,8480950.0,Kyle Clifford Holding the stick against Ilya Lyubushkin
-237,penalty,Tripping,Phil Kessel,Tyson Barrie,[ 87. -21.],3,06:41,ARI,TOR,TOR,10,ARI,53,2,2,8473548,8475197.0,Phil Kessel Tripping against Tyson Barrie
-260,penalty,Tripping,Zach Hyman,Jakob Chychrun,[-65.  40.],3,00:35,TOR,ARI,TOR,10,ARI,53,2,2,8475786,8479345.0,Zach Hyman Tripping against Jakob Chychrun
-78,penalty,Roughing,Justin Holl,Tyler Seguin,[-39.  33.],2,19:02,TOR,DAL,TOR,10,DAL,25,0,2,8475718,8475794.0,Justin Holl Roughing against Tyler Seguin
-87,penalty,Too many men on the ice,John Tavares,,[-82. -16.],2,16:42,TOR,DAL,TOR,10,DAL,25,0,2,8475166,,Too many men/ice served by John Tavares
-102,penalty,Fighting,Jamie Oleksiak,Kyle Clifford,[-7.  5.],2,14:05,DAL,TOR,TOR,10,DAL,25,0,2,8476467,8475160.0,Jamie Oleksiak Fighting against Kyle Clifford
-103,penalty,Fighting,Kyle Clifford,Jamie Oleksiak,[ 29. -13.],2,14:05,TOR,DAL,TOR,10,DAL,25,0,2,8475160,8476467.0,Kyle Clifford Fighting against Jamie Oleksiak
-118,penalty,Tripping,Corey Perry,Auston Matthews,[-73. -21.],2,09:46,DAL,TOR,TOR,10,DAL,25,0,2,8470621,8479318.0,Corey Perry Tripping against Auston Matthews
-143,penalty,Hooking,Mitchell Marner,Mattias Janmark,[-59. -25.],2,02:53,TOR,DAL,TOR,10,DAL,25,1,2,8478483,8477406.0,Mitchell Marner Hooking against Mattias Janmark
-145,penalty,Holding,Miro Heiskanen,Kasperi Kapanen,[70.  3.],2,02:33,DAL,TOR,TOR,10,DAL,25,1,2,8480036,8477953.0,Miro Heiskanen Holding against Kasperi Kapanen
-161,penalty,Tripping,John Tavares,Miro Heiskanen,[-52.  32.],3,18:49,TOR,DAL,TOR,10,DAL,25,1,2,8475166,8480036.0,John Tavares Tripping against Miro Heiskanen
-31,penalty,Tripping,Auston Matthews,Jean-Gabriel Pageau,[66.  2.],1,11:27,TOR,OTT,OTT,9,TOR,10,0,1,8479318,8476419.0,Auston Matthews Tripping against Jean-Gabriel Pageau
-48,penalty,Roughing,Kasperi Kapanen,Cody Goloubef,[-72. -40.],1,07:48,TOR,OTT,OTT,9,TOR,10,0,1,8477953,8474597.0,Kasperi Kapanen Roughing against Cody Goloubef
-49,penalty,Roughing,Cody Goloubef,Kasperi Kapanen,[-68. -39.],1,07:48,OTT,TOR,OTT,9,TOR,10,0,1,8474597,8477953.0,Cody Goloubef Roughing against Kasperi Kapanen
-111,penalty,Holding,Mike Reilly,Pierre Engvall,[ 54. -39.],2,13:01,OTT,TOR,OTT,9,TOR,10,0,2,8476422,8478115.0,Mike Reilly Holding against Pierre Engvall
-137,penalty,Hooking,Justin Holl,Drake Batherson,[-82.  38.],2,06:51,TOR,OTT,OTT,9,TOR,10,0,3,8475718,8480208.0,Justin Holl Hooking against Drake Batherson
-225,penalty,Holding,Travis Dermott,Thomas Chabot,[93. -6.],3,06:42,TOR,OTT,OTT,9,TOR,10,2,3,8478408,8478469.0,Travis Dermott Holding against Thomas Chabot
-137,penalty,Hooking,Travis Dermott,Curtis Lazar,[-81.   2.],2,06:31,TOR,BUF,BUF,7,TOR,10,2,1,8478408,8477508.0,Travis Dermott Hooking against Curtis Lazar
-155,penalty,Tripping,Jake Muzzin,Jack Eichel,[-92.  22.],2,01:23,TOR,BUF,BUF,7,TOR,10,2,1,8474162,8478403.0,Jake Muzzin Tripping against Jack Eichel
-178,penalty,Tripping,Jake Muzzin,Jimmy Vesey,[74. -1.],3,14:48,TOR,BUF,BUF,7,TOR,10,2,2,8474162,8476918.0,Jake Muzzin Tripping against Jimmy Vesey
-215,penalty,Roughing,Rasmus Ristolainen,Zach Hyman,[-79.   5.],3,03:18,BUF,TOR,BUF,7,TOR,10,5,2,8477499,8475786.0,Rasmus Ristolainen Roughing against Zach Hyman
-10,penalty,Tripping,Sam Lafferty,Travis Dermott,[95.  0.],1,17:41,PIT,TOR,PIT,5,TOR,10,0,0,8478043,8478408.0,Sam Lafferty Tripping against Travis Dermott
-51,penalty,Slashing,Dmytro Timashov,Chad Ruhwedel,[-77.   1.],1,08:33,TOR,PIT,PIT,5,TOR,10,0,0,8478857,8477244.0,Dmytro Timashov Slashing against Chad Ruhwedel
-99,penalty,Slashing,Alexander Kerfoot,Patric Hornqvist,[-45.  31.],2,18:42,TOR,PIT,PIT,5,TOR,10,2,0,8477021,8471887.0,Alexander Kerfoot Slashing against Patric Hornqvist
-119,penalty,Interference,Jason Spezza,Juuso Riikola,[96.  2.],2,13:34,TOR,PIT,PIT,5,TOR,10,3,0,8469455,8480945.0,Jason Spezza Interference against Juuso Riikola
-129,penalty,Tripping,Anthony Angello,Alexander Kerfoot,[-76.  36.],2,10:17,PIT,TOR,PIT,5,TOR,10,4,0,8478074,8477021.0,Anthony Angello Tripping against Alexander Kerfoot
-133,penalty,Delaying Game - Puck over glass,Bryan Rust,,[ 62. -21.],2,09:36,PIT,TOR,PIT,5,TOR,10,4,0,8475810,,Bryan Rust Delaying Game - Puck over glass
-147,penalty,Holding,Bryan Rust,Rasmus Sandin,[-63. -41.],2,05:55,PIT,TOR,PIT,5,TOR,10,5,0,8475810,8480873.0,Bryan Rust Holding against Rasmus Sandin
-72,penalty,Tripping,Denis Malgin,Brandon Tanev,[20. 22.],1,02:34,TOR,PIT,TOR,10,PIT,5,0,0,8478843,8479293.0,Denis Malgin Tripping against Brandon Tanev
-120,penalty,Holding,Marcus Pettersson,Tyson Barrie,[ 98. -13.],2,10:40,PIT,TOR,TOR,10,PIT,5,1,0,8477969,8475197.0,Marcus Pettersson Holding against Tyson Barrie
-123,penalty,Delaying Game - Puck over glass,Brandon Tanev,,[ 76. -30.],2,10:33,PIT,TOR,TOR,10,PIT,5,1,0,8479293,,Brandon Tanev Delaying Game - Puck over glass
-147,penalty,Fighting,Jared McCann,Kasperi Kapanen,[-31.  18.],2,03:55,PIT,TOR,TOR,10,PIT,5,3,0,8477955,8477953.0,Jared McCann Fighting against Kasperi Kapanen
-148,penalty,Fighting,Kasperi Kapanen,Jared McCann,[-37.  10.],2,03:55,TOR,PIT,TOR,10,PIT,5,3,0,8477953,8477955.0,Kasperi Kapanen Fighting against Jared McCann
-219,penalty,Holding,Chad Ruhwedel,Zach Hyman,[-78.   1.],3,09:04,PIT,TOR,TOR,10,PIT,5,4,0,8477244,8475786.0,Chad Ruhwedel Holding against Zach Hyman
-15,penalty,Interference,Zach Hyman,Jaccob Slavin,[-84.   2.],1,16:53,TOR,CAR,TOR,10,CAR,12,0,0,8475786,8476958.0,Zach Hyman Interference against Jaccob Slavin
-36,penalty,Boarding,Andrei Svechnikov,Tyson Barrie,[94. 28.],1,13:50,CAR,TOR,TOR,10,CAR,12,0,0,8480830,8475197.0,Andrei Svechnikov Boarding against Tyson Barrie
-49,penalty,Roughing,Nino Niederreiter,Kasperi Kapanen,[-80. -37.],1,10:29,CAR,TOR,TOR,10,CAR,12,0,0,8475799,8477953.0,Nino Niederreiter Roughing against Kasperi Kapanen
-142,penalty,Hi-sticking,William Nylander,Brett Pesce,[23. 39.],2,11:16,TOR,CAR,TOR,10,CAR,12,1,1,8477939,8477488.0,William Nylander Hi-sticking against Brett Pesce
-155,penalty,Charging,Kyle Clifford,Petr Mrazek,[ 48. -26.],2,08:41,TOR,CAR,TOR,10,CAR,12,1,3,8475160,8475852.0,Kyle Clifford Charging against Petr Mrazek
-172,penalty,Slashing,Erik Haula,Auston Matthews,[36. 11.],2,04:21,CAR,TOR,TOR,10,CAR,12,3,4,8475287,8479318.0,Erik Haula Slashing against Auston Matthews
-181,penalty,Fighting,Joel Edmundson,Kyle Clifford,[70. 36.],2,01:21,CAR,TOR,TOR,10,CAR,12,3,4,8476441,8475160.0,Joel Edmundson Fighting against Kyle Clifford
-182,penalty,Fighting,Kyle Clifford,Joel Edmundson,[68. 36.],2,01:21,TOR,CAR,TOR,10,CAR,12,3,4,8475160,8476441.0,Kyle Clifford Fighting against Joel Edmundson
-224,penalty,Hooking,Warren Foegele,Denis Malgin,[ 32. -24.],3,14:05,CAR,TOR,TOR,10,CAR,12,3,6,8477998,8478843.0,Warren Foegele Hooking against Denis Malgin
-241,penalty,Hooking,Alexander Kerfoot,Trevor van Riemsdyk,[-69.  39.],3,10:29,TOR,CAR,TOR,10,CAR,12,3,6,8477021,8477845.0,Alexander Kerfoot Hooking against Trevor van Riemsdyk
-270,penalty,Roughing,Kasperi Kapanen,Jordan Staal,[ -5. -38.],3,01:23,TOR,CAR,TOR,10,CAR,12,3,6,8477953,8473533.0,Kasperi Kapanen Roughing against Jordan Staal
-271,penalty,Roughing,Jordan Staal,Kasperi Kapanen,[ -5. -37.],3,01:23,CAR,TOR,TOR,10,CAR,12,3,6,8473533,8477953.0,Jordan Staal Roughing against Kasperi Kapanen
-57,penalty,Slashing,Blake Coleman,William Nylander,[-64. -16.],1,04:35,TBL,TOR,TBL,14,TOR,10,1,1,8476399,8477939.0,Blake Coleman Slashing against William Nylander
-69,penalty,Roughing,Kevin Shattenkirk,Denis Malgin,[51. 39.],1,01:56,TBL,TOR,TBL,14,TOR,10,1,2,8474031,8478843.0,Kevin Shattenkirk Roughing against Denis Malgin
-85,penalty,Interference,Alexander Kerfoot,Barclay Goodrow,[-70.  23.],2,17:31,TOR,TBL,TBL,14,TOR,10,1,2,8477021,8476624.0,Alexander Kerfoot Interference against Barclay Goodrow
-98,penalty,Too many men on the ice,William Nylander,,[ 7. 39.],2,14:53,TOR,TBL,TBL,14,TOR,10,1,2,8477939,,Too many men/ice served by William Nylander
-136,penalty,Hi-sticking,Kevin Shattenkirk,Frederik Gauthier,[-49. -11.],2,06:29,TBL,TOR,TBL,14,TOR,10,2,3,8474031,8477512.0,Kevin Shattenkirk Hi-sticking against Frederik Gauthier
-137,penalty,Slashing,Kevin Shattenkirk,Frederik Gauthier,[-50.  -7.],2,06:29,TBL,TOR,TBL,14,TOR,10,2,3,8474031,8477512.0,Kevin Shattenkirk Slashing against Frederik Gauthier
-163,penalty,Slashing,Rasmus Sandin,Brayden Point,[ 92. -19.],3,19:14,TOR,TBL,TBL,14,TOR,10,2,4,8480873,8478010.0,Rasmus Sandin Slashing against Brayden Point
-64,penalty,Too many men on the ice,Aleksi Saarela,,[19. 40.],1,04:18,FLA,TOR,FLA,13,TOR,10,3,1,8478839,,Too many men/ice served by Aleksi Saarela
-90,penalty,Fighting,MacKenzie Weegar,Kasperi Kapanen,[26. -8.],1,00:00,FLA,TOR,FLA,13,TOR,10,3,3,8477346,8477953.0,MacKenzie Weegar Fighting against Kasperi Kapanen
-91,penalty,Fighting,Kasperi Kapanen,MacKenzie Weegar,[27. -4.],1,00:00,TOR,FLA,FLA,13,TOR,10,3,3,8477953,8477346.0,Kasperi Kapanen Fighting against MacKenzie Weegar
-147,penalty,Interference,Martin Marincin,Lucas Wallmark,[16. 39.],2,03:36,TOR,FLA,FLA,13,TOR,10,3,3,8475716,8478027.0,Martin Marincin Interference against Lucas Wallmark
-52,penalty,Hi-sticking,Christopher Tanev,Kasperi Kapanen,[-67. -15.],1,08:09,VAN,TOR,TOR,10,VAN,23,2,2,8475690,8477953.0,Christopher Tanev Hi-sticking against Kasperi Kapanen
-106,penalty,Interference,Travis Dermott,Elias Pettersson,[-68.  13.],2,15:07,TOR,VAN,TOR,10,VAN,23,2,2,8478408,8480012.0,Travis Dermott Interference against Elias Pettersson
-113,penalty,Hooking,Adam Gaudette,Kasperi Kapanen,[-74. -38.],2,13:34,VAN,TOR,TOR,10,VAN,23,2,2,8478874,8477953.0,Adam Gaudette Hooking against Kasperi Kapanen
-186,penalty,Holding,William Nylander,Troy Stecher,[-3. 17.],3,16:52,TOR,VAN,TOR,10,VAN,23,3,2,8477939,8479442.0,William Nylander Holding against Troy Stecher
-215,penalty,Tripping,Alexander Edler,Denis Malgin,[34. 34.],3,08:24,VAN,TOR,TOR,10,VAN,23,3,2,8471303,8478843.0,Alexander Edler Tripping against Denis Malgin
-254,penalty,Hooking,Tyler Toffoli,Auston Matthews,[86. 29.],3,00:55,VAN,TOR,TOR,10,VAN,23,4,2,8475726,8479318.0,Tyler Toffoli Hooking against Auston Matthews
-16,penalty,Tripping,Noah Gregor,Martin Marincin,[ 64. -20.],1,16:49,SJS,TOR,SJS,28,TOR,10,0,0,8479393,8475716.0,Noah Gregor Tripping against Martin Marincin
-28,penalty,Interference,Travis Dermott,Timo Meier,[ 15. -36.],1,13:52,TOR,SJS,SJS,28,TOR,10,0,0,8478408,8478414.0,Travis Dermott Interference against Timo Meier
-135,penalty,Interference,Justin Holl,Noah Gregor,[-55. -13.],2,11:41,TOR,SJS,SJS,28,TOR,10,2,1,8475718,8479393.0,Justin Holl Interference against Noah Gregor
-173,penalty,Hooking,Noah Gregor,Auston Matthews,[22. 34.],2,02:07,SJS,TOR,SJS,28,TOR,10,2,2,8479393,8479318.0,Noah Gregor Hooking against Auston Matthews
-217,penalty,Holding,Mario Ferraro,Auston Matthews,[-97.  -6.],3,08:10,SJS,TOR,SJS,28,TOR,10,4,2,8479983,8479318.0,Mario Ferraro Holding against Auston Matthews
-37,penalty,Holding,Trevor Lewis,William Nylander,[75. -3.],1,11:27,LAK,TOR,LAK,26,TOR,10,0,0,8473453,8477939.0,Trevor Lewis Holding against William Nylander
-53,penalty,Slashing,Martin Marincin,Adrian Kempe,[-87.  14.],1,05:37,TOR,LAK,LAK,26,TOR,10,0,0,8475716,8477960.0,Martin Marincin Slashing against Adrian Kempe
-69,penalty,Holding,Timothy Liljegren,Martin Frk,[-96.  19.],1,02:41,TOR,LAK,LAK,26,TOR,10,0,0,8480043,8476924.0,Timothy Liljegren Holding against Martin Frk
-137,penalty,Tripping,Drew Doughty,John Tavares,[-51.  22.],2,03:36,LAK,TOR,LAK,26,TOR,10,0,0,8474563,8475166.0,Drew Doughty Tripping against John Tavares
-158,penalty,Slashing,Adrian Kempe,William Nylander,[71. -3.],3,18:47,LAK,TOR,LAK,26,TOR,10,0,0,8477960,8477939.0,Adrian Kempe Slashing against William Nylander
-221,penalty,Hooking,John Tavares,Alex Iafallo,[33.  3.],4,04:29,TOR,LAK,LAK,26,TOR,10,0,0,8475166,8480113.0,John Tavares Hooking against Alex Iafallo
-51,penalty,Delaying Game - Puck over glass,John Gibson,Sam Steel,[-60. -40.],1,08:22,ANA,TOR,ANA,24,TOR,10,1,0,8476434,8479351.0,John Gibson Delaying Game - Puck over glass served by Sam Steel
-111,penalty,Tripping,Justin Holl,Sonny Milano,[-88. -20.],2,12:12,TOR,ANA,ANA,24,TOR,10,1,0,8475718,8477947.0,Justin Holl Tripping against Sonny Milano
-143,penalty,Fighting,Kyle Clifford,Nicolas Deslauriers,[-39.  24.],2,05:20,TOR,ANA,ANA,24,TOR,10,1,0,8475160,8475235.0,Kyle Clifford Fighting against Nicolas Deslauriers
-144,penalty,Fighting,Nicolas Deslauriers,Kyle Clifford,[-4. 26.],2,05:20,ANA,TOR,ANA,24,TOR,10,1,0,8475235,8475160.0,Nicolas Deslauriers Fighting against Kyle Clifford
-168,penalty,Tripping,Mitchell Marner,Sam Steel,[-23.  32.],2,01:22,TOR,ANA,ANA,24,TOR,10,1,0,8478483,8479351.0,Mitchell Marner Tripping against Sam Steel
-186,penalty,Boarding,David Backes,Denis Malgin,[33. 40.],3,16:35,ANA,TOR,ANA,24,TOR,10,1,0,8470655,8478843.0,David Backes Boarding against Denis Malgin
-217,penalty,Tripping,Kiefer Sherwood,Calle Rosen,[ 94. -15.],3,08:15,ANA,TOR,ANA,24,TOR,10,2,0,8480748,8480157.0,Kiefer Sherwood Tripping against Calle Rosen
-29,penalty,Hooking,Ryan McDonagh,William Nylander,[-81. -12.],1,14:07,TBL,TOR,TOR,10,TBL,14,0,0,8474151,8477939.0,Ryan McDonagh Hooking against William Nylander
-41,penalty,Interference,Rasmus Sandin,Carter Verhaeghe,[ 40. -20.],1,10:16,TOR,TBL,TOR,10,TBL,14,0,0,8480873,8477409.0,Rasmus Sandin Interference against Carter Verhaeghe
-57,penalty,Hooking,Barclay Goodrow,Auston Matthews,[-90. -19.],1,07:24,TBL,TOR,TOR,10,TBL,14,0,0,8476624,8479318.0,Barclay Goodrow Hooking against Auston Matthews
-111,penalty,Delay of game,Morgan Rielly,,[-87.   9.],2,17:11,TOR,TBL,TOR,10,TBL,14,1,0,8476853,,Morgan Rielly Delay of game
-133,penalty,Hooking,Justin Holl,Anthony Cirelli,[-63. -27.],2,13:20,TOR,TBL,TOR,10,TBL,14,1,0,8475718,8478519.0,Justin Holl Hooking against Anthony Cirelli
-145,penalty,Interference - Goalkeeper,Blake Coleman,Frederik Andersen,[-17.  20.],2,10:31,TBL,TOR,TOR,10,TBL,14,1,0,8476399,8475883.0,Blake Coleman Interference - Goalkeeper against Frederik Andersen
-182,penalty,Tripping,John Tavares,Mikhail Sergachev,[-44. -28.],2,02:32,TOR,TBL,TOR,10,TBL,14,1,1,8475166,8479410.0,John Tavares Tripping against Mikhail Sergachev
-204,penalty,Tripping,Cedric Paquette,Auston Matthews,[-90. -15.],3,16:58,TBL,TOR,TOR,10,TBL,14,1,1,8476975,8479318.0,Cedric Paquette Tripping against Auston Matthews
-261,penalty,Tripping,Erik Cernak,Zach Hyman,[-97.  -2.],3,05:51,TBL,TOR,TOR,10,TBL,14,2,1,8478416,8475786.0,Erik Cernak Tripping against Zach Hyman
-5,penalty,Tripping,Tyler Ennis,Trevor Moore,[ -9. -29.],1,19:04,OTT,TOR,TOR,10,OTT,9,0,1,8474589,8479675.0,Tyler Ennis Tripping against Trevor Moore
-27,penalty,Tripping,Colin White,William Nylander,[-81. -13.],1,14:07,OTT,TOR,TOR,10,OTT,9,0,1,8478400,8477939.0,Colin White Tripping against William Nylander
-41,penalty,Interference - Goalkeeper,Connor Brown,Frederik Andersen,[83. -1.],1,11:55,OTT,TOR,TOR,10,OTT,9,0,1,8477015,8475883.0,Connor Brown Interference - Goalkeeper against Frederik Andersen
-159,penalty,Cross checking,Alexander Kerfoot,Mark Borowiecki,[73.  0.],2,09:59,TOR,OTT,TOR,10,OTT,9,3,2,8477021,8474697.0,Alexander Kerfoot Cross checking against Mark Borowiecki
-182,penalty,Tripping,Brady Tkachuk,Auston Matthews,[-89. -17.],2,05:20,OTT,TOR,TOR,10,OTT,9,3,2,8480801,8479318.0,Brady Tkachuk Tripping against Auston Matthews
-190,penalty,Slashing,Tyson Barrie,Mark Borowiecki,[ 39. -27.],2,04:36,TOR,OTT,TOR,10,OTT,9,4,2,8475197,8474697.0,Tyson Barrie Slashing against Mark Borowiecki
-231,penalty,Boarding,Filip Chlapik,Nicholas Shore,[93. 37.],3,16:44,OTT,TOR,TOR,10,OTT,9,4,2,8478488,8476406.0,Filip Chlapik Boarding against Nicholas Shore
-242,penalty,Interference,Dmytro Timashov,Colin White,[22. 18.],3,14:25,TOR,OTT,TOR,10,OTT,9,4,2,8478857,8478400.0,Dmytro Timashov Interference against Colin White
-21,penalty,Holding,Tyson Barrie,Nick Foligno,[ 77. -11.],1,15:49,TOR,CBJ,CBJ,29,TOR,10,0,0,8475197,8473422.0,Tyson Barrie Holding against Nick Foligno
-52,penalty,Interference,David Savard,Jason Spezza,[-77. -37.],1,08:04,CBJ,TOR,CBJ,29,TOR,10,0,0,8475233,8469455.0,David Savard Interference against Jason Spezza
-57,penalty,Slashing,Andreas Johnsson,David Savard,[-96.   1.],1,07:15,TOR,CBJ,CBJ,29,TOR,10,0,1,8477341,8475233.0,Andreas Johnsson Slashing against David Savard
-84,penalty,Holding,Markus Nutivaara,William Nylander,[-86. -18.],1,01:08,CBJ,TOR,CBJ,29,TOR,10,0,1,8478906,8477939.0,Markus Nutivaara Holding against William Nylander
-86,penalty,Tripping,Andreas Johnsson,Boone Jenner,[79.  4.],1,00:53,TOR,CBJ,CBJ,29,TOR,10,0,1,8477341,8476432.0,Andreas Johnsson Tripping against Boone Jenner
-155,penalty,Holding,Morgan Rielly,Josh Anderson,[-76.  -5.],2,05:53,TOR,CBJ,CBJ,29,TOR,10,0,2,8476853,8476981.0,Morgan Rielly Holding against Josh Anderson
-168,penalty,Tripping,Scott Harrington,Alexander Kerfoot,[74. 37.],2,04:16,CBJ,TOR,CBJ,29,TOR,10,1,2,8476449,8477021.0,Scott Harrington Tripping against Alexander Kerfoot
-183,penalty,Cross checking,Josh Anderson,Andreas Johnsson,[-71.  -1.],3,18:59,CBJ,TOR,CBJ,29,TOR,10,1,2,8476981,8477341.0,Josh Anderson Cross checking against Andreas Johnsson
-184,penalty,Slashing,Andreas Johnsson,Josh Anderson,[-71.   0.],3,18:59,TOR,CBJ,CBJ,29,TOR,10,1,2,8477341,8476981.0,Andreas Johnsson Slashing against Josh Anderson
-205,penalty,Interference,Boone Jenner,Rasmus Sandin,[77. -2.],3,13:28,CBJ,TOR,CBJ,29,TOR,10,1,3,8476432,8480873.0,Boone Jenner Interference against Rasmus Sandin
-227,penalty,Slashing,Alexandre Texier,William Nylander,[-78.  16.],3,07:33,CBJ,TOR,CBJ,29,TOR,10,1,3,8480074,8477939.0,Alexandre Texier Slashing against William Nylander
-242,penalty,Hi-sticking,Frederik Gauthier,Alexander Wennberg,[-49.  38.],3,02:07,TOR,CBJ,CBJ,29,TOR,10,1,4,8477512,8477505.0,Frederik Gauthier Hi-sticking against Alexander Wennberg
-66,penalty,Holding,Tomas Tatar,Jake Muzzin,[ 79. -37.],1,08:49,MTL,TOR,TOR,10,MTL,8,1,1,8475193,8474162.0,Tomas Tatar Holding against Jake Muzzin
-95,penalty,Tripping,Nicholas Shore,Brett Kulak,[-46.  11.],1,02:03,TOR,MTL,TOR,10,MTL,8,2,1,8476406,8476967.0,Nicholas Shore Tripping against Brett Kulak
-98,penalty,Too many men on the ice,Jesperi Kotkaniemi,,[-11.  39.],1,01:07,MTL,TOR,TOR,10,MTL,8,2,1,8480829,,Too many men/ice served by Jesperi Kotkaniemi
-136,penalty,Slashing,Jonathan Drouin,Michael Hutchinson,[-79.   6.],2,14:18,MTL,TOR,TOR,10,MTL,8,3,1,8477494,8474636.0,Jonathan Drouin Slashing against Michael Hutchinson
-149,penalty,Tripping,Tomas Tatar,John Tavares,[-45. -29.],2,10:49,MTL,TOR,TOR,10,MTL,8,3,1,8475193,8475166.0,Tomas Tatar Tripping against John Tavares
-223,penalty,Tripping,Phillip Danault,Andreas Johnsson,[-42. -32.],3,15:53,MTL,TOR,TOR,10,MTL,8,3,1,8476479,8477341.0,Phillip Danault Tripping against Andreas Johnsson
-260,penalty,Interference,Alexander Kerfoot,Shea Weber,[-84.   2.],3,08:47,TOR,MTL,TOR,10,MTL,8,4,3,8477021,8470642.0,Alexander Kerfoot Interference against Shea Weber
-267,penalty,PS - Thow object at puck,Kasperi Kapanen,Jeff Petry,[ 74. -11.],3,06:58,TOR,MTL,TOR,10,MTL,8,4,3,8477953,8473507.0,Kasperi Kapanen PS - Thow object at puck against Jeff Petry
-295,penalty,Slashing,John Tavares,Phillip Danault,[-63. -30.],4,04:03,TOR,MTL,TOR,10,MTL,8,5,5,8475166,8476479.0,John Tavares Slashing against Phillip Danault
-72,penalty,Interference,David Perron,Jake Muzzin,[42. 35.],1,05:38,STL,TOR,TOR,10,STL,19,0,0,8474102,8474162.0,David Perron Interference against Jake Muzzin
-108,penalty,Hooking,Rasmus Sandin,Ivan Barbashev,[-88.  19.],2,17:24,TOR,STL,TOR,10,STL,19,0,0,8480873,8477964.0,Rasmus Sandin Hooking against Ivan Barbashev
-157,penalty,Interference,Justin Holl,Oskar Sundqvist,[-94. -33.],2,07:38,TOR,STL,TOR,10,STL,19,2,1,8475718,8476897.0,Justin Holl Interference against Oskar Sundqvist
-169,penalty,Hi-sticking,Carl Gunnarsson,John Tavares,[ 56. -20.],2,03:38,STL,TOR,TOR,10,STL,19,2,1,8474125,8475166.0,Carl Gunnarsson Hi-sticking against John Tavares
-199,penalty,Cross checking,Trevor Moore,Carl Gunnarsson,[-91. -31.],3,18:21,TOR,STL,TOR,10,STL,19,2,2,8479675,8474125.0,Trevor Moore Cross checking against Carl Gunnarsson
-200,penalty,Holding,Carl Gunnarsson,Trevor Moore,[-93. -28.],3,18:21,STL,TOR,TOR,10,STL,19,2,2,8474125,8479675.0,Carl Gunnarsson Holding against Trevor Moore
-258,penalty,Slashing,Jake Muzzin,David Perron,[69. -1.],3,04:57,TOR,STL,TOR,10,STL,19,2,3,8474162,8474102.0,Jake Muzzin Slashing against David Perron
-13,penalty,Cross checking,Victor Hedman,Trevor Moore,[ 19. -29.],1,16:44,TBL,TOR,TOR,10,TBL,14,0,1,8475167,8479675.0,Victor Hedman Cross checking against Trevor Moore
-48,penalty,Slashing,Jason Spezza,Pat Maroon,[-58.  37.],1,10:18,TOR,TBL,TOR,10,TBL,14,2,1,8469455,8474034.0,Jason Spezza Slashing against Pat Maroon
-65,penalty,Interference,Kasperi Kapanen,Kevin Shattenkirk,[ 34. -25.],1,06:37,TOR,TBL,TOR,10,TBL,14,2,3,8477953,8474031.0,Kasperi Kapanen Interference against Kevin Shattenkirk
-90,penalty,Holding,Nic Petan,Carter Verhaeghe,[64. 37.],1,01:33,TOR,TBL,TOR,10,TBL,14,3,3,8477464,8477409.0,Nic Petan Holding against Carter Verhaeghe
-199,penalty,Hooking,Nikita Kucherov,Trevor Moore,[51. 32.],3,15:14,TBL,TOR,TOR,10,TBL,14,3,6,8476453,8479675.0,Nikita Kucherov Hooking against Trevor Moore
-59,penalty,Interference - Goalkeeper,Andreas Athanasiou,Frederik Andersen,[-81.  -3.],1,07:24,DET,TOR,DET,17,TOR,10,1,1,8476960,8475883.0,Andreas Athanasiou Interference - Goalkeeper against Frederik Andersen
-73,penalty,Slashing,Valtteri Filppula,Kasperi Kapanen,[66. -1.],1,04:12,DET,TOR,DET,17,TOR,10,1,1,8470047,8477953.0,Valtteri Filppula Slashing against Kasperi Kapanen
-93,penalty,Cross checking,Tyson Barrie,Justin Abdelkader,[ 89. -29.],2,19:10,TOR,DET,DET,17,TOR,10,1,1,8475197,8471716.0,Tyson Barrie Cross checking against Justin Abdelkader
-237,penalty,Interference,Danny DeKeyser,Ilya Mikheyev,[49. -9.],3,05:02,DET,TOR,DET,17,TOR,10,2,4,8477215,8481624.0,Danny DeKeyser Interference against Ilya Mikheyev
-6,penalty,Slashing,Ryan Suter,William Nylander,[-81.  -4.],1,19:25,MIN,TOR,TOR,10,MIN,30,0,0,8470600,8477939.0,Ryan Suter Slashing against William Nylander
-64,penalty,Holding,Morgan Rielly,Jason Zucker,[ 85. -24.],1,01:33,TOR,MIN,TOR,10,MIN,30,0,1,8476853,8475722.0,Morgan Rielly Holding against Jason Zucker
-106,penalty,Tripping,Jared Spurgeon,John Tavares,[28. -3.],2,13:31,MIN,TOR,TOR,10,MIN,30,1,1,8474716,8475166.0,Jared Spurgeon Tripping against John Tavares
-114,penalty,Holding,Ryan Hartman,Jake Muzzin,[ 1. 25.],2,11:41,MIN,TOR,TOR,10,MIN,30,2,1,8477451,8474162.0,Ryan Hartman Holding against Jake Muzzin
-204,penalty,Hooking,Alexander Kerfoot,Jason Zucker,[29. 26.],3,12:05,TOR,MIN,TOR,10,MIN,30,4,1,8477021,8475722.0,Alexander Kerfoot Hooking against Jason Zucker
-228,penalty,Interference,Alexander Kerfoot,Eric Staal,[22. 35.],3,04:34,TOR,MIN,TOR,10,MIN,30,4,1,8477021,8470595.0,Alexander Kerfoot Interference against Eric Staal
-14,penalty,Tripping,Morgan Rielly,Brendan Leipsic,[-55.  -4.],1,17:08,TOR,WSH,WSH,15,TOR,10,0,0,8476853,8476894.0,Morgan Rielly Tripping against Brendan Leipsic
-95,penalty,Tripping,Morgan Rielly,Garnet Hathaway,[85. -8.],2,18:47,TOR,WSH,WSH,15,TOR,10,1,2,8476853,8477903.0,Morgan Rielly Tripping against Garnet Hathaway
-118,penalty,Interference,Nicholas Shore,T.J. Oshie,[77.  3.],2,14:24,TOR,WSH,WSH,15,TOR,10,3,2,8476406,8471698.0,Nicholas Shore Interference against T.J. Oshie
-121,penalty,Delaying Game - Puck over glass,Cody Ceci,,[ 78. -33.],2,14:15,TOR,WSH,WSH,15,TOR,10,3,2,8476879,,Cody Ceci Delaying Game - Puck over glass
-234,penalty,Slashing,Auston Matthews,John Carlson,[76. 40.],3,09:50,TOR,WSH,WSH,15,TOR,10,4,2,8479318,8474590.0,Auston Matthews Slashing against John Carlson
-245,penalty,Hooking,Carl Hagelin,Alexander Kerfoot,[-91. -24.],3,06:56,WSH,TOR,WSH,15,TOR,10,4,2,8474176,8477021.0,Carl Hagelin Hooking against Alexander Kerfoot
-104,penalty,Holding,Ilya Mikheyev,Brandon Carlo,[ 97. -22.],2,18:04,TOR,BOS,TOR,10,BOS,6,2,1,8481624,8478443.0,Ilya Mikheyev Holding against Brandon Carlo
-133,penalty,Tripping,Nicholas Shore,Par Lindholm,[-39.   5.],2,12:08,TOR,BOS,TOR,10,BOS,6,2,1,8476406,8480944.0,Nicholas Shore Tripping against Par Lindholm
-169,penalty,Interference - Goalkeeper,David Backes,Frederik Andersen,[-97. -15.],2,03:19,BOS,TOR,TOR,10,BOS,6,2,1,8470655,8475883.0,David Backes Interference - Goalkeeper against Frederik Andersen
-170,penalty,Roughing,Martin Marincin,David Backes,[-87.  -8.],2,03:19,TOR,BOS,TOR,10,BOS,6,2,1,8475716,8470655.0,Martin Marincin Roughing against David Backes
-188,penalty,Hooking,Martin Marincin,Jake DeBrusk,[-77.  -3.],2,00:23,TOR,BOS,TOR,10,BOS,6,2,1,8475716,8478498.0,Martin Marincin Hooking against Jake DeBrusk
-11,penalty,Holding,Boone Jenner,Kasperi Kapanen,[-53. -16.],1,17:45,CBJ,TOR,TOR,10,CBJ,29,0,0,8476432,8477953.0,Boone Jenner Holding against Kasperi Kapanen
-50,penalty,Slashing,Andreas Johnsson,Pierre-Luc Dubois,[11. 40.],1,09:08,TOR,CBJ,TOR,10,CBJ,29,0,2,8477341,8479400.0,Andreas Johnsson Slashing against Pierre-Luc Dubois
-70,penalty,Tripping,Ryan Murray,Kasperi Kapanen,[-77.   2.],1,04:52,CBJ,TOR,TOR,10,CBJ,29,1,2,8476850,8477953.0,Ryan Murray Tripping against Kasperi Kapanen
-91,penalty,Tripping,Alexander Kerfoot,Nick Foligno,[70. 41.],1,00:18,TOR,CBJ,TOR,10,CBJ,29,2,2,8477021,8473422.0,Alexander Kerfoot Tripping against Nick Foligno
-107,penalty,Hooking,Mitchell Marner,Gustav Nyquist,[-80. -36.],2,17:36,TOR,CBJ,TOR,10,CBJ,29,2,2,8478483,8474679.0,Mitchell Marner Hooking against Gustav Nyquist
-147,penalty,Tripping,Jason Spezza,Cam Atkinson,[28. 29.],2,07:57,TOR,CBJ,TOR,10,CBJ,29,2,2,8469455,8474715.0,Jason Spezza Tripping against Cam Atkinson
-222,penalty,Tripping,Frederik Gauthier,Sonny Milano,[ 32. -21.],3,11:08,TOR,CBJ,TOR,10,CBJ,29,3,2,8477512,8477947.0,Frederik Gauthier Tripping against Sonny Milano
-273,penalty,PS - Hooking on breakaway,Mitchell Marner,Gustav Nyquist,[-85.   1.],4,03:03,TOR,CBJ,TOR,10,CBJ,29,3,3,8478483,8474679.0,Mitchell Marner PS - Hooking on breakaway against Gustav Nyquist
-18,penalty,Interference,Torey Krug,Frederik Gauthier,[-80.  23.],1,15:57,BOS,TOR,BOS,6,TOR,10,0,0,8476792,8477512.0,Torey Krug Interference against Frederik Gauthier
-68,penalty,Hooking,Andreas Johnsson,Sean Kuraly,[-93. -19.],1,03:34,TOR,BOS,BOS,6,TOR,10,0,0,8477341,8476374.0,Andreas Johnsson Hooking against Sean Kuraly
-73,penalty,Roughing,Andreas Johnsson,Chris Wagner,[-1. 16.],1,02:42,TOR,BOS,BOS,6,TOR,10,1,0,8477341,8475780.0,Andreas Johnsson Roughing against Chris Wagner
-93,penalty,Tripping,Jake Muzzin,Jake DeBrusk,[-44.  23.],2,18:42,TOR,BOS,BOS,6,TOR,10,1,0,8474162,8478498.0,Jake Muzzin Tripping against Jake DeBrusk
-138,penalty,Tripping,Zdeno Chara,Frederik Gauthier,[ 47. -29.],2,08:20,BOS,TOR,BOS,6,TOR,10,2,1,8465009,8477512.0,Zdeno Chara Tripping against Frederik Gauthier
-156,penalty,Tripping,Morgan Rielly,Sean Kuraly,[-80.   0.],2,04:06,TOR,BOS,BOS,6,TOR,10,2,2,8476853,8476374.0,Morgan Rielly Tripping against Sean Kuraly
-241,penalty,Hi-sticking,Sean Kuraly,Andreas Johnsson,[-54.  27.],3,04:12,BOS,TOR,BOS,6,TOR,10,3,2,8476374,8477341.0,Sean Kuraly Hi-sticking against Andreas Johnsson
-254,penalty,Unsportsmanlike conduct,Brad Marchand,,[-9. 19.],3,01:55,BOS,TOR,BOS,6,TOR,10,4,2,8473419,,Brad Marchand Unsportsmanlike conduct
-1,penalty,Slashing,Logan Couture,Jake Muzzin,[ 27. -31.],1,19:21,SJS,TOR,TOR,10,SJS,28,0,0,8474053,8474162.0,Logan Couture Slashing against Jake Muzzin
-35,penalty,Holding,Cody Ceci,Brent Burns,[ 70. -32.],1,09:05,TOR,SJS,TOR,10,SJS,28,0,1,8476879,8470613.0,Cody Ceci Holding against Brent Burns
-102,penalty,Tripping,Mario Ferraro,Auston Matthews,[64. 39.],2,10:30,SJS,TOR,TOR,10,SJS,28,0,1,8479983,8479318.0,Mario Ferraro Tripping against Auston Matthews
-110,penalty,Hooking,Barclay Goodrow,Auston Matthews,[60. 10.],2,08:18,SJS,TOR,TOR,10,SJS,28,0,1,8476624,8479318.0,Barclay Goodrow Hooking against Auston Matthews
-138,penalty,Closing hand on puck,Timo Meier,,[-81. -15.],3,19:30,SJS,TOR,TOR,10,SJS,28,1,1,8478414,,Timo Meier Closing hand on puck
-151,penalty,Delaying Game - Puck over glass,Melker Karlsson,,[-73.  -9.],3,16:22,SJS,TOR,TOR,10,SJS,28,1,1,8477922,,Melker Karlsson Delaying Game - Puck over glass
-87,penalty,Hooking,Jake Muzzin,Mike Reilly,[-97.   2.],1,04:03,TOR,MTL,MTL,8,TOR,10,2,0,8474162,8476422.0,Jake Muzzin Hooking against Mike Reilly
-191,penalty,Slashing,Jonathan Drouin,Alexander Kerfoot,[-12.  34.],2,04:23,MTL,TOR,MTL,8,TOR,10,2,2,8477494,8477021.0,Jonathan Drouin Slashing against Alexander Kerfoot
-206,penalty,Boarding,Alexander Kerfoot,Max Domi,[78. 41.],2,01:01,TOR,MTL,MTL,8,TOR,10,2,2,8477021,8477503.0,Alexander Kerfoot Boarding against Max Domi
-18,penalty,Cross checking,Morgan Rielly,Nicklas Backstrom,[ 48. -36.],1,16:50,TOR,WSH,TOR,10,WSH,15,1,0,8476853,8473563.0,Morgan Rielly Cross checking against Nicklas Backstrom
-25,penalty,Slashing,Alex Ovechkin,Trevor Moore,[-6. 39.],1,14:45,WSH,TOR,TOR,10,WSH,15,1,0,8471214,8479675.0,Alex Ovechkin Slashing against Trevor Moore
-58,penalty,Interference,Justin Holl,Travis Boyd,[ 92. -31.],1,05:05,TOR,WSH,TOR,10,WSH,15,1,1,8475718,8476329.0,Justin Holl Interference against Travis Boyd
-66,penalty,Holding,Jakub Vrana,Trevor Moore,[89. 19.],1,03:13,WSH,TOR,TOR,10,WSH,15,1,1,8477944,8479675.0,Jakub Vrana Holding against Trevor Moore
-70,penalty,Slashing,Lars Eller,Andreas Johnsson,[-77.   3.],1,01:56,WSH,TOR,TOR,10,WSH,15,1,1,8474189,8477341.0,Lars Eller Slashing against Andreas Johnsson
-99,penalty,Holding,T.J. Oshie,Alexander Kerfoot,[-30. -27.],2,16:26,WSH,TOR,TOR,10,WSH,15,1,1,8471698,8477021.0,T.J. Oshie Holding against Alexander Kerfoot
-109,penalty,Hi-sticking,Alexander Kerfoot,T.J. Oshie,[-37.  -7.],2,13:29,TOR,WSH,TOR,10,WSH,15,1,1,8477021,8471698.0,Alexander Kerfoot Hi-sticking against T.J. Oshie
-113,penalty,Holding,Cody Ceci,Tom Wilson,[-75.  -5.],2,12:07,TOR,WSH,TOR,10,WSH,15,1,1,8476879,8476880.0,Cody Ceci Holding against Tom Wilson
-127,penalty,Interference,Michal Kempny,Frederik Gauthier,[ 40. -17.],2,09:03,WSH,TOR,TOR,10,WSH,15,1,2,8479482,8477512.0,Michal Kempny Interference against Frederik Gauthier
-143,penalty,Interference,Jonas Siegenthaler,Kasperi Kapanen,[ 38. -38.],2,04:40,WSH,TOR,TOR,10,WSH,15,1,2,8478399,8477953.0,Jonas Siegenthaler Interference against Kasperi Kapanen
-176,penalty,Charging,Tom Wilson,Brendan Leipsic,[ 39. -39.],3,18:33,WSH,TOR,TOR,10,WSH,15,2,2,8476880,8476894.0,Tom Wilson Charging against Tyson Barrie served by Brendan Leipsic
-177,penalty,Roughing,Frederik Gauthier,Tom Wilson,[10. 19.],3,18:33,TOR,WSH,TOR,10,WSH,15,2,2,8477512,8476880.0,Frederik Gauthier Roughing against Tom Wilson
-178,penalty,Roughing,Tom Wilson,Frederik Gauthier,[ 7. 24.],3,18:33,WSH,TOR,TOR,10,WSH,15,2,2,8476880,8477512.0,Tom Wilson Roughing against Frederik Gauthier
-198,penalty,Interference,Justin Holl,Evgeny Kuznetsov,[ 97. -10.],3,12:20,TOR,WSH,TOR,10,WSH,15,3,3,8475718,8475744.0,Justin Holl Interference against Evgeny Kuznetsov
-244,penalty,Delaying the game,Radko Gudas,,[-84.   2.],3,03:14,WSH,TOR,TOR,10,WSH,15,3,3,8475462,,Radko Gudas Delaying the game
-258,penalty,Tripping,William Nylander,Tom Wilson,[-78.  -5.],4,04:39,TOR,WSH,TOR,10,WSH,15,3,3,8477939,8476880.0,William Nylander Tripping against Tom Wilson
-270,penalty,Hi-sticking,Mitchell Marner,John Carlson,[-63. -19.],4,02:40,TOR,WSH,TOR,10,WSH,15,3,3,8478483,8474590.0,Mitchell Marner Hi-sticking against John Carlson
-51,penalty,Too many men on the ice,Jason Spezza,,[-24.  38.],1,05:13,TOR,PHI,PHI,4,TOR,10,0,1,8469455,,Too many men/ice served by Jason Spezza
-78,penalty,Holding,Jason Spezza,Kevin Hayes,[92. 31.],2,17:26,TOR,PHI,PHI,4,TOR,10,1,1,8469455,8475763.0,Jason Spezza Holding against Kevin Hayes
-94,penalty,Hi-sticking,Jason Spezza,Joel Farabee,[-76.  39.],2,13:50,TOR,PHI,PHI,4,TOR,10,2,1,8469455,8480797.0,Jason Spezza Hi-sticking against Joel Farabee
-110,penalty,Cross checking,Morgan Rielly,Travis Konecny,[94. 11.],2,10:12,TOR,PHI,PHI,4,TOR,10,2,1,8476853,8478439.0,Morgan Rielly Cross checking against Travis Konecny
-140,penalty,Interference,Matt Niskanen,Andreas Johnsson,[-52.  15.],2,01:50,PHI,TOR,PHI,4,TOR,10,2,2,8471702,8477341.0,Matt Niskanen Interference against Andreas Johnsson
-165,penalty,Interference,Cody Ceci,Travis Konecny,[-81.   1.],3,16:06,TOR,PHI,PHI,4,TOR,10,3,2,8476879,8478439.0,Cody Ceci Interference against Travis Konecny
-167,penalty,Hi-sticking,Joel Farabee,Frederik Gauthier,[-67.  41.],3,15:51,PHI,TOR,PHI,4,TOR,10,3,2,8480797,8477512.0,Joel Farabee Hi-sticking against Frederik Gauthier
-234,penalty,Tripping,Kasperi Kapanen,Oskar Lindblom,[50.  0.],4,04:18,TOR,PHI,PHI,4,TOR,10,3,3,8477953,8478067.0,Kasperi Kapanen Tripping against Oskar Lindblom
-257,penalty,Tripping,Claude Giroux,Mitchell Marner,[-28. -26.],4,00:01,PHI,TOR,PHI,4,TOR,10,3,3,8473512,8478483.0,Claude Giroux Tripping against Mitchell Marner
-258,penalty,Too many men on the ice,Frederik Gauthier,,[-12.  39.],4,00:01,TOR,PHI,PHI,4,TOR,10,3,3,8477512,,Too many men/ice served by Frederik Gauthier
-74,penalty,Roughing,Tyler Toffoli,Travis Dermott,[ 68. -23.],1,04:18,LAK,TOR,TOR,10,LAK,26,0,0,8475726,8478408.0,Tyler Toffoli Roughing against Travis Dermott
-113,penalty,Interference,Alexander Kerfoot,Carl Grundstrom,[-81.   5.],2,15:58,TOR,LAK,TOR,10,LAK,26,0,0,8477021,8479336.0,Alexander Kerfoot Interference against Carl Grundstrom
-163,penalty,Interference,Adrian Kempe,Mitchell Marner,[-11.   0.],2,04:55,LAK,TOR,TOR,10,LAK,26,1,1,8477960,8478483.0,Adrian Kempe Interference against Mitchell Marner
-176,penalty,Interference,Jake Muzzin,Ilya Kovalchuk,[16. 30.],2,01:27,TOR,LAK,TOR,10,LAK,26,1,1,8474162,8469454.0,Jake Muzzin Interference against Ilya Kovalchuk
-183,penalty,Tripping,Alec Martinez,Trevor Moore,[38. 40.],2,00:00,LAK,TOR,TOR,10,LAK,26,1,1,8474166,8479675.0,Alec Martinez Tripping against Trevor Moore
-193,penalty,Tripping,Nicholas Shore,Jonathan Quick,[-92.   7.],3,17:11,TOR,LAK,TOR,10,LAK,26,1,1,8476406,8471734.0,Nicholas Shore Tripping against Jonathan Quick
-261,penalty,Tripping,Ben Hutton,Ilya Mikheyev,[23. 28.],3,00:13,LAK,TOR,TOR,10,LAK,26,3,1,8477018,8481624.0,Ben Hutton Tripping against Ilya Mikheyev
-4,penalty,Interference,Nicolas Hague,Kasperi Kapanen,[-31.  40.],1,19:34,VGK,TOR,TOR,10,VGK,54,0,0,8479980,8477953.0,Nicolas Hague Interference against Kasperi Kapanen
-74,penalty,Hooking,Paul Stastny,Mitchell Marner,[-31. -39.],1,06:12,VGK,TOR,TOR,10,VGK,54,0,0,8471669,8478483.0,Paul Stastny Hooking against Mitchell Marner
-84,penalty,Hi-sticking,Dmytro Timashov,Nicolas Hague,[ 8. 41.],1,03:14,TOR,VGK,TOR,10,VGK,54,0,0,8478857,8479980.0,Dmytro Timashov Hi-sticking against Nicolas Hague
-109,penalty,Holding,William Nylander,Reilly Smith,[-56. -35.],2,16:51,TOR,VGK,TOR,10,VGK,54,0,0,8477939,8475191.0,William Nylander Holding against Reilly Smith
-149,penalty,Hooking,Brayden McNabb,Mitchell Marner,[60.  0.],2,08:49,VGK,TOR,TOR,10,VGK,54,0,0,8475188,8478483.0,Brayden McNabb Hooking against Mitchell Marner
-174,penalty,Hooking,Nick Holden,John Tavares,[86. 11.],2,03:48,VGK,TOR,TOR,10,VGK,54,0,0,8474207,8475166.0,Nick Holden Hooking against John Tavares
-197,penalty,Tripping,Paul Stastny,Jake Muzzin,[66. -2.],3,18:27,VGK,TOR,TOR,10,VGK,54,0,0,8471669,8474162.0,Paul Stastny Tripping against Jake Muzzin
-214,penalty,Interference,Justin Holl,William Carrier,[ 71. -35.],3,15:40,TOR,VGK,TOR,10,VGK,54,0,1,8475718,8477478.0,Justin Holl Interference against William Carrier
-227,penalty,Holding,William Carrier,Jake Muzzin,[ 54. -40.],3,13:16,VGK,TOR,TOR,10,VGK,54,0,1,8477478,8474162.0,William Carrier Holding against Jake Muzzin
-244,penalty,Slashing,Trevor Moore,Brayden McNabb,[-70.  34.],3,10:27,TOR,VGK,TOR,10,VGK,54,1,1,8479675,8475188.0,Trevor Moore Slashing against Brayden McNabb
-291,penalty,Too many men on the ice,Alexander Kerfoot,,[ 8. 40.],3,01:21,TOR,VGK,TOR,10,VGK,54,1,1,8477021,,Too many men/ice served by Alexander Kerfoot
-9,penalty,Tripping,Nicholas Shore,Tyler Pitlick,[-56. -36.],1,17:39,TOR,PHI,TOR,10,PHI,4,0,0,8476406,8475752.0,Nicholas Shore Tripping against Tyler Pitlick
-58,penalty,Interference,Ilya Mikheyev,Travis Konecny,[ 73. -32.],1,02:57,TOR,PHI,TOR,10,PHI,4,0,1,8481624,8478439.0,Ilya Mikheyev Interference against Travis Konecny
-72,penalty,Hooking,Jakub Voracek,Kasperi Kapanen,[ 81. -30.],2,19:33,PHI,TOR,TOR,10,PHI,4,0,2,8474161,8477953.0,Jakub Voracek Hooking against Kasperi Kapanen
-112,penalty,Boarding,Dmytro Timashov,Justin Braun,[67. 41.],2,09:34,TOR,PHI,TOR,10,PHI,4,1,2,8478857,8474027.0,Dmytro Timashov Boarding against Justin Braun
-126,penalty,Tripping,Claude Giroux,Andreas Johnsson,[ 88. -31.],2,06:50,PHI,TOR,TOR,10,PHI,4,1,2,8473512,8477341.0,Claude Giroux Tripping against Andreas Johnsson
-255,penalty,Too many men on the ice,Travis Konecny,,[ 9. 36.],4,00:08,PHI,TOR,TOR,10,PHI,4,2,2,8478439,,Too many men/ice served by Travis Konecny
-3,penalty,Roughing,Jonathan Toews,Jake Muzzin,[-95.  11.],1,19:28,CHI,TOR,CHI,16,TOR,10,0,0,8473604,8474162.0,Jonathan Toews Roughing against Jake Muzzin
-4,penalty,Roughing,Jonathan Toews,Dylan Strome,[-96.  11.],1,19:28,CHI,TOR,CHI,16,TOR,10,0,0,8473604,8478440.0,Jonathan Toews Roughing against Jake Muzzin served by Dylan Strome
-5,penalty,Roughing,Jake Muzzin,Jonathan Toews,[-94.  11.],1,19:28,TOR,CHI,CHI,16,TOR,10,0,0,8474162,8473604.0,Jake Muzzin Roughing against Jonathan Toews
-76,penalty,Interference,Justin Holl,Drake Caggiula,[-79.   9.],1,03:44,TOR,CHI,CHI,16,TOR,10,3,0,8475718,8479465.0,Justin Holl Interference against Drake Caggiula
-78,penalty,Slashing,Dylan Strome,Ilya Mikheyev,[-96.  17.],1,03:34,CHI,TOR,CHI,16,TOR,10,3,0,8478440,8481624.0,Dylan Strome Slashing against Ilya Mikheyev
-85,penalty,Tripping,Jake Muzzin,David Kampf,[22. 39.],1,02:43,TOR,CHI,CHI,16,TOR,10,3,1,8474162,8480144.0,Jake Muzzin Tripping against David Kampf
-135,penalty,Hooking,Morgan Rielly,Drake Caggiula,[79.  6.],2,11:59,TOR,CHI,CHI,16,TOR,10,4,1,8476853,8479465.0,Morgan Rielly Hooking against Drake Caggiula
-160,penalty,Hooking,Cody Ceci,Alex Nylander,[73.  6.],2,06:52,TOR,CHI,CHI,16,TOR,10,4,1,8476879,8479423.0,Cody Ceci Hooking against Alex Nylander
-178,penalty,Slashing,Dylan Strome,Travis Dermott,[16. 38.],2,02:55,CHI,TOR,CHI,16,TOR,10,4,1,8478440,8478408.0,Dylan Strome Slashing against Travis Dermott
-209,penalty,Hi-sticking,Alex Nylander,Cody Ceci,[ -2. -37.],3,16:05,CHI,TOR,CHI,16,TOR,10,4,2,8479423,8476879.0,Alex Nylander Hi-sticking against Cody Ceci
-218,penalty,Hi-sticking,Auston Matthews,Calvin de Haan,[72. 17.],3,14:56,TOR,CHI,CHI,16,TOR,10,4,2,8479318,8475177.0,Auston Matthews Hi-sticking against Calvin de Haan
-251,penalty,Hooking,Erik Gustafsson,John Tavares,[75.  4.],3,07:23,CHI,TOR,CHI,16,TOR,10,4,2,8476979,8475166.0,Erik Gustafsson Hooking against John Tavares
-278,penalty,Hooking,Zack Smith,Andreas Johnsson,[83.  6.],3,01:37,CHI,TOR,CHI,16,TOR,10,5,3,8474250,8477341.0,Zack Smith Hooking against Andreas Johnsson
-35,penalty,Hooking,Ross Johnston,Jake Muzzin,[-76.  13.],1,13:05,NYI,TOR,NYI,2,TOR,10,0,0,8477527,8474162.0,Ross Johnston Hooking against Jake Muzzin
-86,penalty,Tripping,Travis Dermott,Brock Nelson,[40.  1.],1,02:11,TOR,NYI,NYI,2,TOR,10,1,0,8478408,8475754.0,Travis Dermott Tripping against Brock Nelson
-220,penalty,Slashing,Devon Toews,William Nylander,[-35. -17.],3,15:20,NYI,TOR,NYI,2,TOR,10,3,2,8478038,8477939.0,Devon Toews Slashing against William Nylander
-231,penalty,Cross checking,Jake Muzzin,Jordan Eberle,[ 61. -20.],3,12:35,TOR,NYI,NYI,2,TOR,10,3,2,8474162,8474586.0,Jake Muzzin Cross checking against Jordan Eberle
-256,penalty,Interference,William Nylander,Derick Brassard,[-22.  16.],3,07:47,TOR,NYI,NYI,2,TOR,10,4,2,8477939,8473544.0,William Nylander Interference against Derick Brassard
-79,penalty,Interference,David Pastrnak,John Tavares,[-69. -30.],1,05:51,BOS,TOR,TOR,10,BOS,6,0,1,8477956,8475166.0,David Pastrnak Interference against John Tavares
-89,penalty,Holding,Nicholas Shore,David Pastrnak,[ 29. -19.],1,03:23,TOR,BOS,TOR,10,BOS,6,0,1,8476406,8477956.0,Nicholas Shore Holding against David Pastrnak
-166,penalty,Tripping,Andreas Johnsson,Charlie McAvoy,[30.  3.],2,08:49,TOR,BOS,TOR,10,BOS,6,1,1,8477341,8479325.0,Andreas Johnsson Tripping against Charlie McAvoy
-197,penalty,Slashing,Patrice Bergeron,John Tavares,[64. 14.],2,03:08,BOS,TOR,TOR,10,BOS,6,1,1,8470638,8475166.0,Patrice Bergeron Slashing against John Tavares
-30,penalty,Tripping,Frederik Gauthier,Bryan Rust,[52. 38.],1,15:14,TOR,PIT,PIT,5,TOR,10,0,0,8477512,8475810.0,Frederik Gauthier Tripping against Bryan Rust
-204,penalty,Hooking,Dominik Simon,Justin Holl,[83. 21.],3,17:51,PIT,TOR,PIT,5,TOR,10,5,1,8478866,8475718.0,Dominik Simon Hooking against Justin Holl
-220,penalty,Tripping,Evgeni Malkin,William Nylander,[-33.  37.],3,14:47,PIT,TOR,PIT,5,TOR,10,6,1,8471215,8477939.0,Evgeni Malkin Tripping against William Nylander
-132,penalty,Cross checking,Justin Holl,Ryan Reaves,[81.  2.],2,13:23,TOR,VGK,VGK,54,TOR,10,0,0,8475718,8471817.0,Justin Holl Cross checking against Ryan Reaves
-247,penalty,Hooking,John Tavares,Alex Tuch,[30. 25.],3,10:00,TOR,VGK,VGK,54,TOR,10,2,1,8475166,8477949.0,John Tavares Hooking against Alex Tuch
-256,penalty,Slashing,Ryan Reaves,Pierre Engvall,[ 32. -19.],3,08:59,VGK,TOR,VGK,54,TOR,10,3,1,8471817,8478115.0,Ryan Reaves Slashing against Pierre Engvall
-283,penalty,Slashing,Brayden McNabb,Andreas Johnsson,[81.  4.],3,03:20,VGK,TOR,VGK,54,TOR,10,3,2,8475188,8477341.0,Brayden McNabb Slashing against Andreas Johnsson
-155,penalty,Hi-sticking,William Nylander,Alex Goligoski,[94. 12.],2,04:24,TOR,ARI,ARI,53,TOR,10,0,1,8477939,8471274.0,William Nylander Hi-sticking against Alex Goligoski
-217,penalty,Hi-sticking,Jake Muzzin,Vinnie Hinostroza,[77.  3.],3,11:45,TOR,ARI,ARI,53,TOR,10,0,3,8474162,8476994.0,Jake Muzzin Hi-sticking against Vinnie Hinostroza
-236,penalty,Tripping,Morgan Rielly,Conor Garland,[97.  1.],3,06:31,TOR,ARI,ARI,53,TOR,10,0,3,8476853,8478856.0,Morgan Rielly Tripping against Conor Garland
-57,penalty,Hi-sticking,Ian Cole,Jason Spezza,[-73. -30.],1,07:00,COL,TOR,COL,21,TOR,10,1,2,8474013,8469455.0,Ian Cole Hi-sticking against Jason Spezza
-89,penalty,Interference,John Tavares,Joonas Donskoi,[-67. -34.],1,01:47,TOR,COL,COL,21,TOR,10,1,4,8475166,8475820.0,John Tavares Interference against Joonas Donskoi
-135,penalty,Slashing,Justin Holl,Valeri Nichushkin,[77.  0.],2,11:04,TOR,COL,COL,21,TOR,10,1,4,8475718,8477501.0,Justin Holl Slashing against Valeri Nichushkin
-171,penalty,Boarding,Alexander Kerfoot,Erik Johnson,[-96.   9.],2,02:41,TOR,COL,COL,21,TOR,10,2,4,8477021,8473446.0,Alexander Kerfoot Boarding against Erik Johnson
-208,penalty,Holding,Nazem Kadri,Morgan Rielly,[ 56. -38.],3,12:28,COL,TOR,COL,21,TOR,10,3,4,8475172,8476853.0,Nazem Kadri Holding against Morgan Rielly
-119,penalty,Slashing,Filip Hronek,Andreas Johnsson,[-75. -10.],2,14:15,DET,TOR,DET,17,TOR,10,0,5,8479425,8477341.0,Filip Hronek Slashing against Andreas Johnsson
-57,penalty,Tripping,Marcus Johansson,Andreas Johnsson,[ 71. -21.],1,03:55,BUF,TOR,BUF,7,TOR,10,0,0,8475149,8477341.0,Marcus Johansson Tripping against Andreas Johnsson
-72,penalty,Roughing,Travis Dermott,Conor Sheary,[78. -6.],1,00:26,TOR,BUF,BUF,7,TOR,10,0,1,8478408,8477839.0,Travis Dermott Roughing against Conor Sheary
-73,penalty,Roughing,Conor Sheary,Travis Dermott,[81. -5.],1,00:26,BUF,TOR,BUF,7,TOR,10,0,1,8477839,8478408.0,Conor Sheary Roughing against Travis Dermott
-98,penalty,Holding,Jason Spezza,Jack Eichel,[-93.  13.],2,13:57,TOR,BUF,BUF,7,TOR,10,1,2,8469455,8478403.0,Jason Spezza Holding against Jack Eichel
-104,penalty,Slashing,Jack Eichel,Kasperi Kapanen,[-67.  -1.],2,12:27,BUF,TOR,BUF,7,TOR,10,1,2,8478403,8477953.0,Jack Eichel Slashing against Kasperi Kapanen
-125,penalty,Holding,Frederik Gauthier,Jake McCabe,[ 70. -27.],2,06:05,TOR,BUF,BUF,7,TOR,10,3,2,8477512,8476931.0,Frederik Gauthier Holding against Jake McCabe
-130,penalty,Slashing,Rasmus Asplund,Andreas Johnsson,[31.  4.],2,03:11,BUF,TOR,BUF,7,TOR,10,3,2,8479335,8477341.0,Rasmus Asplund Slashing against Andreas Johnsson
-142,penalty,Slashing,Henri Jokiharju,Ilya Mikheyev,[-91.   7.],3,18:49,BUF,TOR,BUF,7,TOR,10,4,2,8480035,8481624.0,Henri Jokiharju Slashing against Ilya Mikheyev
-194,penalty,PS - Hooking on breakaway,Travis Dermott,Rasmus Asplund,[-79.   0.],3,00:01,TOR,BUF,BUF,7,TOR,10,6,4,8478408,8479335.0,Travis Dermott PS - Hooking on breakaway against Rasmus Asplund
-74,penalty,Tripping,Nic Petan,Jack Eichel,[ 76. -20.],1,01:53,TOR,BUF,TOR,10,BUF,7,0,0,8477464,8478403.0,Nic Petan Tripping against Jack Eichel
-104,penalty,Slashing,Marcus Johansson,Cody Ceci,[ 68. -26.],2,15:54,BUF,TOR,TOR,10,BUF,7,0,0,8475149,8476879.0,Marcus Johansson Slashing against Cody Ceci
-145,penalty,Slashing,John Tavares,Johan Larsson,[-83. -33.],2,08:28,TOR,BUF,TOR,10,BUF,7,1,0,8475166,8475728.0,John Tavares Slashing against Johan Larsson
-39,penalty,Hi-sticking,Ivan Provorov,Kasperi Kapanen,[ 68. -41.],1,06:43,PHI,TOR,PHI,4,TOR,10,0,0,8478500,8477953.0,Ivan Provorov Hi-sticking against Kasperi Kapanen
-120,penalty,Holding,Zach Hyman,Shayne Gostisbehere,[ 84. -37.],2,07:47,TOR,PHI,PHI,4,TOR,10,1,0,8475786,8476906.0,Zach Hyman Holding against Shayne Gostisbehere
-126,penalty,Hooking,Jake Muzzin,Sean Couturier,[88. -8.],2,05:42,TOR,PHI,PHI,4,TOR,10,1,0,8474162,8476461.0,Jake Muzzin Hooking against Sean Couturier
-211,penalty,Interference,Auston Matthews,Claude Giroux,[63. -1.],3,06:18,TOR,PHI,PHI,4,TOR,10,2,1,8479318,8473512.0,Auston Matthews Interference against Claude Giroux
-138,penalty,Hooking,Dmytro Timashov,Calle Rosen,[97.  3.],2,09:45,TOR,COL,TOR,10,COL,21,0,0,8478857,8480157.0,Dmytro Timashov Hooking against Calle Rosen
-185,penalty,Hi stick - double minor,Jake Muzzin,Mikko Rantanen,[ 22. -39.],3,19:44,TOR,COL,TOR,10,COL,21,1,1,8474162,8478420.0,Jake Muzzin Hi stick - double minor against Mikko Rantanen
-203,penalty,Interference,J.T. Compher,John Tavares,[ 82. -12.],3,15:16,COL,TOR,TOR,10,COL,21,1,1,8477456,8475166.0,J.T. Compher Interference against John Tavares
-36,penalty,Tripping,Morgan Rielly,Zach Sanford,[69. 20.],1,12:04,TOR,STL,STL,19,TOR,10,1,2,8476853,8477482.0,Morgan Rielly Tripping against Zach Sanford
-51,penalty,Holding,Nathan Walker,Travis Dermott,[ 67. -27.],1,08:32,STL,TOR,STL,19,TOR,10,1,3,8477573,8478408.0,Nathan Walker Holding against Travis Dermott
-71,penalty,Hi-sticking,Jason Spezza,Vince Dunn,[-80. -21.],1,03:17,TOR,STL,STL,19,TOR,10,1,4,8469455,8478407.0,Jason Spezza Hi-sticking against Vince Dunn
-99,penalty,Delaying Game - Puck over glass,Alexander Kerfoot,,[-69.  13.],2,14:09,TOR,STL,STL,19,TOR,10,1,4,8477021,,Alexander Kerfoot Delaying Game - Puck over glass
-110,penalty,Interference,Vince Dunn,Auston Matthews,[59. -7.],2,11:12,STL,TOR,STL,19,TOR,10,1,4,8478407,8479318.0,Vince Dunn Interference against Auston Matthews
-116,penalty,Hooking,Justin Holl,Jaden Schwartz,[-86.  -8.],2,09:45,TOR,STL,STL,19,TOR,10,1,5,8475718,8475768.0,Justin Holl Hooking against Jaden Schwartz
-172,penalty,Fighting,Troy Brouwer,Travis Dermott,[93. 10.],3,17:01,STL,TOR,STL,19,TOR,10,2,5,8471426,8478408.0,Troy Brouwer Fighting against Travis Dermott
-173,penalty,Fighting,Travis Dermott,Troy Brouwer,[98. 12.],3,17:01,TOR,STL,STL,19,TOR,10,2,5,8478408,8471426.0,Travis Dermott Fighting against Troy Brouwer
-35,penalty,Interference,Antoine Roussel,Mitchell Marner,[-90.  31.],1,10:20,VAN,TOR,VAN,23,TOR,10,0,0,8474849,8478483.0,Antoine Roussel Interference against Mitchell Marner
-65,penalty,Interference,Mitchell Marner,Josh Leivo,[-73. -37.],1,01:37,TOR,VAN,VAN,23,TOR,10,0,0,8478483,8476410.0,Mitchell Marner Interference against Josh Leivo
-164,penalty,Hooking,Tanner Pearson,John Tavares,[ 55. -39.],3,13:56,VAN,TOR,VAN,23,TOR,10,0,2,8476871,8475166.0,Tanner Pearson Hooking against John Tavares
-213,penalty,Roughing,Kasperi Kapanen,Jay Beagle,[-80.   0.],3,00:07,TOR,VAN,VAN,23,TOR,10,1,4,8477953,8474291.0,Kasperi Kapanen Roughing against Jay Beagle
-84,penalty,Tripping,Justin Holl,Tobias Rieder,[7. 1.],1,01:45,TOR,CGY,CGY,20,TOR,10,1,1,8475718,8476356.0,Justin Holl Tripping against Tobias Rieder
-140,penalty,Tripping,Mark Jankowski,Pierre Engvall,[-39.  19.],2,09:55,CGY,TOR,CGY,20,TOR,10,1,1,8476873,8478115.0,Mark Jankowski Tripping against Pierre Engvall
-206,penalty,Tripping,Elias Lindholm,Justin Holl,[-97. -16.],3,15:34,CGY,TOR,CGY,20,TOR,10,4,2,8477496,8475718.0,Elias Lindholm Tripping against Justin Holl
-209,penalty,Delaying Game - Puck over glass,Travis Hamonic,,[ 52. -12.],3,15:09,CGY,TOR,CGY,20,TOR,10,4,2,8474612,,Travis Hamonic Delaying Game - Puck over glass
-170,penalty,Holding,Jake Muzzin,Connor McDavid,[-85.  30.],2,05:21,TOR,EDM,EDM,22,TOR,10,0,2,8474162,8478402.0,Jake Muzzin Holding against Connor McDavid
-211,penalty,Delaying Game - Puck over glass,Cody Ceci,,[82. 32.],3,14:17,TOR,EDM,EDM,22,TOR,10,0,2,8476879,,Cody Ceci Delaying Game - Puck over glass
-263,penalty,Tripping,Gaetan Haas,Morgan Rielly,[96. -7.],3,02:21,EDM,TOR,EDM,22,TOR,10,1,3,8481813,8476853.0,Gaetan Haas Tripping against Morgan Rielly
-131,penalty,Hooking,Zemgus Girgensons,Ilya Mikheyev,[70. 19.],2,07:54,BUF,TOR,TOR,10,BUF,7,2,0,8476878,8481624.0,Zemgus Girgensons Hooking against Ilya Mikheyev
-164,penalty,Holding the stick,John Tavares,Brandon Montour,[66. -4.],2,00:13,TOR,BUF,TOR,10,BUF,7,3,0,8475166,8477986.0,John Tavares Holding the stick against Brandon Montour
-228,penalty,Holding,Zach Hyman,Jack Eichel,[ 53. -18.],3,04:29,TOR,BUF,TOR,10,BUF,7,4,3,8475786,8478403.0,Zach Hyman Holding against Jack Eichel
-6,penalty,Tripping,Morgan Rielly,Jesper Fast,[-87.  22.],1,19:14,TOR,NYR,NYR,3,TOR,10,0,0,8476853,8475855.0,Morgan Rielly Tripping against Jesper Fast
-109,penalty,Interference,Mika Zibanejad,Kasperi Kapanen,[67.  2.],2,18:31,NYR,TOR,NYR,3,TOR,10,2,2,8476459,8477953.0,Mika Zibanejad Interference against Kasperi Kapanen
-112,penalty,Slashing,Brendan Smith,Mitchell Marner,[-44. -10.],2,18:10,NYR,TOR,NYR,3,TOR,10,2,2,8474090,8478483.0,Brendan Smith Slashing against Mitchell Marner
-127,penalty,Delaying Game - Puck over glass,Tyson Barrie,Chris Kreider,[81.  0.],2,14:10,TOR,NYR,NYR,3,TOR,10,3,3,8475197,8475184.0,Tyson Barrie Delaying Game - Puck over glass against Chris Kreider
-176,penalty,Roughing,Adam Fox,Dmytro Timashov,[-77. -38.],2,01:43,NYR,TOR,NYR,3,TOR,10,3,3,8479323,8478857.0,Adam Fox Roughing against Dmytro Timashov
-206,penalty,Hooking,Dmytro Timashov,Artemi Panarin,[-79.   4.],3,14:54,TOR,NYR,NYR,3,TOR,10,3,5,8478857,8478550.0,Dmytro Timashov Hooking against Artemi Panarin
-27,penalty,Tripping,Anthony Mantha,Zach Hyman,[-95. -17.],1,13:08,DET,TOR,TOR,10,DET,17,0,0,8477511,8475786.0,Anthony Mantha Tripping against Zach Hyman
-128,penalty,Slashing,Alexander Kerfoot,Robby Fabbri,[40. 36.],2,10:42,TOR,DET,TOR,10,DET,17,0,0,8477021,8477952.0,Alexander Kerfoot Slashing against Robby Fabbri
-129,penalty,Slashing,Robby Fabbri,Alexander Kerfoot,[ 7. 32.],2,10:42,DET,TOR,TOR,10,DET,17,0,0,8477952,8477021.0,Robby Fabbri Slashing against Alexander Kerfoot
-167,penalty,Tripping,Jake Muzzin,Robby Fabbri,[-18.  30.],2,00:56,TOR,DET,TOR,10,DET,17,1,0,8474162,8477952.0,Jake Muzzin Tripping against Robby Fabbri
-176,penalty,Tripping,Filip Zadina,Pierre Engvall,[57. 17.],3,18:21,DET,TOR,TOR,10,DET,17,1,0,8480821,8478115.0,Filip Zadina Tripping against Pierre Engvall
-224,penalty,Roughing,Anthony Mantha,Jake Muzzin,[ 62. -35.],3,01:55,DET,TOR,TOR,10,DET,17,4,0,8477511,8474162.0,Anthony Mantha Roughing against Jake Muzzin
-225,penalty,Roughing,Jake Muzzin,Dmytro Timashov,[ 62. -33.],3,01:55,TOR,DET,TOR,10,DET,17,4,0,8474162,8478857.0,Jake Muzzin Roughing against Anthony Mantha served by Dmytro Timashov
-226,penalty,Unsportsmanlike conduct,Jake Muzzin,Anthony Mantha,[ 47. -36.],3,01:55,TOR,DET,TOR,10,DET,17,4,0,8474162,8477511.0,Jake Muzzin Unsportsmanlike conduct against Anthony Mantha
-231,penalty,Abusive language,Travis Dermott,,[13. 41.],3,01:44,TOR,DET,TOR,10,DET,17,4,1,8478408,,Travis Dermott Abusive language
-235,penalty,Fighting,Justin Holl,Andreas Athanasiou,[ 9. -3.],3,00:34,TOR,DET,TOR,10,DET,17,4,1,8475718,8476960.0,Justin Holl Fighting against Andreas Athanasiou
-236,penalty,Fighting,Andreas Athanasiou,Justin Holl,[8. 0.],3,00:34,DET,TOR,TOR,10,DET,17,4,1,8476960,8475718.0,Andreas Athanasiou Fighting against Justin Holl
-237,penalty,Roughing,Andreas Athanasiou,Justin Holl,[13. -1.],3,00:34,DET,TOR,TOR,10,DET,17,4,1,8476960,8475718.0,Andreas Athanasiou Roughing against Justin Holl
-238,penalty,Kneeing,Andreas Athanasiou,Brendan Perlini,[9. 2.],3,00:34,DET,TOR,TOR,10,DET,17,4,1,8476960,8477943.0,Andreas Athanasiou Kneeing against Alexander Kerfoot served by Brendan Perlini
-19,penalty,Hi stick - double minor,Brett Pesce,Zach Hyman,[-55. -15.],1,16:48,CAR,TOR,TOR,10,CAR,12,1,0,8477488,8475786.0,Brett Pesce Hi stick - double minor against Zach Hyman
-59,penalty,Holding,Warren Foegele,Jake Muzzin,[ 82. -32.],1,06:32,CAR,TOR,TOR,10,CAR,12,3,0,8477998,8474162.0,Warren Foegele Holding against Jake Muzzin
-76,penalty,Tripping,Jake Muzzin,Sebastian Aho,[87. 20.],1,02:04,TOR,CAR,TOR,10,CAR,12,3,1,8474162,8478427.0,Jake Muzzin Tripping against Sebastian Aho
-98,penalty,Tripping,Travis Dermott,Martin Necas,[70. 27.],2,18:00,TOR,CAR,TOR,10,CAR,12,3,2,8478408,8480039.0,Travis Dermott Tripping against Martin Necas
-146,penalty,Slashing,Nino Niederreiter,Jake Muzzin,[63. 39.],2,07:30,CAR,TOR,TOR,10,CAR,12,3,2,8475799,8474162.0,Nino Niederreiter Slashing against Jake Muzzin
-252,penalty,Hooking,Mitchell Marner,Warren Foegele,[26.  1.],3,04:47,TOR,CAR,TOR,10,CAR,12,7,6,8478483,8477998.0,Mitchell Marner Hooking against Warren Foegele
-63,penalty,Hi stick - double minor,Miles Wood,Cody Ceci,[69. 19.],1,06:34,NJD,TOR,NJD,1,TOR,10,1,0,8477425,8476879.0,Miles Wood Hi stick - double minor against Cody Ceci
-99,penalty,Tripping,Mitchell Marner,Nikita Gusev,[-65.   0.],2,18:33,TOR,NJD,NJD,1,TOR,10,1,2,8478483,8477038.0,Mitchell Marner Tripping against Nikita Gusev
-102,penalty,Delaying Game - Puck over glass,Jake Muzzin,,[-47. -40.],2,18:27,TOR,NJD,NJD,1,TOR,10,1,2,8474162,,Jake Muzzin Delaying Game - Puck over glass
-189,penalty,Hi-sticking,Tyson Barrie,Wayne Simmonds,[71. 22.],3,14:48,TOR,NJD,NJD,1,TOR,10,4,3,8475197,8474190.0,Tyson Barrie Hi-sticking against Wayne Simmonds
-193,penalty,Too many men on the ice,Nikita Gusev,,[-35.  40.],3,13:32,NJD,TOR,NJD,1,TOR,10,4,3,8477038,,Too many men/ice served by Nikita Gusev
-228,penalty,Holding,Miles Wood,Zach Hyman,[ 45. -31.],3,01:23,NJD,TOR,NJD,1,TOR,10,4,4,8477425,8475786.0,Miles Wood Holding against Zach Hyman
-229,penalty,Embellishment,Zach Hyman,Miles Wood,[ 43. -30.],3,01:23,TOR,NJD,NJD,1,TOR,10,4,4,8475786,8477425.0,Zach Hyman Embellishment against Miles Wood
-235,penalty,Slashing,Blake Coleman,Alexander Kerfoot,[39. 26.],3,00:29,NJD,TOR,NJD,1,TOR,10,4,4,8476399,8477021.0,Blake Coleman Slashing against Alexander Kerfoot
-13,penalty,Hi-sticking,Jacob Trouba,Dmytro Timashov,[-63.   1.],1,17:37,NYR,TOR,TOR,10,NYR,3,0,1,8476885,8478857.0,Jacob Trouba Hi-sticking against Dmytro Timashov
-57,penalty,PS - Slash on breakaway,Tyson Barrie,Pavel Buchnevich,[73.  1.],1,08:32,TOR,NYR,TOR,10,NYR,3,1,2,8475197,8477402.0,Tyson Barrie PS - Slash on breakaway against Pavel Buchnevich
-128,penalty,Hooking,Kaapo Kakko,Mitchell Marner,[69.  1.],2,14:45,NYR,TOR,TOR,10,NYR,3,1,3,8481554,8478483.0,Kaapo Kakko Hooking against Mitchell Marner
-177,penalty,Holding,Pierre Engvall,Jacob Trouba,[ 92. -22.],2,06:03,TOR,NYR,TOR,10,NYR,3,2,3,8478115,8476885.0,Pierre Engvall Holding against Jacob Trouba
-208,penalty,Roughing,Ryan Strome,Martin Marincin,[-73.   0.],2,00:07,NYR,TOR,TOR,10,NYR,3,2,4,8476458,8475716.0,Ryan Strome Roughing against Martin Marincin
-209,penalty,Roughing,Martin Marincin,Ryan Strome,[-77.   1.],2,00:07,TOR,NYR,TOR,10,NYR,3,2,4,8475716,8476458.0,Martin Marincin Roughing against Ryan Strome
-210,penalty,Slashing,Martin Marincin,Ryan Strome,[-72.   1.],2,00:07,TOR,NYR,TOR,10,NYR,3,2,4,8475716,8476458.0,Martin Marincin Slashing against Ryan Strome
-211,penalty,Slashing,Ryan Strome,Martin Marincin,[-76.   0.],2,00:07,NYR,TOR,TOR,10,NYR,3,2,4,8476458,8475716.0,Ryan Strome Slashing against Martin Marincin
-36,penalty,Holding,Zach Hyman,Jonas Brodin,[ 69. -28.],1,09:57,TOR,MIN,MIN,30,TOR,10,0,1,8475786,8476463.0,Zach Hyman Holding against Jonas Brodin
-48,penalty,Slashing,Ryan Hartman,Cody Ceci,[ 49. -26.],1,06:16,MIN,TOR,MIN,30,TOR,10,0,1,8477451,8476879.0,Ryan Hartman Slashing against Cody Ceci
-53,penalty,Hi-sticking,Dmytro Timashov,Marcus Foligno,[-35.  33.],1,03:41,TOR,MIN,MIN,30,TOR,10,0,1,8478857,8475220.0,Dmytro Timashov Hi-sticking against Marcus Foligno
-86,penalty,Tripping,Kevin Fiala,Martin Marincin,[43. 16.],2,16:15,MIN,TOR,MIN,30,TOR,10,0,2,8477942,8475716.0,Kevin Fiala Tripping against Martin Marincin
-97,penalty,Holding,Ryan Donato,John Tavares,[-95.  -6.],2,12:59,MIN,TOR,MIN,30,TOR,10,0,2,8477987,8475166.0,Ryan Donato Holding against John Tavares
-116,penalty,Interference,Travis Dermott,Jordan Greenway,[13. 13.],2,08:36,TOR,MIN,MIN,30,TOR,10,0,3,8478408,8478413.0,Travis Dermott Interference against Jordan Greenway
-54,penalty,Tripping,Tyson Barrie,Nikolaj Ehlers,[-51.  -6.],1,09:32,TOR,WPG,WPG,52,TOR,10,0,2,8475197,8477940.0,Tyson Barrie Tripping against Nikolaj Ehlers
-108,penalty,Delaying Game - Puck over glass,Jason Spezza,,[ 72. -41.],2,17:26,TOR,WPG,WPG,52,TOR,10,0,2,8469455,,Jason Spezza Delaying Game - Puck over glass
-152,penalty,Hooking,Nicholas Shore,John Tavares,[ 67. -40.],2,09:26,WPG,TOR,WPG,52,TOR,10,2,4,8476406,8475166.0,Nicholas Shore Hooking against John Tavares
-181,penalty,Slashing,Mathieu Perreault,Kasperi Kapanen,[-51.  22.],2,04:20,WPG,TOR,WPG,52,TOR,10,3,4,8473618,8477953.0,Mathieu Perreault Slashing against Kasperi Kapanen
-265,penalty,Hi stick - double minor,Mason Appleton,Mason Marchment,[-40.  39.],3,00:42,WPG,TOR,WPG,52,TOR,10,3,6,8478891,8478975.0,Mason Appleton Hi stick - double minor against Mason Marchment
-137,penalty,Hooking,Cody Ceci,Tom Kuhnhackl,[-84.  -7.],2,02:50,TOR,NYI,TOR,10,NYI,2,2,0,8476879,8475832.0,Cody Ceci Hooking against Tom Kuhnhackl
-61,penalty,Interference,Travis Dermott,Kailer Yamamoto,[91. 20.],1,07:03,TOR,EDM,TOR,10,EDM,22,0,1,8478408,8479977.0,Travis Dermott Interference against Kailer Yamamoto
-79,penalty,Holding,Justin Holl,Ethan Bear,[96. 18.],1,04:10,TOR,EDM,TOR,10,EDM,22,0,1,8475718,8478451.0,Justin Holl Holding against Ethan Bear
-130,penalty,Slashing,Kailer Yamamoto,Morgan Rielly,[ 52. -32.],2,14:00,EDM,TOR,TOR,10,EDM,22,1,3,8479977,8476853.0,Kailer Yamamoto Slashing against Morgan Rielly
-134,penalty,Tripping,Riley Sheahan,Mitchell Marner,[-50.  35.],2,13:23,EDM,TOR,TOR,10,EDM,22,1,3,8475772,8478483.0,Riley Sheahan Tripping against Mitchell Marner
-202,penalty,Delaying Game - Puck over glass,Alexander Kerfoot,,[ 41. -37.],3,19:32,TOR,EDM,TOR,10,EDM,22,3,4,8477021,,Alexander Kerfoot Delaying Game - Puck over glass
-228,penalty,Hi-sticking,Justin Holl,Alex Chiasson,[ 72. -35.],3,14:03,TOR,EDM,TOR,10,EDM,22,3,4,8475718,8475163.0,Justin Holl Hi-sticking against Alex Chiasson
-250,penalty,Hi-sticking,Jujhar Khaira,Travis Dermott,[91. -6.],3,10:15,EDM,TOR,TOR,10,EDM,22,3,5,8476915,8478408.0,Jujhar Khaira Hi-sticking against Travis Dermott
-251,penalty,Hi-sticking,Travis Dermott,Jujhar Khaira,[92. -7.],3,10:15,TOR,EDM,TOR,10,EDM,22,3,5,8478408,8476915.0,Travis Dermott Hi-sticking against Jujhar Khaira
-265,penalty,Delaying Game - Puck over glass,Caleb Jones,,[-86.  31.],3,06:58,EDM,TOR,TOR,10,EDM,22,3,6,8478452,,Caleb Jones Delaying Game - Puck over glass
-277,penalty,Holding,Justin Holl,Connor McDavid,[72. -3.],3,04:19,TOR,EDM,TOR,10,EDM,22,4,6,8475718,8478402.0,Justin Holl Holding against Connor McDavid
-287,penalty,Too many men on the ice,Gaetan Haas,,[-19.  17.],3,01:35,EDM,TOR,TOR,10,EDM,22,4,6,8481813,,Too many men/ice served by Gaetan Haas
-55,penalty,Holding,Blake Wheeler,Adam Brooks,[97. 14.],1,03:18,WPG,TOR,TOR,10,WPG,52,1,1,8471218,8478996.0,Blake Wheeler Holding against Adam Brooks
-82,penalty,Too many men on the ice,Dmytro Timashov,,[13. 40.],2,16:13,TOR,WPG,TOR,10,WPG,52,1,2,8478857,,Too many men/ice served by Dmytro Timashov
-94,penalty,Holding,John Tavares,Mark Scheifele,[-89. -34.],2,12:29,TOR,WPG,TOR,10,WPG,52,2,2,8475166,8476460.0,John Tavares Holding against Mark Scheifele
-115,penalty,Hooking,Josh Morrissey,John Tavares,[86. -5.],2,06:40,WPG,TOR,TOR,10,WPG,52,2,3,8477504,8475166.0,Josh Morrissey Hooking against John Tavares
-157,penalty,Tripping,Sami Niku,John Tavares,[-30.  33.],3,13:05,WPG,TOR,TOR,10,WPG,52,2,3,8478915,8475166.0,Sami Niku Tripping against John Tavares
-82,penalty,Delaying Game - Puck over glass,Noel Acciari,,[ 41. -38.],1,03:54,FLA,TOR,FLA,13,TOR,10,3,0,8478569,,Noel Acciari Delaying Game - Puck over glass
-102,penalty,Holding,Mike Hoffman,Travis Dermott,[-55. -37.],2,18:31,FLA,TOR,FLA,13,TOR,10,4,0,8474884,8478408.0,Mike Hoffman Holding against Travis Dermott
-188,penalty,Tripping,Cody Ceci,Josh Brown,[62. 33.],3,17:54,TOR,FLA,FLA,13,TOR,10,7,4,8476879,8477384.0,Cody Ceci Tripping against Josh Brown
-197,penalty,Tripping,Justin Holl,Vincent Trocheck,[-69. -30.],3,15:50,TOR,FLA,FLA,13,TOR,10,7,4,8475718,8476389.0,Justin Holl Tripping against Vincent Trocheck
-243,penalty,PS - Hooking on breakaway,Cody Ceci,Frank Vatrano,[-80.  -6.],3,04:24,TOR,FLA,FLA,13,TOR,10,8,4,8476879,8478366.0,Cody Ceci PS - Hooking on breakaway against Frank Vatrano
-258,penalty,Holding,Brett Connolly,Alexander Kerfoot,[-82.  29.],3,01:20,FLA,TOR,FLA,13,TOR,10,8,4,8475792,8477021.0,Brett Connolly Holding against Alexander Kerfoot
-44,penalty,Holding,Pierre Engvall,P.K. Subban,[-97.  16.],1,10:33,TOR,NJD,TOR,10,NJD,1,2,0,8478115,8474056.0,Pierre Engvall Holding against P.K. Subban
-60,penalty,Hooking,Connor Carrick,William Nylander,[25. 11.],1,07:13,NJD,TOR,TOR,10,NJD,1,2,0,8476941,8477939.0,Connor Carrick Hooking against William Nylander
-84,penalty,Interference,P.K. Subban,Dmytro Timashov,[ 48. -38.],1,01:36,NJD,TOR,TOR,10,NJD,1,2,0,8474056,8478857.0,P.K. Subban Interference against Dmytro Timashov
-115,penalty,Hi-sticking,Alexander Kerfoot,Nikita Gusev,[-78.  26.],2,15:22,TOR,NJD,TOR,10,NJD,1,4,0,8477021,8477038.0,Alexander Kerfoot Hi-sticking against Nikita Gusev
-135,penalty,Hi-sticking,Blake Coleman,Alexander Kerfoot,[-85. -30.],2,10:26,NJD,TOR,TOR,10,NJD,1,4,1,8476399,8477021.0,Blake Coleman Hi-sticking against Alexander Kerfoot
-154,penalty,Roughing,Miles Wood,Pierre Engvall,[-69. -22.],2,06:52,NJD,TOR,TOR,10,NJD,1,5,1,8477425,8478115.0,Miles Wood Roughing against Pierre Engvall
-155,penalty,Roughing,Pierre Engvall,Miles Wood,[-72. -19.],2,06:52,TOR,NJD,TOR,10,NJD,1,5,1,8478115,8477425.0,Pierre Engvall Roughing against Miles Wood
-160,penalty,Tripping,Travis Zajac,Justin Holl,[ 47. -37.],2,04:58,NJD,TOR,TOR,10,NJD,1,5,1,8471233,8475718.0,Travis Zajac Tripping against Justin Holl
-254,penalty,Hooking,Cody Ceci,Miles Wood,[58. 16.],3,04:05,TOR,NJD,TOR,10,NJD,1,6,3,8476879,8477425.0,Cody Ceci Hooking against Miles Wood
-261,penalty,Hooking,Martin Marincin,Nico Hischier,[81. 11.],3,02:20,TOR,NJD,TOR,10,NJD,1,6,3,8475716,8480002.0,Martin Marincin Hooking against Nico Hischier
-43,penalty,Tripping,Elias Lindholm,Dmytro Timashov,[-87.  34.],1,11:44,CGY,TOR,TOR,10,CGY,20,0,0,8477496,8478857.0,Elias Lindholm Tripping against Dmytro Timashov
-49,penalty,Hooking,Rasmus Sandin,Mark Jankowski,[71. -6.],1,10:26,TOR,CGY,TOR,10,CGY,20,0,0,8480873,8476873.0,Rasmus Sandin Hooking against Mark Jankowski
-109,penalty,Tripping,Sam Bennett,Frederik Gauthier,[-22.  28.],2,16:34,CGY,TOR,TOR,10,CGY,20,0,0,8477935,8477512.0,Sam Bennett Tripping against Frederik Gauthier
-161,penalty,Holding,Oliver Kylington,John Tavares,[ 88. -12.],2,05:50,CGY,TOR,TOR,10,CGY,20,0,1,8478430,8475166.0,Oliver Kylington Holding against John Tavares
-209,penalty,Holding,Tobias Rieder,Kasperi Kapanen,[-45. -31.],3,12:45,CGY,TOR,TOR,10,CGY,20,0,1,8476356,8477953.0,Tobias Rieder Holding against Kasperi Kapanen
-226,penalty,Interference,Zach Hyman,Tobias Rieder,[-49.  31.],3,07:58,TOR,CGY,TOR,10,CGY,20,1,1,8475786,8476356.0,Zach Hyman Interference against Tobias Rieder
-81,penalty,Hooking,Patrick Kane,Travis Dermott,[-89.  17.],1,01:12,CHI,TOR,TOR,10,CHI,16,0,3,8474141,8478408.0,Patrick Kane Hooking against Travis Dermott
-113,penalty,Slashing,Connor Murphy,Zach Hyman,[34. 19.],2,13:45,CHI,TOR,TOR,10,CHI,16,1,4,8476473,8475786.0,Connor Murphy Slashing against Zach Hyman
-259,penalty,Hi-sticking,Kasperi Kapanen,Connor Murphy,[-63. -11.],3,00:42,TOR,CHI,TOR,10,CHI,16,2,6,8477953,8476473.0,Kasperi Kapanen Hi-sticking against Connor Murphy
-122,penalty,Hooking,Nick Bonino,Auston Matthews,[74. 14.],2,09:49,NSH,TOR,NSH,18,TOR,10,1,3,8474009,8479318.0,Nick Bonino Hooking against Auston Matthews
-146,penalty,Interference,Justin Holl,Roman Josi,[-57. -38.],2,03:23,TOR,NSH,NSH,18,TOR,10,1,4,8475718,8474600.0,Justin Holl Interference against Roman Josi
-150,penalty,Hooking,Kyle Turris,Mitchell Marner,[-84.  -8.],2,02:43,NSH,TOR,NSH,18,TOR,10,1,4,8474068,8478483.0,Kyle Turris Hooking against Mitchell Marner
-122,penalty,Roughing,Cody Ceci,Blake Comeau,[94. 20.],2,15:06,TOR,DAL,DAL,25,TOR,10,1,2,8476879,8471260.0,Cody Ceci Roughing against Blake Comeau
-137,penalty,Holding,Miro Heiskanen,Mitchell Marner,[-89.  30.],2,11:46,DAL,TOR,DAL,25,TOR,10,1,2,8480036,8478483.0,Miro Heiskanen Holding against Mitchell Marner
-229,penalty,Tripping,Zach Hyman,John Klingberg,[-84.  34.],3,11:18,TOR,DAL,DAL,25,TOR,10,3,4,8475786,8475906.0,Zach Hyman Tripping against John Klingberg
-231,penalty,Interference,Radek Faksa,Jake Muzzin,[-31.  22.],3,10:55,DAL,TOR,DAL,25,TOR,10,3,4,8476889,8474162.0,Radek Faksa Interference against Jake Muzzin
-244,penalty,Interference,Jason Spezza,Alexander Radulov,[-80. -16.],3,07:05,TOR,DAL,DAL,25,TOR,10,3,4,8469455,8471228.0,Jason Spezza Interference against Alexander Radulov
-40,penalty,Too many men on the ice,William Nylander,,[ 6. 39.],1,10:57,TOR,OTT,TOR,10,OTT,9,0,0,8477939,,Too many men/ice served by William Nylander
-70,penalty,Tripping,Rasmus Sandin,Drake Batherson,[ 68. -10.],1,02:29,TOR,OTT,TOR,10,OTT,9,0,0,8480873,8480208.0,Rasmus Sandin Tripping against Drake Batherson
-123,penalty,Hooking,Drake Batherson,Rasmus Sandin,[-4. 37.],2,10:40,OTT,TOR,TOR,10,OTT,9,0,1,8480208,8480873.0,Drake Batherson Hooking against Rasmus Sandin
-164,penalty,Hi-sticking,Brady Tkachuk,Cody Ceci,[-20.  28.],2,00:20,OTT,TOR,TOR,10,OTT,9,1,1,8480801,8476879.0,Brady Tkachuk Hi-sticking against Cody Ceci
-251,penalty,Interference,Tyson Barrie,Jean-Gabriel Pageau,[-32. -22.],4,03:56,TOR,OTT,TOR,10,OTT,9,1,1,8475197,8476419.0,Tyson Barrie Interference against Jean-Gabriel Pageau
-262,penalty,Interference,Mike Reilly,Mitchell Marner,[92. 31.],4,01:20,OTT,TOR,TOR,10,OTT,9,1,1,8476422,8478483.0,Mike Reilly Interference against Mitchell Marner
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,game_id,winning_team,date,description
+49,penalty,Hi-sticking,John Tavares,Dominic Toninato,[1. 2.],1,07:39,TOR,FLA,TOR,10,FLA,13,0,1,8475166,8476952.0,2019020809,,2020-02-04,John Tavares Hi-sticking against Dominic Toninato
+95,penalty,Tripping,Mike Matheson,Pierre Engvall,[ 89. -32.],2,17:38,FLA,TOR,TOR,10,FLA,13,0,1,8476875,8478115.0,2019020809,,2020-02-04,Mike Matheson Tripping against Pierre Engvall
+148,penalty,Slashing,Jayce Hawryluk,Jason Spezza,[69. 22.],2,02:57,FLA,TOR,TOR,10,FLA,13,1,1,8477963,8469455.0,2019020809,,2020-02-04,Jayce Hawryluk Slashing against Jason Spezza
+177,penalty,Hooking,Mitchell Marner,Vincent Trocheck,[79. -8.],3,16:49,TOR,FLA,TOR,10,FLA,13,3,2,8478483,8476389.0,2019020809,,2020-02-04,Mitchell Marner Hooking against Vincent Trocheck
+188,penalty,Tripping,Mike Hoffman,Auston Matthews,[-20.   9.],3,13:27,FLA,TOR,TOR,10,FLA,13,3,3,8474884,8479318.0,2019020809,,2020-02-04,Mike Hoffman Tripping against Auston Matthews
+12,penalty,Hooking,Zach Hyman,Jacob Trouba,[ 86. -16.],1,16:49,TOR,NYR,NYR,3,TOR,10,0,0,8475786,8476885.0,2019020825,,2020-02-06,Zach Hyman Hooking against Jacob Trouba
+96,penalty,Cross checking,Ryan Lindgren,Mitchell Marner,[-73.   0.],2,19:01,NYR,TOR,NYR,3,TOR,10,3,1,8479324,8478483.0,2019020825,,2020-02-06,Ryan Lindgren Cross checking against Mitchell Marner
+116,penalty,Hi-sticking,Tyson Barrie,Mika Zibanejad,[-9. 39.],2,14:44,TOR,NYR,NYR,3,TOR,10,3,1,8475197,8476459.0,2019020825,,2020-02-06,Tyson Barrie Hi-sticking against Mika Zibanejad
+252,penalty,Hooking,Greg McKegg,Pierre Engvall,[81.  2.],3,04:16,NYR,TOR,NYR,3,TOR,10,4,2,8475735,8478115.0,2019020825,,2020-02-06,Greg McKegg Hooking against Pierre Engvall
+271,penalty,Fighting,Zach Hyman,Jacob Trouba,[91. -8.],3,00:58,TOR,NYR,NYR,3,TOR,10,5,3,8475786,8476885.0,2019020825,,2020-02-06,Zach Hyman Fighting against Jacob Trouba
+272,penalty,Fighting,Jacob Trouba,Zach Hyman,[91. -8.],3,00:58,NYR,TOR,NYR,3,TOR,10,5,3,8476885,8475786.0,2019020825,,2020-02-06,Jacob Trouba Fighting against Zach Hyman
+275,penalty,Roughing,John Tavares,Ryan Lindgren,[96. -2.],3,00:18,TOR,NYR,NYR,3,TOR,10,5,3,8475166,8479324.0,2019020825,,2020-02-06,John Tavares Roughing against Ryan Lindgren
+276,penalty,Roughing,Ryan Lindgren,John Tavares,[95. -6.],3,00:18,NYR,TOR,NYR,3,TOR,10,5,3,8479324,8475166.0,2019020825,,2020-02-06,Ryan Lindgren Roughing against John Tavares
+72,penalty,Hi-sticking,Max Jones,Tyson Barrie,[69. 29.],1,04:24,ANA,TOR,TOR,10,ANA,24,1,1,8479368,8475197.0,2019020839,,2020-02-08,Max Jones Hi-sticking against Tyson Barrie
+74,penalty,Delaying Game - Puck over glass,Derek Grant,,[98.  1.],1,04:06,ANA,TOR,TOR,10,ANA,24,1,1,8474683,,2019020839,,2020-02-08,Derek Grant Delaying Game - Puck over glass
+83,penalty,Holding,Dmytro Timashov,Ryan Getzlaf,[60.  7.],1,01:24,TOR,ANA,TOR,10,ANA,24,1,1,8478857,8470612.0,2019020839,,2020-02-08,Dmytro Timashov Holding against Ryan Getzlaf
+93,penalty,Interference,Josh Manson,Auston Matthews,[71.  3.],2,17:52,ANA,TOR,TOR,10,ANA,24,1,1,8476312,8479318.0,2019020839,,2020-02-08,Josh Manson Interference against Auston Matthews
+134,penalty,Hooking,John Tavares,Adam Henrique,[-53. -28.],2,09:29,TOR,ANA,TOR,10,ANA,24,2,1,8475166,8474641.0,2019020839,,2020-02-08,John Tavares Hooking against Adam Henrique
+147,penalty,Roughing,Kyle Clifford,Ryan Getzlaf,[-88.  -4.],2,06:21,TOR,ANA,TOR,10,ANA,24,3,1,8475160,8470612.0,2019020839,,2020-02-08,Kyle Clifford Roughing against Ryan Getzlaf
+148,penalty,Roughing,Ryan Getzlaf,Kyle Clifford,[-88.  -2.],2,06:21,ANA,TOR,TOR,10,ANA,24,3,1,8470612,8475160.0,2019020839,,2020-02-08,Ryan Getzlaf Roughing against Kyle Clifford
+207,penalty,Tripping,Nick Ritchie,Alexander Kerfoot,[68.  1.],3,13:09,ANA,TOR,TOR,10,ANA,24,3,1,8477941,8477021.0,2019020839,,2020-02-08,Nick Ritchie Tripping against Alexander Kerfoot
+226,penalty,Holding the stick,Kyle Clifford,Michael Del Zotto,[-89. -23.],3,08:30,TOR,ANA,TOR,10,ANA,24,3,2,8475160,8474584.0,2019020839,,2020-02-08,Kyle Clifford Holding the stick against Michael Del Zotto
+278,penalty,Tripping,Rickard Rakell,Mitchell Marner,[ -3. -16.],4,01:04,ANA,TOR,TOR,10,ANA,24,4,4,8476483,8478483.0,2019020839,,2020-02-08,Rickard Rakell Tripping against Mitchell Marner
+91,penalty,Slashing,Jonathan Drouin,Rasmus Sandin,[ 44. -21.],2,18:14,MTL,TOR,MTL,8,TOR,10,0,0,8477494,8480873.0,2019020845,,2020-02-09,Jonathan Drouin Slashing against Rasmus Sandin
+128,penalty,Tripping,Travis Dermott,Joel Armia,[-21.  20.],2,10:35,TOR,MTL,MTL,8,TOR,10,0,0,8478408,8476469.0,2019020845,,2020-02-09,Travis Dermott Tripping against Joel Armia
+150,penalty,Delaying Game - Puck over glass,Victor Mete,,[-86. -22.],2,04:57,MTL,TOR,MTL,8,TOR,10,0,0,8479376,,2019020845,,2020-02-09,Victor Mete Delaying Game - Puck over glass
+222,penalty,Too many men on the ice,John Tavares,,[-18.  41.],3,08:08,TOR,MTL,MTL,8,TOR,10,0,1,8475166,,2019020845,,2020-02-09,Too many men/ice served by John Tavares
+43,penalty,Tripping,Jakob Chychrun,William Nylander,[ 49. -32.],1,09:57,ARI,TOR,TOR,10,ARI,53,0,1,8479345,8477939.0,2019020867,,2020-02-12,Jakob Chychrun Tripping against William Nylander
+114,penalty,Slashing,Jake Muzzin,Derek Stepan,[-65.  24.],2,14:36,TOR,ARI,TOR,10,ARI,53,1,1,8474162,8474613.0,2019020867,,2020-02-12,Jake Muzzin Slashing against Derek Stepan
+148,penalty,Slashing,Nick Schmaltz,Kasperi Kapanen,[86. 37.],2,06:33,ARI,TOR,TOR,10,ARI,53,1,1,8477951,8477953.0,2019020867,,2020-02-12,Nick Schmaltz Slashing against Kasperi Kapanen
+218,penalty,Holding the stick,Kyle Clifford,Ilya Lyubushkin,[-75. -38.],3,10:39,TOR,ARI,TOR,10,ARI,53,2,2,8475160,8480950.0,2019020867,,2020-02-12,Kyle Clifford Holding the stick against Ilya Lyubushkin
+237,penalty,Tripping,Phil Kessel,Tyson Barrie,[ 87. -21.],3,06:41,ARI,TOR,TOR,10,ARI,53,2,2,8473548,8475197.0,2019020867,,2020-02-12,Phil Kessel Tripping against Tyson Barrie
+260,penalty,Tripping,Zach Hyman,Jakob Chychrun,[-65.  40.],3,00:35,TOR,ARI,TOR,10,ARI,53,2,2,8475786,8479345.0,2019020867,,2020-02-12,Zach Hyman Tripping against Jakob Chychrun
+78,penalty,Roughing,Justin Holl,Tyler Seguin,[-39.  33.],2,19:02,TOR,DAL,TOR,10,DAL,25,0,2,8475718,8475794.0,2019020881,,2020-02-14,Justin Holl Roughing against Tyler Seguin
+87,penalty,Too many men on the ice,John Tavares,,[-82. -16.],2,16:42,TOR,DAL,TOR,10,DAL,25,0,2,8475166,,2019020881,,2020-02-14,Too many men/ice served by John Tavares
+102,penalty,Fighting,Jamie Oleksiak,Kyle Clifford,[-7.  5.],2,14:05,DAL,TOR,TOR,10,DAL,25,0,2,8476467,8475160.0,2019020881,,2020-02-14,Jamie Oleksiak Fighting against Kyle Clifford
+103,penalty,Fighting,Kyle Clifford,Jamie Oleksiak,[ 29. -13.],2,14:05,TOR,DAL,TOR,10,DAL,25,0,2,8475160,8476467.0,2019020881,,2020-02-14,Kyle Clifford Fighting against Jamie Oleksiak
+118,penalty,Tripping,Corey Perry,Auston Matthews,[-73. -21.],2,09:46,DAL,TOR,TOR,10,DAL,25,0,2,8470621,8479318.0,2019020881,,2020-02-14,Corey Perry Tripping against Auston Matthews
+143,penalty,Hooking,Mitchell Marner,Mattias Janmark,[-59. -25.],2,02:53,TOR,DAL,TOR,10,DAL,25,1,2,8478483,8477406.0,2019020881,,2020-02-14,Mitchell Marner Hooking against Mattias Janmark
+145,penalty,Holding,Miro Heiskanen,Kasperi Kapanen,[70.  3.],2,02:33,DAL,TOR,TOR,10,DAL,25,1,2,8480036,8477953.0,2019020881,,2020-02-14,Miro Heiskanen Holding against Kasperi Kapanen
+161,penalty,Tripping,John Tavares,Miro Heiskanen,[-52.  32.],3,18:49,TOR,DAL,TOR,10,DAL,25,1,2,8475166,8480036.0,2019020881,,2020-02-14,John Tavares Tripping against Miro Heiskanen
+31,penalty,Tripping,Auston Matthews,Jean-Gabriel Pageau,[66.  2.],1,11:27,TOR,OTT,OTT,9,TOR,10,0,1,8479318,8476419.0,2019020901,,2020-02-16,Auston Matthews Tripping against Jean-Gabriel Pageau
+48,penalty,Roughing,Kasperi Kapanen,Cody Goloubef,[-72. -40.],1,07:48,TOR,OTT,OTT,9,TOR,10,0,1,8477953,8474597.0,2019020901,,2020-02-16,Kasperi Kapanen Roughing against Cody Goloubef
+49,penalty,Roughing,Cody Goloubef,Kasperi Kapanen,[-68. -39.],1,07:48,OTT,TOR,OTT,9,TOR,10,0,1,8474597,8477953.0,2019020901,,2020-02-16,Cody Goloubef Roughing against Kasperi Kapanen
+111,penalty,Holding,Mike Reilly,Pierre Engvall,[ 54. -39.],2,13:01,OTT,TOR,OTT,9,TOR,10,0,2,8476422,8478115.0,2019020901,,2020-02-16,Mike Reilly Holding against Pierre Engvall
+137,penalty,Hooking,Justin Holl,Drake Batherson,[-82.  38.],2,06:51,TOR,OTT,OTT,9,TOR,10,0,3,8475718,8480208.0,2019020901,,2020-02-16,Justin Holl Hooking against Drake Batherson
+225,penalty,Holding,Travis Dermott,Thomas Chabot,[93. -6.],3,06:42,TOR,OTT,OTT,9,TOR,10,2,3,8478408,8478469.0,2019020901,,2020-02-16,Travis Dermott Holding against Thomas Chabot
+137,penalty,Hooking,Travis Dermott,Curtis Lazar,[-81.   2.],2,06:31,TOR,BUF,BUF,7,TOR,10,2,1,8478408,8477508.0,2019020913,,2020-02-17,Travis Dermott Hooking against Curtis Lazar
+155,penalty,Tripping,Jake Muzzin,Jack Eichel,[-92.  22.],2,01:23,TOR,BUF,BUF,7,TOR,10,2,1,8474162,8478403.0,2019020913,,2020-02-17,Jake Muzzin Tripping against Jack Eichel
+178,penalty,Tripping,Jake Muzzin,Jimmy Vesey,[74. -1.],3,14:48,TOR,BUF,BUF,7,TOR,10,2,2,8474162,8476918.0,2019020913,,2020-02-17,Jake Muzzin Tripping against Jimmy Vesey
+215,penalty,Roughing,Rasmus Ristolainen,Zach Hyman,[-79.   5.],3,03:18,BUF,TOR,BUF,7,TOR,10,5,2,8477499,8475786.0,2019020913,,2020-02-17,Rasmus Ristolainen Roughing against Zach Hyman
+10,penalty,Tripping,Sam Lafferty,Travis Dermott,[95.  0.],1,17:41,PIT,TOR,PIT,5,TOR,10,0,0,8478043,8478408.0,2019020921,,2020-02-19,Sam Lafferty Tripping against Travis Dermott
+51,penalty,Slashing,Dmytro Timashov,Chad Ruhwedel,[-77.   1.],1,08:33,TOR,PIT,PIT,5,TOR,10,0,0,8478857,8477244.0,2019020921,,2020-02-19,Dmytro Timashov Slashing against Chad Ruhwedel
+99,penalty,Slashing,Alexander Kerfoot,Patric Hornqvist,[-45.  31.],2,18:42,TOR,PIT,PIT,5,TOR,10,2,0,8477021,8471887.0,2019020921,,2020-02-19,Alexander Kerfoot Slashing against Patric Hornqvist
+119,penalty,Interference,Jason Spezza,Juuso Riikola,[96.  2.],2,13:34,TOR,PIT,PIT,5,TOR,10,3,0,8469455,8480945.0,2019020921,,2020-02-19,Jason Spezza Interference against Juuso Riikola
+129,penalty,Tripping,Anthony Angello,Alexander Kerfoot,[-76.  36.],2,10:17,PIT,TOR,PIT,5,TOR,10,4,0,8478074,8477021.0,2019020921,,2020-02-19,Anthony Angello Tripping against Alexander Kerfoot
+133,penalty,Delaying Game - Puck over glass,Bryan Rust,,[ 62. -21.],2,09:36,PIT,TOR,PIT,5,TOR,10,4,0,8475810,,2019020921,,2020-02-19,Bryan Rust Delaying Game - Puck over glass
+147,penalty,Holding,Bryan Rust,Rasmus Sandin,[-63. -41.],2,05:55,PIT,TOR,PIT,5,TOR,10,5,0,8475810,8480873.0,2019020921,,2020-02-19,Bryan Rust Holding against Rasmus Sandin
+72,penalty,Tripping,Denis Malgin,Brandon Tanev,[20. 22.],1,02:34,TOR,PIT,TOR,10,PIT,5,0,0,8478843,8479293.0,2019020933,,2020-02-21,Denis Malgin Tripping against Brandon Tanev
+120,penalty,Holding,Marcus Pettersson,Tyson Barrie,[ 98. -13.],2,10:40,PIT,TOR,TOR,10,PIT,5,1,0,8477969,8475197.0,2019020933,,2020-02-21,Marcus Pettersson Holding against Tyson Barrie
+123,penalty,Delaying Game - Puck over glass,Brandon Tanev,,[ 76. -30.],2,10:33,PIT,TOR,TOR,10,PIT,5,1,0,8479293,,2019020933,,2020-02-21,Brandon Tanev Delaying Game - Puck over glass
+147,penalty,Fighting,Jared McCann,Kasperi Kapanen,[-31.  18.],2,03:55,PIT,TOR,TOR,10,PIT,5,3,0,8477955,8477953.0,2019020933,,2020-02-21,Jared McCann Fighting against Kasperi Kapanen
+148,penalty,Fighting,Kasperi Kapanen,Jared McCann,[-37.  10.],2,03:55,TOR,PIT,TOR,10,PIT,5,3,0,8477953,8477955.0,2019020933,,2020-02-21,Kasperi Kapanen Fighting against Jared McCann
+219,penalty,Holding,Chad Ruhwedel,Zach Hyman,[-78.   1.],3,09:04,PIT,TOR,TOR,10,PIT,5,4,0,8477244,8475786.0,2019020933,,2020-02-21,Chad Ruhwedel Holding against Zach Hyman
+15,penalty,Interference,Zach Hyman,Jaccob Slavin,[-84.   2.],1,16:53,TOR,CAR,TOR,10,CAR,12,0,0,8475786,8476958.0,2019020951,,2020-02-24,Zach Hyman Interference against Jaccob Slavin
+36,penalty,Boarding,Andrei Svechnikov,Tyson Barrie,[94. 28.],1,13:50,CAR,TOR,TOR,10,CAR,12,0,0,8480830,8475197.0,2019020951,,2020-02-24,Andrei Svechnikov Boarding against Tyson Barrie
+49,penalty,Roughing,Nino Niederreiter,Kasperi Kapanen,[-80. -37.],1,10:29,CAR,TOR,TOR,10,CAR,12,0,0,8475799,8477953.0,2019020951,,2020-02-24,Nino Niederreiter Roughing against Kasperi Kapanen
+142,penalty,Hi-sticking,William Nylander,Brett Pesce,[23. 39.],2,11:16,TOR,CAR,TOR,10,CAR,12,1,1,8477939,8477488.0,2019020951,,2020-02-24,William Nylander Hi-sticking against Brett Pesce
+155,penalty,Charging,Kyle Clifford,Petr Mrazek,[ 48. -26.],2,08:41,TOR,CAR,TOR,10,CAR,12,1,3,8475160,8475852.0,2019020951,,2020-02-24,Kyle Clifford Charging against Petr Mrazek
+172,penalty,Slashing,Erik Haula,Auston Matthews,[36. 11.],2,04:21,CAR,TOR,TOR,10,CAR,12,3,4,8475287,8479318.0,2019020951,,2020-02-24,Erik Haula Slashing against Auston Matthews
+181,penalty,Fighting,Joel Edmundson,Kyle Clifford,[70. 36.],2,01:21,CAR,TOR,TOR,10,CAR,12,3,4,8476441,8475160.0,2019020951,,2020-02-24,Joel Edmundson Fighting against Kyle Clifford
+182,penalty,Fighting,Kyle Clifford,Joel Edmundson,[68. 36.],2,01:21,TOR,CAR,TOR,10,CAR,12,3,4,8475160,8476441.0,2019020951,,2020-02-24,Kyle Clifford Fighting against Joel Edmundson
+224,penalty,Hooking,Warren Foegele,Denis Malgin,[ 32. -24.],3,14:05,CAR,TOR,TOR,10,CAR,12,3,6,8477998,8478843.0,2019020951,,2020-02-24,Warren Foegele Hooking against Denis Malgin
+241,penalty,Hooking,Alexander Kerfoot,Trevor van Riemsdyk,[-69.  39.],3,10:29,TOR,CAR,TOR,10,CAR,12,3,6,8477021,8477845.0,2019020951,,2020-02-24,Alexander Kerfoot Hooking against Trevor van Riemsdyk
+270,penalty,Roughing,Kasperi Kapanen,Jordan Staal,[ -5. -38.],3,01:23,TOR,CAR,TOR,10,CAR,12,3,6,8477953,8473533.0,2019020951,,2020-02-24,Kasperi Kapanen Roughing against Jordan Staal
+271,penalty,Roughing,Jordan Staal,Kasperi Kapanen,[ -5. -37.],3,01:23,CAR,TOR,TOR,10,CAR,12,3,6,8473533,8477953.0,2019020951,,2020-02-24,Jordan Staal Roughing against Kasperi Kapanen
+57,penalty,Slashing,Blake Coleman,William Nylander,[-64. -16.],1,04:35,TBL,TOR,TBL,14,TOR,10,1,1,8476399,8477939.0,2019020970,,2020-02-26,Blake Coleman Slashing against William Nylander
+69,penalty,Roughing,Kevin Shattenkirk,Denis Malgin,[51. 39.],1,01:56,TBL,TOR,TBL,14,TOR,10,1,2,8474031,8478843.0,2019020970,,2020-02-26,Kevin Shattenkirk Roughing against Denis Malgin
+85,penalty,Interference,Alexander Kerfoot,Barclay Goodrow,[-70.  23.],2,17:31,TOR,TBL,TBL,14,TOR,10,1,2,8477021,8476624.0,2019020970,,2020-02-26,Alexander Kerfoot Interference against Barclay Goodrow
+98,penalty,Too many men on the ice,William Nylander,,[ 7. 39.],2,14:53,TOR,TBL,TBL,14,TOR,10,1,2,8477939,,2019020970,,2020-02-26,Too many men/ice served by William Nylander
+136,penalty,Hi-sticking,Kevin Shattenkirk,Frederik Gauthier,[-49. -11.],2,06:29,TBL,TOR,TBL,14,TOR,10,2,3,8474031,8477512.0,2019020970,,2020-02-26,Kevin Shattenkirk Hi-sticking against Frederik Gauthier
+137,penalty,Slashing,Kevin Shattenkirk,Frederik Gauthier,[-50.  -7.],2,06:29,TBL,TOR,TBL,14,TOR,10,2,3,8474031,8477512.0,2019020970,,2020-02-26,Kevin Shattenkirk Slashing against Frederik Gauthier
+163,penalty,Slashing,Rasmus Sandin,Brayden Point,[ 92. -19.],3,19:14,TOR,TBL,TBL,14,TOR,10,2,4,8480873,8478010.0,2019020970,,2020-02-26,Rasmus Sandin Slashing against Brayden Point
+64,penalty,Too many men on the ice,Aleksi Saarela,,[19. 40.],1,04:18,FLA,TOR,FLA,13,TOR,10,3,1,8478839,,2019020987,,2020-02-28,Too many men/ice served by Aleksi Saarela
+90,penalty,Fighting,MacKenzie Weegar,Kasperi Kapanen,[26. -8.],1,00:00,FLA,TOR,FLA,13,TOR,10,3,3,8477346,8477953.0,2019020987,,2020-02-28,MacKenzie Weegar Fighting against Kasperi Kapanen
+91,penalty,Fighting,Kasperi Kapanen,MacKenzie Weegar,[27. -4.],1,00:00,TOR,FLA,FLA,13,TOR,10,3,3,8477953,8477346.0,2019020987,,2020-02-28,Kasperi Kapanen Fighting against MacKenzie Weegar
+147,penalty,Interference,Martin Marincin,Lucas Wallmark,[16. 39.],2,03:36,TOR,FLA,FLA,13,TOR,10,3,3,8475716,8478027.0,2019020987,,2020-02-28,Martin Marincin Interference against Lucas Wallmark
+52,penalty,Hi-sticking,Christopher Tanev,Kasperi Kapanen,[-67. -15.],1,08:09,VAN,TOR,TOR,10,VAN,23,2,2,8475690,8477953.0,2019021003,,2020-03-01,Christopher Tanev Hi-sticking against Kasperi Kapanen
+106,penalty,Interference,Travis Dermott,Elias Pettersson,[-68.  13.],2,15:07,TOR,VAN,TOR,10,VAN,23,2,2,8478408,8480012.0,2019021003,,2020-03-01,Travis Dermott Interference against Elias Pettersson
+113,penalty,Hooking,Adam Gaudette,Kasperi Kapanen,[-74. -38.],2,13:34,VAN,TOR,TOR,10,VAN,23,2,2,8478874,8477953.0,2019021003,,2020-03-01,Adam Gaudette Hooking against Kasperi Kapanen
+186,penalty,Holding,William Nylander,Troy Stecher,[-3. 17.],3,16:52,TOR,VAN,TOR,10,VAN,23,3,2,8477939,8479442.0,2019021003,,2020-03-01,William Nylander Holding against Troy Stecher
+215,penalty,Tripping,Alexander Edler,Denis Malgin,[34. 34.],3,08:24,VAN,TOR,TOR,10,VAN,23,3,2,8471303,8478843.0,2019021003,,2020-03-01,Alexander Edler Tripping against Denis Malgin
+254,penalty,Hooking,Tyler Toffoli,Auston Matthews,[86. 29.],3,00:55,VAN,TOR,TOR,10,VAN,23,4,2,8475726,8479318.0,2019021003,,2020-03-01,Tyler Toffoli Hooking against Auston Matthews
+16,penalty,Tripping,Noah Gregor,Martin Marincin,[ 64. -20.],1,16:49,SJS,TOR,SJS,28,TOR,10,0,0,8479393,8475716.0,2019021028,,2020-03-04,Noah Gregor Tripping against Martin Marincin
+28,penalty,Interference,Travis Dermott,Timo Meier,[ 15. -36.],1,13:52,TOR,SJS,SJS,28,TOR,10,0,0,8478408,8478414.0,2019021028,,2020-03-04,Travis Dermott Interference against Timo Meier
+135,penalty,Interference,Justin Holl,Noah Gregor,[-55. -13.],2,11:41,TOR,SJS,SJS,28,TOR,10,2,1,8475718,8479393.0,2019021028,,2020-03-04,Justin Holl Interference against Noah Gregor
+173,penalty,Hooking,Noah Gregor,Auston Matthews,[22. 34.],2,02:07,SJS,TOR,SJS,28,TOR,10,2,2,8479393,8479318.0,2019021028,,2020-03-04,Noah Gregor Hooking against Auston Matthews
+217,penalty,Holding,Mario Ferraro,Auston Matthews,[-97.  -6.],3,08:10,SJS,TOR,SJS,28,TOR,10,4,2,8479983,8479318.0,2019021028,,2020-03-04,Mario Ferraro Holding against Auston Matthews
+37,penalty,Holding,Trevor Lewis,William Nylander,[75. -3.],1,11:27,LAK,TOR,LAK,26,TOR,10,0,0,8473453,8477939.0,2019021041,,2020-03-06,Trevor Lewis Holding against William Nylander
+53,penalty,Slashing,Martin Marincin,Adrian Kempe,[-87.  14.],1,05:37,TOR,LAK,LAK,26,TOR,10,0,0,8475716,8477960.0,2019021041,,2020-03-06,Martin Marincin Slashing against Adrian Kempe
+69,penalty,Holding,Timothy Liljegren,Martin Frk,[-96.  19.],1,02:41,TOR,LAK,LAK,26,TOR,10,0,0,8480043,8476924.0,2019021041,,2020-03-06,Timothy Liljegren Holding against Martin Frk
+137,penalty,Tripping,Drew Doughty,John Tavares,[-51.  22.],2,03:36,LAK,TOR,LAK,26,TOR,10,0,0,8474563,8475166.0,2019021041,,2020-03-06,Drew Doughty Tripping against John Tavares
+158,penalty,Slashing,Adrian Kempe,William Nylander,[71. -3.],3,18:47,LAK,TOR,LAK,26,TOR,10,0,0,8477960,8477939.0,2019021041,,2020-03-06,Adrian Kempe Slashing against William Nylander
+221,penalty,Hooking,John Tavares,Alex Iafallo,[33.  3.],4,04:29,TOR,LAK,LAK,26,TOR,10,0,0,8475166,8480113.0,2019021041,,2020-03-06,John Tavares Hooking against Alex Iafallo
+51,penalty,Delaying Game - Puck over glass,John Gibson,Sam Steel,[-60. -40.],1,08:22,ANA,TOR,ANA,24,TOR,10,1,0,8476434,8479351.0,2019021048,,2020-03-07,John Gibson Delaying Game - Puck over glass served by Sam Steel
+111,penalty,Tripping,Justin Holl,Sonny Milano,[-88. -20.],2,12:12,TOR,ANA,ANA,24,TOR,10,1,0,8475718,8477947.0,2019021048,,2020-03-07,Justin Holl Tripping against Sonny Milano
+143,penalty,Fighting,Kyle Clifford,Nicolas Deslauriers,[-39.  24.],2,05:20,TOR,ANA,ANA,24,TOR,10,1,0,8475160,8475235.0,2019021048,,2020-03-07,Kyle Clifford Fighting against Nicolas Deslauriers
+144,penalty,Fighting,Nicolas Deslauriers,Kyle Clifford,[-4. 26.],2,05:20,ANA,TOR,ANA,24,TOR,10,1,0,8475235,8475160.0,2019021048,,2020-03-07,Nicolas Deslauriers Fighting against Kyle Clifford
+168,penalty,Tripping,Mitchell Marner,Sam Steel,[-23.  32.],2,01:22,TOR,ANA,ANA,24,TOR,10,1,0,8478483,8479351.0,2019021048,,2020-03-07,Mitchell Marner Tripping against Sam Steel
+186,penalty,Boarding,David Backes,Denis Malgin,[33. 40.],3,16:35,ANA,TOR,ANA,24,TOR,10,1,0,8470655,8478843.0,2019021048,,2020-03-07,David Backes Boarding against Denis Malgin
+217,penalty,Tripping,Kiefer Sherwood,Calle Rosen,[ 94. -15.],3,08:15,ANA,TOR,ANA,24,TOR,10,2,0,8480748,8480157.0,2019021048,,2020-03-07,Kiefer Sherwood Tripping against Calle Rosen
+29,penalty,Hooking,Ryan McDonagh,William Nylander,[-81. -12.],1,14:07,TBL,TOR,TOR,10,TBL,14,0,0,8474151,8477939.0,2019021070,,2020-03-11,Ryan McDonagh Hooking against William Nylander
+41,penalty,Interference,Rasmus Sandin,Carter Verhaeghe,[ 40. -20.],1,10:16,TOR,TBL,TOR,10,TBL,14,0,0,8480873,8477409.0,2019021070,,2020-03-11,Rasmus Sandin Interference against Carter Verhaeghe
+57,penalty,Hooking,Barclay Goodrow,Auston Matthews,[-90. -19.],1,07:24,TBL,TOR,TOR,10,TBL,14,0,0,8476624,8479318.0,2019021070,,2020-03-11,Barclay Goodrow Hooking against Auston Matthews
+111,penalty,Delay of game,Morgan Rielly,,[-87.   9.],2,17:11,TOR,TBL,TOR,10,TBL,14,1,0,8476853,,2019021070,,2020-03-11,Morgan Rielly Delay of game
+133,penalty,Hooking,Justin Holl,Anthony Cirelli,[-63. -27.],2,13:20,TOR,TBL,TOR,10,TBL,14,1,0,8475718,8478519.0,2019021070,,2020-03-11,Justin Holl Hooking against Anthony Cirelli
+145,penalty,Interference - Goalkeeper,Blake Coleman,Frederik Andersen,[-17.  20.],2,10:31,TBL,TOR,TOR,10,TBL,14,1,0,8476399,8475883.0,2019021070,,2020-03-11,Blake Coleman Interference - Goalkeeper against Frederik Andersen
+182,penalty,Tripping,John Tavares,Mikhail Sergachev,[-44. -28.],2,02:32,TOR,TBL,TOR,10,TBL,14,1,1,8475166,8479410.0,2019021070,,2020-03-11,John Tavares Tripping against Mikhail Sergachev
+204,penalty,Tripping,Cedric Paquette,Auston Matthews,[-90. -15.],3,16:58,TBL,TOR,TOR,10,TBL,14,1,1,8476975,8479318.0,2019021070,,2020-03-11,Cedric Paquette Tripping against Auston Matthews
+261,penalty,Tripping,Erik Cernak,Zach Hyman,[-97.  -2.],3,05:51,TBL,TOR,TOR,10,TBL,14,2,1,8478416,8475786.0,2019021070,,2020-03-11,Erik Cernak Tripping against Zach Hyman
+5,penalty,Tripping,Tyler Ennis,Trevor Moore,[ -9. -29.],1,19:04,OTT,TOR,TOR,10,OTT,9,0,1,8474589,8479675.0,2019020001,,2019-10-03,Tyler Ennis Tripping against Trevor Moore
+27,penalty,Tripping,Colin White,William Nylander,[-81. -13.],1,14:07,OTT,TOR,TOR,10,OTT,9,0,1,8478400,8477939.0,2019020001,,2019-10-03,Colin White Tripping against William Nylander
+41,penalty,Interference - Goalkeeper,Connor Brown,Frederik Andersen,[83. -1.],1,11:55,OTT,TOR,TOR,10,OTT,9,0,1,8477015,8475883.0,2019020001,,2019-10-03,Connor Brown Interference - Goalkeeper against Frederik Andersen
+159,penalty,Cross checking,Alexander Kerfoot,Mark Borowiecki,[73.  0.],2,09:59,TOR,OTT,TOR,10,OTT,9,3,2,8477021,8474697.0,2019020001,,2019-10-03,Alexander Kerfoot Cross checking against Mark Borowiecki
+182,penalty,Tripping,Brady Tkachuk,Auston Matthews,[-89. -17.],2,05:20,OTT,TOR,TOR,10,OTT,9,3,2,8480801,8479318.0,2019020001,,2019-10-03,Brady Tkachuk Tripping against Auston Matthews
+190,penalty,Slashing,Tyson Barrie,Mark Borowiecki,[ 39. -27.],2,04:36,TOR,OTT,TOR,10,OTT,9,4,2,8475197,8474697.0,2019020001,,2019-10-03,Tyson Barrie Slashing against Mark Borowiecki
+231,penalty,Boarding,Filip Chlapik,Nicholas Shore,[93. 37.],3,16:44,OTT,TOR,TOR,10,OTT,9,4,2,8478488,8476406.0,2019020001,,2019-10-03,Filip Chlapik Boarding against Nicholas Shore
+242,penalty,Interference,Dmytro Timashov,Colin White,[22. 18.],3,14:25,TOR,OTT,TOR,10,OTT,9,4,2,8478857,8478400.0,2019020001,,2019-10-03,Dmytro Timashov Interference against Colin White
+21,penalty,Holding,Tyson Barrie,Nick Foligno,[ 77. -11.],1,15:49,TOR,CBJ,CBJ,29,TOR,10,0,0,8475197,8473422.0,2019020015,,2019-10-05,Tyson Barrie Holding against Nick Foligno
+52,penalty,Interference,David Savard,Jason Spezza,[-77. -37.],1,08:04,CBJ,TOR,CBJ,29,TOR,10,0,0,8475233,8469455.0,2019020015,,2019-10-05,David Savard Interference against Jason Spezza
+57,penalty,Slashing,Andreas Johnsson,David Savard,[-96.   1.],1,07:15,TOR,CBJ,CBJ,29,TOR,10,0,1,8477341,8475233.0,2019020015,,2019-10-05,Andreas Johnsson Slashing against David Savard
+84,penalty,Holding,Markus Nutivaara,William Nylander,[-86. -18.],1,01:08,CBJ,TOR,CBJ,29,TOR,10,0,1,8478906,8477939.0,2019020015,,2019-10-05,Markus Nutivaara Holding against William Nylander
+86,penalty,Tripping,Andreas Johnsson,Boone Jenner,[79.  4.],1,00:53,TOR,CBJ,CBJ,29,TOR,10,0,1,8477341,8476432.0,2019020015,,2019-10-05,Andreas Johnsson Tripping against Boone Jenner
+155,penalty,Holding,Morgan Rielly,Josh Anderson,[-76.  -5.],2,05:53,TOR,CBJ,CBJ,29,TOR,10,0,2,8476853,8476981.0,2019020015,,2019-10-05,Morgan Rielly Holding against Josh Anderson
+168,penalty,Tripping,Scott Harrington,Alexander Kerfoot,[74. 37.],2,04:16,CBJ,TOR,CBJ,29,TOR,10,1,2,8476449,8477021.0,2019020015,,2019-10-05,Scott Harrington Tripping against Alexander Kerfoot
+183,penalty,Cross checking,Josh Anderson,Andreas Johnsson,[-71.  -1.],3,18:59,CBJ,TOR,CBJ,29,TOR,10,1,2,8476981,8477341.0,2019020015,,2019-10-05,Josh Anderson Cross checking against Andreas Johnsson
+184,penalty,Slashing,Andreas Johnsson,Josh Anderson,[-71.   0.],3,18:59,TOR,CBJ,CBJ,29,TOR,10,1,2,8477341,8476981.0,2019020015,,2019-10-05,Andreas Johnsson Slashing against Josh Anderson
+205,penalty,Interference,Boone Jenner,Rasmus Sandin,[77. -2.],3,13:28,CBJ,TOR,CBJ,29,TOR,10,1,3,8476432,8480873.0,2019020015,,2019-10-05,Boone Jenner Interference against Rasmus Sandin
+227,penalty,Slashing,Alexandre Texier,William Nylander,[-78.  16.],3,07:33,CBJ,TOR,CBJ,29,TOR,10,1,3,8480074,8477939.0,2019020015,,2019-10-05,Alexandre Texier Slashing against William Nylander
+242,penalty,Hi-sticking,Frederik Gauthier,Alexander Wennberg,[-49.  38.],3,02:07,TOR,CBJ,CBJ,29,TOR,10,1,4,8477512,8477505.0,2019020015,,2019-10-05,Frederik Gauthier Hi-sticking against Alexander Wennberg
+66,penalty,Holding,Tomas Tatar,Jake Muzzin,[ 79. -37.],1,08:49,MTL,TOR,TOR,10,MTL,8,1,1,8475193,8474162.0,2019020019,,2019-10-10,Tomas Tatar Holding against Jake Muzzin
+95,penalty,Tripping,Nicholas Shore,Brett Kulak,[-46.  11.],1,02:03,TOR,MTL,TOR,10,MTL,8,2,1,8476406,8476967.0,2019020019,,2019-10-10,Nicholas Shore Tripping against Brett Kulak
+98,penalty,Too many men on the ice,Jesperi Kotkaniemi,,[-11.  39.],1,01:07,MTL,TOR,TOR,10,MTL,8,2,1,8480829,,2019020019,,2019-10-10,Too many men/ice served by Jesperi Kotkaniemi
+136,penalty,Slashing,Jonathan Drouin,Michael Hutchinson,[-79.   6.],2,14:18,MTL,TOR,TOR,10,MTL,8,3,1,8477494,8474636.0,2019020019,,2019-10-10,Jonathan Drouin Slashing against Michael Hutchinson
+149,penalty,Tripping,Tomas Tatar,John Tavares,[-45. -29.],2,10:49,MTL,TOR,TOR,10,MTL,8,3,1,8475193,8475166.0,2019020019,,2019-10-10,Tomas Tatar Tripping against John Tavares
+223,penalty,Tripping,Phillip Danault,Andreas Johnsson,[-42. -32.],3,15:53,MTL,TOR,TOR,10,MTL,8,3,1,8476479,8477341.0,2019020019,,2019-10-10,Phillip Danault Tripping against Andreas Johnsson
+260,penalty,Interference,Alexander Kerfoot,Shea Weber,[-84.   2.],3,08:47,TOR,MTL,TOR,10,MTL,8,4,3,8477021,8470642.0,2019020019,,2019-10-10,Alexander Kerfoot Interference against Shea Weber
+267,penalty,PS - Thow object at puck,Kasperi Kapanen,Jeff Petry,[ 74. -11.],3,06:58,TOR,MTL,TOR,10,MTL,8,4,3,8477953,8473507.0,2019020019,,2019-10-10,Kasperi Kapanen PS - Thow object at puck against Jeff Petry
+295,penalty,Slashing,John Tavares,Phillip Danault,[-63. -30.],4,04:03,TOR,MTL,TOR,10,MTL,8,5,5,8475166,8476479.0,2019020019,,2019-10-10,John Tavares Slashing against Phillip Danault
+72,penalty,Interference,David Perron,Jake Muzzin,[42. 35.],1,05:38,STL,TOR,TOR,10,STL,19,0,0,8474102,8474162.0,2019020034,,2019-10-09,David Perron Interference against Jake Muzzin
+108,penalty,Hooking,Rasmus Sandin,Ivan Barbashev,[-88.  19.],2,17:24,TOR,STL,TOR,10,STL,19,0,0,8480873,8477964.0,2019020034,,2019-10-09,Rasmus Sandin Hooking against Ivan Barbashev
+157,penalty,Interference,Justin Holl,Oskar Sundqvist,[-94. -33.],2,07:38,TOR,STL,TOR,10,STL,19,2,1,8475718,8476897.0,2019020034,,2019-10-09,Justin Holl Interference against Oskar Sundqvist
+169,penalty,Hi-sticking,Carl Gunnarsson,John Tavares,[ 56. -20.],2,03:38,STL,TOR,TOR,10,STL,19,2,1,8474125,8475166.0,2019020034,,2019-10-09,Carl Gunnarsson Hi-sticking against John Tavares
+199,penalty,Cross checking,Trevor Moore,Carl Gunnarsson,[-91. -31.],3,18:21,TOR,STL,TOR,10,STL,19,2,2,8479675,8474125.0,2019020034,,2019-10-09,Trevor Moore Cross checking against Carl Gunnarsson
+200,penalty,Holding,Carl Gunnarsson,Trevor Moore,[-93. -28.],3,18:21,STL,TOR,TOR,10,STL,19,2,2,8474125,8479675.0,2019020034,,2019-10-09,Carl Gunnarsson Holding against Trevor Moore
+258,penalty,Slashing,Jake Muzzin,David Perron,[69. -1.],3,04:57,TOR,STL,TOR,10,STL,19,2,3,8474162,8474102.0,2019020034,,2019-10-09,Jake Muzzin Slashing against David Perron
+13,penalty,Cross checking,Victor Hedman,Trevor Moore,[ 19. -29.],1,16:44,TBL,TOR,TOR,10,TBL,14,0,1,8475167,8479675.0,2019020047,,2019-10-11,Victor Hedman Cross checking against Trevor Moore
+48,penalty,Slashing,Jason Spezza,Pat Maroon,[-58.  37.],1,10:18,TOR,TBL,TOR,10,TBL,14,2,1,8469455,8474034.0,2019020047,,2019-10-11,Jason Spezza Slashing against Pat Maroon
+65,penalty,Interference,Kasperi Kapanen,Kevin Shattenkirk,[ 34. -25.],1,06:37,TOR,TBL,TOR,10,TBL,14,2,3,8477953,8474031.0,2019020047,,2019-10-11,Kasperi Kapanen Interference against Kevin Shattenkirk
+90,penalty,Holding,Nic Petan,Carter Verhaeghe,[64. 37.],1,01:33,TOR,TBL,TOR,10,TBL,14,3,3,8477464,8477409.0,2019020047,,2019-10-11,Nic Petan Holding against Carter Verhaeghe
+199,penalty,Hooking,Nikita Kucherov,Trevor Moore,[51. 32.],3,15:14,TBL,TOR,TOR,10,TBL,14,3,6,8476453,8479675.0,2019020047,,2019-10-11,Nikita Kucherov Hooking against Trevor Moore
+59,penalty,Interference - Goalkeeper,Andreas Athanasiou,Frederik Andersen,[-81.  -3.],1,07:24,DET,TOR,DET,17,TOR,10,1,1,8476960,8475883.0,2019020066,,2019-10-13,Andreas Athanasiou Interference - Goalkeeper against Frederik Andersen
+73,penalty,Slashing,Valtteri Filppula,Kasperi Kapanen,[66. -1.],1,04:12,DET,TOR,DET,17,TOR,10,1,1,8470047,8477953.0,2019020066,,2019-10-13,Valtteri Filppula Slashing against Kasperi Kapanen
+93,penalty,Cross checking,Tyson Barrie,Justin Abdelkader,[ 89. -29.],2,19:10,TOR,DET,DET,17,TOR,10,1,1,8475197,8471716.0,2019020066,,2019-10-13,Tyson Barrie Cross checking against Justin Abdelkader
+237,penalty,Interference,Danny DeKeyser,Ilya Mikheyev,[49. -9.],3,05:02,DET,TOR,DET,17,TOR,10,2,4,8477215,8481624.0,2019020066,,2019-10-13,Danny DeKeyser Interference against Ilya Mikheyev
+6,penalty,Slashing,Ryan Suter,William Nylander,[-81.  -4.],1,19:25,MIN,TOR,TOR,10,MIN,30,0,0,8470600,8477939.0,2019020085,,2019-10-16,Ryan Suter Slashing against William Nylander
+64,penalty,Holding,Morgan Rielly,Jason Zucker,[ 85. -24.],1,01:33,TOR,MIN,TOR,10,MIN,30,0,1,8476853,8475722.0,2019020085,,2019-10-16,Morgan Rielly Holding against Jason Zucker
+106,penalty,Tripping,Jared Spurgeon,John Tavares,[28. -3.],2,13:31,MIN,TOR,TOR,10,MIN,30,1,1,8474716,8475166.0,2019020085,,2019-10-16,Jared Spurgeon Tripping against John Tavares
+114,penalty,Holding,Ryan Hartman,Jake Muzzin,[ 1. 25.],2,11:41,MIN,TOR,TOR,10,MIN,30,2,1,8477451,8474162.0,2019020085,,2019-10-16,Ryan Hartman Holding against Jake Muzzin
+204,penalty,Hooking,Alexander Kerfoot,Jason Zucker,[29. 26.],3,12:05,TOR,MIN,TOR,10,MIN,30,4,1,8477021,8475722.0,2019020085,,2019-10-16,Alexander Kerfoot Hooking against Jason Zucker
+228,penalty,Interference,Alexander Kerfoot,Eric Staal,[22. 35.],3,04:34,TOR,MIN,TOR,10,MIN,30,4,1,8477021,8470595.0,2019020085,,2019-10-16,Alexander Kerfoot Interference against Eric Staal
+14,penalty,Tripping,Morgan Rielly,Brendan Leipsic,[-55.  -4.],1,17:08,TOR,WSH,WSH,15,TOR,10,0,0,8476853,8476894.0,2019020093,TOR,2019-10-17,Morgan Rielly Tripping against Brendan Leipsic
+95,penalty,Tripping,Morgan Rielly,Garnet Hathaway,[85. -8.],2,18:47,TOR,WSH,WSH,15,TOR,10,1,2,8476853,8477903.0,2019020093,TOR,2019-10-17,Morgan Rielly Tripping against Garnet Hathaway
+118,penalty,Interference,Nicholas Shore,T.J. Oshie,[77.  3.],2,14:24,TOR,WSH,WSH,15,TOR,10,3,2,8476406,8471698.0,2019020093,TOR,2019-10-17,Nicholas Shore Interference against T.J. Oshie
+121,penalty,Delaying Game - Puck over glass,Cody Ceci,,[ 78. -33.],2,14:15,TOR,WSH,WSH,15,TOR,10,3,2,8476879,,2019020093,TOR,2019-10-17,Cody Ceci Delaying Game - Puck over glass
+234,penalty,Slashing,Auston Matthews,John Carlson,[76. 40.],3,09:50,TOR,WSH,WSH,15,TOR,10,4,2,8479318,8474590.0,2019020093,TOR,2019-10-17,Auston Matthews Slashing against John Carlson
+245,penalty,Hooking,Carl Hagelin,Alexander Kerfoot,[-91. -24.],3,06:56,WSH,TOR,WSH,15,TOR,10,4,2,8474176,8477021.0,2019020093,TOR,2019-10-17,Carl Hagelin Hooking against Alexander Kerfoot
+104,penalty,Holding,Ilya Mikheyev,Brandon Carlo,[ 97. -22.],2,18:04,TOR,BOS,TOR,10,BOS,6,2,1,8481624,8478443.0,2019020115,BOS,2019-10-20,Ilya Mikheyev Holding against Brandon Carlo
+133,penalty,Tripping,Nicholas Shore,Par Lindholm,[-39.   5.],2,12:08,TOR,BOS,TOR,10,BOS,6,2,1,8476406,8480944.0,2019020115,BOS,2019-10-20,Nicholas Shore Tripping against Par Lindholm
+169,penalty,Interference - Goalkeeper,David Backes,Frederik Andersen,[-97. -15.],2,03:19,BOS,TOR,TOR,10,BOS,6,2,1,8470655,8475883.0,2019020115,BOS,2019-10-20,David Backes Interference - Goalkeeper against Frederik Andersen
+170,penalty,Roughing,Martin Marincin,David Backes,[-87.  -8.],2,03:19,TOR,BOS,TOR,10,BOS,6,2,1,8475716,8470655.0,2019020115,BOS,2019-10-20,Martin Marincin Roughing against David Backes
+188,penalty,Hooking,Martin Marincin,Jake DeBrusk,[-77.  -3.],2,00:23,TOR,BOS,TOR,10,BOS,6,2,1,8475716,8478498.0,2019020115,BOS,2019-10-20,Martin Marincin Hooking against Jake DeBrusk
+11,penalty,Holding,Boone Jenner,Kasperi Kapanen,[-53. -16.],1,17:45,CBJ,TOR,TOR,10,CBJ,29,0,0,8476432,8477953.0,2019020129,,2019-10-22,Boone Jenner Holding against Kasperi Kapanen
+50,penalty,Slashing,Andreas Johnsson,Pierre-Luc Dubois,[11. 40.],1,09:08,TOR,CBJ,TOR,10,CBJ,29,0,2,8477341,8479400.0,2019020129,,2019-10-22,Andreas Johnsson Slashing against Pierre-Luc Dubois
+70,penalty,Tripping,Ryan Murray,Kasperi Kapanen,[-77.   2.],1,04:52,CBJ,TOR,TOR,10,CBJ,29,1,2,8476850,8477953.0,2019020129,,2019-10-22,Ryan Murray Tripping against Kasperi Kapanen
+91,penalty,Tripping,Alexander Kerfoot,Nick Foligno,[70. 41.],1,00:18,TOR,CBJ,TOR,10,CBJ,29,2,2,8477021,8473422.0,2019020129,,2019-10-22,Alexander Kerfoot Tripping against Nick Foligno
+107,penalty,Hooking,Mitchell Marner,Gustav Nyquist,[-80. -36.],2,17:36,TOR,CBJ,TOR,10,CBJ,29,2,2,8478483,8474679.0,2019020129,,2019-10-22,Mitchell Marner Hooking against Gustav Nyquist
+147,penalty,Tripping,Jason Spezza,Cam Atkinson,[28. 29.],2,07:57,TOR,CBJ,TOR,10,CBJ,29,2,2,8469455,8474715.0,2019020129,,2019-10-22,Jason Spezza Tripping against Cam Atkinson
+222,penalty,Tripping,Frederik Gauthier,Sonny Milano,[ 32. -21.],3,11:08,TOR,CBJ,TOR,10,CBJ,29,3,2,8477512,8477947.0,2019020129,,2019-10-22,Frederik Gauthier Tripping against Sonny Milano
+273,penalty,PS - Hooking on breakaway,Mitchell Marner,Gustav Nyquist,[-85.   1.],4,03:03,TOR,CBJ,TOR,10,CBJ,29,3,3,8478483,8474679.0,2019020129,,2019-10-22,Mitchell Marner PS - Hooking on breakaway against Gustav Nyquist
+18,penalty,Interference,Torey Krug,Frederik Gauthier,[-80.  23.],1,15:57,BOS,TOR,BOS,6,TOR,10,0,0,8476792,8477512.0,2019020133,,2019-10-23,Torey Krug Interference against Frederik Gauthier
+68,penalty,Hooking,Andreas Johnsson,Sean Kuraly,[-93. -19.],1,03:34,TOR,BOS,BOS,6,TOR,10,0,0,8477341,8476374.0,2019020133,,2019-10-23,Andreas Johnsson Hooking against Sean Kuraly
+73,penalty,Roughing,Andreas Johnsson,Chris Wagner,[-1. 16.],1,02:42,TOR,BOS,BOS,6,TOR,10,1,0,8477341,8475780.0,2019020133,,2019-10-23,Andreas Johnsson Roughing against Chris Wagner
+93,penalty,Tripping,Jake Muzzin,Jake DeBrusk,[-44.  23.],2,18:42,TOR,BOS,BOS,6,TOR,10,1,0,8474162,8478498.0,2019020133,,2019-10-23,Jake Muzzin Tripping against Jake DeBrusk
+138,penalty,Tripping,Zdeno Chara,Frederik Gauthier,[ 47. -29.],2,08:20,BOS,TOR,BOS,6,TOR,10,2,1,8465009,8477512.0,2019020133,,2019-10-23,Zdeno Chara Tripping against Frederik Gauthier
+156,penalty,Tripping,Morgan Rielly,Sean Kuraly,[-80.   0.],2,04:06,TOR,BOS,BOS,6,TOR,10,2,2,8476853,8476374.0,2019020133,,2019-10-23,Morgan Rielly Tripping against Sean Kuraly
+241,penalty,Hi-sticking,Sean Kuraly,Andreas Johnsson,[-54.  27.],3,04:12,BOS,TOR,BOS,6,TOR,10,3,2,8476374,8477341.0,2019020133,,2019-10-23,Sean Kuraly Hi-sticking against Andreas Johnsson
+254,penalty,Unsportsmanlike conduct,Brad Marchand,,[-9. 19.],3,01:55,BOS,TOR,BOS,6,TOR,10,4,2,8473419,,2019020133,,2019-10-23,Brad Marchand Unsportsmanlike conduct
+1,penalty,Slashing,Logan Couture,Jake Muzzin,[ 27. -31.],1,19:21,SJS,TOR,TOR,10,SJS,28,0,0,8474053,8474162.0,2019020156,SJS,2019-10-26,Logan Couture Slashing against Jake Muzzin
+35,penalty,Holding,Cody Ceci,Brent Burns,[ 70. -32.],1,09:05,TOR,SJS,TOR,10,SJS,28,0,1,8476879,8470613.0,2019020156,SJS,2019-10-26,Cody Ceci Holding against Brent Burns
+102,penalty,Tripping,Mario Ferraro,Auston Matthews,[64. 39.],2,10:30,SJS,TOR,TOR,10,SJS,28,0,1,8479983,8479318.0,2019020156,SJS,2019-10-26,Mario Ferraro Tripping against Auston Matthews
+110,penalty,Hooking,Barclay Goodrow,Auston Matthews,[60. 10.],2,08:18,SJS,TOR,TOR,10,SJS,28,0,1,8476624,8479318.0,2019020156,SJS,2019-10-26,Barclay Goodrow Hooking against Auston Matthews
+138,penalty,Closing hand on puck,Timo Meier,,[-81. -15.],3,19:30,SJS,TOR,TOR,10,SJS,28,1,1,8478414,,2019020156,SJS,2019-10-26,Timo Meier Closing hand on puck
+151,penalty,Delaying Game - Puck over glass,Melker Karlsson,,[-73.  -9.],3,16:22,SJS,TOR,TOR,10,SJS,28,1,1,8477922,,2019020156,SJS,2019-10-26,Melker Karlsson Delaying Game - Puck over glass
+87,penalty,Hooking,Jake Muzzin,Mike Reilly,[-97.   2.],1,04:03,TOR,MTL,MTL,8,TOR,10,2,0,8474162,8476422.0,2019020163,TOR,2019-10-27,Jake Muzzin Hooking against Mike Reilly
+191,penalty,Slashing,Jonathan Drouin,Alexander Kerfoot,[-12.  34.],2,04:23,MTL,TOR,MTL,8,TOR,10,2,2,8477494,8477021.0,2019020163,TOR,2019-10-27,Jonathan Drouin Slashing against Alexander Kerfoot
+206,penalty,Boarding,Alexander Kerfoot,Max Domi,[78. 41.],2,01:01,TOR,MTL,MTL,8,TOR,10,2,2,8477021,8477503.0,2019020163,TOR,2019-10-27,Alexander Kerfoot Boarding against Max Domi
+18,penalty,Cross checking,Morgan Rielly,Nicklas Backstrom,[ 48. -36.],1,16:50,TOR,WSH,TOR,10,WSH,15,1,0,8476853,8473563.0,2019020180,WSH,2019-10-30,Morgan Rielly Cross checking against Nicklas Backstrom
+25,penalty,Slashing,Alex Ovechkin,Trevor Moore,[-6. 39.],1,14:45,WSH,TOR,TOR,10,WSH,15,1,0,8471214,8479675.0,2019020180,WSH,2019-10-30,Alex Ovechkin Slashing against Trevor Moore
+58,penalty,Interference,Justin Holl,Travis Boyd,[ 92. -31.],1,05:05,TOR,WSH,TOR,10,WSH,15,1,1,8475718,8476329.0,2019020180,WSH,2019-10-30,Justin Holl Interference against Travis Boyd
+66,penalty,Holding,Jakub Vrana,Trevor Moore,[89. 19.],1,03:13,WSH,TOR,TOR,10,WSH,15,1,1,8477944,8479675.0,2019020180,WSH,2019-10-30,Jakub Vrana Holding against Trevor Moore
+70,penalty,Slashing,Lars Eller,Andreas Johnsson,[-77.   3.],1,01:56,WSH,TOR,TOR,10,WSH,15,1,1,8474189,8477341.0,2019020180,WSH,2019-10-30,Lars Eller Slashing against Andreas Johnsson
+99,penalty,Holding,T.J. Oshie,Alexander Kerfoot,[-30. -27.],2,16:26,WSH,TOR,TOR,10,WSH,15,1,1,8471698,8477021.0,2019020180,WSH,2019-10-30,T.J. Oshie Holding against Alexander Kerfoot
+109,penalty,Hi-sticking,Alexander Kerfoot,T.J. Oshie,[-37.  -7.],2,13:29,TOR,WSH,TOR,10,WSH,15,1,1,8477021,8471698.0,2019020180,WSH,2019-10-30,Alexander Kerfoot Hi-sticking against T.J. Oshie
+113,penalty,Holding,Cody Ceci,Tom Wilson,[-75.  -5.],2,12:07,TOR,WSH,TOR,10,WSH,15,1,1,8476879,8476880.0,2019020180,WSH,2019-10-30,Cody Ceci Holding against Tom Wilson
+127,penalty,Interference,Michal Kempny,Frederik Gauthier,[ 40. -17.],2,09:03,WSH,TOR,TOR,10,WSH,15,1,2,8479482,8477512.0,2019020180,WSH,2019-10-30,Michal Kempny Interference against Frederik Gauthier
+143,penalty,Interference,Jonas Siegenthaler,Kasperi Kapanen,[ 38. -38.],2,04:40,WSH,TOR,TOR,10,WSH,15,1,2,8478399,8477953.0,2019020180,WSH,2019-10-30,Jonas Siegenthaler Interference against Kasperi Kapanen
+176,penalty,Charging,Tom Wilson,Brendan Leipsic,[ 39. -39.],3,18:33,WSH,TOR,TOR,10,WSH,15,2,2,8476880,8476894.0,2019020180,WSH,2019-10-30,Tom Wilson Charging against Tyson Barrie served by Brendan Leipsic
+177,penalty,Roughing,Frederik Gauthier,Tom Wilson,[10. 19.],3,18:33,TOR,WSH,TOR,10,WSH,15,2,2,8477512,8476880.0,2019020180,WSH,2019-10-30,Frederik Gauthier Roughing against Tom Wilson
+178,penalty,Roughing,Tom Wilson,Frederik Gauthier,[ 7. 24.],3,18:33,WSH,TOR,TOR,10,WSH,15,2,2,8476880,8477512.0,2019020180,WSH,2019-10-30,Tom Wilson Roughing against Frederik Gauthier
+198,penalty,Interference,Justin Holl,Evgeny Kuznetsov,[ 97. -10.],3,12:20,TOR,WSH,TOR,10,WSH,15,3,3,8475718,8475744.0,2019020180,WSH,2019-10-30,Justin Holl Interference against Evgeny Kuznetsov
+244,penalty,Delaying the game,Radko Gudas,,[-84.   2.],3,03:14,WSH,TOR,TOR,10,WSH,15,3,3,8475462,,2019020180,WSH,2019-10-30,Radko Gudas Delaying the game
+258,penalty,Tripping,William Nylander,Tom Wilson,[-78.  -5.],4,04:39,TOR,WSH,TOR,10,WSH,15,3,3,8477939,8476880.0,2019020180,WSH,2019-10-30,William Nylander Tripping against Tom Wilson
+270,penalty,Hi-sticking,Mitchell Marner,John Carlson,[-63. -19.],4,02:40,TOR,WSH,TOR,10,WSH,15,3,3,8478483,8474590.0,2019020180,WSH,2019-10-30,Mitchell Marner Hi-sticking against John Carlson
+51,penalty,Too many men on the ice,Jason Spezza,,[-24.  38.],1,05:13,TOR,PHI,PHI,4,TOR,10,0,1,8469455,,2019020209,,2019-11-03,Too many men/ice served by Jason Spezza
+78,penalty,Holding,Jason Spezza,Kevin Hayes,[92. 31.],2,17:26,TOR,PHI,PHI,4,TOR,10,1,1,8469455,8475763.0,2019020209,,2019-11-03,Jason Spezza Holding against Kevin Hayes
+94,penalty,Hi-sticking,Jason Spezza,Joel Farabee,[-76.  39.],2,13:50,TOR,PHI,PHI,4,TOR,10,2,1,8469455,8480797.0,2019020209,,2019-11-03,Jason Spezza Hi-sticking against Joel Farabee
+110,penalty,Cross checking,Morgan Rielly,Travis Konecny,[94. 11.],2,10:12,TOR,PHI,PHI,4,TOR,10,2,1,8476853,8478439.0,2019020209,,2019-11-03,Morgan Rielly Cross checking against Travis Konecny
+140,penalty,Interference,Matt Niskanen,Andreas Johnsson,[-52.  15.],2,01:50,PHI,TOR,PHI,4,TOR,10,2,2,8471702,8477341.0,2019020209,,2019-11-03,Matt Niskanen Interference against Andreas Johnsson
+165,penalty,Interference,Cody Ceci,Travis Konecny,[-81.   1.],3,16:06,TOR,PHI,PHI,4,TOR,10,3,2,8476879,8478439.0,2019020209,,2019-11-03,Cody Ceci Interference against Travis Konecny
+167,penalty,Hi-sticking,Joel Farabee,Frederik Gauthier,[-67.  41.],3,15:51,PHI,TOR,PHI,4,TOR,10,3,2,8480797,8477512.0,2019020209,,2019-11-03,Joel Farabee Hi-sticking against Frederik Gauthier
+234,penalty,Tripping,Kasperi Kapanen,Oskar Lindblom,[50.  0.],4,04:18,TOR,PHI,PHI,4,TOR,10,3,3,8477953,8478067.0,2019020209,,2019-11-03,Kasperi Kapanen Tripping against Oskar Lindblom
+257,penalty,Tripping,Claude Giroux,Mitchell Marner,[-28. -26.],4,00:01,PHI,TOR,PHI,4,TOR,10,3,3,8473512,8478483.0,2019020209,,2019-11-03,Claude Giroux Tripping against Mitchell Marner
+258,penalty,Too many men on the ice,Frederik Gauthier,,[-12.  39.],4,00:01,TOR,PHI,PHI,4,TOR,10,3,3,8477512,,2019020209,,2019-11-03,Too many men/ice served by Frederik Gauthier
+74,penalty,Roughing,Tyler Toffoli,Travis Dermott,[ 68. -23.],1,04:18,LAK,TOR,TOR,10,LAK,26,0,0,8475726,8478408.0,2019020228,LAK,2019-11-06,Tyler Toffoli Roughing against Travis Dermott
+113,penalty,Interference,Alexander Kerfoot,Carl Grundstrom,[-81.   5.],2,15:58,TOR,LAK,TOR,10,LAK,26,0,0,8477021,8479336.0,2019020228,LAK,2019-11-06,Alexander Kerfoot Interference against Carl Grundstrom
+163,penalty,Interference,Adrian Kempe,Mitchell Marner,[-11.   0.],2,04:55,LAK,TOR,TOR,10,LAK,26,1,1,8477960,8478483.0,2019020228,LAK,2019-11-06,Adrian Kempe Interference against Mitchell Marner
+176,penalty,Interference,Jake Muzzin,Ilya Kovalchuk,[16. 30.],2,01:27,TOR,LAK,TOR,10,LAK,26,1,1,8474162,8469454.0,2019020228,LAK,2019-11-06,Jake Muzzin Interference against Ilya Kovalchuk
+183,penalty,Tripping,Alec Martinez,Trevor Moore,[38. 40.],2,00:00,LAK,TOR,TOR,10,LAK,26,1,1,8474166,8479675.0,2019020228,LAK,2019-11-06,Alec Martinez Tripping against Trevor Moore
+193,penalty,Tripping,Nicholas Shore,Jonathan Quick,[-92.   7.],3,17:11,TOR,LAK,TOR,10,LAK,26,1,1,8476406,8471734.0,2019020228,LAK,2019-11-06,Nicholas Shore Tripping against Jonathan Quick
+261,penalty,Tripping,Ben Hutton,Ilya Mikheyev,[23. 28.],3,00:13,LAK,TOR,TOR,10,LAK,26,3,1,8477018,8481624.0,2019020228,LAK,2019-11-06,Ben Hutton Tripping against Ilya Mikheyev
+4,penalty,Interference,Nicolas Hague,Kasperi Kapanen,[-31.  40.],1,19:34,VGK,TOR,TOR,10,VGK,54,0,0,8479980,8477953.0,2019020237,VGK,2019-11-08,Nicolas Hague Interference against Kasperi Kapanen
+74,penalty,Hooking,Paul Stastny,Mitchell Marner,[-31. -39.],1,06:12,VGK,TOR,TOR,10,VGK,54,0,0,8471669,8478483.0,2019020237,VGK,2019-11-08,Paul Stastny Hooking against Mitchell Marner
+84,penalty,Hi-sticking,Dmytro Timashov,Nicolas Hague,[ 8. 41.],1,03:14,TOR,VGK,TOR,10,VGK,54,0,0,8478857,8479980.0,2019020237,VGK,2019-11-08,Dmytro Timashov Hi-sticking against Nicolas Hague
+109,penalty,Holding,William Nylander,Reilly Smith,[-56. -35.],2,16:51,TOR,VGK,TOR,10,VGK,54,0,0,8477939,8475191.0,2019020237,VGK,2019-11-08,William Nylander Holding against Reilly Smith
+149,penalty,Hooking,Brayden McNabb,Mitchell Marner,[60.  0.],2,08:49,VGK,TOR,TOR,10,VGK,54,0,0,8475188,8478483.0,2019020237,VGK,2019-11-08,Brayden McNabb Hooking against Mitchell Marner
+174,penalty,Hooking,Nick Holden,John Tavares,[86. 11.],2,03:48,VGK,TOR,TOR,10,VGK,54,0,0,8474207,8475166.0,2019020237,VGK,2019-11-08,Nick Holden Hooking against John Tavares
+197,penalty,Tripping,Paul Stastny,Jake Muzzin,[66. -2.],3,18:27,VGK,TOR,TOR,10,VGK,54,0,0,8471669,8474162.0,2019020237,VGK,2019-11-08,Paul Stastny Tripping against Jake Muzzin
+214,penalty,Interference,Justin Holl,William Carrier,[ 71. -35.],3,15:40,TOR,VGK,TOR,10,VGK,54,0,1,8475718,8477478.0,2019020237,VGK,2019-11-08,Justin Holl Interference against William Carrier
+227,penalty,Holding,William Carrier,Jake Muzzin,[ 54. -40.],3,13:16,VGK,TOR,TOR,10,VGK,54,0,1,8477478,8474162.0,2019020237,VGK,2019-11-08,William Carrier Holding against Jake Muzzin
+244,penalty,Slashing,Trevor Moore,Brayden McNabb,[-70.  34.],3,10:27,TOR,VGK,TOR,10,VGK,54,1,1,8479675,8475188.0,2019020237,VGK,2019-11-08,Trevor Moore Slashing against Brayden McNabb
+291,penalty,Too many men on the ice,Alexander Kerfoot,,[ 8. 40.],3,01:21,TOR,VGK,TOR,10,VGK,54,1,1,8477021,,2019020237,VGK,2019-11-08,Too many men/ice served by Alexander Kerfoot
+9,penalty,Tripping,Nicholas Shore,Tyler Pitlick,[-56. -36.],1,17:39,TOR,PHI,TOR,10,PHI,4,0,0,8476406,8475752.0,2019020253,,2019-11-10,Nicholas Shore Tripping against Tyler Pitlick
+58,penalty,Interference,Ilya Mikheyev,Travis Konecny,[ 73. -32.],1,02:57,TOR,PHI,TOR,10,PHI,4,0,1,8481624,8478439.0,2019020253,,2019-11-10,Ilya Mikheyev Interference against Travis Konecny
+72,penalty,Hooking,Jakub Voracek,Kasperi Kapanen,[ 81. -30.],2,19:33,PHI,TOR,TOR,10,PHI,4,0,2,8474161,8477953.0,2019020253,,2019-11-10,Jakub Voracek Hooking against Kasperi Kapanen
+112,penalty,Boarding,Dmytro Timashov,Justin Braun,[67. 41.],2,09:34,TOR,PHI,TOR,10,PHI,4,1,2,8478857,8474027.0,2019020253,,2019-11-10,Dmytro Timashov Boarding against Justin Braun
+126,penalty,Tripping,Claude Giroux,Andreas Johnsson,[ 88. -31.],2,06:50,PHI,TOR,TOR,10,PHI,4,1,2,8473512,8477341.0,2019020253,,2019-11-10,Claude Giroux Tripping against Andreas Johnsson
+255,penalty,Too many men on the ice,Travis Konecny,,[ 9. 36.],4,00:08,PHI,TOR,TOR,10,PHI,4,2,2,8478439,,2019020253,,2019-11-10,Too many men/ice served by Travis Konecny
+3,penalty,Roughing,Jonathan Toews,Jake Muzzin,[-95.  11.],1,19:28,CHI,TOR,CHI,16,TOR,10,0,0,8473604,8474162.0,2019020268,,2019-11-11,Jonathan Toews Roughing against Jake Muzzin
+4,penalty,Roughing,Jonathan Toews,Dylan Strome,[-96.  11.],1,19:28,CHI,TOR,CHI,16,TOR,10,0,0,8473604,8478440.0,2019020268,,2019-11-11,Jonathan Toews Roughing against Jake Muzzin served by Dylan Strome
+5,penalty,Roughing,Jake Muzzin,Jonathan Toews,[-94.  11.],1,19:28,TOR,CHI,CHI,16,TOR,10,0,0,8474162,8473604.0,2019020268,,2019-11-11,Jake Muzzin Roughing against Jonathan Toews
+76,penalty,Interference,Justin Holl,Drake Caggiula,[-79.   9.],1,03:44,TOR,CHI,CHI,16,TOR,10,3,0,8475718,8479465.0,2019020268,,2019-11-11,Justin Holl Interference against Drake Caggiula
+78,penalty,Slashing,Dylan Strome,Ilya Mikheyev,[-96.  17.],1,03:34,CHI,TOR,CHI,16,TOR,10,3,0,8478440,8481624.0,2019020268,,2019-11-11,Dylan Strome Slashing against Ilya Mikheyev
+85,penalty,Tripping,Jake Muzzin,David Kampf,[22. 39.],1,02:43,TOR,CHI,CHI,16,TOR,10,3,1,8474162,8480144.0,2019020268,,2019-11-11,Jake Muzzin Tripping against David Kampf
+135,penalty,Hooking,Morgan Rielly,Drake Caggiula,[79.  6.],2,11:59,TOR,CHI,CHI,16,TOR,10,4,1,8476853,8479465.0,2019020268,,2019-11-11,Morgan Rielly Hooking against Drake Caggiula
+160,penalty,Hooking,Cody Ceci,Alex Nylander,[73.  6.],2,06:52,TOR,CHI,CHI,16,TOR,10,4,1,8476879,8479423.0,2019020268,,2019-11-11,Cody Ceci Hooking against Alex Nylander
+178,penalty,Slashing,Dylan Strome,Travis Dermott,[16. 38.],2,02:55,CHI,TOR,CHI,16,TOR,10,4,1,8478440,8478408.0,2019020268,,2019-11-11,Dylan Strome Slashing against Travis Dermott
+209,penalty,Hi-sticking,Alex Nylander,Cody Ceci,[ -2. -37.],3,16:05,CHI,TOR,CHI,16,TOR,10,4,2,8479423,8476879.0,2019020268,,2019-11-11,Alex Nylander Hi-sticking against Cody Ceci
+218,penalty,Hi-sticking,Auston Matthews,Calvin de Haan,[72. 17.],3,14:56,TOR,CHI,CHI,16,TOR,10,4,2,8479318,8475177.0,2019020268,,2019-11-11,Auston Matthews Hi-sticking against Calvin de Haan
+251,penalty,Hooking,Erik Gustafsson,John Tavares,[75.  4.],3,07:23,CHI,TOR,CHI,16,TOR,10,4,2,8476979,8475166.0,2019020268,,2019-11-11,Erik Gustafsson Hooking against John Tavares
+278,penalty,Hooking,Zack Smith,Andreas Johnsson,[83.  6.],3,01:37,CHI,TOR,CHI,16,TOR,10,5,3,8474250,8477341.0,2019020268,,2019-11-11,Zack Smith Hooking against Andreas Johnsson
+35,penalty,Hooking,Ross Johnston,Jake Muzzin,[-76.  13.],1,13:05,NYI,TOR,NYI,2,TOR,10,0,0,8477527,8474162.0,2019020282,,2019-11-14,Ross Johnston Hooking against Jake Muzzin
+86,penalty,Tripping,Travis Dermott,Brock Nelson,[40.  1.],1,02:11,TOR,NYI,NYI,2,TOR,10,1,0,8478408,8475754.0,2019020282,,2019-11-14,Travis Dermott Tripping against Brock Nelson
+220,penalty,Slashing,Devon Toews,William Nylander,[-35. -17.],3,15:20,NYI,TOR,NYI,2,TOR,10,3,2,8478038,8477939.0,2019020282,,2019-11-14,Devon Toews Slashing against William Nylander
+231,penalty,Cross checking,Jake Muzzin,Jordan Eberle,[ 61. -20.],3,12:35,TOR,NYI,NYI,2,TOR,10,3,2,8474162,8474586.0,2019020282,,2019-11-14,Jake Muzzin Cross checking against Jordan Eberle
+256,penalty,Interference,William Nylander,Derick Brassard,[-22.  16.],3,07:47,TOR,NYI,NYI,2,TOR,10,4,2,8477939,8473544.0,2019020282,,2019-11-14,William Nylander Interference against Derick Brassard
+79,penalty,Interference,David Pastrnak,John Tavares,[-69. -30.],1,05:51,BOS,TOR,TOR,10,BOS,6,0,1,8477956,8475166.0,2019020294,BOS,2019-11-16,David Pastrnak Interference against John Tavares
+89,penalty,Holding,Nicholas Shore,David Pastrnak,[ 29. -19.],1,03:23,TOR,BOS,TOR,10,BOS,6,0,1,8476406,8477956.0,2019020294,BOS,2019-11-16,Nicholas Shore Holding against David Pastrnak
+166,penalty,Tripping,Andreas Johnsson,Charlie McAvoy,[30.  3.],2,08:49,TOR,BOS,TOR,10,BOS,6,1,1,8477341,8479325.0,2019020294,BOS,2019-11-16,Andreas Johnsson Tripping against Charlie McAvoy
+197,penalty,Slashing,Patrice Bergeron,John Tavares,[64. 14.],2,03:08,BOS,TOR,TOR,10,BOS,6,1,1,8470638,8475166.0,2019020294,BOS,2019-11-16,Patrice Bergeron Slashing against John Tavares
+30,penalty,Tripping,Frederik Gauthier,Bryan Rust,[52. 38.],1,15:14,TOR,PIT,PIT,5,TOR,10,0,0,8477512,8475810.0,2019020308,TOR,2019-11-17,Frederik Gauthier Tripping against Bryan Rust
+204,penalty,Hooking,Dominik Simon,Justin Holl,[83. 21.],3,17:51,PIT,TOR,PIT,5,TOR,10,5,1,8478866,8475718.0,2019020308,TOR,2019-11-17,Dominik Simon Hooking against Justin Holl
+220,penalty,Tripping,Evgeni Malkin,William Nylander,[-33.  37.],3,14:47,PIT,TOR,PIT,5,TOR,10,6,1,8471215,8477939.0,2019020308,TOR,2019-11-17,Evgeni Malkin Tripping against William Nylander
+132,penalty,Cross checking,Justin Holl,Ryan Reaves,[81.  2.],2,13:23,TOR,VGK,VGK,54,TOR,10,0,0,8475718,8471817.0,2019020329,TOR,2019-11-20,Justin Holl Cross checking against Ryan Reaves
+247,penalty,Hooking,John Tavares,Alex Tuch,[30. 25.],3,10:00,TOR,VGK,VGK,54,TOR,10,2,1,8475166,8477949.0,2019020329,TOR,2019-11-20,John Tavares Hooking against Alex Tuch
+256,penalty,Slashing,Ryan Reaves,Pierre Engvall,[ 32. -19.],3,08:59,VGK,TOR,VGK,54,TOR,10,3,1,8471817,8478115.0,2019020329,TOR,2019-11-20,Ryan Reaves Slashing against Pierre Engvall
+283,penalty,Slashing,Brayden McNabb,Andreas Johnsson,[81.  4.],3,03:20,VGK,TOR,VGK,54,TOR,10,3,2,8475188,8477341.0,2019020329,TOR,2019-11-20,Brayden McNabb Slashing against Andreas Johnsson
+155,penalty,Hi-sticking,William Nylander,Alex Goligoski,[94. 12.],2,04:24,TOR,ARI,ARI,53,TOR,10,0,1,8477939,8471274.0,2019020343,,2019-11-22,William Nylander Hi-sticking against Alex Goligoski
+217,penalty,Hi-sticking,Jake Muzzin,Vinnie Hinostroza,[77.  3.],3,11:45,TOR,ARI,ARI,53,TOR,10,0,3,8474162,8476994.0,2019020343,,2019-11-22,Jake Muzzin Hi-sticking against Vinnie Hinostroza
+236,penalty,Tripping,Morgan Rielly,Conor Garland,[97.  1.],3,06:31,TOR,ARI,ARI,53,TOR,10,0,3,8476853,8478856.0,2019020343,,2019-11-22,Morgan Rielly Tripping against Conor Garland
+57,penalty,Hi-sticking,Ian Cole,Jason Spezza,[-73. -30.],1,07:00,COL,TOR,COL,21,TOR,10,1,2,8474013,8469455.0,2019020357,,2019-11-24,Ian Cole Hi-sticking against Jason Spezza
+89,penalty,Interference,John Tavares,Joonas Donskoi,[-67. -34.],1,01:47,TOR,COL,COL,21,TOR,10,1,4,8475166,8475820.0,2019020357,,2019-11-24,John Tavares Interference against Joonas Donskoi
+135,penalty,Slashing,Justin Holl,Valeri Nichushkin,[77.  0.],2,11:04,TOR,COL,COL,21,TOR,10,1,4,8475718,8477501.0,2019020357,,2019-11-24,Justin Holl Slashing against Valeri Nichushkin
+171,penalty,Boarding,Alexander Kerfoot,Erik Johnson,[-96.   9.],2,02:41,TOR,COL,COL,21,TOR,10,2,4,8477021,8473446.0,2019020357,,2019-11-24,Alexander Kerfoot Boarding against Erik Johnson
+208,penalty,Holding,Nazem Kadri,Morgan Rielly,[ 56. -38.],3,12:28,COL,TOR,COL,21,TOR,10,3,4,8475172,8476853.0,2019020357,,2019-11-24,Nazem Kadri Holding against Morgan Rielly
+119,penalty,Slashing,Filip Hronek,Andreas Johnsson,[-75. -10.],2,14:15,DET,TOR,DET,17,TOR,10,0,5,8479425,8477341.0,2019020379,,2019-12-01,Filip Hronek Slashing against Andreas Johnsson
+57,penalty,Tripping,Marcus Johansson,Andreas Johnsson,[ 71. -21.],1,03:55,BUF,TOR,BUF,7,TOR,10,0,0,8475149,8477341.0,2019020392,,2019-11-30,Marcus Johansson Tripping against Andreas Johnsson
+72,penalty,Roughing,Travis Dermott,Conor Sheary,[78. -6.],1,00:26,TOR,BUF,BUF,7,TOR,10,0,1,8478408,8477839.0,2019020392,,2019-11-30,Travis Dermott Roughing against Conor Sheary
+73,penalty,Roughing,Conor Sheary,Travis Dermott,[81. -5.],1,00:26,BUF,TOR,BUF,7,TOR,10,0,1,8477839,8478408.0,2019020392,,2019-11-30,Conor Sheary Roughing against Travis Dermott
+98,penalty,Holding,Jason Spezza,Jack Eichel,[-93.  13.],2,13:57,TOR,BUF,BUF,7,TOR,10,1,2,8469455,8478403.0,2019020392,,2019-11-30,Jason Spezza Holding against Jack Eichel
+104,penalty,Slashing,Jack Eichel,Kasperi Kapanen,[-67.  -1.],2,12:27,BUF,TOR,BUF,7,TOR,10,1,2,8478403,8477953.0,2019020392,,2019-11-30,Jack Eichel Slashing against Kasperi Kapanen
+125,penalty,Holding,Frederik Gauthier,Jake McCabe,[ 70. -27.],2,06:05,TOR,BUF,BUF,7,TOR,10,3,2,8477512,8476931.0,2019020392,,2019-11-30,Frederik Gauthier Holding against Jake McCabe
+130,penalty,Slashing,Rasmus Asplund,Andreas Johnsson,[31.  4.],2,03:11,BUF,TOR,BUF,7,TOR,10,3,2,8479335,8477341.0,2019020392,,2019-11-30,Rasmus Asplund Slashing against Andreas Johnsson
+142,penalty,Slashing,Henri Jokiharju,Ilya Mikheyev,[-91.   7.],3,18:49,BUF,TOR,BUF,7,TOR,10,4,2,8480035,8481624.0,2019020392,,2019-11-30,Henri Jokiharju Slashing against Ilya Mikheyev
+194,penalty,PS - Hooking on breakaway,Travis Dermott,Rasmus Asplund,[-79.   0.],3,00:01,TOR,BUF,BUF,7,TOR,10,6,4,8478408,8479335.0,2019020392,,2019-11-30,Travis Dermott PS - Hooking on breakaway against Rasmus Asplund
+74,penalty,Tripping,Nic Petan,Jack Eichel,[ 76. -20.],1,01:53,TOR,BUF,TOR,10,BUF,7,0,0,8477464,8478403.0,2019020405,,2019-12-01,Nic Petan Tripping against Jack Eichel
+104,penalty,Slashing,Marcus Johansson,Cody Ceci,[ 68. -26.],2,15:54,BUF,TOR,TOR,10,BUF,7,0,0,8475149,8476879.0,2019020405,,2019-12-01,Marcus Johansson Slashing against Cody Ceci
+145,penalty,Slashing,John Tavares,Johan Larsson,[-83. -33.],2,08:28,TOR,BUF,TOR,10,BUF,7,1,0,8475166,8475728.0,2019020405,,2019-12-01,John Tavares Slashing against Johan Larsson
+39,penalty,Hi-sticking,Ivan Provorov,Kasperi Kapanen,[ 68. -41.],1,06:43,PHI,TOR,PHI,4,TOR,10,0,0,8478500,8477953.0,2019020428,,2019-12-04,Ivan Provorov Hi-sticking against Kasperi Kapanen
+120,penalty,Holding,Zach Hyman,Shayne Gostisbehere,[ 84. -37.],2,07:47,TOR,PHI,PHI,4,TOR,10,1,0,8475786,8476906.0,2019020428,,2019-12-04,Zach Hyman Holding against Shayne Gostisbehere
+126,penalty,Hooking,Jake Muzzin,Sean Couturier,[88. -8.],2,05:42,TOR,PHI,PHI,4,TOR,10,1,0,8474162,8476461.0,2019020428,,2019-12-04,Jake Muzzin Hooking against Sean Couturier
+211,penalty,Interference,Auston Matthews,Claude Giroux,[63. -1.],3,06:18,TOR,PHI,PHI,4,TOR,10,2,1,8479318,8473512.0,2019020428,,2019-12-04,Auston Matthews Interference against Claude Giroux
+138,penalty,Hooking,Dmytro Timashov,Calle Rosen,[97.  3.],2,09:45,TOR,COL,TOR,10,COL,21,0,0,8478857,8480157.0,2019020434,,2019-12-05,Dmytro Timashov Hooking against Calle Rosen
+185,penalty,Hi stick - double minor,Jake Muzzin,Mikko Rantanen,[ 22. -39.],3,19:44,TOR,COL,TOR,10,COL,21,1,1,8474162,8478420.0,2019020434,,2019-12-05,Jake Muzzin Hi stick - double minor against Mikko Rantanen
+203,penalty,Interference,J.T. Compher,John Tavares,[ 82. -12.],3,15:16,COL,TOR,TOR,10,COL,21,1,1,8477456,8475166.0,2019020434,,2019-12-05,J.T. Compher Interference against John Tavares
+36,penalty,Tripping,Morgan Rielly,Zach Sanford,[69. 20.],1,12:04,TOR,STL,STL,19,TOR,10,1,2,8476853,8477482.0,2019020459,,2019-12-09,Morgan Rielly Tripping against Zach Sanford
+51,penalty,Holding,Nathan Walker,Travis Dermott,[ 67. -27.],1,08:32,STL,TOR,STL,19,TOR,10,1,3,8477573,8478408.0,2019020459,,2019-12-09,Nathan Walker Holding against Travis Dermott
+71,penalty,Hi-sticking,Jason Spezza,Vince Dunn,[-80. -21.],1,03:17,TOR,STL,STL,19,TOR,10,1,4,8469455,8478407.0,2019020459,,2019-12-09,Jason Spezza Hi-sticking against Vince Dunn
+99,penalty,Delaying Game - Puck over glass,Alexander Kerfoot,,[-69.  13.],2,14:09,TOR,STL,STL,19,TOR,10,1,4,8477021,,2019020459,,2019-12-09,Alexander Kerfoot Delaying Game - Puck over glass
+110,penalty,Interference,Vince Dunn,Auston Matthews,[59. -7.],2,11:12,STL,TOR,STL,19,TOR,10,1,4,8478407,8479318.0,2019020459,,2019-12-09,Vince Dunn Interference against Auston Matthews
+116,penalty,Hooking,Justin Holl,Jaden Schwartz,[-86.  -8.],2,09:45,TOR,STL,STL,19,TOR,10,1,5,8475718,8475768.0,2019020459,,2019-12-09,Justin Holl Hooking against Jaden Schwartz
+172,penalty,Fighting,Troy Brouwer,Travis Dermott,[93. 10.],3,17:01,STL,TOR,STL,19,TOR,10,2,5,8471426,8478408.0,2019020459,,2019-12-09,Troy Brouwer Fighting against Travis Dermott
+173,penalty,Fighting,Travis Dermott,Troy Brouwer,[98. 12.],3,17:01,TOR,STL,STL,19,TOR,10,2,5,8478408,8471426.0,2019020459,,2019-12-09,Travis Dermott Fighting against Troy Brouwer
+35,penalty,Interference,Antoine Roussel,Mitchell Marner,[-90.  31.],1,10:20,VAN,TOR,VAN,23,TOR,10,0,0,8474849,8478483.0,2019020481,,2019-12-11,Antoine Roussel Interference against Mitchell Marner
+65,penalty,Interference,Mitchell Marner,Josh Leivo,[-73. -37.],1,01:37,TOR,VAN,VAN,23,TOR,10,0,0,8478483,8476410.0,2019020481,,2019-12-11,Mitchell Marner Interference against Josh Leivo
+164,penalty,Hooking,Tanner Pearson,John Tavares,[ 55. -39.],3,13:56,VAN,TOR,VAN,23,TOR,10,0,2,8476871,8475166.0,2019020481,,2019-12-11,Tanner Pearson Hooking against John Tavares
+213,penalty,Roughing,Kasperi Kapanen,Jay Beagle,[-80.   0.],3,00:07,TOR,VAN,VAN,23,TOR,10,1,4,8477953,8474291.0,2019020481,,2019-12-11,Kasperi Kapanen Roughing against Jay Beagle
+84,penalty,Tripping,Justin Holl,Tobias Rieder,[7. 1.],1,01:45,TOR,CGY,CGY,20,TOR,10,1,1,8475718,8476356.0,2019020494,,2019-12-13,Justin Holl Tripping against Tobias Rieder
+140,penalty,Tripping,Mark Jankowski,Pierre Engvall,[-39.  19.],2,09:55,CGY,TOR,CGY,20,TOR,10,1,1,8476873,8478115.0,2019020494,,2019-12-13,Mark Jankowski Tripping against Pierre Engvall
+206,penalty,Tripping,Elias Lindholm,Justin Holl,[-97. -16.],3,15:34,CGY,TOR,CGY,20,TOR,10,4,2,8477496,8475718.0,2019020494,,2019-12-13,Elias Lindholm Tripping against Justin Holl
+209,penalty,Delaying Game - Puck over glass,Travis Hamonic,,[ 52. -12.],3,15:09,CGY,TOR,CGY,20,TOR,10,4,2,8474612,,2019020494,,2019-12-13,Travis Hamonic Delaying Game - Puck over glass
+170,penalty,Holding,Jake Muzzin,Connor McDavid,[-85.  30.],2,05:21,TOR,EDM,EDM,22,TOR,10,0,2,8474162,8478402.0,2019020511,,2019-12-15,Jake Muzzin Holding against Connor McDavid
+211,penalty,Delaying Game - Puck over glass,Cody Ceci,,[82. 32.],3,14:17,TOR,EDM,EDM,22,TOR,10,0,2,8476879,,2019020511,,2019-12-15,Cody Ceci Delaying Game - Puck over glass
+263,penalty,Tripping,Gaetan Haas,Morgan Rielly,[96. -7.],3,02:21,EDM,TOR,EDM,22,TOR,10,1,3,8481813,8476853.0,2019020511,,2019-12-15,Gaetan Haas Tripping against Morgan Rielly
+131,penalty,Hooking,Zemgus Girgensons,Ilya Mikheyev,[70. 19.],2,07:54,BUF,TOR,TOR,10,BUF,7,2,0,8476878,8481624.0,2019020525,,2019-12-18,Zemgus Girgensons Hooking against Ilya Mikheyev
+164,penalty,Holding the stick,John Tavares,Brandon Montour,[66. -4.],2,00:13,TOR,BUF,TOR,10,BUF,7,3,0,8475166,8477986.0,2019020525,,2019-12-18,John Tavares Holding the stick against Brandon Montour
+228,penalty,Holding,Zach Hyman,Jack Eichel,[ 53. -18.],3,04:29,TOR,BUF,TOR,10,BUF,7,4,3,8475786,8478403.0,2019020525,,2019-12-18,Zach Hyman Holding against Jack Eichel
+6,penalty,Tripping,Morgan Rielly,Jesper Fast,[-87.  22.],1,19:14,TOR,NYR,NYR,3,TOR,10,0,0,8476853,8475855.0,2019020550,,2019-12-21,Morgan Rielly Tripping against Jesper Fast
+109,penalty,Interference,Mika Zibanejad,Kasperi Kapanen,[67.  2.],2,18:31,NYR,TOR,NYR,3,TOR,10,2,2,8476459,8477953.0,2019020550,,2019-12-21,Mika Zibanejad Interference against Kasperi Kapanen
+112,penalty,Slashing,Brendan Smith,Mitchell Marner,[-44. -10.],2,18:10,NYR,TOR,NYR,3,TOR,10,2,2,8474090,8478483.0,2019020550,,2019-12-21,Brendan Smith Slashing against Mitchell Marner
+127,penalty,Delaying Game - Puck over glass,Tyson Barrie,Chris Kreider,[81.  0.],2,14:10,TOR,NYR,NYR,3,TOR,10,3,3,8475197,8475184.0,2019020550,,2019-12-21,Tyson Barrie Delaying Game - Puck over glass against Chris Kreider
+176,penalty,Roughing,Adam Fox,Dmytro Timashov,[-77. -38.],2,01:43,NYR,TOR,NYR,3,TOR,10,3,3,8479323,8478857.0,2019020550,,2019-12-21,Adam Fox Roughing against Dmytro Timashov
+206,penalty,Hooking,Dmytro Timashov,Artemi Panarin,[-79.   4.],3,14:54,TOR,NYR,NYR,3,TOR,10,3,5,8478857,8478550.0,2019020550,,2019-12-21,Dmytro Timashov Hooking against Artemi Panarin
+27,penalty,Tripping,Anthony Mantha,Zach Hyman,[-95. -17.],1,13:08,DET,TOR,TOR,10,DET,17,0,0,8477511,8475786.0,2019020556,,2019-12-23,Anthony Mantha Tripping against Zach Hyman
+128,penalty,Slashing,Alexander Kerfoot,Robby Fabbri,[40. 36.],2,10:42,TOR,DET,TOR,10,DET,17,0,0,8477021,8477952.0,2019020556,,2019-12-23,Alexander Kerfoot Slashing against Robby Fabbri
+129,penalty,Slashing,Robby Fabbri,Alexander Kerfoot,[ 7. 32.],2,10:42,DET,TOR,TOR,10,DET,17,0,0,8477952,8477021.0,2019020556,,2019-12-23,Robby Fabbri Slashing against Alexander Kerfoot
+167,penalty,Tripping,Jake Muzzin,Robby Fabbri,[-18.  30.],2,00:56,TOR,DET,TOR,10,DET,17,1,0,8474162,8477952.0,2019020556,,2019-12-23,Jake Muzzin Tripping against Robby Fabbri
+176,penalty,Tripping,Filip Zadina,Pierre Engvall,[57. 17.],3,18:21,DET,TOR,TOR,10,DET,17,1,0,8480821,8478115.0,2019020556,,2019-12-23,Filip Zadina Tripping against Pierre Engvall
+224,penalty,Roughing,Anthony Mantha,Jake Muzzin,[ 62. -35.],3,01:55,DET,TOR,TOR,10,DET,17,4,0,8477511,8474162.0,2019020556,,2019-12-23,Anthony Mantha Roughing against Jake Muzzin
+225,penalty,Roughing,Jake Muzzin,Dmytro Timashov,[ 62. -33.],3,01:55,TOR,DET,TOR,10,DET,17,4,0,8474162,8478857.0,2019020556,,2019-12-23,Jake Muzzin Roughing against Anthony Mantha served by Dmytro Timashov
+226,penalty,Unsportsmanlike conduct,Jake Muzzin,Anthony Mantha,[ 47. -36.],3,01:55,TOR,DET,TOR,10,DET,17,4,0,8474162,8477511.0,2019020556,,2019-12-23,Jake Muzzin Unsportsmanlike conduct against Anthony Mantha
+231,penalty,Abusive language,Travis Dermott,,[13. 41.],3,01:44,TOR,DET,TOR,10,DET,17,4,1,8478408,,2019020556,,2019-12-23,Travis Dermott Abusive language
+235,penalty,Fighting,Justin Holl,Andreas Athanasiou,[ 9. -3.],3,00:34,TOR,DET,TOR,10,DET,17,4,1,8475718,8476960.0,2019020556,,2019-12-23,Justin Holl Fighting against Andreas Athanasiou
+236,penalty,Fighting,Andreas Athanasiou,Justin Holl,[8. 0.],3,00:34,DET,TOR,TOR,10,DET,17,4,1,8476960,8475718.0,2019020556,,2019-12-23,Andreas Athanasiou Fighting against Justin Holl
+237,penalty,Roughing,Andreas Athanasiou,Justin Holl,[13. -1.],3,00:34,DET,TOR,TOR,10,DET,17,4,1,8476960,8475718.0,2019020556,,2019-12-23,Andreas Athanasiou Roughing against Justin Holl
+238,penalty,Kneeing,Andreas Athanasiou,Brendan Perlini,[9. 2.],3,00:34,DET,TOR,TOR,10,DET,17,4,1,8476960,8477943.0,2019020556,,2019-12-23,Andreas Athanasiou Kneeing against Alexander Kerfoot served by Brendan Perlini
+19,penalty,Hi stick - double minor,Brett Pesce,Zach Hyman,[-55. -15.],1,16:48,CAR,TOR,TOR,10,CAR,12,1,0,8477488,8475786.0,2019020569,,2019-12-23,Brett Pesce Hi stick - double minor against Zach Hyman
+59,penalty,Holding,Warren Foegele,Jake Muzzin,[ 82. -32.],1,06:32,CAR,TOR,TOR,10,CAR,12,3,0,8477998,8474162.0,2019020569,,2019-12-23,Warren Foegele Holding against Jake Muzzin
+76,penalty,Tripping,Jake Muzzin,Sebastian Aho,[87. 20.],1,02:04,TOR,CAR,TOR,10,CAR,12,3,1,8474162,8478427.0,2019020569,,2019-12-23,Jake Muzzin Tripping against Sebastian Aho
+98,penalty,Tripping,Travis Dermott,Martin Necas,[70. 27.],2,18:00,TOR,CAR,TOR,10,CAR,12,3,2,8478408,8480039.0,2019020569,,2019-12-23,Travis Dermott Tripping against Martin Necas
+146,penalty,Slashing,Nino Niederreiter,Jake Muzzin,[63. 39.],2,07:30,CAR,TOR,TOR,10,CAR,12,3,2,8475799,8474162.0,2019020569,,2019-12-23,Nino Niederreiter Slashing against Jake Muzzin
+252,penalty,Hooking,Mitchell Marner,Warren Foegele,[26.  1.],3,04:47,TOR,CAR,TOR,10,CAR,12,7,6,8478483,8477998.0,2019020569,,2019-12-23,Mitchell Marner Hooking against Warren Foegele
+63,penalty,Hi stick - double minor,Miles Wood,Cody Ceci,[69. 19.],1,06:34,NJD,TOR,NJD,1,TOR,10,1,0,8477425,8476879.0,2019020583,,2019-12-28,Miles Wood Hi stick - double minor against Cody Ceci
+99,penalty,Tripping,Mitchell Marner,Nikita Gusev,[-65.   0.],2,18:33,TOR,NJD,NJD,1,TOR,10,1,2,8478483,8477038.0,2019020583,,2019-12-28,Mitchell Marner Tripping against Nikita Gusev
+102,penalty,Delaying Game - Puck over glass,Jake Muzzin,,[-47. -40.],2,18:27,TOR,NJD,NJD,1,TOR,10,1,2,8474162,,2019020583,,2019-12-28,Jake Muzzin Delaying Game - Puck over glass
+189,penalty,Hi-sticking,Tyson Barrie,Wayne Simmonds,[71. 22.],3,14:48,TOR,NJD,NJD,1,TOR,10,4,3,8475197,8474190.0,2019020583,,2019-12-28,Tyson Barrie Hi-sticking against Wayne Simmonds
+193,penalty,Too many men on the ice,Nikita Gusev,,[-35.  40.],3,13:32,NJD,TOR,NJD,1,TOR,10,4,3,8477038,,2019020583,,2019-12-28,Too many men/ice served by Nikita Gusev
+228,penalty,Holding,Miles Wood,Zach Hyman,[ 45. -31.],3,01:23,NJD,TOR,NJD,1,TOR,10,4,4,8477425,8475786.0,2019020583,,2019-12-28,Miles Wood Holding against Zach Hyman
+229,penalty,Embellishment,Zach Hyman,Miles Wood,[ 43. -30.],3,01:23,TOR,NJD,NJD,1,TOR,10,4,4,8475786,8477425.0,2019020583,,2019-12-28,Zach Hyman Embellishment against Miles Wood
+235,penalty,Slashing,Blake Coleman,Alexander Kerfoot,[39. 26.],3,00:29,NJD,TOR,NJD,1,TOR,10,4,4,8476399,8477021.0,2019020583,,2019-12-28,Blake Coleman Slashing against Alexander Kerfoot
+13,penalty,Hi-sticking,Jacob Trouba,Dmytro Timashov,[-63.   1.],1,17:37,NYR,TOR,TOR,10,NYR,3,0,1,8476885,8478857.0,2019020593,,2019-12-29,Jacob Trouba Hi-sticking against Dmytro Timashov
+57,penalty,PS - Slash on breakaway,Tyson Barrie,Pavel Buchnevich,[73.  1.],1,08:32,TOR,NYR,TOR,10,NYR,3,1,2,8475197,8477402.0,2019020593,,2019-12-29,Tyson Barrie PS - Slash on breakaway against Pavel Buchnevich
+128,penalty,Hooking,Kaapo Kakko,Mitchell Marner,[69.  1.],2,14:45,NYR,TOR,TOR,10,NYR,3,1,3,8481554,8478483.0,2019020593,,2019-12-29,Kaapo Kakko Hooking against Mitchell Marner
+177,penalty,Holding,Pierre Engvall,Jacob Trouba,[ 92. -22.],2,06:03,TOR,NYR,TOR,10,NYR,3,2,3,8478115,8476885.0,2019020593,,2019-12-29,Pierre Engvall Holding against Jacob Trouba
+208,penalty,Roughing,Ryan Strome,Martin Marincin,[-73.   0.],2,00:07,NYR,TOR,TOR,10,NYR,3,2,4,8476458,8475716.0,2019020593,,2019-12-29,Ryan Strome Roughing against Martin Marincin
+209,penalty,Roughing,Martin Marincin,Ryan Strome,[-77.   1.],2,00:07,TOR,NYR,TOR,10,NYR,3,2,4,8475716,8476458.0,2019020593,,2019-12-29,Martin Marincin Roughing against Ryan Strome
+210,penalty,Slashing,Martin Marincin,Ryan Strome,[-72.   1.],2,00:07,TOR,NYR,TOR,10,NYR,3,2,4,8475716,8476458.0,2019020593,,2019-12-29,Martin Marincin Slashing against Ryan Strome
+211,penalty,Slashing,Ryan Strome,Martin Marincin,[-76.   0.],2,00:07,NYR,TOR,TOR,10,NYR,3,2,4,8476458,8475716.0,2019020593,,2019-12-29,Ryan Strome Slashing against Martin Marincin
+36,penalty,Holding,Zach Hyman,Jonas Brodin,[ 69. -28.],1,09:57,TOR,MIN,MIN,30,TOR,10,0,1,8475786,8476463.0,2019020616,,2020-01-01,Zach Hyman Holding against Jonas Brodin
+48,penalty,Slashing,Ryan Hartman,Cody Ceci,[ 49. -26.],1,06:16,MIN,TOR,MIN,30,TOR,10,0,1,8477451,8476879.0,2019020616,,2020-01-01,Ryan Hartman Slashing against Cody Ceci
+53,penalty,Hi-sticking,Dmytro Timashov,Marcus Foligno,[-35.  33.],1,03:41,TOR,MIN,MIN,30,TOR,10,0,1,8478857,8475220.0,2019020616,,2020-01-01,Dmytro Timashov Hi-sticking against Marcus Foligno
+86,penalty,Tripping,Kevin Fiala,Martin Marincin,[43. 16.],2,16:15,MIN,TOR,MIN,30,TOR,10,0,2,8477942,8475716.0,2019020616,,2020-01-01,Kevin Fiala Tripping against Martin Marincin
+97,penalty,Holding,Ryan Donato,John Tavares,[-95.  -6.],2,12:59,MIN,TOR,MIN,30,TOR,10,0,2,8477987,8475166.0,2019020616,,2020-01-01,Ryan Donato Holding against John Tavares
+116,penalty,Interference,Travis Dermott,Jordan Greenway,[13. 13.],2,08:36,TOR,MIN,MIN,30,TOR,10,0,3,8478408,8478413.0,2019020616,,2020-01-01,Travis Dermott Interference against Jordan Greenway
+54,penalty,Tripping,Tyson Barrie,Nikolaj Ehlers,[-51.  -6.],1,09:32,TOR,WPG,WPG,52,TOR,10,0,2,8475197,8477940.0,2019020633,,2020-01-03,Tyson Barrie Tripping against Nikolaj Ehlers
+108,penalty,Delaying Game - Puck over glass,Jason Spezza,,[ 72. -41.],2,17:26,TOR,WPG,WPG,52,TOR,10,0,2,8469455,,2019020633,,2020-01-03,Jason Spezza Delaying Game - Puck over glass
+152,penalty,Hooking,Nicholas Shore,John Tavares,[ 67. -40.],2,09:26,WPG,TOR,WPG,52,TOR,10,2,4,8476406,8475166.0,2019020633,,2020-01-03,Nicholas Shore Hooking against John Tavares
+181,penalty,Slashing,Mathieu Perreault,Kasperi Kapanen,[-51.  22.],2,04:20,WPG,TOR,WPG,52,TOR,10,3,4,8473618,8477953.0,2019020633,,2020-01-03,Mathieu Perreault Slashing against Kasperi Kapanen
+265,penalty,Hi stick - double minor,Mason Appleton,Mason Marchment,[-40.  39.],3,00:42,WPG,TOR,WPG,52,TOR,10,3,6,8478891,8478975.0,2019020633,,2020-01-03,Mason Appleton Hi stick - double minor against Mason Marchment
+137,penalty,Hooking,Cody Ceci,Tom Kuhnhackl,[-84.  -7.],2,02:50,TOR,NYI,TOR,10,NYI,2,2,0,8476879,8475832.0,2019020646,,2020-01-05,Cody Ceci Hooking against Tom Kuhnhackl
+61,penalty,Interference,Travis Dermott,Kailer Yamamoto,[91. 20.],1,07:03,TOR,EDM,TOR,10,EDM,22,0,1,8478408,8479977.0,2019020659,,2020-01-07,Travis Dermott Interference against Kailer Yamamoto
+79,penalty,Holding,Justin Holl,Ethan Bear,[96. 18.],1,04:10,TOR,EDM,TOR,10,EDM,22,0,1,8475718,8478451.0,2019020659,,2020-01-07,Justin Holl Holding against Ethan Bear
+130,penalty,Slashing,Kailer Yamamoto,Morgan Rielly,[ 52. -32.],2,14:00,EDM,TOR,TOR,10,EDM,22,1,3,8479977,8476853.0,2019020659,,2020-01-07,Kailer Yamamoto Slashing against Morgan Rielly
+134,penalty,Tripping,Riley Sheahan,Mitchell Marner,[-50.  35.],2,13:23,EDM,TOR,TOR,10,EDM,22,1,3,8475772,8478483.0,2019020659,,2020-01-07,Riley Sheahan Tripping against Mitchell Marner
+202,penalty,Delaying Game - Puck over glass,Alexander Kerfoot,,[ 41. -37.],3,19:32,TOR,EDM,TOR,10,EDM,22,3,4,8477021,,2019020659,,2020-01-07,Alexander Kerfoot Delaying Game - Puck over glass
+228,penalty,Hi-sticking,Justin Holl,Alex Chiasson,[ 72. -35.],3,14:03,TOR,EDM,TOR,10,EDM,22,3,4,8475718,8475163.0,2019020659,,2020-01-07,Justin Holl Hi-sticking against Alex Chiasson
+250,penalty,Hi-sticking,Jujhar Khaira,Travis Dermott,[91. -6.],3,10:15,EDM,TOR,TOR,10,EDM,22,3,5,8476915,8478408.0,2019020659,,2020-01-07,Jujhar Khaira Hi-sticking against Travis Dermott
+251,penalty,Hi-sticking,Travis Dermott,Jujhar Khaira,[92. -7.],3,10:15,TOR,EDM,TOR,10,EDM,22,3,5,8478408,8476915.0,2019020659,,2020-01-07,Travis Dermott Hi-sticking against Jujhar Khaira
+265,penalty,Delaying Game - Puck over glass,Caleb Jones,,[-86.  31.],3,06:58,EDM,TOR,TOR,10,EDM,22,3,6,8478452,,2019020659,,2020-01-07,Caleb Jones Delaying Game - Puck over glass
+277,penalty,Holding,Justin Holl,Connor McDavid,[72. -3.],3,04:19,TOR,EDM,TOR,10,EDM,22,4,6,8475718,8478402.0,2019020659,,2020-01-07,Justin Holl Holding against Connor McDavid
+287,penalty,Too many men on the ice,Gaetan Haas,,[-19.  17.],3,01:35,EDM,TOR,TOR,10,EDM,22,4,6,8481813,,2019020659,,2020-01-07,Too many men/ice served by Gaetan Haas
+55,penalty,Holding,Blake Wheeler,Adam Brooks,[97. 14.],1,03:18,WPG,TOR,TOR,10,WPG,52,1,1,8471218,8478996.0,2019020675,,2020-01-09,Blake Wheeler Holding against Adam Brooks
+82,penalty,Too many men on the ice,Dmytro Timashov,,[13. 40.],2,16:13,TOR,WPG,TOR,10,WPG,52,1,2,8478857,,2019020675,,2020-01-09,Too many men/ice served by Dmytro Timashov
+94,penalty,Holding,John Tavares,Mark Scheifele,[-89. -34.],2,12:29,TOR,WPG,TOR,10,WPG,52,2,2,8475166,8476460.0,2019020675,,2020-01-09,John Tavares Holding against Mark Scheifele
+115,penalty,Hooking,Josh Morrissey,John Tavares,[86. -5.],2,06:40,WPG,TOR,TOR,10,WPG,52,2,3,8477504,8475166.0,2019020675,,2020-01-09,Josh Morrissey Hooking against John Tavares
+157,penalty,Tripping,Sami Niku,John Tavares,[-30.  33.],3,13:05,WPG,TOR,TOR,10,WPG,52,2,3,8478915,8475166.0,2019020675,,2020-01-09,Sami Niku Tripping against John Tavares
+82,penalty,Delaying Game - Puck over glass,Noel Acciari,,[ 41. -38.],1,03:54,FLA,TOR,FLA,13,TOR,10,3,0,8478569,,2019020707,,2020-01-16,Noel Acciari Delaying Game - Puck over glass
+102,penalty,Holding,Mike Hoffman,Travis Dermott,[-55. -37.],2,18:31,FLA,TOR,FLA,13,TOR,10,4,0,8474884,8478408.0,2019020707,,2020-01-16,Mike Hoffman Holding against Travis Dermott
+188,penalty,Tripping,Cody Ceci,Josh Brown,[62. 33.],3,17:54,TOR,FLA,FLA,13,TOR,10,7,4,8476879,8477384.0,2019020707,,2020-01-16,Cody Ceci Tripping against Josh Brown
+197,penalty,Tripping,Justin Holl,Vincent Trocheck,[-69. -30.],3,15:50,TOR,FLA,FLA,13,TOR,10,7,4,8475718,8476389.0,2019020707,,2020-01-16,Justin Holl Tripping against Vincent Trocheck
+243,penalty,PS - Hooking on breakaway,Cody Ceci,Frank Vatrano,[-80.  -6.],3,04:24,TOR,FLA,FLA,13,TOR,10,8,4,8476879,8478366.0,2019020707,,2020-01-16,Cody Ceci PS - Hooking on breakaway against Frank Vatrano
+258,penalty,Holding,Brett Connolly,Alexander Kerfoot,[-82.  29.],3,01:20,FLA,TOR,FLA,13,TOR,10,8,4,8475792,8477021.0,2019020707,,2020-01-16,Brett Connolly Holding against Alexander Kerfoot
+44,penalty,Holding,Pierre Engvall,P.K. Subban,[-97.  16.],1,10:33,TOR,NJD,TOR,10,NJD,1,2,0,8478115,8474056.0,2019020715,,2020-01-15,Pierre Engvall Holding against P.K. Subban
+60,penalty,Hooking,Connor Carrick,William Nylander,[25. 11.],1,07:13,NJD,TOR,TOR,10,NJD,1,2,0,8476941,8477939.0,2019020715,,2020-01-15,Connor Carrick Hooking against William Nylander
+84,penalty,Interference,P.K. Subban,Dmytro Timashov,[ 48. -38.],1,01:36,NJD,TOR,TOR,10,NJD,1,2,0,8474056,8478857.0,2019020715,,2020-01-15,P.K. Subban Interference against Dmytro Timashov
+115,penalty,Hi-sticking,Alexander Kerfoot,Nikita Gusev,[-78.  26.],2,15:22,TOR,NJD,TOR,10,NJD,1,4,0,8477021,8477038.0,2019020715,,2020-01-15,Alexander Kerfoot Hi-sticking against Nikita Gusev
+135,penalty,Hi-sticking,Blake Coleman,Alexander Kerfoot,[-85. -30.],2,10:26,NJD,TOR,TOR,10,NJD,1,4,1,8476399,8477021.0,2019020715,,2020-01-15,Blake Coleman Hi-sticking against Alexander Kerfoot
+154,penalty,Roughing,Miles Wood,Pierre Engvall,[-69. -22.],2,06:52,NJD,TOR,TOR,10,NJD,1,5,1,8477425,8478115.0,2019020715,,2020-01-15,Miles Wood Roughing against Pierre Engvall
+155,penalty,Roughing,Pierre Engvall,Miles Wood,[-72. -19.],2,06:52,TOR,NJD,TOR,10,NJD,1,5,1,8478115,8477425.0,2019020715,,2020-01-15,Pierre Engvall Roughing against Miles Wood
+160,penalty,Tripping,Travis Zajac,Justin Holl,[ 47. -37.],2,04:58,NJD,TOR,TOR,10,NJD,1,5,1,8471233,8475718.0,2019020715,,2020-01-15,Travis Zajac Tripping against Justin Holl
+254,penalty,Hooking,Cody Ceci,Miles Wood,[58. 16.],3,04:05,TOR,NJD,TOR,10,NJD,1,6,3,8476879,8477425.0,2019020715,,2020-01-15,Cody Ceci Hooking against Miles Wood
+261,penalty,Hooking,Martin Marincin,Nico Hischier,[81. 11.],3,02:20,TOR,NJD,TOR,10,NJD,1,6,3,8475716,8480002.0,2019020715,,2020-01-15,Martin Marincin Hooking against Nico Hischier
+43,penalty,Tripping,Elias Lindholm,Dmytro Timashov,[-87.  34.],1,11:44,CGY,TOR,TOR,10,CGY,20,0,0,8477496,8478857.0,2019020728,,2020-01-17,Elias Lindholm Tripping against Dmytro Timashov
+49,penalty,Hooking,Rasmus Sandin,Mark Jankowski,[71. -6.],1,10:26,TOR,CGY,TOR,10,CGY,20,0,0,8480873,8476873.0,2019020728,,2020-01-17,Rasmus Sandin Hooking against Mark Jankowski
+109,penalty,Tripping,Sam Bennett,Frederik Gauthier,[-22.  28.],2,16:34,CGY,TOR,TOR,10,CGY,20,0,0,8477935,8477512.0,2019020728,,2020-01-17,Sam Bennett Tripping against Frederik Gauthier
+161,penalty,Holding,Oliver Kylington,John Tavares,[ 88. -12.],2,05:50,CGY,TOR,TOR,10,CGY,20,0,1,8478430,8475166.0,2019020728,,2020-01-17,Oliver Kylington Holding against John Tavares
+209,penalty,Holding,Tobias Rieder,Kasperi Kapanen,[-45. -31.],3,12:45,CGY,TOR,TOR,10,CGY,20,0,1,8476356,8477953.0,2019020728,,2020-01-17,Tobias Rieder Holding against Kasperi Kapanen
+226,penalty,Interference,Zach Hyman,Tobias Rieder,[-49.  31.],3,07:58,TOR,CGY,TOR,10,CGY,20,1,1,8475786,8476356.0,2019020728,,2020-01-17,Zach Hyman Interference against Tobias Rieder
+81,penalty,Hooking,Patrick Kane,Travis Dermott,[-89.  17.],1,01:12,CHI,TOR,TOR,10,CHI,16,0,3,8474141,8478408.0,2019020747,,2020-01-19,Patrick Kane Hooking against Travis Dermott
+113,penalty,Slashing,Connor Murphy,Zach Hyman,[34. 19.],2,13:45,CHI,TOR,TOR,10,CHI,16,1,4,8476473,8475786.0,2019020747,,2020-01-19,Connor Murphy Slashing against Zach Hyman
+259,penalty,Hi-sticking,Kasperi Kapanen,Connor Murphy,[-63. -11.],3,00:42,TOR,CHI,TOR,10,CHI,16,2,6,8477953,8476473.0,2019020747,,2020-01-19,Kasperi Kapanen Hi-sticking against Connor Murphy
+122,penalty,Hooking,Nick Bonino,Auston Matthews,[74. 14.],2,09:49,NSH,TOR,NSH,18,TOR,10,1,3,8474009,8479318.0,2019020770,,2020-01-28,Nick Bonino Hooking against Auston Matthews
+146,penalty,Interference,Justin Holl,Roman Josi,[-57. -38.],2,03:23,TOR,NSH,NSH,18,TOR,10,1,4,8475718,8474600.0,2019020770,,2020-01-28,Justin Holl Interference against Roman Josi
+150,penalty,Hooking,Kyle Turris,Mitchell Marner,[-84.  -8.],2,02:43,NSH,TOR,NSH,18,TOR,10,1,4,8474068,8478483.0,2019020770,,2020-01-28,Kyle Turris Hooking against Mitchell Marner
+122,penalty,Roughing,Cody Ceci,Blake Comeau,[94. 20.],2,15:06,TOR,DAL,DAL,25,TOR,10,1,2,8476879,8471260.0,2019020777,,2020-01-30,Cody Ceci Roughing against Blake Comeau
+137,penalty,Holding,Miro Heiskanen,Mitchell Marner,[-89.  30.],2,11:46,DAL,TOR,DAL,25,TOR,10,1,2,8480036,8478483.0,2019020777,,2020-01-30,Miro Heiskanen Holding against Mitchell Marner
+229,penalty,Tripping,Zach Hyman,John Klingberg,[-84.  34.],3,11:18,TOR,DAL,DAL,25,TOR,10,3,4,8475786,8475906.0,2019020777,,2020-01-30,Zach Hyman Tripping against John Klingberg
+231,penalty,Interference,Radek Faksa,Jake Muzzin,[-31.  22.],3,10:55,DAL,TOR,DAL,25,TOR,10,3,4,8476889,8474162.0,2019020777,,2020-01-30,Radek Faksa Interference against Jake Muzzin
+244,penalty,Interference,Jason Spezza,Alexander Radulov,[-80. -16.],3,07:05,TOR,DAL,DAL,25,TOR,10,3,4,8469455,8471228.0,2019020777,,2020-01-30,Jason Spezza Interference against Alexander Radulov
+40,penalty,Too many men on the ice,William Nylander,,[ 6. 39.],1,10:57,TOR,OTT,TOR,10,OTT,9,0,0,8477939,,2019020795,OTT,2020-02-02,Too many men/ice served by William Nylander
+70,penalty,Tripping,Rasmus Sandin,Drake Batherson,[ 68. -10.],1,02:29,TOR,OTT,TOR,10,OTT,9,0,0,8480873,8480208.0,2019020795,OTT,2020-02-02,Rasmus Sandin Tripping against Drake Batherson
+123,penalty,Hooking,Drake Batherson,Rasmus Sandin,[-4. 37.],2,10:40,OTT,TOR,TOR,10,OTT,9,0,1,8480208,8480873.0,2019020795,OTT,2020-02-02,Drake Batherson Hooking against Rasmus Sandin
+164,penalty,Hi-sticking,Brady Tkachuk,Cody Ceci,[-20.  28.],2,00:20,OTT,TOR,TOR,10,OTT,9,1,1,8480801,8476879.0,2019020795,OTT,2020-02-02,Brady Tkachuk Hi-sticking against Cody Ceci
+251,penalty,Interference,Tyson Barrie,Jean-Gabriel Pageau,[-32. -22.],4,03:56,TOR,OTT,TOR,10,OTT,9,1,1,8475197,8476419.0,2019020795,OTT,2020-02-02,Tyson Barrie Interference against Jean-Gabriel Pageau
+262,penalty,Interference,Mike Reilly,Mitchell Marner,[92. 31.],4,01:20,OTT,TOR,TOR,10,OTT,9,1,1,8476422,8478483.0,2019020795,OTT,2020-02-02,Mike Reilly Interference against Mitchell Marner

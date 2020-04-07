@@ -1,546 +1,546 @@
-,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
-24,penalty,Holding,Nate Thompson,Kyle Palmieri,[-27. -31.],1,13:21,MTL,NJD,NJD,1,MTL,8,0,0,8470775,8475151.0,Nate Thompson Holding against Kyle Palmieri
-82,penalty,Tripping,Shea Weber,Kyle Palmieri,[-75. -29.],2,18:14,MTL,NJD,NJD,1,MTL,8,1,0,8470642,8475151.0,Shea Weber Tripping against Kyle Palmieri
-86,penalty,Fighting,Dale Weise,John Hayden,[-34. -17.],2,18:06,MTL,NJD,NJD,1,MTL,8,2,0,8474668,8477401.0,Dale Weise Fighting against John Hayden
-87,penalty,Fighting,John Hayden,Dale Weise,[-37. -18.],2,18:06,NJD,MTL,NJD,1,MTL,8,2,0,8477401,8474668.0,John Hayden Fighting against Dale Weise
-101,penalty,Tripping,Artturi Lehkonen,Miles Wood,[-47.   9.],2,15:10,MTL,NJD,NJD,1,MTL,8,2,0,8477476,8477425.0,Artturi Lehkonen Tripping against Miles Wood
-108,penalty,Hooking,Damon Severson,Joel Armia,[64.  3.],2,13:37,NJD,MTL,NJD,1,MTL,8,2,0,8476923,8476469.0,Damon Severson Hooking against Joel Armia
-133,penalty,Slashing,Max Domi,Andy Greene,[-96.  -4.],2,07:31,MTL,NJD,NJD,1,MTL,8,3,0,8477503,8472382.0,Max Domi Slashing against Andy Greene
-134,penalty,Fighting,Nick Cousins,Kevin Rooney,[-84. -36.],2,07:31,MTL,NJD,NJD,1,MTL,8,3,0,8476393,8479291.0,Nick Cousins Fighting against Kevin Rooney
-135,penalty,Fighting,Kevin Rooney,Nick Cousins,[-59. -37.],2,07:31,NJD,MTL,NJD,1,MTL,8,3,0,8479291,8476393.0,Kevin Rooney Fighting against Nick Cousins
-175,penalty,Hi-sticking,Joey Anderson,Jeff Petry,[95. 23.],3,17:45,NJD,MTL,NJD,1,MTL,8,3,2,8479315,8473507.0,Joey Anderson Hi-sticking against Jeff Petry
-235,penalty,Too many men on the ice,Nick Cousins,,[37. 40.],3,01:09,MTL,NJD,NJD,1,MTL,8,3,4,8476393,,Too many men/ice served by Nick Cousins
-9,penalty,Tripping,Tyler Pitlick,Pavel Zacha,[-20.  19.],1,18:02,PHI,NJD,PHI,4,NJD,1,0,1,8475752,8478401.0,Tyler Pitlick Tripping against Pavel Zacha
-58,penalty,Holding,John Hayden,Jakub Voracek,[-79.  30.],1,02:33,NJD,PHI,PHI,4,NJD,1,0,1,8477401,8474161.0,John Hayden Holding against Jakub Voracek
-76,penalty,Tripping,Kevin Hayes,Jesper Bratt,[-52.  39.],2,18:41,PHI,NJD,PHI,4,NJD,1,0,1,8475763,8479407.0,Kevin Hayes Tripping against Jesper Bratt
-111,penalty,Holding,P.K. Subban,Claude Giroux,[94. 27.],2,09:10,NJD,PHI,PHI,4,NJD,1,0,2,8474056,8473512.0,P.K. Subban Holding against Claude Giroux
-124,penalty,Tripping,Travis Sanheim,Jack Hughes,[-81. -35.],2,05:56,PHI,NJD,PHI,4,NJD,1,0,2,8477948,8481559.0,Travis Sanheim Tripping against Jack Hughes
-157,penalty,Tripping,P.K. Subban,Jakub Voracek,[-69. -37.],3,19:14,NJD,PHI,PHI,4,NJD,1,0,2,8474056,8474161.0,P.K. Subban Tripping against Jakub Voracek
-206,penalty,Interference,John Hayden,Sean Couturier,[-71.   4.],3,07:31,NJD,PHI,PHI,4,NJD,1,0,5,8477401,8476461.0,John Hayden Interference against Sean Couturier
-11,penalty,Hooking,Carl Grundstrom,Jesper Bratt,[-44.  40.],1,17:39,LAK,NJD,NJD,1,LAK,26,0,0,8479336,8479407.0,Carl Grundstrom Hooking against Jesper Bratt
-70,penalty,Cross checking,Damon Severson,Austin Wagner,[-80. -36.],1,01:54,NJD,LAK,NJD,1,LAK,26,0,0,8476923,8478455.0,Damon Severson Cross checking against Austin Wagner
-90,penalty,Hooking,Blake Lizotte,Wayne Simmonds,[-69. -13.],2,17:20,LAK,NJD,NJD,1,LAK,26,0,0,8481481,8474190.0,Blake Lizotte Hooking against Wayne Simmonds
-106,penalty,Hi-sticking,Carl Grundstrom,Connor Carrick,[55. 22.],2,13:48,LAK,NJD,NJD,1,LAK,26,1,0,8479336,8476941.0,Carl Grundstrom Hi-sticking against Connor Carrick
-127,penalty,Interference,P.K. Subban,Carl Grundstrom,[ 8. 35.],2,07:48,NJD,LAK,NJD,1,LAK,26,3,0,8474056,8479336.0,P.K. Subban Interference against Carl Grundstrom
-129,penalty,PS - Hooking on breakaway,Damon Severson,Anze Kopitar,[65.  2.],2,07:23,NJD,LAK,NJD,1,LAK,26,3,0,8476923,8471685.0,Damon Severson PS - Hooking on breakaway against Anze Kopitar
-188,penalty,Holding,Wayne Simmonds,Austin Wagner,[-41.   4.],3,13:55,NJD,LAK,NJD,1,LAK,26,3,0,8474190,8478455.0,Wayne Simmonds Holding against Austin Wagner
-195,penalty,Hooking,Trevor Lewis,Jack Hughes,[94. -9.],3,11:08,LAK,NJD,NJD,1,LAK,26,3,0,8473453,8481559.0,Trevor Lewis Hooking against Jack Hughes
-10,penalty,Too many men on the ice,Evgenii Dadonov,,[72. 30.],1,17:33,FLA,NJD,NJD,1,FLA,13,0,0,8474149,,Too many men/ice served by Evgenii Dadonov
-36,penalty,Interference,MacKenzie Weegar,Kevin Rooney,[79. -2.],1,10:44,FLA,NJD,NJD,1,FLA,13,1,0,8477346,8479291.0,MacKenzie Weegar Interference against Kevin Rooney
-156,penalty,Delaying Game - Puck over glass,Mirco Mueller,,[ 81. -13.],2,03:04,NJD,FLA,NJD,1,FLA,13,3,5,8477509,,Mirco Mueller Delaying Game - Puck over glass
-190,penalty,Tripping,Blake Coleman,Riley Stillman,[73.  1.],3,12:44,NJD,FLA,NJD,1,FLA,13,3,5,8476399,8479388.0,Blake Coleman Tripping against Riley Stillman
-4,penalty,Hooking,Damon Severson,Andreas Athanasiou,[-47. -22.],1,19:08,NJD,DET,NJD,1,DET,17,0,0,8476923,8476960.0,Damon Severson Hooking against Andreas Athanasiou
-13,penalty,Delaying Game - Puck over glass,Darren Helm,,[ 20. -41.],1,16:38,DET,NJD,NJD,1,DET,17,0,0,8471794,,Darren Helm Delaying Game - Puck over glass
-45,penalty,Hi-sticking,Andy Greene,Tyler Bertuzzi,[-89. -14.],1,08:42,NJD,DET,NJD,1,DET,17,0,0,8472382,8477479.0,Andy Greene Hi-sticking against Tyler Bertuzzi
-99,penalty,Hi-sticking,Tyler Bertuzzi,Damon Severson,[63. 30.],2,17:01,DET,NJD,NJD,1,DET,17,0,0,8477479,8476923.0,Tyler Bertuzzi Hi-sticking against Damon Severson
-108,penalty,Tripping,Miles Wood,Alex Biega,[-94.  28.],2,14:11,NJD,DET,NJD,1,DET,17,0,0,8477425,8473415.0,Miles Wood Tripping against Alex Biega
-114,penalty,Cross checking,Mike Green,Blake Coleman,[-44. -39.],2,12:30,DET,NJD,NJD,1,DET,17,0,0,8471242,8476399.0,Mike Green Cross checking against Blake Coleman
-120,penalty,Delaying Game - Puck over glass,Gustav Lindstrom,,[-47. -41.],2,10:25,DET,NJD,NJD,1,DET,17,0,0,8480184,,Gustav Lindstrom Delaying Game - Puck over glass
-125,penalty,Interference,Alex Biega,Miles Wood,[-30. -39.],2,08:11,DET,NJD,NJD,1,DET,17,0,0,8473415,8477425.0,Alex Biega Interference against Miles Wood
-137,penalty,Illegal check to head,Blake Coleman,Alex Biega,[ 35. -41.],2,04:50,NJD,DET,NJD,1,DET,17,0,0,8476399,8473415.0,Blake Coleman Illegal check to head against Alex Biega
-191,penalty,Delaying Game - Smothering puck,Alex Biega,,[98. 19.],3,12:09,DET,NJD,NJD,1,DET,17,2,1,8473415,,Alex Biega Delaying Game - Smothering puck
-6,penalty,Holding,Jordan Staal,Miles Wood,[ 48. -38.],1,18:47,CAR,NJD,CAR,12,NJD,1,0,0,8473533,8477425.0,Jordan Staal Holding against Miles Wood
-77,penalty,Holding,Blake Coleman,Martin Necas,[-21. -34.],2,18:45,NJD,CAR,CAR,12,NJD,1,2,1,8476399,8480039.0,Blake Coleman Holding against Martin Necas
-125,penalty,Tripping,Wayne Simmonds,Nino Niederreiter,[ 61. -27.],2,05:32,NJD,CAR,CAR,12,NJD,1,3,1,8474190,8475799.0,Wayne Simmonds Tripping against Nino Niederreiter
-196,penalty,Slashing,Joel Edmundson,Miles Wood,[78. -8.],3,07:32,CAR,NJD,CAR,12,NJD,1,4,1,8476441,8477425.0,Joel Edmundson Slashing against Miles Wood
-209,penalty,Tripping,Brett Pesce,Kevin Rooney,[30. 37.],3,04:43,CAR,NJD,CAR,12,NJD,1,5,2,8477488,8479291.0,Brett Pesce Tripping against Kevin Rooney
-212,penalty,Tripping,Jordan Staal,Pavel Zacha,[31. 38.],3,03:55,CAR,NJD,CAR,12,NJD,1,5,2,8473533,8478401.0,Jordan Staal Tripping against Pavel Zacha
-50,penalty,Holding,Damon Severson,Sonny Milano,[-99.  10.],1,06:47,NJD,CBJ,NJD,1,CBJ,29,0,2,8476923,8477947.0,Damon Severson Holding against Sonny Milano
-102,penalty,Hooking,Pavel Zacha,Sonny Milano,[63. 28.],2,14:26,NJD,CBJ,NJD,1,CBJ,29,2,2,8478401,8477947.0,Pavel Zacha Hooking against Sonny Milano
-24,penalty,Roughing,P.K. Subban,Alexander Steen,[89. 13.],1,13:18,NJD,STL,STL,19,NJD,1,0,0,8474056,8470257.0,P.K. Subban Roughing against Alexander Steen
-25,penalty,Playing without a helmet,Alexander Steen,,[78. 15.],1,13:18,STL,NJD,STL,19,NJD,1,0,0,8470257,,Alexander Steen Playing without a helmet
-66,penalty,Too many men on the ice,Nicholas Merkley,,[1. 2.],1,01:13,NJD,STL,STL,19,NJD,1,0,0,8478447,,Too many men/ice served by Nicholas Merkley
-89,penalty,Hi-sticking,Nicholas Merkley,Robert Bortuzzo,[ 82. -20.],2,16:32,NJD,STL,STL,19,NJD,1,0,0,8478447,8474145.0,Nicholas Merkley Hi-sticking against Robert Bortuzzo
-127,penalty,Hooking,Robert Thomas,Miles Wood,[-26. -38.],2,08:10,STL,NJD,STL,19,NJD,1,1,0,8480023,8477425.0,Robert Thomas Hooking against Miles Wood
-129,penalty,Tripping,Wayne Simmonds,Colton Parayko,[65. -3.],2,08:05,NJD,STL,STL,19,NJD,1,1,0,8474190,8476892.0,Wayne Simmonds Tripping against Colton Parayko
-175,penalty,Hi stick - double minor,Robert Thomas,Nicholas Merkley,[-38.  39.],3,14:15,STL,NJD,STL,19,NJD,1,2,0,8480023,8478447.0,Robert Thomas Hi stick - double minor against Nicholas Merkley
-42,penalty,Fighting,Jacob Middleton,John Hayden,[-19.   7.],1,12:34,SJS,NJD,NJD,1,SJS,28,0,1,8478136,8477401.0,Jacob Middleton Fighting against John Hayden
-43,penalty,Fighting,John Hayden,Jacob Middleton,[-21.  -6.],1,12:34,NJD,SJS,NJD,1,SJS,28,0,1,8477401,8478136.0,John Hayden Fighting against Jacob Middleton
-44,penalty,Unsportsmanlike conduct,Jacob Middleton,Noah Gregor,[-8.  8.],1,12:34,SJS,NJD,NJD,1,SJS,28,0,1,8478136,8479393.0,Jacob Middleton Unsportsmanlike conduct served by Noah Gregor
-85,penalty,Tripping,Stefan Noesen,Kevin Rooney,[-69.   7.],1,00:14,SJS,NJD,NJD,1,SJS,28,0,1,8476474,8479291.0,Stefan Noesen Tripping against Kevin Rooney
-91,penalty,Interference,Wayne Simmonds,Marcus Sorensen,[-34. -13.],2,19:13,NJD,SJS,NJD,1,SJS,28,0,1,8474190,8475834.0,Wayne Simmonds Interference against Marcus Sorensen
-125,penalty,Interference,P.K. Subban,Stefan Noesen,[ 93. -22.],2,12:49,NJD,SJS,NJD,1,SJS,28,0,1,8474056,8476474.0,P.K. Subban Interference against Stefan Noesen
-140,penalty,Interference,Dylan Gambrell,Nico Hischier,[ 59. -28.],2,10:05,SJS,NJD,NJD,1,SJS,28,0,1,8479580,8480002.0,Dylan Gambrell Interference against Nico Hischier
-149,penalty,Delaying Game - Puck over glass,Melker Karlsson,,[11. 42.],2,08:51,SJS,NJD,NJD,1,SJS,28,0,1,8477922,,Melker Karlsson Delaying Game - Puck over glass
-181,penalty,Interference,Mirco Mueller,Alexander True,[-15. -40.],2,01:29,NJD,SJS,NJD,1,SJS,28,1,1,8477509,8480384.0,Mirco Mueller Interference against Alexander True
-190,penalty,Delaying Game - Puck over glass,Mario Ferraro,,[ 44. -34.],3,18:54,SJS,NJD,NJD,1,SJS,28,1,1,8479983,,Mario Ferraro Delaying Game - Puck over glass
-244,penalty,Interference - Goalkeeper,Alexander True,Mackenzie Blackwood,[-84.   0.],3,03:04,SJS,NJD,NJD,1,SJS,28,2,1,8480384,8478406.0,Alexander True Interference - Goalkeeper against Mackenzie Blackwood
-9,penalty,Roughing,Connor Carrick,Tom Wilson,[-35. -39.],1,17:24,NJD,WSH,NJD,1,WSH,15,0,0,8476941,8476880.0,Connor Carrick Roughing against Tom Wilson
-18,penalty,Hi-sticking,Travis Zajac,Michal Kempny,[ 68. -28.],1,14:39,NJD,WSH,NJD,1,WSH,15,0,0,8471233,8479482.0,Travis Zajac Hi-sticking against Michal Kempny
-142,penalty,Hooking,Brenden Dillon,Kevin Rooney,[-92.  -3.],2,09:46,WSH,NJD,NJD,1,WSH,15,1,0,8475455,8479291.0,Brenden Dillon Hooking against Kevin Rooney
-158,penalty,Tripping,Colton White,T.J. Oshie,[ 93. -25.],2,05:57,NJD,WSH,NJD,1,WSH,15,2,0,8478841,8471698.0,Colton White Tripping against T.J. Oshie
-172,penalty,Holding,John Hayden,John Carlson,[-87. -24.],2,03:15,NJD,WSH,NJD,1,WSH,15,2,1,8477401,8474590.0,John Hayden Holding against John Carlson
-229,penalty,Unsportsmanlike conduct,Colton White,Evgeny Kuznetsov,[  0. -36.],3,09:09,NJD,WSH,NJD,1,WSH,15,2,2,8478841,8475744.0,Colton White Unsportsmanlike conduct against Evgeny Kuznetsov
-230,penalty,Unsportsmanlike conduct,Evgeny Kuznetsov,Colton White,[  1. -37.],3,09:09,WSH,NJD,NJD,1,WSH,15,2,2,8475744,8478841.0,Evgeny Kuznetsov Unsportsmanlike conduct against Colton White
-236,penalty,Hooking,Dakota Mermis,Lars Eller,[-76. -29.],3,08:05,NJD,WSH,NJD,1,WSH,15,2,2,8477541,8474189.0,Dakota Mermis Hooking against Lars Eller
-244,penalty,Hi-sticking,Travis Zajac,Tom Wilson,[40.  2.],3,06:19,NJD,WSH,NJD,1,WSH,15,2,2,8471233,8476880.0,Travis Zajac Hi-sticking against Tom Wilson
-255,penalty,Hooking,Evgeny Kuznetsov,Kyle Palmieri,[53. 34.],3,04:16,WSH,NJD,NJD,1,WSH,15,2,2,8475744,8475151.0,Evgeny Kuznetsov Hooking against Kyle Palmieri
-260,penalty,Slashing,Michal Kempny,Kyle Palmieri,[82.  0.],3,03:05,WSH,NJD,NJD,1,WSH,15,2,2,8479482,8475151.0,Michal Kempny Slashing against Kyle Palmieri
-24,penalty,Too many men on the ice,Tyler Bertuzzi,,[19. 40.],1,14:59,DET,NJD,DET,17,NJD,1,0,1,8477479,,Too many men/ice served by Tyler Bertuzzi
-93,penalty,Holding,Frans Nielsen,Nico Hischier,[ -4. -39.],2,15:34,DET,NJD,DET,17,NJD,1,0,1,8470144,8480002.0,Frans Nielsen Holding against Nico Hischier
-103,penalty,Delaying Game - Puck over glass,Dylan Larkin,,[-69.  39.],2,13:07,DET,NJD,DET,17,NJD,1,0,2,8477946,,Dylan Larkin Delaying Game - Puck over glass
-120,penalty,Cross checking,Miles Wood,Justin Abdelkader,[83. -1.],2,08:15,NJD,DET,DET,17,NJD,1,0,3,8477425,8471716.0,Miles Wood Cross checking against Justin Abdelkader
-133,penalty,Hooking,Pavel Zacha,Dylan Larkin,[35. 30.],2,05:24,NJD,DET,DET,17,NJD,1,0,3,8478401,8477946.0,Pavel Zacha Hooking against Dylan Larkin
-152,penalty,Hi-sticking,Alex Biega,Nico Hischier,[49. 40.],3,16:53,DET,NJD,DET,17,NJD,1,0,3,8473415,8480002.0,Alex Biega Hi-sticking against Nico Hischier
-171,penalty,Tripping,Jack Hughes,Robby Fabbri,[ 47. -33.],3,10:54,NJD,DET,DET,17,NJD,1,0,3,8481559,8477952.0,Jack Hughes Tripping against Robby Fabbri
-181,penalty,Hooking,Dylan Larkin,Damon Severson,[32. 37.],3,08:09,DET,NJD,DET,17,NJD,1,1,3,8477946,8476923.0,Dylan Larkin Hooking against Damon Severson
-206,penalty,Cross checking,John Hayden,Tyler Bertuzzi,[-92. -27.],3,00:44,NJD,DET,DET,17,NJD,1,1,4,8477401,8477479.0,John Hayden Cross checking against Tyler Bertuzzi
-207,penalty,Misconduct,Tyler Bertuzzi,,[-45. -16.],3,00:44,DET,NJD,DET,17,NJD,1,1,4,8477479,,Tyler Bertuzzi Misconduct
-208,penalty,Misconduct,P.K. Subban,,[-43.  -8.],3,00:44,NJD,DET,DET,17,NJD,1,1,4,8474056,,P.K. Subban Misconduct
-209,penalty,Game misconduct,John Hayden,Tyler Bertuzzi,[-96. -11.],3,00:44,NJD,DET,DET,17,NJD,1,1,4,8477401,8477479.0,John Hayden Game misconduct against Tyler Bertuzzi
-60,penalty,Holding,Miles Wood,Alexander True,[51. 39.],1,02:38,NJD,SJS,SJS,28,NJD,1,0,2,8477425,8480384.0,Miles Wood Holding against Alexander True
-62,penalty,Holding,Evander Kane,Joey Anderson,[-67.  -2.],1,02:30,SJS,NJD,SJS,28,NJD,1,0,2,8475169,8479315.0,Evander Kane Holding against Joey Anderson
-96,penalty,Tripping,Lean Bergmann,Damon Severson,[-98.   7.],2,16:14,SJS,NJD,SJS,28,NJD,1,1,2,8481640,8476923.0,Lean Bergmann Tripping against Damon Severson
-144,penalty,Roughing,Stefan Noesen,P.K. Subban,[-86.  -2.],2,08:10,SJS,NJD,SJS,28,NJD,1,1,2,8476474,8474056.0,Stefan Noesen Roughing against P.K. Subban
-145,penalty,Roughing,P.K. Subban,Stefan Noesen,[-86.  -2.],2,08:10,NJD,SJS,SJS,28,NJD,1,1,2,8474056,8476474.0,P.K. Subban Roughing against Stefan Noesen
-153,penalty,Hooking,Evander Kane,P.K. Subban,[62.  6.],2,05:09,SJS,NJD,SJS,28,NJD,1,1,2,8475169,8474056.0,Evander Kane Hooking against P.K. Subban
-180,penalty,Hooking,Pavel Zacha,Marcus Sorensen,[55. 38.],3,16:55,NJD,SJS,SJS,28,NJD,1,2,2,8478401,8475834.0,Pavel Zacha Hooking against Marcus Sorensen
-196,penalty,Interference,Dakota Mermis,Noah Gregor,[29. 19.],3,13:27,NJD,SJS,SJS,28,NJD,1,2,2,8477541,8479393.0,Dakota Mermis Interference against Noah Gregor
-227,penalty,Delaying Game - Puck over glass,Radim Simek,,[-55. -42.],3,05:54,SJS,NJD,SJS,28,NJD,1,2,2,8480160,,Radim Simek Delaying Game - Puck over glass
-113,penalty,Tripping,Kurtis MacDermid,Michael McLeod,[ 48. -31.],2,12:23,LAK,NJD,LAK,26,NJD,1,0,1,8477073,8479415.0,Kurtis MacDermid Tripping against Michael McLeod
-58,penalty,Tripping,Sonny Milano,Miles Wood,[-77.  30.],1,04:10,ANA,NJD,ANA,24,NJD,1,0,0,8477947,8477425.0,Sonny Milano Tripping against Miles Wood
-98,penalty,Holding,Carter Rowney,Nico Hischier,[75. -7.],2,16:49,ANA,NJD,ANA,24,NJD,1,0,1,8477240,8480002.0,Carter Rowney Holding against Nico Hischier
-184,penalty,Interference,John Gibson,Nicolas Deslauriers,[98. -1.],2,00:41,ANA,NJD,ANA,24,NJD,1,0,2,8476434,8475235.0,John Gibson Interference against Kevin Rooney served by Nicolas Deslauriers
-228,penalty,Hi-sticking,Josh Jacobs,Andrew Agozzino,[80. -3.],3,10:07,NJD,ANA,ANA,24,NJD,1,0,2,8477972,8475461.0,Josh Jacobs Hi-sticking against Andrew Agozzino
-236,penalty,Slashing,Kevin Rooney,Max Jones,[63. 10.],3,08:08,NJD,ANA,ANA,24,NJD,1,0,2,8479291,8479368.0,Kevin Rooney Slashing against Max Jones
-61,penalty,Tripping,Connor Carrick,Nick Cousins,[-81.  -4.],1,05:53,NJD,VGK,VGK,54,NJD,1,0,0,8476941,8476393.0,Connor Carrick Tripping against Nick Cousins
-114,penalty,Hooking,Max Pacioretty,Mirco Mueller,[83. -9.],2,12:04,VGK,NJD,VGK,54,NJD,1,1,0,8474157,8477509.0,Max Pacioretty Hooking against Mirco Mueller
-144,penalty,Holding,Max Pacioretty,Travis Zajac,[  8. -33.],2,06:12,VGK,NJD,VGK,54,NJD,1,1,0,8474157,8471233.0,Max Pacioretty Holding against Travis Zajac
-231,penalty,Slashing,Brandon Pirri,Jack Hughes,[67. 24.],3,06:06,VGK,NJD,VGK,54,NJD,1,3,0,8475204,8481559.0,Brandon Pirri Slashing against Jack Hughes
-9,penalty,Tripping,Kevin Rooney,Vince Dunn,[-36. -18.],1,17:23,NJD,STL,NJD,1,STL,19,0,0,8479291,8478407.0,Kevin Rooney Tripping against Vince Dunn
-13,penalty,Tripping,Zach Sanford,Nico Hischier,[-14.  28.],1,16:17,STL,NJD,NJD,1,STL,19,0,0,8477482,8480002.0,Zach Sanford Tripping against Nico Hischier
-45,penalty,Hooking,Damon Severson,Zach Sanford,[-84.   7.],1,09:23,NJD,STL,NJD,1,STL,19,1,0,8476923,8477482.0,Damon Severson Hooking against Zach Sanford
-132,penalty,Hi-sticking,Colton Parayko,Jack Hughes,[-16. -39.],2,11:17,STL,NJD,NJD,1,STL,19,2,1,8476892,8481559.0,Colton Parayko Hi-sticking against Jack Hughes
-147,penalty,Hi-sticking,Miles Wood,Alex Pietrangelo,[-77. -22.],2,07:51,NJD,STL,NJD,1,STL,19,2,1,8477425,8474565.0,Miles Wood Hi-sticking against Alex Pietrangelo
-228,penalty,Tripping,P.K. Subban,David Perron,[-94.  -9.],3,08:36,NJD,STL,NJD,1,STL,19,3,1,8474056,8474102.0,P.K. Subban Tripping against David Perron
-68,penalty,Delaying Game - Puck over glass,Nico Hischier,,[-95.  21.],1,08:46,NJD,NYR,NYR,3,NJD,1,2,1,8480002,,Nico Hischier Delaying Game - Puck over glass
-82,penalty,Cross checking,Damon Severson,Artemi Panarin,[-82. -37.],1,04:29,NJD,NYR,NYR,3,NJD,1,2,1,8476923,8478550.0,Damon Severson Cross checking against Artemi Panarin
-128,penalty,Tripping,Michael McLeod,Mika Zibanejad,[-57. -25.],2,16:31,NJD,NYR,NYR,3,NJD,1,2,3,8479415,8476459.0,Michael McLeod Tripping against Mika Zibanejad
-180,penalty,Tripping,Adam Fox,Nico Hischier,[24. 33.],2,05:14,NYR,NJD,NYR,3,NJD,1,2,3,8479323,8480002.0,Adam Fox Tripping against Nico Hischier
-48,penalty,Delaying Game - Puck over glass,Jack Johnson,,[ 58. -40.],1,08:56,PIT,NJD,NJD,1,PIT,5,0,1,8471677,,Jack Johnson Delaying Game - Puck over glass
-69,penalty,Tripping,John Hayden,Jared McCann,[-82. -18.],1,04:49,NJD,PIT,NJD,1,PIT,5,1,1,8477401,8477955.0,John Hayden Tripping against Jared McCann
-125,penalty,Tripping,Jack Hughes,Evgeni Malkin,[ 71. -16.],2,12:43,NJD,PIT,NJD,1,PIT,5,1,2,8481559,8471215.0,Jack Hughes Tripping against Evgeni Malkin
-145,penalty,Too many men on the ice,Jesper Bratt,,[-12.  42.],2,07:18,NJD,PIT,NJD,1,PIT,5,1,2,8479407,,Too many men/ice served by Jesper Bratt
-181,penalty,Hi-sticking,Sidney Crosby,Nico Hischier,[-98.  14.],3,16:24,PIT,NJD,NJD,1,PIT,5,1,2,8471675,8480002.0,Sidney Crosby Hi-sticking against Nico Hischier
-183,penalty,Slashing,Kris Letang,Miles Wood,[19. 40.],3,16:06,PIT,NJD,NJD,1,PIT,5,1,2,8471724,8477425.0,Kris Letang Slashing against Miles Wood
-223,penalty,Cross checking,Damon Severson,Evan Rodrigues,[-96. -22.],3,06:31,NJD,PIT,NJD,1,PIT,5,2,4,8476923,8478542.0,Damon Severson Cross checking against Evan Rodrigues
-4,penalty,Slashing,Travis Zajac,Nikolaj Ehlers,[-51. -12.],1,18:43,NJD,WPG,NJD,1,WPG,52,0,0,8471233,8477940.0,Travis Zajac Slashing against Nikolaj Ehlers
-20,penalty,Too many men on the ice,Mathieu Perreault,,[ -2. -24.],1,12:34,WPG,NJD,NJD,1,WPG,52,0,0,8473618,,Too many men/ice served by Mathieu Perreault
-43,penalty,Cross checking,Miles Wood,Tucker Poolman,[-7. 40.],1,05:24,NJD,WPG,NJD,1,WPG,52,0,0,8477425,8477359.0,Miles Wood Cross checking against Tucker Poolman
-128,penalty,Tripping,Andrew Copp,Miles Wood,[-35. -14.],2,03:01,WPG,NJD,NJD,1,WPG,52,4,0,8477429,8477425.0,Andrew Copp Tripping against Miles Wood
-11,penalty,Holding,Will Butcher,Jack Eichel,[ 76. -40.],1,18:25,NJD,BUF,BUF,7,NJD,1,0,0,8477355,8478403.0,Will Butcher Holding against Jack Eichel
-66,penalty,Holding,Blake Coleman,Colin Miller,[-93. -37.],1,02:56,NJD,BUF,BUF,7,NJD,1,1,0,8476399,8476525.0,Blake Coleman Holding against Colin Miller
-91,penalty,Boarding,Colin Miller,Kyle Palmieri,[ 67. -38.],2,15:08,BUF,NJD,BUF,7,NJD,1,3,1,8476525,8475151.0,Colin Miller Boarding against Kyle Palmieri
-114,penalty,Tripping,Blake Coleman,Jeff Skinner,[ 19. -30.],2,07:46,NJD,BUF,BUF,7,NJD,1,4,1,8476399,8475784.0,Blake Coleman Tripping against Jeff Skinner
-125,penalty,Roughing,Wayne Simmonds,Jack Hughes,[-3. 39.],2,05:34,NJD,BUF,BUF,7,NJD,1,5,1,8474190,8481559.0,Wayne Simmonds Roughing against Jake McCabe served by Jack Hughes
-126,penalty,Roughing,Wayne Simmonds,Jake McCabe,[-4. 40.],2,05:34,NJD,BUF,BUF,7,NJD,1,5,1,8474190,8476931.0,Wayne Simmonds Roughing against Jake McCabe
-127,penalty,Misconduct,P.K. Subban,Kyle Okposo,[-3. 40.],2,05:34,NJD,BUF,BUF,7,NJD,1,5,1,8474056,8473449.0,P.K. Subban Misconduct against Kyle Okposo
-128,penalty,Misconduct,Kyle Okposo,P.K. Subban,[-3. 40.],2,05:34,BUF,NJD,BUF,7,NJD,1,5,1,8473449,8474056.0,Kyle Okposo Misconduct against P.K. Subban
-129,penalty,Roughing,Jake McCabe,Wayne Simmonds,[-39.   2.],2,05:34,BUF,NJD,BUF,7,NJD,1,5,1,8476931,8474190.0,Jake McCabe Roughing against Wayne Simmonds
-184,penalty,Tripping,Conor Sheary,Will Butcher,[ 85. -37.],3,07:07,BUF,NJD,BUF,7,NJD,1,6,2,8477839,8477355.0,Conor Sheary Tripping against Will Butcher
-41,penalty,Roughing,Miles Wood,Tyler Pitlick,[-93.  32.],1,10:31,NJD,PHI,PHI,4,NJD,1,0,0,8477425,8475752.0,Miles Wood Roughing against Tyler Pitlick
-119,penalty,Slashing,Nikita Gusev,Oskar Lindblom,[63. -3.],2,12:01,NJD,PHI,PHI,4,NJD,1,0,0,8477038,8478067.0,Nikita Gusev Slashing against Oskar Lindblom
-139,penalty,Tripping,Kevin Hayes,P.K. Subban,[43. 35.],2,08:15,PHI,NJD,PHI,4,NJD,1,1,0,8475763,8474056.0,Kevin Hayes Tripping against P.K. Subban
-144,penalty,Tripping,Michael Raffl,Jack Hughes,[-30.  22.],2,06:27,PHI,NJD,PHI,4,NJD,1,1,0,8477290,8481559.0,Michael Raffl Tripping against Jack Hughes
-163,penalty,Delaying Game - Puck over glass,Sean Couturier,,[-69. -37.],2,02:31,PHI,NJD,PHI,4,NJD,1,1,0,8476461,,Sean Couturier Delaying Game - Puck over glass
-164,penalty,Delay Gm - Face-off Violation,Kevin Hayes,,[-73.  22.],2,02:31,PHI,NJD,PHI,4,NJD,1,1,0,8475763,,Kevin Hayes Delay Gm - Face-off Violation
-178,penalty,Tripping,Sami Vatanen,Claude Giroux,[-30. -24.],3,19:40,NJD,PHI,PHI,4,NJD,1,1,0,8475222,8473512.0,Sami Vatanen Tripping against Claude Giroux
-209,penalty,Hooking,Blake Coleman,Connor Bunnaman,[ 29. -35.],3,14:51,NJD,PHI,PHI,4,NJD,1,3,0,8476399,8479382.0,Blake Coleman Hooking against Connor Bunnaman
-248,penalty,Slashing,Shayne Gostisbehere,Miles Wood,[ 32. -40.],3,03:25,PHI,NJD,PHI,4,NJD,1,4,0,8476906,8477425.0,Shayne Gostisbehere Slashing against Miles Wood
-2,penalty,Tripping,Darnell Nurse,Kyle Palmieri,[95. 10.],1,19:36,EDM,NJD,NJD,1,EDM,22,0,0,8477498,8475151.0,Darnell Nurse Tripping against Kyle Palmieri
-94,penalty,Interference,Pavel Zacha,Patrick Russell,[  2. -30.],2,13:01,NJD,EDM,NJD,1,EDM,22,1,1,8478401,8479466.0,Pavel Zacha Interference against Patrick Russell
-133,penalty,Hooking,Tomas Jurco,Sami Vatanen,[-59.  16.],2,04:25,EDM,NJD,NJD,1,EDM,22,2,1,8476430,8475222.0,Tomas Jurco Hooking against Sami Vatanen
-145,penalty,Hooking,Miles Wood,Leon Draisaitl,[78.  4.],2,01:39,NJD,EDM,NJD,1,EDM,22,2,1,8477425,8477934.0,Miles Wood Hooking against Leon Draisaitl
-224,penalty,Tripping,Blake Coleman,Connor McDavid,[-35.   1.],3,01:16,NJD,EDM,NJD,1,EDM,22,3,2,8476399,8478402.0,Blake Coleman Tripping against Connor McDavid
-68,penalty,Hooking,Sean Kuraly,Travis Zajac,[-66. -19.],1,04:36,BOS,NJD,BOS,6,NJD,1,2,0,8476374,8471233.0,Sean Kuraly Hooking against Travis Zajac
-81,penalty,Interference,Mirco Mueller,Charlie Coyle,[ 69. -22.],1,00:17,NJD,BOS,BOS,6,NJD,1,2,0,8477509,8475745.0,Mirco Mueller Interference against Charlie Coyle
-109,penalty,Tripping,Connor Carrick,Karson Kuhlman,[-64.  13.],2,13:48,NJD,BOS,BOS,6,NJD,1,2,0,8476941,8480901.0,Connor Carrick Tripping against Karson Kuhlman
-123,penalty,Hooking,Brandon Carlo,Jack Hughes,[66.  9.],2,10:41,BOS,NJD,BOS,6,NJD,1,2,0,8478443,8481559.0,Brandon Carlo Hooking against Jack Hughes
-144,penalty,Face-off violation,David Pastrnak,,[65. 23.],2,06:08,BOS,NJD,BOS,6,NJD,1,2,0,8477956,,Delay Game - Bench – FO viol served by David Pastrnak
-163,penalty,Tripping,Kyle Palmieri,Charlie McAvoy,[43. 21.],2,01:01,NJD,BOS,BOS,6,NJD,1,2,0,8475151,8479325.0,Kyle Palmieri Tripping against Charlie McAvoy
-207,penalty,Holding,Zdeno Chara,Nico Hischier,[-53.  35.],3,08:45,BOS,NJD,BOS,6,NJD,1,3,0,8465009,8480002.0,Zdeno Chara Holding against Nico Hischier
-91,penalty,Tripping,Dryden Hunt,P.K. Subban,[95. -9.],2,17:34,FLA,NJD,NJD,1,FLA,13,4,1,8478211,8474056.0,Dryden Hunt Tripping against P.K. Subban
-99,penalty,Too many men on the ice,Denis Malgin,,[13. 41.],2,14:37,FLA,NJD,NJD,1,FLA,13,4,1,8478843,,Too many men/ice served by Denis Malgin
-101,penalty,Hooking,P.K. Subban,Noel Acciari,[52. 13.],2,14:18,NJD,FLA,NJD,1,FLA,13,4,1,8474056,8478569.0,P.K. Subban Hooking against Noel Acciari
-106,penalty,Hooking,Sami Vatanen,Aleksander Barkov,[79. 24.],2,12:17,NJD,FLA,NJD,1,FLA,13,4,1,8475222,8477493.0,Sami Vatanen Hooking against Aleksander Barkov
-116,penalty,Holding,Dryden Hunt,Jack Hughes,[96. 17.],2,09:41,FLA,NJD,NJD,1,FLA,13,4,2,8478211,8481559.0,Dryden Hunt Holding against Jack Hughes
-191,penalty,Holding,P.K. Subban,Frank Vatrano,[-81.  13.],3,11:03,NJD,FLA,NJD,1,FLA,13,4,5,8474056,8478366.0,P.K. Subban Holding against Frank Vatrano
-202,penalty,Hi stick - double minor,Jesper Boqvist,MacKenzie Weegar,[ 76. -33.],3,07:22,NJD,FLA,NJD,1,FLA,13,4,5,8480003,8477346.0,Jesper Boqvist Hi stick - double minor against MacKenzie Weegar
-11,penalty,Interference,Marc Staal,Miles Wood,[ 90. -16.],1,17:05,NYR,NJD,NJD,1,NYR,3,0,0,8471686,8477425.0,Marc Staal Interference against Miles Wood
-12,penalty,Roughing,Miles Wood,Micheal Haley,[ 88. -13.],1,17:05,NJD,NYR,NJD,1,NYR,3,0,0,8477425,8474230.0,Miles Wood Roughing against Micheal Haley
-13,penalty,Roughing,Micheal Haley,Miles Wood,[ 88. -16.],1,17:05,NYR,NJD,NJD,1,NYR,3,0,0,8474230,8477425.0,Micheal Haley Roughing against Miles Wood
-59,penalty,Hooking,Kyle Palmieri,Artemi Panarin,[ 42. -26.],1,05:34,NJD,NYR,NJD,1,NYR,3,1,1,8475151,8478550.0,Kyle Palmieri Hooking against Artemi Panarin
-66,penalty,Tripping,Ryan Strome,Damon Severson,[-94. -28.],1,02:48,NYR,NJD,NJD,1,NYR,3,1,1,8476458,8476923.0,Ryan Strome Tripping against Damon Severson
-72,penalty,Interference,Taylor Hall,Brendan Smith,[65. 26.],1,02:12,NJD,NYR,NJD,1,NYR,3,1,1,8475791,8474090.0,Taylor Hall Interference against Brendan Smith
-93,penalty,Interference,Brady Skjei,John Hayden,[-72.  39.],2,17:47,NYR,NJD,NJD,1,NYR,3,1,1,8476869,8477401.0,Brady Skjei Interference against John Hayden
-101,penalty,Holding,Artemi Panarin,P.K. Subban,[97.  1.],2,16:53,NYR,NJD,NJD,1,NYR,3,2,1,8478550,8474056.0,Artemi Panarin Holding against P.K. Subban
-119,penalty,Elbowing,Taylor Hall,Jesper Bratt,[-99.  13.],2,13:11,NJD,NYR,NJD,1,NYR,3,2,1,8475791,8479407.0,Taylor Hall Elbowing against Adam Fox served by Jesper Bratt
-120,penalty,Roughing,Brady Skjei,Taylor Hall,[-99.  12.],2,13:11,NYR,NJD,NJD,1,NYR,3,2,1,8476869,8475791.0,Brady Skjei Roughing against Taylor Hall
-121,penalty,Roughing,Taylor Hall,Brady Skjei,[-99.  13.],2,13:11,NJD,NYR,NJD,1,NYR,3,2,1,8475791,8476869.0,Taylor Hall Roughing against Brady Skjei
-151,penalty,Tripping,Jesper Bratt,Kaapo Kakko,[-39.  28.],2,05:29,NJD,NYR,NJD,1,NYR,3,3,1,8479407,8481554.0,Jesper Bratt Tripping against Kaapo Kakko
-185,penalty,Cross checking,Tony DeAngelo,Wayne Simmonds,[75. 11.],3,16:03,NYR,NJD,NJD,1,NYR,3,3,2,8477950,8474190.0,Tony DeAngelo Cross checking against Wayne Simmonds
-196,penalty,Missing key [PD_151],Taylor Hall,,[-11.  42.],3,12:52,NJD,NYR,NJD,1,NYR,3,3,2,8475791,,Delaying Game - Unsucc. chlg served by Taylor Hall
-207,penalty,Boarding,Jesper Fast,Matt Tennyson,[ 14. -34.],3,09:46,NYR,NJD,NJD,1,NYR,3,3,2,8475855,8476807.0,Jesper Fast Boarding against Matt Tennyson
-231,penalty,Hooking,Wayne Simmonds,Chris Kreider,[-56. -20.],3,03:40,NJD,NYR,NJD,1,NYR,3,4,2,8474190,8475184.0,Wayne Simmonds Hooking against Chris Kreider
-242,penalty,Slashing,Tony DeAngelo,Miles Wood,[60.  3.],3,00:08,NYR,NJD,NJD,1,NYR,3,5,2,8477950,8477425.0,Tony DeAngelo Slashing against Miles Wood
-5,penalty,Interference,Damon Severson,Bo Horvat,[-93.  20.],1,18:58,NJD,VAN,NJD,1,VAN,23,0,0,8476923,8477500.0,Damon Severson Interference against Bo Horvat
-53,penalty,Holding,Tyler Myers,John Hayden,[95. 25.],1,06:59,VAN,NJD,NJD,1,VAN,23,0,0,8474574,8477401.0,Tyler Myers Holding against John Hayden
-86,penalty,Too many men on the ice,Jesper Bratt,,[-20.  41.],1,00:39,NJD,VAN,NJD,1,VAN,23,1,0,8479407,,Too many men/ice served by Jesper Bratt
-100,penalty,Tripping,Tim Schaller,P.K. Subban,[ 34. -20.],2,17:18,VAN,NJD,NJD,1,VAN,23,1,0,8477213,8474056.0,Tim Schaller Tripping against P.K. Subban
-111,penalty,Tripping,Travis Zajac,Elias Pettersson,[ 49. -40.],2,13:56,NJD,VAN,NJD,1,VAN,23,1,0,8471233,8480012.0,Travis Zajac Tripping against Elias Pettersson
-136,penalty,Interference,Alexander Edler,Taylor Hall,[-86. -22.],2,09:14,VAN,NJD,NJD,1,VAN,23,1,0,8471303,8475791.0,Alexander Edler Interference against Taylor Hall
-148,penalty,Hi-sticking,Kevin Rooney,Alexander Edler,[-98.   5.],2,06:13,NJD,VAN,NJD,1,VAN,23,1,0,8479291,8471303.0,Kevin Rooney Hi-sticking against Alexander Edler
-150,penalty,Fighting,Mirco Mueller,Brandon Sutter,[-79.  -1.],2,05:35,NJD,VAN,NJD,1,VAN,23,1,0,8477509,8474091.0,Mirco Mueller Fighting against Brandon Sutter
-151,penalty,Fighting,Brandon Sutter,Mirco Mueller,[-77.   1.],2,05:35,VAN,NJD,NJD,1,VAN,23,1,0,8474091,8477509.0,Brandon Sutter Fighting against Mirco Mueller
-152,penalty,Roughing,Mirco Mueller,Alexander Edler,[-70.   0.],2,05:35,NJD,VAN,NJD,1,VAN,23,1,0,8477509,8471303.0,Mirco Mueller Roughing against Alexander Edler
-153,penalty,Illegal check to head,Alexander Edler,Blake Coleman,[-91. -20.],2,05:35,VAN,NJD,NJD,1,VAN,23,1,0,8471303,8476399.0,Alexander Edler Illegal check to head against Blake Coleman
-163,penalty,Hi-sticking,John Hayden,Quinn Hughes,[-96. -15.],2,03:34,NJD,VAN,NJD,1,VAN,23,1,0,8477401,8480800.0,John Hayden Hi-sticking against Quinn Hughes
-175,penalty,Interference,Tyler Myers,Kevin Rooney,[-11.  29.],2,00:08,VAN,NJD,NJD,1,VAN,23,1,0,8474574,8479291.0,Tyler Myers Interference against Kevin Rooney
-176,penalty,Holding,Kevin Rooney,Tyler Myers,[-13.  30.],2,00:08,NJD,VAN,NJD,1,VAN,23,1,0,8479291,8474574.0,Kevin Rooney Holding against Tyler Myers
-201,penalty,Holding the stick,P.K. Subban,J.T. Miller,[ 40. -26.],3,10:01,NJD,VAN,NJD,1,VAN,23,1,0,8474056,8476468.0,P.K. Subban Holding the stick against J.T. Miller
-210,penalty,Holding,Quinn Hughes,Blake Coleman,[79.  6.],3,07:29,VAN,NJD,NJD,1,VAN,23,1,0,8480800,8476399.0,Quinn Hughes Holding against Blake Coleman
-233,penalty,Cross checking,Travis Zajac,Elias Pettersson,[-86. -34.],3,00:00,NJD,VAN,NJD,1,VAN,23,1,0,8471233,8480012.0,Travis Zajac Cross checking against Elias Pettersson
-54,penalty,Interference,Sami Vatanen,Clayton Keller,[-77.  -2.],1,06:06,NJD,ARI,NJD,1,ARI,53,0,0,8475222,8479343.0,Sami Vatanen Interference against Clayton Keller
-57,penalty,Hi-sticking,Derek Stepan,Andy Greene,[-87.  27.],1,05:37,ARI,NJD,NJD,1,ARI,53,0,0,8474613,8472382.0,Derek Stepan Hi-sticking against Andy Greene
-69,penalty,Hooking,Oliver Ekman-Larsson,Nico Hischier,[ 23. -32.],1,02:40,ARI,NJD,NJD,1,ARI,53,1,0,8475171,8480002.0,Oliver Ekman-Larsson Hooking against Nico Hischier
-86,penalty,Tripping,Carl Soderberg,Blake Coleman,[ 84. -35.],2,19:30,ARI,NJD,NJD,1,ARI,53,2,1,8471262,8476399.0,Carl Soderberg Tripping against Blake Coleman
-99,penalty,Interference,Mirco Mueller,Nick Schmaltz,[ -9. -39.],2,16:37,NJD,ARI,NJD,1,ARI,53,2,2,8477509,8477951.0,Mirco Mueller Interference against Nick Schmaltz
-107,penalty,Tripping,Ilya Lyubushkin,Kevin Rooney,[-98.  18.],2,13:06,ARI,NJD,NJD,1,ARI,53,2,2,8480950,8479291.0,Ilya Lyubushkin Tripping against Kevin Rooney
-110,penalty,Boarding,Taylor Hall,Oliver Ekman-Larsson,[-98.   6.],2,13:01,NJD,ARI,NJD,1,ARI,53,2,2,8475791,8475171.0,Taylor Hall Boarding against Oliver Ekman-Larsson
-188,penalty,Hooking,Vinnie Hinostroza,Travis Zajac,[51.  3.],3,08:46,ARI,NJD,NJD,1,ARI,53,3,4,8476994,8471233.0,Vinnie Hinostroza Hooking against Travis Zajac
-3,penalty,Delaying Game - Puck over glass,Kevin Shattenkirk,,[ 18. -38.],1,19:27,TBL,NJD,NJD,1,TBL,14,0,0,8474031,,Kevin Shattenkirk Delaying Game - Puck over glass
-26,penalty,Boarding,Jan Rutta,John Hayden,[98.  1.],1,13:44,TBL,NJD,NJD,1,TBL,14,1,0,8480172,8477401.0,Jan Rutta Boarding against John Hayden
-66,penalty,Holding,Nico Hischier,Nikita Kucherov,[59. 27.],1,04:32,NJD,TBL,NJD,1,TBL,14,1,1,8480002,8476453.0,Nico Hischier Holding against Nikita Kucherov
-72,penalty,Tripping,Ryan McDonagh,Jack Hughes,[ 92. -28.],1,01:48,TBL,NJD,NJD,1,TBL,14,1,2,8474151,8481559.0,Ryan McDonagh Tripping against Jack Hughes
-93,penalty,Boarding,Mathieu Joseph,Matt Tennyson,[49. 40.],2,15:55,TBL,NJD,NJD,1,TBL,14,1,2,8478472,8476807.0,Mathieu Joseph Boarding against Matt Tennyson
-129,penalty,Interference,Mikhail Sergachev,Blake Coleman,[-32.  24.],2,06:23,TBL,NJD,NJD,1,TBL,14,4,3,8479410,8476399.0,Mikhail Sergachev Interference against Blake Coleman
-26,penalty,Tripping,Justin Braun,Miles Wood,[ 79. -10.],1,14:44,PHI,NJD,NJD,1,PHI,4,0,0,8474027,8477425.0,Justin Braun Tripping against Miles Wood
-56,penalty,Fighting,Kyle Palmieri,Matt Niskanen,[ 55. -15.],1,08:01,NJD,PHI,NJD,1,PHI,4,1,1,8475151,8471702.0,Kyle Palmieri Fighting against Matt Niskanen
-57,penalty,Fighting,Matt Niskanen,Kyle Palmieri,[ 56. -16.],1,08:01,PHI,NJD,NJD,1,PHI,4,1,1,8471702,8475151.0,Matt Niskanen Fighting against Kyle Palmieri
-58,penalty,Misconduct,Kyle Palmieri,,[ 55. -16.],1,08:01,NJD,PHI,NJD,1,PHI,4,1,1,8475151,,Kyle Palmieri Misconduct
-59,penalty,Instigator,Kyle Palmieri,Jesper Bratt,[ 56. -13.],1,08:01,NJD,PHI,NJD,1,PHI,4,1,1,8475151,8479407.0,Kyle Palmieri Instigator against Matt Niskanen served by Jesper Bratt
-105,penalty,Interference,Shayne Gostisbehere,Jesper Bratt,[24.  0.],2,15:09,PHI,NJD,NJD,1,PHI,4,1,1,8476906,8479407.0,Shayne Gostisbehere Interference against Jesper Bratt
-122,penalty,Holding,Andy Greene,Claude Giroux,[96. -9.],2,10:21,NJD,PHI,NJD,1,PHI,4,1,2,8472382,8473512.0,Andy Greene Holding against Claude Giroux
-139,penalty,Tripping,Claude Giroux,Jesper Bratt,[-41.  40.],2,06:34,PHI,NJD,NJD,1,PHI,4,1,2,8473512,8479407.0,Claude Giroux Tripping against Jesper Bratt
-149,penalty,Cross checking,Matt Tennyson,James van Riemsdyk,[81. -3.],2,04:14,NJD,PHI,NJD,1,PHI,4,2,2,8476807,8474037.0,Matt Tennyson Cross checking against James van Riemsdyk
-218,penalty,Delaying Game - Puck over glass,Travis Konecny,,[ 55. -38.],3,06:37,PHI,NJD,NJD,1,PHI,4,3,3,8478439,,Travis Konecny Delaying Game - Puck over glass
-58,penalty,Hooking,Andrei Svechnikov,Pavel Zacha,[-57. -39.],1,06:44,CAR,NJD,CAR,12,NJD,1,1,1,8480830,8478401.0,Andrei Svechnikov Hooking against Pavel Zacha
-67,penalty,Delaying Game - Puck over glass,Matt Tennyson,,[-86. -34.],1,04:10,NJD,CAR,CAR,12,NJD,1,1,1,8476807,,Matt Tennyson Delaying Game - Puck over glass
-71,penalty,Hooking,Blake Coleman,Andrei Svechnikov,[-97.   1.],1,03:24,NJD,CAR,CAR,12,NJD,1,2,1,8476399,8480830.0,Blake Coleman Hooking against Andrei Svechnikov
-78,penalty,Tripping,Dougie Hamilton,Nico Hischier,[-7. 39.],1,01:32,CAR,NJD,CAR,12,NJD,1,2,1,8476462,8480002.0,Dougie Hamilton Tripping against Nico Hischier
-115,penalty,Hooking,Travis Zajac,Jake Gardiner,[35. 39.],2,14:37,NJD,CAR,CAR,12,NJD,1,2,3,8471233,8474581.0,Travis Zajac Hooking against Jake Gardiner
-174,penalty,Roughing,Kevin Rooney,Andrei Svechnikov,[ 7. 40.],2,00:00,NJD,CAR,CAR,12,NJD,1,3,3,8479291,8480830.0,Kevin Rooney Roughing against Andrei Svechnikov
-175,penalty,Roughing,Andrei Svechnikov,Kevin Rooney,[ 3. 41.],2,00:00,CAR,NJD,CAR,12,NJD,1,3,3,8480830,8479291.0,Andrei Svechnikov Roughing against Kevin Rooney
-177,penalty,Tripping,Dougie Hamilton,Taylor Hall,[-4. 16.],3,19:56,CAR,NJD,CAR,12,NJD,1,3,3,8476462,8475791.0,Dougie Hamilton Tripping against Taylor Hall
-179,penalty,Interference,Kyle Palmieri,Jaccob Slavin,[ 87. -24.],3,19:43,NJD,CAR,CAR,12,NJD,1,3,3,8475151,8476958.0,Kyle Palmieri Interference against Jaccob Slavin
-207,penalty,Roughing,Ryan Dzingel,Pavel Zacha,[ 0. 39.],3,11:56,CAR,NJD,CAR,12,NJD,1,3,4,8476288,8478401.0,Ryan Dzingel Roughing against Pavel Zacha
-208,penalty,Roughing,Pavel Zacha,Ryan Dzingel,[-7. 22.],3,11:56,NJD,CAR,CAR,12,NJD,1,3,4,8478401,8476288.0,Pavel Zacha Roughing against Ryan Dzingel
-217,penalty,Hooking,Warren Foegele,Taylor Hall,[ 28. -16.],3,09:57,CAR,NJD,CAR,12,NJD,1,3,4,8477998,8475791.0,Warren Foegele Hooking against Taylor Hall
-35,penalty,Holding,Jack Roslovic,Andy Greene,[88. -5.],1,11:46,WPG,NJD,WPG,52,NJD,1,0,1,8478458,8472382.0,Jack Roslovic Holding against Andy Greene
-62,penalty,Interference,Nathan Beaulieu,Taylor Hall,[ 75. -39.],1,05:19,WPG,NJD,WPG,52,NJD,1,0,1,8476470,8475791.0,Nathan Beaulieu Interference against Taylor Hall
-112,penalty,Roughing,Miles Wood,Dmitry Kulikov,[-73.  19.],2,13:56,NJD,WPG,WPG,52,NJD,1,0,1,8477425,8475179.0,Miles Wood Roughing against Dmitry Kulikov
-240,penalty,Tripping,Blake Wheeler,Jesper Boqvist,[ 0. -8.],4,00:38,WPG,NJD,WPG,52,NJD,1,1,1,8471218,8480003.0,Blake Wheeler Tripping against Jesper Boqvist
-47,penalty,Tripping,Nikita Gusev,Tobias Rieder,[66. 34.],1,07:14,NJD,CGY,CGY,20,NJD,1,0,0,8477038,8476356.0,Nikita Gusev Tripping against Tobias Rieder
-66,penalty,Slashing,Mark Jankowski,Jack Hughes,[-28.  -2.],1,03:22,CGY,NJD,CGY,20,NJD,1,0,1,8476873,8481559.0,Mark Jankowski Slashing against Jack Hughes
-75,penalty,Slashing,Wayne Simmonds,Andrew Mangiapane,[-10.   8.],1,00:16,NJD,CGY,CGY,20,NJD,1,0,1,8474190,8478233.0,Wayne Simmonds Slashing against Andrew Mangiapane
-113,penalty,Hooking,Nikita Gusev,Sean Monahan,[-14.   7.],2,11:34,NJD,CGY,CGY,20,NJD,1,1,2,8477038,8477497.0,Nikita Gusev Hooking against Sean Monahan
-114,penalty,Tripping,Mikael Backlund,Blake Coleman,[65. 38.],2,11:15,CGY,NJD,CGY,20,NJD,1,1,2,8474150,8476399.0,Mikael Backlund Tripping against Blake Coleman
-131,penalty,Hi-sticking,Taylor Hall,Mark Giordano,[-86. -37.],2,06:50,NJD,CGY,CGY,20,NJD,1,2,2,8475791,8470966.0,Taylor Hall Hi-sticking against Mark Giordano
-154,penalty,Interference,Blake Coleman,Andrew Mangiapane,[-63.   8.],2,01:48,NJD,CGY,CGY,20,NJD,1,3,2,8476399,8478233.0,Blake Coleman Interference against Andrew Mangiapane
-200,penalty,Hi-sticking,Jack Hughes,Matthew Tkachuk,[-94.   0.],3,12:52,NJD,CGY,CGY,20,NJD,1,4,2,8481559,8479314.0,Jack Hughes Hi-sticking against Matthew Tkachuk
-221,penalty,Cross checking,Mikael Backlund,Nikita Gusev,[ 25. -40.],3,09:11,CGY,NJD,CGY,20,NJD,1,5,2,8474150,8477038.0,Mikael Backlund Cross checking against Nikita Gusev
-53,penalty,Hooking,Jack Hughes,Riley Sheahan,[81.  0.],1,07:35,NJD,EDM,EDM,22,NJD,1,0,0,8481559,8475772.0,Jack Hughes Hooking against Riley Sheahan
-81,penalty,Slashing,Darnell Nurse,Miles Wood,[67. -1.],1,01:40,EDM,NJD,EDM,22,NJD,1,0,0,8477498,8477425.0,Darnell Nurse Slashing against Miles Wood
-136,penalty,Closing hand on puck,Oscar Klefbom,,[ 71. -11.],2,09:40,EDM,NJD,EDM,22,NJD,1,1,0,8476472,,Oscar Klefbom Closing hand on puck
-144,penalty,Slashing,P.K. Subban,Connor McDavid,[-96.  -1.],2,06:47,NJD,EDM,EDM,22,NJD,1,1,0,8474056,8478402.0,P.K. Subban Slashing against Connor McDavid
-185,penalty,Too many men on the ice,Gaetan Haas,,[12. 41.],3,17:20,EDM,NJD,EDM,22,NJD,1,3,0,8481813,,Too many men/ice served by Gaetan Haas
-199,penalty,Cross checking,Blake Coleman,Ethan Bear,[-87.   0.],3,14:39,NJD,EDM,EDM,22,NJD,1,3,0,8476399,8478451.0,Blake Coleman Cross checking against Ethan Bear
-216,penalty,Tripping,Alex Chiasson,Damon Severson,[-74.   1.],3,11:22,EDM,NJD,EDM,22,NJD,1,4,0,8475163,8476923.0,Alex Chiasson Tripping against Damon Severson
-40,penalty,Slashing,Christopher Tanev,Damon Severson,[64. 23.],1,11:35,VAN,NJD,VAN,23,NJD,1,0,0,8475690,8476923.0,Christopher Tanev Slashing against Damon Severson
-48,penalty,Cross checking,Jordie Benn,Miles Wood,[ 51. -41.],1,09:10,VAN,NJD,VAN,23,NJD,1,0,0,8474818,8477425.0,Jordie Benn Cross checking against Miles Wood
-60,penalty,Tripping,P.K. Subban,Elias Pettersson,[-98.  10.],1,07:12,NJD,VAN,VAN,23,NJD,1,0,2,8474056,8480012.0,P.K. Subban Tripping against Elias Pettersson
-136,penalty,Holding,Matt Tennyson,Brandon Sutter,[ 61. -29.],2,07:44,NJD,VAN,VAN,23,NJD,1,0,2,8476807,8474091.0,Matt Tennyson Holding against Brandon Sutter
-200,penalty,Embellishment,Taylor Hall,,[ 87. -35.],3,12:16,NJD,VAN,VAN,23,NJD,1,1,2,8475791,,Taylor Hall Embellishment
-6,penalty,Tripping,J.C. Beaudin,Nikita Gusev,[ -5. -25.],1,18:16,OTT,NJD,NJD,1,OTT,9,0,0,8478833,8477038.0,J.C. Beaudin Tripping against Nikita Gusev
-26,penalty,Tripping,Mark Borowiecki,Nico Hischier,[ 10. -28.],1,13:31,OTT,NJD,NJD,1,OTT,9,1,0,8474697,8480002.0,Mark Borowiecki Tripping against Nico Hischier
-44,penalty,Tripping,Andy Greene,Colin White,[-71.  -5.],1,10:10,NJD,OTT,NJD,1,OTT,9,1,0,8472382,8478400.0,Andy Greene Tripping against Colin White
-156,penalty,Tripping,Jean-Gabriel Pageau,Travis Zajac,[  4. -24.],3,17:35,OTT,NJD,NJD,1,OTT,9,2,1,8476419,8471233.0,Jean-Gabriel Pageau Tripping against Travis Zajac
-6,penalty,Hooking,Travis Zajac,Evgeni Malkin,[ 18. -11.],1,19:26,NJD,PIT,NJD,1,PIT,5,0,0,8471233,8471215.0,Travis Zajac Hooking against Evgeni Malkin
-22,penalty,Slashing,Zach Aston-Reese,Miles Wood,[-58.  20.],1,16:35,PIT,NJD,NJD,1,PIT,5,0,0,8479944,8477425.0,Zach Aston-Reese Slashing against Miles Wood
-23,penalty,Cross checking,Miles Wood,Zach Aston-Reese,[-57.  18.],1,16:35,NJD,PIT,NJD,1,PIT,5,0,0,8477425,8479944.0,Miles Wood Cross checking against Zach Aston-Reese
-62,penalty,Illegal check to head,Zach Aston-Reese,Nikita Gusev,[59. 35.],1,06:29,PIT,NJD,NJD,1,PIT,5,1,0,8479944,8477038.0,Zach Aston-Reese Illegal check to head against Nikita Gusev
-139,penalty,Tripping,Jack Johnson,Jack Hughes,[-92.  22.],2,12:53,PIT,NJD,NJD,1,PIT,5,1,0,8471677,8481559.0,Jack Johnson Tripping against Jack Hughes
-145,penalty,Hooking,Taylor Hall,Teddy Blueger,[-59.  16.],2,11:36,NJD,PIT,NJD,1,PIT,5,1,0,8475791,8476927.0,Taylor Hall Hooking against Teddy Blueger
-175,penalty,Cross checking,Wayne Simmonds,John Marino,[-57.  40.],2,02:31,NJD,PIT,NJD,1,PIT,5,1,0,8474190,8478507.0,Wayne Simmonds Cross checking against John Marino
-194,penalty,Slashing,P.K. Subban,Max Domi,[69. 12.],2,02:13,NJD,MTL,MTL,8,NJD,1,2,1,8474056,8477503.0,P.K. Subban Slashing against Max Domi
-199,penalty,Hooking,Damon Severson,Joel Armia,[74. 25.],2,01:42,NJD,MTL,MTL,8,NJD,1,2,1,8476923,8476469.0,Damon Severson Hooking against Joel Armia
-218,penalty,Hi stick - double minor,Jordan Weal,Jack Hughes,[-94.  23.],3,17:51,MTL,NJD,MTL,8,NJD,1,3,2,8475738,8481559.0,Jordan Weal Hi stick - double minor against Jack Hughes
-226,penalty,Too many men on the ice,John Hayden,,[-14.  41.],3,16:26,NJD,MTL,MTL,8,NJD,1,3,2,8477401,,Too many men/ice served by John Hayden
-229,penalty,Hooking,Max Domi,Taylor Hall,[10.  1.],3,15:39,MTL,NJD,MTL,8,NJD,1,3,2,8477503,8475791.0,Max Domi Hooking against Taylor Hall
-246,penalty,Illegal check to head,Brett Kulak,Blake Coleman,[75. -9.],3,12:31,MTL,NJD,MTL,8,NJD,1,3,2,8476967,8476399.0,Brett Kulak Illegal check to head against Blake Coleman
-248,penalty,Hooking,Wayne Simmonds,Artturi Lehkonen,[84. 23.],3,11:58,NJD,MTL,MTL,8,NJD,1,3,2,8474190,8477476.0,Wayne Simmonds Hooking against Artturi Lehkonen
-255,penalty,Hi-sticking,Miles Wood,Jesperi Kotkaniemi,[68. 41.],3,08:53,NJD,MTL,MTL,8,NJD,1,3,2,8477425,8480829.0,Miles Wood Hi-sticking against Jesperi Kotkaniemi
-257,penalty,Interference,Max Domi,Blake Coleman,[-29.  35.],3,08:42,MTL,NJD,MTL,8,NJD,1,3,2,8477503,8476399.0,Max Domi Interference against Blake Coleman
-258,penalty,Unsportsmanlike conduct,Max Domi,,[-28.  32.],3,08:42,MTL,NJD,MTL,8,NJD,1,3,2,8477503,,Max Domi Unsportsmanlike conduct
-264,penalty,Cross checking,Kyle Palmieri,Jeff Petry,[71. -5.],3,07:23,NJD,MTL,MTL,8,NJD,1,3,2,8475151,8473507.0,Kyle Palmieri Cross checking against Jeff Petry
-300,penalty,Hooking,Phillip Danault,Taylor Hall,[-30. -37.],4,04:16,MTL,NJD,MTL,8,NJD,1,3,3,8476479,8475791.0,Phillip Danault Hooking against Taylor Hall
-40,penalty,Tripping,Jake DeBrusk,Pavel Zacha,[-76. -13.],1,07:48,BOS,NJD,NJD,1,BOS,6,0,0,8478498,8478401.0,Jake DeBrusk Tripping against Pavel Zacha
-51,penalty,Tripping,Danton Heinen,Blake Coleman,[-4. 38.],1,05:13,BOS,NJD,NJD,1,BOS,6,0,2,8478046,8476399.0,Danton Heinen Tripping against Blake Coleman
-61,penalty,Tripping,Taylor Hall,Charlie McAvoy,[ 94. -16.],1,01:54,NJD,BOS,NJD,1,BOS,6,0,2,8475791,8479325.0,Taylor Hall Tripping against Charlie McAvoy
-166,penalty,Tripping,P.K. Subban,David Pastrnak,[-65.  18.],3,16:49,NJD,BOS,NJD,1,BOS,6,1,2,8474056,8477956.0,P.K. Subban Tripping against David Pastrnak
-59,penalty,Cross checking,Miles Wood,Dominik Kahun,[-85. -34.],1,08:15,NJD,PIT,PIT,5,NJD,1,1,0,8477425,8480946.0,Miles Wood Cross checking against Dominik Kahun
-88,penalty,Interference,Chad Ruhwedel,Miles Wood,[-50. -40.],1,01:20,PIT,NJD,PIT,5,NJD,1,1,0,8477244,8477425.0,Chad Ruhwedel Interference against Miles Wood
-112,penalty,Hooking,Miles Wood,John Marino,[95.  9.],2,17:18,NJD,PIT,PIT,5,NJD,1,1,1,8477425,8478507.0,Miles Wood Hooking against John Marino
-115,penalty,Fighting,Damon Severson,Patric Hornqvist,[-85.  28.],2,16:46,NJD,PIT,PIT,5,NJD,1,1,1,8476923,8471887.0,Damon Severson Fighting against Patric Hornqvist
-116,penalty,Fighting,Patric Hornqvist,Damon Severson,[-85.  29.],2,16:46,PIT,NJD,PIT,5,NJD,1,1,1,8471887,8476923.0,Patric Hornqvist Fighting against Damon Severson
-117,penalty,Roughing,Patric Hornqvist,Dominik Simon,[-83.  28.],2,16:46,PIT,NJD,PIT,5,NJD,1,1,1,8471887,8478866.0,Patric Hornqvist Roughing against Damon Severson served by Dominik Simon
-136,penalty,Tripping,Jared McCann,Nikita Gusev,[ 18. -35.],2,13:06,PIT,NJD,PIT,5,NJD,1,1,1,8477955,8477038.0,Jared McCann Tripping against Nikita Gusev
-245,penalty,Hi-sticking,Zach Trotman,Jack Hughes,[-75.  22.],3,09:44,PIT,NJD,PIT,5,NJD,1,4,1,8475902,8481559.0,Zach Trotman Hi-sticking against Jack Hughes
-257,penalty,Holding,Wayne Simmonds,Brandon Tanev,[-57. -40.],3,05:57,NJD,PIT,PIT,5,NJD,1,4,1,8474190,8479293.0,Wayne Simmonds Holding against Brandon Tanev
-13,penalty,Tripping,Taylor Hall,Dylan Larkin,[27. 29.],1,15:39,NJD,DET,NJD,1,DET,17,0,0,8475791,8477946.0,Taylor Hall Tripping against Dylan Larkin
-37,penalty,Tripping,Brendan Perlini,Nico Hischier,[ 33. -30.],1,09:41,DET,NJD,NJD,1,DET,17,0,0,8477943,8480002.0,Brendan Perlini Tripping against Nico Hischier
-42,penalty,Interference,Nikita Gusev,Luke Glendening,[ 82. -20.],1,09:19,NJD,DET,NJD,1,DET,17,0,0,8477038,8476822.0,Nikita Gusev Interference against Luke Glendening
-56,penalty,Cross checking,Wayne Simmonds,Madison Bowey,[80. -1.],1,06:02,NJD,DET,NJD,1,DET,17,0,0,8474190,8477474.0,Wayne Simmonds Cross checking against Madison Bowey
-71,penalty,Slashing,Madison Bowey,Taylor Hall,[78.  4.],1,02:55,DET,NJD,NJD,1,DET,17,0,0,8477474,8475791.0,Madison Bowey Slashing against Taylor Hall
-77,penalty,Interference,Madison Bowey,Jack Hughes,[ 10. -40.],1,00:53,DET,NJD,NJD,1,DET,17,0,0,8477474,8481559.0,Madison Bowey Interference against Jack Hughes
-104,penalty,Hooking,Robby Fabbri,Jack Hughes,[96. 10.],2,13:56,DET,NJD,NJD,1,DET,17,1,1,8477952,8481559.0,Robby Fabbri Hooking against Jack Hughes
-138,penalty,Cross checking,Kyle Palmieri,Patrik Nemeth,[-96.  -1.],2,06:10,NJD,DET,NJD,1,DET,17,1,1,8475151,8475747.0,Kyle Palmieri Cross checking against Patrik Nemeth
-148,penalty,Roughing,Tyler Bertuzzi,P.K. Subban,[80.  0.],2,03:10,DET,NJD,NJD,1,DET,17,1,1,8477479,8474056.0,Tyler Bertuzzi Roughing against P.K. Subban
-149,penalty,Roughing,P.K. Subban,Tyler Bertuzzi,[80.  0.],2,03:10,NJD,DET,NJD,1,DET,17,1,1,8474056,8477479.0,P.K. Subban Roughing against Tyler Bertuzzi
-233,penalty,Fighting,Wayne Simmonds,Dylan McIlrath,[32. 11.],3,00:23,NJD,DET,NJD,1,DET,17,4,1,8474190,8475795.0,Wayne Simmonds Fighting against Dylan McIlrath
-234,penalty,Fighting,Dylan McIlrath,Wayne Simmonds,[35. 18.],3,00:23,DET,NJD,NJD,1,DET,17,4,1,8475795,8474190.0,Dylan McIlrath Fighting against Wayne Simmonds
-24,penalty,Interference,Blake Coleman,Mats Zuccarello,[-71.   2.],1,14:34,NJD,MIN,NJD,1,MIN,30,0,0,8476399,8475692.0,Blake Coleman Interference against Mats Zuccarello
-57,penalty,Missing key [PD_151],Mats Zuccarello,,[ -1. -38.],1,07:16,MIN,NJD,NJD,1,MIN,30,1,1,8475692,,Delaying Game - Unsucc. chlg served by Mats Zuccarello
-131,penalty,Holding,Nico Hischier,Matt Dumba,[ 25. -33.],2,09:37,NJD,MIN,NJD,1,MIN,30,1,2,8480002,8476856.0,Nico Hischier Holding against Matt Dumba
-138,penalty,Hooking,Kevin Fiala,Nico Hischier,[62. 17.],2,07:13,MIN,NJD,NJD,1,MIN,30,1,2,8477942,8480002.0,Kevin Fiala Hooking against Nico Hischier
-149,penalty,Hooking,Miles Wood,Brad Hunt,[-77. -30.],2,05:02,NJD,MIN,NJD,1,MIN,30,2,2,8477425,8476779.0,Miles Wood Hooking against Brad Hunt
-199,penalty,Hi-sticking,Andy Greene,Mats Zuccarello,[-91.  28.],3,14:26,NJD,MIN,NJD,1,MIN,30,2,3,8472382,8475692.0,Andy Greene Hi-sticking against Mats Zuccarello
-25,penalty,Tripping,Mike Reilly,Blake Coleman,[79. 38.],1,16:15,MTL,NJD,MTL,8,NJD,1,0,0,8476422,8476399.0,Mike Reilly Tripping against Blake Coleman
-59,penalty,Holding,Jeff Petry,Jesper Boqvist,[ 95. -28.],1,10:10,MTL,NJD,MTL,8,NJD,1,1,2,8473507,8480003.0,Jeff Petry Holding against Jesper Boqvist
-104,penalty,Tripping,Jack Hughes,Jordan Weal,[-86.  33.],1,00:27,NJD,MTL,MTL,8,NJD,1,1,2,8481559,8475738.0,Jack Hughes Tripping against Jordan Weal
-201,penalty,Tripping,Damon Severson,Nick Cousins,[85. 35.],2,04:15,NJD,MTL,MTL,8,NJD,1,3,4,8476923,8476393.0,Damon Severson Tripping against Nick Cousins
-298,penalty,Tripping,Joel Armia,Nico Hischier,[-40.  31.],3,04:03,MTL,NJD,MTL,8,NJD,1,4,5,8476469,8480002.0,Joel Armia Tripping against Nico Hischier
-63,penalty,Holding,Pavel Zacha,Chris Kreider,[-68.  37.],1,09:03,NJD,NYR,NJD,1,NYR,3,0,0,8478401,8475184.0,Pavel Zacha Holding against Chris Kreider
-88,penalty,Hi-sticking,Ryan Strome,Kyle Palmieri,[ -4. -36.],1,00:32,NYR,NJD,NJD,1,NYR,3,0,1,8476458,8475151.0,Ryan Strome Hi-sticking against Kyle Palmieri
-100,penalty,Tripping,Artemi Panarin,Jesper Boqvist,[-48.  39.],2,18:00,NYR,NJD,NJD,1,NYR,3,0,1,8478550,8480003.0,Artemi Panarin Tripping against Jesper Boqvist
-119,penalty,Hooking,Brady Skjei,Miles Wood,[-71.  13.],2,13:34,NYR,NJD,NJD,1,NYR,3,0,1,8476869,8477425.0,Brady Skjei Hooking against Miles Wood
-126,penalty,Hi-sticking,Travis Zajac,Filip Chytil,[-91.  31.],2,10:46,NJD,NYR,NJD,1,NYR,3,0,1,8471233,8480078.0,Travis Zajac Hi-sticking against Filip Chytil
-155,penalty,Too many men on the ice,Artemi Panarin,,[14. 42.],2,04:37,NYR,NJD,NJD,1,NYR,3,0,1,8478550,,Too many men/ice served by Artemi Panarin
-171,penalty,Hi stick - double minor,Libor Hajek,Wayne Simmonds,[-91.  -7.],2,00:33,NYR,NJD,NJD,1,NYR,3,0,1,8479333,8474190.0,Libor Hajek Hi stick - double minor against Wayne Simmonds
-196,penalty,Boarding,Chris Kreider,Micheal Haley,[-99. -10.],3,14:39,NYR,NJD,NJD,1,NYR,3,0,2,8475184,8474230.0,Chris Kreider Boarding against Matt Tennyson served by Micheal Haley
-197,penalty,Fighting,Kevin Rooney,Chris Kreider,[71. 22.],3,14:39,NJD,NYR,NJD,1,NYR,3,0,2,8479291,8475184.0,Kevin Rooney Fighting against Chris Kreider
-198,penalty,Fighting,Chris Kreider,Kevin Rooney,[-85.  -9.],3,14:39,NYR,NJD,NJD,1,NYR,3,0,2,8475184,8479291.0,Chris Kreider Fighting against Kevin Rooney
-199,penalty,Game misconduct,Chris Kreider,,[-98.  -7.],3,14:39,NYR,NJD,NJD,1,NYR,3,0,2,8475184,,Chris Kreider Game misconduct
-205,penalty,Slashing,Nikita Gusev,Mika Zibanejad,[-70.   0.],3,13:14,NJD,NYR,NJD,1,NYR,3,0,3,8477038,8476459.0,Nikita Gusev Slashing against Mika Zibanejad
-232,penalty,Slashing,Ryan Lindgren,Wayne Simmonds,[63. 26.],3,03:04,NYR,NJD,NJD,1,NYR,3,0,3,8479324,8474190.0,Ryan Lindgren Slashing against Wayne Simmonds
-233,penalty,Roughing,Wayne Simmonds,Ryan Lindgren,[59. 21.],3,03:04,NJD,NYR,NJD,1,NYR,3,0,3,8474190,8479324.0,Wayne Simmonds Roughing against Ryan Lindgren
-2,penalty,Tripping,Blake Coleman,Marcus Johansson,[ 18. -29.],1,19:16,NJD,BUF,BUF,7,NJD,1,0,0,8476399,8475149.0,Blake Coleman Tripping against Marcus Johansson
-43,penalty,Slashing,Zemgus Girgensons,Pavel Zacha,[-79.   1.],1,07:58,BUF,NJD,BUF,7,NJD,1,3,0,8476878,8478401.0,Zemgus Girgensons Slashing against Pavel Zacha
-91,penalty,Roughing,P.K. Subban,Colin Miller,[81.  2.],2,16:38,NJD,BUF,BUF,7,NJD,1,5,0,8474056,8476525.0,P.K. Subban Roughing against Colin Miller
-92,penalty,Roughing,Colin Miller,P.K. Subban,[83.  1.],2,16:38,BUF,NJD,BUF,7,NJD,1,5,0,8476525,8474056.0,Colin Miller Roughing against P.K. Subban
-110,penalty,Tripping,Zemgus Girgensons,Nico Hischier,[74. 21.],2,13:29,BUF,NJD,BUF,7,NJD,1,6,0,8476878,8480002.0,Zemgus Girgensons Tripping against Nico Hischier
-128,penalty,Tripping,Kyle Palmieri,Casey Mittelstadt,[ 29. -40.],2,08:54,NJD,BUF,BUF,7,NJD,1,6,1,8475151,8479999.0,Kyle Palmieri Tripping against Casey Mittelstadt
-180,penalty,Tripping,Brandon Montour,Jesper Bratt,[-86.   9.],3,13:46,BUF,NJD,BUF,7,NJD,1,7,1,8477986,8479407.0,Brandon Montour Tripping against Jesper Bratt
-217,penalty,Hooking,Henri Jokiharju,Wayne Simmonds,[-93.  -9.],3,02:59,BUF,NJD,BUF,7,NJD,1,7,1,8480035,8474190.0,Henri Jokiharju Hooking against Wayne Simmonds
-21,penalty,Holding the stick,Andy Greene,Alex Tuch,[-82.   6.],1,16:27,NJD,VGK,NJD,1,VGK,54,0,0,8472382,8477949.0,Andy Greene Holding the stick against Alex Tuch
-58,penalty,Boarding,William Carrier,Max Pacioretty,[  4. -37.],1,08:34,VGK,NJD,NJD,1,VGK,54,0,0,8477478,8474157.0,William Carrier Boarding against Matt Tennyson served by Max Pacioretty
-59,penalty,Roughing,William Carrier,Will Butcher,[  4. -38.],1,08:34,VGK,NJD,NJD,1,VGK,54,0,0,8477478,8477355.0,William Carrier Roughing against Will Butcher
-60,penalty,Roughing,Will Butcher,William Carrier,[  7. -37.],1,08:34,NJD,VGK,NJD,1,VGK,54,0,0,8477355,8477478.0,Will Butcher Roughing against William Carrier
-158,penalty,Missing key [PD_151],Jonathan Marchessault,,[  1. -37.],2,05:43,VGK,NJD,NJD,1,VGK,54,2,1,8476539,,Delaying Game - Unsucc. chlg served by Jonathan Marchessault
-209,penalty,Hooking,Damon Severson,William Carrier,[-54. -18.],3,11:01,NJD,VGK,NJD,1,VGK,54,2,3,8476923,8477478.0,Damon Severson Hooking against William Carrier
-239,penalty,Interference,Kyle Palmieri,Alex Tuch,[-44. -33.],3,04:45,NJD,VGK,NJD,1,VGK,54,3,4,8475151,8477949.0,Kyle Palmieri Interference against Alex Tuch
-5,penalty,Delaying Game - Puck over glass,Alex Nylander,,[ 12. -40.],1,18:41,CHI,NJD,NJD,1,CHI,16,0,0,8479423,,Alex Nylander Delaying Game - Puck over glass
-18,penalty,Interference,Calvin de Haan,Miles Wood,[ 96. -13.],1,15:39,CHI,NJD,NJD,1,CHI,16,0,0,8475177,8477425.0,Calvin de Haan Interference against Miles Wood
-29,penalty,Fighting,Dennis Gilbert,Wayne Simmonds,[60. 19.],1,13:31,CHI,NJD,NJD,1,CHI,16,0,0,8478502,8474190.0,Dennis Gilbert Fighting against Wayne Simmonds
-30,penalty,Fighting,Wayne Simmonds,Dennis Gilbert,[76. 28.],1,13:31,NJD,CHI,NJD,1,CHI,16,0,0,8474190,8478502.0,Wayne Simmonds Fighting against Dennis Gilbert
-62,penalty,Elbowing,Zack Smith,Nikita Gusev,[-94.  23.],1,07:30,CHI,NJD,NJD,1,CHI,16,0,0,8474250,8477038.0,Zack Smith Elbowing against Nikita Gusev
-121,penalty,Hooking,Sami Vatanen,Patrick Kane,[66. 23.],2,11:41,NJD,CHI,NJD,1,CHI,16,1,0,8475222,8474141.0,Sami Vatanen Hooking against Patrick Kane
-183,penalty,Slashing,Kyle Palmieri,Alex Nylander,[50. 26.],3,15:59,NJD,CHI,NJD,1,CHI,16,1,1,8475151,8479423.0,Kyle Palmieri Slashing against Alex Nylander
-189,penalty,Hi-sticking,Zack Smith,Will Butcher,[-80.  38.],3,13:44,CHI,NJD,NJD,1,CHI,16,1,1,8474250,8477355.0,Zack Smith Hi-sticking against Will Butcher
-38,penalty,Unsportsmanlike conduct,Yannick Weber,,[-35.   3.],1,10:21,NSH,NJD,NSH,18,NJD,1,2,2,8474134,,Yannick Weber Unsportsmanlike conduct
-42,penalty,Slashing,Nikita Gusev,Ryan Ellis,[ 63. -27.],1,09:48,NJD,NSH,NSH,18,NJD,1,2,2,8477038,8475176.0,Nikita Gusev Slashing against Ryan Ellis
-45,penalty,Hooking,P.K. Subban,Kyle Turris,[91. 31.],1,08:31,NJD,NSH,NSH,18,NJD,1,2,2,8474056,8474068.0,P.K. Subban Hooking against Kyle Turris
-75,penalty,Hooking,Dante Fabbro,Jesper Bratt,[96. -8.],2,19:28,NSH,NJD,NSH,18,NJD,1,2,2,8479371,8479407.0,Dante Fabbro Hooking against Jesper Bratt
-83,penalty,Hi-sticking,Miles Wood,Daniel Carr,[-82.  14.],2,17:13,NJD,NSH,NSH,18,NJD,1,2,2,8477425,8477901.0,Miles Wood Hi-sticking against Daniel Carr
-118,penalty,Illegal check to head,Blake Coleman,Yannick Weber,[85. 34.],2,09:59,NJD,NSH,NSH,18,NJD,1,4,2,8476399,8474134.0,Blake Coleman Illegal check to head against Yannick Weber
-120,penalty,Interference,Ryan Johansen,Pavel Zacha,[-67.  22.],2,09:54,NSH,NJD,NSH,18,NJD,1,4,2,8475793,8478401.0,Ryan Johansen Interference against Pavel Zacha
-133,penalty,Tripping,Filip Forsberg,Blake Coleman,[76.  1.],2,07:45,NSH,NJD,NSH,18,NJD,1,4,2,8476887,8476399.0,Filip Forsberg Tripping against Blake Coleman
-166,penalty,Holding,Blake Coleman,Kyle Turris,[-31.   1.],3,19:18,NJD,NSH,NSH,18,NJD,1,4,3,8476399,8474068.0,Blake Coleman Holding against Kyle Turris
-246,penalty,Too many men on the ice,Jesper Boqvist,,[-66.  36.],3,00:47,NJD,NSH,NSH,18,NJD,1,6,4,8480003,,Too many men/ice served by Jesper Boqvist
-88,penalty,Slashing,Kyle Palmieri,Jamie Benn,[-82.   1.],1,01:10,NJD,DAL,DAL,25,NJD,1,2,0,8475151,8473994.0,Kyle Palmieri Slashing against Jamie Benn
-168,penalty,Slashing,Jamie Benn,P.K. Subban,[-54.  41.],2,03:56,DAL,NJD,DAL,25,NJD,1,2,0,8473994,8474056.0,Jamie Benn Slashing against P.K. Subban
-185,penalty,Roughing,P.K. Subban,Jamie Benn,[ 36. -17.],3,19:13,NJD,DAL,DAL,25,NJD,1,2,0,8474056,8473994.0,P.K. Subban Roughing against Jamie Benn
-194,penalty,Charging,P.K. Subban,Miro Heiskanen,[-97. -26.],3,17:03,NJD,DAL,DAL,25,NJD,1,2,0,8474056,8480036.0,P.K. Subban Charging against Miro Heiskanen
-218,penalty,Interference,Miro Heiskanen,Kyle Palmieri,[ 56. -31.],3,11:24,DAL,NJD,DAL,25,NJD,1,2,0,8480036,8475151.0,Miro Heiskanen Interference against Kyle Palmieri
-230,penalty,Tripping,Taylor Hall,Blake Comeau,[ 32. -40.],3,09:06,NJD,DAL,DAL,25,NJD,1,2,0,8475791,8471260.0,Taylor Hall Tripping against Blake Comeau
-239,penalty,Hooking,Blake Comeau,Taylor Hall,[64. 39.],3,06:51,DAL,NJD,DAL,25,NJD,1,2,0,8471260,8475791.0,Blake Comeau Hooking against Taylor Hall
-259,penalty,Tripping,Sami Vatanen,Andrew Cogliano,[-29. -22.],3,01:14,NJD,DAL,DAL,25,NJD,1,2,0,8475222,8471699.0,Sami Vatanen Tripping against Andrew Cogliano
-17,penalty,Delaying Game - Puck over glass,Jesper Boqvist,,[-35.  40.],1,17:07,NJD,COL,COL,21,NJD,1,0,0,8480003,,Jesper Boqvist Delaying Game - Puck over glass
-40,penalty,Interference,Michael McLeod,Mark Barberio,[80. -1.],1,09:29,NJD,COL,COL,21,NJD,1,0,0,8479415,8474717.0,Michael McLeod Interference against Mark Barberio
-68,penalty,Cross checking,Nazem Kadri,Travis Zajac,[97. 12.],1,02:32,COL,NJD,COL,21,NJD,1,1,0,8475172,8471233.0,Nazem Kadri Cross checking against Travis Zajac
-94,penalty,Interference,Samuel Girard,Miles Wood,[-58.   8.],2,16:57,COL,NJD,COL,21,NJD,1,1,0,8479398,8477425.0,Samuel Girard Interference against Miles Wood
-125,penalty,Roughing,P.K. Subban,Matt Calvert,[ 62. -41.],2,11:49,NJD,COL,COL,21,NJD,1,2,0,8474056,8474685.0,P.K. Subban Roughing against Matt Calvert
-169,penalty,Tripping,Damon Severson,Valeri Nichushkin,[-10.  17.],2,02:02,NJD,COL,COL,21,NJD,1,2,0,8476923,8477501.0,Damon Severson Tripping against Valeri Nichushkin
-184,penalty,Holding,Gabriel Landeskog,P.K. Subban,[87. 37.],3,18:37,COL,NJD,COL,21,NJD,1,2,0,8476455,8474056.0,Gabriel Landeskog Holding against P.K. Subban
-208,penalty,Roughing,Blake Coleman,Joonas Donskoi,[-69.   4.],3,13:45,NJD,COL,COL,21,NJD,1,2,0,8476399,8475820.0,Blake Coleman Roughing against Joonas Donskoi
-222,penalty,Slashing,Pierre-Edouard Bellemare,Jesper Boqvist,[86. 32.],3,11:04,COL,NJD,COL,21,NJD,1,2,0,8477930,8480003.0,Pierre-Edouard Bellemare Slashing against Jesper Boqvist
-26,penalty,Tripping,P.K. Subban,Carl Soderberg,[39. 39.],1,13:27,NJD,ARI,ARI,53,NJD,1,0,1,8474056,8471262.0,P.K. Subban Tripping against Carl Soderberg
-53,penalty,Holding the stick,P.K. Subban,Derek Stepan,[83.  6.],1,06:22,NJD,ARI,ARI,53,NJD,1,0,1,8474056,8474613.0,P.K. Subban Holding the stick against Derek Stepan
-82,penalty,Hi-sticking,Alex Goligoski,Miles Wood,[ -4. -40.],1,00:10,ARI,NJD,ARI,53,NJD,1,1,1,8471274,8477425.0,Alex Goligoski Hi-sticking against Miles Wood
-145,penalty,Slashing,Nick Schmaltz,Will Butcher,[-94.   7.],2,04:31,ARI,NJD,ARI,53,NJD,1,1,1,8477951,8477355.0,Nick Schmaltz Slashing against Will Butcher
-206,penalty,Slashing,Wayne Simmonds,Phil Kessel,[-60. -34.],3,11:37,NJD,ARI,ARI,53,NJD,1,1,1,8474190,8473548.0,Wayne Simmonds Slashing against Phil Kessel
-237,penalty,Tripping,Clayton Keller,Pavel Zacha,[ 55. -14.],3,04:31,ARI,NJD,ARI,53,NJD,1,1,2,8479343,8478401.0,Clayton Keller Tripping against Pavel Zacha
-82,penalty,Interference,Hampus Lindholm,Wayne Simmonds,[-59. -22.],2,15:21,ANA,NJD,NJD,1,ANA,24,1,1,8476854,8474190.0,Hampus Lindholm Interference against Wayne Simmonds
-103,penalty,Interference,Michael Del Zotto,Jesper Bratt,[-83.   3.],2,10:18,ANA,NJD,NJD,1,ANA,24,1,1,8474584,8479407.0,Michael Del Zotto Interference against Jesper Bratt
-140,penalty,Hi-sticking,Blake Coleman,Max Comtois,[ 68. -39.],2,01:31,NJD,ANA,NJD,1,ANA,24,2,1,8476399,8480031.0,Blake Coleman Hi-sticking against Max Comtois
-142,penalty,Hooking,Cam Fowler,Nico Hischier,[ 1. 35.],2,01:03,ANA,NJD,NJD,1,ANA,24,2,1,8475764,8480002.0,Cam Fowler Hooking against Nico Hischier
-155,penalty,Fighting,Max Comtois,Damon Severson,[-4. 36.],3,17:36,ANA,NJD,NJD,1,ANA,24,3,1,8480031,8476923.0,Max Comtois Fighting against Damon Severson
-156,penalty,Fighting,Damon Severson,Max Comtois,[ 3. 34.],3,17:36,NJD,ANA,NJD,1,ANA,24,3,1,8476923,8480031.0,Damon Severson Fighting against Max Comtois
-196,penalty,Tripping,Nico Hischier,Jakob Silfverberg,[-69. -39.],3,04:03,NJD,ANA,NJD,1,ANA,24,3,1,8480002,8475164.0,Nico Hischier Tripping against Jakob Silfverberg
-210,penalty,Holding,Hampus Lindholm,Nico Hischier,[ 58. -24.],3,01:18,ANA,NJD,NJD,1,ANA,24,3,1,8476854,8480002.0,Hampus Lindholm Holding against Nico Hischier
-10,penalty,Hooking,Jonas Siegenthaler,Miles Wood,[68.  0.],1,17:10,WSH,NJD,NJD,1,WSH,15,0,0,8478399,8477425.0,Jonas Siegenthaler Hooking against Miles Wood
-24,penalty,PS - Holding on breakaway,Sami Vatanen,Carl Hagelin,[-75.  -1.],1,13:51,NJD,WSH,NJD,1,WSH,15,1,0,8475222,8474176.0,Sami Vatanen PS - Holding on breakaway against Carl Hagelin
-63,penalty,Delaying Game - Puck over glass,Brendan Leipsic,,[ 20. -41.],1,04:14,WSH,NJD,NJD,1,WSH,15,1,0,8476894,,Brendan Leipsic Delaying Game - Puck over glass
-116,penalty,Slashing,Dmitry Orlov,Kyle Palmieri,[-66. -15.],2,08:19,WSH,NJD,NJD,1,WSH,15,2,2,8475200,8475151.0,Dmitry Orlov Slashing against Kyle Palmieri
-137,penalty,Slashing,Sami Vatanen,Lars Eller,[64. 14.],2,04:07,NJD,WSH,NJD,1,WSH,15,2,2,8475222,8474189.0,Sami Vatanen Slashing against Lars Eller
-152,penalty,Roughing,Garnet Hathaway,Miles Wood,[-29. -39.],2,01:10,WSH,NJD,NJD,1,WSH,15,2,2,8477903,8477425.0,Garnet Hathaway Roughing against Miles Wood
-153,penalty,Roughing,Miles Wood,Garnet Hathaway,[-25. -39.],2,01:10,NJD,WSH,NJD,1,WSH,15,2,2,8477425,8477903.0,Miles Wood Roughing against Garnet Hathaway
-205,penalty,Fighting,Nick Jensen,Miles Wood,[66. 21.],3,06:53,WSH,NJD,NJD,1,WSH,15,2,5,8475324,8477425.0,Nick Jensen Fighting against Miles Wood
-206,penalty,Fighting,Miles Wood,Nick Jensen,[66. 19.],3,06:53,NJD,WSH,NJD,1,WSH,15,2,5,8477425,8475324.0,Miles Wood Fighting against Nick Jensen
-11,penalty,Hooking,Jakob Lilja,Andy Greene,[-37. -23.],1,17:01,CBJ,NJD,CBJ,29,NJD,1,1,0,8481650,8472382.0,Jakob Lilja Hooking against Andy Greene
-19,penalty,Too many men on the ice,Eric Robinson,,[-20.  41.],1,14:12,CBJ,NJD,CBJ,29,NJD,1,1,0,8480762,,Too many men/ice served by Eric Robinson
-51,penalty,Hooking,Boone Jenner,Jesper Bratt,[-68.  40.],1,04:56,CBJ,NJD,CBJ,29,NJD,1,2,0,8476432,8479407.0,Boone Jenner Hooking against Jesper Bratt
-52,penalty,Embellishment,Jesper Bratt,Boone Jenner,[-58.  39.],1,04:56,NJD,CBJ,CBJ,29,NJD,1,2,0,8479407,8476432.0,Jesper Bratt Embellishment against Boone Jenner
-146,penalty,Hi-sticking,John Hayden,Kevin Stenlund,[ 7. 40.],2,01:10,NJD,CBJ,CBJ,29,NJD,1,3,1,8477401,8478831.0,John Hayden Hi-sticking against Kevin Stenlund
-159,penalty,Roughing,Nick Foligno,Sami Vatanen,[82.  8.],3,18:08,CBJ,NJD,CBJ,29,NJD,1,3,1,8473422,8475222.0,Nick Foligno Roughing against Sami Vatanen
-160,penalty,Roughing,Sami Vatanen,Nick Foligno,[78.  4.],3,18:08,NJD,CBJ,CBJ,29,NJD,1,3,1,8475222,8473422.0,Sami Vatanen Roughing against Nick Foligno
-171,penalty,Hooking,Travis Zajac,Ryan MacInnis,[69. 41.],3,15:18,NJD,CBJ,CBJ,29,NJD,1,3,1,8471233,8477974.0,Travis Zajac Hooking against Ryan MacInnis
-180,penalty,Unsportsmanlike conduct,Kyle Palmieri,,[ 14. -40.],3,13:56,NJD,CBJ,CBJ,29,NJD,1,3,1,8475151,,Kyle Palmieri Unsportsmanlike conduct
-181,penalty,Tripping,Kyle Palmieri,Kevin Stenlund,[-82.  24.],3,13:56,NJD,CBJ,CBJ,29,NJD,1,3,1,8475151,8478831.0,Kyle Palmieri Tripping against Kevin Stenlund
-220,penalty,Tripping,Dean Kukan,Kyle Palmieri,[-92.  -8.],3,02:58,CBJ,NJD,CBJ,29,NJD,1,3,1,8478567,8475151.0,Dean Kukan Tripping against Kyle Palmieri
-229,penalty,Slashing,Miles Wood,Alexandre Texier,[-26. -30.],3,00:51,NJD,CBJ,CBJ,29,NJD,1,5,1,8477425,8480074.0,Miles Wood Slashing against Alexandre Texier
-2,penalty,Hi-sticking,Jesper Boqvist,Adam Boqvist,[83. 27.],1,19:23,NJD,CHI,CHI,16,NJD,1,0,0,8480003,8480871.0,Jesper Boqvist Hi-sticking against Adam Boqvist
-43,penalty,Fighting,Dennis Gilbert,John Hayden,[-32.   2.],1,11:38,CHI,NJD,CHI,16,NJD,1,1,0,8478502,8477401.0,Dennis Gilbert Fighting against John Hayden
-44,penalty,Instigator,John Hayden,Nikita Gusev,[-33.   5.],1,11:38,NJD,CHI,CHI,16,NJD,1,1,0,8477401,8477038.0,John Hayden Instigator against Dennis Gilbert served by Nikita Gusev
-45,penalty,Fighting,John Hayden,Dennis Gilbert,[-37.   4.],1,11:38,NJD,CHI,CHI,16,NJD,1,1,0,8477401,8478502.0,John Hayden Fighting against Dennis Gilbert
-46,penalty,Misconduct,John Hayden,Dennis Gilbert,[-36.   2.],1,11:38,NJD,CHI,CHI,16,NJD,1,1,0,8477401,8478502.0,John Hayden Misconduct against Dennis Gilbert
-50,penalty,Hooking,Dylan Strome,Pavel Zacha,[77.  2.],1,10:37,CHI,NJD,CHI,16,NJD,1,1,0,8478440,8478401.0,Dylan Strome Hooking against Pavel Zacha
-67,penalty,Slashing,Wayne Simmonds,Corey Crawford,[83. -2.],1,07:44,NJD,CHI,CHI,16,NJD,1,1,0,8474190,8470645.0,Wayne Simmonds Slashing against Corey Crawford
-68,penalty,Roughing,Jonathan Toews,Wayne Simmonds,[84. -3.],1,07:44,CHI,NJD,CHI,16,NJD,1,1,0,8473604,8474190.0,Jonathan Toews Roughing against Wayne Simmonds
-88,penalty,Cross checking,Travis Zajac,Ryan Carpenter,[-85.   7.],1,04:06,NJD,CHI,CHI,16,NJD,1,1,1,8471233,8477846.0,Travis Zajac Cross checking against Ryan Carpenter
-94,penalty,Boarding,Mirco Mueller,Kirby Dach,[-77.  40.],1,02:23,NJD,CHI,CHI,16,NJD,1,1,1,8477509,8481523.0,Mirco Mueller Boarding against Kirby Dach
-147,penalty,Elbowing,Pavel Zacha,Erik Gustafsson,[-97.  -5.],2,12:12,NJD,CHI,CHI,16,NJD,1,1,3,8478401,8476979.0,Pavel Zacha Elbowing against Erik Gustafsson
-192,penalty,Holding,Sami Vatanen,John Quenneville,[88. -7.],2,03:13,NJD,CHI,CHI,16,NJD,1,1,4,8475222,8477961.0,Sami Vatanen Holding against John Quenneville
-245,penalty,Hooking,Patrick Kane,Jack Hughes,[-17.  37.],3,12:17,CHI,NJD,CHI,16,NJD,1,1,6,8474141,8481559.0,Patrick Kane Hooking against Jack Hughes
-266,penalty,Cross checking,Mirco Mueller,Matthew Highmore,[-97.  11.],3,06:50,NJD,CHI,CHI,16,NJD,1,1,6,8477509,8478146.0,Mirco Mueller Cross checking against Matthew Highmore
-279,penalty,Tripping,David Kampf,Jack Hughes,[-33.  21.],3,04:12,CHI,NJD,CHI,16,NJD,1,1,6,8480144,8481559.0,David Kampf Tripping against Jack Hughes
-63,penalty,Hi stick - double minor,Miles Wood,Cody Ceci,[69. 19.],1,06:34,NJD,TOR,NJD,1,TOR,10,1,0,8477425,8476879.0,Miles Wood Hi stick - double minor against Cody Ceci
-99,penalty,Tripping,Mitchell Marner,Nikita Gusev,[-65.   0.],2,18:33,TOR,NJD,NJD,1,TOR,10,1,2,8478483,8477038.0,Mitchell Marner Tripping against Nikita Gusev
-102,penalty,Delaying Game - Puck over glass,Jake Muzzin,,[-47. -40.],2,18:27,TOR,NJD,NJD,1,TOR,10,1,2,8474162,,Jake Muzzin Delaying Game - Puck over glass
-189,penalty,Hi-sticking,Tyson Barrie,Wayne Simmonds,[71. 22.],3,14:48,TOR,NJD,NJD,1,TOR,10,4,3,8475197,8474190.0,Tyson Barrie Hi-sticking against Wayne Simmonds
-193,penalty,Too many men on the ice,Nikita Gusev,,[-35.  40.],3,13:32,NJD,TOR,NJD,1,TOR,10,4,3,8477038,,Too many men/ice served by Nikita Gusev
-228,penalty,Holding,Miles Wood,Zach Hyman,[ 45. -31.],3,01:23,NJD,TOR,NJD,1,TOR,10,4,4,8477425,8475786.0,Miles Wood Holding against Zach Hyman
-229,penalty,Embellishment,Zach Hyman,Miles Wood,[ 43. -30.],3,01:23,TOR,NJD,NJD,1,TOR,10,4,4,8475786,8477425.0,Zach Hyman Embellishment against Miles Wood
-235,penalty,Slashing,Blake Coleman,Alexander Kerfoot,[39. 26.],3,00:29,NJD,TOR,NJD,1,TOR,10,4,4,8476399,8477021.0,Blake Coleman Slashing against Alexander Kerfoot
-29,penalty,Interference,Andreas Englund,Jesper Boqvist,[18. 34.],1,13:47,OTT,NJD,OTT,9,NJD,1,0,0,8477971,8480003.0,Andreas Englund Interference against Jesper Boqvist
-30,penalty,Fighting,Andreas Englund,John Hayden,[-13.  34.],1,13:47,OTT,NJD,OTT,9,NJD,1,0,0,8477971,8477401.0,Andreas Englund Fighting against John Hayden
-31,penalty,Instigator,John Hayden,Andreas Englund,[-4. 32.],1,13:47,NJD,OTT,OTT,9,NJD,1,0,0,8477401,8477971.0,John Hayden Instigator against Andreas Englund
-32,penalty,Fighting,John Hayden,Andreas Englund,[-5. 32.],1,13:47,NJD,OTT,OTT,9,NJD,1,0,0,8477401,8477971.0,John Hayden Fighting against Andreas Englund
-33,penalty,Misconduct,John Hayden,Andreas Englund,[-12.  31.],1,13:47,NJD,OTT,OTT,9,NJD,1,0,0,8477401,8477971.0,John Hayden Misconduct against Andreas Englund
-37,penalty,Tripping,Vladislav Namestnikov,Damon Severson,[ 89. -31.],1,12:51,OTT,NJD,OTT,9,NJD,1,0,0,8476480,8476923.0,Vladislav Namestnikov Tripping against Damon Severson
-59,penalty,Interference,Mirco Mueller,Scott Sabourin,[ 37. -40.],1,08:35,NJD,OTT,OTT,9,NJD,1,0,1,8477509,8477149.0,Mirco Mueller Interference against Scott Sabourin
-74,penalty,Cross checking,Scott Sabourin,Jesper Boqvist,[78.  0.],1,05:25,OTT,NJD,OTT,9,NJD,1,0,1,8477149,8480003.0,Scott Sabourin Cross checking against Jesper Boqvist
-87,penalty,Too many men on the ice,Jack Hughes,,[10. 39.],1,03:23,NJD,OTT,OTT,9,NJD,1,0,1,8481559,,Too many men/ice served by Jack Hughes
-123,penalty,Delaying Game - Puck over glass,Connor Carrick,,[-34. -39.],2,14:52,NJD,OTT,OTT,9,NJD,1,0,1,8476941,,Connor Carrick Delaying Game - Puck over glass
-164,penalty,Delaying Game - Puck over glass,Colin White,,[74.  2.],2,06:03,OTT,NJD,OTT,9,NJD,1,2,1,8478400,,Colin White Delaying Game - Puck over glass
-166,penalty,Tripping,Vladislav Namestnikov,Sami Vatanen,[-95.   8.],2,05:46,OTT,NJD,OTT,9,NJD,1,2,1,8476480,8475222.0,Vladislav Namestnikov Tripping against Sami Vatanen
-2,penalty,Interference,P.K. Subban,Sean Kuraly,[-63. -40.],1,18:43,NJD,BOS,NJD,1,BOS,6,0,0,8474056,8476374.0,P.K. Subban Interference against Sean Kuraly
-86,penalty,Tripping,Brad Marchand,Nikita Gusev,[-26.  17.],2,19:51,BOS,NJD,NJD,1,BOS,6,0,1,8473419,8477038.0,Brad Marchand Tripping against Nikita Gusev
-125,penalty,Tripping,Travis Zajac,Brad Marchand,[ 55. -39.],2,10:53,NJD,BOS,NJD,1,BOS,6,1,2,8471233,8473419.0,Travis Zajac Tripping against Brad Marchand
-127,penalty,Tripping,Matt Grzelcyk,Nico Hischier,[-71.   2.],2,10:40,BOS,NJD,NJD,1,BOS,6,1,2,8476891,8480002.0,Matt Grzelcyk Tripping against Nico Hischier
-173,penalty,Interference,Jeremy Lauzon,Miles Wood,[87.  2.],3,17:26,BOS,NJD,NJD,1,BOS,6,1,2,8478468,8477425.0,Jeremy Lauzon Interference against Miles Wood
-190,penalty,Tripping,Joakim Nordstrom,Mirco Mueller,[30.  2.],3,12:05,BOS,NJD,NJD,1,BOS,6,1,2,8475807,8477509.0,Joakim Nordstrom Tripping against Mirco Mueller
-262,penalty,Hooking,Jesper Bratt,Sean Kuraly,[73.  1.],4,00:12,NJD,BOS,NJD,1,BOS,6,2,2,8479407,8476374.0,Jesper Bratt Hooking against Sean Kuraly
-35,penalty,Hi-sticking,Miles Wood,Mathew Barzal,[-94. -17.],1,14:26,NJD,NYI,NYI,2,NJD,1,0,0,8477425,8478445.0,Miles Wood Hi-sticking against Mathew Barzal
-51,penalty,Interference,Devon Toews,Pavel Zacha,[-81. -36.],1,10:38,NYI,NJD,NYI,2,NJD,1,0,0,8478038,8478401.0,Devon Toews Interference against Pavel Zacha
-86,penalty,Slashing,Damon Severson,Anders Lee,[72.  0.],1,04:28,NJD,NYI,NYI,2,NJD,1,0,0,8476923,8475314.0,Damon Severson Slashing against Anders Lee
-141,penalty,Slashing,Anthony Beauvillier,Sami Vatanen,[ 32. -20.],2,12:40,NYI,NJD,NYI,2,NJD,1,0,0,8478463,8475222.0,Anthony Beauvillier Slashing against Sami Vatanen
-142,penalty,Embellishment,Sami Vatanen,Anthony Beauvillier,[ 35. -10.],2,12:40,NJD,NYI,NYI,2,NJD,1,0,0,8475222,8478463.0,Sami Vatanen Embellishment against Anthony Beauvillier
-259,penalty,Tripping,Matt Martin,Sami Vatanen,[ 14. -39.],3,10:28,NYI,NJD,NYI,2,NJD,1,1,2,8474709,8475222.0,Matt Martin Tripping against Sami Vatanen
-79,penalty,Cross checking,Damon Severson,Nazem Kadri,[ 91. -24.],2,19:14,NJD,COL,NJD,1,COL,21,0,0,8476923,8475172.0,Damon Severson Cross checking against Nazem Kadri
-161,penalty,Holding,Miles Wood,Ian Cole,[96.  2.],3,14:56,NJD,COL,NJD,1,COL,21,0,3,8477425,8474013.0,Miles Wood Holding against Ian Cole
-175,penalty,Tripping,Ryan Graves,Miles Wood,[ 61. -15.],3,12:25,COL,NJD,NJD,1,COL,21,1,3,8477435,8477425.0,Ryan Graves Tripping against Miles Wood
-194,penalty,Interference,Tyson Jost,Kyle Palmieri,[96.  1.],3,07:23,COL,NJD,NJD,1,COL,21,1,3,8479370,8475151.0,Tyson Jost Interference against Kyle Palmieri
-200,penalty,Misconduct,Wayne Simmonds,,[  0. -37.],3,06:11,NJD,COL,NJD,1,COL,21,1,4,8474190,,Wayne Simmonds Misconduct
-201,penalty,Missing key [PD_151],Jesper Boqvist,,[  0. -31.],3,06:11,NJD,COL,NJD,1,COL,21,1,4,8480003,,Delaying Game - Unsucc. chlg served by Jesper Boqvist
-202,penalty,Game misconduct,Wayne Simmonds,,[ -1. -36.],3,06:11,NJD,COL,NJD,1,COL,21,1,4,8474190,,Wayne Simmonds Game misconduct
-211,penalty,Tripping,Matt Calvert,Pavel Zacha,[-82. -25.],3,03:13,COL,NJD,NJD,1,COL,21,1,4,8474685,8478401.0,Matt Calvert Tripping against Pavel Zacha
-219,penalty,Hooking,Thomas Greiss,Matt Martin,[96. -2.],3,08:24,NYI,NJD,NJD,1,NYI,2,2,2,8471306,8474709.0,Thomas Greiss Hooking against Nikita Gusev served by Matt Martin
-10,penalty,Delaying Game - Puck over glass,Brendan Smith,,[ 75. -35.],1,17:13,NYR,NJD,NYR,3,NJD,1,0,0,8474090,,Brendan Smith Delaying Game - Puck over glass
-42,penalty,Interference,P.K. Subban,Brendan Smith,[-13. -15.],1,12:20,NJD,NYR,NYR,3,NJD,1,1,0,8474056,8474090.0,P.K. Subban Interference against Brendan Smith
-57,penalty,Interference,John Hayden,Kaapo Kakko,[16. 16.],1,08:28,NJD,NYR,NYR,3,NJD,1,2,1,8477401,8481554.0,John Hayden Interference against Kaapo Kakko
-154,penalty,Too many men on the ice,Artemi Panarin,Jesper Boqvist,[-18.  39.],2,07:02,NJD,NYR,NYR,3,NJD,1,4,3,8478550,8480003.0, against Artemi PanarinToo many men/ice served by Jesper Boqvist
-161,penalty,Hi-sticking,Nico Hischier,Adam Fox,[-92.   9.],2,05:09,NJD,NYR,NYR,3,NJD,1,4,3,8480002,8479323.0,Nico Hischier Hi-sticking against Adam Fox
-187,penalty,Hooking,Jacob Trouba,Pavel Zacha,[-93.  26.],2,01:48,NYR,NJD,NYR,3,NJD,1,5,3,8476885,8478401.0,Jacob Trouba Hooking against Pavel Zacha
-188,penalty,Cross checking,Wayne Simmonds,Greg McKegg,[-91.  30.],2,01:48,NJD,NYR,NYR,3,NJD,1,5,3,8474190,8475735.0,Wayne Simmonds Cross checking against Greg McKegg
-234,penalty,Interference,Chris Kreider,Blake Coleman,[34. 22.],3,11:10,NYR,NJD,NYR,3,NJD,1,5,3,8475184,8476399.0,Chris Kreider Interference against Blake Coleman
-267,penalty,Hooking,Miles Wood,Mika Zibanejad,[-80.  15.],3,04:23,NJD,NYR,NYR,3,NJD,1,6,3,8477425,8476459.0,Miles Wood Hooking against Mika Zibanejad
-62,penalty,Slashing,Travis Zajac,Alex Ovechkin,[-52.   2.],1,03:30,NJD,WSH,WSH,15,NJD,1,0,1,8471233,8471214.0,Travis Zajac Slashing against Alex Ovechkin
-88,penalty,Slashing,Tom Wilson,Blake Coleman,[-39. -33.],2,18:39,WSH,NJD,WSH,15,NJD,1,0,1,8476880,8476399.0,Tom Wilson Slashing against Blake Coleman
-109,penalty,Hi stick - double minor,Miles Wood,Richard Panik,[-95.  19.],2,13:43,NJD,WSH,WSH,15,NJD,1,0,2,8477425,8475209.0,Miles Wood Hi stick - double minor against Richard Panik
-203,penalty,Elbowing,Nico Hischier,T.J. Oshie,[ 19. -37.],3,10:12,NJD,WSH,WSH,15,NJD,1,1,4,8480002,8471698.0,Nico Hischier Elbowing against T.J. Oshie
-211,penalty,Delaying Game - Puck over glass,P.K. Subban,,[-63. -39.],3,08:55,NJD,WSH,WSH,15,NJD,1,1,4,8474056,,P.K. Subban Delaying Game - Puck over glass
-9,penalty,Hi-sticking,Yanni Gourde,Wayne Simmonds,[98. 11.],1,17:28,TBL,NJD,NJD,1,TBL,14,0,0,8476826,8474190.0,Yanni Gourde Hi-sticking against Wayne Simmonds
-43,penalty,Roughing,Anthony Cirelli,Kevin Rooney,[-21.  37.],1,10:27,TBL,NJD,NJD,1,TBL,14,0,0,8478519,8479291.0,Anthony Cirelli Roughing against Kevin Rooney
-54,penalty,Hooking,Andy Greene,Nikita Kucherov,[-58.   7.],1,07:24,NJD,TBL,NJD,1,TBL,14,0,0,8472382,8476453.0,Andy Greene Hooking against Nikita Kucherov
-74,penalty,Tripping,Ondrej Palat,Nico Hischier,[-71.   3.],1,02:26,TBL,NJD,NJD,1,TBL,14,0,0,8476292,8480002.0,Ondrej Palat Tripping against Nico Hischier
-144,penalty,Slashing,John Hayden,Anthony Cirelli,[ 65. -18.],2,03:56,NJD,TBL,NJD,1,TBL,14,2,1,8477401,8478519.0,John Hayden Slashing against Anthony Cirelli
-156,penalty,Fighting,Connor Carrick,Yanni Gourde,[ 27. -33.],2,01:12,NJD,TBL,NJD,1,TBL,14,2,1,8476941,8476826.0,Connor Carrick Fighting against Yanni Gourde
-157,penalty,Fighting,Yanni Gourde,Connor Carrick,[ 24. -31.],2,01:12,TBL,NJD,NJD,1,TBL,14,2,1,8476826,8476941.0,Yanni Gourde Fighting against Connor Carrick
-161,penalty,Slashing,Nikita Kucherov,Nikita Gusev,[-35.  27.],2,00:23,TBL,NJD,NJD,1,TBL,14,2,1,8476453,8477038.0,Nikita Kucherov Slashing against Nikita Gusev
-44,penalty,Holding,Pierre Engvall,P.K. Subban,[-97.  16.],1,10:33,TOR,NJD,TOR,10,NJD,1,2,0,8478115,8474056.0,Pierre Engvall Holding against P.K. Subban
-60,penalty,Hooking,Connor Carrick,William Nylander,[25. 11.],1,07:13,NJD,TOR,TOR,10,NJD,1,2,0,8476941,8477939.0,Connor Carrick Hooking against William Nylander
-84,penalty,Interference,P.K. Subban,Dmytro Timashov,[ 48. -38.],1,01:36,NJD,TOR,TOR,10,NJD,1,2,0,8474056,8478857.0,P.K. Subban Interference against Dmytro Timashov
-115,penalty,Hi-sticking,Alexander Kerfoot,Nikita Gusev,[-78.  26.],2,15:22,TOR,NJD,TOR,10,NJD,1,4,0,8477021,8477038.0,Alexander Kerfoot Hi-sticking against Nikita Gusev
-135,penalty,Hi-sticking,Blake Coleman,Alexander Kerfoot,[-85. -30.],2,10:26,NJD,TOR,TOR,10,NJD,1,4,1,8476399,8477021.0,Blake Coleman Hi-sticking against Alexander Kerfoot
-154,penalty,Roughing,Miles Wood,Pierre Engvall,[-69. -22.],2,06:52,NJD,TOR,TOR,10,NJD,1,5,1,8477425,8478115.0,Miles Wood Roughing against Pierre Engvall
-155,penalty,Roughing,Pierre Engvall,Miles Wood,[-72. -19.],2,06:52,TOR,NJD,TOR,10,NJD,1,5,1,8478115,8477425.0,Pierre Engvall Roughing against Miles Wood
-160,penalty,Tripping,Travis Zajac,Justin Holl,[ 47. -37.],2,04:58,NJD,TOR,TOR,10,NJD,1,5,1,8471233,8475718.0,Travis Zajac Tripping against Justin Holl
-254,penalty,Hooking,Cody Ceci,Miles Wood,[58. 16.],3,04:05,TOR,NJD,TOR,10,NJD,1,6,3,8476879,8477425.0,Cody Ceci Hooking against Miles Wood
-261,penalty,Hooking,Martin Marincin,Nico Hischier,[81. 11.],3,02:20,TOR,NJD,TOR,10,NJD,1,6,3,8475716,8480002.0,Martin Marincin Hooking against Nico Hischier
-55,penalty,Interference,Tom Wilson,Miles Wood,[24. 40.],1,09:18,WSH,NJD,WSH,15,NJD,1,0,0,8476880,8477425.0,Tom Wilson Interference against Miles Wood
-68,penalty,Tripping,Travis Zajac,Michal Kempny,[94. 20.],1,06:21,NJD,WSH,WSH,15,NJD,1,0,0,8471233,8479482.0,Travis Zajac Tripping against Michal Kempny
-75,penalty,Holding,John Hayden,Dmitry Orlov,[97.  7.],1,04:48,NJD,WSH,WSH,15,NJD,1,0,0,8477401,8475200.0,John Hayden Holding against Dmitry Orlov
-114,penalty,Hooking,Richard Panik,Blake Coleman,[-64. -22.],2,16:44,WSH,NJD,WSH,15,NJD,1,3,1,8475209,8476399.0,Richard Panik Hooking against Blake Coleman
-167,penalty,Cross checking,Richard Panik,John Hayden,[-79.   1.],2,06:04,WSH,NJD,WSH,15,NJD,1,3,1,8475209,8477401.0,Richard Panik Cross checking against John Hayden
-170,penalty,Hi stick - double minor,Sami Vatanen,Lars Eller,[-33.  40.],2,05:24,NJD,WSH,WSH,15,NJD,1,3,1,8475222,8474189.0,Sami Vatanen Hi stick - double minor against Lars Eller
-200,penalty,Holding,Will Butcher,Evgeny Kuznetsov,[-41. -39.],3,17:49,NJD,WSH,WSH,15,NJD,1,3,1,8477355,8475744.0,Will Butcher Holding against Evgeny Kuznetsov
-223,penalty,Hooking,Nicklas Backstrom,Jesper Bratt,[95. -2.],3,11:54,WSH,NJD,WSH,15,NJD,1,4,2,8473563,8479407.0,Nicklas Backstrom Hooking against Jesper Bratt
-9,penalty,Hooking,Connor Carrick,Eric Robinson,[78.  1.],1,17:48,NJD,CBJ,CBJ,29,NJD,1,0,0,8476941,8480762.0,Connor Carrick Hooking against Eric Robinson
-43,penalty,Tripping,Blake Coleman,Zach Werenski,[-96.  19.],1,09:31,NJD,CBJ,CBJ,29,NJD,1,0,0,8476399,8478460.0,Blake Coleman Tripping against Zach Werenski
-62,penalty,Roughing,Alexander Wennberg,Kevin Rooney,[ 93. -27.],1,04:49,CBJ,NJD,CBJ,29,NJD,1,1,0,8477505,8479291.0,Alexander Wennberg Roughing against Kevin Rooney
-101,penalty,Tripping,Nick Foligno,Pavel Zacha,[-85. -26.],2,16:53,CBJ,NJD,CBJ,29,NJD,1,1,0,8473422,8478401.0,Nick Foligno Tripping against Pavel Zacha
-116,penalty,Closing hand on puck,Emil Bemstrom,,[-95. -20.],2,13:41,CBJ,NJD,CBJ,29,NJD,1,1,0,8480205,,Emil Bemstrom Closing hand on puck
-242,penalty,Roughing,Nathan Gerbe,Jakob Lilja,[79. 22.],3,02:35,CBJ,NJD,CBJ,29,NJD,1,5,0,8471804,8481650.0,Nathan Gerbe Roughing against Damon Severson served by Jakob Lilja
-243,penalty,Roughing,Damon Severson,John Hayden,[81. 21.],3,02:35,NJD,CBJ,CBJ,29,NJD,1,5,0,8476923,8477401.0,Damon Severson Roughing against Nathan Gerbe served by John Hayden
-244,penalty,Misconduct,Damon Severson,Nathan Gerbe,[81. 20.],3,02:35,NJD,CBJ,CBJ,29,NJD,1,5,0,8476923,8471804.0,Damon Severson Misconduct against Nathan Gerbe
-245,penalty,Misconduct,Nathan Gerbe,Damon Severson,[81. 21.],3,02:35,CBJ,NJD,CBJ,29,NJD,1,5,0,8471804,8476923.0,Nathan Gerbe Misconduct against Damon Severson
-31,penalty,Hi stick - double minor,Connor Brown,Sami Vatanen,[82.  9.],1,13:46,OTT,NJD,OTT,9,NJD,1,0,0,8477015,8475222.0,Connor Brown Hi stick - double minor against Sami Vatanen
-67,penalty,Tripping,Kyle Palmieri,Tyler Ennis,[13. 38.],1,07:20,NJD,OTT,OTT,9,NJD,1,0,1,8475151,8474589.0,Kyle Palmieri Tripping against Tyler Ennis
-83,penalty,Slashing,Mirco Mueller,Chris Tierney,[66.  2.],1,02:47,NJD,OTT,OTT,9,NJD,1,0,1,8477509,8476919.0,Mirco Mueller Slashing against Chris Tierney
-124,penalty,Fighting,P.K. Subban,Brady Tkachuk,[-72.   4.],2,16:03,NJD,OTT,OTT,9,NJD,1,1,1,8474056,8480801.0,P.K. Subban Fighting against Brady Tkachuk
-125,penalty,Fighting,Brady Tkachuk,P.K. Subban,[-70.   1.],2,16:03,OTT,NJD,OTT,9,NJD,1,1,1,8480801,8474056.0,Brady Tkachuk Fighting against P.K. Subban
-162,penalty,Hooking,Mike Reilly,Nico Hischier,[65.  5.],2,10:00,OTT,NJD,OTT,9,NJD,1,1,2,8476422,8480002.0,Mike Reilly Hooking against Nico Hischier
-246,penalty,Tripping,Artem Anisimov,Nico Hischier,[-37.  21.],3,14:39,OTT,NJD,OTT,9,NJD,1,1,2,8473573,8480002.0,Artem Anisimov Tripping against Nico Hischier
-262,penalty,Hi-sticking,Brady Tkachuk,Pavel Zacha,[91. 30.],3,11:32,OTT,NJD,OTT,9,NJD,1,1,2,8480801,8478401.0,Brady Tkachuk Hi-sticking against Pavel Zacha
-10,penalty,Hi-sticking,Colton Sissons,John Hayden,[ 55. -33.],1,17:07,NSH,NJD,NJD,1,NSH,18,0,1,8476925,8477401.0,Colton Sissons Hi-sticking against John Hayden
-15,penalty,Tripping,Damon Severson,Kyle Turris,[32. 38.],1,15:38,NJD,NSH,NJD,1,NSH,18,0,1,8476923,8474068.0,Damon Severson Tripping against Kyle Turris
-83,penalty,Holding,Blake Coleman,Dante Fabbro,[-89. -30.],2,18:27,NJD,NSH,NJD,1,NSH,18,1,2,8476399,8479371.0,Blake Coleman Holding against Dante Fabbro
-104,penalty,Hooking,Ryan Johansen,Nikita Gusev,[-68.  10.],2,13:02,NSH,NJD,NJD,1,NSH,18,1,2,8475793,8477038.0,Ryan Johansen Hooking against Nikita Gusev
-113,penalty,Hi-sticking,Matt Duchene,Nikita Gusev,[-71. -22.],2,10:01,NSH,NJD,NJD,1,NSH,18,2,2,8475168,8477038.0,Matt Duchene Hi-sticking against Nikita Gusev
-190,penalty,Hooking,Wayne Simmonds,Colton Sissons,[-76. -30.],3,10:40,NJD,NSH,NJD,1,NSH,18,5,4,8474190,8476925.0,Wayne Simmonds Hooking against Colton Sissons
-2,penalty,Tripping,Stephen Johns,John Hayden,[64. 32.],1,19:43,DAL,NJD,NJD,1,DAL,25,0,0,8475730,8477401.0,Stephen Johns Tripping against John Hayden
-45,penalty,Interference,P.K. Subban,Tyler Seguin,[-96. -25.],1,07:54,NJD,DAL,NJD,1,DAL,25,0,0,8474056,8475794.0,P.K. Subban Interference against Tyler Seguin
-79,penalty,Tripping,Stephen Johns,Wayne Simmonds,[-66.   0.],2,17:20,DAL,NJD,NJD,1,DAL,25,1,0,8475730,8474190.0,Stephen Johns Tripping against Wayne Simmonds
-94,penalty,Tripping,Andy Greene,Mattias Janmark,[80.  3.],2,14:03,NJD,DAL,NJD,1,DAL,25,1,0,8472382,8477406.0,Andy Greene Tripping against Mattias Janmark
-173,penalty,Tripping,Andrew Cogliano,Sami Vatanen,[-88.  -9.],3,14:19,DAL,NJD,NJD,1,DAL,25,1,2,8471699,8475222.0,Andrew Cogliano Tripping against Sami Vatanen
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,game_id,winning_team,date,description
+24,penalty,Holding,Nate Thompson,Kyle Palmieri,[-27. -31.],1,13:21,MTL,NJD,NJD,1,MTL,8,0,0,8470775,8475151.0,2019020815,,2020-02-05,Nate Thompson Holding against Kyle Palmieri
+82,penalty,Tripping,Shea Weber,Kyle Palmieri,[-75. -29.],2,18:14,MTL,NJD,NJD,1,MTL,8,1,0,8470642,8475151.0,2019020815,,2020-02-05,Shea Weber Tripping against Kyle Palmieri
+86,penalty,Fighting,Dale Weise,John Hayden,[-34. -17.],2,18:06,MTL,NJD,NJD,1,MTL,8,2,0,8474668,8477401.0,2019020815,,2020-02-05,Dale Weise Fighting against John Hayden
+87,penalty,Fighting,John Hayden,Dale Weise,[-37. -18.],2,18:06,NJD,MTL,NJD,1,MTL,8,2,0,8477401,8474668.0,2019020815,,2020-02-05,John Hayden Fighting against Dale Weise
+101,penalty,Tripping,Artturi Lehkonen,Miles Wood,[-47.   9.],2,15:10,MTL,NJD,NJD,1,MTL,8,2,0,8477476,8477425.0,2019020815,,2020-02-05,Artturi Lehkonen Tripping against Miles Wood
+108,penalty,Hooking,Damon Severson,Joel Armia,[64.  3.],2,13:37,NJD,MTL,NJD,1,MTL,8,2,0,8476923,8476469.0,2019020815,,2020-02-05,Damon Severson Hooking against Joel Armia
+133,penalty,Slashing,Max Domi,Andy Greene,[-96.  -4.],2,07:31,MTL,NJD,NJD,1,MTL,8,3,0,8477503,8472382.0,2019020815,,2020-02-05,Max Domi Slashing against Andy Greene
+134,penalty,Fighting,Nick Cousins,Kevin Rooney,[-84. -36.],2,07:31,MTL,NJD,NJD,1,MTL,8,3,0,8476393,8479291.0,2019020815,,2020-02-05,Nick Cousins Fighting against Kevin Rooney
+135,penalty,Fighting,Kevin Rooney,Nick Cousins,[-59. -37.],2,07:31,NJD,MTL,NJD,1,MTL,8,3,0,8479291,8476393.0,2019020815,,2020-02-05,Kevin Rooney Fighting against Nick Cousins
+175,penalty,Hi-sticking,Joey Anderson,Jeff Petry,[95. 23.],3,17:45,NJD,MTL,NJD,1,MTL,8,3,2,8479315,8473507.0,2019020815,,2020-02-05,Joey Anderson Hi-sticking against Jeff Petry
+235,penalty,Too many men on the ice,Nick Cousins,,[37. 40.],3,01:09,MTL,NJD,NJD,1,MTL,8,3,4,8476393,,2019020815,,2020-02-05,Too many men/ice served by Nick Cousins
+9,penalty,Tripping,Tyler Pitlick,Pavel Zacha,[-20.  19.],1,18:02,PHI,NJD,PHI,4,NJD,1,0,1,8475752,8478401.0,2019020832,,2020-02-07,Tyler Pitlick Tripping against Pavel Zacha
+58,penalty,Holding,John Hayden,Jakub Voracek,[-79.  30.],1,02:33,NJD,PHI,PHI,4,NJD,1,0,1,8477401,8474161.0,2019020832,,2020-02-07,John Hayden Holding against Jakub Voracek
+76,penalty,Tripping,Kevin Hayes,Jesper Bratt,[-52.  39.],2,18:41,PHI,NJD,PHI,4,NJD,1,0,1,8475763,8479407.0,2019020832,,2020-02-07,Kevin Hayes Tripping against Jesper Bratt
+111,penalty,Holding,P.K. Subban,Claude Giroux,[94. 27.],2,09:10,NJD,PHI,PHI,4,NJD,1,0,2,8474056,8473512.0,2019020832,,2020-02-07,P.K. Subban Holding against Claude Giroux
+124,penalty,Tripping,Travis Sanheim,Jack Hughes,[-81. -35.],2,05:56,PHI,NJD,PHI,4,NJD,1,0,2,8477948,8481559.0,2019020832,,2020-02-07,Travis Sanheim Tripping against Jack Hughes
+157,penalty,Tripping,P.K. Subban,Jakub Voracek,[-69. -37.],3,19:14,NJD,PHI,PHI,4,NJD,1,0,2,8474056,8474161.0,2019020832,,2020-02-07,P.K. Subban Tripping against Jakub Voracek
+206,penalty,Interference,John Hayden,Sean Couturier,[-71.   4.],3,07:31,NJD,PHI,PHI,4,NJD,1,0,5,8477401,8476461.0,2019020832,,2020-02-07,John Hayden Interference against Sean Couturier
+11,penalty,Hooking,Carl Grundstrom,Jesper Bratt,[-44.  40.],1,17:39,LAK,NJD,NJD,1,LAK,26,0,0,8479336,8479407.0,2019020848,,2020-02-09,Carl Grundstrom Hooking against Jesper Bratt
+70,penalty,Cross checking,Damon Severson,Austin Wagner,[-80. -36.],1,01:54,NJD,LAK,NJD,1,LAK,26,0,0,8476923,8478455.0,2019020848,,2020-02-09,Damon Severson Cross checking against Austin Wagner
+90,penalty,Hooking,Blake Lizotte,Wayne Simmonds,[-69. -13.],2,17:20,LAK,NJD,NJD,1,LAK,26,0,0,8481481,8474190.0,2019020848,,2020-02-09,Blake Lizotte Hooking against Wayne Simmonds
+106,penalty,Hi-sticking,Carl Grundstrom,Connor Carrick,[55. 22.],2,13:48,LAK,NJD,NJD,1,LAK,26,1,0,8479336,8476941.0,2019020848,,2020-02-09,Carl Grundstrom Hi-sticking against Connor Carrick
+127,penalty,Interference,P.K. Subban,Carl Grundstrom,[ 8. 35.],2,07:48,NJD,LAK,NJD,1,LAK,26,3,0,8474056,8479336.0,2019020848,,2020-02-09,P.K. Subban Interference against Carl Grundstrom
+129,penalty,PS - Hooking on breakaway,Damon Severson,Anze Kopitar,[65.  2.],2,07:23,NJD,LAK,NJD,1,LAK,26,3,0,8476923,8471685.0,2019020848,,2020-02-09,Damon Severson PS - Hooking on breakaway against Anze Kopitar
+188,penalty,Holding,Wayne Simmonds,Austin Wagner,[-41.   4.],3,13:55,NJD,LAK,NJD,1,LAK,26,3,0,8474190,8478455.0,2019020848,,2020-02-09,Wayne Simmonds Holding against Austin Wagner
+195,penalty,Hooking,Trevor Lewis,Jack Hughes,[94. -9.],3,11:08,LAK,NJD,NJD,1,LAK,26,3,0,8473453,8481559.0,2019020848,,2020-02-09,Trevor Lewis Hooking against Jack Hughes
+10,penalty,Too many men on the ice,Evgenii Dadonov,,[72. 30.],1,17:33,FLA,NJD,NJD,1,FLA,13,0,0,8474149,,2019020868,,2020-02-12,Too many men/ice served by Evgenii Dadonov
+36,penalty,Interference,MacKenzie Weegar,Kevin Rooney,[79. -2.],1,10:44,FLA,NJD,NJD,1,FLA,13,1,0,8477346,8479291.0,2019020868,,2020-02-12,MacKenzie Weegar Interference against Kevin Rooney
+156,penalty,Delaying Game - Puck over glass,Mirco Mueller,,[ 81. -13.],2,03:04,NJD,FLA,NJD,1,FLA,13,3,5,8477509,,2019020868,,2020-02-12,Mirco Mueller Delaying Game - Puck over glass
+190,penalty,Tripping,Blake Coleman,Riley Stillman,[73.  1.],3,12:44,NJD,FLA,NJD,1,FLA,13,3,5,8476399,8479388.0,2019020868,,2020-02-12,Blake Coleman Tripping against Riley Stillman
+4,penalty,Hooking,Damon Severson,Andreas Athanasiou,[-47. -22.],1,19:08,NJD,DET,NJD,1,DET,17,0,0,8476923,8476960.0,2019020884,,2020-02-14,Damon Severson Hooking against Andreas Athanasiou
+13,penalty,Delaying Game - Puck over glass,Darren Helm,,[ 20. -41.],1,16:38,DET,NJD,NJD,1,DET,17,0,0,8471794,,2019020884,,2020-02-14,Darren Helm Delaying Game - Puck over glass
+45,penalty,Hi-sticking,Andy Greene,Tyler Bertuzzi,[-89. -14.],1,08:42,NJD,DET,NJD,1,DET,17,0,0,8472382,8477479.0,2019020884,,2020-02-14,Andy Greene Hi-sticking against Tyler Bertuzzi
+99,penalty,Hi-sticking,Tyler Bertuzzi,Damon Severson,[63. 30.],2,17:01,DET,NJD,NJD,1,DET,17,0,0,8477479,8476923.0,2019020884,,2020-02-14,Tyler Bertuzzi Hi-sticking against Damon Severson
+108,penalty,Tripping,Miles Wood,Alex Biega,[-94.  28.],2,14:11,NJD,DET,NJD,1,DET,17,0,0,8477425,8473415.0,2019020884,,2020-02-14,Miles Wood Tripping against Alex Biega
+114,penalty,Cross checking,Mike Green,Blake Coleman,[-44. -39.],2,12:30,DET,NJD,NJD,1,DET,17,0,0,8471242,8476399.0,2019020884,,2020-02-14,Mike Green Cross checking against Blake Coleman
+120,penalty,Delaying Game - Puck over glass,Gustav Lindstrom,,[-47. -41.],2,10:25,DET,NJD,NJD,1,DET,17,0,0,8480184,,2019020884,,2020-02-14,Gustav Lindstrom Delaying Game - Puck over glass
+125,penalty,Interference,Alex Biega,Miles Wood,[-30. -39.],2,08:11,DET,NJD,NJD,1,DET,17,0,0,8473415,8477425.0,2019020884,,2020-02-14,Alex Biega Interference against Miles Wood
+137,penalty,Illegal check to head,Blake Coleman,Alex Biega,[ 35. -41.],2,04:50,NJD,DET,NJD,1,DET,17,0,0,8476399,8473415.0,2019020884,,2020-02-14,Blake Coleman Illegal check to head against Alex Biega
+191,penalty,Delaying Game - Smothering puck,Alex Biega,,[98. 19.],3,12:09,DET,NJD,NJD,1,DET,17,2,1,8473415,,2019020884,,2020-02-14,Alex Biega Delaying Game - Smothering puck
+6,penalty,Holding,Jordan Staal,Miles Wood,[ 48. -38.],1,18:47,CAR,NJD,CAR,12,NJD,1,0,0,8473533,8477425.0,2019020894,,2020-02-15,Jordan Staal Holding against Miles Wood
+77,penalty,Holding,Blake Coleman,Martin Necas,[-21. -34.],2,18:45,NJD,CAR,CAR,12,NJD,1,2,1,8476399,8480039.0,2019020894,,2020-02-15,Blake Coleman Holding against Martin Necas
+125,penalty,Tripping,Wayne Simmonds,Nino Niederreiter,[ 61. -27.],2,05:32,NJD,CAR,CAR,12,NJD,1,3,1,8474190,8475799.0,2019020894,,2020-02-15,Wayne Simmonds Tripping against Nino Niederreiter
+196,penalty,Slashing,Joel Edmundson,Miles Wood,[78. -8.],3,07:32,CAR,NJD,CAR,12,NJD,1,4,1,8476441,8477425.0,2019020894,,2020-02-15,Joel Edmundson Slashing against Miles Wood
+209,penalty,Tripping,Brett Pesce,Kevin Rooney,[30. 37.],3,04:43,CAR,NJD,CAR,12,NJD,1,5,2,8477488,8479291.0,2019020894,,2020-02-15,Brett Pesce Tripping against Kevin Rooney
+212,penalty,Tripping,Jordan Staal,Pavel Zacha,[31. 38.],3,03:55,CAR,NJD,CAR,12,NJD,1,5,2,8473533,8478401.0,2019020894,,2020-02-15,Jordan Staal Tripping against Pavel Zacha
+50,penalty,Holding,Damon Severson,Sonny Milano,[-99.  10.],1,06:47,NJD,CBJ,NJD,1,CBJ,29,0,2,8476923,8477947.0,2019020911,,2020-02-17,Damon Severson Holding against Sonny Milano
+102,penalty,Hooking,Pavel Zacha,Sonny Milano,[63. 28.],2,14:26,NJD,CBJ,NJD,1,CBJ,29,2,2,8478401,8477947.0,2019020911,,2020-02-17,Pavel Zacha Hooking against Sonny Milano
+24,penalty,Roughing,P.K. Subban,Alexander Steen,[89. 13.],1,13:18,NJD,STL,STL,19,NJD,1,0,0,8474056,8470257.0,2019020924,,2020-02-19,P.K. Subban Roughing against Alexander Steen
+25,penalty,Playing without a helmet,Alexander Steen,,[78. 15.],1,13:18,STL,NJD,STL,19,NJD,1,0,0,8470257,,2019020924,,2020-02-19,Alexander Steen Playing without a helmet
+66,penalty,Too many men on the ice,Nicholas Merkley,,[1. 2.],1,01:13,NJD,STL,STL,19,NJD,1,0,0,8478447,,2019020924,,2020-02-19,Too many men/ice served by Nicholas Merkley
+89,penalty,Hi-sticking,Nicholas Merkley,Robert Bortuzzo,[ 82. -20.],2,16:32,NJD,STL,STL,19,NJD,1,0,0,8478447,8474145.0,2019020924,,2020-02-19,Nicholas Merkley Hi-sticking against Robert Bortuzzo
+127,penalty,Hooking,Robert Thomas,Miles Wood,[-26. -38.],2,08:10,STL,NJD,STL,19,NJD,1,1,0,8480023,8477425.0,2019020924,,2020-02-19,Robert Thomas Hooking against Miles Wood
+129,penalty,Tripping,Wayne Simmonds,Colton Parayko,[65. -3.],2,08:05,NJD,STL,STL,19,NJD,1,1,0,8474190,8476892.0,2019020924,,2020-02-19,Wayne Simmonds Tripping against Colton Parayko
+175,penalty,Hi stick - double minor,Robert Thomas,Nicholas Merkley,[-38.  39.],3,14:15,STL,NJD,STL,19,NJD,1,2,0,8480023,8478447.0,2019020924,,2020-02-19,Robert Thomas Hi stick - double minor against Nicholas Merkley
+42,penalty,Fighting,Jacob Middleton,John Hayden,[-19.   7.],1,12:34,SJS,NJD,NJD,1,SJS,28,0,1,8478136,8477401.0,2019020934,,2020-02-21,Jacob Middleton Fighting against John Hayden
+43,penalty,Fighting,John Hayden,Jacob Middleton,[-21.  -6.],1,12:34,NJD,SJS,NJD,1,SJS,28,0,1,8477401,8478136.0,2019020934,,2020-02-21,John Hayden Fighting against Jacob Middleton
+44,penalty,Unsportsmanlike conduct,Jacob Middleton,Noah Gregor,[-8.  8.],1,12:34,SJS,NJD,NJD,1,SJS,28,0,1,8478136,8479393.0,2019020934,,2020-02-21,Jacob Middleton Unsportsmanlike conduct served by Noah Gregor
+85,penalty,Tripping,Stefan Noesen,Kevin Rooney,[-69.   7.],1,00:14,SJS,NJD,NJD,1,SJS,28,0,1,8476474,8479291.0,2019020934,,2020-02-21,Stefan Noesen Tripping against Kevin Rooney
+91,penalty,Interference,Wayne Simmonds,Marcus Sorensen,[-34. -13.],2,19:13,NJD,SJS,NJD,1,SJS,28,0,1,8474190,8475834.0,2019020934,,2020-02-21,Wayne Simmonds Interference against Marcus Sorensen
+125,penalty,Interference,P.K. Subban,Stefan Noesen,[ 93. -22.],2,12:49,NJD,SJS,NJD,1,SJS,28,0,1,8474056,8476474.0,2019020934,,2020-02-21,P.K. Subban Interference against Stefan Noesen
+140,penalty,Interference,Dylan Gambrell,Nico Hischier,[ 59. -28.],2,10:05,SJS,NJD,NJD,1,SJS,28,0,1,8479580,8480002.0,2019020934,,2020-02-21,Dylan Gambrell Interference against Nico Hischier
+149,penalty,Delaying Game - Puck over glass,Melker Karlsson,,[11. 42.],2,08:51,SJS,NJD,NJD,1,SJS,28,0,1,8477922,,2019020934,,2020-02-21,Melker Karlsson Delaying Game - Puck over glass
+181,penalty,Interference,Mirco Mueller,Alexander True,[-15. -40.],2,01:29,NJD,SJS,NJD,1,SJS,28,1,1,8477509,8480384.0,2019020934,,2020-02-21,Mirco Mueller Interference against Alexander True
+190,penalty,Delaying Game - Puck over glass,Mario Ferraro,,[ 44. -34.],3,18:54,SJS,NJD,NJD,1,SJS,28,1,1,8479983,,2019020934,,2020-02-21,Mario Ferraro Delaying Game - Puck over glass
+244,penalty,Interference - Goalkeeper,Alexander True,Mackenzie Blackwood,[-84.   0.],3,03:04,SJS,NJD,NJD,1,SJS,28,2,1,8480384,8478406.0,2019020934,,2020-02-21,Alexander True Interference - Goalkeeper against Mackenzie Blackwood
+9,penalty,Roughing,Connor Carrick,Tom Wilson,[-35. -39.],1,17:24,NJD,WSH,NJD,1,WSH,15,0,0,8476941,8476880.0,2019020948,,2020-02-23,Connor Carrick Roughing against Tom Wilson
+18,penalty,Hi-sticking,Travis Zajac,Michal Kempny,[ 68. -28.],1,14:39,NJD,WSH,NJD,1,WSH,15,0,0,8471233,8479482.0,2019020948,,2020-02-23,Travis Zajac Hi-sticking against Michal Kempny
+142,penalty,Hooking,Brenden Dillon,Kevin Rooney,[-92.  -3.],2,09:46,WSH,NJD,NJD,1,WSH,15,1,0,8475455,8479291.0,2019020948,,2020-02-23,Brenden Dillon Hooking against Kevin Rooney
+158,penalty,Tripping,Colton White,T.J. Oshie,[ 93. -25.],2,05:57,NJD,WSH,NJD,1,WSH,15,2,0,8478841,8471698.0,2019020948,,2020-02-23,Colton White Tripping against T.J. Oshie
+172,penalty,Holding,John Hayden,John Carlson,[-87. -24.],2,03:15,NJD,WSH,NJD,1,WSH,15,2,1,8477401,8474590.0,2019020948,,2020-02-23,John Hayden Holding against John Carlson
+229,penalty,Unsportsmanlike conduct,Colton White,Evgeny Kuznetsov,[  0. -36.],3,09:09,NJD,WSH,NJD,1,WSH,15,2,2,8478841,8475744.0,2019020948,,2020-02-23,Colton White Unsportsmanlike conduct against Evgeny Kuznetsov
+230,penalty,Unsportsmanlike conduct,Evgeny Kuznetsov,Colton White,[  1. -37.],3,09:09,WSH,NJD,NJD,1,WSH,15,2,2,8475744,8478841.0,2019020948,,2020-02-23,Evgeny Kuznetsov Unsportsmanlike conduct against Colton White
+236,penalty,Hooking,Dakota Mermis,Lars Eller,[-76. -29.],3,08:05,NJD,WSH,NJD,1,WSH,15,2,2,8477541,8474189.0,2019020948,,2020-02-23,Dakota Mermis Hooking against Lars Eller
+244,penalty,Hi-sticking,Travis Zajac,Tom Wilson,[40.  2.],3,06:19,NJD,WSH,NJD,1,WSH,15,2,2,8471233,8476880.0,2019020948,,2020-02-23,Travis Zajac Hi-sticking against Tom Wilson
+255,penalty,Hooking,Evgeny Kuznetsov,Kyle Palmieri,[53. 34.],3,04:16,WSH,NJD,NJD,1,WSH,15,2,2,8475744,8475151.0,2019020948,,2020-02-23,Evgeny Kuznetsov Hooking against Kyle Palmieri
+260,penalty,Slashing,Michal Kempny,Kyle Palmieri,[82.  0.],3,03:05,WSH,NJD,NJD,1,WSH,15,2,2,8479482,8475151.0,2019020948,,2020-02-23,Michal Kempny Slashing against Kyle Palmieri
+24,penalty,Too many men on the ice,Tyler Bertuzzi,,[19. 40.],1,14:59,DET,NJD,DET,17,NJD,1,0,1,8477479,,2019020975,,2020-02-26,Too many men/ice served by Tyler Bertuzzi
+93,penalty,Holding,Frans Nielsen,Nico Hischier,[ -4. -39.],2,15:34,DET,NJD,DET,17,NJD,1,0,1,8470144,8480002.0,2019020975,,2020-02-26,Frans Nielsen Holding against Nico Hischier
+103,penalty,Delaying Game - Puck over glass,Dylan Larkin,,[-69.  39.],2,13:07,DET,NJD,DET,17,NJD,1,0,2,8477946,,2019020975,,2020-02-26,Dylan Larkin Delaying Game - Puck over glass
+120,penalty,Cross checking,Miles Wood,Justin Abdelkader,[83. -1.],2,08:15,NJD,DET,DET,17,NJD,1,0,3,8477425,8471716.0,2019020975,,2020-02-26,Miles Wood Cross checking against Justin Abdelkader
+133,penalty,Hooking,Pavel Zacha,Dylan Larkin,[35. 30.],2,05:24,NJD,DET,DET,17,NJD,1,0,3,8478401,8477946.0,2019020975,,2020-02-26,Pavel Zacha Hooking against Dylan Larkin
+152,penalty,Hi-sticking,Alex Biega,Nico Hischier,[49. 40.],3,16:53,DET,NJD,DET,17,NJD,1,0,3,8473415,8480002.0,2019020975,,2020-02-26,Alex Biega Hi-sticking against Nico Hischier
+171,penalty,Tripping,Jack Hughes,Robby Fabbri,[ 47. -33.],3,10:54,NJD,DET,DET,17,NJD,1,0,3,8481559,8477952.0,2019020975,,2020-02-26,Jack Hughes Tripping against Robby Fabbri
+181,penalty,Hooking,Dylan Larkin,Damon Severson,[32. 37.],3,08:09,DET,NJD,DET,17,NJD,1,1,3,8477946,8476923.0,2019020975,,2020-02-26,Dylan Larkin Hooking against Damon Severson
+206,penalty,Cross checking,John Hayden,Tyler Bertuzzi,[-92. -27.],3,00:44,NJD,DET,DET,17,NJD,1,1,4,8477401,8477479.0,2019020975,,2020-02-26,John Hayden Cross checking against Tyler Bertuzzi
+207,penalty,Misconduct,Tyler Bertuzzi,,[-45. -16.],3,00:44,DET,NJD,DET,17,NJD,1,1,4,8477479,,2019020975,,2020-02-26,Tyler Bertuzzi Misconduct
+208,penalty,Misconduct,P.K. Subban,,[-43.  -8.],3,00:44,NJD,DET,DET,17,NJD,1,1,4,8474056,,2019020975,,2020-02-26,P.K. Subban Misconduct
+209,penalty,Game misconduct,John Hayden,Tyler Bertuzzi,[-96. -11.],3,00:44,NJD,DET,DET,17,NJD,1,1,4,8477401,8477479.0,2019020975,,2020-02-26,John Hayden Game misconduct against Tyler Bertuzzi
+60,penalty,Holding,Miles Wood,Alexander True,[51. 39.],1,02:38,NJD,SJS,SJS,28,NJD,1,0,2,8477425,8480384.0,2019020993,,2020-02-28,Miles Wood Holding against Alexander True
+62,penalty,Holding,Evander Kane,Joey Anderson,[-67.  -2.],1,02:30,SJS,NJD,SJS,28,NJD,1,0,2,8475169,8479315.0,2019020993,,2020-02-28,Evander Kane Holding against Joey Anderson
+96,penalty,Tripping,Lean Bergmann,Damon Severson,[-98.   7.],2,16:14,SJS,NJD,SJS,28,NJD,1,1,2,8481640,8476923.0,2019020993,,2020-02-28,Lean Bergmann Tripping against Damon Severson
+144,penalty,Roughing,Stefan Noesen,P.K. Subban,[-86.  -2.],2,08:10,SJS,NJD,SJS,28,NJD,1,1,2,8476474,8474056.0,2019020993,,2020-02-28,Stefan Noesen Roughing against P.K. Subban
+145,penalty,Roughing,P.K. Subban,Stefan Noesen,[-86.  -2.],2,08:10,NJD,SJS,SJS,28,NJD,1,1,2,8474056,8476474.0,2019020993,,2020-02-28,P.K. Subban Roughing against Stefan Noesen
+153,penalty,Hooking,Evander Kane,P.K. Subban,[62.  6.],2,05:09,SJS,NJD,SJS,28,NJD,1,1,2,8475169,8474056.0,2019020993,,2020-02-28,Evander Kane Hooking against P.K. Subban
+180,penalty,Hooking,Pavel Zacha,Marcus Sorensen,[55. 38.],3,16:55,NJD,SJS,SJS,28,NJD,1,2,2,8478401,8475834.0,2019020993,,2020-02-28,Pavel Zacha Hooking against Marcus Sorensen
+196,penalty,Interference,Dakota Mermis,Noah Gregor,[29. 19.],3,13:27,NJD,SJS,SJS,28,NJD,1,2,2,8477541,8479393.0,2019020993,,2020-02-28,Dakota Mermis Interference against Noah Gregor
+227,penalty,Delaying Game - Puck over glass,Radim Simek,,[-55. -42.],3,05:54,SJS,NJD,SJS,28,NJD,1,2,2,8480160,,2019020993,,2020-02-28,Radim Simek Delaying Game - Puck over glass
+113,penalty,Tripping,Kurtis MacDermid,Michael McLeod,[ 48. -31.],2,12:23,LAK,NJD,LAK,26,NJD,1,0,1,8477073,8479415.0,2019021001,,2020-02-29,Kurtis MacDermid Tripping against Michael McLeod
+58,penalty,Tripping,Sonny Milano,Miles Wood,[-77.  30.],1,04:10,ANA,NJD,ANA,24,NJD,1,0,0,8477947,8477425.0,2019021015,,2020-03-02,Sonny Milano Tripping against Miles Wood
+98,penalty,Holding,Carter Rowney,Nico Hischier,[75. -7.],2,16:49,ANA,NJD,ANA,24,NJD,1,0,1,8477240,8480002.0,2019021015,,2020-03-02,Carter Rowney Holding against Nico Hischier
+184,penalty,Interference,John Gibson,Nicolas Deslauriers,[98. -1.],2,00:41,ANA,NJD,ANA,24,NJD,1,0,2,8476434,8475235.0,2019021015,,2020-03-02,John Gibson Interference against Kevin Rooney served by Nicolas Deslauriers
+228,penalty,Hi-sticking,Josh Jacobs,Andrew Agozzino,[80. -3.],3,10:07,NJD,ANA,ANA,24,NJD,1,0,2,8477972,8475461.0,2019021015,,2020-03-02,Josh Jacobs Hi-sticking against Andrew Agozzino
+236,penalty,Slashing,Kevin Rooney,Max Jones,[63. 10.],3,08:08,NJD,ANA,ANA,24,NJD,1,0,2,8479291,8479368.0,2019021015,,2020-03-02,Kevin Rooney Slashing against Max Jones
+61,penalty,Tripping,Connor Carrick,Nick Cousins,[-81.  -4.],1,05:53,NJD,VGK,VGK,54,NJD,1,0,0,8476941,8476393.0,2019021027,,2020-03-04,Connor Carrick Tripping against Nick Cousins
+114,penalty,Hooking,Max Pacioretty,Mirco Mueller,[83. -9.],2,12:04,VGK,NJD,VGK,54,NJD,1,1,0,8474157,8477509.0,2019021027,,2020-03-04,Max Pacioretty Hooking against Mirco Mueller
+144,penalty,Holding,Max Pacioretty,Travis Zajac,[  8. -33.],2,06:12,VGK,NJD,VGK,54,NJD,1,1,0,8474157,8471233.0,2019021027,,2020-03-04,Max Pacioretty Holding against Travis Zajac
+231,penalty,Slashing,Brandon Pirri,Jack Hughes,[67. 24.],3,06:06,VGK,NJD,VGK,54,NJD,1,3,0,8475204,8481559.0,2019021027,,2020-03-04,Brandon Pirri Slashing against Jack Hughes
+9,penalty,Tripping,Kevin Rooney,Vince Dunn,[-36. -18.],1,17:23,NJD,STL,NJD,1,STL,19,0,0,8479291,8478407.0,2019021043,,2020-03-07,Kevin Rooney Tripping against Vince Dunn
+13,penalty,Tripping,Zach Sanford,Nico Hischier,[-14.  28.],1,16:17,STL,NJD,NJD,1,STL,19,0,0,8477482,8480002.0,2019021043,,2020-03-07,Zach Sanford Tripping against Nico Hischier
+45,penalty,Hooking,Damon Severson,Zach Sanford,[-84.   7.],1,09:23,NJD,STL,NJD,1,STL,19,1,0,8476923,8477482.0,2019021043,,2020-03-07,Damon Severson Hooking against Zach Sanford
+132,penalty,Hi-sticking,Colton Parayko,Jack Hughes,[-16. -39.],2,11:17,STL,NJD,NJD,1,STL,19,2,1,8476892,8481559.0,2019021043,,2020-03-07,Colton Parayko Hi-sticking against Jack Hughes
+147,penalty,Hi-sticking,Miles Wood,Alex Pietrangelo,[-77. -22.],2,07:51,NJD,STL,NJD,1,STL,19,2,1,8477425,8474565.0,2019021043,,2020-03-07,Miles Wood Hi-sticking against Alex Pietrangelo
+228,penalty,Tripping,P.K. Subban,David Perron,[-94.  -9.],3,08:36,NJD,STL,NJD,1,STL,19,3,1,8474056,8474102.0,2019021043,,2020-03-07,P.K. Subban Tripping against David Perron
+68,penalty,Delaying Game - Puck over glass,Nico Hischier,,[-95.  21.],1,08:46,NJD,NYR,NYR,3,NJD,1,2,1,8480002,,2019021055,,2020-03-08,Nico Hischier Delaying Game - Puck over glass
+82,penalty,Cross checking,Damon Severson,Artemi Panarin,[-82. -37.],1,04:29,NJD,NYR,NYR,3,NJD,1,2,1,8476923,8478550.0,2019021055,,2020-03-08,Damon Severson Cross checking against Artemi Panarin
+128,penalty,Tripping,Michael McLeod,Mika Zibanejad,[-57. -25.],2,16:31,NJD,NYR,NYR,3,NJD,1,2,3,8479415,8476459.0,2019021055,,2020-03-08,Michael McLeod Tripping against Mika Zibanejad
+180,penalty,Tripping,Adam Fox,Nico Hischier,[24. 33.],2,05:14,NYR,NJD,NYR,3,NJD,1,2,3,8479323,8480002.0,2019021055,,2020-03-08,Adam Fox Tripping against Nico Hischier
+48,penalty,Delaying Game - Puck over glass,Jack Johnson,,[ 58. -40.],1,08:56,PIT,NJD,NJD,1,PIT,5,0,1,8471677,,2019021072,,2020-03-11,Jack Johnson Delaying Game - Puck over glass
+69,penalty,Tripping,John Hayden,Jared McCann,[-82. -18.],1,04:49,NJD,PIT,NJD,1,PIT,5,1,1,8477401,8477955.0,2019021072,,2020-03-11,John Hayden Tripping against Jared McCann
+125,penalty,Tripping,Jack Hughes,Evgeni Malkin,[ 71. -16.],2,12:43,NJD,PIT,NJD,1,PIT,5,1,2,8481559,8471215.0,2019021072,,2020-03-11,Jack Hughes Tripping against Evgeni Malkin
+145,penalty,Too many men on the ice,Jesper Bratt,,[-12.  42.],2,07:18,NJD,PIT,NJD,1,PIT,5,1,2,8479407,,2019021072,,2020-03-11,Too many men/ice served by Jesper Bratt
+181,penalty,Hi-sticking,Sidney Crosby,Nico Hischier,[-98.  14.],3,16:24,PIT,NJD,NJD,1,PIT,5,1,2,8471675,8480002.0,2019021072,,2020-03-11,Sidney Crosby Hi-sticking against Nico Hischier
+183,penalty,Slashing,Kris Letang,Miles Wood,[19. 40.],3,16:06,PIT,NJD,NJD,1,PIT,5,1,2,8471724,8477425.0,2019021072,,2020-03-11,Kris Letang Slashing against Miles Wood
+223,penalty,Cross checking,Damon Severson,Evan Rodrigues,[-96. -22.],3,06:31,NJD,PIT,NJD,1,PIT,5,2,4,8476923,8478542.0,2019021072,,2020-03-11,Damon Severson Cross checking against Evan Rodrigues
+4,penalty,Slashing,Travis Zajac,Nikolaj Ehlers,[-51. -12.],1,18:43,NJD,WPG,NJD,1,WPG,52,0,0,8471233,8477940.0,2019020013,,2019-10-05,Travis Zajac Slashing against Nikolaj Ehlers
+20,penalty,Too many men on the ice,Mathieu Perreault,,[ -2. -24.],1,12:34,WPG,NJD,NJD,1,WPG,52,0,0,8473618,,2019020013,,2019-10-05,Too many men/ice served by Mathieu Perreault
+43,penalty,Cross checking,Miles Wood,Tucker Poolman,[-7. 40.],1,05:24,NJD,WPG,NJD,1,WPG,52,0,0,8477425,8477359.0,2019020013,,2019-10-05,Miles Wood Cross checking against Tucker Poolman
+128,penalty,Tripping,Andrew Copp,Miles Wood,[-35. -14.],2,03:01,WPG,NJD,NJD,1,WPG,52,4,0,8477429,8477425.0,2019020013,,2019-10-05,Andrew Copp Tripping against Miles Wood
+11,penalty,Holding,Will Butcher,Jack Eichel,[ 76. -40.],1,18:25,NJD,BUF,BUF,7,NJD,1,0,0,8477355,8478403.0,2019020018,,2019-10-06,Will Butcher Holding against Jack Eichel
+66,penalty,Holding,Blake Coleman,Colin Miller,[-93. -37.],1,02:56,NJD,BUF,BUF,7,NJD,1,1,0,8476399,8476525.0,2019020018,,2019-10-06,Blake Coleman Holding against Colin Miller
+91,penalty,Boarding,Colin Miller,Kyle Palmieri,[ 67. -38.],2,15:08,BUF,NJD,BUF,7,NJD,1,3,1,8476525,8475151.0,2019020018,,2019-10-06,Colin Miller Boarding against Kyle Palmieri
+114,penalty,Tripping,Blake Coleman,Jeff Skinner,[ 19. -30.],2,07:46,NJD,BUF,BUF,7,NJD,1,4,1,8476399,8475784.0,2019020018,,2019-10-06,Blake Coleman Tripping against Jeff Skinner
+125,penalty,Roughing,Wayne Simmonds,Jack Hughes,[-3. 39.],2,05:34,NJD,BUF,BUF,7,NJD,1,5,1,8474190,8481559.0,2019020018,,2019-10-06,Wayne Simmonds Roughing against Jake McCabe served by Jack Hughes
+126,penalty,Roughing,Wayne Simmonds,Jake McCabe,[-4. 40.],2,05:34,NJD,BUF,BUF,7,NJD,1,5,1,8474190,8476931.0,2019020018,,2019-10-06,Wayne Simmonds Roughing against Jake McCabe
+127,penalty,Misconduct,P.K. Subban,Kyle Okposo,[-3. 40.],2,05:34,NJD,BUF,BUF,7,NJD,1,5,1,8474056,8473449.0,2019020018,,2019-10-06,P.K. Subban Misconduct against Kyle Okposo
+128,penalty,Misconduct,Kyle Okposo,P.K. Subban,[-3. 40.],2,05:34,BUF,NJD,BUF,7,NJD,1,5,1,8473449,8474056.0,2019020018,,2019-10-06,Kyle Okposo Misconduct against P.K. Subban
+129,penalty,Roughing,Jake McCabe,Wayne Simmonds,[-39.   2.],2,05:34,BUF,NJD,BUF,7,NJD,1,5,1,8476931,8474190.0,2019020018,,2019-10-06,Jake McCabe Roughing against Wayne Simmonds
+184,penalty,Tripping,Conor Sheary,Will Butcher,[ 85. -37.],3,07:07,BUF,NJD,BUF,7,NJD,1,6,2,8477839,8477355.0,2019020018,,2019-10-06,Conor Sheary Tripping against Will Butcher
+41,penalty,Roughing,Miles Wood,Tyler Pitlick,[-93.  32.],1,10:31,NJD,PHI,PHI,4,NJD,1,0,0,8477425,8475752.0,2019020045,,2019-10-10,Miles Wood Roughing against Tyler Pitlick
+119,penalty,Slashing,Nikita Gusev,Oskar Lindblom,[63. -3.],2,12:01,NJD,PHI,PHI,4,NJD,1,0,0,8477038,8478067.0,2019020045,,2019-10-10,Nikita Gusev Slashing against Oskar Lindblom
+139,penalty,Tripping,Kevin Hayes,P.K. Subban,[43. 35.],2,08:15,PHI,NJD,PHI,4,NJD,1,1,0,8475763,8474056.0,2019020045,,2019-10-10,Kevin Hayes Tripping against P.K. Subban
+144,penalty,Tripping,Michael Raffl,Jack Hughes,[-30.  22.],2,06:27,PHI,NJD,PHI,4,NJD,1,1,0,8477290,8481559.0,2019020045,,2019-10-10,Michael Raffl Tripping against Jack Hughes
+163,penalty,Delaying Game - Puck over glass,Sean Couturier,,[-69. -37.],2,02:31,PHI,NJD,PHI,4,NJD,1,1,0,8476461,,2019020045,,2019-10-10,Sean Couturier Delaying Game - Puck over glass
+164,penalty,Delay Gm - Face-off Violation,Kevin Hayes,,[-73.  22.],2,02:31,PHI,NJD,PHI,4,NJD,1,1,0,8475763,,2019020045,,2019-10-10,Kevin Hayes Delay Gm - Face-off Violation
+178,penalty,Tripping,Sami Vatanen,Claude Giroux,[-30. -24.],3,19:40,NJD,PHI,PHI,4,NJD,1,1,0,8475222,8473512.0,2019020045,,2019-10-10,Sami Vatanen Tripping against Claude Giroux
+209,penalty,Hooking,Blake Coleman,Connor Bunnaman,[ 29. -35.],3,14:51,NJD,PHI,PHI,4,NJD,1,3,0,8476399,8479382.0,2019020045,,2019-10-10,Blake Coleman Hooking against Connor Bunnaman
+248,penalty,Slashing,Shayne Gostisbehere,Miles Wood,[ 32. -40.],3,03:25,PHI,NJD,PHI,4,NJD,1,4,0,8476906,8477425.0,2019020045,,2019-10-10,Shayne Gostisbehere Slashing against Miles Wood
+2,penalty,Tripping,Darnell Nurse,Kyle Palmieri,[95. 10.],1,19:36,EDM,NJD,NJD,1,EDM,22,0,0,8477498,8475151.0,2019020049,,2019-10-11,Darnell Nurse Tripping against Kyle Palmieri
+94,penalty,Interference,Pavel Zacha,Patrick Russell,[  2. -30.],2,13:01,NJD,EDM,NJD,1,EDM,22,1,1,8478401,8479466.0,2019020049,,2019-10-11,Pavel Zacha Interference against Patrick Russell
+133,penalty,Hooking,Tomas Jurco,Sami Vatanen,[-59.  16.],2,04:25,EDM,NJD,NJD,1,EDM,22,2,1,8476430,8475222.0,2019020049,,2019-10-11,Tomas Jurco Hooking against Sami Vatanen
+145,penalty,Hooking,Miles Wood,Leon Draisaitl,[78.  4.],2,01:39,NJD,EDM,NJD,1,EDM,22,2,1,8477425,8477934.0,2019020049,,2019-10-11,Miles Wood Hooking against Leon Draisaitl
+224,penalty,Tripping,Blake Coleman,Connor McDavid,[-35.   1.],3,01:16,NJD,EDM,NJD,1,EDM,22,3,2,8476399,8478402.0,2019020049,,2019-10-11,Blake Coleman Tripping against Connor McDavid
+68,penalty,Hooking,Sean Kuraly,Travis Zajac,[-66. -19.],1,04:36,BOS,NJD,BOS,6,NJD,1,2,0,8476374,8471233.0,2019020064,,2019-10-13,Sean Kuraly Hooking against Travis Zajac
+81,penalty,Interference,Mirco Mueller,Charlie Coyle,[ 69. -22.],1,00:17,NJD,BOS,BOS,6,NJD,1,2,0,8477509,8475745.0,2019020064,,2019-10-13,Mirco Mueller Interference against Charlie Coyle
+109,penalty,Tripping,Connor Carrick,Karson Kuhlman,[-64.  13.],2,13:48,NJD,BOS,BOS,6,NJD,1,2,0,8476941,8480901.0,2019020064,,2019-10-13,Connor Carrick Tripping against Karson Kuhlman
+123,penalty,Hooking,Brandon Carlo,Jack Hughes,[66.  9.],2,10:41,BOS,NJD,BOS,6,NJD,1,2,0,8478443,8481559.0,2019020064,,2019-10-13,Brandon Carlo Hooking against Jack Hughes
+144,penalty,Face-off violation,David Pastrnak,,[65. 23.],2,06:08,BOS,NJD,BOS,6,NJD,1,2,0,8477956,,2019020064,,2019-10-13,Delay Game - Bench – FO viol served by David Pastrnak
+163,penalty,Tripping,Kyle Palmieri,Charlie McAvoy,[43. 21.],2,01:01,NJD,BOS,BOS,6,NJD,1,2,0,8475151,8479325.0,2019020064,,2019-10-13,Kyle Palmieri Tripping against Charlie McAvoy
+207,penalty,Holding,Zdeno Chara,Nico Hischier,[-53.  35.],3,08:45,BOS,NJD,BOS,6,NJD,1,3,0,8465009,8480002.0,2019020064,,2019-10-13,Zdeno Chara Holding against Nico Hischier
+91,penalty,Tripping,Dryden Hunt,P.K. Subban,[95. -9.],2,17:34,FLA,NJD,NJD,1,FLA,13,4,1,8478211,8474056.0,2019020080,,2019-10-14,Dryden Hunt Tripping against P.K. Subban
+99,penalty,Too many men on the ice,Denis Malgin,,[13. 41.],2,14:37,FLA,NJD,NJD,1,FLA,13,4,1,8478843,,2019020080,,2019-10-14,Too many men/ice served by Denis Malgin
+101,penalty,Hooking,P.K. Subban,Noel Acciari,[52. 13.],2,14:18,NJD,FLA,NJD,1,FLA,13,4,1,8474056,8478569.0,2019020080,,2019-10-14,P.K. Subban Hooking against Noel Acciari
+106,penalty,Hooking,Sami Vatanen,Aleksander Barkov,[79. 24.],2,12:17,NJD,FLA,NJD,1,FLA,13,4,1,8475222,8477493.0,2019020080,,2019-10-14,Sami Vatanen Hooking against Aleksander Barkov
+116,penalty,Holding,Dryden Hunt,Jack Hughes,[96. 17.],2,09:41,FLA,NJD,NJD,1,FLA,13,4,2,8478211,8481559.0,2019020080,,2019-10-14,Dryden Hunt Holding against Jack Hughes
+191,penalty,Holding,P.K. Subban,Frank Vatrano,[-81.  13.],3,11:03,NJD,FLA,NJD,1,FLA,13,4,5,8474056,8478366.0,2019020080,,2019-10-14,P.K. Subban Holding against Frank Vatrano
+202,penalty,Hi stick - double minor,Jesper Boqvist,MacKenzie Weegar,[ 76. -33.],3,07:22,NJD,FLA,NJD,1,FLA,13,4,5,8480003,8477346.0,2019020080,,2019-10-14,Jesper Boqvist Hi stick - double minor against MacKenzie Weegar
+11,penalty,Interference,Marc Staal,Miles Wood,[ 90. -16.],1,17:05,NYR,NJD,NJD,1,NYR,3,0,0,8471686,8477425.0,2019020100,NYR,2019-10-18,Marc Staal Interference against Miles Wood
+12,penalty,Roughing,Miles Wood,Micheal Haley,[ 88. -13.],1,17:05,NJD,NYR,NJD,1,NYR,3,0,0,8477425,8474230.0,2019020100,NYR,2019-10-18,Miles Wood Roughing against Micheal Haley
+13,penalty,Roughing,Micheal Haley,Miles Wood,[ 88. -16.],1,17:05,NYR,NJD,NJD,1,NYR,3,0,0,8474230,8477425.0,2019020100,NYR,2019-10-18,Micheal Haley Roughing against Miles Wood
+59,penalty,Hooking,Kyle Palmieri,Artemi Panarin,[ 42. -26.],1,05:34,NJD,NYR,NJD,1,NYR,3,1,1,8475151,8478550.0,2019020100,NYR,2019-10-18,Kyle Palmieri Hooking against Artemi Panarin
+66,penalty,Tripping,Ryan Strome,Damon Severson,[-94. -28.],1,02:48,NYR,NJD,NJD,1,NYR,3,1,1,8476458,8476923.0,2019020100,NYR,2019-10-18,Ryan Strome Tripping against Damon Severson
+72,penalty,Interference,Taylor Hall,Brendan Smith,[65. 26.],1,02:12,NJD,NYR,NJD,1,NYR,3,1,1,8475791,8474090.0,2019020100,NYR,2019-10-18,Taylor Hall Interference against Brendan Smith
+93,penalty,Interference,Brady Skjei,John Hayden,[-72.  39.],2,17:47,NYR,NJD,NJD,1,NYR,3,1,1,8476869,8477401.0,2019020100,NYR,2019-10-18,Brady Skjei Interference against John Hayden
+101,penalty,Holding,Artemi Panarin,P.K. Subban,[97.  1.],2,16:53,NYR,NJD,NJD,1,NYR,3,2,1,8478550,8474056.0,2019020100,NYR,2019-10-18,Artemi Panarin Holding against P.K. Subban
+119,penalty,Elbowing,Taylor Hall,Jesper Bratt,[-99.  13.],2,13:11,NJD,NYR,NJD,1,NYR,3,2,1,8475791,8479407.0,2019020100,NYR,2019-10-18,Taylor Hall Elbowing against Adam Fox served by Jesper Bratt
+120,penalty,Roughing,Brady Skjei,Taylor Hall,[-99.  12.],2,13:11,NYR,NJD,NJD,1,NYR,3,2,1,8476869,8475791.0,2019020100,NYR,2019-10-18,Brady Skjei Roughing against Taylor Hall
+121,penalty,Roughing,Taylor Hall,Brady Skjei,[-99.  13.],2,13:11,NJD,NYR,NJD,1,NYR,3,2,1,8475791,8476869.0,2019020100,NYR,2019-10-18,Taylor Hall Roughing against Brady Skjei
+151,penalty,Tripping,Jesper Bratt,Kaapo Kakko,[-39.  28.],2,05:29,NJD,NYR,NJD,1,NYR,3,3,1,8479407,8481554.0,2019020100,NYR,2019-10-18,Jesper Bratt Tripping against Kaapo Kakko
+185,penalty,Cross checking,Tony DeAngelo,Wayne Simmonds,[75. 11.],3,16:03,NYR,NJD,NJD,1,NYR,3,3,2,8477950,8474190.0,2019020100,NYR,2019-10-18,Tony DeAngelo Cross checking against Wayne Simmonds
+196,penalty,Missing key [PD_151],Taylor Hall,,[-11.  42.],3,12:52,NJD,NYR,NJD,1,NYR,3,3,2,8475791,,2019020100,NYR,2019-10-18,Delaying Game - Unsucc. chlg served by Taylor Hall
+207,penalty,Boarding,Jesper Fast,Matt Tennyson,[ 14. -34.],3,09:46,NYR,NJD,NJD,1,NYR,3,3,2,8475855,8476807.0,2019020100,NYR,2019-10-18,Jesper Fast Boarding against Matt Tennyson
+231,penalty,Hooking,Wayne Simmonds,Chris Kreider,[-56. -20.],3,03:40,NJD,NYR,NJD,1,NYR,3,4,2,8474190,8475184.0,2019020100,NYR,2019-10-18,Wayne Simmonds Hooking against Chris Kreider
+242,penalty,Slashing,Tony DeAngelo,Miles Wood,[60.  3.],3,00:08,NYR,NJD,NJD,1,NYR,3,5,2,8477950,8477425.0,2019020100,NYR,2019-10-18,Tony DeAngelo Slashing against Miles Wood
+5,penalty,Interference,Damon Severson,Bo Horvat,[-93.  20.],1,18:58,NJD,VAN,NJD,1,VAN,23,0,0,8476923,8477500.0,2019020113,,2019-10-23,Damon Severson Interference against Bo Horvat
+53,penalty,Holding,Tyler Myers,John Hayden,[95. 25.],1,06:59,VAN,NJD,NJD,1,VAN,23,0,0,8474574,8477401.0,2019020113,,2019-10-23,Tyler Myers Holding against John Hayden
+86,penalty,Too many men on the ice,Jesper Bratt,,[-20.  41.],1,00:39,NJD,VAN,NJD,1,VAN,23,1,0,8479407,,2019020113,,2019-10-23,Too many men/ice served by Jesper Bratt
+100,penalty,Tripping,Tim Schaller,P.K. Subban,[ 34. -20.],2,17:18,VAN,NJD,NJD,1,VAN,23,1,0,8477213,8474056.0,2019020113,,2019-10-23,Tim Schaller Tripping against P.K. Subban
+111,penalty,Tripping,Travis Zajac,Elias Pettersson,[ 49. -40.],2,13:56,NJD,VAN,NJD,1,VAN,23,1,0,8471233,8480012.0,2019020113,,2019-10-23,Travis Zajac Tripping against Elias Pettersson
+136,penalty,Interference,Alexander Edler,Taylor Hall,[-86. -22.],2,09:14,VAN,NJD,NJD,1,VAN,23,1,0,8471303,8475791.0,2019020113,,2019-10-23,Alexander Edler Interference against Taylor Hall
+148,penalty,Hi-sticking,Kevin Rooney,Alexander Edler,[-98.   5.],2,06:13,NJD,VAN,NJD,1,VAN,23,1,0,8479291,8471303.0,2019020113,,2019-10-23,Kevin Rooney Hi-sticking against Alexander Edler
+150,penalty,Fighting,Mirco Mueller,Brandon Sutter,[-79.  -1.],2,05:35,NJD,VAN,NJD,1,VAN,23,1,0,8477509,8474091.0,2019020113,,2019-10-23,Mirco Mueller Fighting against Brandon Sutter
+151,penalty,Fighting,Brandon Sutter,Mirco Mueller,[-77.   1.],2,05:35,VAN,NJD,NJD,1,VAN,23,1,0,8474091,8477509.0,2019020113,,2019-10-23,Brandon Sutter Fighting against Mirco Mueller
+152,penalty,Roughing,Mirco Mueller,Alexander Edler,[-70.   0.],2,05:35,NJD,VAN,NJD,1,VAN,23,1,0,8477509,8471303.0,2019020113,,2019-10-23,Mirco Mueller Roughing against Alexander Edler
+153,penalty,Illegal check to head,Alexander Edler,Blake Coleman,[-91. -20.],2,05:35,VAN,NJD,NJD,1,VAN,23,1,0,8471303,8476399.0,2019020113,,2019-10-23,Alexander Edler Illegal check to head against Blake Coleman
+163,penalty,Hi-sticking,John Hayden,Quinn Hughes,[-96. -15.],2,03:34,NJD,VAN,NJD,1,VAN,23,1,0,8477401,8480800.0,2019020113,,2019-10-23,John Hayden Hi-sticking against Quinn Hughes
+175,penalty,Interference,Tyler Myers,Kevin Rooney,[-11.  29.],2,00:08,VAN,NJD,NJD,1,VAN,23,1,0,8474574,8479291.0,2019020113,,2019-10-23,Tyler Myers Interference against Kevin Rooney
+176,penalty,Holding,Kevin Rooney,Tyler Myers,[-13.  30.],2,00:08,NJD,VAN,NJD,1,VAN,23,1,0,8479291,8474574.0,2019020113,,2019-10-23,Kevin Rooney Holding against Tyler Myers
+201,penalty,Holding the stick,P.K. Subban,J.T. Miller,[ 40. -26.],3,10:01,NJD,VAN,NJD,1,VAN,23,1,0,8474056,8476468.0,2019020113,,2019-10-23,P.K. Subban Holding the stick against J.T. Miller
+210,penalty,Holding,Quinn Hughes,Blake Coleman,[79.  6.],3,07:29,VAN,NJD,NJD,1,VAN,23,1,0,8480800,8476399.0,2019020113,,2019-10-23,Quinn Hughes Holding against Blake Coleman
+233,penalty,Cross checking,Travis Zajac,Elias Pettersson,[-86. -34.],3,00:00,NJD,VAN,NJD,1,VAN,23,1,0,8471233,8480012.0,2019020113,,2019-10-23,Travis Zajac Cross checking against Elias Pettersson
+54,penalty,Interference,Sami Vatanen,Clayton Keller,[-77.  -2.],1,06:06,NJD,ARI,NJD,1,ARI,53,0,0,8475222,8479343.0,2019020157,ARI,2019-10-26,Sami Vatanen Interference against Clayton Keller
+57,penalty,Hi-sticking,Derek Stepan,Andy Greene,[-87.  27.],1,05:37,ARI,NJD,NJD,1,ARI,53,0,0,8474613,8472382.0,2019020157,ARI,2019-10-26,Derek Stepan Hi-sticking against Andy Greene
+69,penalty,Hooking,Oliver Ekman-Larsson,Nico Hischier,[ 23. -32.],1,02:40,ARI,NJD,NJD,1,ARI,53,1,0,8475171,8480002.0,2019020157,ARI,2019-10-26,Oliver Ekman-Larsson Hooking against Nico Hischier
+86,penalty,Tripping,Carl Soderberg,Blake Coleman,[ 84. -35.],2,19:30,ARI,NJD,NJD,1,ARI,53,2,1,8471262,8476399.0,2019020157,ARI,2019-10-26,Carl Soderberg Tripping against Blake Coleman
+99,penalty,Interference,Mirco Mueller,Nick Schmaltz,[ -9. -39.],2,16:37,NJD,ARI,NJD,1,ARI,53,2,2,8477509,8477951.0,2019020157,ARI,2019-10-26,Mirco Mueller Interference against Nick Schmaltz
+107,penalty,Tripping,Ilya Lyubushkin,Kevin Rooney,[-98.  18.],2,13:06,ARI,NJD,NJD,1,ARI,53,2,2,8480950,8479291.0,2019020157,ARI,2019-10-26,Ilya Lyubushkin Tripping against Kevin Rooney
+110,penalty,Boarding,Taylor Hall,Oliver Ekman-Larsson,[-98.   6.],2,13:01,NJD,ARI,NJD,1,ARI,53,2,2,8475791,8475171.0,2019020157,ARI,2019-10-26,Taylor Hall Boarding against Oliver Ekman-Larsson
+188,penalty,Hooking,Vinnie Hinostroza,Travis Zajac,[51.  3.],3,08:46,ARI,NJD,NJD,1,ARI,53,3,4,8476994,8471233.0,2019020157,ARI,2019-10-26,Vinnie Hinostroza Hooking against Travis Zajac
+3,penalty,Delaying Game - Puck over glass,Kevin Shattenkirk,,[ 18. -38.],1,19:27,TBL,NJD,NJD,1,TBL,14,0,0,8474031,,2019020188,TBL,2019-10-31,Kevin Shattenkirk Delaying Game - Puck over glass
+26,penalty,Boarding,Jan Rutta,John Hayden,[98.  1.],1,13:44,TBL,NJD,NJD,1,TBL,14,1,0,8480172,8477401.0,2019020188,TBL,2019-10-31,Jan Rutta Boarding against John Hayden
+66,penalty,Holding,Nico Hischier,Nikita Kucherov,[59. 27.],1,04:32,NJD,TBL,NJD,1,TBL,14,1,1,8480002,8476453.0,2019020188,TBL,2019-10-31,Nico Hischier Holding against Nikita Kucherov
+72,penalty,Tripping,Ryan McDonagh,Jack Hughes,[ 92. -28.],1,01:48,TBL,NJD,NJD,1,TBL,14,1,2,8474151,8481559.0,2019020188,TBL,2019-10-31,Ryan McDonagh Tripping against Jack Hughes
+93,penalty,Boarding,Mathieu Joseph,Matt Tennyson,[49. 40.],2,15:55,TBL,NJD,NJD,1,TBL,14,1,2,8478472,8476807.0,2019020188,TBL,2019-10-31,Mathieu Joseph Boarding against Matt Tennyson
+129,penalty,Interference,Mikhail Sergachev,Blake Coleman,[-32.  24.],2,06:23,TBL,NJD,NJD,1,TBL,14,4,3,8479410,8476399.0,2019020188,TBL,2019-10-31,Mikhail Sergachev Interference against Blake Coleman
+26,penalty,Tripping,Justin Braun,Miles Wood,[ 79. -10.],1,14:44,PHI,NJD,NJD,1,PHI,4,0,0,8474027,8477425.0,2019020196,PHI,2019-11-02,Justin Braun Tripping against Miles Wood
+56,penalty,Fighting,Kyle Palmieri,Matt Niskanen,[ 55. -15.],1,08:01,NJD,PHI,NJD,1,PHI,4,1,1,8475151,8471702.0,2019020196,PHI,2019-11-02,Kyle Palmieri Fighting against Matt Niskanen
+57,penalty,Fighting,Matt Niskanen,Kyle Palmieri,[ 56. -16.],1,08:01,PHI,NJD,NJD,1,PHI,4,1,1,8471702,8475151.0,2019020196,PHI,2019-11-02,Matt Niskanen Fighting against Kyle Palmieri
+58,penalty,Misconduct,Kyle Palmieri,,[ 55. -16.],1,08:01,NJD,PHI,NJD,1,PHI,4,1,1,8475151,,2019020196,PHI,2019-11-02,Kyle Palmieri Misconduct
+59,penalty,Instigator,Kyle Palmieri,Jesper Bratt,[ 56. -13.],1,08:01,NJD,PHI,NJD,1,PHI,4,1,1,8475151,8479407.0,2019020196,PHI,2019-11-02,Kyle Palmieri Instigator against Matt Niskanen served by Jesper Bratt
+105,penalty,Interference,Shayne Gostisbehere,Jesper Bratt,[24.  0.],2,15:09,PHI,NJD,NJD,1,PHI,4,1,1,8476906,8479407.0,2019020196,PHI,2019-11-02,Shayne Gostisbehere Interference against Jesper Bratt
+122,penalty,Holding,Andy Greene,Claude Giroux,[96. -9.],2,10:21,NJD,PHI,NJD,1,PHI,4,1,2,8472382,8473512.0,2019020196,PHI,2019-11-02,Andy Greene Holding against Claude Giroux
+139,penalty,Tripping,Claude Giroux,Jesper Bratt,[-41.  40.],2,06:34,PHI,NJD,NJD,1,PHI,4,1,2,8473512,8479407.0,2019020196,PHI,2019-11-02,Claude Giroux Tripping against Jesper Bratt
+149,penalty,Cross checking,Matt Tennyson,James van Riemsdyk,[81. -3.],2,04:14,NJD,PHI,NJD,1,PHI,4,2,2,8476807,8474037.0,2019020196,PHI,2019-11-02,Matt Tennyson Cross checking against James van Riemsdyk
+218,penalty,Delaying Game - Puck over glass,Travis Konecny,,[ 55. -38.],3,06:37,PHI,NJD,NJD,1,PHI,4,3,3,8478439,,2019020196,PHI,2019-11-02,Travis Konecny Delaying Game - Puck over glass
+58,penalty,Hooking,Andrei Svechnikov,Pavel Zacha,[-57. -39.],1,06:44,CAR,NJD,CAR,12,NJD,1,1,1,8480830,8478401.0,2019020210,NJD,2019-11-03,Andrei Svechnikov Hooking against Pavel Zacha
+67,penalty,Delaying Game - Puck over glass,Matt Tennyson,,[-86. -34.],1,04:10,NJD,CAR,CAR,12,NJD,1,1,1,8476807,,2019020210,NJD,2019-11-03,Matt Tennyson Delaying Game - Puck over glass
+71,penalty,Hooking,Blake Coleman,Andrei Svechnikov,[-97.   1.],1,03:24,NJD,CAR,CAR,12,NJD,1,2,1,8476399,8480830.0,2019020210,NJD,2019-11-03,Blake Coleman Hooking against Andrei Svechnikov
+78,penalty,Tripping,Dougie Hamilton,Nico Hischier,[-7. 39.],1,01:32,CAR,NJD,CAR,12,NJD,1,2,1,8476462,8480002.0,2019020210,NJD,2019-11-03,Dougie Hamilton Tripping against Nico Hischier
+115,penalty,Hooking,Travis Zajac,Jake Gardiner,[35. 39.],2,14:37,NJD,CAR,CAR,12,NJD,1,2,3,8471233,8474581.0,2019020210,NJD,2019-11-03,Travis Zajac Hooking against Jake Gardiner
+174,penalty,Roughing,Kevin Rooney,Andrei Svechnikov,[ 7. 40.],2,00:00,NJD,CAR,CAR,12,NJD,1,3,3,8479291,8480830.0,2019020210,NJD,2019-11-03,Kevin Rooney Roughing against Andrei Svechnikov
+175,penalty,Roughing,Andrei Svechnikov,Kevin Rooney,[ 3. 41.],2,00:00,CAR,NJD,CAR,12,NJD,1,3,3,8480830,8479291.0,2019020210,NJD,2019-11-03,Andrei Svechnikov Roughing against Kevin Rooney
+177,penalty,Tripping,Dougie Hamilton,Taylor Hall,[-4. 16.],3,19:56,CAR,NJD,CAR,12,NJD,1,3,3,8476462,8475791.0,2019020210,NJD,2019-11-03,Dougie Hamilton Tripping against Taylor Hall
+179,penalty,Interference,Kyle Palmieri,Jaccob Slavin,[ 87. -24.],3,19:43,NJD,CAR,CAR,12,NJD,1,3,3,8475151,8476958.0,2019020210,NJD,2019-11-03,Kyle Palmieri Interference against Jaccob Slavin
+207,penalty,Roughing,Ryan Dzingel,Pavel Zacha,[ 0. 39.],3,11:56,CAR,NJD,CAR,12,NJD,1,3,4,8476288,8478401.0,2019020210,NJD,2019-11-03,Ryan Dzingel Roughing against Pavel Zacha
+208,penalty,Roughing,Pavel Zacha,Ryan Dzingel,[-7. 22.],3,11:56,NJD,CAR,CAR,12,NJD,1,3,4,8478401,8476288.0,2019020210,NJD,2019-11-03,Pavel Zacha Roughing against Ryan Dzingel
+217,penalty,Hooking,Warren Foegele,Taylor Hall,[ 28. -16.],3,09:57,CAR,NJD,CAR,12,NJD,1,3,4,8477998,8475791.0,2019020210,NJD,2019-11-03,Warren Foegele Hooking against Taylor Hall
+35,penalty,Holding,Jack Roslovic,Andy Greene,[88. -5.],1,11:46,WPG,NJD,WPG,52,NJD,1,0,1,8478458,8472382.0,2019020229,NJD,2019-11-06,Jack Roslovic Holding against Andy Greene
+62,penalty,Interference,Nathan Beaulieu,Taylor Hall,[ 75. -39.],1,05:19,WPG,NJD,WPG,52,NJD,1,0,1,8476470,8475791.0,2019020229,NJD,2019-11-06,Nathan Beaulieu Interference against Taylor Hall
+112,penalty,Roughing,Miles Wood,Dmitry Kulikov,[-73.  19.],2,13:56,NJD,WPG,WPG,52,NJD,1,0,1,8477425,8475179.0,2019020229,NJD,2019-11-06,Miles Wood Roughing against Dmitry Kulikov
+240,penalty,Tripping,Blake Wheeler,Jesper Boqvist,[ 0. -8.],4,00:38,WPG,NJD,WPG,52,NJD,1,1,1,8471218,8480003.0,2019020229,NJD,2019-11-06,Blake Wheeler Tripping against Jesper Boqvist
+47,penalty,Tripping,Nikita Gusev,Tobias Rieder,[66. 34.],1,07:14,NJD,CGY,CGY,20,NJD,1,0,0,8477038,8476356.0,2019020245,NJD,2019-11-08,Nikita Gusev Tripping against Tobias Rieder
+66,penalty,Slashing,Mark Jankowski,Jack Hughes,[-28.  -2.],1,03:22,CGY,NJD,CGY,20,NJD,1,0,1,8476873,8481559.0,2019020245,NJD,2019-11-08,Mark Jankowski Slashing against Jack Hughes
+75,penalty,Slashing,Wayne Simmonds,Andrew Mangiapane,[-10.   8.],1,00:16,NJD,CGY,CGY,20,NJD,1,0,1,8474190,8478233.0,2019020245,NJD,2019-11-08,Wayne Simmonds Slashing against Andrew Mangiapane
+113,penalty,Hooking,Nikita Gusev,Sean Monahan,[-14.   7.],2,11:34,NJD,CGY,CGY,20,NJD,1,1,2,8477038,8477497.0,2019020245,NJD,2019-11-08,Nikita Gusev Hooking against Sean Monahan
+114,penalty,Tripping,Mikael Backlund,Blake Coleman,[65. 38.],2,11:15,CGY,NJD,CGY,20,NJD,1,1,2,8474150,8476399.0,2019020245,NJD,2019-11-08,Mikael Backlund Tripping against Blake Coleman
+131,penalty,Hi-sticking,Taylor Hall,Mark Giordano,[-86. -37.],2,06:50,NJD,CGY,CGY,20,NJD,1,2,2,8475791,8470966.0,2019020245,NJD,2019-11-08,Taylor Hall Hi-sticking against Mark Giordano
+154,penalty,Interference,Blake Coleman,Andrew Mangiapane,[-63.   8.],2,01:48,NJD,CGY,CGY,20,NJD,1,3,2,8476399,8478233.0,2019020245,NJD,2019-11-08,Blake Coleman Interference against Andrew Mangiapane
+200,penalty,Hi-sticking,Jack Hughes,Matthew Tkachuk,[-94.   0.],3,12:52,NJD,CGY,CGY,20,NJD,1,4,2,8481559,8479314.0,2019020245,NJD,2019-11-08,Jack Hughes Hi-sticking against Matthew Tkachuk
+221,penalty,Cross checking,Mikael Backlund,Nikita Gusev,[ 25. -40.],3,09:11,CGY,NJD,CGY,20,NJD,1,5,2,8474150,8477038.0,2019020245,NJD,2019-11-08,Mikael Backlund Cross checking against Nikita Gusev
+53,penalty,Hooking,Jack Hughes,Riley Sheahan,[81.  0.],1,07:35,NJD,EDM,EDM,22,NJD,1,0,0,8481559,8475772.0,2019020251,NJD,2019-11-09,Jack Hughes Hooking against Riley Sheahan
+81,penalty,Slashing,Darnell Nurse,Miles Wood,[67. -1.],1,01:40,EDM,NJD,EDM,22,NJD,1,0,0,8477498,8477425.0,2019020251,NJD,2019-11-09,Darnell Nurse Slashing against Miles Wood
+136,penalty,Closing hand on puck,Oscar Klefbom,,[ 71. -11.],2,09:40,EDM,NJD,EDM,22,NJD,1,1,0,8476472,,2019020251,NJD,2019-11-09,Oscar Klefbom Closing hand on puck
+144,penalty,Slashing,P.K. Subban,Connor McDavid,[-96.  -1.],2,06:47,NJD,EDM,EDM,22,NJD,1,1,0,8474056,8478402.0,2019020251,NJD,2019-11-09,P.K. Subban Slashing against Connor McDavid
+185,penalty,Too many men on the ice,Gaetan Haas,,[12. 41.],3,17:20,EDM,NJD,EDM,22,NJD,1,3,0,8481813,,2019020251,NJD,2019-11-09,Too many men/ice served by Gaetan Haas
+199,penalty,Cross checking,Blake Coleman,Ethan Bear,[-87.   0.],3,14:39,NJD,EDM,EDM,22,NJD,1,3,0,8476399,8478451.0,2019020251,NJD,2019-11-09,Blake Coleman Cross checking against Ethan Bear
+216,penalty,Tripping,Alex Chiasson,Damon Severson,[-74.   1.],3,11:22,EDM,NJD,EDM,22,NJD,1,4,0,8475163,8476923.0,2019020251,NJD,2019-11-09,Alex Chiasson Tripping against Damon Severson
+40,penalty,Slashing,Christopher Tanev,Damon Severson,[64. 23.],1,11:35,VAN,NJD,VAN,23,NJD,1,0,0,8475690,8476923.0,2019020265,NJD,2019-11-10,Christopher Tanev Slashing against Damon Severson
+48,penalty,Cross checking,Jordie Benn,Miles Wood,[ 51. -41.],1,09:10,VAN,NJD,VAN,23,NJD,1,0,0,8474818,8477425.0,2019020265,NJD,2019-11-10,Jordie Benn Cross checking against Miles Wood
+60,penalty,Tripping,P.K. Subban,Elias Pettersson,[-98.  10.],1,07:12,NJD,VAN,VAN,23,NJD,1,0,2,8474056,8480012.0,2019020265,NJD,2019-11-10,P.K. Subban Tripping against Elias Pettersson
+136,penalty,Holding,Matt Tennyson,Brandon Sutter,[ 61. -29.],2,07:44,NJD,VAN,VAN,23,NJD,1,0,2,8476807,8474091.0,2019020265,NJD,2019-11-10,Matt Tennyson Holding against Brandon Sutter
+200,penalty,Embellishment,Taylor Hall,,[ 87. -35.],3,12:16,NJD,VAN,VAN,23,NJD,1,1,2,8475791,,2019020265,NJD,2019-11-10,Taylor Hall Embellishment
+6,penalty,Tripping,J.C. Beaudin,Nikita Gusev,[ -5. -25.],1,18:16,OTT,NJD,NJD,1,OTT,9,0,0,8478833,8477038.0,2019020281,OTT,2019-11-14,J.C. Beaudin Tripping against Nikita Gusev
+26,penalty,Tripping,Mark Borowiecki,Nico Hischier,[ 10. -28.],1,13:31,OTT,NJD,NJD,1,OTT,9,1,0,8474697,8480002.0,2019020281,OTT,2019-11-14,Mark Borowiecki Tripping against Nico Hischier
+44,penalty,Tripping,Andy Greene,Colin White,[-71.  -5.],1,10:10,NJD,OTT,NJD,1,OTT,9,1,0,8472382,8478400.0,2019020281,OTT,2019-11-14,Andy Greene Tripping against Colin White
+156,penalty,Tripping,Jean-Gabriel Pageau,Travis Zajac,[  4. -24.],3,17:35,OTT,NJD,NJD,1,OTT,9,2,1,8476419,8471233.0,2019020281,OTT,2019-11-14,Jean-Gabriel Pageau Tripping against Travis Zajac
+6,penalty,Hooking,Travis Zajac,Evgeni Malkin,[ 18. -11.],1,19:26,NJD,PIT,NJD,1,PIT,5,0,0,8471233,8471215.0,2019020295,PIT,2019-11-16,Travis Zajac Hooking against Evgeni Malkin
+22,penalty,Slashing,Zach Aston-Reese,Miles Wood,[-58.  20.],1,16:35,PIT,NJD,NJD,1,PIT,5,0,0,8479944,8477425.0,2019020295,PIT,2019-11-16,Zach Aston-Reese Slashing against Miles Wood
+23,penalty,Cross checking,Miles Wood,Zach Aston-Reese,[-57.  18.],1,16:35,NJD,PIT,NJD,1,PIT,5,0,0,8477425,8479944.0,2019020295,PIT,2019-11-16,Miles Wood Cross checking against Zach Aston-Reese
+62,penalty,Illegal check to head,Zach Aston-Reese,Nikita Gusev,[59. 35.],1,06:29,PIT,NJD,NJD,1,PIT,5,1,0,8479944,8477038.0,2019020295,PIT,2019-11-16,Zach Aston-Reese Illegal check to head against Nikita Gusev
+139,penalty,Tripping,Jack Johnson,Jack Hughes,[-92.  22.],2,12:53,PIT,NJD,NJD,1,PIT,5,1,0,8471677,8481559.0,2019020295,PIT,2019-11-16,Jack Johnson Tripping against Jack Hughes
+145,penalty,Hooking,Taylor Hall,Teddy Blueger,[-59.  16.],2,11:36,NJD,PIT,NJD,1,PIT,5,1,0,8475791,8476927.0,2019020295,PIT,2019-11-16,Taylor Hall Hooking against Teddy Blueger
+175,penalty,Cross checking,Wayne Simmonds,John Marino,[-57.  40.],2,02:31,NJD,PIT,NJD,1,PIT,5,1,0,8474190,8478507.0,2019020295,PIT,2019-11-16,Wayne Simmonds Cross checking against John Marino
+194,penalty,Slashing,P.K. Subban,Max Domi,[69. 12.],2,02:13,NJD,MTL,MTL,8,NJD,1,2,1,8474056,8477503.0,2019020305,,2019-11-17,P.K. Subban Slashing against Max Domi
+199,penalty,Hooking,Damon Severson,Joel Armia,[74. 25.],2,01:42,NJD,MTL,MTL,8,NJD,1,2,1,8476923,8476469.0,2019020305,,2019-11-17,Damon Severson Hooking against Joel Armia
+218,penalty,Hi stick - double minor,Jordan Weal,Jack Hughes,[-94.  23.],3,17:51,MTL,NJD,MTL,8,NJD,1,3,2,8475738,8481559.0,2019020305,,2019-11-17,Jordan Weal Hi stick - double minor against Jack Hughes
+226,penalty,Too many men on the ice,John Hayden,,[-14.  41.],3,16:26,NJD,MTL,MTL,8,NJD,1,3,2,8477401,,2019020305,,2019-11-17,Too many men/ice served by John Hayden
+229,penalty,Hooking,Max Domi,Taylor Hall,[10.  1.],3,15:39,MTL,NJD,MTL,8,NJD,1,3,2,8477503,8475791.0,2019020305,,2019-11-17,Max Domi Hooking against Taylor Hall
+246,penalty,Illegal check to head,Brett Kulak,Blake Coleman,[75. -9.],3,12:31,MTL,NJD,MTL,8,NJD,1,3,2,8476967,8476399.0,2019020305,,2019-11-17,Brett Kulak Illegal check to head against Blake Coleman
+248,penalty,Hooking,Wayne Simmonds,Artturi Lehkonen,[84. 23.],3,11:58,NJD,MTL,MTL,8,NJD,1,3,2,8474190,8477476.0,2019020305,,2019-11-17,Wayne Simmonds Hooking against Artturi Lehkonen
+255,penalty,Hi-sticking,Miles Wood,Jesperi Kotkaniemi,[68. 41.],3,08:53,NJD,MTL,MTL,8,NJD,1,3,2,8477425,8480829.0,2019020305,,2019-11-17,Miles Wood Hi-sticking against Jesperi Kotkaniemi
+257,penalty,Interference,Max Domi,Blake Coleman,[-29.  35.],3,08:42,MTL,NJD,MTL,8,NJD,1,3,2,8477503,8476399.0,2019020305,,2019-11-17,Max Domi Interference against Blake Coleman
+258,penalty,Unsportsmanlike conduct,Max Domi,,[-28.  32.],3,08:42,MTL,NJD,MTL,8,NJD,1,3,2,8477503,,2019020305,,2019-11-17,Max Domi Unsportsmanlike conduct
+264,penalty,Cross checking,Kyle Palmieri,Jeff Petry,[71. -5.],3,07:23,NJD,MTL,MTL,8,NJD,1,3,2,8475151,8473507.0,2019020305,,2019-11-17,Kyle Palmieri Cross checking against Jeff Petry
+300,penalty,Hooking,Phillip Danault,Taylor Hall,[-30. -37.],4,04:16,MTL,NJD,MTL,8,NJD,1,3,3,8476479,8475791.0,2019020305,,2019-11-17,Phillip Danault Hooking against Taylor Hall
+40,penalty,Tripping,Jake DeBrusk,Pavel Zacha,[-76. -13.],1,07:48,BOS,NJD,NJD,1,BOS,6,0,0,8478498,8478401.0,2019020320,BOS,2019-11-20,Jake DeBrusk Tripping against Pavel Zacha
+51,penalty,Tripping,Danton Heinen,Blake Coleman,[-4. 38.],1,05:13,BOS,NJD,NJD,1,BOS,6,0,2,8478046,8476399.0,2019020320,BOS,2019-11-20,Danton Heinen Tripping against Blake Coleman
+61,penalty,Tripping,Taylor Hall,Charlie McAvoy,[ 94. -16.],1,01:54,NJD,BOS,NJD,1,BOS,6,0,2,8475791,8479325.0,2019020320,BOS,2019-11-20,Taylor Hall Tripping against Charlie McAvoy
+166,penalty,Tripping,P.K. Subban,David Pastrnak,[-65.  18.],3,16:49,NJD,BOS,NJD,1,BOS,6,1,2,8474056,8477956.0,2019020320,BOS,2019-11-20,P.K. Subban Tripping against David Pastrnak
+59,penalty,Cross checking,Miles Wood,Dominik Kahun,[-85. -34.],1,08:15,NJD,PIT,PIT,5,NJD,1,1,0,8477425,8480946.0,2019020346,,2019-11-23,Miles Wood Cross checking against Dominik Kahun
+88,penalty,Interference,Chad Ruhwedel,Miles Wood,[-50. -40.],1,01:20,PIT,NJD,PIT,5,NJD,1,1,0,8477244,8477425.0,2019020346,,2019-11-23,Chad Ruhwedel Interference against Miles Wood
+112,penalty,Hooking,Miles Wood,John Marino,[95.  9.],2,17:18,NJD,PIT,PIT,5,NJD,1,1,1,8477425,8478507.0,2019020346,,2019-11-23,Miles Wood Hooking against John Marino
+115,penalty,Fighting,Damon Severson,Patric Hornqvist,[-85.  28.],2,16:46,NJD,PIT,PIT,5,NJD,1,1,1,8476923,8471887.0,2019020346,,2019-11-23,Damon Severson Fighting against Patric Hornqvist
+116,penalty,Fighting,Patric Hornqvist,Damon Severson,[-85.  29.],2,16:46,PIT,NJD,PIT,5,NJD,1,1,1,8471887,8476923.0,2019020346,,2019-11-23,Patric Hornqvist Fighting against Damon Severson
+117,penalty,Roughing,Patric Hornqvist,Dominik Simon,[-83.  28.],2,16:46,PIT,NJD,PIT,5,NJD,1,1,1,8471887,8478866.0,2019020346,,2019-11-23,Patric Hornqvist Roughing against Damon Severson served by Dominik Simon
+136,penalty,Tripping,Jared McCann,Nikita Gusev,[ 18. -35.],2,13:06,PIT,NJD,PIT,5,NJD,1,1,1,8477955,8477038.0,2019020346,,2019-11-23,Jared McCann Tripping against Nikita Gusev
+245,penalty,Hi-sticking,Zach Trotman,Jack Hughes,[-75.  22.],3,09:44,PIT,NJD,PIT,5,NJD,1,4,1,8475902,8481559.0,2019020346,,2019-11-23,Zach Trotman Hi-sticking against Jack Hughes
+257,penalty,Holding,Wayne Simmonds,Brandon Tanev,[-57. -40.],3,05:57,NJD,PIT,PIT,5,NJD,1,4,1,8474190,8479293.0,2019020346,,2019-11-23,Wayne Simmonds Holding against Brandon Tanev
+13,penalty,Tripping,Taylor Hall,Dylan Larkin,[27. 29.],1,15:39,NJD,DET,NJD,1,DET,17,0,0,8475791,8477946.0,2019020354,,2019-11-24,Taylor Hall Tripping against Dylan Larkin
+37,penalty,Tripping,Brendan Perlini,Nico Hischier,[ 33. -30.],1,09:41,DET,NJD,NJD,1,DET,17,0,0,8477943,8480002.0,2019020354,,2019-11-24,Brendan Perlini Tripping against Nico Hischier
+42,penalty,Interference,Nikita Gusev,Luke Glendening,[ 82. -20.],1,09:19,NJD,DET,NJD,1,DET,17,0,0,8477038,8476822.0,2019020354,,2019-11-24,Nikita Gusev Interference against Luke Glendening
+56,penalty,Cross checking,Wayne Simmonds,Madison Bowey,[80. -1.],1,06:02,NJD,DET,NJD,1,DET,17,0,0,8474190,8477474.0,2019020354,,2019-11-24,Wayne Simmonds Cross checking against Madison Bowey
+71,penalty,Slashing,Madison Bowey,Taylor Hall,[78.  4.],1,02:55,DET,NJD,NJD,1,DET,17,0,0,8477474,8475791.0,2019020354,,2019-11-24,Madison Bowey Slashing against Taylor Hall
+77,penalty,Interference,Madison Bowey,Jack Hughes,[ 10. -40.],1,00:53,DET,NJD,NJD,1,DET,17,0,0,8477474,8481559.0,2019020354,,2019-11-24,Madison Bowey Interference against Jack Hughes
+104,penalty,Hooking,Robby Fabbri,Jack Hughes,[96. 10.],2,13:56,DET,NJD,NJD,1,DET,17,1,1,8477952,8481559.0,2019020354,,2019-11-24,Robby Fabbri Hooking against Jack Hughes
+138,penalty,Cross checking,Kyle Palmieri,Patrik Nemeth,[-96.  -1.],2,06:10,NJD,DET,NJD,1,DET,17,1,1,8475151,8475747.0,2019020354,,2019-11-24,Kyle Palmieri Cross checking against Patrik Nemeth
+148,penalty,Roughing,Tyler Bertuzzi,P.K. Subban,[80.  0.],2,03:10,DET,NJD,NJD,1,DET,17,1,1,8477479,8474056.0,2019020354,,2019-11-24,Tyler Bertuzzi Roughing against P.K. Subban
+149,penalty,Roughing,P.K. Subban,Tyler Bertuzzi,[80.  0.],2,03:10,NJD,DET,NJD,1,DET,17,1,1,8474056,8477479.0,2019020354,,2019-11-24,P.K. Subban Roughing against Tyler Bertuzzi
+233,penalty,Fighting,Wayne Simmonds,Dylan McIlrath,[32. 11.],3,00:23,NJD,DET,NJD,1,DET,17,4,1,8474190,8475795.0,2019020354,,2019-11-24,Wayne Simmonds Fighting against Dylan McIlrath
+234,penalty,Fighting,Dylan McIlrath,Wayne Simmonds,[35. 18.],3,00:23,DET,NJD,NJD,1,DET,17,4,1,8475795,8474190.0,2019020354,,2019-11-24,Dylan McIlrath Fighting against Wayne Simmonds
+24,penalty,Interference,Blake Coleman,Mats Zuccarello,[-71.   2.],1,14:34,NJD,MIN,NJD,1,MIN,30,0,0,8476399,8475692.0,2019020375,,2019-11-27,Blake Coleman Interference against Mats Zuccarello
+57,penalty,Missing key [PD_151],Mats Zuccarello,,[ -1. -38.],1,07:16,MIN,NJD,NJD,1,MIN,30,1,1,8475692,,2019020375,,2019-11-27,Delaying Game - Unsucc. chlg served by Mats Zuccarello
+131,penalty,Holding,Nico Hischier,Matt Dumba,[ 25. -33.],2,09:37,NJD,MIN,NJD,1,MIN,30,1,2,8480002,8476856.0,2019020375,,2019-11-27,Nico Hischier Holding against Matt Dumba
+138,penalty,Hooking,Kevin Fiala,Nico Hischier,[62. 17.],2,07:13,MIN,NJD,NJD,1,MIN,30,1,2,8477942,8480002.0,2019020375,,2019-11-27,Kevin Fiala Hooking against Nico Hischier
+149,penalty,Hooking,Miles Wood,Brad Hunt,[-77. -30.],2,05:02,NJD,MIN,NJD,1,MIN,30,2,2,8477425,8476779.0,2019020375,,2019-11-27,Miles Wood Hooking against Brad Hunt
+199,penalty,Hi-sticking,Andy Greene,Mats Zuccarello,[-91.  28.],3,14:26,NJD,MIN,NJD,1,MIN,30,2,3,8472382,8475692.0,2019020375,,2019-11-27,Andy Greene Hi-sticking against Mats Zuccarello
+25,penalty,Tripping,Mike Reilly,Blake Coleman,[79. 38.],1,16:15,MTL,NJD,MTL,8,NJD,1,0,0,8476422,8476399.0,2019020390,,2019-11-29,Mike Reilly Tripping against Blake Coleman
+59,penalty,Holding,Jeff Petry,Jesper Boqvist,[ 95. -28.],1,10:10,MTL,NJD,MTL,8,NJD,1,1,2,8473507,8480003.0,2019020390,,2019-11-29,Jeff Petry Holding against Jesper Boqvist
+104,penalty,Tripping,Jack Hughes,Jordan Weal,[-86.  33.],1,00:27,NJD,MTL,MTL,8,NJD,1,1,2,8481559,8475738.0,2019020390,,2019-11-29,Jack Hughes Tripping against Jordan Weal
+201,penalty,Tripping,Damon Severson,Nick Cousins,[85. 35.],2,04:15,NJD,MTL,MTL,8,NJD,1,3,4,8476923,8476393.0,2019020390,,2019-11-29,Damon Severson Tripping against Nick Cousins
+298,penalty,Tripping,Joel Armia,Nico Hischier,[-40.  31.],3,04:03,MTL,NJD,MTL,8,NJD,1,4,5,8476469,8480002.0,2019020390,,2019-11-29,Joel Armia Tripping against Nico Hischier
+63,penalty,Holding,Pavel Zacha,Chris Kreider,[-68.  37.],1,09:03,NJD,NYR,NJD,1,NYR,3,0,0,8478401,8475184.0,2019020403,,2019-12-02,Pavel Zacha Holding against Chris Kreider
+88,penalty,Hi-sticking,Ryan Strome,Kyle Palmieri,[ -4. -36.],1,00:32,NYR,NJD,NJD,1,NYR,3,0,1,8476458,8475151.0,2019020403,,2019-12-02,Ryan Strome Hi-sticking against Kyle Palmieri
+100,penalty,Tripping,Artemi Panarin,Jesper Boqvist,[-48.  39.],2,18:00,NYR,NJD,NJD,1,NYR,3,0,1,8478550,8480003.0,2019020403,,2019-12-02,Artemi Panarin Tripping against Jesper Boqvist
+119,penalty,Hooking,Brady Skjei,Miles Wood,[-71.  13.],2,13:34,NYR,NJD,NJD,1,NYR,3,0,1,8476869,8477425.0,2019020403,,2019-12-02,Brady Skjei Hooking against Miles Wood
+126,penalty,Hi-sticking,Travis Zajac,Filip Chytil,[-91.  31.],2,10:46,NJD,NYR,NJD,1,NYR,3,0,1,8471233,8480078.0,2019020403,,2019-12-02,Travis Zajac Hi-sticking against Filip Chytil
+155,penalty,Too many men on the ice,Artemi Panarin,,[14. 42.],2,04:37,NYR,NJD,NJD,1,NYR,3,0,1,8478550,,2019020403,,2019-12-02,Too many men/ice served by Artemi Panarin
+171,penalty,Hi stick - double minor,Libor Hajek,Wayne Simmonds,[-91.  -7.],2,00:33,NYR,NJD,NJD,1,NYR,3,0,1,8479333,8474190.0,2019020403,,2019-12-02,Libor Hajek Hi stick - double minor against Wayne Simmonds
+196,penalty,Boarding,Chris Kreider,Micheal Haley,[-99. -10.],3,14:39,NYR,NJD,NJD,1,NYR,3,0,2,8475184,8474230.0,2019020403,,2019-12-02,Chris Kreider Boarding against Matt Tennyson served by Micheal Haley
+197,penalty,Fighting,Kevin Rooney,Chris Kreider,[71. 22.],3,14:39,NJD,NYR,NJD,1,NYR,3,0,2,8479291,8475184.0,2019020403,,2019-12-02,Kevin Rooney Fighting against Chris Kreider
+198,penalty,Fighting,Chris Kreider,Kevin Rooney,[-85.  -9.],3,14:39,NYR,NJD,NJD,1,NYR,3,0,2,8475184,8479291.0,2019020403,,2019-12-02,Chris Kreider Fighting against Kevin Rooney
+199,penalty,Game misconduct,Chris Kreider,,[-98.  -7.],3,14:39,NYR,NJD,NJD,1,NYR,3,0,2,8475184,,2019020403,,2019-12-02,Chris Kreider Game misconduct
+205,penalty,Slashing,Nikita Gusev,Mika Zibanejad,[-70.   0.],3,13:14,NJD,NYR,NJD,1,NYR,3,0,3,8477038,8476459.0,2019020403,,2019-12-02,Nikita Gusev Slashing against Mika Zibanejad
+232,penalty,Slashing,Ryan Lindgren,Wayne Simmonds,[63. 26.],3,03:04,NYR,NJD,NJD,1,NYR,3,0,3,8479324,8474190.0,2019020403,,2019-12-02,Ryan Lindgren Slashing against Wayne Simmonds
+233,penalty,Roughing,Wayne Simmonds,Ryan Lindgren,[59. 21.],3,03:04,NJD,NYR,NJD,1,NYR,3,0,3,8474190,8479324.0,2019020403,,2019-12-02,Wayne Simmonds Roughing against Ryan Lindgren
+2,penalty,Tripping,Blake Coleman,Marcus Johansson,[ 18. -29.],1,19:16,NJD,BUF,BUF,7,NJD,1,0,0,8476399,8475149.0,2019020419,,2019-12-03,Blake Coleman Tripping against Marcus Johansson
+43,penalty,Slashing,Zemgus Girgensons,Pavel Zacha,[-79.   1.],1,07:58,BUF,NJD,BUF,7,NJD,1,3,0,8476878,8478401.0,2019020419,,2019-12-03,Zemgus Girgensons Slashing against Pavel Zacha
+91,penalty,Roughing,P.K. Subban,Colin Miller,[81.  2.],2,16:38,NJD,BUF,BUF,7,NJD,1,5,0,8474056,8476525.0,2019020419,,2019-12-03,P.K. Subban Roughing against Colin Miller
+92,penalty,Roughing,Colin Miller,P.K. Subban,[83.  1.],2,16:38,BUF,NJD,BUF,7,NJD,1,5,0,8476525,8474056.0,2019020419,,2019-12-03,Colin Miller Roughing against P.K. Subban
+110,penalty,Tripping,Zemgus Girgensons,Nico Hischier,[74. 21.],2,13:29,BUF,NJD,BUF,7,NJD,1,6,0,8476878,8480002.0,2019020419,,2019-12-03,Zemgus Girgensons Tripping against Nico Hischier
+128,penalty,Tripping,Kyle Palmieri,Casey Mittelstadt,[ 29. -40.],2,08:54,NJD,BUF,BUF,7,NJD,1,6,1,8475151,8479999.0,2019020419,,2019-12-03,Kyle Palmieri Tripping against Casey Mittelstadt
+180,penalty,Tripping,Brandon Montour,Jesper Bratt,[-86.   9.],3,13:46,BUF,NJD,BUF,7,NJD,1,7,1,8477986,8479407.0,2019020419,,2019-12-03,Brandon Montour Tripping against Jesper Bratt
+217,penalty,Hooking,Henri Jokiharju,Wayne Simmonds,[-93.  -9.],3,02:59,BUF,NJD,BUF,7,NJD,1,7,1,8480035,8474190.0,2019020419,,2019-12-03,Henri Jokiharju Hooking against Wayne Simmonds
+21,penalty,Holding the stick,Andy Greene,Alex Tuch,[-82.   6.],1,16:27,NJD,VGK,NJD,1,VGK,54,0,0,8472382,8477949.0,2019020427,,2019-12-04,Andy Greene Holding the stick against Alex Tuch
+58,penalty,Boarding,William Carrier,Max Pacioretty,[  4. -37.],1,08:34,VGK,NJD,NJD,1,VGK,54,0,0,8477478,8474157.0,2019020427,,2019-12-04,William Carrier Boarding against Matt Tennyson served by Max Pacioretty
+59,penalty,Roughing,William Carrier,Will Butcher,[  4. -38.],1,08:34,VGK,NJD,NJD,1,VGK,54,0,0,8477478,8477355.0,2019020427,,2019-12-04,William Carrier Roughing against Will Butcher
+60,penalty,Roughing,Will Butcher,William Carrier,[  7. -37.],1,08:34,NJD,VGK,NJD,1,VGK,54,0,0,8477355,8477478.0,2019020427,,2019-12-04,Will Butcher Roughing against William Carrier
+158,penalty,Missing key [PD_151],Jonathan Marchessault,,[  1. -37.],2,05:43,VGK,NJD,NJD,1,VGK,54,2,1,8476539,,2019020427,,2019-12-04,Delaying Game - Unsucc. chlg served by Jonathan Marchessault
+209,penalty,Hooking,Damon Severson,William Carrier,[-54. -18.],3,11:01,NJD,VGK,NJD,1,VGK,54,2,3,8476923,8477478.0,2019020427,,2019-12-04,Damon Severson Hooking against William Carrier
+239,penalty,Interference,Kyle Palmieri,Alex Tuch,[-44. -33.],3,04:45,NJD,VGK,NJD,1,VGK,54,3,4,8475151,8477949.0,2019020427,,2019-12-04,Kyle Palmieri Interference against Alex Tuch
+5,penalty,Delaying Game - Puck over glass,Alex Nylander,,[ 12. -40.],1,18:41,CHI,NJD,NJD,1,CHI,16,0,0,8479423,,2019020447,,2019-12-07,Alex Nylander Delaying Game - Puck over glass
+18,penalty,Interference,Calvin de Haan,Miles Wood,[ 96. -13.],1,15:39,CHI,NJD,NJD,1,CHI,16,0,0,8475177,8477425.0,2019020447,,2019-12-07,Calvin de Haan Interference against Miles Wood
+29,penalty,Fighting,Dennis Gilbert,Wayne Simmonds,[60. 19.],1,13:31,CHI,NJD,NJD,1,CHI,16,0,0,8478502,8474190.0,2019020447,,2019-12-07,Dennis Gilbert Fighting against Wayne Simmonds
+30,penalty,Fighting,Wayne Simmonds,Dennis Gilbert,[76. 28.],1,13:31,NJD,CHI,NJD,1,CHI,16,0,0,8474190,8478502.0,2019020447,,2019-12-07,Wayne Simmonds Fighting against Dennis Gilbert
+62,penalty,Elbowing,Zack Smith,Nikita Gusev,[-94.  23.],1,07:30,CHI,NJD,NJD,1,CHI,16,0,0,8474250,8477038.0,2019020447,,2019-12-07,Zack Smith Elbowing against Nikita Gusev
+121,penalty,Hooking,Sami Vatanen,Patrick Kane,[66. 23.],2,11:41,NJD,CHI,NJD,1,CHI,16,1,0,8475222,8474141.0,2019020447,,2019-12-07,Sami Vatanen Hooking against Patrick Kane
+183,penalty,Slashing,Kyle Palmieri,Alex Nylander,[50. 26.],3,15:59,NJD,CHI,NJD,1,CHI,16,1,1,8475151,8479423.0,2019020447,,2019-12-07,Kyle Palmieri Slashing against Alex Nylander
+189,penalty,Hi-sticking,Zack Smith,Will Butcher,[-80.  38.],3,13:44,CHI,NJD,NJD,1,CHI,16,1,1,8474250,8477355.0,2019020447,,2019-12-07,Zack Smith Hi-sticking against Will Butcher
+38,penalty,Unsportsmanlike conduct,Yannick Weber,,[-35.   3.],1,10:21,NSH,NJD,NSH,18,NJD,1,2,2,8474134,,2019020460,,2019-12-08,Yannick Weber Unsportsmanlike conduct
+42,penalty,Slashing,Nikita Gusev,Ryan Ellis,[ 63. -27.],1,09:48,NJD,NSH,NSH,18,NJD,1,2,2,8477038,8475176.0,2019020460,,2019-12-08,Nikita Gusev Slashing against Ryan Ellis
+45,penalty,Hooking,P.K. Subban,Kyle Turris,[91. 31.],1,08:31,NJD,NSH,NSH,18,NJD,1,2,2,8474056,8474068.0,2019020460,,2019-12-08,P.K. Subban Hooking against Kyle Turris
+75,penalty,Hooking,Dante Fabbro,Jesper Bratt,[96. -8.],2,19:28,NSH,NJD,NSH,18,NJD,1,2,2,8479371,8479407.0,2019020460,,2019-12-08,Dante Fabbro Hooking against Jesper Bratt
+83,penalty,Hi-sticking,Miles Wood,Daniel Carr,[-82.  14.],2,17:13,NJD,NSH,NSH,18,NJD,1,2,2,8477425,8477901.0,2019020460,,2019-12-08,Miles Wood Hi-sticking against Daniel Carr
+118,penalty,Illegal check to head,Blake Coleman,Yannick Weber,[85. 34.],2,09:59,NJD,NSH,NSH,18,NJD,1,4,2,8476399,8474134.0,2019020460,,2019-12-08,Blake Coleman Illegal check to head against Yannick Weber
+120,penalty,Interference,Ryan Johansen,Pavel Zacha,[-67.  22.],2,09:54,NSH,NJD,NSH,18,NJD,1,4,2,8475793,8478401.0,2019020460,,2019-12-08,Ryan Johansen Interference against Pavel Zacha
+133,penalty,Tripping,Filip Forsberg,Blake Coleman,[76.  1.],2,07:45,NSH,NJD,NSH,18,NJD,1,4,2,8476887,8476399.0,2019020460,,2019-12-08,Filip Forsberg Tripping against Blake Coleman
+166,penalty,Holding,Blake Coleman,Kyle Turris,[-31.   1.],3,19:18,NJD,NSH,NSH,18,NJD,1,4,3,8476399,8474068.0,2019020460,,2019-12-08,Blake Coleman Holding against Kyle Turris
+246,penalty,Too many men on the ice,Jesper Boqvist,,[-66.  36.],3,00:47,NJD,NSH,NSH,18,NJD,1,6,4,8480003,,2019020460,,2019-12-08,Too many men/ice served by Jesper Boqvist
+88,penalty,Slashing,Kyle Palmieri,Jamie Benn,[-82.   1.],1,01:10,NJD,DAL,DAL,25,NJD,1,2,0,8475151,8473994.0,2019020478,,2019-12-11,Kyle Palmieri Slashing against Jamie Benn
+168,penalty,Slashing,Jamie Benn,P.K. Subban,[-54.  41.],2,03:56,DAL,NJD,DAL,25,NJD,1,2,0,8473994,8474056.0,2019020478,,2019-12-11,Jamie Benn Slashing against P.K. Subban
+185,penalty,Roughing,P.K. Subban,Jamie Benn,[ 36. -17.],3,19:13,NJD,DAL,DAL,25,NJD,1,2,0,8474056,8473994.0,2019020478,,2019-12-11,P.K. Subban Roughing against Jamie Benn
+194,penalty,Charging,P.K. Subban,Miro Heiskanen,[-97. -26.],3,17:03,NJD,DAL,DAL,25,NJD,1,2,0,8474056,8480036.0,2019020478,,2019-12-11,P.K. Subban Charging against Miro Heiskanen
+218,penalty,Interference,Miro Heiskanen,Kyle Palmieri,[ 56. -31.],3,11:24,DAL,NJD,DAL,25,NJD,1,2,0,8480036,8475151.0,2019020478,,2019-12-11,Miro Heiskanen Interference against Kyle Palmieri
+230,penalty,Tripping,Taylor Hall,Blake Comeau,[ 32. -40.],3,09:06,NJD,DAL,DAL,25,NJD,1,2,0,8475791,8471260.0,2019020478,,2019-12-11,Taylor Hall Tripping against Blake Comeau
+239,penalty,Hooking,Blake Comeau,Taylor Hall,[64. 39.],3,06:51,DAL,NJD,DAL,25,NJD,1,2,0,8471260,8475791.0,2019020478,,2019-12-11,Blake Comeau Hooking against Taylor Hall
+259,penalty,Tripping,Sami Vatanen,Andrew Cogliano,[-29. -22.],3,01:14,NJD,DAL,DAL,25,NJD,1,2,0,8475222,8471699.0,2019020478,,2019-12-11,Sami Vatanen Tripping against Andrew Cogliano
+17,penalty,Delaying Game - Puck over glass,Jesper Boqvist,,[-35.  40.],1,17:07,NJD,COL,COL,21,NJD,1,0,0,8480003,,2019020500,,2019-12-17,Jesper Boqvist Delaying Game - Puck over glass
+40,penalty,Interference,Michael McLeod,Mark Barberio,[80. -1.],1,09:29,NJD,COL,COL,21,NJD,1,0,0,8479415,8474717.0,2019020500,,2019-12-17,Michael McLeod Interference against Mark Barberio
+68,penalty,Cross checking,Nazem Kadri,Travis Zajac,[97. 12.],1,02:32,COL,NJD,COL,21,NJD,1,1,0,8475172,8471233.0,2019020500,,2019-12-17,Nazem Kadri Cross checking against Travis Zajac
+94,penalty,Interference,Samuel Girard,Miles Wood,[-58.   8.],2,16:57,COL,NJD,COL,21,NJD,1,1,0,8479398,8477425.0,2019020500,,2019-12-17,Samuel Girard Interference against Miles Wood
+125,penalty,Roughing,P.K. Subban,Matt Calvert,[ 62. -41.],2,11:49,NJD,COL,COL,21,NJD,1,2,0,8474056,8474685.0,2019020500,,2019-12-17,P.K. Subban Roughing against Matt Calvert
+169,penalty,Tripping,Damon Severson,Valeri Nichushkin,[-10.  17.],2,02:02,NJD,COL,COL,21,NJD,1,2,0,8476923,8477501.0,2019020500,,2019-12-17,Damon Severson Tripping against Valeri Nichushkin
+184,penalty,Holding,Gabriel Landeskog,P.K. Subban,[87. 37.],3,18:37,COL,NJD,COL,21,NJD,1,2,0,8476455,8474056.0,2019020500,,2019-12-17,Gabriel Landeskog Holding against P.K. Subban
+208,penalty,Roughing,Blake Coleman,Joonas Donskoi,[-69.   4.],3,13:45,NJD,COL,COL,21,NJD,1,2,0,8476399,8475820.0,2019020500,,2019-12-17,Blake Coleman Roughing against Joonas Donskoi
+222,penalty,Slashing,Pierre-Edouard Bellemare,Jesper Boqvist,[86. 32.],3,11:04,COL,NJD,COL,21,NJD,1,2,0,8477930,8480003.0,2019020500,,2019-12-17,Pierre-Edouard Bellemare Slashing against Jesper Boqvist
+26,penalty,Tripping,P.K. Subban,Carl Soderberg,[39. 39.],1,13:27,NJD,ARI,ARI,53,NJD,1,0,1,8474056,8471262.0,2019020513,,2019-12-15,P.K. Subban Tripping against Carl Soderberg
+53,penalty,Holding the stick,P.K. Subban,Derek Stepan,[83.  6.],1,06:22,NJD,ARI,ARI,53,NJD,1,0,1,8474056,8474613.0,2019020513,,2019-12-15,P.K. Subban Holding the stick against Derek Stepan
+82,penalty,Hi-sticking,Alex Goligoski,Miles Wood,[ -4. -40.],1,00:10,ARI,NJD,ARI,53,NJD,1,1,1,8471274,8477425.0,2019020513,,2019-12-15,Alex Goligoski Hi-sticking against Miles Wood
+145,penalty,Slashing,Nick Schmaltz,Will Butcher,[-94.   7.],2,04:31,ARI,NJD,ARI,53,NJD,1,1,1,8477951,8477355.0,2019020513,,2019-12-15,Nick Schmaltz Slashing against Will Butcher
+206,penalty,Slashing,Wayne Simmonds,Phil Kessel,[-60. -34.],3,11:37,NJD,ARI,ARI,53,NJD,1,1,1,8474190,8473548.0,2019020513,,2019-12-15,Wayne Simmonds Slashing against Phil Kessel
+237,penalty,Tripping,Clayton Keller,Pavel Zacha,[ 55. -14.],3,04:31,ARI,NJD,ARI,53,NJD,1,1,2,8479343,8478401.0,2019020513,,2019-12-15,Clayton Keller Tripping against Pavel Zacha
+82,penalty,Interference,Hampus Lindholm,Wayne Simmonds,[-59. -22.],2,15:21,ANA,NJD,NJD,1,ANA,24,1,1,8476854,8474190.0,2019020535,,2019-12-19,Hampus Lindholm Interference against Wayne Simmonds
+103,penalty,Interference,Michael Del Zotto,Jesper Bratt,[-83.   3.],2,10:18,ANA,NJD,NJD,1,ANA,24,1,1,8474584,8479407.0,2019020535,,2019-12-19,Michael Del Zotto Interference against Jesper Bratt
+140,penalty,Hi-sticking,Blake Coleman,Max Comtois,[ 68. -39.],2,01:31,NJD,ANA,NJD,1,ANA,24,2,1,8476399,8480031.0,2019020535,,2019-12-19,Blake Coleman Hi-sticking against Max Comtois
+142,penalty,Hooking,Cam Fowler,Nico Hischier,[ 1. 35.],2,01:03,ANA,NJD,NJD,1,ANA,24,2,1,8475764,8480002.0,2019020535,,2019-12-19,Cam Fowler Hooking against Nico Hischier
+155,penalty,Fighting,Max Comtois,Damon Severson,[-4. 36.],3,17:36,ANA,NJD,NJD,1,ANA,24,3,1,8480031,8476923.0,2019020535,,2019-12-19,Max Comtois Fighting against Damon Severson
+156,penalty,Fighting,Damon Severson,Max Comtois,[ 3. 34.],3,17:36,NJD,ANA,NJD,1,ANA,24,3,1,8476923,8480031.0,2019020535,,2019-12-19,Damon Severson Fighting against Max Comtois
+196,penalty,Tripping,Nico Hischier,Jakob Silfverberg,[-69. -39.],3,04:03,NJD,ANA,NJD,1,ANA,24,3,1,8480002,8475164.0,2019020535,,2019-12-19,Nico Hischier Tripping against Jakob Silfverberg
+210,penalty,Holding,Hampus Lindholm,Nico Hischier,[ 58. -24.],3,01:18,ANA,NJD,NJD,1,ANA,24,3,1,8476854,8480002.0,2019020535,,2019-12-19,Hampus Lindholm Holding against Nico Hischier
+10,penalty,Hooking,Jonas Siegenthaler,Miles Wood,[68.  0.],1,17:10,WSH,NJD,NJD,1,WSH,15,0,0,8478399,8477425.0,2019020549,,2019-12-21,Jonas Siegenthaler Hooking against Miles Wood
+24,penalty,PS - Holding on breakaway,Sami Vatanen,Carl Hagelin,[-75.  -1.],1,13:51,NJD,WSH,NJD,1,WSH,15,1,0,8475222,8474176.0,2019020549,,2019-12-21,Sami Vatanen PS - Holding on breakaway against Carl Hagelin
+63,penalty,Delaying Game - Puck over glass,Brendan Leipsic,,[ 20. -41.],1,04:14,WSH,NJD,NJD,1,WSH,15,1,0,8476894,,2019020549,,2019-12-21,Brendan Leipsic Delaying Game - Puck over glass
+116,penalty,Slashing,Dmitry Orlov,Kyle Palmieri,[-66. -15.],2,08:19,WSH,NJD,NJD,1,WSH,15,2,2,8475200,8475151.0,2019020549,,2019-12-21,Dmitry Orlov Slashing against Kyle Palmieri
+137,penalty,Slashing,Sami Vatanen,Lars Eller,[64. 14.],2,04:07,NJD,WSH,NJD,1,WSH,15,2,2,8475222,8474189.0,2019020549,,2019-12-21,Sami Vatanen Slashing against Lars Eller
+152,penalty,Roughing,Garnet Hathaway,Miles Wood,[-29. -39.],2,01:10,WSH,NJD,NJD,1,WSH,15,2,2,8477903,8477425.0,2019020549,,2019-12-21,Garnet Hathaway Roughing against Miles Wood
+153,penalty,Roughing,Miles Wood,Garnet Hathaway,[-25. -39.],2,01:10,NJD,WSH,NJD,1,WSH,15,2,2,8477425,8477903.0,2019020549,,2019-12-21,Miles Wood Roughing against Garnet Hathaway
+205,penalty,Fighting,Nick Jensen,Miles Wood,[66. 21.],3,06:53,WSH,NJD,NJD,1,WSH,15,2,5,8475324,8477425.0,2019020549,,2019-12-21,Nick Jensen Fighting against Miles Wood
+206,penalty,Fighting,Miles Wood,Nick Jensen,[66. 19.],3,06:53,NJD,WSH,NJD,1,WSH,15,2,5,8477425,8475324.0,2019020549,,2019-12-21,Miles Wood Fighting against Nick Jensen
+11,penalty,Hooking,Jakob Lilja,Andy Greene,[-37. -23.],1,17:01,CBJ,NJD,CBJ,29,NJD,1,1,0,8481650,8472382.0,2019020560,,2019-12-22,Jakob Lilja Hooking against Andy Greene
+19,penalty,Too many men on the ice,Eric Robinson,,[-20.  41.],1,14:12,CBJ,NJD,CBJ,29,NJD,1,1,0,8480762,,2019020560,,2019-12-22,Too many men/ice served by Eric Robinson
+51,penalty,Hooking,Boone Jenner,Jesper Bratt,[-68.  40.],1,04:56,CBJ,NJD,CBJ,29,NJD,1,2,0,8476432,8479407.0,2019020560,,2019-12-22,Boone Jenner Hooking against Jesper Bratt
+52,penalty,Embellishment,Jesper Bratt,Boone Jenner,[-58.  39.],1,04:56,NJD,CBJ,CBJ,29,NJD,1,2,0,8479407,8476432.0,2019020560,,2019-12-22,Jesper Bratt Embellishment against Boone Jenner
+146,penalty,Hi-sticking,John Hayden,Kevin Stenlund,[ 7. 40.],2,01:10,NJD,CBJ,CBJ,29,NJD,1,3,1,8477401,8478831.0,2019020560,,2019-12-22,John Hayden Hi-sticking against Kevin Stenlund
+159,penalty,Roughing,Nick Foligno,Sami Vatanen,[82.  8.],3,18:08,CBJ,NJD,CBJ,29,NJD,1,3,1,8473422,8475222.0,2019020560,,2019-12-22,Nick Foligno Roughing against Sami Vatanen
+160,penalty,Roughing,Sami Vatanen,Nick Foligno,[78.  4.],3,18:08,NJD,CBJ,CBJ,29,NJD,1,3,1,8475222,8473422.0,2019020560,,2019-12-22,Sami Vatanen Roughing against Nick Foligno
+171,penalty,Hooking,Travis Zajac,Ryan MacInnis,[69. 41.],3,15:18,NJD,CBJ,CBJ,29,NJD,1,3,1,8471233,8477974.0,2019020560,,2019-12-22,Travis Zajac Hooking against Ryan MacInnis
+180,penalty,Unsportsmanlike conduct,Kyle Palmieri,,[ 14. -40.],3,13:56,NJD,CBJ,CBJ,29,NJD,1,3,1,8475151,,2019020560,,2019-12-22,Kyle Palmieri Unsportsmanlike conduct
+181,penalty,Tripping,Kyle Palmieri,Kevin Stenlund,[-82.  24.],3,13:56,NJD,CBJ,CBJ,29,NJD,1,3,1,8475151,8478831.0,2019020560,,2019-12-22,Kyle Palmieri Tripping against Kevin Stenlund
+220,penalty,Tripping,Dean Kukan,Kyle Palmieri,[-92.  -8.],3,02:58,CBJ,NJD,CBJ,29,NJD,1,3,1,8478567,8475151.0,2019020560,,2019-12-22,Dean Kukan Tripping against Kyle Palmieri
+229,penalty,Slashing,Miles Wood,Alexandre Texier,[-26. -30.],3,00:51,NJD,CBJ,CBJ,29,NJD,1,5,1,8477425,8480074.0,2019020560,,2019-12-22,Miles Wood Slashing against Alexandre Texier
+2,penalty,Hi-sticking,Jesper Boqvist,Adam Boqvist,[83. 27.],1,19:23,NJD,CHI,CHI,16,NJD,1,0,0,8480003,8480871.0,2019020578,,2019-12-24,Jesper Boqvist Hi-sticking against Adam Boqvist
+43,penalty,Fighting,Dennis Gilbert,John Hayden,[-32.   2.],1,11:38,CHI,NJD,CHI,16,NJD,1,1,0,8478502,8477401.0,2019020578,,2019-12-24,Dennis Gilbert Fighting against John Hayden
+44,penalty,Instigator,John Hayden,Nikita Gusev,[-33.   5.],1,11:38,NJD,CHI,CHI,16,NJD,1,1,0,8477401,8477038.0,2019020578,,2019-12-24,John Hayden Instigator against Dennis Gilbert served by Nikita Gusev
+45,penalty,Fighting,John Hayden,Dennis Gilbert,[-37.   4.],1,11:38,NJD,CHI,CHI,16,NJD,1,1,0,8477401,8478502.0,2019020578,,2019-12-24,John Hayden Fighting against Dennis Gilbert
+46,penalty,Misconduct,John Hayden,Dennis Gilbert,[-36.   2.],1,11:38,NJD,CHI,CHI,16,NJD,1,1,0,8477401,8478502.0,2019020578,,2019-12-24,John Hayden Misconduct against Dennis Gilbert
+50,penalty,Hooking,Dylan Strome,Pavel Zacha,[77.  2.],1,10:37,CHI,NJD,CHI,16,NJD,1,1,0,8478440,8478401.0,2019020578,,2019-12-24,Dylan Strome Hooking against Pavel Zacha
+67,penalty,Slashing,Wayne Simmonds,Corey Crawford,[83. -2.],1,07:44,NJD,CHI,CHI,16,NJD,1,1,0,8474190,8470645.0,2019020578,,2019-12-24,Wayne Simmonds Slashing against Corey Crawford
+68,penalty,Roughing,Jonathan Toews,Wayne Simmonds,[84. -3.],1,07:44,CHI,NJD,CHI,16,NJD,1,1,0,8473604,8474190.0,2019020578,,2019-12-24,Jonathan Toews Roughing against Wayne Simmonds
+88,penalty,Cross checking,Travis Zajac,Ryan Carpenter,[-85.   7.],1,04:06,NJD,CHI,CHI,16,NJD,1,1,1,8471233,8477846.0,2019020578,,2019-12-24,Travis Zajac Cross checking against Ryan Carpenter
+94,penalty,Boarding,Mirco Mueller,Kirby Dach,[-77.  40.],1,02:23,NJD,CHI,CHI,16,NJD,1,1,1,8477509,8481523.0,2019020578,,2019-12-24,Mirco Mueller Boarding against Kirby Dach
+147,penalty,Elbowing,Pavel Zacha,Erik Gustafsson,[-97.  -5.],2,12:12,NJD,CHI,CHI,16,NJD,1,1,3,8478401,8476979.0,2019020578,,2019-12-24,Pavel Zacha Elbowing against Erik Gustafsson
+192,penalty,Holding,Sami Vatanen,John Quenneville,[88. -7.],2,03:13,NJD,CHI,CHI,16,NJD,1,1,4,8475222,8477961.0,2019020578,,2019-12-24,Sami Vatanen Holding against John Quenneville
+245,penalty,Hooking,Patrick Kane,Jack Hughes,[-17.  37.],3,12:17,CHI,NJD,CHI,16,NJD,1,1,6,8474141,8481559.0,2019020578,,2019-12-24,Patrick Kane Hooking against Jack Hughes
+266,penalty,Cross checking,Mirco Mueller,Matthew Highmore,[-97.  11.],3,06:50,NJD,CHI,CHI,16,NJD,1,1,6,8477509,8478146.0,2019020578,,2019-12-24,Mirco Mueller Cross checking against Matthew Highmore
+279,penalty,Tripping,David Kampf,Jack Hughes,[-33.  21.],3,04:12,CHI,NJD,CHI,16,NJD,1,1,6,8480144,8481559.0,2019020578,,2019-12-24,David Kampf Tripping against Jack Hughes
+63,penalty,Hi stick - double minor,Miles Wood,Cody Ceci,[69. 19.],1,06:34,NJD,TOR,NJD,1,TOR,10,1,0,8477425,8476879.0,2019020583,,2019-12-28,Miles Wood Hi stick - double minor against Cody Ceci
+99,penalty,Tripping,Mitchell Marner,Nikita Gusev,[-65.   0.],2,18:33,TOR,NJD,NJD,1,TOR,10,1,2,8478483,8477038.0,2019020583,,2019-12-28,Mitchell Marner Tripping against Nikita Gusev
+102,penalty,Delaying Game - Puck over glass,Jake Muzzin,,[-47. -40.],2,18:27,TOR,NJD,NJD,1,TOR,10,1,2,8474162,,2019020583,,2019-12-28,Jake Muzzin Delaying Game - Puck over glass
+189,penalty,Hi-sticking,Tyson Barrie,Wayne Simmonds,[71. 22.],3,14:48,TOR,NJD,NJD,1,TOR,10,4,3,8475197,8474190.0,2019020583,,2019-12-28,Tyson Barrie Hi-sticking against Wayne Simmonds
+193,penalty,Too many men on the ice,Nikita Gusev,,[-35.  40.],3,13:32,NJD,TOR,NJD,1,TOR,10,4,3,8477038,,2019020583,,2019-12-28,Too many men/ice served by Nikita Gusev
+228,penalty,Holding,Miles Wood,Zach Hyman,[ 45. -31.],3,01:23,NJD,TOR,NJD,1,TOR,10,4,4,8477425,8475786.0,2019020583,,2019-12-28,Miles Wood Holding against Zach Hyman
+229,penalty,Embellishment,Zach Hyman,Miles Wood,[ 43. -30.],3,01:23,TOR,NJD,NJD,1,TOR,10,4,4,8475786,8477425.0,2019020583,,2019-12-28,Zach Hyman Embellishment against Miles Wood
+235,penalty,Slashing,Blake Coleman,Alexander Kerfoot,[39. 26.],3,00:29,NJD,TOR,NJD,1,TOR,10,4,4,8476399,8477021.0,2019020583,,2019-12-28,Blake Coleman Slashing against Alexander Kerfoot
+29,penalty,Interference,Andreas Englund,Jesper Boqvist,[18. 34.],1,13:47,OTT,NJD,OTT,9,NJD,1,0,0,8477971,8480003.0,2019020603,,2019-12-30,Andreas Englund Interference against Jesper Boqvist
+30,penalty,Fighting,Andreas Englund,John Hayden,[-13.  34.],1,13:47,OTT,NJD,OTT,9,NJD,1,0,0,8477971,8477401.0,2019020603,,2019-12-30,Andreas Englund Fighting against John Hayden
+31,penalty,Instigator,John Hayden,Andreas Englund,[-4. 32.],1,13:47,NJD,OTT,OTT,9,NJD,1,0,0,8477401,8477971.0,2019020603,,2019-12-30,John Hayden Instigator against Andreas Englund
+32,penalty,Fighting,John Hayden,Andreas Englund,[-5. 32.],1,13:47,NJD,OTT,OTT,9,NJD,1,0,0,8477401,8477971.0,2019020603,,2019-12-30,John Hayden Fighting against Andreas Englund
+33,penalty,Misconduct,John Hayden,Andreas Englund,[-12.  31.],1,13:47,NJD,OTT,OTT,9,NJD,1,0,0,8477401,8477971.0,2019020603,,2019-12-30,John Hayden Misconduct against Andreas Englund
+37,penalty,Tripping,Vladislav Namestnikov,Damon Severson,[ 89. -31.],1,12:51,OTT,NJD,OTT,9,NJD,1,0,0,8476480,8476923.0,2019020603,,2019-12-30,Vladislav Namestnikov Tripping against Damon Severson
+59,penalty,Interference,Mirco Mueller,Scott Sabourin,[ 37. -40.],1,08:35,NJD,OTT,OTT,9,NJD,1,0,1,8477509,8477149.0,2019020603,,2019-12-30,Mirco Mueller Interference against Scott Sabourin
+74,penalty,Cross checking,Scott Sabourin,Jesper Boqvist,[78.  0.],1,05:25,OTT,NJD,OTT,9,NJD,1,0,1,8477149,8480003.0,2019020603,,2019-12-30,Scott Sabourin Cross checking against Jesper Boqvist
+87,penalty,Too many men on the ice,Jack Hughes,,[10. 39.],1,03:23,NJD,OTT,OTT,9,NJD,1,0,1,8481559,,2019020603,,2019-12-30,Too many men/ice served by Jack Hughes
+123,penalty,Delaying Game - Puck over glass,Connor Carrick,,[-34. -39.],2,14:52,NJD,OTT,OTT,9,NJD,1,0,1,8476941,,2019020603,,2019-12-30,Connor Carrick Delaying Game - Puck over glass
+164,penalty,Delaying Game - Puck over glass,Colin White,,[74.  2.],2,06:03,OTT,NJD,OTT,9,NJD,1,2,1,8478400,,2019020603,,2019-12-30,Colin White Delaying Game - Puck over glass
+166,penalty,Tripping,Vladislav Namestnikov,Sami Vatanen,[-95.   8.],2,05:46,OTT,NJD,OTT,9,NJD,1,2,1,8476480,8475222.0,2019020603,,2019-12-30,Vladislav Namestnikov Tripping against Sami Vatanen
+2,penalty,Interference,P.K. Subban,Sean Kuraly,[-63. -40.],1,18:43,NJD,BOS,NJD,1,BOS,6,0,0,8474056,8476374.0,2019020613,,2019-12-31,P.K. Subban Interference against Sean Kuraly
+86,penalty,Tripping,Brad Marchand,Nikita Gusev,[-26.  17.],2,19:51,BOS,NJD,NJD,1,BOS,6,0,1,8473419,8477038.0,2019020613,,2019-12-31,Brad Marchand Tripping against Nikita Gusev
+125,penalty,Tripping,Travis Zajac,Brad Marchand,[ 55. -39.],2,10:53,NJD,BOS,NJD,1,BOS,6,1,2,8471233,8473419.0,2019020613,,2019-12-31,Travis Zajac Tripping against Brad Marchand
+127,penalty,Tripping,Matt Grzelcyk,Nico Hischier,[-71.   2.],2,10:40,BOS,NJD,NJD,1,BOS,6,1,2,8476891,8480002.0,2019020613,,2019-12-31,Matt Grzelcyk Tripping against Nico Hischier
+173,penalty,Interference,Jeremy Lauzon,Miles Wood,[87.  2.],3,17:26,BOS,NJD,NJD,1,BOS,6,1,2,8478468,8477425.0,2019020613,,2019-12-31,Jeremy Lauzon Interference against Miles Wood
+190,penalty,Tripping,Joakim Nordstrom,Mirco Mueller,[30.  2.],3,12:05,BOS,NJD,NJD,1,BOS,6,1,2,8475807,8477509.0,2019020613,,2019-12-31,Joakim Nordstrom Tripping against Mirco Mueller
+262,penalty,Hooking,Jesper Bratt,Sean Kuraly,[73.  1.],4,00:12,NJD,BOS,NJD,1,BOS,6,2,2,8479407,8476374.0,2019020613,,2019-12-31,Jesper Bratt Hooking against Sean Kuraly
+35,penalty,Hi-sticking,Miles Wood,Mathew Barzal,[-94. -17.],1,14:26,NJD,NYI,NYI,2,NJD,1,0,0,8477425,8478445.0,2019020630,,2020-01-06,Miles Wood Hi-sticking against Mathew Barzal
+51,penalty,Interference,Devon Toews,Pavel Zacha,[-81. -36.],1,10:38,NYI,NJD,NYI,2,NJD,1,0,0,8478038,8478401.0,2019020630,,2020-01-06,Devon Toews Interference against Pavel Zacha
+86,penalty,Slashing,Damon Severson,Anders Lee,[72.  0.],1,04:28,NJD,NYI,NYI,2,NJD,1,0,0,8476923,8475314.0,2019020630,,2020-01-06,Damon Severson Slashing against Anders Lee
+141,penalty,Slashing,Anthony Beauvillier,Sami Vatanen,[ 32. -20.],2,12:40,NYI,NJD,NYI,2,NJD,1,0,0,8478463,8475222.0,2019020630,,2020-01-06,Anthony Beauvillier Slashing against Sami Vatanen
+142,penalty,Embellishment,Sami Vatanen,Anthony Beauvillier,[ 35. -10.],2,12:40,NJD,NYI,NYI,2,NJD,1,0,0,8475222,8478463.0,2019020630,,2020-01-06,Sami Vatanen Embellishment against Anthony Beauvillier
+259,penalty,Tripping,Matt Martin,Sami Vatanen,[ 14. -39.],3,10:28,NYI,NJD,NYI,2,NJD,1,1,2,8474709,8475222.0,2019020630,,2020-01-06,Matt Martin Tripping against Sami Vatanen
+79,penalty,Cross checking,Damon Severson,Nazem Kadri,[ 91. -24.],2,19:14,NJD,COL,NJD,1,COL,21,0,0,8476923,8475172.0,2019020649,,2020-01-05,Damon Severson Cross checking against Nazem Kadri
+161,penalty,Holding,Miles Wood,Ian Cole,[96.  2.],3,14:56,NJD,COL,NJD,1,COL,21,0,3,8477425,8474013.0,2019020649,,2020-01-05,Miles Wood Holding against Ian Cole
+175,penalty,Tripping,Ryan Graves,Miles Wood,[ 61. -15.],3,12:25,COL,NJD,NJD,1,COL,21,1,3,8477435,8477425.0,2019020649,,2020-01-05,Ryan Graves Tripping against Miles Wood
+194,penalty,Interference,Tyson Jost,Kyle Palmieri,[96.  1.],3,07:23,COL,NJD,NJD,1,COL,21,1,3,8479370,8475151.0,2019020649,,2020-01-05,Tyson Jost Interference against Kyle Palmieri
+200,penalty,Misconduct,Wayne Simmonds,,[  0. -37.],3,06:11,NJD,COL,NJD,1,COL,21,1,4,8474190,,2019020649,,2020-01-05,Wayne Simmonds Misconduct
+201,penalty,Missing key [PD_151],Jesper Boqvist,,[  0. -31.],3,06:11,NJD,COL,NJD,1,COL,21,1,4,8480003,,2019020649,,2020-01-05,Delaying Game - Unsucc. chlg served by Jesper Boqvist
+202,penalty,Game misconduct,Wayne Simmonds,,[ -1. -36.],3,06:11,NJD,COL,NJD,1,COL,21,1,4,8474190,,2019020649,,2020-01-05,Wayne Simmonds Game misconduct
+211,penalty,Tripping,Matt Calvert,Pavel Zacha,[-82. -25.],3,03:13,COL,NJD,NJD,1,COL,21,1,4,8474685,8478401.0,2019020649,,2020-01-05,Matt Calvert Tripping against Pavel Zacha
+219,penalty,Hooking,Thomas Greiss,Matt Martin,[96. -2.],3,08:24,NYI,NJD,NJD,1,NYI,2,2,2,8471306,8474709.0,2019020665,,2020-01-08,Thomas Greiss Hooking against Nikita Gusev served by Matt Martin
+10,penalty,Delaying Game - Puck over glass,Brendan Smith,,[ 75. -35.],1,17:13,NYR,NJD,NYR,3,NJD,1,0,0,8474090,,2019020682,,2020-01-10,Brendan Smith Delaying Game - Puck over glass
+42,penalty,Interference,P.K. Subban,Brendan Smith,[-13. -15.],1,12:20,NJD,NYR,NYR,3,NJD,1,1,0,8474056,8474090.0,2019020682,,2020-01-10,P.K. Subban Interference against Brendan Smith
+57,penalty,Interference,John Hayden,Kaapo Kakko,[16. 16.],1,08:28,NJD,NYR,NYR,3,NJD,1,2,1,8477401,8481554.0,2019020682,,2020-01-10,John Hayden Interference against Kaapo Kakko
+154,penalty,Too many men on the ice,Artemi Panarin,Jesper Boqvist,[-18.  39.],2,07:02,NJD,NYR,NYR,3,NJD,1,4,3,8478550,8480003.0,2019020682,,2020-01-10, against Artemi PanarinToo many men/ice served by Jesper Boqvist
+161,penalty,Hi-sticking,Nico Hischier,Adam Fox,[-92.   9.],2,05:09,NJD,NYR,NYR,3,NJD,1,4,3,8480002,8479323.0,2019020682,,2020-01-10,Nico Hischier Hi-sticking against Adam Fox
+187,penalty,Hooking,Jacob Trouba,Pavel Zacha,[-93.  26.],2,01:48,NYR,NJD,NYR,3,NJD,1,5,3,8476885,8478401.0,2019020682,,2020-01-10,Jacob Trouba Hooking against Pavel Zacha
+188,penalty,Cross checking,Wayne Simmonds,Greg McKegg,[-91.  30.],2,01:48,NJD,NYR,NYR,3,NJD,1,5,3,8474190,8475735.0,2019020682,,2020-01-10,Wayne Simmonds Cross checking against Greg McKegg
+234,penalty,Interference,Chris Kreider,Blake Coleman,[34. 22.],3,11:10,NYR,NJD,NYR,3,NJD,1,5,3,8475184,8476399.0,2019020682,,2020-01-10,Chris Kreider Interference against Blake Coleman
+267,penalty,Hooking,Miles Wood,Mika Zibanejad,[-80.  15.],3,04:23,NJD,NYR,NYR,3,NJD,1,6,3,8477425,8476459.0,2019020682,,2020-01-10,Miles Wood Hooking against Mika Zibanejad
+62,penalty,Slashing,Travis Zajac,Alex Ovechkin,[-52.   2.],1,03:30,NJD,WSH,WSH,15,NJD,1,0,1,8471233,8471214.0,2019020696,,2020-01-12,Travis Zajac Slashing against Alex Ovechkin
+88,penalty,Slashing,Tom Wilson,Blake Coleman,[-39. -33.],2,18:39,WSH,NJD,WSH,15,NJD,1,0,1,8476880,8476399.0,2019020696,,2020-01-12,Tom Wilson Slashing against Blake Coleman
+109,penalty,Hi stick - double minor,Miles Wood,Richard Panik,[-95.  19.],2,13:43,NJD,WSH,WSH,15,NJD,1,0,2,8477425,8475209.0,2019020696,,2020-01-12,Miles Wood Hi stick - double minor against Richard Panik
+203,penalty,Elbowing,Nico Hischier,T.J. Oshie,[ 19. -37.],3,10:12,NJD,WSH,WSH,15,NJD,1,1,4,8480002,8471698.0,2019020696,,2020-01-12,Nico Hischier Elbowing against T.J. Oshie
+211,penalty,Delaying Game - Puck over glass,P.K. Subban,,[-63. -39.],3,08:55,NJD,WSH,WSH,15,NJD,1,1,4,8474056,,2019020696,,2020-01-12,P.K. Subban Delaying Game - Puck over glass
+9,penalty,Hi-sticking,Yanni Gourde,Wayne Simmonds,[98. 11.],1,17:28,TBL,NJD,NJD,1,TBL,14,0,0,8476826,8474190.0,2019020708,,2020-01-13,Yanni Gourde Hi-sticking against Wayne Simmonds
+43,penalty,Roughing,Anthony Cirelli,Kevin Rooney,[-21.  37.],1,10:27,TBL,NJD,NJD,1,TBL,14,0,0,8478519,8479291.0,2019020708,,2020-01-13,Anthony Cirelli Roughing against Kevin Rooney
+54,penalty,Hooking,Andy Greene,Nikita Kucherov,[-58.   7.],1,07:24,NJD,TBL,NJD,1,TBL,14,0,0,8472382,8476453.0,2019020708,,2020-01-13,Andy Greene Hooking against Nikita Kucherov
+74,penalty,Tripping,Ondrej Palat,Nico Hischier,[-71.   3.],1,02:26,TBL,NJD,NJD,1,TBL,14,0,0,8476292,8480002.0,2019020708,,2020-01-13,Ondrej Palat Tripping against Nico Hischier
+144,penalty,Slashing,John Hayden,Anthony Cirelli,[ 65. -18.],2,03:56,NJD,TBL,NJD,1,TBL,14,2,1,8477401,8478519.0,2019020708,,2020-01-13,John Hayden Slashing against Anthony Cirelli
+156,penalty,Fighting,Connor Carrick,Yanni Gourde,[ 27. -33.],2,01:12,NJD,TBL,NJD,1,TBL,14,2,1,8476941,8476826.0,2019020708,,2020-01-13,Connor Carrick Fighting against Yanni Gourde
+157,penalty,Fighting,Yanni Gourde,Connor Carrick,[ 24. -31.],2,01:12,TBL,NJD,NJD,1,TBL,14,2,1,8476826,8476941.0,2019020708,,2020-01-13,Yanni Gourde Fighting against Connor Carrick
+161,penalty,Slashing,Nikita Kucherov,Nikita Gusev,[-35.  27.],2,00:23,TBL,NJD,NJD,1,TBL,14,2,1,8476453,8477038.0,2019020708,,2020-01-13,Nikita Kucherov Slashing against Nikita Gusev
+44,penalty,Holding,Pierre Engvall,P.K. Subban,[-97.  16.],1,10:33,TOR,NJD,TOR,10,NJD,1,2,0,8478115,8474056.0,2019020715,,2020-01-15,Pierre Engvall Holding against P.K. Subban
+60,penalty,Hooking,Connor Carrick,William Nylander,[25. 11.],1,07:13,NJD,TOR,TOR,10,NJD,1,2,0,8476941,8477939.0,2019020715,,2020-01-15,Connor Carrick Hooking against William Nylander
+84,penalty,Interference,P.K. Subban,Dmytro Timashov,[ 48. -38.],1,01:36,NJD,TOR,TOR,10,NJD,1,2,0,8474056,8478857.0,2019020715,,2020-01-15,P.K. Subban Interference against Dmytro Timashov
+115,penalty,Hi-sticking,Alexander Kerfoot,Nikita Gusev,[-78.  26.],2,15:22,TOR,NJD,TOR,10,NJD,1,4,0,8477021,8477038.0,2019020715,,2020-01-15,Alexander Kerfoot Hi-sticking against Nikita Gusev
+135,penalty,Hi-sticking,Blake Coleman,Alexander Kerfoot,[-85. -30.],2,10:26,NJD,TOR,TOR,10,NJD,1,4,1,8476399,8477021.0,2019020715,,2020-01-15,Blake Coleman Hi-sticking against Alexander Kerfoot
+154,penalty,Roughing,Miles Wood,Pierre Engvall,[-69. -22.],2,06:52,NJD,TOR,TOR,10,NJD,1,5,1,8477425,8478115.0,2019020715,,2020-01-15,Miles Wood Roughing against Pierre Engvall
+155,penalty,Roughing,Pierre Engvall,Miles Wood,[-72. -19.],2,06:52,TOR,NJD,TOR,10,NJD,1,5,1,8478115,8477425.0,2019020715,,2020-01-15,Pierre Engvall Roughing against Miles Wood
+160,penalty,Tripping,Travis Zajac,Justin Holl,[ 47. -37.],2,04:58,NJD,TOR,TOR,10,NJD,1,5,1,8471233,8475718.0,2019020715,,2020-01-15,Travis Zajac Tripping against Justin Holl
+254,penalty,Hooking,Cody Ceci,Miles Wood,[58. 16.],3,04:05,TOR,NJD,TOR,10,NJD,1,6,3,8476879,8477425.0,2019020715,,2020-01-15,Cody Ceci Hooking against Miles Wood
+261,penalty,Hooking,Martin Marincin,Nico Hischier,[81. 11.],3,02:20,TOR,NJD,TOR,10,NJD,1,6,3,8475716,8480002.0,2019020715,,2020-01-15,Martin Marincin Hooking against Nico Hischier
+55,penalty,Interference,Tom Wilson,Miles Wood,[24. 40.],1,09:18,WSH,NJD,WSH,15,NJD,1,0,0,8476880,8477425.0,2019020732,,2020-01-17,Tom Wilson Interference against Miles Wood
+68,penalty,Tripping,Travis Zajac,Michal Kempny,[94. 20.],1,06:21,NJD,WSH,WSH,15,NJD,1,0,0,8471233,8479482.0,2019020732,,2020-01-17,Travis Zajac Tripping against Michal Kempny
+75,penalty,Holding,John Hayden,Dmitry Orlov,[97.  7.],1,04:48,NJD,WSH,WSH,15,NJD,1,0,0,8477401,8475200.0,2019020732,,2020-01-17,John Hayden Holding against Dmitry Orlov
+114,penalty,Hooking,Richard Panik,Blake Coleman,[-64. -22.],2,16:44,WSH,NJD,WSH,15,NJD,1,3,1,8475209,8476399.0,2019020732,,2020-01-17,Richard Panik Hooking against Blake Coleman
+167,penalty,Cross checking,Richard Panik,John Hayden,[-79.   1.],2,06:04,WSH,NJD,WSH,15,NJD,1,3,1,8475209,8477401.0,2019020732,,2020-01-17,Richard Panik Cross checking against John Hayden
+170,penalty,Hi stick - double minor,Sami Vatanen,Lars Eller,[-33.  40.],2,05:24,NJD,WSH,WSH,15,NJD,1,3,1,8475222,8474189.0,2019020732,,2020-01-17,Sami Vatanen Hi stick - double minor against Lars Eller
+200,penalty,Holding,Will Butcher,Evgeny Kuznetsov,[-41. -39.],3,17:49,NJD,WSH,WSH,15,NJD,1,3,1,8477355,8475744.0,2019020732,,2020-01-17,Will Butcher Holding against Evgeny Kuznetsov
+223,penalty,Hooking,Nicklas Backstrom,Jesper Bratt,[95. -2.],3,11:54,WSH,NJD,WSH,15,NJD,1,4,2,8473563,8479407.0,2019020732,,2020-01-17,Nicklas Backstrom Hooking against Jesper Bratt
+9,penalty,Hooking,Connor Carrick,Eric Robinson,[78.  1.],1,17:48,NJD,CBJ,CBJ,29,NJD,1,0,0,8476941,8480762.0,2019020751,,2020-01-19,Connor Carrick Hooking against Eric Robinson
+43,penalty,Tripping,Blake Coleman,Zach Werenski,[-96.  19.],1,09:31,NJD,CBJ,CBJ,29,NJD,1,0,0,8476399,8478460.0,2019020751,,2020-01-19,Blake Coleman Tripping against Zach Werenski
+62,penalty,Roughing,Alexander Wennberg,Kevin Rooney,[ 93. -27.],1,04:49,CBJ,NJD,CBJ,29,NJD,1,1,0,8477505,8479291.0,2019020751,,2020-01-19,Alexander Wennberg Roughing against Kevin Rooney
+101,penalty,Tripping,Nick Foligno,Pavel Zacha,[-85. -26.],2,16:53,CBJ,NJD,CBJ,29,NJD,1,1,0,8473422,8478401.0,2019020751,,2020-01-19,Nick Foligno Tripping against Pavel Zacha
+116,penalty,Closing hand on puck,Emil Bemstrom,,[-95. -20.],2,13:41,CBJ,NJD,CBJ,29,NJD,1,1,0,8480205,,2019020751,,2020-01-19,Emil Bemstrom Closing hand on puck
+242,penalty,Roughing,Nathan Gerbe,Jakob Lilja,[79. 22.],3,02:35,CBJ,NJD,CBJ,29,NJD,1,5,0,8471804,8481650.0,2019020751,,2020-01-19,Nathan Gerbe Roughing against Damon Severson served by Jakob Lilja
+243,penalty,Roughing,Damon Severson,John Hayden,[81. 21.],3,02:35,NJD,CBJ,CBJ,29,NJD,1,5,0,8476923,8477401.0,2019020751,,2020-01-19,Damon Severson Roughing against Nathan Gerbe served by John Hayden
+244,penalty,Misconduct,Damon Severson,Nathan Gerbe,[81. 20.],3,02:35,NJD,CBJ,CBJ,29,NJD,1,5,0,8476923,8471804.0,2019020751,,2020-01-19,Damon Severson Misconduct against Nathan Gerbe
+245,penalty,Misconduct,Nathan Gerbe,Damon Severson,[81. 21.],3,02:35,CBJ,NJD,CBJ,29,NJD,1,5,0,8471804,8476923.0,2019020751,,2020-01-19,Nathan Gerbe Misconduct against Damon Severson
+31,penalty,Hi stick - double minor,Connor Brown,Sami Vatanen,[82.  9.],1,13:46,OTT,NJD,OTT,9,NJD,1,0,0,8477015,8475222.0,2019020769,,2020-01-28,Connor Brown Hi stick - double minor against Sami Vatanen
+67,penalty,Tripping,Kyle Palmieri,Tyler Ennis,[13. 38.],1,07:20,NJD,OTT,OTT,9,NJD,1,0,1,8475151,8474589.0,2019020769,,2020-01-28,Kyle Palmieri Tripping against Tyler Ennis
+83,penalty,Slashing,Mirco Mueller,Chris Tierney,[66.  2.],1,02:47,NJD,OTT,OTT,9,NJD,1,0,1,8477509,8476919.0,2019020769,,2020-01-28,Mirco Mueller Slashing against Chris Tierney
+124,penalty,Fighting,P.K. Subban,Brady Tkachuk,[-72.   4.],2,16:03,NJD,OTT,OTT,9,NJD,1,1,1,8474056,8480801.0,2019020769,,2020-01-28,P.K. Subban Fighting against Brady Tkachuk
+125,penalty,Fighting,Brady Tkachuk,P.K. Subban,[-70.   1.],2,16:03,OTT,NJD,OTT,9,NJD,1,1,1,8480801,8474056.0,2019020769,,2020-01-28,Brady Tkachuk Fighting against P.K. Subban
+162,penalty,Hooking,Mike Reilly,Nico Hischier,[65.  5.],2,10:00,OTT,NJD,OTT,9,NJD,1,1,2,8476422,8480002.0,2019020769,,2020-01-28,Mike Reilly Hooking against Nico Hischier
+246,penalty,Tripping,Artem Anisimov,Nico Hischier,[-37.  21.],3,14:39,OTT,NJD,OTT,9,NJD,1,1,2,8473573,8480002.0,2019020769,,2020-01-28,Artem Anisimov Tripping against Nico Hischier
+262,penalty,Hi-sticking,Brady Tkachuk,Pavel Zacha,[91. 30.],3,11:32,OTT,NJD,OTT,9,NJD,1,1,2,8480801,8478401.0,2019020769,,2020-01-28,Brady Tkachuk Hi-sticking against Pavel Zacha
+10,penalty,Hi-sticking,Colton Sissons,John Hayden,[ 55. -33.],1,17:07,NSH,NJD,NJD,1,NSH,18,0,1,8476925,8477401.0,2019020783,,2020-01-31,Colton Sissons Hi-sticking against John Hayden
+15,penalty,Tripping,Damon Severson,Kyle Turris,[32. 38.],1,15:38,NJD,NSH,NJD,1,NSH,18,0,1,8476923,8474068.0,2019020783,,2020-01-31,Damon Severson Tripping against Kyle Turris
+83,penalty,Holding,Blake Coleman,Dante Fabbro,[-89. -30.],2,18:27,NJD,NSH,NJD,1,NSH,18,1,2,8476399,8479371.0,2019020783,,2020-01-31,Blake Coleman Holding against Dante Fabbro
+104,penalty,Hooking,Ryan Johansen,Nikita Gusev,[-68.  10.],2,13:02,NSH,NJD,NJD,1,NSH,18,1,2,8475793,8477038.0,2019020783,,2020-01-31,Ryan Johansen Hooking against Nikita Gusev
+113,penalty,Hi-sticking,Matt Duchene,Nikita Gusev,[-71. -22.],2,10:01,NSH,NJD,NJD,1,NSH,18,2,2,8475168,8477038.0,2019020783,,2020-01-31,Matt Duchene Hi-sticking against Nikita Gusev
+190,penalty,Hooking,Wayne Simmonds,Colton Sissons,[-76. -30.],3,10:40,NJD,NSH,NJD,1,NSH,18,5,4,8474190,8476925.0,2019020783,,2020-01-31,Wayne Simmonds Hooking against Colton Sissons
+2,penalty,Tripping,Stephen Johns,John Hayden,[64. 32.],1,19:43,DAL,NJD,NJD,1,DAL,25,0,0,8475730,8477401.0,2019020797,DAL,2020-02-02,Stephen Johns Tripping against John Hayden
+45,penalty,Interference,P.K. Subban,Tyler Seguin,[-96. -25.],1,07:54,NJD,DAL,NJD,1,DAL,25,0,0,8474056,8475794.0,2019020797,DAL,2020-02-02,P.K. Subban Interference against Tyler Seguin
+79,penalty,Tripping,Stephen Johns,Wayne Simmonds,[-66.   0.],2,17:20,DAL,NJD,NJD,1,DAL,25,1,0,8475730,8474190.0,2019020797,DAL,2020-02-02,Stephen Johns Tripping against Wayne Simmonds
+94,penalty,Tripping,Andy Greene,Mattias Janmark,[80.  3.],2,14:03,NJD,DAL,NJD,1,DAL,25,1,0,8472382,8477406.0,2019020797,DAL,2020-02-02,Andy Greene Tripping against Mattias Janmark
+173,penalty,Tripping,Andrew Cogliano,Sami Vatanen,[-88.  -9.],3,14:19,DAL,NJD,NJD,1,DAL,25,1,2,8471699,8475222.0,2019020797,DAL,2020-02-02,Andrew Cogliano Tripping against Sami Vatanen

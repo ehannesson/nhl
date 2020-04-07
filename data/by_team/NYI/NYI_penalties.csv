@@ -1,439 +1,439 @@
-,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
-25,penalty,Interference,Roope Hintz,Jordan Eberle,[74. 31.],1,15:50,DAL,NYI,NYI,2,DAL,25,1,0,8478449,8474586.0,Roope Hintz Interference against Jordan Eberle
-44,penalty,Tripping,Corey Perry,Noah Dobson,[-93. -28.],1,12:13,DAL,NYI,NYI,2,DAL,25,1,0,8470621,8480865.0,Corey Perry Tripping against Noah Dobson
-68,penalty,Interference,Casey Cizikas,Roope Hintz,[-78.   4.],1,06:41,NYI,DAL,NYI,2,DAL,25,1,0,8475231,8478449.0,Casey Cizikas Interference against Roope Hintz
-114,penalty,Slashing,Alexander Radulov,Josh Bailey,[-64.  -7.],2,17:09,DAL,NYI,NYI,2,DAL,25,1,1,8471228,8474573.0,Alexander Radulov Slashing against Josh Bailey
-137,penalty,Tripping,Radek Faksa,Brock Nelson,[-80. -36.],2,12:24,DAL,NYI,NYI,2,DAL,25,1,1,8476889,8475754.0,Radek Faksa Tripping against Brock Nelson
-145,penalty,Hi-sticking,Josh Bailey,Andrej Sekera,[-93.  -3.],2,10:52,NYI,DAL,NYI,2,DAL,25,1,1,8474573,8471284.0,Josh Bailey Hi-sticking against Andrej Sekera
-193,penalty,Holding,Matt Martin,Esa Lindell,[  8. -38.],3,19:16,NYI,DAL,NYI,2,DAL,25,2,2,8474709,8476902.0,Matt Martin Holding against Esa Lindell
-234,penalty,Holding,Roope Hintz,Derick Brassard,[23. 37.],3,05:49,DAL,NYI,NYI,2,DAL,25,2,3,8478449,8473544.0,Roope Hintz Holding against Derick Brassard
-139,penalty,Hooking,Mathew Barzal,Dustin Brown,[95. 21.],2,07:06,NYI,LAK,NYI,2,LAK,26,2,3,8478445,8470606.0,Mathew Barzal Hooking against Dustin Brown
-147,penalty,Slashing,Anthony Beauvillier,Anze Kopitar,[ 1. -4.],2,03:58,NYI,LAK,NYI,2,LAK,26,2,3,8478463,8471685.0,Anthony Beauvillier Slashing against Anze Kopitar
-202,penalty,Hooking,Sean Walker,Michael Dal Colle,[85.  8.],3,12:05,LAK,NYI,NYI,2,LAK,26,3,3,8480336,8477936.0,Sean Walker Hooking against Michael Dal Colle
-216,penalty,Fighting,Alec Martinez,Casey Cizikas,[67. 25.],3,08:57,LAK,NYI,NYI,2,LAK,26,3,3,8474166,8475231.0,Alec Martinez Fighting against Casey Cizikas
-217,penalty,Roughing,Casey Cizikas,Alec Martinez,[73. 29.],3,08:57,NYI,LAK,NYI,2,LAK,26,3,3,8475231,8474166.0,Casey Cizikas Roughing against Alec Martinez
-218,penalty,Roughing,Drew Doughty,Casey Cizikas,[65. 27.],3,08:57,LAK,NYI,NYI,2,LAK,26,3,3,8474563,8475231.0,Drew Doughty Roughing against Casey Cizikas
-219,penalty,Fighting,Casey Cizikas,Alec Martinez,[69. 30.],3,08:57,NYI,LAK,NYI,2,LAK,26,3,3,8475231,8474166.0,Casey Cizikas Fighting against Alec Martinez
-156,penalty,Delaying Game - Puck over glass,Ryan Pulock,,[-45. -40.],2,01:18,NYI,TBL,TBL,14,NYI,2,1,0,8477506,,Ryan Pulock Delaying Game - Puck over glass
-165,penalty,Holding,Alex Killorn,Scott Mayfield,[ 90. -18.],3,19:17,TBL,NYI,TBL,14,NYI,2,1,0,8473986,8476429.0,Alex Killorn Holding against Scott Mayfield
-166,penalty,Embellishment,Scott Mayfield,Alex Killorn,[ 89. -11.],3,19:17,NYI,TBL,TBL,14,NYI,2,1,0,8476429,8473986.0,Scott Mayfield Embellishment against Alex Killorn
-200,penalty,Holding,Nikita Kucherov,Ryan Pulock,[ 61. -40.],3,09:43,TBL,NYI,TBL,14,NYI,2,2,0,8476453,8477506.0,Nikita Kucherov Holding against Ryan Pulock
-74,penalty,Holding,Martin Fehervary,Leo Komarov,[66. -3.],1,02:42,WSH,NYI,WSH,15,NYI,2,1,2,8480796,8473463.0,Martin Fehervary Holding against Leo Komarov
-77,penalty,Holding,Jordan Eberle,Nic Dowd,[96. 18.],1,02:05,NYI,WSH,WSH,15,NYI,2,1,2,8474586,8475343.0,Jordan Eberle Holding against Nic Dowd
-99,penalty,Interference,Garnet Hathaway,Brendan Leipsic,[72. 14.],2,17:06,WSH,NYI,WSH,15,NYI,2,1,4,8477903,8476894.0,Garnet Hathaway Interference against Ryan Pulock served by Brendan Leipsic
-100,penalty,Fighting,Garnet Hathaway,Ross Johnston,[81. 11.],2,17:06,WSH,NYI,WSH,15,NYI,2,1,4,8477903,8477527.0,Garnet Hathaway Fighting against Ross Johnston
-101,penalty,Fighting,Ross Johnston,Garnet Hathaway,[65. 21.],2,17:06,NYI,WSH,WSH,15,NYI,2,1,4,8477527,8477903.0,Ross Johnston Fighting against Garnet Hathaway
-125,penalty,Tripping,Mathew Barzal,Richard Panik,[77. 39.],2,12:50,NYI,WSH,WSH,15,NYI,2,1,4,8478445,8475209.0,Mathew Barzal Tripping against Richard Panik
-159,penalty,Hi-sticking,Scott Mayfield,Garnet Hathaway,[87. 36.],2,04:31,NYI,WSH,WSH,15,NYI,2,2,5,8476429,8477903.0,Scott Mayfield Hi-sticking against Garnet Hathaway
-141,penalty,Tripping,Kevin Hayes,Scott Mayfield,[89. -9.],2,05:26,PHI,NYI,NYI,2,PHI,4,3,2,8475763,8476429.0,Kevin Hayes Tripping against Scott Mayfield
-195,penalty,Holding,Brock Nelson,Sean Couturier,[-72.  14.],3,10:34,NYI,PHI,NYI,2,PHI,4,3,2,8475754,8476461.0,Brock Nelson Holding against Sean Couturier
-209,penalty,Hooking,Mathew Barzal,James van Riemsdyk,[-56. -34.],3,07:44,NYI,PHI,NYI,2,PHI,4,3,2,8478445,8474037.0,Mathew Barzal Hooking against James van Riemsdyk
-33,penalty,Fighting,Matt Martin,Austin Watson,[-86.  -5.],1,13:14,NYI,NSH,NSH,18,NYI,2,1,0,8474709,8475766.0,Matt Martin Fighting against Austin Watson
-34,penalty,Fighting,Austin Watson,Matt Martin,[-89.  -6.],1,13:14,NSH,NYI,NSH,18,NYI,2,1,0,8475766,8474709.0,Austin Watson Fighting against Matt Martin
-115,penalty,Holding,Mikael Granlund,Kieffer Bellows,[ 11. -32.],2,13:44,NSH,NYI,NSH,18,NYI,2,4,0,8475798,8479356.0,Mikael Granlund Holding against Kieffer Bellows
-148,penalty,Hooking,Dan Hamhuis,Kieffer Bellows,[ 92. -24.],2,04:58,NSH,NYI,NSH,18,NYI,2,5,0,8469465,8479356.0,Dan Hamhuis Hooking against Kieffer Bellows
-1,penalty,Fighting,Ryan Reaves,Ross Johnston,[-1. 15.],1,19:57,VGK,NYI,VGK,54,NYI,2,0,0,8471817,8477527.0,Ryan Reaves Fighting against Ross Johnston
-2,penalty,Fighting,Ross Johnston,Ryan Reaves,[-1. 16.],1,19:57,NYI,VGK,VGK,54,NYI,2,0,0,8477527,8471817.0,Ross Johnston Fighting against Ryan Reaves
-39,penalty,Fighting,Anders Lee,Nick Holden,[ 95. -13.],1,09:31,NYI,VGK,VGK,54,NYI,2,0,0,8475314,8474207.0,Anders Lee Fighting against Nick Holden
-40,penalty,Fighting,Nick Holden,Anders Lee,[ 94. -14.],1,09:31,VGK,NYI,VGK,54,NYI,2,0,0,8474207,8475314.0,Nick Holden Fighting against Anders Lee
-55,penalty,Delaying Game - Puck over glass,Ryan Pulock,,[-65. -36.],1,07:04,NYI,VGK,VGK,54,NYI,2,0,0,8477506,,Ryan Pulock Delaying Game - Puck over glass
-58,penalty,Interference,Jonathan Marchessault,Leo Komarov,[-77.   0.],1,06:19,VGK,NYI,VGK,54,NYI,2,0,0,8476539,8473463.0,Jonathan Marchessault Interference against Leo Komarov
-134,penalty,Too many men on the ice,Cody Glass,,[13. 42.],2,06:39,VGK,NYI,VGK,54,NYI,2,0,0,8479996,,Too many men/ice served by Cody Glass
-141,penalty,Tripping,Noah Dobson,Nate Schmidt,[-70. -38.],2,05:26,NYI,VGK,VGK,54,NYI,2,0,0,8480865,8477220.0,Noah Dobson Tripping against Nate Schmidt
-234,penalty,Hooking,Brock Nelson,Paul Stastny,[-90.   9.],3,04:55,NYI,VGK,VGK,54,NYI,2,1,0,8475754,8471669.0,Brock Nelson Hooking against Paul Stastny
-5,penalty,Hooking,Brock Nelson,Oliver Ekman-Larsson,[-96.  17.],1,19:37,NYI,ARI,ARI,53,NYI,2,0,0,8475754,8475171.0,Brock Nelson Hooking against Oliver Ekman-Larsson
-73,penalty,Tripping,Oliver Ekman-Larsson,Anders Lee,[-71. -36.],1,05:05,ARI,NYI,ARI,53,NYI,2,1,0,8475171,8475314.0,Oliver Ekman-Larsson Tripping against Anders Lee
-125,penalty,Boarding,Christian Fischer,Jordan Eberle,[-26. -38.],2,13:25,ARI,NYI,ARI,53,NYI,2,1,0,8478432,8474586.0,Christian Fischer Boarding against Jordan Eberle
-137,penalty,Tripping,Devon Toews,Nick Schmaltz,[-75.  37.],2,09:27,NYI,ARI,ARI,53,NYI,2,1,0,8478038,8477951.0,Devon Toews Tripping against Nick Schmaltz
-148,penalty,Tripping,Clayton Keller,Derick Brassard,[-22. -26.],2,05:05,ARI,NYI,ARI,53,NYI,2,1,0,8479343,8473544.0,Clayton Keller Tripping against Derick Brassard
-54,penalty,Tripping,Mathew Barzal,Samuel Girard,[61. 22.],1,08:50,NYI,COL,COL,21,NYI,2,1,0,8478445,8479398.0,Mathew Barzal Tripping against Samuel Girard
-82,penalty,Tripping,Ian Cole,Kieffer Bellows,[93. 19.],1,02:38,COL,NYI,COL,21,NYI,2,1,0,8474013,8479356.0,Ian Cole Tripping against Kieffer Bellows
-88,penalty,Tripping,Anders Lee,Joonas Donskoi,[61. 16.],1,01:21,NYI,COL,COL,21,NYI,2,1,0,8475314,8475820.0,Anders Lee Tripping against Joonas Donskoi
-112,penalty,Slashing,Tom Kuhnhackl,Cale Makar,[75.  1.],2,16:15,NYI,COL,COL,21,NYI,2,2,0,8475832,8480069.0,Tom Kuhnhackl Slashing against Cale Makar
-156,penalty,Slashing,Kieffer Bellows,Nikita Zadorov,[97. -5.],2,03:31,NYI,COL,COL,21,NYI,2,2,0,8479356,8477507.0,Kieffer Bellows Slashing against Nikita Zadorov
-158,penalty,Hooking,Andre Burakovsky,Josh Bailey,[-73.  -2.],2,03:18,COL,NYI,COL,21,NYI,2,2,0,8477444,8474573.0,Andre Burakovsky Hooking against Josh Bailey
-167,penalty,Hooking,Nikita Zadorov,Mathew Barzal,[-93.  12.],2,01:41,COL,NYI,COL,21,NYI,2,2,0,8477507,8478445.0,Nikita Zadorov Hooking against Mathew Barzal
-58,penalty,Elbowing,Dylan Larkin,Anthony Beauvillier,[-60.  39.],1,09:19,DET,NYI,NYI,2,DET,17,1,0,8477946,8478463.0,Dylan Larkin Elbowing against Anthony Beauvillier
-73,penalty,Hi-sticking,Michael Dal Colle,Anthony Mantha,[-62.  40.],1,05:58,NYI,DET,NYI,2,DET,17,1,0,8477936,8477511.0,Michael Dal Colle Hi-sticking against Anthony Mantha
-86,penalty,Slashing,Adam Erne,Mathew Barzal,[86. 16.],1,02:38,DET,NYI,NYI,2,DET,17,1,0,8477454,8478445.0,Adam Erne Slashing against Mathew Barzal
-186,penalty,Cross checking,Alex Biega,Jordan Eberle,[-70.  -1.],2,01:52,DET,NYI,NYI,2,DET,17,2,0,8473415,8474586.0,Alex Biega Cross checking against Jordan Eberle
-237,penalty,Delaying Game - Puck over glass,Mike Green,,[94. 19.],3,08:29,DET,NYI,NYI,2,DET,17,2,0,8471242,,Mike Green Delaying Game - Puck over glass
-250,penalty,Tripping,Andrew Ladd,Darren Helm,[-17. -37.],3,04:04,NYI,DET,NYI,2,DET,17,2,0,8471217,8471794.0,Andrew Ladd Tripping against Darren Helm
-265,penalty,Tripping,Dylan Larkin,Leo Komarov,[-18. -26.],3,02:30,DET,NYI,NYI,2,DET,17,2,1,8477946,8473463.0,Dylan Larkin Tripping against Leo Komarov
-66,penalty,Tripping,Stefan Noesen,Josh Bailey,[ 82. -15.],1,05:05,SJS,NYI,NYI,2,SJS,28,1,1,8476474,8474573.0,Stefan Noesen Tripping against Josh Bailey
-233,penalty,Hooking,Mario Ferraro,Anders Lee,[54. 17.],3,10:32,SJS,NYI,NYI,2,SJS,28,3,1,8479983,8475314.0,Mario Ferraro Hooking against Anders Lee
-242,penalty,Hi-sticking,Timo Meier,Andy Greene,[-81. -22.],3,07:58,SJS,NYI,NYI,2,SJS,28,3,1,8478414,8472382.0,Timo Meier Hi-sticking against Andy Greene
-277,penalty,Holding,Nick Leddy,Marcus Sorensen,[-77.   2.],3,00:34,NYI,SJS,NYI,2,SJS,28,4,1,8475181,8475834.0,Nick Leddy Holding against Marcus Sorensen
-62,penalty,Hooking,Brendan Lemieux,Otto Koivula,[ 95. -17.],1,05:45,NYR,NYI,NYI,2,NYR,3,0,0,8477962,8479526.0,Brendan Lemieux Hooking against Otto Koivula
-180,penalty,Hooking,Filip Chytil,Nick Leddy,[51.  5.],3,17:41,NYR,NYI,NYI,2,NYR,3,1,2,8480078,8475181.0,Filip Chytil Hooking against Nick Leddy
-199,penalty,Instigator,Jean-Gabriel Pageau,Jordan Eberle,[-36. -10.],3,14:08,NYI,NYR,NYI,2,NYR,3,1,2,8476419,8474586.0,Jean-Gabriel Pageau Instigator against Jacob Trouba served by Jordan Eberle
-200,penalty,Fighting,Jean-Gabriel Pageau,Jacob Trouba,[-38.  -8.],3,14:08,NYI,NYR,NYI,2,NYR,3,1,2,8476419,8476885.0,Jean-Gabriel Pageau Fighting against Jacob Trouba
-201,penalty,Fighting,Jacob Trouba,Jean-Gabriel Pageau,[-37. -14.],3,14:08,NYR,NYI,NYI,2,NYR,3,1,2,8476885,8476419.0,Jacob Trouba Fighting against Jean-Gabriel Pageau
-202,penalty,Misconduct,Jean-Gabriel Pageau,Jacob Trouba,[-35. -17.],3,14:08,NYI,NYR,NYI,2,NYR,3,1,2,8476419,8476885.0,Jean-Gabriel Pageau Misconduct against Jacob Trouba
-222,penalty,Missing key [PD_151],Jordan Eberle,,[  3. -34.],3,07:44,NYI,NYR,NYI,2,NYR,3,1,3,8474586,,Delaying Game - Unsucc. chlg served by Jordan Eberle
-226,penalty,Tripping,Ryan Strome,Scott Mayfield,[40.  1.],3,07:30,NYR,NYI,NYI,2,NYR,3,1,3,8476458,8476429.0,Ryan Strome Tripping against Scott Mayfield
-34,penalty,Delaying Game - Puck over glass,Jaden Schwartz,,[-51. -32.],1,12:30,STL,NYI,STL,19,NYI,2,0,0,8475768,,Jaden Schwartz Delaying Game - Puck over glass
-82,penalty,Delaying Game - Puck over glass,Brock Nelson,,[ 26. -38.],1,00:11,NYI,STL,STL,19,NYI,2,1,2,8475754,,Brock Nelson Delaying Game - Puck over glass
-189,penalty,Interference,Vince Dunn,Ryan Pulock,[35. 22.],3,05:30,STL,NYI,STL,19,NYI,2,1,2,8478407,8477506.0,Vince Dunn Interference against Ryan Pulock
-54,penalty,Interference,Nick Ritchie,Anthony Beauvillier,[ 34. -26.],1,05:29,BOS,NYI,NYI,2,BOS,6,0,2,8477941,8478463.0,Nick Ritchie Interference against Anthony Beauvillier
-74,penalty,Tripping,David Pastrnak,Nick Leddy,[-92.  19.],1,01:03,BOS,NYI,NYI,2,BOS,6,0,2,8477956,8475181.0,David Pastrnak Tripping against Nick Leddy
-118,penalty,Tripping,Leo Komarov,Par Lindholm,[-44.  39.],2,11:40,NYI,BOS,NYI,2,BOS,6,0,2,8473463,8480944.0,Leo Komarov Tripping against Par Lindholm
-128,penalty,Hi-sticking,Cal Clutterbuck,David Pastrnak,[75.  0.],2,10:12,NYI,BOS,NYI,2,BOS,6,0,2,8473504,8477956.0,Cal Clutterbuck Hi-sticking against David Pastrnak
-146,penalty,Slashing,Zdeno Chara,Mathew Barzal,[-77.   5.],2,05:28,BOS,NYI,NYI,2,BOS,6,0,2,8465009,8478445.0,Zdeno Chara Slashing against Mathew Barzal
-162,penalty,Cross checking,Nick Ritchie,Johnny Boychuk,[-60.  20.],2,01:58,BOS,NYI,NYI,2,BOS,6,0,2,8477941,8470187.0,Nick Ritchie Cross checking against Johnny Boychuk
-235,penalty,Roughing,David Pastrnak,Leo Komarov,[-53. -40.],3,06:13,BOS,NYI,NYI,2,BOS,6,0,3,8477956,8473463.0,David Pastrnak Roughing against Leo Komarov
-241,penalty,Hooking,Mathew Barzal,Charlie McAvoy,[ 96. -20.],3,05:06,NYI,BOS,NYI,2,BOS,6,0,3,8478445,8479325.0,Mathew Barzal Hooking against Charlie McAvoy
-256,penalty,Holding,Jeremy Lauzon,Leo Komarov,[71.  2.],3,01:13,BOS,NYI,NYI,2,BOS,6,0,4,8478468,8473463.0,Jeremy Lauzon Holding against Leo Komarov
-71,penalty,Fighting,Anders Lee,Christian Folin,[37. 38.],1,03:44,NYI,MTL,NYI,2,MTL,8,0,2,8475314,8477850.0,Anders Lee Fighting against Christian Folin
-72,penalty,Fighting,Christian Folin,Anders Lee,[35. 35.],1,03:44,MTL,NYI,NYI,2,MTL,8,0,2,8477850,8475314.0,Christian Folin Fighting against Anders Lee
-140,penalty,Tripping,Max Domi,Cal Clutterbuck,[-51.  41.],2,08:25,MTL,NYI,NYI,2,MTL,8,0,3,8477503,8473504.0,Max Domi Tripping against Cal Clutterbuck
-170,penalty,Holding,Xavier Ouellet,Jean-Gabriel Pageau,[-97.   0.],2,02:27,MTL,NYI,NYI,2,MTL,8,0,4,8476443,8476419.0,Xavier Ouellet Holding against Jean-Gabriel Pageau
-237,penalty,Holding,Ben Chiarot,Leo Komarov,[86. 13.],3,04:16,MTL,NYI,NYI,2,MTL,8,1,5,8475279,8473463.0,Ben Chiarot Holding against Leo Komarov
-239,penalty,Delaying Game - Puck over glass,Artturi Lehkonen,,[ 92. -29.],3,04:05,MTL,NYI,NYI,2,MTL,8,1,5,8477476,,Artturi Lehkonen Delaying Game - Puck over glass
-7,penalty,Tripping,Bobby Ryan,Brock Nelson,[-32.  35.],1,17:53,OTT,NYI,OTT,9,NYI,2,0,0,8471676,8475754.0,Bobby Ryan Tripping against Brock Nelson
-29,penalty,Tripping,Devon Toews,Brady Tkachuk,[81. 32.],1,13:46,NYI,OTT,OTT,9,NYI,2,0,1,8478038,8480801.0,Devon Toews Tripping against Brady Tkachuk
-38,penalty,Tripping,Noah Dobson,Jayce Hawryluk,[53. -6.],1,11:09,NYI,OTT,OTT,9,NYI,2,0,1,8480865,8477963.0,Noah Dobson Tripping against Jayce Hawryluk
-107,penalty,Interference - Goalkeeper,Brady Tkachuk,Semyon Varlamov,[-85.   0.],2,15:25,OTT,NYI,OTT,9,NYI,2,1,2,8480801,8473575.0,Brady Tkachuk Interference - Goalkeeper against Semyon Varlamov
-129,penalty,Hi-sticking,Jayce Hawryluk,Jordan Eberle,[-77. -14.],2,10:58,OTT,NYI,OTT,9,NYI,2,1,2,8477963,8474586.0,Jayce Hawryluk Hi-sticking against Jordan Eberle
-222,penalty,Tripping,Colin White,Anders Lee,[-74.   1.],3,11:12,OTT,NYI,OTT,9,NYI,2,3,2,8478400,8475314.0,Colin White Tripping against Anders Lee
-240,penalty,Tripping,Andy Greene,Brady Tkachuk,[96.  3.],3,07:38,NYI,OTT,OTT,9,NYI,2,3,2,8472382,8480801.0,Andy Greene Tripping against Brady Tkachuk
-97,penalty,Hi stick - double minor,Leo Komarov,Brady Skjei,[96. -2.],1,03:02,NYI,CAR,NYI,2,CAR,12,0,1,8473463,8476869.0,Leo Komarov Hi stick - double minor against Brady Skjei
-125,penalty,Too many men on the ice,Jordan Eberle,,[-4.  0.],2,17:03,NYI,CAR,NYI,2,CAR,12,0,1,8474586,,Too many men/ice served by Jordan Eberle
-157,penalty,Roughing,Ryan Dzingel,Martin Necas,[-20.  31.],2,08:51,CAR,NYI,NYI,2,CAR,12,1,1,8476288,8480039.0,Ryan Dzingel Roughing against Anthony Beauvillier served by Martin Necas
-158,penalty,Fighting,Ryan Dzingel,Anthony Beauvillier,[-20.  30.],2,08:51,CAR,NYI,NYI,2,CAR,12,1,1,8476288,8478463.0,Ryan Dzingel Fighting against Anthony Beauvillier
-159,penalty,Fighting,Anthony Beauvillier,Ryan Dzingel,[-18.  30.],2,08:51,NYI,CAR,NYI,2,CAR,12,1,1,8478463,8476288.0,Anthony Beauvillier Fighting against Ryan Dzingel
-192,penalty,Delaying Game - Puck over glass,Andrei Svechnikov,,[-95.  -5.],2,02:06,CAR,NYI,NYI,2,CAR,12,1,1,8480830,,Andrei Svechnikov Delaying Game - Puck over glass
-281,penalty,Tripping,Brady Skjei,Mathew Barzal,[88. -8.],3,00:52,CAR,NYI,NYI,2,CAR,12,2,2,8476869,8478445.0,Brady Skjei Tripping against Mathew Barzal
-284,penalty,Hi stick - double minor,Mathew Barzal,Jordan Staal,[50. 39.],3,00:24,NYI,CAR,NYI,2,CAR,12,2,2,8478445,8473533.0,Mathew Barzal Hi stick - double minor against Jordan Staal
-63,penalty,Broken stick,Jake Virtanen,,[-42. -35.],1,09:42,VAN,NYI,VAN,23,NYI,2,2,1,8477937,,Jake Virtanen Broken stick
-69,penalty,Slashing,J.T. Miller,Anthony Beauvillier,[-67. -41.],1,08:18,VAN,NYI,VAN,23,NYI,2,2,1,8476468,8478463.0,J.T. Miller Slashing against Anthony Beauvillier
-96,penalty,Cross checking,Andrew Ladd,Alexander Edler,[-88. -33.],1,03:24,NYI,VAN,VAN,23,NYI,2,2,1,8471217,8471303.0,Andrew Ladd Cross checking against Alexander Edler
-213,penalty,Cross checking,Mathew Barzal,Troy Stecher,[-82.   3.],2,02:21,NYI,VAN,VAN,23,NYI,2,3,3,8478445,8479442.0,Mathew Barzal Cross checking against Troy Stecher
-238,penalty,Slashing,Adam Gaudette,Anthony Beauvillier,[-2. 40.],3,17:30,VAN,NYI,VAN,23,NYI,2,4,3,8478874,8478463.0,Adam Gaudette Slashing against Anthony Beauvillier
-108,penalty,Hooking,Lars Eller,Mathew Barzal,[91. 30.],2,17:37,WSH,NYI,NYI,2,WSH,15,1,1,8474189,8478445.0,Lars Eller Hooking against Mathew Barzal
-124,penalty,Tripping,Brock Nelson,Nicklas Backstrom,[ 49. -35.],2,14:00,NYI,WSH,NYI,2,WSH,15,1,1,8475754,8473563.0,Brock Nelson Tripping against Nicklas Backstrom
-168,penalty,Hooking,Brock Nelson,Jonas Siegenthaler,[ 47. -28.],2,03:12,NYI,WSH,NYI,2,WSH,15,1,1,8475754,8478399.0,Brock Nelson Hooking against Jonas Siegenthaler
-54,penalty,Slashing,Casey Cizikas,Nikolaj Ehlers,[-4. 32.],1,08:08,NYI,WPG,NYI,2,WPG,52,0,0,8475231,8477940.0,Casey Cizikas Slashing against Nikolaj Ehlers
-90,penalty,Interference,Carl Dahlstrom,Anthony Beauvillier,[ 91. -15.],1,00:03,WPG,NYI,NYI,2,WPG,52,0,0,8477472,8478463.0,Carl Dahlstrom Interference against Anthony Beauvillier
-151,penalty,Tripping,Derick Brassard,Andrew Copp,[76. 12.],2,09:26,NYI,WPG,NYI,2,WPG,52,2,0,8473544,8477429.0,Derick Brassard Tripping against Andrew Copp
-25,penalty,Hooking,Zack Kassian,Brock Nelson,[ 96. -10.],1,14:50,EDM,NYI,NYI,2,EDM,22,0,0,8475178,8475754.0,Zack Kassian Hooking against Brock Nelson
-57,penalty,Interference,Brock Nelson,Connor McDavid,[-53. -38.],1,06:50,NYI,EDM,NYI,2,EDM,22,0,0,8475754,8478402.0,Brock Nelson Interference against Connor McDavid
-82,penalty,Hi stick - double minor,Brock Nelson,Oscar Klefbom,[ 96. -24.],1,01:18,NYI,EDM,NYI,2,EDM,22,1,1,8475754,8476472.0,Brock Nelson Hi stick - double minor against Oscar Klefbom
-104,penalty,Cross checking,Anthony Beauvillier,Darnell Nurse,[-64.   1.],2,14:53,NYI,EDM,NYI,2,EDM,22,1,2,8478463,8477498.0,Anthony Beauvillier Cross checking against Darnell Nurse
-184,penalty,Hooking,Casey Cizikas,Ryan Nugent-Hopkins,[53. 37.],3,17:07,NYI,EDM,NYI,2,EDM,22,1,4,8475231,8476454.0,Casey Cizikas Hooking against Ryan Nugent-Hopkins
-203,penalty,Interference,Ethan Bear,Brock Nelson,[56. 36.],3,12:21,EDM,NYI,NYI,2,EDM,22,1,5,8478451,8475754.0,Ethan Bear Interference against Brock Nelson
-45,penalty,Interference,Dougie Hamilton,Matt Martin,[ 83. -10.],1,11:32,CAR,NYI,CAR,12,NYI,2,1,0,8476462,8474709.0,Dougie Hamilton Interference against Matt Martin
-62,penalty,Hi-sticking,Michael Dal Colle,Jake Gardiner,[-26. -30.],1,08:01,NYI,CAR,CAR,12,NYI,2,1,1,8477936,8474581.0,Michael Dal Colle Hi-sticking against Jake Gardiner
-97,penalty,Hi-sticking,Derick Brassard,Brock McGinn,[-87. -38.],1,01:11,NYI,CAR,CAR,12,NYI,2,2,1,8473544,8476934.0,Derick Brassard Hi-sticking against Brock McGinn
-100,penalty,Delay of game,Andrei Svechnikov,,[ 4. 39.],1,00:04,CAR,NYI,CAR,12,NYI,2,2,1,8480830,,Delay of Game - Bench served by Andrei Svechnikov
-138,penalty,Slashing,Ryan Dzingel,Johnny Boychuk,[-47.   7.],2,12:50,CAR,NYI,CAR,12,NYI,2,2,2,8476288,8470187.0,Ryan Dzingel Slashing against Johnny Boychuk
-140,penalty,Holding,Anthony Beauvillier,Joel Edmundson,[-71.   2.],2,12:40,NYI,CAR,CAR,12,NYI,2,2,2,8478463,8476441.0,Anthony Beauvillier Holding against Joel Edmundson
-145,penalty,Holding,Andrei Svechnikov,Anders Lee,[-28.  -1.],2,11:10,CAR,NYI,CAR,12,NYI,2,2,2,8480830,8475314.0,Andrei Svechnikov Holding against Anders Lee
-246,penalty,Hi-sticking,Julien Gauthier,Devon Toews,[-84.  -9.],3,07:03,CAR,NYI,CAR,12,NYI,2,4,2,8479328,8478038.0,Julien Gauthier Hi-sticking against Devon Toews
-87,penalty,Tripping,MacKenzie Weegar,Mathew Barzal,[-84.  17.],2,18:14,FLA,NYI,NYI,2,FLA,13,0,1,8477346,8478445.0,MacKenzie Weegar Tripping against Mathew Barzal
-93,penalty,Too many men on the ice,Ross Johnston,,[-20.  38.],2,17:02,NYI,FLA,NYI,2,FLA,13,0,1,8477527,,Too many men/ice served by Ross Johnston
-116,penalty,Hooking,Michael Dal Colle,Vincent Trocheck,[-47. -38.],2,12:27,NYI,FLA,NYI,2,FLA,13,1,1,8477936,8476389.0,Michael Dal Colle Hooking against Vincent Trocheck
-191,penalty,Fighting,Ross Johnston,Josh Brown,[20.  5.],3,17:16,NYI,FLA,NYI,2,FLA,13,2,1,8477527,8477384.0,Ross Johnston Fighting against Josh Brown
-192,penalty,Fighting,Josh Brown,Ross Johnston,[20.  2.],3,17:16,FLA,NYI,NYI,2,FLA,13,2,1,8477384,8477527.0,Josh Brown Fighting against Ross Johnston
-221,penalty,Hooking,Leo Komarov,Noel Acciari,[14. 36.],3,11:12,NYI,FLA,NYI,2,FLA,13,2,1,8473463,8478569.0,Leo Komarov Hooking against Noel Acciari
-44,penalty,Interference,David Perron,Mathew Barzal,[50. 12.],1,09:13,STL,NYI,NYI,2,STL,19,0,1,8474102,8478445.0,David Perron Interference against Mathew Barzal
-202,penalty,Hooking,Derick Brassard,Oskar Sundqvist,[-10. -38.],3,16:07,NYI,STL,NYI,2,STL,19,0,1,8473544,8476897.0,Derick Brassard Hooking against Oskar Sundqvist
-234,penalty,Slashing,Scott Mayfield,Sammy Blais,[-53. -38.],3,08:43,NYI,STL,NYI,2,STL,19,0,2,8476429,8478104.0,Scott Mayfield Slashing against Sammy Blais
-54,penalty,Tripping,Adam Pelech,Adam Lowry,[-93.  11.],1,08:32,NYI,WPG,WPG,52,NYI,2,0,0,8476917,8476392.0,Adam Pelech Tripping against Adam Lowry
-80,penalty,Holding,Michael Dal Colle,Ville Heinola,[-93.  17.],1,02:19,NYI,WPG,WPG,52,NYI,2,1,0,8477936,8481572.0,Michael Dal Colle Holding against Ville Heinola
-118,penalty,Tripping,Dmitry Kulikov,Michael Dal Colle,[-89. -21.],2,12:35,WPG,NYI,WPG,52,NYI,2,1,0,8475179,8477936.0,Dmitry Kulikov Tripping against Michael Dal Colle
-99,penalty,Hooking,Scott Mayfield,Alexander Wennberg,[-92.  20.],2,16:05,NYI,CBJ,CBJ,29,NYI,2,1,2,8476429,8477505.0,Scott Mayfield Hooking against Alexander Wennberg
-35,penalty,Tripping,Oliver Wahlstrom,Clayton Keller,[44. 40.],1,12:09,NYI,ARI,NYI,2,ARI,53,1,0,8480789,8479343.0,Oliver Wahlstrom Tripping against Clayton Keller
-128,penalty,Tripping,Adam Pelech,Conor Garland,[96. 16.],2,11:01,NYI,ARI,NYI,2,ARI,53,1,1,8476917,8478856.0,Adam Pelech Tripping against Conor Garland
-154,penalty,Hooking,Phil Kessel,Cal Clutterbuck,[-71.   1.],2,04:54,ARI,NYI,NYI,2,ARI,53,2,1,8473548,8473504.0,Phil Kessel Hooking against Cal Clutterbuck
-158,penalty,Slashing,Mathew Barzal,Jakob Chychrun,[-82.  30.],2,04:13,NYI,ARI,NYI,2,ARI,53,2,1,8478445,8479345.0,Mathew Barzal Slashing against Jakob Chychrun
-29,penalty,Hooking,Anders Lee,Vladislav Namestnikov,[-74. -39.],1,14:02,NYI,OTT,OTT,9,NYI,2,0,0,8475314,8476480.0,Anders Lee Hooking against Vladislav Namestnikov
-64,penalty,Hi-sticking,Derick Brassard,Brady Tkachuk,[ 43. -28.],1,06:44,NYI,OTT,OTT,9,NYI,2,1,1,8473544,8480801.0,Derick Brassard Hi-sticking against Brady Tkachuk
-78,penalty,Hooking,Nick Paul,Mathew Barzal,[-12. -32.],1,04:07,OTT,NYI,OTT,9,NYI,2,1,1,8477426,8478445.0,Nick Paul Hooking against Mathew Barzal
-84,penalty,PS - Tripping on breakaway,Nikita Zaitsev,Nick Leddy,[-72.   1.],1,02:41,OTT,NYI,OTT,9,NYI,2,1,1,8479458,8475181.0,Nikita Zaitsev PS - Tripping on breakaway against Nick Leddy
-95,penalty,Roughing,Cole Bardreau,Thomas Chabot,[-91.  11.],1,00:19,NYI,OTT,OTT,9,NYI,2,1,2,8478367,8478469.0,Cole Bardreau Roughing against Thomas Chabot
-139,penalty,Misconduct,Mark Borowiecki,Cal Clutterbuck,[-30.  27.],2,11:07,OTT,NYI,OTT,9,NYI,2,1,4,8474697,8473504.0,Mark Borowiecki Misconduct against Cal Clutterbuck
-140,penalty,Roughing,Cal Clutterbuck,Mark Borowiecki,[-35.  17.],2,11:07,NYI,OTT,OTT,9,NYI,2,1,4,8473504,8474697.0,Cal Clutterbuck Roughing against Mark Borowiecki
-141,penalty,Roughing,Mark Borowiecki,Brady Tkachuk,[-39.  23.],2,11:07,OTT,NYI,OTT,9,NYI,2,1,4,8474697,8480801.0,Mark Borowiecki Roughing against Cal Clutterbuck served by Brady Tkachuk
-142,penalty,Roughing,Mark Borowiecki,Cal Clutterbuck,[-40.  26.],2,11:07,OTT,NYI,OTT,9,NYI,2,1,4,8474697,8473504.0,Mark Borowiecki Roughing against Cal Clutterbuck
-143,penalty,Misconduct,Cal Clutterbuck,,[-39.  25.],2,11:07,NYI,OTT,OTT,9,NYI,2,1,4,8473504,,Cal Clutterbuck Misconduct
-151,penalty,Slashing,Nick Leddy,Jean-Gabriel Pageau,[-77.  -2.],2,09:50,NYI,OTT,OTT,9,NYI,2,1,4,8475181,8476419.0,Nick Leddy Slashing against Jean-Gabriel Pageau
-153,penalty,Interference - Goalkeeper,Anders Lee,Craig Anderson,[84. -1.],2,09:32,NYI,OTT,OTT,9,NYI,2,1,4,8475314,8467950.0,Anders Lee Interference - Goalkeeper against Craig Anderson
-187,penalty,Tripping,Vladislav Namestnikov,Brock Nelson,[-49. -28.],2,01:40,OTT,NYI,OTT,9,NYI,2,1,4,8476480,8475754.0,Vladislav Namestnikov Tripping against Brock Nelson
-201,penalty,Fighting,Brady Tkachuk,Casey Cizikas,[-13.  35.],3,16:50,OTT,NYI,OTT,9,NYI,2,1,4,8480801,8475231.0,Brady Tkachuk Fighting against Casey Cizikas
-202,penalty,Fighting,Casey Cizikas,Brady Tkachuk,[-6. 34.],3,16:50,NYI,OTT,OTT,9,NYI,2,1,4,8475231,8480801.0,Casey Cizikas Fighting against Brady Tkachuk
-222,penalty,Tripping,Brock Nelson,Erik Brannstrom,[58. 40.],3,13:23,NYI,OTT,OTT,9,NYI,2,1,4,8475754,8480073.0,Brock Nelson Tripping against Erik Brannstrom
-264,penalty,Roughing,Cal Clutterbuck,Tyler Ennis,[ 96. -15.],3,01:00,NYI,OTT,OTT,9,NYI,2,2,4,8473504,8474589.0,Cal Clutterbuck Roughing against Tyler Ennis
-265,penalty,Slashing,Tyler Ennis,Thomas Greiss,[ 95. -22.],3,01:00,OTT,NYI,OTT,9,NYI,2,2,4,8474589,8471306.0,Tyler Ennis Slashing against Thomas Greiss
-27,penalty,Roughing,Ross Johnston,Chris Stewart,[ 8. 20.],1,15:38,NYI,PHI,NYI,2,PHI,4,2,1,8477527,8473485.0,Ross Johnston Roughing against Chris Stewart
-28,penalty,Roughing,Chris Stewart,Ross Johnston,[ 9. 17.],1,15:38,PHI,NYI,NYI,2,PHI,4,2,1,8473485,8477527.0,Chris Stewart Roughing against Ross Johnston
-32,penalty,Hooking,Shayne Gostisbehere,Anders Lee,[86. 31.],1,14:03,PHI,NYI,NYI,2,PHI,4,2,1,8476906,8475314.0,Shayne Gostisbehere Hooking against Anders Lee
-68,penalty,Fighting,Ross Johnston,Chris Stewart,[93. 18.],1,05:37,NYI,PHI,NYI,2,PHI,4,3,1,8477527,8473485.0,Ross Johnston Fighting against Chris Stewart
-69,penalty,Fighting,Chris Stewart,Ross Johnston,[94. 19.],1,05:37,PHI,NYI,NYI,2,PHI,4,3,1,8473485,8477527.0,Chris Stewart Fighting against Ross Johnston
-70,penalty,Cross checking,Cole Bardreau,Mikhail Vorobyev,[ 94. -25.],1,05:37,NYI,PHI,NYI,2,PHI,4,3,1,8478367,8478844.0,Cole Bardreau Cross checking against Mikhail Vorobyev
-120,penalty,Slashing,Ross Johnston,Matt Niskanen,[ 47. -30.],2,14:08,NYI,PHI,NYI,2,PHI,4,5,2,8477527,8471702.0,Ross Johnston Slashing against Matt Niskanen
-202,penalty,Tripping,Ryan Pulock,Tyler Pitlick,[-35. -34.],3,17:00,NYI,PHI,NYI,2,PHI,4,5,2,8477506,8475752.0,Ryan Pulock Tripping against Tyler Pitlick
-259,penalty,Hooking,Claude Giroux,Michael Dal Colle,[76.  2.],3,06:03,PHI,NYI,NYI,2,PHI,4,5,2,8473512,8477936.0,Claude Giroux Hooking against Michael Dal Colle
-26,penalty,Hooking,Mikhail Sergachev,Cal Clutterbuck,[96.  4.],1,13:40,TBL,NYI,NYI,2,TBL,14,0,0,8479410,8473504.0,Mikhail Sergachev Hooking against Cal Clutterbuck
-51,penalty,Fighting,Luke Witkowski,Ross Johnston,[-12.  39.],1,07:09,TBL,NYI,NYI,2,TBL,14,0,0,8474722,8477527.0,Luke Witkowski Fighting against Ross Johnston
-52,penalty,Fighting,Ross Johnston,Luke Witkowski,[-14.  39.],1,07:09,NYI,TBL,NYI,2,TBL,14,0,0,8477527,8474722.0,Ross Johnston Fighting against Luke Witkowski
-87,penalty,Holding,Devon Toews,Nikita Kucherov,[ 87. -29.],2,18:11,NYI,TBL,NYI,2,TBL,14,0,0,8478038,8476453.0,Devon Toews Holding against Nikita Kucherov
-104,penalty,Interference,Cal Clutterbuck,Anthony Cirelli,[80.  1.],2,14:15,NYI,TBL,NYI,2,TBL,14,1,0,8473504,8478519.0,Cal Clutterbuck Interference against Anthony Cirelli
-158,penalty,Tripping,Kevin Shattenkirk,Casey Cizikas,[-93. -24.],2,04:27,TBL,NYI,NYI,2,TBL,14,2,1,8474031,8475231.0,Kevin Shattenkirk Tripping against Casey Cizikas
-214,penalty,Delaying Game - Puck over glass,Scott Mayfield,Yanni Gourde,[-84. -36.],3,12:39,NYI,TBL,NYI,2,TBL,14,2,1,8476429,8476826.0,Scott Mayfield Delaying Game - Puck over glass against Yanni Gourde
-244,penalty,Delay of game,Anders Lee,Tyler Johnson,[-4.  0.],3,05:33,TBL,NYI,NYI,2,TBL,14,4,1,8475314,8474870.0, against Anders LeeDelay of Game - Bench served by Tyler Johnson
-28,penalty,Holding,Oliver Wahlstrom,Jeff Skinner,[-12. -41.],1,11:22,NYI,BUF,BUF,7,NYI,2,0,1,8480789,8475784.0,Oliver Wahlstrom Holding against Jeff Skinner
-92,penalty,Slashing,Jake McCabe,Mathew Barzal,[-15. -40.],2,14:15,BUF,NYI,BUF,7,NYI,2,0,1,8476931,8478445.0,Jake McCabe Slashing against Mathew Barzal
-115,penalty,Holding,Ryan Pulock,Jimmy Vesey,[-79.  -6.],2,05:53,NYI,BUF,BUF,7,NYI,2,0,1,8477506,8476918.0,Ryan Pulock Holding against Jimmy Vesey
-140,penalty,Too many men on the ice,Ross Johnston,,[  9. -38.],3,18:37,NYI,BUF,BUF,7,NYI,2,0,1,8477527,,Too many men/ice served by Ross Johnston
-24,penalty,Hooking,Artem Anisimov,Mathew Barzal,[65. 16.],1,13:59,OTT,NYI,NYI,2,OTT,9,0,0,8473573,8478445.0,Artem Anisimov Hooking against Mathew Barzal
-112,penalty,Holding,Scott Mayfield,Nick Paul,[94. 24.],2,15:06,NYI,OTT,NYI,2,OTT,9,1,1,8476429,8477426.0,Scott Mayfield Holding against Nick Paul
-156,penalty,PS - Tripping on breakaway,Mark Borowiecki,Cole Bardreau,[-55.   2.],2,04:26,OTT,NYI,NYI,2,OTT,9,1,1,8474697,8478367.0,Mark Borowiecki PS - Tripping on breakaway against Cole Bardreau
-195,penalty,Hi-sticking,Dylan DeMelo,Ross Johnston,[94. 10.],3,14:39,OTT,NYI,NYI,2,OTT,9,2,1,8476331,8477527.0,Dylan DeMelo Hi-sticking against Ross Johnston
-207,penalty,Hooking,Adam Pelech,Tyler Ennis,[-82.  19.],3,11:50,NYI,OTT,NYI,2,OTT,9,2,1,8476917,8474589.0,Adam Pelech Hooking against Tyler Ennis
-246,penalty,Roughing,Ross Johnston,Michael Dal Colle,[37. 33.],3,01:49,NYI,OTT,NYI,2,OTT,9,4,1,8477527,8477936.0,Ross Johnston Roughing against Brady Tkachuk served by Michael Dal Colle
-247,penalty,Roughing,Ross Johnston,Brady Tkachuk,[47. 32.],3,01:49,NYI,OTT,NYI,2,OTT,9,4,1,8477527,8480801.0,Ross Johnston Roughing against Brady Tkachuk
-248,penalty,Misconduct,Ross Johnston,Brady Tkachuk,[30. 34.],3,01:49,NYI,OTT,NYI,2,OTT,9,4,1,8477527,8480801.0,Ross Johnston Misconduct against Brady Tkachuk
-104,penalty,Holding,Cole Bardreau,Nick Bjugstad,[61. 40.],2,13:45,NYI,PIT,NYI,2,PIT,5,1,0,8478367,8475760.0,Cole Bardreau Holding against Nick Bjugstad
-142,penalty,Tripping,Mathew Barzal,Dominik Kahun,[92. 17.],2,03:45,NYI,PIT,NYI,2,PIT,5,3,0,8478445,8480946.0,Mathew Barzal Tripping against Dominik Kahun
-207,penalty,Too many men on the ice,Anthony Beauvillier,Dominik Kahun,[41.  7.],3,09:53,PIT,NYI,NYI,2,PIT,5,3,3,8478463,8480946.0, against Anthony BeauvillierToo many men/ice served by Dominik Kahun
-14,penalty,Interference,Evgenii Dadonov,Josh Bailey,[-96.  -8.],1,16:23,FLA,NYI,NYI,2,FLA,13,0,0,8474149,8474573.0,Evgenii Dadonov Interference against Josh Bailey
-86,penalty,Hooking,Devon Toews,Jonathan Huberdeau,[-75.  -1.],1,01:49,NYI,FLA,NYI,2,FLA,13,1,0,8478038,8476456.0,Devon Toews Hooking against Jonathan Huberdeau
-123,penalty,Slashing,Jordan Eberle,Aaron Ekblad,[58. 39.],2,13:54,NYI,FLA,NYI,2,FLA,13,1,0,8474586,8477932.0,Jordan Eberle Slashing against Aaron Ekblad
-132,penalty,Delaying Game - Puck over glass,Aaron Ekblad,Anthony Beauvillier,[-45.  26.],2,11:50,FLA,NYI,NYI,2,FLA,13,1,0,8477932,8478463.0,Aaron Ekblad Delaying Game - Puck over glass against Anthony Beauvillier
-174,penalty,Holding,Mark Pysyk,Michael Dal Colle,[-5.  0.],2,02:59,FLA,NYI,NYI,2,FLA,13,1,0,8475796,8477936.0,Mark Pysyk Holding against Michael Dal Colle
-215,penalty,Tripping,Johnny Boychuk,Mike Hoffman,[-79.  -6.],3,15:16,NYI,FLA,NYI,2,FLA,13,1,0,8470187,8474884.0,Johnny Boychuk Tripping against Mike Hoffman
-259,penalty,Tripping,Anders Lee,Vincent Trocheck,[ 18. -39.],3,05:33,NYI,FLA,NYI,2,FLA,13,2,1,8475314,8476389.0,Anders Lee Tripping against Vincent Trocheck
-35,penalty,Hooking,Ross Johnston,Jake Muzzin,[-76.  13.],1,13:05,NYI,TOR,NYI,2,TOR,10,0,0,8477527,8474162.0,Ross Johnston Hooking against Jake Muzzin
-86,penalty,Tripping,Travis Dermott,Brock Nelson,[40.  1.],1,02:11,TOR,NYI,NYI,2,TOR,10,1,0,8478408,8475754.0,Travis Dermott Tripping against Brock Nelson
-220,penalty,Slashing,Devon Toews,William Nylander,[-35. -17.],3,15:20,NYI,TOR,NYI,2,TOR,10,3,2,8478038,8477939.0,Devon Toews Slashing against William Nylander
-231,penalty,Cross checking,Jake Muzzin,Jordan Eberle,[ 61. -20.],3,12:35,TOR,NYI,NYI,2,TOR,10,3,2,8474162,8474586.0,Jake Muzzin Cross checking against Jordan Eberle
-256,penalty,Interference,William Nylander,Derick Brassard,[-22.  16.],3,07:47,TOR,NYI,NYI,2,TOR,10,4,2,8477939,8473544.0,William Nylander Interference against Derick Brassard
-60,penalty,Interference,Johnny Boychuk,Joel Farabee,[-80.  -2.],1,08:00,NYI,PHI,PHI,4,NYI,2,1,0,8470187,8480797.0,Johnny Boychuk Interference against Joel Farabee
-89,penalty,Tripping,Jordan Eberle,Ivan Provorov,[-96.  -7.],1,01:49,NYI,PHI,PHI,4,NYI,2,1,0,8474586,8478500.0,Jordan Eberle Tripping against Ivan Provorov
-112,penalty,Slashing,Kevin Hayes,Derick Brassard,[-28. -34.],2,14:57,PHI,NYI,PHI,4,NYI,2,2,0,8475763,8473544.0,Kevin Hayes Slashing against Derick Brassard
-145,penalty,Holding,Travis Sanheim,Anthony Beauvillier,[-84.  39.],2,06:11,PHI,NYI,PHI,4,NYI,2,3,0,8477948,8478463.0,Travis Sanheim Holding against Anthony Beauvillier
-182,penalty,Holding,Casey Cizikas,Kevin Hayes,[-54.   1.],3,16:59,NYI,PHI,PHI,4,NYI,2,3,0,8475231,8475763.0,Casey Cizikas Holding against Kevin Hayes
-223,penalty,Too many men on the ice,James van Riemsdyk,,[13. 40.],3,08:16,PHI,NYI,PHI,4,NYI,2,3,1,8474037,,Too many men/ice served by James van Riemsdyk
-10,penalty,Tripping,Adam Pelech,Jared McCann,[81. 11.],1,18:10,NYI,PIT,PIT,5,NYI,2,0,0,8476917,8477955.0,Adam Pelech Tripping against Jared McCann
-33,penalty,Holding,Jared McCann,Josh Bailey,[-96.  -2.],1,13:54,PIT,NYI,PIT,5,NYI,2,0,0,8477955,8474573.0,Jared McCann Holding against Josh Bailey
-50,penalty,Holding,Juuso Riikola,Cal Clutterbuck,[-96.  -7.],1,11:11,PIT,NYI,PIT,5,NYI,2,0,0,8480945,8473504.0,Juuso Riikola Holding against Cal Clutterbuck
-56,penalty,Hooking,Nick Leddy,John Marino,[-87. -13.],1,09:30,NYI,PIT,PIT,5,NYI,2,0,0,8475181,8478507.0,Nick Leddy Hooking against John Marino
-132,penalty,Hi-sticking,Michael Dal Colle,Juuso Riikola,[94. 27.],2,14:18,NYI,PIT,PIT,5,NYI,2,2,2,8477936,8480945.0,Michael Dal Colle Hi-sticking against Juuso Riikola
-221,penalty,Tripping,Mathew Barzal,Joseph Blandisi,[-78.   9.],3,17:45,NYI,PIT,PIT,5,NYI,2,3,2,8478445,8477010.0,Mathew Barzal Tripping against Joseph Blandisi
-272,penalty,Tripping,Bryan Rust,Nick Leddy,[ 88. -31.],3,06:23,PIT,NYI,PIT,5,NYI,2,4,2,8475810,8475181.0,Bryan Rust Tripping against Nick Leddy
-10,penalty,Hi-sticking,Adam Pelech,Jake Guentzel,[-74.  35.],1,18:30,NYI,PIT,NYI,2,PIT,5,0,1,8476917,8477404.0,Adam Pelech Hi-sticking against Jake Guentzel
-49,penalty,Holding,Chad Ruhwedel,Anthony Beauvillier,[29. 24.],1,11:32,PIT,NYI,NYI,2,PIT,5,0,1,8477244,8478463.0,Chad Ruhwedel Holding against Anthony Beauvillier
-66,penalty,Hi-sticking,Marcus Pettersson,Matt Martin,[ 74. -12.],1,09:05,PIT,NYI,NYI,2,PIT,5,0,1,8477969,8474709.0,Marcus Pettersson Hi-sticking against Matt Martin
-150,penalty,Roughing,Jake Guentzel,Scott Mayfield,[22. 31.],2,11:25,PIT,NYI,NYI,2,PIT,5,1,2,8477404,8476429.0,Jake Guentzel Roughing against Scott Mayfield
-151,penalty,Unsportsmanlike conduct,Jake Guentzel,,[18. 33.],2,11:25,PIT,NYI,NYI,2,PIT,5,1,2,8477404,,Jake Guentzel Unsportsmanlike conduct
-175,penalty,Slashing,Evgeni Malkin,Adam Pelech,[77. 31.],2,04:34,PIT,NYI,NYI,2,PIT,5,2,2,8471215,8476917.0,Evgeni Malkin Slashing against Adam Pelech
-186,penalty,Tripping,Anders Lee,John Marino,[-66. -11.],2,02:14,NYI,PIT,NYI,2,PIT,5,2,2,8475314,8478507.0,Anders Lee Tripping against John Marino
-238,penalty,Face-off violation,Teddy Blueger,,[-69.  22.],3,10:52,PIT,NYI,NYI,2,PIT,5,2,2,8476927,,Delay Game - Bench – FO viol served by Teddy Blueger
-241,penalty,Interference,Brock Nelson,Brian Dumoulin,[74. -2.],3,10:33,NYI,PIT,NYI,2,PIT,5,2,2,8475754,8475208.0,Brock Nelson Interference against Brian Dumoulin
-260,penalty,Tripping,Sam Lafferty,Devon Toews,[-42.   6.],3,04:56,PIT,NYI,NYI,2,PIT,5,2,2,8478043,8478038.0,Sam Lafferty Tripping against Devon Toews
-275,penalty,Roughing,Anders Lee,Zach Aston-Reese,[ 15. -37.],3,02:18,NYI,PIT,NYI,2,PIT,5,3,2,8475314,8479944.0,Anders Lee Roughing against Zach Aston-Reese
-276,penalty,Roughing,Zach Aston-Reese,Anders Lee,[ 15. -35.],3,02:18,PIT,NYI,NYI,2,PIT,5,3,2,8479944,8475314.0,Zach Aston-Reese Roughing against Anders Lee
-3,penalty,Tripping,Adam Pelech,Kevin Labanc,[58. -5.],1,18:54,NYI,SJS,SJS,28,NYI,2,0,0,8476917,8478099.0,Adam Pelech Tripping against Kevin Labanc
-29,penalty,Hooking,Radim Simek,Michael Dal Colle,[-73.   6.],1,13:05,SJS,NYI,SJS,28,NYI,2,0,0,8480160,8477936.0,Radim Simek Hooking against Michael Dal Colle
-87,penalty,Fighting,Brenden Dillon,Casey Cizikas,[ 97. -19.],2,19:23,SJS,NYI,SJS,28,NYI,2,0,0,8475455,8475231.0,Brenden Dillon Fighting against Casey Cizikas
-88,penalty,Fighting,Casey Cizikas,Brenden Dillon,[ 96. -15.],2,19:23,NYI,SJS,SJS,28,NYI,2,0,0,8475231,8475455.0,Casey Cizikas Fighting against Brenden Dillon
-113,penalty,Missing key [PD_151],Kevin Labanc,,[ 21. -16.],2,12:55,SJS,NYI,SJS,28,NYI,2,1,1,8478099,,Delaying Game - Unsucc. chlg served by Kevin Labanc
-135,penalty,Tripping,Lukas Radil,Scott Mayfield,[38.  2.],2,07:52,SJS,NYI,SJS,28,NYI,2,1,1,8480780,8476429.0,Lukas Radil Tripping against Scott Mayfield
-151,penalty,Slashing,Kevin Labanc,Anthony Beauvillier,[40.  0.],2,03:18,SJS,NYI,SJS,28,NYI,2,1,1,8478099,8478463.0,Kevin Labanc Slashing against Anthony Beauvillier
-178,penalty,Tripping,Patrick Marleau,Scott Mayfield,[94. -3.],3,17:28,SJS,NYI,SJS,28,NYI,2,1,1,8466139,8476429.0,Patrick Marleau Tripping against Scott Mayfield
-213,penalty,Tripping,Kevin Labanc,Adam Pelech,[-41. -19.],3,07:34,SJS,NYI,SJS,28,NYI,2,1,1,8478099,8476917.0,Kevin Labanc Tripping against Adam Pelech
-54,penalty,Holding,Nick Ritchie,Cal Clutterbuck,[-79. -11.],1,10:22,ANA,NYI,ANA,24,NYI,2,0,0,8477941,8473504.0,Nick Ritchie Holding against Cal Clutterbuck
-83,penalty,Fighting,Scott Mayfield,Nicolas Deslauriers,[24.  0.],1,04:25,NYI,ANA,ANA,24,NYI,2,0,0,8476429,8475235.0,Scott Mayfield Fighting against Nicolas Deslauriers
-84,penalty,Fighting,Nicolas Deslauriers,Scott Mayfield,[23. -4.],1,04:25,ANA,NYI,ANA,24,NYI,2,0,0,8475235,8476429.0,Nicolas Deslauriers Fighting against Scott Mayfield
-85,penalty,Roughing,Nicolas Deslauriers,Sam Steel,[16.  3.],1,04:25,ANA,NYI,ANA,24,NYI,2,0,0,8475235,8479351.0,Nicolas Deslauriers Roughing against Cal Clutterbuck served by Sam Steel
-135,penalty,Slashing,Anders Lee,Ondrej Kase,[-69.  38.],2,11:55,NYI,ANA,ANA,24,NYI,2,0,0,8475314,8478131.0,Anders Lee Slashing against Ondrej Kase
-211,penalty,Tripping,Johnny Boychuk,Nicolas Deslauriers,[97. -4.],3,13:37,NYI,ANA,ANA,24,NYI,2,1,0,8470187,8475235.0,Johnny Boychuk Tripping against Nicolas Deslauriers
-12,penalty,Hi-sticking,Anze Kopitar,Jordan Eberle,[ 51. -20.],1,17:07,LAK,NYI,LAK,26,NYI,2,0,0,8471685,8474586.0,Anze Kopitar Hi-sticking against Jordan Eberle
-76,penalty,Hooking,Adam Pelech,Anze Kopitar,[-50.  10.],1,03:55,NYI,LAK,LAK,26,NYI,2,1,1,8476917,8471685.0,Adam Pelech Hooking against Anze Kopitar
-82,penalty,Slashing,Cal Clutterbuck,Tyler Toffoli,[-80.  -2.],1,01:25,NYI,LAK,LAK,26,NYI,2,1,1,8473504,8475726.0,Cal Clutterbuck Slashing against Tyler Toffoli
-143,penalty,Tripping,Dustin Brown,Jordan Eberle,[-75. -40.],2,08:41,LAK,NYI,LAK,26,NYI,2,1,1,8470606,8474586.0,Dustin Brown Tripping against Jordan Eberle
-156,penalty,Tripping,Noah Dobson,Kyle Clifford,[ 36. -34.],2,05:27,NYI,LAK,LAK,26,NYI,2,1,1,8480865,8475160.0,Noah Dobson Tripping against Kyle Clifford
-193,penalty,Holding,Sean Walker,Mathew Barzal,[ 66. -37.],3,15:25,LAK,NYI,LAK,26,NYI,2,2,1,8480336,8478445.0,Sean Walker Holding against Mathew Barzal
-197,penalty,Hi-sticking,Josh Bailey,Jeff Carter,[ 51. -27.],3,14:27,NYI,LAK,LAK,26,NYI,2,2,1,8474573,8470604.0,Josh Bailey Hi-sticking against Jeff Carter
-209,penalty,Slashing,Jeff Carter,Mathew Barzal,[17. 40.],3,11:20,LAK,NYI,LAK,26,NYI,2,2,1,8470604,8478445.0,Jeff Carter Slashing against Mathew Barzal
-210,penalty,Embellishment,Mathew Barzal,,[17. 40.],3,11:20,NYI,LAK,LAK,26,NYI,2,2,1,8478445,,Mathew Barzal Embellishment
-246,penalty,Interference,Josh Bailey,Seth Jones,[-30. -18.],3,03:01,NYI,CBJ,NYI,2,CBJ,29,2,0,8474573,8477495.0,Josh Bailey Interference against Seth Jones
-10,penalty,Delaying Game - Puck over glass,Darren Helm,,[ 40. -39.],1,16:48,DET,NYI,DET,17,NYI,2,0,0,8471794,,Darren Helm Delaying Game - Puck over glass
-41,penalty,Hooking,Anthony Beauvillier,Valtteri Filppula,[40. 36.],1,08:52,NYI,DET,DET,17,NYI,2,0,1,8478463,8470047.0,Anthony Beauvillier Hooking against Valtteri Filppula
-60,penalty,Hooking,Johnny Boychuk,Dylan Larkin,[-95.   1.],1,03:29,NYI,DET,DET,17,NYI,2,0,2,8470187,8477946.0,Johnny Boychuk Hooking against Dylan Larkin
-93,penalty,Hi-sticking,Anders Lee,Filip Hronek,[-77.  -2.],2,15:00,NYI,DET,DET,17,NYI,2,0,2,8475314,8479425.0,Anders Lee Hi-sticking against Filip Hronek
-104,penalty,Delaying Game - Puck over glass,Devon Toews,,[ 96. -20.],2,12:17,NYI,DET,DET,17,NYI,2,0,2,8478038,,Devon Toews Delaying Game - Puck over glass
-112,penalty,Holding,Nick Leddy,Dylan Larkin,[78.  2.],2,09:34,NYI,DET,DET,17,NYI,2,0,2,8475181,8477946.0,Nick Leddy Holding against Dylan Larkin
-132,penalty,Interference,Frans Nielsen,Mathew Barzal,[-35. -38.],2,05:34,DET,NYI,DET,17,NYI,2,1,2,8470144,8478445.0,Frans Nielsen Interference against Mathew Barzal
-134,penalty,Interference,Patrik Nemeth,Mathew Barzal,[-54.  39.],2,05:02,DET,NYI,DET,17,NYI,2,1,2,8475747,8478445.0,Patrik Nemeth Interference against Mathew Barzal
-159,penalty,Tripping,Otto Koivula,Filip Hronek,[98. 11.],3,17:23,NYI,DET,DET,17,NYI,2,1,3,8479526,8479425.0,Otto Koivula Tripping against Filip Hronek
-217,penalty,Boarding,Luke Glendening,Johnny Boychuk,[-97.   0.],3,03:17,DET,NYI,DET,17,NYI,2,1,4,8476822,8470187.0,Luke Glendening Boarding against Johnny Boychuk
-223,penalty,Hi-sticking,Valtteri Filppula,Brock Nelson,[38. 37.],3,01:14,DET,NYI,DET,17,NYI,2,1,4,8470047,8475754.0,Valtteri Filppula Hi-sticking against Brock Nelson
-48,penalty,Holding,Gustav Olofsson,Jordan Eberle,[98. -5.],1,10:34,MTL,NYI,MTL,8,NYI,2,0,0,8477467,8474586.0,Gustav Olofsson Holding against Jordan Eberle
-179,penalty,Holding,Jeff Petry,Mathew Barzal,[-98.  -2.],2,03:11,MTL,NYI,MTL,8,NYI,2,2,0,8473507,8478445.0,Jeff Petry Holding against Mathew Barzal
-188,penalty,Slashing,Carey Price,Jeff Petry,[-85.  -2.],2,01:06,MTL,NYI,MTL,8,NYI,2,2,0,8471679,8473507.0,Carey Price Slashing against Brock Nelson served by Jeff Petry
-259,penalty,Holding the stick,Adam Pelech,Joel Armia,[-23.  40.],3,07:01,NYI,MTL,MTL,8,NYI,2,3,1,8476917,8476469.0,Adam Pelech Holding the stick against Joel Armia
-260,penalty,Slashing,Joel Armia,Adam Pelech,[-23.  41.],3,07:01,MTL,NYI,MTL,8,NYI,2,3,1,8476469,8476917.0,Joel Armia Slashing against Adam Pelech
-54,penalty,Tripping,Jon Merrill,Matt Martin,[15. 34.],1,08:53,VGK,NYI,NYI,2,VGK,54,0,0,8475750,8474709.0,Jon Merrill Tripping against Matt Martin
-147,penalty,Interference,Mathew Barzal,Tomas Nosek,[-8. 41.],2,10:23,NYI,VGK,NYI,2,VGK,54,1,0,8478445,8477931.0,Mathew Barzal Interference against Tomas Nosek
-291,penalty,Tripping,Jonathan Marchessault,Mathew Barzal,[-27.  10.],4,01:50,VGK,NYI,NYI,2,VGK,54,2,2,8476539,8478445.0,Jonathan Marchessault Tripping against Mathew Barzal
-13,penalty,Hi-sticking,Jamie Oleksiak,Ross Johnston,[93. -7.],1,18:08,DAL,NYI,DAL,25,NYI,2,0,0,8476467,8477527.0,Jamie Oleksiak Hi-sticking against Ross Johnston
-88,penalty,Hi-sticking,Mathew Barzal,Jamie Oleksiak,[ 89. -32.],1,05:31,NYI,DAL,DAL,25,NYI,2,1,0,8478445,8476467.0,Mathew Barzal Hi-sticking against Jamie Oleksiak
-125,penalty,Tripping,Mathew Barzal,Roope Hintz,[ 62. -17.],2,18:11,NYI,DAL,DAL,25,NYI,2,2,0,8478445,8478449.0,Mathew Barzal Tripping against Roope Hintz
-26,penalty,Tripping,Adam Pelech,Mitchell Stephens,[ 94. -11.],1,12:43,NYI,TBL,TBL,14,NYI,2,0,0,8476917,8478477.0,Adam Pelech Tripping against Mitchell Stephens
-74,penalty,Roughing,Cal Clutterbuck,Cory Conacher,[83. -2.],1,02:51,NYI,TBL,TBL,14,NYI,2,0,0,8473504,8476195.0,Cal Clutterbuck Roughing against Cory Conacher
-75,penalty,Roughing,Cory Conacher,Cal Clutterbuck,[80.  0.],1,02:51,TBL,NYI,TBL,14,NYI,2,0,0,8476195,8473504.0,Cory Conacher Roughing against Cal Clutterbuck
-119,penalty,Cross checking,Scott Mayfield,Nikita Kucherov,[-71. -26.],2,12:30,NYI,TBL,TBL,14,NYI,2,0,1,8476429,8476453.0,Scott Mayfield Cross checking against Nikita Kucherov
-120,penalty,Roughing,Cedric Paquette,Scott Mayfield,[-82.  31.],2,12:30,TBL,NYI,TBL,14,NYI,2,0,1,8476975,8476429.0,Cedric Paquette Roughing against Scott Mayfield
-121,penalty,Roughing,Scott Mayfield,Michael Dal Colle,[-76.  33.],2,12:30,NYI,TBL,TBL,14,NYI,2,0,1,8476429,8477936.0,Scott Mayfield Roughing against Cedric Paquette served by Michael Dal Colle
-144,penalty,Slashing,Kevin Shattenkirk,Anthony Beauvillier,[ 63. -35.],2,08:18,TBL,NYI,TBL,14,NYI,2,0,2,8474031,8478463.0,Kevin Shattenkirk Slashing against Anthony Beauvillier
-182,penalty,Hooking,Michael Dal Colle,Anthony Cirelli,[ 63. -27.],3,19:17,NYI,TBL,TBL,14,NYI,2,1,2,8477936,8478519.0,Michael Dal Colle Hooking against Anthony Cirelli
-240,penalty,Cross checking,Mikhail Sergachev,Matt Martin,[-89.  20.],3,04:47,TBL,NYI,TBL,14,NYI,2,1,4,8479410,8474709.0,Mikhail Sergachev Cross checking against Matt Martin
-59,penalty,Roughing,Johnny Boychuk,Frank Vatrano,[-70. -39.],1,04:45,NYI,FLA,FLA,13,NYI,2,0,0,8470187,8478366.0,Johnny Boychuk Roughing against Frank Vatrano
-78,penalty,Tripping,Frank Vatrano,Devon Toews,[-41.  41.],1,00:18,FLA,NYI,FLA,13,NYI,2,0,0,8478366,8478038.0,Frank Vatrano Tripping against Devon Toews
-96,penalty,Holding,Vincent Trocheck,Anthony Beauvillier,[-42. -37.],2,15:53,FLA,NYI,FLA,13,NYI,2,0,1,8476389,8478463.0,Vincent Trocheck Holding against Anthony Beauvillier
-132,penalty,Fighting,Brian Boyle,Anders Lee,[-93.  22.],2,08:58,FLA,NYI,FLA,13,NYI,2,1,2,8470619,8475314.0,Brian Boyle Fighting against Anders Lee
-133,penalty,Fighting,Anders Lee,Brian Boyle,[-94.  19.],2,08:58,NYI,FLA,FLA,13,NYI,2,1,2,8475314,8470619.0,Anders Lee Fighting against Brian Boyle
-134,penalty,Instigator,Anders Lee,Michael Dal Colle,[-84.  18.],2,08:58,NYI,FLA,FLA,13,NYI,2,1,2,8475314,8477936.0,Anders Lee Instigator against Brian Boyle served by Michael Dal Colle
-135,penalty,Misconduct,Anders Lee,Brian Boyle,[-95.  24.],2,08:58,NYI,FLA,FLA,13,NYI,2,1,2,8475314,8470619.0,Anders Lee Misconduct against Brian Boyle
-145,penalty,Tripping,Vincent Trocheck,Mathew Barzal,[-93. -19.],2,05:35,FLA,NYI,FLA,13,NYI,2,1,2,8476389,8478445.0,Vincent Trocheck Tripping against Mathew Barzal
-191,penalty,Tripping,MacKenzie Weegar,Casey Cizikas,[98. -5.],3,14:51,FLA,NYI,FLA,13,NYI,2,1,2,8477346,8475231.0,MacKenzie Weegar Tripping against Casey Cizikas
-214,penalty,Tripping,Ryan Pulock,Frank Vatrano,[-92.  22.],3,09:54,NYI,FLA,FLA,13,NYI,2,1,2,8477506,8478366.0,Ryan Pulock Tripping against Frank Vatrano
-71,penalty,Roughing,Marco Scandella,Josh Bailey,[ 27. -37.],1,01:38,BUF,NYI,NYI,2,BUF,7,1,0,8474618,8474573.0,Marco Scandella Roughing against Josh Bailey
-72,penalty,Roughing,Josh Bailey,Anders Lee,[ 96. -11.],1,01:38,NYI,BUF,NYI,2,BUF,7,1,0,8474573,8475314.0,Josh Bailey Roughing against Marco Scandella served by Anders Lee
-73,penalty,Roughing,Josh Bailey,Marco Scandella,[95. -6.],1,01:38,NYI,BUF,NYI,2,BUF,7,1,0,8474573,8474618.0,Josh Bailey Roughing against Marco Scandella
-98,penalty,Holding the stick,Brock Nelson,Kyle Okposo,[95. -5.],2,15:23,NYI,BUF,NYI,2,BUF,7,1,0,8475754,8473449.0,Brock Nelson Holding the stick against Kyle Okposo
-109,penalty,Holding,Rasmus Ristolainen,Jordan Eberle,[-96.  -5.],2,11:56,BUF,NYI,NYI,2,BUF,7,1,1,8477499,8474586.0,Rasmus Ristolainen Holding against Jordan Eberle
-118,penalty,Hooking,Evan Rodrigues,Brock Nelson,[-78.   2.],2,09:07,BUF,NYI,NYI,2,BUF,7,1,1,8478542,8475754.0,Evan Rodrigues Hooking against Brock Nelson
-131,penalty,Interference,Marcus Johansson,Mathew Barzal,[36. -2.],2,05:43,BUF,NYI,NYI,2,BUF,7,1,1,8475149,8478445.0,Marcus Johansson Interference against Mathew Barzal
-211,penalty,Roughing,Mathew Barzal,Rasmus Dahlin,[77. 35.],3,03:33,NYI,BUF,NYI,2,BUF,7,2,1,8478445,8480839.0,Mathew Barzal Roughing against Rasmus Dahlin
-66,penalty,Holding the stick,Filip Forsberg,Ryan Pulock,[-78.   4.],1,09:33,NSH,NYI,NYI,2,NSH,18,0,1,8476887,8477506.0,Filip Forsberg Holding the stick against Ryan Pulock
-101,penalty,Hooking,Nick Leddy,Colton Sissons,[-64. -28.],1,02:36,NYI,NSH,NYI,2,NSH,18,0,1,8475181,8476925.0,Nick Leddy Hooking against Colton Sissons
-127,penalty,Interference,Austin Watson,Derick Brassard,[58.  9.],2,16:49,NSH,NYI,NYI,2,NSH,18,1,1,8475766,8473544.0,Austin Watson Interference against Derick Brassard
-149,penalty,Hooking,Anders Lee,Dan Hamhuis,[-48.   3.],2,12:30,NYI,NSH,NYI,2,NSH,18,2,1,8475314,8469465.0,Anders Lee Hooking against Dan Hamhuis
-171,penalty,Holding,Mathew Barzal,Dante Fabbro,[-71. -20.],2,08:04,NYI,NSH,NYI,2,NSH,18,3,3,8478445,8479371.0,Mathew Barzal Holding against Dante Fabbro
-172,penalty,Hi-sticking,Dante Fabbro,Mathew Barzal,[-72. -15.],2,08:04,NSH,NYI,NYI,2,NSH,18,3,3,8479371,8478445.0,Dante Fabbro Hi-sticking against Mathew Barzal
-240,penalty,Interference,Scott Mayfield,Austin Watson,[-69.  39.],3,10:10,NYI,NSH,NYI,2,NSH,18,3,6,8476429,8475766.0,Scott Mayfield Interference against Austin Watson
-268,penalty,Charging,Ross Johnston,Jordan Eberle,[-22.  36.],3,04:26,NYI,NSH,NYI,2,NSH,18,3,8,8477527,8474586.0,Ross Johnston Charging against Austin Watson served by Jordan Eberle
-269,penalty,Misconduct,Ross Johnston,,[-26.  38.],3,04:26,NYI,NSH,NYI,2,NSH,18,3,8,8477527,,Ross Johnston Misconduct
-273,penalty,Roughing,Scott Mayfield,Derick Brassard,[-83.   7.],3,03:55,NYI,NSH,NYI,2,NSH,18,3,8,8476429,8473544.0,Scott Mayfield Roughing against Craig Smith served by Derick Brassard
-274,penalty,Roughing,Scott Mayfield,Craig Smith,[-82.   8.],3,03:55,NYI,NSH,NYI,2,NSH,18,3,8,8476429,8475225.0,Scott Mayfield Roughing against Craig Smith
-275,penalty,Roughing,Craig Smith,Yakov Trenin,[-80.   9.],3,03:55,NSH,NYI,NYI,2,NSH,18,3,8,8475225,8478508.0,Craig Smith Roughing against Scott Mayfield served by Yakov Trenin
-276,penalty,Misconduct,Scott Mayfield,,[-82.   6.],3,03:55,NYI,NSH,NYI,2,NSH,18,3,8,8476429,,Scott Mayfield Misconduct
-278,penalty,Misconduct,Craig Smith,,[-83.   5.],3,03:55,NSH,NYI,NYI,2,NSH,18,3,8,8475225,,Craig Smith Misconduct
-28,penalty,Too many men on the ice,Jordan Eberle,,[19. 30.],1,14:00,NYI,BOS,BOS,6,NYI,2,1,0,8474586,,Too many men/ice served by Jordan Eberle
-41,penalty,Tripping,Connor Clifton,Anders Lee,[ 18. -21.],1,10:51,BOS,NYI,BOS,6,NYI,2,1,0,8477365,8475314.0,Connor Clifton Tripping against Anders Lee
-83,penalty,Tripping,Casey Cizikas,David Pastrnak,[12. 22.],1,00:47,NYI,BOS,BOS,6,NYI,2,1,0,8475231,8477956.0,Casey Cizikas Tripping against David Pastrnak
-133,penalty,Hi-sticking,Derick Brassard,Connor Clifton,[-60.  40.],2,07:36,NYI,BOS,BOS,6,NYI,2,1,1,8473544,8477365.0,Derick Brassard Hi-sticking against Connor Clifton
-167,penalty,Tripping,Brandon Carlo,Jordan Eberle,[79. 15.],2,00:16,BOS,NYI,BOS,6,NYI,2,1,2,8478443,8474586.0,Brandon Carlo Tripping against Jordan Eberle
-205,penalty,Hi-sticking,Adam Pelech,Brad Marchand,[83. 16.],3,13:28,NYI,BOS,BOS,6,NYI,2,1,2,8476917,8473419.0,Adam Pelech Hi-sticking against Brad Marchand
-215,penalty,Delaying Game - Puck over glass,Brock Nelson,,[60. 34.],3,12:44,NYI,BOS,BOS,6,NYI,2,1,2,8475754,,Brock Nelson Delaying Game - Puck over glass
-39,penalty,Tripping,Casey Cizikas,Devin Shore,[-18. -24.],1,11:47,NYI,ANA,NYI,2,ANA,24,1,0,8475231,8476913.0,Casey Cizikas Tripping against Devin Shore
-62,penalty,Tripping,Derick Brassard,Sam Steel,[ 58. -36.],1,04:44,NYI,ANA,NYI,2,ANA,24,1,0,8473544,8479351.0,Derick Brassard Tripping against Sam Steel
-70,penalty,Tripping,Cam Fowler,Mathew Barzal,[81.  0.],1,03:16,ANA,NYI,NYI,2,ANA,24,1,1,8475764,8478445.0,Cam Fowler Tripping against Mathew Barzal
-136,penalty,Slashing,Sam Steel,Anthony Beauvillier,[-69. -34.],2,09:20,ANA,NYI,NYI,2,ANA,24,3,3,8479351,8478463.0,Sam Steel Slashing against Anthony Beauvillier
-157,penalty,Delay of game,Ross Johnston,,[5. 0.],2,05:19,NYI,ANA,NYI,2,ANA,24,4,4,8477527,,Delay of Game - Bench served by Ross Johnston
-162,penalty,Tripping,Casey Cizikas,Ondrej Kase,[55.  2.],2,03:19,NYI,ANA,NYI,2,ANA,24,4,4,8475231,8478131.0,Casey Cizikas Tripping against Ondrej Kase
-230,penalty,Tripping,Josh Manson,Anthony Beauvillier,[ 61. -38.],3,06:52,ANA,NYI,NYI,2,ANA,24,4,5,8476312,8478463.0,Josh Manson Tripping against Anthony Beauvillier
-8,penalty,Tripping,Nathan Gerbe,Mathew Barzal,[-69.  38.],1,18:35,CBJ,NYI,NYI,2,CBJ,29,0,0,8471804,8478445.0,Nathan Gerbe Tripping against Mathew Barzal
-127,penalty,Elbowing,Johnny Boychuk,Nathan Gerbe,[-41.  39.],2,14:21,NYI,CBJ,NYI,2,CBJ,29,1,0,8470187,8471804.0,Johnny Boychuk Elbowing against Nathan Gerbe
-223,penalty,Roughing,Gustav Nyquist,Mathew Barzal,[-13.  39.],3,15:26,CBJ,NYI,NYI,2,CBJ,29,2,2,8474679,8478445.0,Gustav Nyquist Roughing against Mathew Barzal
-224,penalty,Embellishment,Mathew Barzal,Gustav Nyquist,[-11.  39.],3,15:26,NYI,CBJ,NYI,2,CBJ,29,2,2,8478445,8474679.0,Mathew Barzal Embellishment against Gustav Nyquist
-234,penalty,Hooking,Pierre-Luc Dubois,Casey Cizikas,[66.  1.],3,13:22,CBJ,NYI,NYI,2,CBJ,29,2,2,8479400,8475231.0,Pierre-Luc Dubois Hooking against Casey Cizikas
-259,penalty,Tripping,Jordan Eberle,Alexander Wennberg,[83. 19.],3,08:26,NYI,CBJ,NYI,2,CBJ,29,2,2,8474586,8477505.0,Jordan Eberle Tripping against Alexander Wennberg
-133,penalty,Hi-sticking,Matthew Highmore,Adam Pelech,[-37. -37.],2,16:28,CHI,NYI,CHI,16,NYI,2,3,1,8478146,8476917.0,Matthew Highmore Hi-sticking against Adam Pelech
-173,penalty,Tripping,Nick Leddy,Alex Nylander,[ 57. -25.],2,10:03,NYI,CHI,CHI,16,NYI,2,3,1,8475181,8479423.0,Nick Leddy Tripping against Alex Nylander
-194,penalty,Hooking,Olli Maatta,Josh Bailey,[-73.  -1.],2,05:09,CHI,NYI,CHI,16,NYI,2,3,1,8476874,8474573.0,Olli Maatta Hooking against Josh Bailey
-268,penalty,Tripping,Mathew Barzal,Patrick Kane,[-95.   5.],3,11:58,NYI,CHI,CHI,16,NYI,2,5,1,8478445,8474141.0,Mathew Barzal Tripping against Patrick Kane
-286,penalty,Cross checking,Ross Johnston,Dennis Gilbert,[-40.  39.],3,07:03,NYI,CHI,CHI,16,NYI,2,5,1,8477527,8478502.0,Ross Johnston Cross checking against Dennis Gilbert
-294,penalty,Roughing,Matt Martin,Michael Dal Colle,[ 23. -33.],3,03:39,NYI,CHI,CHI,16,NYI,2,5,1,8474709,8477936.0,Matt Martin Roughing against Slater Koekkoek served by Michael Dal Colle
-295,penalty,Misconduct,Matt Martin,,[ 17. -33.],3,03:39,NYI,CHI,CHI,16,NYI,2,5,1,8474709,,Matt Martin Misconduct
-296,penalty,Misconduct,Slater Koekkoek,Matt Martin,[ 18. -29.],3,03:39,CHI,NYI,CHI,16,NYI,2,5,1,8476886,8474709.0,Slater Koekkoek Misconduct against Matt Martin
-31,penalty,Holding,Ryan Hartman,Scott Mayfield,[-83. -20.],1,10:26,MIN,NYI,MIN,30,NYI,2,0,0,8477451,8476429.0,Ryan Hartman Holding against Scott Mayfield
-32,penalty,Holding,Scott Mayfield,Ryan Hartman,[-77. -21.],1,10:26,NYI,MIN,MIN,30,NYI,2,0,0,8476429,8477451.0,Scott Mayfield Holding against Ryan Hartman
-60,penalty,Interference,Anders Lee,Jared Spurgeon,[ 86. -36.],1,03:28,NYI,MIN,MIN,30,NYI,2,1,0,8475314,8474716.0,Anders Lee Interference against Jared Spurgeon
-68,penalty,Tripping,Jordan Greenway,Tom Kuhnhackl,[-41. -38.],1,01:06,MIN,NYI,MIN,30,NYI,2,1,0,8478413,8475832.0,Jordan Greenway Tripping against Tom Kuhnhackl
-121,penalty,Too many men on the ice,Mats Zuccarello,,[17. 42.],2,02:48,MIN,NYI,MIN,30,NYI,2,1,0,8475692,,Too many men/ice served by Mats Zuccarello
-127,penalty,Holding the stick,Mathew Barzal,Jonas Brodin,[-67. -36.],2,01:23,NYI,MIN,MIN,30,NYI,2,1,0,8478445,8476463.0,Mathew Barzal Holding the stick against Jonas Brodin
-168,penalty,Roughing,Scott Mayfield,Eric Staal,[-86.   9.],3,09:25,NYI,MIN,MIN,30,NYI,2,1,2,8476429,8470595.0,Scott Mayfield Roughing against Eric Staal
-22,penalty,Hooking,Dmitry Orlov,Mathew Barzal,[53. 17.],1,15:17,WSH,NYI,WSH,15,NYI,2,0,0,8475200,8478445.0,Dmitry Orlov Hooking against Mathew Barzal
-89,penalty,Slashing,Lars Eller,Ross Johnston,[66. 12.],1,02:42,WSH,NYI,WSH,15,NYI,2,2,2,8474189,8477527.0,Lars Eller Slashing against Ross Johnston
-165,penalty,Interference,Casey Cizikas,Alex Ovechkin,[-52.  38.],2,06:35,NYI,WSH,WSH,15,NYI,2,3,4,8475231,8471214.0,Casey Cizikas Interference against Alex Ovechkin
-239,penalty,Roughing,Garnet Hathaway,Casey Cizikas,[ 97. -10.],3,12:49,WSH,NYI,WSH,15,NYI,2,3,4,8477903,8475231.0,Garnet Hathaway Roughing against Casey Cizikas
-240,penalty,Roughing,Casey Cizikas,Garnet Hathaway,[ 95. -13.],3,12:49,NYI,WSH,WSH,15,NYI,2,3,4,8475231,8477903.0,Casey Cizikas Roughing against Garnet Hathaway
-292,penalty,Tripping,Scott Mayfield,T.J. Oshie,[-57.  39.],3,01:00,NYI,WSH,WSH,15,NYI,2,3,4,8476429,8471698.0,Scott Mayfield Tripping against T.J. Oshie
-35,penalty,Hi-sticking,Miles Wood,Mathew Barzal,[-94. -17.],1,14:26,NJD,NYI,NYI,2,NJD,1,0,0,8477425,8478445.0,Miles Wood Hi-sticking against Mathew Barzal
-51,penalty,Interference,Devon Toews,Pavel Zacha,[-81. -36.],1,10:38,NYI,NJD,NYI,2,NJD,1,0,0,8478038,8478401.0,Devon Toews Interference against Pavel Zacha
-86,penalty,Slashing,Damon Severson,Anders Lee,[72.  0.],1,04:28,NJD,NYI,NYI,2,NJD,1,0,0,8476923,8475314.0,Damon Severson Slashing against Anders Lee
-141,penalty,Slashing,Anthony Beauvillier,Sami Vatanen,[ 32. -20.],2,12:40,NYI,NJD,NYI,2,NJD,1,0,0,8478463,8475222.0,Anthony Beauvillier Slashing against Sami Vatanen
-142,penalty,Embellishment,Sami Vatanen,Anthony Beauvillier,[ 35. -10.],2,12:40,NJD,NYI,NYI,2,NJD,1,0,0,8475222,8478463.0,Sami Vatanen Embellishment against Anthony Beauvillier
-259,penalty,Tripping,Matt Martin,Sami Vatanen,[ 14. -39.],3,10:28,NYI,NJD,NYI,2,NJD,1,1,2,8474709,8475222.0,Matt Martin Tripping against Sami Vatanen
-137,penalty,Hooking,Cody Ceci,Tom Kuhnhackl,[-84.  -7.],2,02:50,TOR,NYI,TOR,10,NYI,2,2,0,8476879,8475832.0,Cody Ceci Hooking against Tom Kuhnhackl
-34,penalty,Tripping,J.T. Compher,Josh Bailey,[-80.  38.],1,14:29,COL,NYI,NYI,2,COL,21,0,0,8477456,8474573.0,J.T. Compher Tripping against Josh Bailey
-75,penalty,Hooking,Derick Brassard,Nikita Zadorov,[ 62. -29.],1,04:31,NYI,COL,NYI,2,COL,21,0,0,8473544,8477507.0,Derick Brassard Hooking against Nikita Zadorov
-244,penalty,Interference,Scott Mayfield,J.T. Compher,[-84.  10.],3,07:38,NYI,COL,NYI,2,COL,21,1,0,8476429,8477456.0,Scott Mayfield Interference against J.T. Compher
-219,penalty,Hooking,Thomas Greiss,Matt Martin,[96. -2.],3,08:24,NYI,NJD,NJD,1,NYI,2,2,2,8471306,8474709.0,Thomas Greiss Hooking against Nikita Gusev served by Matt Martin
-60,penalty,Hooking,Charlie McAvoy,Brock Nelson,[81.  2.],1,07:29,BOS,NYI,NYI,2,BOS,6,1,0,8479325,8475754.0,Charlie McAvoy Hooking against Brock Nelson
-156,penalty,Roughing,Scott Mayfield,Charlie Coyle,[ 50. -23.],2,05:53,NYI,BOS,NYI,2,BOS,6,1,1,8476429,8475745.0,Scott Mayfield Roughing against Charlie Coyle
-288,penalty,Tripping,Brock Nelson,Brad Marchand,[ 78. -14.],4,04:20,NYI,BOS,NYI,2,BOS,6,2,2,8475754,8473419.0,Brock Nelson Tripping against Brad Marchand
-14,penalty,Fighting,Ross Johnston,Micheal Haley,[-38.   5.],1,17:47,NYI,NYR,NYR,3,NYI,2,0,1,8477527,8474230.0,Ross Johnston Fighting against Micheal Haley
-15,penalty,Fighting,Micheal Haley,Ross Johnston,[-38.   1.],1,17:47,NYR,NYI,NYR,3,NYI,2,0,1,8474230,8477527.0,Micheal Haley Fighting against Ross Johnston
-16,penalty,Fighting,Matt Martin,Brendan Smith,[-41.  25.],1,17:47,NYI,NYR,NYR,3,NYI,2,0,1,8474709,8474090.0,Matt Martin Fighting against Brendan Smith
-17,penalty,Fighting,Brendan Smith,Matt Martin,[-43.  18.],1,17:47,NYR,NYI,NYR,3,NYI,2,0,1,8474090,8474709.0,Brendan Smith Fighting against Matt Martin
-18,penalty,Game misconduct,Matt Martin,Brendan Smith,[-45.  19.],1,17:47,NYI,NYR,NYR,3,NYI,2,0,1,8474709,8474090.0,Matt Martin Game misconduct against Brendan Smith
-19,penalty,Game misconduct,Brendan Smith,Matt Martin,[-42.  18.],1,17:47,NYR,NYI,NYR,3,NYI,2,0,1,8474090,8474709.0,Brendan Smith Game misconduct against Matt Martin
-59,penalty,Tripping,Mathew Barzal,Marc Staal,[43.  5.],1,10:42,NYI,NYR,NYR,3,NYI,2,1,1,8478445,8471686.0,Mathew Barzal Tripping against Marc Staal
-119,penalty,Slashing,Tony DeAngelo,Michael Dal Colle,[-75.  -3.],2,17:23,NYR,NYI,NYR,3,NYI,2,1,1,8477950,8477936.0,Tony DeAngelo Slashing against Michael Dal Colle
-244,penalty,Slashing,Johnny Boychuk,Chris Kreider,[-74. -11.],3,09:49,NYI,NYR,NYR,3,NYI,2,5,1,8470187,8475184.0,Johnny Boychuk Slashing against Chris Kreider
-253,penalty,Tripping,Marc Staal,Tom Kuhnhackl,[85. 37.],3,07:57,NYR,NYI,NYR,3,NYI,2,6,1,8471686,8475832.0,Marc Staal Tripping against Tom Kuhnhackl
-264,penalty,Roughing,Brock Nelson,Chris Kreider,[15. -8.],3,05:09,NYI,NYR,NYR,3,NYI,2,6,2,8475754,8475184.0,Brock Nelson Roughing against Chris Kreider
-265,penalty,Roughing,Chris Kreider,Pavel Buchnevich,[14. -7.],3,05:09,NYR,NYI,NYR,3,NYI,2,6,2,8475184,8477402.0,Chris Kreider Roughing against Brock Nelson served by Pavel Buchnevich
-266,penalty,Roughing,Chris Kreider,Brock Nelson,[17. -4.],3,05:09,NYR,NYI,NYR,3,NYI,2,6,2,8475184,8475754.0,Chris Kreider Roughing against Brock Nelson
-267,penalty,Roughing,Tony DeAngelo,Ross Johnston,[10.  7.],3,05:09,NYR,NYI,NYR,3,NYI,2,6,2,8477950,8477527.0,Tony DeAngelo Roughing against Ross Johnston
-268,penalty,Roughing,Ross Johnston,Tony DeAngelo,[11.  0.],3,05:09,NYI,NYR,NYR,3,NYI,2,6,2,8477527,8477950.0,Ross Johnston Roughing against Tony DeAngelo
-269,penalty,Misconduct,Chris Kreider,Brock Nelson,[17. 15.],3,05:09,NYR,NYI,NYR,3,NYI,2,6,2,8475184,8475754.0,Chris Kreider Misconduct against Brock Nelson
-270,penalty,Misconduct,Tony DeAngelo,Ross Johnston,[3. 7.],3,05:09,NYR,NYI,NYR,3,NYI,2,6,2,8477950,8477527.0,Tony DeAngelo Misconduct against Ross Johnston
-272,penalty,Misconduct,Ross Johnston,Tony DeAngelo,[77. 20.],3,05:09,NYI,NYR,NYR,3,NYI,2,6,2,8477527,8477950.0,Ross Johnston Misconduct against Tony DeAngelo
-64,penalty,Tripping,Justin Abdelkader,Noah Dobson,[-62. -29.],1,05:30,DET,NYI,NYI,2,DET,17,3,1,8471716,8480865.0,Justin Abdelkader Tripping against Noah Dobson
-65,penalty,Too many men on the ice,Michael Dal Colle,,[-13.   9.],1,05:30,NYI,DET,NYI,2,DET,17,3,1,8477936,,Too many men/ice served by Michael Dal Colle
-86,penalty,Cross checking,Brock Nelson,Alex Biega,[91. 12.],1,00:08,NYI,DET,NYI,2,DET,17,4,1,8475754,8473415.0,Brock Nelson Cross checking against Alex Biega
-110,penalty,Boarding,Luke Glendening,Devon Toews,[ 90. -31.],2,15:30,DET,NYI,NYI,2,DET,17,6,1,8476822,8478038.0,Luke Glendening Boarding against Devon Toews
-245,penalty,Roughing,Ryan Pulock,Darren Helm,[ -1. -26.],3,05:32,NYI,DET,NYI,2,DET,17,8,2,8477506,8471794.0,Ryan Pulock Roughing against Darren Helm
-28,penalty,Tripping,Casey Cizikas,Ryan Strome,[-41.  -1.],1,15:33,NYI,NYR,NYI,2,NYR,3,0,0,8475231,8476458.0,Casey Cizikas Tripping against Ryan Strome
-67,penalty,Slashing,Marc Staal,Scott Mayfield,[ 52. -27.],1,06:30,NYR,NYI,NYI,2,NYR,3,0,0,8471686,8476429.0,Marc Staal Slashing against Scott Mayfield
-138,penalty,Holding,Devon Toews,Mika Zibanejad,[72.  0.],2,12:47,NYI,NYR,NYI,2,NYR,3,1,0,8478038,8476459.0,Devon Toews Holding against Mika Zibanejad
-163,penalty,Tripping,Scott Mayfield,Artemi Panarin,[-83.  34.],2,07:27,NYI,NYR,NYI,2,NYR,3,1,0,8476429,8478550.0,Scott Mayfield Tripping against Artemi Panarin
-169,penalty,Tripping,Adam Fox,Mathew Barzal,[-96.   5.],2,06:38,NYR,NYI,NYI,2,NYR,3,1,1,8479323,8478445.0,Adam Fox Tripping against Mathew Barzal
-176,penalty,Cross checking,Ryan Lindgren,Jordan Eberle,[-86.   6.],2,04:31,NYR,NYI,NYI,2,NYR,3,1,1,8479324,8474586.0,Ryan Lindgren Cross checking against Jordan Eberle
-210,penalty,Interference,Tony DeAngelo,Anders Lee,[95. 10.],3,17:53,NYR,NYI,NYI,2,NYR,3,1,1,8477950,8475314.0,Tony DeAngelo Interference against Anders Lee
-228,penalty,Closing hand on puck,Ryan Pulock,,[-58.   6.],3,14:36,NYI,NYR,NYI,2,NYR,3,1,2,8477506,,Ryan Pulock Closing hand on puck
-265,penalty,Hooking,Casey Cizikas,Artemi Panarin,[-71.  12.],3,07:31,NYI,NYR,NYI,2,NYR,3,1,2,8475231,8478550.0,Casey Cizikas Hooking against Artemi Panarin
-266,penalty,Embellishment,Artemi Panarin,Casey Cizikas,[-75.  18.],3,07:31,NYR,NYI,NYI,2,NYR,3,1,2,8478550,8475231.0,Artemi Panarin Embellishment against Casey Cizikas
-276,penalty,Interference - Goalkeeper,Chris Kreider,Semyon Varlamov,[-82.   0.],3,06:09,NYR,NYI,NYI,2,NYR,3,2,2,8475184,8473575.0,Chris Kreider Interference - Goalkeeper against Semyon Varlamov
-300,penalty,Cross checking,Derick Brassard,Jesper Fast,[-87. -34.],3,00:54,NYI,NYR,NYI,2,NYR,3,2,2,8473544,8475855.0,Derick Brassard Cross checking against Jesper Fast
-33,penalty,Tripping,Jordan Eberle,Michal Kempny,[ 65. -35.],1,13:55,NYI,WSH,NYI,2,WSH,15,0,0,8474586,8479482.0,Jordan Eberle Tripping against Michal Kempny
-36,penalty,Hooking,Alex Ovechkin,Casey Cizikas,[  1. -16.],1,13:20,WSH,NYI,NYI,2,WSH,15,0,0,8471214,8475231.0,Alex Ovechkin Hooking against Casey Cizikas
-64,penalty,Missing key [PD_151],Alex Ovechkin,,[33. -1.],1,06:49,WSH,NYI,NYI,2,WSH,15,1,1,8471214,,Delaying Game - Unsucc. chlg served by Alex Ovechkin
-66,penalty,Interference,Carl Hagelin,Mathew Barzal,[ 85. -26.],1,06:26,WSH,NYI,NYI,2,WSH,15,1,1,8474176,8478445.0,Carl Hagelin Interference against Mathew Barzal
-120,penalty,Roughing,Matt Martin,Mathew Barzal,[ 60. -25.],2,15:11,NYI,WSH,NYI,2,WSH,15,2,1,8474709,8478445.0,Matt Martin Roughing against Radko Gudas served by Mathew Barzal
-121,penalty,Unsportsmanlike conduct,Matt Martin,Radko Gudas,[ 66. -26.],2,15:11,NYI,WSH,NYI,2,WSH,15,2,1,8474709,8475462.0,Matt Martin Unsportsmanlike conduct against Radko Gudas
-122,penalty,Roughing,Radko Gudas,Matt Martin,[ 68. -26.],2,15:11,WSH,NYI,NYI,2,WSH,15,2,1,8475462,8474709.0,Radko Gudas Roughing against Matt Martin
-137,penalty,Roughing,Brendan Leipsic,Noah Dobson,[37. 30.],2,11:33,WSH,NYI,NYI,2,WSH,15,2,1,8476894,8480865.0,Brendan Leipsic Roughing against Noah Dobson
-150,penalty,Boarding,Leo Komarov,Jonas Siegenthaler,[42. 37.],2,08:49,NYI,WSH,NYI,2,WSH,15,3,1,8473463,8478399.0,Leo Komarov Boarding against Jonas Siegenthaler
-158,penalty,Slashing,Nick Leddy,Garnet Hathaway,[17. 37.],2,05:23,NYI,WSH,NYI,2,WSH,15,3,1,8475181,8477903.0,Nick Leddy Slashing against Garnet Hathaway
-47,penalty,Holding,Martin Necas,Scott Mayfield,[ 40. -20.],1,09:07,CAR,NYI,CAR,12,NYI,2,1,0,8480039,8476429.0,Martin Necas Holding against Scott Mayfield
-137,penalty,Interference,Noah Dobson,Joel Edmundson,[73. 12.],2,06:40,NYI,CAR,CAR,12,NYI,2,1,0,8480865,8476441.0,Noah Dobson Interference against Joel Edmundson
-152,penalty,Slashing,Jordan Staal,Jordan Eberle,[-56.  14.],2,03:15,CAR,NYI,CAR,12,NYI,2,1,0,8473533,8474586.0,Jordan Staal Slashing against Jordan Eberle
-169,penalty,Holding,Trevor van Riemsdyk,Michael Dal Colle,[76. -6.],3,19:12,CAR,NYI,CAR,12,NYI,2,1,1,8477845,8477936.0,Trevor van Riemsdyk Holding against Michael Dal Colle
-207,penalty,Interference,Casey Cizikas,Martin Necas,[-93.  11.],3,11:34,NYI,CAR,CAR,12,NYI,2,1,1,8475231,8480039.0,Casey Cizikas Interference against Martin Necas
-31,penalty,Slashing,Jordan Eberle,Kaapo Kakko,[-69. -26.],1,11:57,NYI,NYR,NYR,3,NYI,2,0,0,8474586,8481554.0,Jordan Eberle Slashing against Kaapo Kakko
-53,penalty,Hi-sticking,Ryan Strome,Brock Nelson,[-90. -31.],1,07:41,NYR,NYI,NYR,3,NYI,2,0,0,8476458,8475754.0,Ryan Strome Hi-sticking against Brock Nelson
-66,penalty,Hooking,Brady Skjei,Anthony Beauvillier,[65.  2.],1,04:40,NYR,NYI,NYR,3,NYI,2,0,1,8476869,8478463.0,Brady Skjei Hooking against Anthony Beauvillier
-117,penalty,Boarding,Ross Johnston,Ryan Lindgren,[-96. -23.],2,13:12,NYI,NYR,NYR,3,NYI,2,0,2,8477527,8479324.0,Ross Johnston Boarding against Ryan Lindgren
-218,penalty,Spearing - double minor,Scott Mayfield,Brendan Lemieux,[-81.  10.],3,07:21,NYI,NYR,NYR,3,NYI,2,0,4,8476429,8477962.0,Scott Mayfield Spearing - double minor against Brendan Lemieux
-233,penalty,Delay of game,Matt Martin,,[-20.  40.],3,03:26,NYI,NYR,NYR,3,NYI,2,2,4,8474709,,Delay of Game - Bench served by Matt Martin
-17,penalty,Hooking,Christopher Tanev,Tom Kuhnhackl,[53. 38.],1,14:09,VAN,NYI,NYI,2,VAN,23,1,1,8475690,8475832.0,Christopher Tanev Hooking against Tom Kuhnhackl
-92,penalty,Tripping,Bo Horvat,Tom Kuhnhackl,[-79. -26.],2,18:01,VAN,NYI,NYI,2,VAN,23,1,1,8477500,8475832.0,Bo Horvat Tripping against Tom Kuhnhackl
-159,penalty,Tripping,Adam Gaudette,Mathew Barzal,[-69.  -3.],2,02:02,VAN,NYI,NYI,2,VAN,23,2,3,8478874,8478445.0,Adam Gaudette Tripping against Mathew Barzal
-160,penalty,Embellishment,Mathew Barzal,Adam Gaudette,[-69.  -2.],2,02:02,NYI,VAN,NYI,2,VAN,23,2,3,8478445,8478874.0,Mathew Barzal Embellishment against Adam Gaudette
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,game_id,winning_team,date,description
+25,penalty,Interference,Roope Hintz,Jordan Eberle,[74. 31.],1,15:50,DAL,NYI,NYI,2,DAL,25,1,0,8478449,8474586.0,2019020816,,2020-02-05,Roope Hintz Interference against Jordan Eberle
+44,penalty,Tripping,Corey Perry,Noah Dobson,[-93. -28.],1,12:13,DAL,NYI,NYI,2,DAL,25,1,0,8470621,8480865.0,2019020816,,2020-02-05,Corey Perry Tripping against Noah Dobson
+68,penalty,Interference,Casey Cizikas,Roope Hintz,[-78.   4.],1,06:41,NYI,DAL,NYI,2,DAL,25,1,0,8475231,8478449.0,2019020816,,2020-02-05,Casey Cizikas Interference against Roope Hintz
+114,penalty,Slashing,Alexander Radulov,Josh Bailey,[-64.  -7.],2,17:09,DAL,NYI,NYI,2,DAL,25,1,1,8471228,8474573.0,2019020816,,2020-02-05,Alexander Radulov Slashing against Josh Bailey
+137,penalty,Tripping,Radek Faksa,Brock Nelson,[-80. -36.],2,12:24,DAL,NYI,NYI,2,DAL,25,1,1,8476889,8475754.0,2019020816,,2020-02-05,Radek Faksa Tripping against Brock Nelson
+145,penalty,Hi-sticking,Josh Bailey,Andrej Sekera,[-93.  -3.],2,10:52,NYI,DAL,NYI,2,DAL,25,1,1,8474573,8471284.0,2019020816,,2020-02-05,Josh Bailey Hi-sticking against Andrej Sekera
+193,penalty,Holding,Matt Martin,Esa Lindell,[  8. -38.],3,19:16,NYI,DAL,NYI,2,DAL,25,2,2,8474709,8476902.0,2019020816,,2020-02-05,Matt Martin Holding against Esa Lindell
+234,penalty,Holding,Roope Hintz,Derick Brassard,[23. 37.],3,05:49,DAL,NYI,NYI,2,DAL,25,2,3,8478449,8473544.0,2019020816,,2020-02-05,Roope Hintz Holding against Derick Brassard
+139,penalty,Hooking,Mathew Barzal,Dustin Brown,[95. 21.],2,07:06,NYI,LAK,NYI,2,LAK,26,2,3,8478445,8470606.0,2019020831,,2020-02-07,Mathew Barzal Hooking against Dustin Brown
+147,penalty,Slashing,Anthony Beauvillier,Anze Kopitar,[ 1. -4.],2,03:58,NYI,LAK,NYI,2,LAK,26,2,3,8478463,8471685.0,2019020831,,2020-02-07,Anthony Beauvillier Slashing against Anze Kopitar
+202,penalty,Hooking,Sean Walker,Michael Dal Colle,[85.  8.],3,12:05,LAK,NYI,NYI,2,LAK,26,3,3,8480336,8477936.0,2019020831,,2020-02-07,Sean Walker Hooking against Michael Dal Colle
+216,penalty,Fighting,Alec Martinez,Casey Cizikas,[67. 25.],3,08:57,LAK,NYI,NYI,2,LAK,26,3,3,8474166,8475231.0,2019020831,,2020-02-07,Alec Martinez Fighting against Casey Cizikas
+217,penalty,Roughing,Casey Cizikas,Alec Martinez,[73. 29.],3,08:57,NYI,LAK,NYI,2,LAK,26,3,3,8475231,8474166.0,2019020831,,2020-02-07,Casey Cizikas Roughing against Alec Martinez
+218,penalty,Roughing,Drew Doughty,Casey Cizikas,[65. 27.],3,08:57,LAK,NYI,NYI,2,LAK,26,3,3,8474563,8475231.0,2019020831,,2020-02-07,Drew Doughty Roughing against Casey Cizikas
+219,penalty,Fighting,Casey Cizikas,Alec Martinez,[69. 30.],3,08:57,NYI,LAK,NYI,2,LAK,26,3,3,8475231,8474166.0,2019020831,,2020-02-07,Casey Cizikas Fighting against Alec Martinez
+156,penalty,Delaying Game - Puck over glass,Ryan Pulock,,[-45. -40.],2,01:18,NYI,TBL,TBL,14,NYI,2,1,0,8477506,,2019020846,,2020-02-09,Ryan Pulock Delaying Game - Puck over glass
+165,penalty,Holding,Alex Killorn,Scott Mayfield,[ 90. -18.],3,19:17,TBL,NYI,TBL,14,NYI,2,1,0,8473986,8476429.0,2019020846,,2020-02-09,Alex Killorn Holding against Scott Mayfield
+166,penalty,Embellishment,Scott Mayfield,Alex Killorn,[ 89. -11.],3,19:17,NYI,TBL,TBL,14,NYI,2,1,0,8476429,8473986.0,2019020846,,2020-02-09,Scott Mayfield Embellishment against Alex Killorn
+200,penalty,Holding,Nikita Kucherov,Ryan Pulock,[ 61. -40.],3,09:43,TBL,NYI,TBL,14,NYI,2,2,0,8476453,8477506.0,2019020846,,2020-02-09,Nikita Kucherov Holding against Ryan Pulock
+74,penalty,Holding,Martin Fehervary,Leo Komarov,[66. -3.],1,02:42,WSH,NYI,WSH,15,NYI,2,1,2,8480796,8473463.0,2019020862,,2020-02-11,Martin Fehervary Holding against Leo Komarov
+77,penalty,Holding,Jordan Eberle,Nic Dowd,[96. 18.],1,02:05,NYI,WSH,WSH,15,NYI,2,1,2,8474586,8475343.0,2019020862,,2020-02-11,Jordan Eberle Holding against Nic Dowd
+99,penalty,Interference,Garnet Hathaway,Brendan Leipsic,[72. 14.],2,17:06,WSH,NYI,WSH,15,NYI,2,1,4,8477903,8476894.0,2019020862,,2020-02-11,Garnet Hathaway Interference against Ryan Pulock served by Brendan Leipsic
+100,penalty,Fighting,Garnet Hathaway,Ross Johnston,[81. 11.],2,17:06,WSH,NYI,WSH,15,NYI,2,1,4,8477903,8477527.0,2019020862,,2020-02-11,Garnet Hathaway Fighting against Ross Johnston
+101,penalty,Fighting,Ross Johnston,Garnet Hathaway,[65. 21.],2,17:06,NYI,WSH,WSH,15,NYI,2,1,4,8477527,8477903.0,2019020862,,2020-02-11,Ross Johnston Fighting against Garnet Hathaway
+125,penalty,Tripping,Mathew Barzal,Richard Panik,[77. 39.],2,12:50,NYI,WSH,WSH,15,NYI,2,1,4,8478445,8475209.0,2019020862,,2020-02-11,Mathew Barzal Tripping against Richard Panik
+159,penalty,Hi-sticking,Scott Mayfield,Garnet Hathaway,[87. 36.],2,04:31,NYI,WSH,WSH,15,NYI,2,2,5,8476429,8477903.0,2019020862,,2020-02-11,Scott Mayfield Hi-sticking against Garnet Hathaway
+141,penalty,Tripping,Kevin Hayes,Scott Mayfield,[89. -9.],2,05:26,PHI,NYI,NYI,2,PHI,4,3,2,8475763,8476429.0,2019020869,,2020-02-12,Kevin Hayes Tripping against Scott Mayfield
+195,penalty,Holding,Brock Nelson,Sean Couturier,[-72.  14.],3,10:34,NYI,PHI,NYI,2,PHI,4,3,2,8475754,8476461.0,2019020869,,2020-02-12,Brock Nelson Holding against Sean Couturier
+209,penalty,Hooking,Mathew Barzal,James van Riemsdyk,[-56. -34.],3,07:44,NYI,PHI,NYI,2,PHI,4,3,2,8478445,8474037.0,2019020869,,2020-02-12,Mathew Barzal Hooking against James van Riemsdyk
+33,penalty,Fighting,Matt Martin,Austin Watson,[-86.  -5.],1,13:14,NYI,NSH,NSH,18,NYI,2,1,0,8474709,8475766.0,2019020886,,2020-02-14,Matt Martin Fighting against Austin Watson
+34,penalty,Fighting,Austin Watson,Matt Martin,[-89.  -6.],1,13:14,NSH,NYI,NSH,18,NYI,2,1,0,8475766,8474709.0,2019020886,,2020-02-14,Austin Watson Fighting against Matt Martin
+115,penalty,Holding,Mikael Granlund,Kieffer Bellows,[ 11. -32.],2,13:44,NSH,NYI,NSH,18,NYI,2,4,0,8475798,8479356.0,2019020886,,2020-02-14,Mikael Granlund Holding against Kieffer Bellows
+148,penalty,Hooking,Dan Hamhuis,Kieffer Bellows,[ 92. -24.],2,04:58,NSH,NYI,NSH,18,NYI,2,5,0,8469465,8479356.0,2019020886,,2020-02-14,Dan Hamhuis Hooking against Kieffer Bellows
+1,penalty,Fighting,Ryan Reaves,Ross Johnston,[-1. 15.],1,19:57,VGK,NYI,VGK,54,NYI,2,0,0,8471817,8477527.0,2019020905,,2020-02-16,Ryan Reaves Fighting against Ross Johnston
+2,penalty,Fighting,Ross Johnston,Ryan Reaves,[-1. 16.],1,19:57,NYI,VGK,VGK,54,NYI,2,0,0,8477527,8471817.0,2019020905,,2020-02-16,Ross Johnston Fighting against Ryan Reaves
+39,penalty,Fighting,Anders Lee,Nick Holden,[ 95. -13.],1,09:31,NYI,VGK,VGK,54,NYI,2,0,0,8475314,8474207.0,2019020905,,2020-02-16,Anders Lee Fighting against Nick Holden
+40,penalty,Fighting,Nick Holden,Anders Lee,[ 94. -14.],1,09:31,VGK,NYI,VGK,54,NYI,2,0,0,8474207,8475314.0,2019020905,,2020-02-16,Nick Holden Fighting against Anders Lee
+55,penalty,Delaying Game - Puck over glass,Ryan Pulock,,[-65. -36.],1,07:04,NYI,VGK,VGK,54,NYI,2,0,0,8477506,,2019020905,,2020-02-16,Ryan Pulock Delaying Game - Puck over glass
+58,penalty,Interference,Jonathan Marchessault,Leo Komarov,[-77.   0.],1,06:19,VGK,NYI,VGK,54,NYI,2,0,0,8476539,8473463.0,2019020905,,2020-02-16,Jonathan Marchessault Interference against Leo Komarov
+134,penalty,Too many men on the ice,Cody Glass,,[13. 42.],2,06:39,VGK,NYI,VGK,54,NYI,2,0,0,8479996,,2019020905,,2020-02-16,Too many men/ice served by Cody Glass
+141,penalty,Tripping,Noah Dobson,Nate Schmidt,[-70. -38.],2,05:26,NYI,VGK,VGK,54,NYI,2,0,0,8480865,8477220.0,2019020905,,2020-02-16,Noah Dobson Tripping against Nate Schmidt
+234,penalty,Hooking,Brock Nelson,Paul Stastny,[-90.   9.],3,04:55,NYI,VGK,VGK,54,NYI,2,1,0,8475754,8471669.0,2019020905,,2020-02-16,Brock Nelson Hooking against Paul Stastny
+5,penalty,Hooking,Brock Nelson,Oliver Ekman-Larsson,[-96.  17.],1,19:37,NYI,ARI,ARI,53,NYI,2,0,0,8475754,8475171.0,2019020916,,2020-02-18,Brock Nelson Hooking against Oliver Ekman-Larsson
+73,penalty,Tripping,Oliver Ekman-Larsson,Anders Lee,[-71. -36.],1,05:05,ARI,NYI,ARI,53,NYI,2,1,0,8475171,8475314.0,2019020916,,2020-02-18,Oliver Ekman-Larsson Tripping against Anders Lee
+125,penalty,Boarding,Christian Fischer,Jordan Eberle,[-26. -38.],2,13:25,ARI,NYI,ARI,53,NYI,2,1,0,8478432,8474586.0,2019020916,,2020-02-18,Christian Fischer Boarding against Jordan Eberle
+137,penalty,Tripping,Devon Toews,Nick Schmaltz,[-75.  37.],2,09:27,NYI,ARI,ARI,53,NYI,2,1,0,8478038,8477951.0,2019020916,,2020-02-18,Devon Toews Tripping against Nick Schmaltz
+148,penalty,Tripping,Clayton Keller,Derick Brassard,[-22. -26.],2,05:05,ARI,NYI,ARI,53,NYI,2,1,0,8479343,8473544.0,2019020916,,2020-02-18,Clayton Keller Tripping against Derick Brassard
+54,penalty,Tripping,Mathew Barzal,Samuel Girard,[61. 22.],1,08:50,NYI,COL,COL,21,NYI,2,1,0,8478445,8479398.0,2019020930,,2020-02-20,Mathew Barzal Tripping against Samuel Girard
+82,penalty,Tripping,Ian Cole,Kieffer Bellows,[93. 19.],1,02:38,COL,NYI,COL,21,NYI,2,1,0,8474013,8479356.0,2019020930,,2020-02-20,Ian Cole Tripping against Kieffer Bellows
+88,penalty,Tripping,Anders Lee,Joonas Donskoi,[61. 16.],1,01:21,NYI,COL,COL,21,NYI,2,1,0,8475314,8475820.0,2019020930,,2020-02-20,Anders Lee Tripping against Joonas Donskoi
+112,penalty,Slashing,Tom Kuhnhackl,Cale Makar,[75.  1.],2,16:15,NYI,COL,COL,21,NYI,2,2,0,8475832,8480069.0,2019020930,,2020-02-20,Tom Kuhnhackl Slashing against Cale Makar
+156,penalty,Slashing,Kieffer Bellows,Nikita Zadorov,[97. -5.],2,03:31,NYI,COL,COL,21,NYI,2,2,0,8479356,8477507.0,2019020930,,2020-02-20,Kieffer Bellows Slashing against Nikita Zadorov
+158,penalty,Hooking,Andre Burakovsky,Josh Bailey,[-73.  -2.],2,03:18,COL,NYI,COL,21,NYI,2,2,0,8477444,8474573.0,2019020930,,2020-02-20,Andre Burakovsky Hooking against Josh Bailey
+167,penalty,Hooking,Nikita Zadorov,Mathew Barzal,[-93.  12.],2,01:41,COL,NYI,COL,21,NYI,2,2,0,8477507,8478445.0,2019020930,,2020-02-20,Nikita Zadorov Hooking against Mathew Barzal
+58,penalty,Elbowing,Dylan Larkin,Anthony Beauvillier,[-60.  39.],1,09:19,DET,NYI,NYI,2,DET,17,1,0,8477946,8478463.0,2019020941,,2020-02-22,Dylan Larkin Elbowing against Anthony Beauvillier
+73,penalty,Hi-sticking,Michael Dal Colle,Anthony Mantha,[-62.  40.],1,05:58,NYI,DET,NYI,2,DET,17,1,0,8477936,8477511.0,2019020941,,2020-02-22,Michael Dal Colle Hi-sticking against Anthony Mantha
+86,penalty,Slashing,Adam Erne,Mathew Barzal,[86. 16.],1,02:38,DET,NYI,NYI,2,DET,17,1,0,8477454,8478445.0,2019020941,,2020-02-22,Adam Erne Slashing against Mathew Barzal
+186,penalty,Cross checking,Alex Biega,Jordan Eberle,[-70.  -1.],2,01:52,DET,NYI,NYI,2,DET,17,2,0,8473415,8474586.0,2019020941,,2020-02-22,Alex Biega Cross checking against Jordan Eberle
+237,penalty,Delaying Game - Puck over glass,Mike Green,,[94. 19.],3,08:29,DET,NYI,NYI,2,DET,17,2,0,8471242,,2019020941,,2020-02-22,Mike Green Delaying Game - Puck over glass
+250,penalty,Tripping,Andrew Ladd,Darren Helm,[-17. -37.],3,04:04,NYI,DET,NYI,2,DET,17,2,0,8471217,8471794.0,2019020941,,2020-02-22,Andrew Ladd Tripping against Darren Helm
+265,penalty,Tripping,Dylan Larkin,Leo Komarov,[-18. -26.],3,02:30,DET,NYI,NYI,2,DET,17,2,1,8477946,8473463.0,2019020941,,2020-02-22,Dylan Larkin Tripping against Leo Komarov
+66,penalty,Tripping,Stefan Noesen,Josh Bailey,[ 82. -15.],1,05:05,SJS,NYI,NYI,2,SJS,28,1,1,8476474,8474573.0,2019020962,,2020-02-24,Stefan Noesen Tripping against Josh Bailey
+233,penalty,Hooking,Mario Ferraro,Anders Lee,[54. 17.],3,10:32,SJS,NYI,NYI,2,SJS,28,3,1,8479983,8475314.0,2019020962,,2020-02-24,Mario Ferraro Hooking against Anders Lee
+242,penalty,Hi-sticking,Timo Meier,Andy Greene,[-81. -22.],3,07:58,SJS,NYI,NYI,2,SJS,28,3,1,8478414,8472382.0,2019020962,,2020-02-24,Timo Meier Hi-sticking against Andy Greene
+277,penalty,Holding,Nick Leddy,Marcus Sorensen,[-77.   2.],3,00:34,NYI,SJS,NYI,2,SJS,28,4,1,8475181,8475834.0,2019020962,,2020-02-24,Nick Leddy Holding against Marcus Sorensen
+62,penalty,Hooking,Brendan Lemieux,Otto Koivula,[ 95. -17.],1,05:45,NYR,NYI,NYI,2,NYR,3,0,0,8477962,8479526.0,2019020971,,2020-02-27,Brendan Lemieux Hooking against Otto Koivula
+180,penalty,Hooking,Filip Chytil,Nick Leddy,[51.  5.],3,17:41,NYR,NYI,NYI,2,NYR,3,1,2,8480078,8475181.0,2019020971,,2020-02-27,Filip Chytil Hooking against Nick Leddy
+199,penalty,Instigator,Jean-Gabriel Pageau,Jordan Eberle,[-36. -10.],3,14:08,NYI,NYR,NYI,2,NYR,3,1,2,8476419,8474586.0,2019020971,,2020-02-27,Jean-Gabriel Pageau Instigator against Jacob Trouba served by Jordan Eberle
+200,penalty,Fighting,Jean-Gabriel Pageau,Jacob Trouba,[-38.  -8.],3,14:08,NYI,NYR,NYI,2,NYR,3,1,2,8476419,8476885.0,2019020971,,2020-02-27,Jean-Gabriel Pageau Fighting against Jacob Trouba
+201,penalty,Fighting,Jacob Trouba,Jean-Gabriel Pageau,[-37. -14.],3,14:08,NYR,NYI,NYI,2,NYR,3,1,2,8476885,8476419.0,2019020971,,2020-02-27,Jacob Trouba Fighting against Jean-Gabriel Pageau
+202,penalty,Misconduct,Jean-Gabriel Pageau,Jacob Trouba,[-35. -17.],3,14:08,NYI,NYR,NYI,2,NYR,3,1,2,8476419,8476885.0,2019020971,,2020-02-27,Jean-Gabriel Pageau Misconduct against Jacob Trouba
+222,penalty,Missing key [PD_151],Jordan Eberle,,[  3. -34.],3,07:44,NYI,NYR,NYI,2,NYR,3,1,3,8474586,,2019020971,,2020-02-27,Delaying Game - Unsucc. chlg served by Jordan Eberle
+226,penalty,Tripping,Ryan Strome,Scott Mayfield,[40.  1.],3,07:30,NYR,NYI,NYI,2,NYR,3,1,3,8476458,8476429.0,2019020971,,2020-02-27,Ryan Strome Tripping against Scott Mayfield
+34,penalty,Delaying Game - Puck over glass,Jaden Schwartz,,[-51. -32.],1,12:30,STL,NYI,STL,19,NYI,2,0,0,8475768,,2019020990,,2020-02-28,Jaden Schwartz Delaying Game - Puck over glass
+82,penalty,Delaying Game - Puck over glass,Brock Nelson,,[ 26. -38.],1,00:11,NYI,STL,STL,19,NYI,2,1,2,8475754,,2019020990,,2020-02-28,Brock Nelson Delaying Game - Puck over glass
+189,penalty,Interference,Vince Dunn,Ryan Pulock,[35. 22.],3,05:30,STL,NYI,STL,19,NYI,2,1,2,8478407,8477506.0,2019020990,,2020-02-28,Vince Dunn Interference against Ryan Pulock
+54,penalty,Interference,Nick Ritchie,Anthony Beauvillier,[ 34. -26.],1,05:29,BOS,NYI,NYI,2,BOS,6,0,2,8477941,8478463.0,2019020999,,2020-02-29,Nick Ritchie Interference against Anthony Beauvillier
+74,penalty,Tripping,David Pastrnak,Nick Leddy,[-92.  19.],1,01:03,BOS,NYI,NYI,2,BOS,6,0,2,8477956,8475181.0,2019020999,,2020-02-29,David Pastrnak Tripping against Nick Leddy
+118,penalty,Tripping,Leo Komarov,Par Lindholm,[-44.  39.],2,11:40,NYI,BOS,NYI,2,BOS,6,0,2,8473463,8480944.0,2019020999,,2020-02-29,Leo Komarov Tripping against Par Lindholm
+128,penalty,Hi-sticking,Cal Clutterbuck,David Pastrnak,[75.  0.],2,10:12,NYI,BOS,NYI,2,BOS,6,0,2,8473504,8477956.0,2019020999,,2020-02-29,Cal Clutterbuck Hi-sticking against David Pastrnak
+146,penalty,Slashing,Zdeno Chara,Mathew Barzal,[-77.   5.],2,05:28,BOS,NYI,NYI,2,BOS,6,0,2,8465009,8478445.0,2019020999,,2020-02-29,Zdeno Chara Slashing against Mathew Barzal
+162,penalty,Cross checking,Nick Ritchie,Johnny Boychuk,[-60.  20.],2,01:58,BOS,NYI,NYI,2,BOS,6,0,2,8477941,8470187.0,2019020999,,2020-02-29,Nick Ritchie Cross checking against Johnny Boychuk
+235,penalty,Roughing,David Pastrnak,Leo Komarov,[-53. -40.],3,06:13,BOS,NYI,NYI,2,BOS,6,0,3,8477956,8473463.0,2019020999,,2020-02-29,David Pastrnak Roughing against Leo Komarov
+241,penalty,Hooking,Mathew Barzal,Charlie McAvoy,[ 96. -20.],3,05:06,NYI,BOS,NYI,2,BOS,6,0,3,8478445,8479325.0,2019020999,,2020-02-29,Mathew Barzal Hooking against Charlie McAvoy
+256,penalty,Holding,Jeremy Lauzon,Leo Komarov,[71.  2.],3,01:13,BOS,NYI,NYI,2,BOS,6,0,4,8478468,8473463.0,2019020999,,2020-02-29,Jeremy Lauzon Holding against Leo Komarov
+71,penalty,Fighting,Anders Lee,Christian Folin,[37. 38.],1,03:44,NYI,MTL,NYI,2,MTL,8,0,2,8475314,8477850.0,2019021020,,2020-03-04,Anders Lee Fighting against Christian Folin
+72,penalty,Fighting,Christian Folin,Anders Lee,[35. 35.],1,03:44,MTL,NYI,NYI,2,MTL,8,0,2,8477850,8475314.0,2019021020,,2020-03-04,Christian Folin Fighting against Anders Lee
+140,penalty,Tripping,Max Domi,Cal Clutterbuck,[-51.  41.],2,08:25,MTL,NYI,NYI,2,MTL,8,0,3,8477503,8473504.0,2019021020,,2020-03-04,Max Domi Tripping against Cal Clutterbuck
+170,penalty,Holding,Xavier Ouellet,Jean-Gabriel Pageau,[-97.   0.],2,02:27,MTL,NYI,NYI,2,MTL,8,0,4,8476443,8476419.0,2019021020,,2020-03-04,Xavier Ouellet Holding against Jean-Gabriel Pageau
+237,penalty,Holding,Ben Chiarot,Leo Komarov,[86. 13.],3,04:16,MTL,NYI,NYI,2,MTL,8,1,5,8475279,8473463.0,2019021020,,2020-03-04,Ben Chiarot Holding against Leo Komarov
+239,penalty,Delaying Game - Puck over glass,Artturi Lehkonen,,[ 92. -29.],3,04:05,MTL,NYI,NYI,2,MTL,8,1,5,8477476,,2019021020,,2020-03-04,Artturi Lehkonen Delaying Game - Puck over glass
+7,penalty,Tripping,Bobby Ryan,Brock Nelson,[-32.  35.],1,17:53,OTT,NYI,OTT,9,NYI,2,0,0,8471676,8475754.0,2019021038,,2020-03-06,Bobby Ryan Tripping against Brock Nelson
+29,penalty,Tripping,Devon Toews,Brady Tkachuk,[81. 32.],1,13:46,NYI,OTT,OTT,9,NYI,2,0,1,8478038,8480801.0,2019021038,,2020-03-06,Devon Toews Tripping against Brady Tkachuk
+38,penalty,Tripping,Noah Dobson,Jayce Hawryluk,[53. -6.],1,11:09,NYI,OTT,OTT,9,NYI,2,0,1,8480865,8477963.0,2019021038,,2020-03-06,Noah Dobson Tripping against Jayce Hawryluk
+107,penalty,Interference - Goalkeeper,Brady Tkachuk,Semyon Varlamov,[-85.   0.],2,15:25,OTT,NYI,OTT,9,NYI,2,1,2,8480801,8473575.0,2019021038,,2020-03-06,Brady Tkachuk Interference - Goalkeeper against Semyon Varlamov
+129,penalty,Hi-sticking,Jayce Hawryluk,Jordan Eberle,[-77. -14.],2,10:58,OTT,NYI,OTT,9,NYI,2,1,2,8477963,8474586.0,2019021038,,2020-03-06,Jayce Hawryluk Hi-sticking against Jordan Eberle
+222,penalty,Tripping,Colin White,Anders Lee,[-74.   1.],3,11:12,OTT,NYI,OTT,9,NYI,2,3,2,8478400,8475314.0,2019021038,,2020-03-06,Colin White Tripping against Anders Lee
+240,penalty,Tripping,Andy Greene,Brady Tkachuk,[96.  3.],3,07:38,NYI,OTT,OTT,9,NYI,2,3,2,8472382,8480801.0,2019021038,,2020-03-06,Andy Greene Tripping against Brady Tkachuk
+97,penalty,Hi stick - double minor,Leo Komarov,Brady Skjei,[96. -2.],1,03:02,NYI,CAR,NYI,2,CAR,12,0,1,8473463,8476869.0,2019021049,,2020-03-08,Leo Komarov Hi stick - double minor against Brady Skjei
+125,penalty,Too many men on the ice,Jordan Eberle,,[-4.  0.],2,17:03,NYI,CAR,NYI,2,CAR,12,0,1,8474586,,2019021049,,2020-03-08,Too many men/ice served by Jordan Eberle
+157,penalty,Roughing,Ryan Dzingel,Martin Necas,[-20.  31.],2,08:51,CAR,NYI,NYI,2,CAR,12,1,1,8476288,8480039.0,2019021049,,2020-03-08,Ryan Dzingel Roughing against Anthony Beauvillier served by Martin Necas
+158,penalty,Fighting,Ryan Dzingel,Anthony Beauvillier,[-20.  30.],2,08:51,CAR,NYI,NYI,2,CAR,12,1,1,8476288,8478463.0,2019021049,,2020-03-08,Ryan Dzingel Fighting against Anthony Beauvillier
+159,penalty,Fighting,Anthony Beauvillier,Ryan Dzingel,[-18.  30.],2,08:51,NYI,CAR,NYI,2,CAR,12,1,1,8478463,8476288.0,2019021049,,2020-03-08,Anthony Beauvillier Fighting against Ryan Dzingel
+192,penalty,Delaying Game - Puck over glass,Andrei Svechnikov,,[-95.  -5.],2,02:06,CAR,NYI,NYI,2,CAR,12,1,1,8480830,,2019021049,,2020-03-08,Andrei Svechnikov Delaying Game - Puck over glass
+281,penalty,Tripping,Brady Skjei,Mathew Barzal,[88. -8.],3,00:52,CAR,NYI,NYI,2,CAR,12,2,2,8476869,8478445.0,2019021049,,2020-03-08,Brady Skjei Tripping against Mathew Barzal
+284,penalty,Hi stick - double minor,Mathew Barzal,Jordan Staal,[50. 39.],3,00:24,NYI,CAR,NYI,2,CAR,12,2,2,8478445,8473533.0,2019021049,,2020-03-08,Mathew Barzal Hi stick - double minor against Jordan Staal
+63,penalty,Broken stick,Jake Virtanen,,[-42. -35.],1,09:42,VAN,NYI,VAN,23,NYI,2,2,1,8477937,,2019021077,,2020-03-11,Jake Virtanen Broken stick
+69,penalty,Slashing,J.T. Miller,Anthony Beauvillier,[-67. -41.],1,08:18,VAN,NYI,VAN,23,NYI,2,2,1,8476468,8478463.0,2019021077,,2020-03-11,J.T. Miller Slashing against Anthony Beauvillier
+96,penalty,Cross checking,Andrew Ladd,Alexander Edler,[-88. -33.],1,03:24,NYI,VAN,VAN,23,NYI,2,2,1,8471217,8471303.0,2019021077,,2020-03-11,Andrew Ladd Cross checking against Alexander Edler
+213,penalty,Cross checking,Mathew Barzal,Troy Stecher,[-82.   3.],2,02:21,NYI,VAN,VAN,23,NYI,2,3,3,8478445,8479442.0,2019021077,,2020-03-11,Mathew Barzal Cross checking against Troy Stecher
+238,penalty,Slashing,Adam Gaudette,Anthony Beauvillier,[-2. 40.],3,17:30,VAN,NYI,VAN,23,NYI,2,4,3,8478874,8478463.0,2019021077,,2020-03-11,Adam Gaudette Slashing against Anthony Beauvillier
+108,penalty,Hooking,Lars Eller,Mathew Barzal,[91. 30.],2,17:37,WSH,NYI,NYI,2,WSH,15,1,1,8474189,8478445.0,2019020014,,2019-10-05,Lars Eller Hooking against Mathew Barzal
+124,penalty,Tripping,Brock Nelson,Nicklas Backstrom,[ 49. -35.],2,14:00,NYI,WSH,NYI,2,WSH,15,1,1,8475754,8473563.0,2019020014,,2019-10-05,Brock Nelson Tripping against Nicklas Backstrom
+168,penalty,Hooking,Brock Nelson,Jonas Siegenthaler,[ 47. -28.],2,03:12,NYI,WSH,NYI,2,WSH,15,1,1,8475754,8478399.0,2019020014,,2019-10-05,Brock Nelson Hooking against Jonas Siegenthaler
+54,penalty,Slashing,Casey Cizikas,Nikolaj Ehlers,[-4. 32.],1,08:08,NYI,WPG,NYI,2,WPG,52,0,0,8475231,8477940.0,2019020033,,2019-10-07,Casey Cizikas Slashing against Nikolaj Ehlers
+90,penalty,Interference,Carl Dahlstrom,Anthony Beauvillier,[ 91. -15.],1,00:03,WPG,NYI,NYI,2,WPG,52,0,0,8477472,8478463.0,2019020033,,2019-10-07,Carl Dahlstrom Interference against Anthony Beauvillier
+151,penalty,Tripping,Derick Brassard,Andrew Copp,[76. 12.],2,09:26,NYI,WPG,NYI,2,WPG,52,2,0,8473544,8477429.0,2019020033,,2019-10-07,Derick Brassard Tripping against Andrew Copp
+25,penalty,Hooking,Zack Kassian,Brock Nelson,[ 96. -10.],1,14:50,EDM,NYI,NYI,2,EDM,22,0,0,8475178,8475754.0,2019020037,,2019-10-09,Zack Kassian Hooking against Brock Nelson
+57,penalty,Interference,Brock Nelson,Connor McDavid,[-53. -38.],1,06:50,NYI,EDM,NYI,2,EDM,22,0,0,8475754,8478402.0,2019020037,,2019-10-09,Brock Nelson Interference against Connor McDavid
+82,penalty,Hi stick - double minor,Brock Nelson,Oscar Klefbom,[ 96. -24.],1,01:18,NYI,EDM,NYI,2,EDM,22,1,1,8475754,8476472.0,2019020037,,2019-10-09,Brock Nelson Hi stick - double minor against Oscar Klefbom
+104,penalty,Cross checking,Anthony Beauvillier,Darnell Nurse,[-64.   1.],2,14:53,NYI,EDM,NYI,2,EDM,22,1,2,8478463,8477498.0,2019020037,,2019-10-09,Anthony Beauvillier Cross checking against Darnell Nurse
+184,penalty,Hooking,Casey Cizikas,Ryan Nugent-Hopkins,[53. 37.],3,17:07,NYI,EDM,NYI,2,EDM,22,1,4,8475231,8476454.0,2019020037,,2019-10-09,Casey Cizikas Hooking against Ryan Nugent-Hopkins
+203,penalty,Interference,Ethan Bear,Brock Nelson,[56. 36.],3,12:21,EDM,NYI,NYI,2,EDM,22,1,5,8478451,8475754.0,2019020037,,2019-10-09,Ethan Bear Interference against Brock Nelson
+45,penalty,Interference,Dougie Hamilton,Matt Martin,[ 83. -10.],1,11:32,CAR,NYI,CAR,12,NYI,2,1,0,8476462,8474709.0,2019020060,,2019-10-12,Dougie Hamilton Interference against Matt Martin
+62,penalty,Hi-sticking,Michael Dal Colle,Jake Gardiner,[-26. -30.],1,08:01,NYI,CAR,CAR,12,NYI,2,1,1,8477936,8474581.0,2019020060,,2019-10-12,Michael Dal Colle Hi-sticking against Jake Gardiner
+97,penalty,Hi-sticking,Derick Brassard,Brock McGinn,[-87. -38.],1,01:11,NYI,CAR,CAR,12,NYI,2,2,1,8473544,8476934.0,2019020060,,2019-10-12,Derick Brassard Hi-sticking against Brock McGinn
+100,penalty,Delay of game,Andrei Svechnikov,,[ 4. 39.],1,00:04,CAR,NYI,CAR,12,NYI,2,2,1,8480830,,2019020060,,2019-10-12,Delay of Game - Bench served by Andrei Svechnikov
+138,penalty,Slashing,Ryan Dzingel,Johnny Boychuk,[-47.   7.],2,12:50,CAR,NYI,CAR,12,NYI,2,2,2,8476288,8470187.0,2019020060,,2019-10-12,Ryan Dzingel Slashing against Johnny Boychuk
+140,penalty,Holding,Anthony Beauvillier,Joel Edmundson,[-71.   2.],2,12:40,NYI,CAR,CAR,12,NYI,2,2,2,8478463,8476441.0,2019020060,,2019-10-12,Anthony Beauvillier Holding against Joel Edmundson
+145,penalty,Holding,Andrei Svechnikov,Anders Lee,[-28.  -1.],2,11:10,CAR,NYI,CAR,12,NYI,2,2,2,8480830,8475314.0,2019020060,,2019-10-12,Andrei Svechnikov Holding against Anders Lee
+246,penalty,Hi-sticking,Julien Gauthier,Devon Toews,[-84.  -9.],3,07:03,CAR,NYI,CAR,12,NYI,2,4,2,8479328,8478038.0,2019020060,,2019-10-12,Julien Gauthier Hi-sticking against Devon Toews
+87,penalty,Tripping,MacKenzie Weegar,Mathew Barzal,[-84.  17.],2,18:14,FLA,NYI,NYI,2,FLA,13,0,1,8477346,8478445.0,2019020067,,2019-10-13,MacKenzie Weegar Tripping against Mathew Barzal
+93,penalty,Too many men on the ice,Ross Johnston,,[-20.  38.],2,17:02,NYI,FLA,NYI,2,FLA,13,0,1,8477527,,2019020067,,2019-10-13,Too many men/ice served by Ross Johnston
+116,penalty,Hooking,Michael Dal Colle,Vincent Trocheck,[-47. -38.],2,12:27,NYI,FLA,NYI,2,FLA,13,1,1,8477936,8476389.0,2019020067,,2019-10-13,Michael Dal Colle Hooking against Vincent Trocheck
+191,penalty,Fighting,Ross Johnston,Josh Brown,[20.  5.],3,17:16,NYI,FLA,NYI,2,FLA,13,2,1,8477527,8477384.0,2019020067,,2019-10-13,Ross Johnston Fighting against Josh Brown
+192,penalty,Fighting,Josh Brown,Ross Johnston,[20.  2.],3,17:16,FLA,NYI,NYI,2,FLA,13,2,1,8477384,8477527.0,2019020067,,2019-10-13,Josh Brown Fighting against Ross Johnston
+221,penalty,Hooking,Leo Komarov,Noel Acciari,[14. 36.],3,11:12,NYI,FLA,NYI,2,FLA,13,2,1,8473463,8478569.0,2019020067,,2019-10-13,Leo Komarov Hooking against Noel Acciari
+44,penalty,Interference,David Perron,Mathew Barzal,[50. 12.],1,09:13,STL,NYI,NYI,2,STL,19,0,1,8474102,8478445.0,2019020081,,2019-10-14,David Perron Interference against Mathew Barzal
+202,penalty,Hooking,Derick Brassard,Oskar Sundqvist,[-10. -38.],3,16:07,NYI,STL,NYI,2,STL,19,0,1,8473544,8476897.0,2019020081,,2019-10-14,Derick Brassard Hooking against Oskar Sundqvist
+234,penalty,Slashing,Scott Mayfield,Sammy Blais,[-53. -38.],3,08:43,NYI,STL,NYI,2,STL,19,0,2,8476429,8478104.0,2019020081,,2019-10-14,Scott Mayfield Slashing against Sammy Blais
+54,penalty,Tripping,Adam Pelech,Adam Lowry,[-93.  11.],1,08:32,NYI,WPG,WPG,52,NYI,2,0,0,8476917,8476392.0,2019020102,,2019-10-18,Adam Pelech Tripping against Adam Lowry
+80,penalty,Holding,Michael Dal Colle,Ville Heinola,[-93.  17.],1,02:19,NYI,WPG,WPG,52,NYI,2,1,0,8477936,8481572.0,2019020102,,2019-10-18,Michael Dal Colle Holding against Ville Heinola
+118,penalty,Tripping,Dmitry Kulikov,Michael Dal Colle,[-89. -21.],2,12:35,WPG,NYI,WPG,52,NYI,2,1,0,8475179,8477936.0,2019020102,,2019-10-18,Dmitry Kulikov Tripping against Michael Dal Colle
+99,penalty,Hooking,Scott Mayfield,Alexander Wennberg,[-92.  20.],2,16:05,NYI,CBJ,CBJ,29,NYI,2,1,2,8476429,8477505.0,2019020119,NYI,2019-10-20,Scott Mayfield Hooking against Alexander Wennberg
+35,penalty,Tripping,Oliver Wahlstrom,Clayton Keller,[44. 40.],1,12:09,NYI,ARI,NYI,2,ARI,53,1,0,8480789,8479343.0,2019020146,ARI,2019-10-25,Oliver Wahlstrom Tripping against Clayton Keller
+128,penalty,Tripping,Adam Pelech,Conor Garland,[96. 16.],2,11:01,NYI,ARI,NYI,2,ARI,53,1,1,8476917,8478856.0,2019020146,ARI,2019-10-25,Adam Pelech Tripping against Conor Garland
+154,penalty,Hooking,Phil Kessel,Cal Clutterbuck,[-71.   1.],2,04:54,ARI,NYI,NYI,2,ARI,53,2,1,8473548,8473504.0,2019020146,ARI,2019-10-25,Phil Kessel Hooking against Cal Clutterbuck
+158,penalty,Slashing,Mathew Barzal,Jakob Chychrun,[-82.  30.],2,04:13,NYI,ARI,NYI,2,ARI,53,2,1,8478445,8479345.0,2019020146,ARI,2019-10-25,Mathew Barzal Slashing against Jakob Chychrun
+29,penalty,Hooking,Anders Lee,Vladislav Namestnikov,[-74. -39.],1,14:02,NYI,OTT,OTT,9,NYI,2,0,0,8475314,8476480.0,2019020158,,2019-10-26,Anders Lee Hooking against Vladislav Namestnikov
+64,penalty,Hi-sticking,Derick Brassard,Brady Tkachuk,[ 43. -28.],1,06:44,NYI,OTT,OTT,9,NYI,2,1,1,8473544,8480801.0,2019020158,,2019-10-26,Derick Brassard Hi-sticking against Brady Tkachuk
+78,penalty,Hooking,Nick Paul,Mathew Barzal,[-12. -32.],1,04:07,OTT,NYI,OTT,9,NYI,2,1,1,8477426,8478445.0,2019020158,,2019-10-26,Nick Paul Hooking against Mathew Barzal
+84,penalty,PS - Tripping on breakaway,Nikita Zaitsev,Nick Leddy,[-72.   1.],1,02:41,OTT,NYI,OTT,9,NYI,2,1,1,8479458,8475181.0,2019020158,,2019-10-26,Nikita Zaitsev PS - Tripping on breakaway against Nick Leddy
+95,penalty,Roughing,Cole Bardreau,Thomas Chabot,[-91.  11.],1,00:19,NYI,OTT,OTT,9,NYI,2,1,2,8478367,8478469.0,2019020158,,2019-10-26,Cole Bardreau Roughing against Thomas Chabot
+139,penalty,Misconduct,Mark Borowiecki,Cal Clutterbuck,[-30.  27.],2,11:07,OTT,NYI,OTT,9,NYI,2,1,4,8474697,8473504.0,2019020158,,2019-10-26,Mark Borowiecki Misconduct against Cal Clutterbuck
+140,penalty,Roughing,Cal Clutterbuck,Mark Borowiecki,[-35.  17.],2,11:07,NYI,OTT,OTT,9,NYI,2,1,4,8473504,8474697.0,2019020158,,2019-10-26,Cal Clutterbuck Roughing against Mark Borowiecki
+141,penalty,Roughing,Mark Borowiecki,Brady Tkachuk,[-39.  23.],2,11:07,OTT,NYI,OTT,9,NYI,2,1,4,8474697,8480801.0,2019020158,,2019-10-26,Mark Borowiecki Roughing against Cal Clutterbuck served by Brady Tkachuk
+142,penalty,Roughing,Mark Borowiecki,Cal Clutterbuck,[-40.  26.],2,11:07,OTT,NYI,OTT,9,NYI,2,1,4,8474697,8473504.0,2019020158,,2019-10-26,Mark Borowiecki Roughing against Cal Clutterbuck
+143,penalty,Misconduct,Cal Clutterbuck,,[-39.  25.],2,11:07,NYI,OTT,OTT,9,NYI,2,1,4,8473504,,2019020158,,2019-10-26,Cal Clutterbuck Misconduct
+151,penalty,Slashing,Nick Leddy,Jean-Gabriel Pageau,[-77.  -2.],2,09:50,NYI,OTT,OTT,9,NYI,2,1,4,8475181,8476419.0,2019020158,,2019-10-26,Nick Leddy Slashing against Jean-Gabriel Pageau
+153,penalty,Interference - Goalkeeper,Anders Lee,Craig Anderson,[84. -1.],2,09:32,NYI,OTT,OTT,9,NYI,2,1,4,8475314,8467950.0,2019020158,,2019-10-26,Anders Lee Interference - Goalkeeper against Craig Anderson
+187,penalty,Tripping,Vladislav Namestnikov,Brock Nelson,[-49. -28.],2,01:40,OTT,NYI,OTT,9,NYI,2,1,4,8476480,8475754.0,2019020158,,2019-10-26,Vladislav Namestnikov Tripping against Brock Nelson
+201,penalty,Fighting,Brady Tkachuk,Casey Cizikas,[-13.  35.],3,16:50,OTT,NYI,OTT,9,NYI,2,1,4,8480801,8475231.0,2019020158,,2019-10-26,Brady Tkachuk Fighting against Casey Cizikas
+202,penalty,Fighting,Casey Cizikas,Brady Tkachuk,[-6. 34.],3,16:50,NYI,OTT,OTT,9,NYI,2,1,4,8475231,8480801.0,2019020158,,2019-10-26,Casey Cizikas Fighting against Brady Tkachuk
+222,penalty,Tripping,Brock Nelson,Erik Brannstrom,[58. 40.],3,13:23,NYI,OTT,OTT,9,NYI,2,1,4,8475754,8480073.0,2019020158,,2019-10-26,Brock Nelson Tripping against Erik Brannstrom
+264,penalty,Roughing,Cal Clutterbuck,Tyler Ennis,[ 96. -15.],3,01:00,NYI,OTT,OTT,9,NYI,2,2,4,8473504,8474589.0,2019020158,,2019-10-26,Cal Clutterbuck Roughing against Tyler Ennis
+265,penalty,Slashing,Tyler Ennis,Thomas Greiss,[ 95. -22.],3,01:00,OTT,NYI,OTT,9,NYI,2,2,4,8474589,8471306.0,2019020158,,2019-10-26,Tyler Ennis Slashing against Thomas Greiss
+27,penalty,Roughing,Ross Johnston,Chris Stewart,[ 8. 20.],1,15:38,NYI,PHI,NYI,2,PHI,4,2,1,8477527,8473485.0,2019020173,PHI,2019-10-28,Ross Johnston Roughing against Chris Stewart
+28,penalty,Roughing,Chris Stewart,Ross Johnston,[ 9. 17.],1,15:38,PHI,NYI,NYI,2,PHI,4,2,1,8473485,8477527.0,2019020173,PHI,2019-10-28,Chris Stewart Roughing against Ross Johnston
+32,penalty,Hooking,Shayne Gostisbehere,Anders Lee,[86. 31.],1,14:03,PHI,NYI,NYI,2,PHI,4,2,1,8476906,8475314.0,2019020173,PHI,2019-10-28,Shayne Gostisbehere Hooking against Anders Lee
+68,penalty,Fighting,Ross Johnston,Chris Stewart,[93. 18.],1,05:37,NYI,PHI,NYI,2,PHI,4,3,1,8477527,8473485.0,2019020173,PHI,2019-10-28,Ross Johnston Fighting against Chris Stewart
+69,penalty,Fighting,Chris Stewart,Ross Johnston,[94. 19.],1,05:37,PHI,NYI,NYI,2,PHI,4,3,1,8473485,8477527.0,2019020173,PHI,2019-10-28,Chris Stewart Fighting against Ross Johnston
+70,penalty,Cross checking,Cole Bardreau,Mikhail Vorobyev,[ 94. -25.],1,05:37,NYI,PHI,NYI,2,PHI,4,3,1,8478367,8478844.0,2019020173,PHI,2019-10-28,Cole Bardreau Cross checking against Mikhail Vorobyev
+120,penalty,Slashing,Ross Johnston,Matt Niskanen,[ 47. -30.],2,14:08,NYI,PHI,NYI,2,PHI,4,5,2,8477527,8471702.0,2019020173,PHI,2019-10-28,Ross Johnston Slashing against Matt Niskanen
+202,penalty,Tripping,Ryan Pulock,Tyler Pitlick,[-35. -34.],3,17:00,NYI,PHI,NYI,2,PHI,4,5,2,8477506,8475752.0,2019020173,PHI,2019-10-28,Ryan Pulock Tripping against Tyler Pitlick
+259,penalty,Hooking,Claude Giroux,Michael Dal Colle,[76.  2.],3,06:03,PHI,NYI,NYI,2,PHI,4,5,2,8473512,8477936.0,2019020173,PHI,2019-10-28,Claude Giroux Hooking against Michael Dal Colle
+26,penalty,Hooking,Mikhail Sergachev,Cal Clutterbuck,[96.  4.],1,13:40,TBL,NYI,NYI,2,TBL,14,0,0,8479410,8473504.0,2019020197,,2019-11-02,Mikhail Sergachev Hooking against Cal Clutterbuck
+51,penalty,Fighting,Luke Witkowski,Ross Johnston,[-12.  39.],1,07:09,TBL,NYI,NYI,2,TBL,14,0,0,8474722,8477527.0,2019020197,,2019-11-02,Luke Witkowski Fighting against Ross Johnston
+52,penalty,Fighting,Ross Johnston,Luke Witkowski,[-14.  39.],1,07:09,NYI,TBL,NYI,2,TBL,14,0,0,8477527,8474722.0,2019020197,,2019-11-02,Ross Johnston Fighting against Luke Witkowski
+87,penalty,Holding,Devon Toews,Nikita Kucherov,[ 87. -29.],2,18:11,NYI,TBL,NYI,2,TBL,14,0,0,8478038,8476453.0,2019020197,,2019-11-02,Devon Toews Holding against Nikita Kucherov
+104,penalty,Interference,Cal Clutterbuck,Anthony Cirelli,[80.  1.],2,14:15,NYI,TBL,NYI,2,TBL,14,1,0,8473504,8478519.0,2019020197,,2019-11-02,Cal Clutterbuck Interference against Anthony Cirelli
+158,penalty,Tripping,Kevin Shattenkirk,Casey Cizikas,[-93. -24.],2,04:27,TBL,NYI,NYI,2,TBL,14,2,1,8474031,8475231.0,2019020197,,2019-11-02,Kevin Shattenkirk Tripping against Casey Cizikas
+214,penalty,Delaying Game - Puck over glass,Scott Mayfield,Yanni Gourde,[-84. -36.],3,12:39,NYI,TBL,NYI,2,TBL,14,2,1,8476429,8476826.0,2019020197,,2019-11-02,Scott Mayfield Delaying Game - Puck over glass against Yanni Gourde
+244,penalty,Delay of game,Anders Lee,Tyler Johnson,[-4.  0.],3,05:33,TBL,NYI,NYI,2,TBL,14,4,1,8475314,8474870.0,2019020197,,2019-11-02, against Anders LeeDelay of Game - Bench served by Tyler Johnson
+28,penalty,Holding,Oliver Wahlstrom,Jeff Skinner,[-12. -41.],1,11:22,NYI,BUF,BUF,7,NYI,2,0,1,8480789,8475784.0,2019020207,NYI,2019-11-03,Oliver Wahlstrom Holding against Jeff Skinner
+92,penalty,Slashing,Jake McCabe,Mathew Barzal,[-15. -40.],2,14:15,BUF,NYI,BUF,7,NYI,2,0,1,8476931,8478445.0,2019020207,NYI,2019-11-03,Jake McCabe Slashing against Mathew Barzal
+115,penalty,Holding,Ryan Pulock,Jimmy Vesey,[-79.  -6.],2,05:53,NYI,BUF,BUF,7,NYI,2,0,1,8477506,8476918.0,2019020207,NYI,2019-11-03,Ryan Pulock Holding against Jimmy Vesey
+140,penalty,Too many men on the ice,Ross Johnston,,[  9. -38.],3,18:37,NYI,BUF,BUF,7,NYI,2,0,1,8477527,,2019020207,NYI,2019-11-03,Too many men/ice served by Ross Johnston
+24,penalty,Hooking,Artem Anisimov,Mathew Barzal,[65. 16.],1,13:59,OTT,NYI,NYI,2,OTT,9,0,0,8473573,8478445.0,2019020225,OTT,2019-11-06,Artem Anisimov Hooking against Mathew Barzal
+112,penalty,Holding,Scott Mayfield,Nick Paul,[94. 24.],2,15:06,NYI,OTT,NYI,2,OTT,9,1,1,8476429,8477426.0,2019020225,OTT,2019-11-06,Scott Mayfield Holding against Nick Paul
+156,penalty,PS - Tripping on breakaway,Mark Borowiecki,Cole Bardreau,[-55.   2.],2,04:26,OTT,NYI,NYI,2,OTT,9,1,1,8474697,8478367.0,2019020225,OTT,2019-11-06,Mark Borowiecki PS - Tripping on breakaway against Cole Bardreau
+195,penalty,Hi-sticking,Dylan DeMelo,Ross Johnston,[94. 10.],3,14:39,OTT,NYI,NYI,2,OTT,9,2,1,8476331,8477527.0,2019020225,OTT,2019-11-06,Dylan DeMelo Hi-sticking against Ross Johnston
+207,penalty,Hooking,Adam Pelech,Tyler Ennis,[-82.  19.],3,11:50,NYI,OTT,NYI,2,OTT,9,2,1,8476917,8474589.0,2019020225,OTT,2019-11-06,Adam Pelech Hooking against Tyler Ennis
+246,penalty,Roughing,Ross Johnston,Michael Dal Colle,[37. 33.],3,01:49,NYI,OTT,NYI,2,OTT,9,4,1,8477527,8477936.0,2019020225,OTT,2019-11-06,Ross Johnston Roughing against Brady Tkachuk served by Michael Dal Colle
+247,penalty,Roughing,Ross Johnston,Brady Tkachuk,[47. 32.],3,01:49,NYI,OTT,NYI,2,OTT,9,4,1,8477527,8480801.0,2019020225,OTT,2019-11-06,Ross Johnston Roughing against Brady Tkachuk
+248,penalty,Misconduct,Ross Johnston,Brady Tkachuk,[30. 34.],3,01:49,NYI,OTT,NYI,2,OTT,9,4,1,8477527,8480801.0,2019020225,OTT,2019-11-06,Ross Johnston Misconduct against Brady Tkachuk
+104,penalty,Holding,Cole Bardreau,Nick Bjugstad,[61. 40.],2,13:45,NYI,PIT,NYI,2,PIT,5,1,0,8478367,8475760.0,2019020239,PIT,2019-11-08,Cole Bardreau Holding against Nick Bjugstad
+142,penalty,Tripping,Mathew Barzal,Dominik Kahun,[92. 17.],2,03:45,NYI,PIT,NYI,2,PIT,5,3,0,8478445,8480946.0,2019020239,PIT,2019-11-08,Mathew Barzal Tripping against Dominik Kahun
+207,penalty,Too many men on the ice,Anthony Beauvillier,Dominik Kahun,[41.  7.],3,09:53,PIT,NYI,NYI,2,PIT,5,3,3,8478463,8480946.0,2019020239,PIT,2019-11-08, against Anthony BeauvillierToo many men/ice served by Dominik Kahun
+14,penalty,Interference,Evgenii Dadonov,Josh Bailey,[-96.  -8.],1,16:23,FLA,NYI,NYI,2,FLA,13,0,0,8474149,8474573.0,2019020252,FLA,2019-11-09,Evgenii Dadonov Interference against Josh Bailey
+86,penalty,Hooking,Devon Toews,Jonathan Huberdeau,[-75.  -1.],1,01:49,NYI,FLA,NYI,2,FLA,13,1,0,8478038,8476456.0,2019020252,FLA,2019-11-09,Devon Toews Hooking against Jonathan Huberdeau
+123,penalty,Slashing,Jordan Eberle,Aaron Ekblad,[58. 39.],2,13:54,NYI,FLA,NYI,2,FLA,13,1,0,8474586,8477932.0,2019020252,FLA,2019-11-09,Jordan Eberle Slashing against Aaron Ekblad
+132,penalty,Delaying Game - Puck over glass,Aaron Ekblad,Anthony Beauvillier,[-45.  26.],2,11:50,FLA,NYI,NYI,2,FLA,13,1,0,8477932,8478463.0,2019020252,FLA,2019-11-09,Aaron Ekblad Delaying Game - Puck over glass against Anthony Beauvillier
+174,penalty,Holding,Mark Pysyk,Michael Dal Colle,[-5.  0.],2,02:59,FLA,NYI,NYI,2,FLA,13,1,0,8475796,8477936.0,2019020252,FLA,2019-11-09,Mark Pysyk Holding against Michael Dal Colle
+215,penalty,Tripping,Johnny Boychuk,Mike Hoffman,[-79.  -6.],3,15:16,NYI,FLA,NYI,2,FLA,13,1,0,8470187,8474884.0,2019020252,FLA,2019-11-09,Johnny Boychuk Tripping against Mike Hoffman
+259,penalty,Tripping,Anders Lee,Vincent Trocheck,[ 18. -39.],3,05:33,NYI,FLA,NYI,2,FLA,13,2,1,8475314,8476389.0,2019020252,FLA,2019-11-09,Anders Lee Tripping against Vincent Trocheck
+35,penalty,Hooking,Ross Johnston,Jake Muzzin,[-76.  13.],1,13:05,NYI,TOR,NYI,2,TOR,10,0,0,8477527,8474162.0,2019020282,,2019-11-14,Ross Johnston Hooking against Jake Muzzin
+86,penalty,Tripping,Travis Dermott,Brock Nelson,[40.  1.],1,02:11,TOR,NYI,NYI,2,TOR,10,1,0,8478408,8475754.0,2019020282,,2019-11-14,Travis Dermott Tripping against Brock Nelson
+220,penalty,Slashing,Devon Toews,William Nylander,[-35. -17.],3,15:20,NYI,TOR,NYI,2,TOR,10,3,2,8478038,8477939.0,2019020282,,2019-11-14,Devon Toews Slashing against William Nylander
+231,penalty,Cross checking,Jake Muzzin,Jordan Eberle,[ 61. -20.],3,12:35,TOR,NYI,NYI,2,TOR,10,3,2,8474162,8474586.0,2019020282,,2019-11-14,Jake Muzzin Cross checking against Jordan Eberle
+256,penalty,Interference,William Nylander,Derick Brassard,[-22.  16.],3,07:47,TOR,NYI,NYI,2,TOR,10,4,2,8477939,8473544.0,2019020282,,2019-11-14,William Nylander Interference against Derick Brassard
+60,penalty,Interference,Johnny Boychuk,Joel Farabee,[-80.  -2.],1,08:00,NYI,PHI,PHI,4,NYI,2,1,0,8470187,8480797.0,2019020307,NYI,2019-11-17,Johnny Boychuk Interference against Joel Farabee
+89,penalty,Tripping,Jordan Eberle,Ivan Provorov,[-96.  -7.],1,01:49,NYI,PHI,PHI,4,NYI,2,1,0,8474586,8478500.0,2019020307,NYI,2019-11-17,Jordan Eberle Tripping against Ivan Provorov
+112,penalty,Slashing,Kevin Hayes,Derick Brassard,[-28. -34.],2,14:57,PHI,NYI,PHI,4,NYI,2,2,0,8475763,8473544.0,2019020307,NYI,2019-11-17,Kevin Hayes Slashing against Derick Brassard
+145,penalty,Holding,Travis Sanheim,Anthony Beauvillier,[-84.  39.],2,06:11,PHI,NYI,PHI,4,NYI,2,3,0,8477948,8478463.0,2019020307,NYI,2019-11-17,Travis Sanheim Holding against Anthony Beauvillier
+182,penalty,Holding,Casey Cizikas,Kevin Hayes,[-54.   1.],3,16:59,NYI,PHI,PHI,4,NYI,2,3,0,8475231,8475763.0,2019020307,NYI,2019-11-17,Casey Cizikas Holding against Kevin Hayes
+223,penalty,Too many men on the ice,James van Riemsdyk,,[13. 40.],3,08:16,PHI,NYI,PHI,4,NYI,2,3,1,8474037,,2019020307,NYI,2019-11-17,Too many men/ice served by James van Riemsdyk
+10,penalty,Tripping,Adam Pelech,Jared McCann,[81. 11.],1,18:10,NYI,PIT,PIT,5,NYI,2,0,0,8476917,8477955.0,2019020321,NYI,2019-11-20,Adam Pelech Tripping against Jared McCann
+33,penalty,Holding,Jared McCann,Josh Bailey,[-96.  -2.],1,13:54,PIT,NYI,PIT,5,NYI,2,0,0,8477955,8474573.0,2019020321,NYI,2019-11-20,Jared McCann Holding against Josh Bailey
+50,penalty,Holding,Juuso Riikola,Cal Clutterbuck,[-96.  -7.],1,11:11,PIT,NYI,PIT,5,NYI,2,0,0,8480945,8473504.0,2019020321,NYI,2019-11-20,Juuso Riikola Holding against Cal Clutterbuck
+56,penalty,Hooking,Nick Leddy,John Marino,[-87. -13.],1,09:30,NYI,PIT,PIT,5,NYI,2,0,0,8475181,8478507.0,2019020321,NYI,2019-11-20,Nick Leddy Hooking against John Marino
+132,penalty,Hi-sticking,Michael Dal Colle,Juuso Riikola,[94. 27.],2,14:18,NYI,PIT,PIT,5,NYI,2,2,2,8477936,8480945.0,2019020321,NYI,2019-11-20,Michael Dal Colle Hi-sticking against Juuso Riikola
+221,penalty,Tripping,Mathew Barzal,Joseph Blandisi,[-78.   9.],3,17:45,NYI,PIT,PIT,5,NYI,2,3,2,8478445,8477010.0,2019020321,NYI,2019-11-20,Mathew Barzal Tripping against Joseph Blandisi
+272,penalty,Tripping,Bryan Rust,Nick Leddy,[ 88. -31.],3,06:23,PIT,NYI,PIT,5,NYI,2,4,2,8475810,8475181.0,2019020321,NYI,2019-11-20,Bryan Rust Tripping against Nick Leddy
+10,penalty,Hi-sticking,Adam Pelech,Jake Guentzel,[-74.  35.],1,18:30,NYI,PIT,NYI,2,PIT,5,0,1,8476917,8477404.0,2019020335,,2019-11-22,Adam Pelech Hi-sticking against Jake Guentzel
+49,penalty,Holding,Chad Ruhwedel,Anthony Beauvillier,[29. 24.],1,11:32,PIT,NYI,NYI,2,PIT,5,0,1,8477244,8478463.0,2019020335,,2019-11-22,Chad Ruhwedel Holding against Anthony Beauvillier
+66,penalty,Hi-sticking,Marcus Pettersson,Matt Martin,[ 74. -12.],1,09:05,PIT,NYI,NYI,2,PIT,5,0,1,8477969,8474709.0,2019020335,,2019-11-22,Marcus Pettersson Hi-sticking against Matt Martin
+150,penalty,Roughing,Jake Guentzel,Scott Mayfield,[22. 31.],2,11:25,PIT,NYI,NYI,2,PIT,5,1,2,8477404,8476429.0,2019020335,,2019-11-22,Jake Guentzel Roughing against Scott Mayfield
+151,penalty,Unsportsmanlike conduct,Jake Guentzel,,[18. 33.],2,11:25,PIT,NYI,NYI,2,PIT,5,1,2,8477404,,2019020335,,2019-11-22,Jake Guentzel Unsportsmanlike conduct
+175,penalty,Slashing,Evgeni Malkin,Adam Pelech,[77. 31.],2,04:34,PIT,NYI,NYI,2,PIT,5,2,2,8471215,8476917.0,2019020335,,2019-11-22,Evgeni Malkin Slashing against Adam Pelech
+186,penalty,Tripping,Anders Lee,John Marino,[-66. -11.],2,02:14,NYI,PIT,NYI,2,PIT,5,2,2,8475314,8478507.0,2019020335,,2019-11-22,Anders Lee Tripping against John Marino
+238,penalty,Face-off violation,Teddy Blueger,,[-69.  22.],3,10:52,PIT,NYI,NYI,2,PIT,5,2,2,8476927,,2019020335,,2019-11-22,Delay Game - Bench – FO viol served by Teddy Blueger
+241,penalty,Interference,Brock Nelson,Brian Dumoulin,[74. -2.],3,10:33,NYI,PIT,NYI,2,PIT,5,2,2,8475754,8475208.0,2019020335,,2019-11-22,Brock Nelson Interference against Brian Dumoulin
+260,penalty,Tripping,Sam Lafferty,Devon Toews,[-42.   6.],3,04:56,PIT,NYI,NYI,2,PIT,5,2,2,8478043,8478038.0,2019020335,,2019-11-22,Sam Lafferty Tripping against Devon Toews
+275,penalty,Roughing,Anders Lee,Zach Aston-Reese,[ 15. -37.],3,02:18,NYI,PIT,NYI,2,PIT,5,3,2,8475314,8479944.0,2019020335,,2019-11-22,Anders Lee Roughing against Zach Aston-Reese
+276,penalty,Roughing,Zach Aston-Reese,Anders Lee,[ 15. -35.],3,02:18,PIT,NYI,NYI,2,PIT,5,3,2,8479944,8475314.0,2019020335,,2019-11-22,Zach Aston-Reese Roughing against Anders Lee
+3,penalty,Tripping,Adam Pelech,Kevin Labanc,[58. -5.],1,18:54,NYI,SJS,SJS,28,NYI,2,0,0,8476917,8478099.0,2019020361,,2019-11-24,Adam Pelech Tripping against Kevin Labanc
+29,penalty,Hooking,Radim Simek,Michael Dal Colle,[-73.   6.],1,13:05,SJS,NYI,SJS,28,NYI,2,0,0,8480160,8477936.0,2019020361,,2019-11-24,Radim Simek Hooking against Michael Dal Colle
+87,penalty,Fighting,Brenden Dillon,Casey Cizikas,[ 97. -19.],2,19:23,SJS,NYI,SJS,28,NYI,2,0,0,8475455,8475231.0,2019020361,,2019-11-24,Brenden Dillon Fighting against Casey Cizikas
+88,penalty,Fighting,Casey Cizikas,Brenden Dillon,[ 96. -15.],2,19:23,NYI,SJS,SJS,28,NYI,2,0,0,8475231,8475455.0,2019020361,,2019-11-24,Casey Cizikas Fighting against Brenden Dillon
+113,penalty,Missing key [PD_151],Kevin Labanc,,[ 21. -16.],2,12:55,SJS,NYI,SJS,28,NYI,2,1,1,8478099,,2019020361,,2019-11-24,Delaying Game - Unsucc. chlg served by Kevin Labanc
+135,penalty,Tripping,Lukas Radil,Scott Mayfield,[38.  2.],2,07:52,SJS,NYI,SJS,28,NYI,2,1,1,8480780,8476429.0,2019020361,,2019-11-24,Lukas Radil Tripping against Scott Mayfield
+151,penalty,Slashing,Kevin Labanc,Anthony Beauvillier,[40.  0.],2,03:18,SJS,NYI,SJS,28,NYI,2,1,1,8478099,8478463.0,2019020361,,2019-11-24,Kevin Labanc Slashing against Anthony Beauvillier
+178,penalty,Tripping,Patrick Marleau,Scott Mayfield,[94. -3.],3,17:28,SJS,NYI,SJS,28,NYI,2,1,1,8466139,8476429.0,2019020361,,2019-11-24,Patrick Marleau Tripping against Scott Mayfield
+213,penalty,Tripping,Kevin Labanc,Adam Pelech,[-41. -19.],3,07:34,SJS,NYI,SJS,28,NYI,2,1,1,8478099,8476917.0,2019020361,,2019-11-24,Kevin Labanc Tripping against Adam Pelech
+54,penalty,Holding,Nick Ritchie,Cal Clutterbuck,[-79. -11.],1,10:22,ANA,NYI,ANA,24,NYI,2,0,0,8477941,8473504.0,2019020372,,2019-11-26,Nick Ritchie Holding against Cal Clutterbuck
+83,penalty,Fighting,Scott Mayfield,Nicolas Deslauriers,[24.  0.],1,04:25,NYI,ANA,ANA,24,NYI,2,0,0,8476429,8475235.0,2019020372,,2019-11-26,Scott Mayfield Fighting against Nicolas Deslauriers
+84,penalty,Fighting,Nicolas Deslauriers,Scott Mayfield,[23. -4.],1,04:25,ANA,NYI,ANA,24,NYI,2,0,0,8475235,8476429.0,2019020372,,2019-11-26,Nicolas Deslauriers Fighting against Scott Mayfield
+85,penalty,Roughing,Nicolas Deslauriers,Sam Steel,[16.  3.],1,04:25,ANA,NYI,ANA,24,NYI,2,0,0,8475235,8479351.0,2019020372,,2019-11-26,Nicolas Deslauriers Roughing against Cal Clutterbuck served by Sam Steel
+135,penalty,Slashing,Anders Lee,Ondrej Kase,[-69.  38.],2,11:55,NYI,ANA,ANA,24,NYI,2,0,0,8475314,8478131.0,2019020372,,2019-11-26,Anders Lee Slashing against Ondrej Kase
+211,penalty,Tripping,Johnny Boychuk,Nicolas Deslauriers,[97. -4.],3,13:37,NYI,ANA,ANA,24,NYI,2,1,0,8470187,8475235.0,2019020372,,2019-11-26,Johnny Boychuk Tripping against Nicolas Deslauriers
+12,penalty,Hi-sticking,Anze Kopitar,Jordan Eberle,[ 51. -20.],1,17:07,LAK,NYI,LAK,26,NYI,2,0,0,8471685,8474586.0,2019020388,,2019-11-28,Anze Kopitar Hi-sticking against Jordan Eberle
+76,penalty,Hooking,Adam Pelech,Anze Kopitar,[-50.  10.],1,03:55,NYI,LAK,LAK,26,NYI,2,1,1,8476917,8471685.0,2019020388,,2019-11-28,Adam Pelech Hooking against Anze Kopitar
+82,penalty,Slashing,Cal Clutterbuck,Tyler Toffoli,[-80.  -2.],1,01:25,NYI,LAK,LAK,26,NYI,2,1,1,8473504,8475726.0,2019020388,,2019-11-28,Cal Clutterbuck Slashing against Tyler Toffoli
+143,penalty,Tripping,Dustin Brown,Jordan Eberle,[-75. -40.],2,08:41,LAK,NYI,LAK,26,NYI,2,1,1,8470606,8474586.0,2019020388,,2019-11-28,Dustin Brown Tripping against Jordan Eberle
+156,penalty,Tripping,Noah Dobson,Kyle Clifford,[ 36. -34.],2,05:27,NYI,LAK,LAK,26,NYI,2,1,1,8480865,8475160.0,2019020388,,2019-11-28,Noah Dobson Tripping against Kyle Clifford
+193,penalty,Holding,Sean Walker,Mathew Barzal,[ 66. -37.],3,15:25,LAK,NYI,LAK,26,NYI,2,2,1,8480336,8478445.0,2019020388,,2019-11-28,Sean Walker Holding against Mathew Barzal
+197,penalty,Hi-sticking,Josh Bailey,Jeff Carter,[ 51. -27.],3,14:27,NYI,LAK,LAK,26,NYI,2,2,1,8474573,8470604.0,2019020388,,2019-11-28,Josh Bailey Hi-sticking against Jeff Carter
+209,penalty,Slashing,Jeff Carter,Mathew Barzal,[17. 40.],3,11:20,LAK,NYI,LAK,26,NYI,2,2,1,8470604,8478445.0,2019020388,,2019-11-28,Jeff Carter Slashing against Mathew Barzal
+210,penalty,Embellishment,Mathew Barzal,,[17. 40.],3,11:20,NYI,LAK,LAK,26,NYI,2,2,1,8478445,,2019020388,,2019-11-28,Mathew Barzal Embellishment
+246,penalty,Interference,Josh Bailey,Seth Jones,[-30. -18.],3,03:01,NYI,CBJ,NYI,2,CBJ,29,2,0,8474573,8477495.0,2019020409,,2019-12-01,Josh Bailey Interference against Seth Jones
+10,penalty,Delaying Game - Puck over glass,Darren Helm,,[ 40. -39.],1,16:48,DET,NYI,DET,17,NYI,2,0,0,8471794,,2019020421,,2019-12-03,Darren Helm Delaying Game - Puck over glass
+41,penalty,Hooking,Anthony Beauvillier,Valtteri Filppula,[40. 36.],1,08:52,NYI,DET,DET,17,NYI,2,0,1,8478463,8470047.0,2019020421,,2019-12-03,Anthony Beauvillier Hooking against Valtteri Filppula
+60,penalty,Hooking,Johnny Boychuk,Dylan Larkin,[-95.   1.],1,03:29,NYI,DET,DET,17,NYI,2,0,2,8470187,8477946.0,2019020421,,2019-12-03,Johnny Boychuk Hooking against Dylan Larkin
+93,penalty,Hi-sticking,Anders Lee,Filip Hronek,[-77.  -2.],2,15:00,NYI,DET,DET,17,NYI,2,0,2,8475314,8479425.0,2019020421,,2019-12-03,Anders Lee Hi-sticking against Filip Hronek
+104,penalty,Delaying Game - Puck over glass,Devon Toews,,[ 96. -20.],2,12:17,NYI,DET,DET,17,NYI,2,0,2,8478038,,2019020421,,2019-12-03,Devon Toews Delaying Game - Puck over glass
+112,penalty,Holding,Nick Leddy,Dylan Larkin,[78.  2.],2,09:34,NYI,DET,DET,17,NYI,2,0,2,8475181,8477946.0,2019020421,,2019-12-03,Nick Leddy Holding against Dylan Larkin
+132,penalty,Interference,Frans Nielsen,Mathew Barzal,[-35. -38.],2,05:34,DET,NYI,DET,17,NYI,2,1,2,8470144,8478445.0,2019020421,,2019-12-03,Frans Nielsen Interference against Mathew Barzal
+134,penalty,Interference,Patrik Nemeth,Mathew Barzal,[-54.  39.],2,05:02,DET,NYI,DET,17,NYI,2,1,2,8475747,8478445.0,2019020421,,2019-12-03,Patrik Nemeth Interference against Mathew Barzal
+159,penalty,Tripping,Otto Koivula,Filip Hronek,[98. 11.],3,17:23,NYI,DET,DET,17,NYI,2,1,3,8479526,8479425.0,2019020421,,2019-12-03,Otto Koivula Tripping against Filip Hronek
+217,penalty,Boarding,Luke Glendening,Johnny Boychuk,[-97.   0.],3,03:17,DET,NYI,DET,17,NYI,2,1,4,8476822,8470187.0,2019020421,,2019-12-03,Luke Glendening Boarding against Johnny Boychuk
+223,penalty,Hi-sticking,Valtteri Filppula,Brock Nelson,[38. 37.],3,01:14,DET,NYI,DET,17,NYI,2,1,4,8470047,8475754.0,2019020421,,2019-12-03,Valtteri Filppula Hi-sticking against Brock Nelson
+48,penalty,Holding,Gustav Olofsson,Jordan Eberle,[98. -5.],1,10:34,MTL,NYI,MTL,8,NYI,2,0,0,8477467,8474586.0,2019020425,,2019-12-04,Gustav Olofsson Holding against Jordan Eberle
+179,penalty,Holding,Jeff Petry,Mathew Barzal,[-98.  -2.],2,03:11,MTL,NYI,MTL,8,NYI,2,2,0,8473507,8478445.0,2019020425,,2019-12-04,Jeff Petry Holding against Mathew Barzal
+188,penalty,Slashing,Carey Price,Jeff Petry,[-85.  -2.],2,01:06,MTL,NYI,MTL,8,NYI,2,2,0,8471679,8473507.0,2019020425,,2019-12-04,Carey Price Slashing against Brock Nelson served by Jeff Petry
+259,penalty,Holding the stick,Adam Pelech,Joel Armia,[-23.  40.],3,07:01,NYI,MTL,MTL,8,NYI,2,3,1,8476917,8476469.0,2019020425,,2019-12-04,Adam Pelech Holding the stick against Joel Armia
+260,penalty,Slashing,Joel Armia,Adam Pelech,[-23.  41.],3,07:01,MTL,NYI,MTL,8,NYI,2,3,1,8476469,8476917.0,2019020425,,2019-12-04,Joel Armia Slashing against Adam Pelech
+54,penalty,Tripping,Jon Merrill,Matt Martin,[15. 34.],1,08:53,VGK,NYI,NYI,2,VGK,54,0,0,8475750,8474709.0,2019020441,,2019-12-06,Jon Merrill Tripping against Matt Martin
+147,penalty,Interference,Mathew Barzal,Tomas Nosek,[-8. 41.],2,10:23,NYI,VGK,NYI,2,VGK,54,1,0,8478445,8477931.0,2019020441,,2019-12-06,Mathew Barzal Interference against Tomas Nosek
+291,penalty,Tripping,Jonathan Marchessault,Mathew Barzal,[-27.  10.],4,01:50,VGK,NYI,NYI,2,VGK,54,2,2,8476539,8478445.0,2019020441,,2019-12-06,Jonathan Marchessault Tripping against Mathew Barzal
+13,penalty,Hi-sticking,Jamie Oleksiak,Ross Johnston,[93. -7.],1,18:08,DAL,NYI,DAL,25,NYI,2,0,0,8476467,8477527.0,2019020461,,2019-12-08,Jamie Oleksiak Hi-sticking against Ross Johnston
+88,penalty,Hi-sticking,Mathew Barzal,Jamie Oleksiak,[ 89. -32.],1,05:31,NYI,DAL,DAL,25,NYI,2,1,0,8478445,8476467.0,2019020461,,2019-12-08,Mathew Barzal Hi-sticking against Jamie Oleksiak
+125,penalty,Tripping,Mathew Barzal,Roope Hintz,[ 62. -17.],2,18:11,NYI,DAL,DAL,25,NYI,2,2,0,8478445,8478449.0,2019020461,,2019-12-08,Mathew Barzal Tripping against Roope Hintz
+26,penalty,Tripping,Adam Pelech,Mitchell Stephens,[ 94. -11.],1,12:43,NYI,TBL,TBL,14,NYI,2,0,0,8476917,8478477.0,2019020468,,2019-12-10,Adam Pelech Tripping against Mitchell Stephens
+74,penalty,Roughing,Cal Clutterbuck,Cory Conacher,[83. -2.],1,02:51,NYI,TBL,TBL,14,NYI,2,0,0,8473504,8476195.0,2019020468,,2019-12-10,Cal Clutterbuck Roughing against Cory Conacher
+75,penalty,Roughing,Cory Conacher,Cal Clutterbuck,[80.  0.],1,02:51,TBL,NYI,TBL,14,NYI,2,0,0,8476195,8473504.0,2019020468,,2019-12-10,Cory Conacher Roughing against Cal Clutterbuck
+119,penalty,Cross checking,Scott Mayfield,Nikita Kucherov,[-71. -26.],2,12:30,NYI,TBL,TBL,14,NYI,2,0,1,8476429,8476453.0,2019020468,,2019-12-10,Scott Mayfield Cross checking against Nikita Kucherov
+120,penalty,Roughing,Cedric Paquette,Scott Mayfield,[-82.  31.],2,12:30,TBL,NYI,TBL,14,NYI,2,0,1,8476975,8476429.0,2019020468,,2019-12-10,Cedric Paquette Roughing against Scott Mayfield
+121,penalty,Roughing,Scott Mayfield,Michael Dal Colle,[-76.  33.],2,12:30,NYI,TBL,TBL,14,NYI,2,0,1,8476429,8477936.0,2019020468,,2019-12-10,Scott Mayfield Roughing against Cedric Paquette served by Michael Dal Colle
+144,penalty,Slashing,Kevin Shattenkirk,Anthony Beauvillier,[ 63. -35.],2,08:18,TBL,NYI,TBL,14,NYI,2,0,2,8474031,8478463.0,2019020468,,2019-12-10,Kevin Shattenkirk Slashing against Anthony Beauvillier
+182,penalty,Hooking,Michael Dal Colle,Anthony Cirelli,[ 63. -27.],3,19:17,NYI,TBL,TBL,14,NYI,2,1,2,8477936,8478519.0,2019020468,,2019-12-10,Michael Dal Colle Hooking against Anthony Cirelli
+240,penalty,Cross checking,Mikhail Sergachev,Matt Martin,[-89.  20.],3,04:47,TBL,NYI,TBL,14,NYI,2,1,4,8479410,8474709.0,2019020468,,2019-12-10,Mikhail Sergachev Cross checking against Matt Martin
+59,penalty,Roughing,Johnny Boychuk,Frank Vatrano,[-70. -39.],1,04:45,NYI,FLA,FLA,13,NYI,2,0,0,8470187,8478366.0,2019020489,,2019-12-14,Johnny Boychuk Roughing against Frank Vatrano
+78,penalty,Tripping,Frank Vatrano,Devon Toews,[-41.  41.],1,00:18,FLA,NYI,FLA,13,NYI,2,0,0,8478366,8478038.0,2019020489,,2019-12-14,Frank Vatrano Tripping against Devon Toews
+96,penalty,Holding,Vincent Trocheck,Anthony Beauvillier,[-42. -37.],2,15:53,FLA,NYI,FLA,13,NYI,2,0,1,8476389,8478463.0,2019020489,,2019-12-14,Vincent Trocheck Holding against Anthony Beauvillier
+132,penalty,Fighting,Brian Boyle,Anders Lee,[-93.  22.],2,08:58,FLA,NYI,FLA,13,NYI,2,1,2,8470619,8475314.0,2019020489,,2019-12-14,Brian Boyle Fighting against Anders Lee
+133,penalty,Fighting,Anders Lee,Brian Boyle,[-94.  19.],2,08:58,NYI,FLA,FLA,13,NYI,2,1,2,8475314,8470619.0,2019020489,,2019-12-14,Anders Lee Fighting against Brian Boyle
+134,penalty,Instigator,Anders Lee,Michael Dal Colle,[-84.  18.],2,08:58,NYI,FLA,FLA,13,NYI,2,1,2,8475314,8477936.0,2019020489,,2019-12-14,Anders Lee Instigator against Brian Boyle served by Michael Dal Colle
+135,penalty,Misconduct,Anders Lee,Brian Boyle,[-95.  24.],2,08:58,NYI,FLA,FLA,13,NYI,2,1,2,8475314,8470619.0,2019020489,,2019-12-14,Anders Lee Misconduct against Brian Boyle
+145,penalty,Tripping,Vincent Trocheck,Mathew Barzal,[-93. -19.],2,05:35,FLA,NYI,FLA,13,NYI,2,1,2,8476389,8478445.0,2019020489,,2019-12-14,Vincent Trocheck Tripping against Mathew Barzal
+191,penalty,Tripping,MacKenzie Weegar,Casey Cizikas,[98. -5.],3,14:51,FLA,NYI,FLA,13,NYI,2,1,2,8477346,8475231.0,2019020489,,2019-12-14,MacKenzie Weegar Tripping against Casey Cizikas
+214,penalty,Tripping,Ryan Pulock,Frank Vatrano,[-92.  22.],3,09:54,NYI,FLA,FLA,13,NYI,2,1,2,8477506,8478366.0,2019020489,,2019-12-14,Ryan Pulock Tripping against Frank Vatrano
+71,penalty,Roughing,Marco Scandella,Josh Bailey,[ 27. -37.],1,01:38,BUF,NYI,NYI,2,BUF,7,1,0,8474618,8474573.0,2019020502,,2019-12-17,Marco Scandella Roughing against Josh Bailey
+72,penalty,Roughing,Josh Bailey,Anders Lee,[ 96. -11.],1,01:38,NYI,BUF,NYI,2,BUF,7,1,0,8474573,8475314.0,2019020502,,2019-12-17,Josh Bailey Roughing against Marco Scandella served by Anders Lee
+73,penalty,Roughing,Josh Bailey,Marco Scandella,[95. -6.],1,01:38,NYI,BUF,NYI,2,BUF,7,1,0,8474573,8474618.0,2019020502,,2019-12-17,Josh Bailey Roughing against Marco Scandella
+98,penalty,Holding the stick,Brock Nelson,Kyle Okposo,[95. -5.],2,15:23,NYI,BUF,NYI,2,BUF,7,1,0,8475754,8473449.0,2019020502,,2019-12-17,Brock Nelson Holding the stick against Kyle Okposo
+109,penalty,Holding,Rasmus Ristolainen,Jordan Eberle,[-96.  -5.],2,11:56,BUF,NYI,NYI,2,BUF,7,1,1,8477499,8474586.0,2019020502,,2019-12-17,Rasmus Ristolainen Holding against Jordan Eberle
+118,penalty,Hooking,Evan Rodrigues,Brock Nelson,[-78.   2.],2,09:07,BUF,NYI,NYI,2,BUF,7,1,1,8478542,8475754.0,2019020502,,2019-12-17,Evan Rodrigues Hooking against Brock Nelson
+131,penalty,Interference,Marcus Johansson,Mathew Barzal,[36. -2.],2,05:43,BUF,NYI,NYI,2,BUF,7,1,1,8475149,8478445.0,2019020502,,2019-12-17,Marcus Johansson Interference against Mathew Barzal
+211,penalty,Roughing,Mathew Barzal,Rasmus Dahlin,[77. 35.],3,03:33,NYI,BUF,NYI,2,BUF,7,2,1,8478445,8480839.0,2019020502,,2019-12-17,Mathew Barzal Roughing against Rasmus Dahlin
+66,penalty,Holding the stick,Filip Forsberg,Ryan Pulock,[-78.   4.],1,09:33,NSH,NYI,NYI,2,NSH,18,0,1,8476887,8477506.0,2019020527,,2019-12-18,Filip Forsberg Holding the stick against Ryan Pulock
+101,penalty,Hooking,Nick Leddy,Colton Sissons,[-64. -28.],1,02:36,NYI,NSH,NYI,2,NSH,18,0,1,8475181,8476925.0,2019020527,,2019-12-18,Nick Leddy Hooking against Colton Sissons
+127,penalty,Interference,Austin Watson,Derick Brassard,[58.  9.],2,16:49,NSH,NYI,NYI,2,NSH,18,1,1,8475766,8473544.0,2019020527,,2019-12-18,Austin Watson Interference against Derick Brassard
+149,penalty,Hooking,Anders Lee,Dan Hamhuis,[-48.   3.],2,12:30,NYI,NSH,NYI,2,NSH,18,2,1,8475314,8469465.0,2019020527,,2019-12-18,Anders Lee Hooking against Dan Hamhuis
+171,penalty,Holding,Mathew Barzal,Dante Fabbro,[-71. -20.],2,08:04,NYI,NSH,NYI,2,NSH,18,3,3,8478445,8479371.0,2019020527,,2019-12-18,Mathew Barzal Holding against Dante Fabbro
+172,penalty,Hi-sticking,Dante Fabbro,Mathew Barzal,[-72. -15.],2,08:04,NSH,NYI,NYI,2,NSH,18,3,3,8479371,8478445.0,2019020527,,2019-12-18,Dante Fabbro Hi-sticking against Mathew Barzal
+240,penalty,Interference,Scott Mayfield,Austin Watson,[-69.  39.],3,10:10,NYI,NSH,NYI,2,NSH,18,3,6,8476429,8475766.0,2019020527,,2019-12-18,Scott Mayfield Interference against Austin Watson
+268,penalty,Charging,Ross Johnston,Jordan Eberle,[-22.  36.],3,04:26,NYI,NSH,NYI,2,NSH,18,3,8,8477527,8474586.0,2019020527,,2019-12-18,Ross Johnston Charging against Austin Watson served by Jordan Eberle
+269,penalty,Misconduct,Ross Johnston,,[-26.  38.],3,04:26,NYI,NSH,NYI,2,NSH,18,3,8,8477527,,2019020527,,2019-12-18,Ross Johnston Misconduct
+273,penalty,Roughing,Scott Mayfield,Derick Brassard,[-83.   7.],3,03:55,NYI,NSH,NYI,2,NSH,18,3,8,8476429,8473544.0,2019020527,,2019-12-18,Scott Mayfield Roughing against Craig Smith served by Derick Brassard
+274,penalty,Roughing,Scott Mayfield,Craig Smith,[-82.   8.],3,03:55,NYI,NSH,NYI,2,NSH,18,3,8,8476429,8475225.0,2019020527,,2019-12-18,Scott Mayfield Roughing against Craig Smith
+275,penalty,Roughing,Craig Smith,Yakov Trenin,[-80.   9.],3,03:55,NSH,NYI,NYI,2,NSH,18,3,8,8475225,8478508.0,2019020527,,2019-12-18,Craig Smith Roughing against Scott Mayfield served by Yakov Trenin
+276,penalty,Misconduct,Scott Mayfield,,[-82.   6.],3,03:55,NYI,NSH,NYI,2,NSH,18,3,8,8476429,,2019020527,,2019-12-18,Scott Mayfield Misconduct
+278,penalty,Misconduct,Craig Smith,,[-83.   5.],3,03:55,NSH,NYI,NYI,2,NSH,18,3,8,8475225,,2019020527,,2019-12-18,Craig Smith Misconduct
+28,penalty,Too many men on the ice,Jordan Eberle,,[19. 30.],1,14:00,NYI,BOS,BOS,6,NYI,2,1,0,8474586,,2019020538,,2019-12-20,Too many men/ice served by Jordan Eberle
+41,penalty,Tripping,Connor Clifton,Anders Lee,[ 18. -21.],1,10:51,BOS,NYI,BOS,6,NYI,2,1,0,8477365,8475314.0,2019020538,,2019-12-20,Connor Clifton Tripping against Anders Lee
+83,penalty,Tripping,Casey Cizikas,David Pastrnak,[12. 22.],1,00:47,NYI,BOS,BOS,6,NYI,2,1,0,8475231,8477956.0,2019020538,,2019-12-20,Casey Cizikas Tripping against David Pastrnak
+133,penalty,Hi-sticking,Derick Brassard,Connor Clifton,[-60.  40.],2,07:36,NYI,BOS,BOS,6,NYI,2,1,1,8473544,8477365.0,2019020538,,2019-12-20,Derick Brassard Hi-sticking against Connor Clifton
+167,penalty,Tripping,Brandon Carlo,Jordan Eberle,[79. 15.],2,00:16,BOS,NYI,BOS,6,NYI,2,1,2,8478443,8474586.0,2019020538,,2019-12-20,Brandon Carlo Tripping against Jordan Eberle
+205,penalty,Hi-sticking,Adam Pelech,Brad Marchand,[83. 16.],3,13:28,NYI,BOS,BOS,6,NYI,2,1,2,8476917,8473419.0,2019020538,,2019-12-20,Adam Pelech Hi-sticking against Brad Marchand
+215,penalty,Delaying Game - Puck over glass,Brock Nelson,,[60. 34.],3,12:44,NYI,BOS,BOS,6,NYI,2,1,2,8475754,,2019020538,,2019-12-20,Brock Nelson Delaying Game - Puck over glass
+39,penalty,Tripping,Casey Cizikas,Devin Shore,[-18. -24.],1,11:47,NYI,ANA,NYI,2,ANA,24,1,0,8475231,8476913.0,2019020553,,2019-12-22,Casey Cizikas Tripping against Devin Shore
+62,penalty,Tripping,Derick Brassard,Sam Steel,[ 58. -36.],1,04:44,NYI,ANA,NYI,2,ANA,24,1,0,8473544,8479351.0,2019020553,,2019-12-22,Derick Brassard Tripping against Sam Steel
+70,penalty,Tripping,Cam Fowler,Mathew Barzal,[81.  0.],1,03:16,ANA,NYI,NYI,2,ANA,24,1,1,8475764,8478445.0,2019020553,,2019-12-22,Cam Fowler Tripping against Mathew Barzal
+136,penalty,Slashing,Sam Steel,Anthony Beauvillier,[-69. -34.],2,09:20,ANA,NYI,NYI,2,ANA,24,3,3,8479351,8478463.0,2019020553,,2019-12-22,Sam Steel Slashing against Anthony Beauvillier
+157,penalty,Delay of game,Ross Johnston,,[5. 0.],2,05:19,NYI,ANA,NYI,2,ANA,24,4,4,8477527,,2019020553,,2019-12-22,Delay of Game - Bench served by Ross Johnston
+162,penalty,Tripping,Casey Cizikas,Ondrej Kase,[55.  2.],2,03:19,NYI,ANA,NYI,2,ANA,24,4,4,8475231,8478131.0,2019020553,,2019-12-22,Casey Cizikas Tripping against Ondrej Kase
+230,penalty,Tripping,Josh Manson,Anthony Beauvillier,[ 61. -38.],3,06:52,ANA,NYI,NYI,2,ANA,24,4,5,8476312,8478463.0,2019020553,,2019-12-22,Josh Manson Tripping against Anthony Beauvillier
+8,penalty,Tripping,Nathan Gerbe,Mathew Barzal,[-69.  38.],1,18:35,CBJ,NYI,NYI,2,CBJ,29,0,0,8471804,8478445.0,2019020573,,2019-12-29,Nathan Gerbe Tripping against Mathew Barzal
+127,penalty,Elbowing,Johnny Boychuk,Nathan Gerbe,[-41.  39.],2,14:21,NYI,CBJ,NYI,2,CBJ,29,1,0,8470187,8471804.0,2019020573,,2019-12-29,Johnny Boychuk Elbowing against Nathan Gerbe
+223,penalty,Roughing,Gustav Nyquist,Mathew Barzal,[-13.  39.],3,15:26,CBJ,NYI,NYI,2,CBJ,29,2,2,8474679,8478445.0,2019020573,,2019-12-29,Gustav Nyquist Roughing against Mathew Barzal
+224,penalty,Embellishment,Mathew Barzal,Gustav Nyquist,[-11.  39.],3,15:26,NYI,CBJ,NYI,2,CBJ,29,2,2,8478445,8474679.0,2019020573,,2019-12-29,Mathew Barzal Embellishment against Gustav Nyquist
+234,penalty,Hooking,Pierre-Luc Dubois,Casey Cizikas,[66.  1.],3,13:22,CBJ,NYI,NYI,2,CBJ,29,2,2,8479400,8475231.0,2019020573,,2019-12-29,Pierre-Luc Dubois Hooking against Casey Cizikas
+259,penalty,Tripping,Jordan Eberle,Alexander Wennberg,[83. 19.],3,08:26,NYI,CBJ,NYI,2,CBJ,29,2,2,8474586,8477505.0,2019020573,,2019-12-29,Jordan Eberle Tripping against Alexander Wennberg
+133,penalty,Hi-sticking,Matthew Highmore,Adam Pelech,[-37. -37.],2,16:28,CHI,NYI,CHI,16,NYI,2,3,1,8478146,8476917.0,2019020589,,2019-12-28,Matthew Highmore Hi-sticking against Adam Pelech
+173,penalty,Tripping,Nick Leddy,Alex Nylander,[ 57. -25.],2,10:03,NYI,CHI,CHI,16,NYI,2,3,1,8475181,8479423.0,2019020589,,2019-12-28,Nick Leddy Tripping against Alex Nylander
+194,penalty,Hooking,Olli Maatta,Josh Bailey,[-73.  -1.],2,05:09,CHI,NYI,CHI,16,NYI,2,3,1,8476874,8474573.0,2019020589,,2019-12-28,Olli Maatta Hooking against Josh Bailey
+268,penalty,Tripping,Mathew Barzal,Patrick Kane,[-95.   5.],3,11:58,NYI,CHI,CHI,16,NYI,2,5,1,8478445,8474141.0,2019020589,,2019-12-28,Mathew Barzal Tripping against Patrick Kane
+286,penalty,Cross checking,Ross Johnston,Dennis Gilbert,[-40.  39.],3,07:03,NYI,CHI,CHI,16,NYI,2,5,1,8477527,8478502.0,2019020589,,2019-12-28,Ross Johnston Cross checking against Dennis Gilbert
+294,penalty,Roughing,Matt Martin,Michael Dal Colle,[ 23. -33.],3,03:39,NYI,CHI,CHI,16,NYI,2,5,1,8474709,8477936.0,2019020589,,2019-12-28,Matt Martin Roughing against Slater Koekkoek served by Michael Dal Colle
+295,penalty,Misconduct,Matt Martin,,[ 17. -33.],3,03:39,NYI,CHI,CHI,16,NYI,2,5,1,8474709,,2019020589,,2019-12-28,Matt Martin Misconduct
+296,penalty,Misconduct,Slater Koekkoek,Matt Martin,[ 18. -29.],3,03:39,CHI,NYI,CHI,16,NYI,2,5,1,8476886,8474709.0,2019020589,,2019-12-28,Slater Koekkoek Misconduct against Matt Martin
+31,penalty,Holding,Ryan Hartman,Scott Mayfield,[-83. -20.],1,10:26,MIN,NYI,MIN,30,NYI,2,0,0,8477451,8476429.0,2019020605,,2019-12-30,Ryan Hartman Holding against Scott Mayfield
+32,penalty,Holding,Scott Mayfield,Ryan Hartman,[-77. -21.],1,10:26,NYI,MIN,MIN,30,NYI,2,0,0,8476429,8477451.0,2019020605,,2019-12-30,Scott Mayfield Holding against Ryan Hartman
+60,penalty,Interference,Anders Lee,Jared Spurgeon,[ 86. -36.],1,03:28,NYI,MIN,MIN,30,NYI,2,1,0,8475314,8474716.0,2019020605,,2019-12-30,Anders Lee Interference against Jared Spurgeon
+68,penalty,Tripping,Jordan Greenway,Tom Kuhnhackl,[-41. -38.],1,01:06,MIN,NYI,MIN,30,NYI,2,1,0,8478413,8475832.0,2019020605,,2019-12-30,Jordan Greenway Tripping against Tom Kuhnhackl
+121,penalty,Too many men on the ice,Mats Zuccarello,,[17. 42.],2,02:48,MIN,NYI,MIN,30,NYI,2,1,0,8475692,,2019020605,,2019-12-30,Too many men/ice served by Mats Zuccarello
+127,penalty,Holding the stick,Mathew Barzal,Jonas Brodin,[-67. -36.],2,01:23,NYI,MIN,MIN,30,NYI,2,1,0,8478445,8476463.0,2019020605,,2019-12-30,Mathew Barzal Holding the stick against Jonas Brodin
+168,penalty,Roughing,Scott Mayfield,Eric Staal,[-86.   9.],3,09:25,NYI,MIN,MIN,30,NYI,2,1,2,8476429,8470595.0,2019020605,,2019-12-30,Scott Mayfield Roughing against Eric Staal
+22,penalty,Hooking,Dmitry Orlov,Mathew Barzal,[53. 17.],1,15:17,WSH,NYI,WSH,15,NYI,2,0,0,8475200,8478445.0,2019020614,,2019-12-31,Dmitry Orlov Hooking against Mathew Barzal
+89,penalty,Slashing,Lars Eller,Ross Johnston,[66. 12.],1,02:42,WSH,NYI,WSH,15,NYI,2,2,2,8474189,8477527.0,2019020614,,2019-12-31,Lars Eller Slashing against Ross Johnston
+165,penalty,Interference,Casey Cizikas,Alex Ovechkin,[-52.  38.],2,06:35,NYI,WSH,WSH,15,NYI,2,3,4,8475231,8471214.0,2019020614,,2019-12-31,Casey Cizikas Interference against Alex Ovechkin
+239,penalty,Roughing,Garnet Hathaway,Casey Cizikas,[ 97. -10.],3,12:49,WSH,NYI,WSH,15,NYI,2,3,4,8477903,8475231.0,2019020614,,2019-12-31,Garnet Hathaway Roughing against Casey Cizikas
+240,penalty,Roughing,Casey Cizikas,Garnet Hathaway,[ 95. -13.],3,12:49,NYI,WSH,WSH,15,NYI,2,3,4,8475231,8477903.0,2019020614,,2019-12-31,Casey Cizikas Roughing against Garnet Hathaway
+292,penalty,Tripping,Scott Mayfield,T.J. Oshie,[-57.  39.],3,01:00,NYI,WSH,WSH,15,NYI,2,3,4,8476429,8471698.0,2019020614,,2019-12-31,Scott Mayfield Tripping against T.J. Oshie
+35,penalty,Hi-sticking,Miles Wood,Mathew Barzal,[-94. -17.],1,14:26,NJD,NYI,NYI,2,NJD,1,0,0,8477425,8478445.0,2019020630,,2020-01-06,Miles Wood Hi-sticking against Mathew Barzal
+51,penalty,Interference,Devon Toews,Pavel Zacha,[-81. -36.],1,10:38,NYI,NJD,NYI,2,NJD,1,0,0,8478038,8478401.0,2019020630,,2020-01-06,Devon Toews Interference against Pavel Zacha
+86,penalty,Slashing,Damon Severson,Anders Lee,[72.  0.],1,04:28,NJD,NYI,NYI,2,NJD,1,0,0,8476923,8475314.0,2019020630,,2020-01-06,Damon Severson Slashing against Anders Lee
+141,penalty,Slashing,Anthony Beauvillier,Sami Vatanen,[ 32. -20.],2,12:40,NYI,NJD,NYI,2,NJD,1,0,0,8478463,8475222.0,2019020630,,2020-01-06,Anthony Beauvillier Slashing against Sami Vatanen
+142,penalty,Embellishment,Sami Vatanen,Anthony Beauvillier,[ 35. -10.],2,12:40,NJD,NYI,NYI,2,NJD,1,0,0,8475222,8478463.0,2019020630,,2020-01-06,Sami Vatanen Embellishment against Anthony Beauvillier
+259,penalty,Tripping,Matt Martin,Sami Vatanen,[ 14. -39.],3,10:28,NYI,NJD,NYI,2,NJD,1,1,2,8474709,8475222.0,2019020630,,2020-01-06,Matt Martin Tripping against Sami Vatanen
+137,penalty,Hooking,Cody Ceci,Tom Kuhnhackl,[-84.  -7.],2,02:50,TOR,NYI,TOR,10,NYI,2,2,0,8476879,8475832.0,2019020646,,2020-01-05,Cody Ceci Hooking against Tom Kuhnhackl
+34,penalty,Tripping,J.T. Compher,Josh Bailey,[-80.  38.],1,14:29,COL,NYI,NYI,2,COL,21,0,0,8477456,8474573.0,2019020661,,2020-01-07,J.T. Compher Tripping against Josh Bailey
+75,penalty,Hooking,Derick Brassard,Nikita Zadorov,[ 62. -29.],1,04:31,NYI,COL,NYI,2,COL,21,0,0,8473544,8477507.0,2019020661,,2020-01-07,Derick Brassard Hooking against Nikita Zadorov
+244,penalty,Interference,Scott Mayfield,J.T. Compher,[-84.  10.],3,07:38,NYI,COL,NYI,2,COL,21,1,0,8476429,8477456.0,2019020661,,2020-01-07,Scott Mayfield Interference against J.T. Compher
+219,penalty,Hooking,Thomas Greiss,Matt Martin,[96. -2.],3,08:24,NYI,NJD,NJD,1,NYI,2,2,2,8471306,8474709.0,2019020665,,2020-01-08,Thomas Greiss Hooking against Nikita Gusev served by Matt Martin
+60,penalty,Hooking,Charlie McAvoy,Brock Nelson,[81.  2.],1,07:29,BOS,NYI,NYI,2,BOS,6,1,0,8479325,8475754.0,2019020694,,2020-01-12,Charlie McAvoy Hooking against Brock Nelson
+156,penalty,Roughing,Scott Mayfield,Charlie Coyle,[ 50. -23.],2,05:53,NYI,BOS,NYI,2,BOS,6,1,1,8476429,8475745.0,2019020694,,2020-01-12,Scott Mayfield Roughing against Charlie Coyle
+288,penalty,Tripping,Brock Nelson,Brad Marchand,[ 78. -14.],4,04:20,NYI,BOS,NYI,2,BOS,6,2,2,8475754,8473419.0,2019020694,,2020-01-12,Brock Nelson Tripping against Brad Marchand
+14,penalty,Fighting,Ross Johnston,Micheal Haley,[-38.   5.],1,17:47,NYI,NYR,NYR,3,NYI,2,0,1,8477527,8474230.0,2019020710,,2020-01-14,Ross Johnston Fighting against Micheal Haley
+15,penalty,Fighting,Micheal Haley,Ross Johnston,[-38.   1.],1,17:47,NYR,NYI,NYR,3,NYI,2,0,1,8474230,8477527.0,2019020710,,2020-01-14,Micheal Haley Fighting against Ross Johnston
+16,penalty,Fighting,Matt Martin,Brendan Smith,[-41.  25.],1,17:47,NYI,NYR,NYR,3,NYI,2,0,1,8474709,8474090.0,2019020710,,2020-01-14,Matt Martin Fighting against Brendan Smith
+17,penalty,Fighting,Brendan Smith,Matt Martin,[-43.  18.],1,17:47,NYR,NYI,NYR,3,NYI,2,0,1,8474090,8474709.0,2019020710,,2020-01-14,Brendan Smith Fighting against Matt Martin
+18,penalty,Game misconduct,Matt Martin,Brendan Smith,[-45.  19.],1,17:47,NYI,NYR,NYR,3,NYI,2,0,1,8474709,8474090.0,2019020710,,2020-01-14,Matt Martin Game misconduct against Brendan Smith
+19,penalty,Game misconduct,Brendan Smith,Matt Martin,[-42.  18.],1,17:47,NYR,NYI,NYR,3,NYI,2,0,1,8474090,8474709.0,2019020710,,2020-01-14,Brendan Smith Game misconduct against Matt Martin
+59,penalty,Tripping,Mathew Barzal,Marc Staal,[43.  5.],1,10:42,NYI,NYR,NYR,3,NYI,2,1,1,8478445,8471686.0,2019020710,,2020-01-14,Mathew Barzal Tripping against Marc Staal
+119,penalty,Slashing,Tony DeAngelo,Michael Dal Colle,[-75.  -3.],2,17:23,NYR,NYI,NYR,3,NYI,2,1,1,8477950,8477936.0,2019020710,,2020-01-14,Tony DeAngelo Slashing against Michael Dal Colle
+244,penalty,Slashing,Johnny Boychuk,Chris Kreider,[-74. -11.],3,09:49,NYI,NYR,NYR,3,NYI,2,5,1,8470187,8475184.0,2019020710,,2020-01-14,Johnny Boychuk Slashing against Chris Kreider
+253,penalty,Tripping,Marc Staal,Tom Kuhnhackl,[85. 37.],3,07:57,NYR,NYI,NYR,3,NYI,2,6,1,8471686,8475832.0,2019020710,,2020-01-14,Marc Staal Tripping against Tom Kuhnhackl
+264,penalty,Roughing,Brock Nelson,Chris Kreider,[15. -8.],3,05:09,NYI,NYR,NYR,3,NYI,2,6,2,8475754,8475184.0,2019020710,,2020-01-14,Brock Nelson Roughing against Chris Kreider
+265,penalty,Roughing,Chris Kreider,Pavel Buchnevich,[14. -7.],3,05:09,NYR,NYI,NYR,3,NYI,2,6,2,8475184,8477402.0,2019020710,,2020-01-14,Chris Kreider Roughing against Brock Nelson served by Pavel Buchnevich
+266,penalty,Roughing,Chris Kreider,Brock Nelson,[17. -4.],3,05:09,NYR,NYI,NYR,3,NYI,2,6,2,8475184,8475754.0,2019020710,,2020-01-14,Chris Kreider Roughing against Brock Nelson
+267,penalty,Roughing,Tony DeAngelo,Ross Johnston,[10.  7.],3,05:09,NYR,NYI,NYR,3,NYI,2,6,2,8477950,8477527.0,2019020710,,2020-01-14,Tony DeAngelo Roughing against Ross Johnston
+268,penalty,Roughing,Ross Johnston,Tony DeAngelo,[11.  0.],3,05:09,NYI,NYR,NYR,3,NYI,2,6,2,8477527,8477950.0,2019020710,,2020-01-14,Ross Johnston Roughing against Tony DeAngelo
+269,penalty,Misconduct,Chris Kreider,Brock Nelson,[17. 15.],3,05:09,NYR,NYI,NYR,3,NYI,2,6,2,8475184,8475754.0,2019020710,,2020-01-14,Chris Kreider Misconduct against Brock Nelson
+270,penalty,Misconduct,Tony DeAngelo,Ross Johnston,[3. 7.],3,05:09,NYR,NYI,NYR,3,NYI,2,6,2,8477950,8477527.0,2019020710,,2020-01-14,Tony DeAngelo Misconduct against Ross Johnston
+272,penalty,Misconduct,Ross Johnston,Tony DeAngelo,[77. 20.],3,05:09,NYI,NYR,NYR,3,NYI,2,6,2,8477527,8477950.0,2019020710,,2020-01-14,Ross Johnston Misconduct against Tony DeAngelo
+64,penalty,Tripping,Justin Abdelkader,Noah Dobson,[-62. -29.],1,05:30,DET,NYI,NYI,2,DET,17,3,1,8471716,8480865.0,2019020717,,2020-01-15,Justin Abdelkader Tripping against Noah Dobson
+65,penalty,Too many men on the ice,Michael Dal Colle,,[-13.   9.],1,05:30,NYI,DET,NYI,2,DET,17,3,1,8477936,,2019020717,,2020-01-15,Too many men/ice served by Michael Dal Colle
+86,penalty,Cross checking,Brock Nelson,Alex Biega,[91. 12.],1,00:08,NYI,DET,NYI,2,DET,17,4,1,8475754,8473415.0,2019020717,,2020-01-15,Brock Nelson Cross checking against Alex Biega
+110,penalty,Boarding,Luke Glendening,Devon Toews,[ 90. -31.],2,15:30,DET,NYI,NYI,2,DET,17,6,1,8476822,8478038.0,2019020717,,2020-01-15,Luke Glendening Boarding against Devon Toews
+245,penalty,Roughing,Ryan Pulock,Darren Helm,[ -1. -26.],3,05:32,NYI,DET,NYI,2,DET,17,8,2,8477506,8471794.0,2019020717,,2020-01-15,Ryan Pulock Roughing against Darren Helm
+28,penalty,Tripping,Casey Cizikas,Ryan Strome,[-41.  -1.],1,15:33,NYI,NYR,NYI,2,NYR,3,0,0,8475231,8476458.0,2019020730,,2020-01-17,Casey Cizikas Tripping against Ryan Strome
+67,penalty,Slashing,Marc Staal,Scott Mayfield,[ 52. -27.],1,06:30,NYR,NYI,NYI,2,NYR,3,0,0,8471686,8476429.0,2019020730,,2020-01-17,Marc Staal Slashing against Scott Mayfield
+138,penalty,Holding,Devon Toews,Mika Zibanejad,[72.  0.],2,12:47,NYI,NYR,NYI,2,NYR,3,1,0,8478038,8476459.0,2019020730,,2020-01-17,Devon Toews Holding against Mika Zibanejad
+163,penalty,Tripping,Scott Mayfield,Artemi Panarin,[-83.  34.],2,07:27,NYI,NYR,NYI,2,NYR,3,1,0,8476429,8478550.0,2019020730,,2020-01-17,Scott Mayfield Tripping against Artemi Panarin
+169,penalty,Tripping,Adam Fox,Mathew Barzal,[-96.   5.],2,06:38,NYR,NYI,NYI,2,NYR,3,1,1,8479323,8478445.0,2019020730,,2020-01-17,Adam Fox Tripping against Mathew Barzal
+176,penalty,Cross checking,Ryan Lindgren,Jordan Eberle,[-86.   6.],2,04:31,NYR,NYI,NYI,2,NYR,3,1,1,8479324,8474586.0,2019020730,,2020-01-17,Ryan Lindgren Cross checking against Jordan Eberle
+210,penalty,Interference,Tony DeAngelo,Anders Lee,[95. 10.],3,17:53,NYR,NYI,NYI,2,NYR,3,1,1,8477950,8475314.0,2019020730,,2020-01-17,Tony DeAngelo Interference against Anders Lee
+228,penalty,Closing hand on puck,Ryan Pulock,,[-58.   6.],3,14:36,NYI,NYR,NYI,2,NYR,3,1,2,8477506,,2019020730,,2020-01-17,Ryan Pulock Closing hand on puck
+265,penalty,Hooking,Casey Cizikas,Artemi Panarin,[-71.  12.],3,07:31,NYI,NYR,NYI,2,NYR,3,1,2,8475231,8478550.0,2019020730,,2020-01-17,Casey Cizikas Hooking against Artemi Panarin
+266,penalty,Embellishment,Artemi Panarin,Casey Cizikas,[-75.  18.],3,07:31,NYR,NYI,NYI,2,NYR,3,1,2,8478550,8475231.0,2019020730,,2020-01-17,Artemi Panarin Embellishment against Casey Cizikas
+276,penalty,Interference - Goalkeeper,Chris Kreider,Semyon Varlamov,[-82.   0.],3,06:09,NYR,NYI,NYI,2,NYR,3,2,2,8475184,8473575.0,2019020730,,2020-01-17,Chris Kreider Interference - Goalkeeper against Semyon Varlamov
+300,penalty,Cross checking,Derick Brassard,Jesper Fast,[-87. -34.],3,00:54,NYI,NYR,NYI,2,NYR,3,2,2,8473544,8475855.0,2019020730,,2020-01-17,Derick Brassard Cross checking against Jesper Fast
+33,penalty,Tripping,Jordan Eberle,Michal Kempny,[ 65. -35.],1,13:55,NYI,WSH,NYI,2,WSH,15,0,0,8474586,8479482.0,2019020743,,2020-01-20,Jordan Eberle Tripping against Michal Kempny
+36,penalty,Hooking,Alex Ovechkin,Casey Cizikas,[  1. -16.],1,13:20,WSH,NYI,NYI,2,WSH,15,0,0,8471214,8475231.0,2019020743,,2020-01-20,Alex Ovechkin Hooking against Casey Cizikas
+64,penalty,Missing key [PD_151],Alex Ovechkin,,[33. -1.],1,06:49,WSH,NYI,NYI,2,WSH,15,1,1,8471214,,2019020743,,2020-01-20,Delaying Game - Unsucc. chlg served by Alex Ovechkin
+66,penalty,Interference,Carl Hagelin,Mathew Barzal,[ 85. -26.],1,06:26,WSH,NYI,NYI,2,WSH,15,1,1,8474176,8478445.0,2019020743,,2020-01-20,Carl Hagelin Interference against Mathew Barzal
+120,penalty,Roughing,Matt Martin,Mathew Barzal,[ 60. -25.],2,15:11,NYI,WSH,NYI,2,WSH,15,2,1,8474709,8478445.0,2019020743,,2020-01-20,Matt Martin Roughing against Radko Gudas served by Mathew Barzal
+121,penalty,Unsportsmanlike conduct,Matt Martin,Radko Gudas,[ 66. -26.],2,15:11,NYI,WSH,NYI,2,WSH,15,2,1,8474709,8475462.0,2019020743,,2020-01-20,Matt Martin Unsportsmanlike conduct against Radko Gudas
+122,penalty,Roughing,Radko Gudas,Matt Martin,[ 68. -26.],2,15:11,WSH,NYI,NYI,2,WSH,15,2,1,8475462,8474709.0,2019020743,,2020-01-20,Radko Gudas Roughing against Matt Martin
+137,penalty,Roughing,Brendan Leipsic,Noah Dobson,[37. 30.],2,11:33,WSH,NYI,NYI,2,WSH,15,2,1,8476894,8480865.0,2019020743,,2020-01-20,Brendan Leipsic Roughing against Noah Dobson
+150,penalty,Boarding,Leo Komarov,Jonas Siegenthaler,[42. 37.],2,08:49,NYI,WSH,NYI,2,WSH,15,3,1,8473463,8478399.0,2019020743,,2020-01-20,Leo Komarov Boarding against Jonas Siegenthaler
+158,penalty,Slashing,Nick Leddy,Garnet Hathaway,[17. 37.],2,05:23,NYI,WSH,NYI,2,WSH,15,3,1,8475181,8477903.0,2019020743,,2020-01-20,Nick Leddy Slashing against Garnet Hathaway
+47,penalty,Holding,Martin Necas,Scott Mayfield,[ 40. -20.],1,09:07,CAR,NYI,CAR,12,NYI,2,1,0,8480039,8476429.0,2019020756,,2020-01-20,Martin Necas Holding against Scott Mayfield
+137,penalty,Interference,Noah Dobson,Joel Edmundson,[73. 12.],2,06:40,NYI,CAR,CAR,12,NYI,2,1,0,8480865,8476441.0,2019020756,,2020-01-20,Noah Dobson Interference against Joel Edmundson
+152,penalty,Slashing,Jordan Staal,Jordan Eberle,[-56.  14.],2,03:15,CAR,NYI,CAR,12,NYI,2,1,0,8473533,8474586.0,2019020756,,2020-01-20,Jordan Staal Slashing against Jordan Eberle
+169,penalty,Holding,Trevor van Riemsdyk,Michael Dal Colle,[76. -6.],3,19:12,CAR,NYI,CAR,12,NYI,2,1,1,8477845,8477936.0,2019020756,,2020-01-20,Trevor van Riemsdyk Holding against Michael Dal Colle
+207,penalty,Interference,Casey Cizikas,Martin Necas,[-93.  11.],3,11:34,NYI,CAR,CAR,12,NYI,2,1,1,8475231,8480039.0,2019020756,,2020-01-20,Casey Cizikas Interference against Martin Necas
+31,penalty,Slashing,Jordan Eberle,Kaapo Kakko,[-69. -26.],1,11:57,NYI,NYR,NYR,3,NYI,2,0,0,8474586,8481554.0,2019020762,,2020-01-22,Jordan Eberle Slashing against Kaapo Kakko
+53,penalty,Hi-sticking,Ryan Strome,Brock Nelson,[-90. -31.],1,07:41,NYR,NYI,NYR,3,NYI,2,0,0,8476458,8475754.0,2019020762,,2020-01-22,Ryan Strome Hi-sticking against Brock Nelson
+66,penalty,Hooking,Brady Skjei,Anthony Beauvillier,[65.  2.],1,04:40,NYR,NYI,NYR,3,NYI,2,0,1,8476869,8478463.0,2019020762,,2020-01-22,Brady Skjei Hooking against Anthony Beauvillier
+117,penalty,Boarding,Ross Johnston,Ryan Lindgren,[-96. -23.],2,13:12,NYI,NYR,NYR,3,NYI,2,0,2,8477527,8479324.0,2019020762,,2020-01-22,Ross Johnston Boarding against Ryan Lindgren
+218,penalty,Spearing - double minor,Scott Mayfield,Brendan Lemieux,[-81.  10.],3,07:21,NYI,NYR,NYR,3,NYI,2,0,4,8476429,8477962.0,2019020762,,2020-01-22,Scott Mayfield Spearing - double minor against Brendan Lemieux
+233,penalty,Delay of game,Matt Martin,,[-20.  40.],3,03:26,NYI,NYR,NYR,3,NYI,2,2,4,8474709,,2019020762,,2020-01-22,Delay of Game - Bench served by Matt Martin
+17,penalty,Hooking,Christopher Tanev,Tom Kuhnhackl,[53. 38.],1,14:09,VAN,NYI,NYI,2,VAN,23,1,1,8475690,8475832.0,2019020793,,2020-02-02,Christopher Tanev Hooking against Tom Kuhnhackl
+92,penalty,Tripping,Bo Horvat,Tom Kuhnhackl,[-79. -26.],2,18:01,VAN,NYI,NYI,2,VAN,23,1,1,8477500,8475832.0,2019020793,,2020-02-02,Bo Horvat Tripping against Tom Kuhnhackl
+159,penalty,Tripping,Adam Gaudette,Mathew Barzal,[-69.  -3.],2,02:02,VAN,NYI,NYI,2,VAN,23,2,3,8478874,8478445.0,2019020793,,2020-02-02,Adam Gaudette Tripping against Mathew Barzal
+160,penalty,Embellishment,Mathew Barzal,Adam Gaudette,[-69.  -2.],2,02:02,NYI,VAN,NYI,2,VAN,23,2,3,8478445,8478874.0,2019020793,,2020-02-02,Mathew Barzal Embellishment against Adam Gaudette

@@ -1,521 +1,521 @@
-,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
-38,penalty,Hi-sticking,Nino Niederreiter,Troy Stecher,[-79.   1.],1,12:20,CAR,VAN,CAR,12,VAN,23,0,1,8475799,8479442.0,Nino Niederreiter Hi-sticking against Troy Stecher
-92,penalty,Tripping,Erik Haula,Alexander Edler,[56. 18.],1,02:47,CAR,VAN,CAR,12,VAN,23,0,1,8475287,8471303.0,Erik Haula Tripping against Alexander Edler
-158,penalty,Holding,Jaccob Slavin,J.T. Miller,[-37. -39.],2,08:50,CAR,VAN,CAR,12,VAN,23,2,1,8476958,8476468.0,Jaccob Slavin Holding against J.T. Miller
-245,penalty,Slashing,J.T. Miller,Nino Niederreiter,[-80.  36.],3,09:06,VAN,CAR,CAR,12,VAN,23,3,3,8476468,8475799.0,J.T. Miller Slashing against Nino Niederreiter
-255,penalty,Interference,Haydn Fleury,Brandon Sutter,[ 57. -40.],3,06:03,CAR,VAN,CAR,12,VAN,23,3,3,8477938,8474091.0,Haydn Fleury Interference against Brandon Sutter
-13,penalty,Holding the stick,Brayden Schenn,Jordan Staal,[80. -1.],1,16:18,STL,CAR,STL,19,CAR,12,1,0,8475170,8473533.0,Brayden Schenn Holding the stick against Jordan Staal
-51,penalty,Roughing,Vince Dunn,Andrei Svechnikov,[-49.  38.],1,04:25,STL,CAR,STL,19,CAR,12,1,0,8478407,8480830.0,Vince Dunn Roughing against Andrei Svechnikov
-52,penalty,Roughing,Andrei Svechnikov,Vince Dunn,[-40.  39.],1,04:25,CAR,STL,STL,19,CAR,12,1,0,8480830,8478407.0,Andrei Svechnikov Roughing against Vince Dunn
-56,penalty,Holding,Sebastian Aho,Robert Thomas,[-22.  20.],1,02:51,CAR,STL,STL,19,CAR,12,1,0,8478427,8480023.0,Sebastian Aho Holding against Robert Thomas
-71,penalty,Hooking,Vince Dunn,Martin Necas,[58. 39.],2,18:08,STL,CAR,STL,19,CAR,12,2,0,8478407,8480039.0,Vince Dunn Hooking against Martin Necas
-94,penalty,Slashing,Jordan Martinook,Jaden Schwartz,[-36.  -2.],2,12:41,CAR,STL,STL,19,CAR,12,3,1,8476921,8475768.0,Jordan Martinook Slashing against Jaden Schwartz
-107,penalty,Hooking,Jake Gardiner,David Perron,[-69.   0.],2,09:02,CAR,STL,STL,19,CAR,12,4,1,8474581,8474102.0,Jake Gardiner Hooking against David Perron
-154,penalty,Tripping,Sammy Blais,Andrei Svechnikov,[-14. -22.],3,12:18,STL,CAR,STL,19,CAR,12,5,1,8478104,8480830.0,Sammy Blais Tripping against Andrei Svechnikov
-175,penalty,Hooking,Alexander Steen,Martin Necas,[10.  4.],3,04:57,STL,CAR,STL,19,CAR,12,6,2,8470257,8480039.0,Alexander Steen Hooking against Martin Necas
-186,penalty,Slashing,Martin Necas,Zach Sanford,[ 43. -38.],3,02:20,CAR,STL,STL,19,CAR,12,6,3,8480039,8477482.0,Martin Necas Slashing against Zach Sanford
-10,penalty,Hooking,Niklas Hjalmarsson,Andrei Svechnikov,[-51.   7.],1,18:10,ARI,CAR,ARI,53,CAR,12,0,0,8471769,8480830.0,Niklas Hjalmarsson Hooking against Andrei Svechnikov
-18,penalty,Hooking,Joel Edmundson,Nick Schmaltz,[57.  0.],1,15:51,CAR,ARI,ARI,53,CAR,12,0,0,8476441,8477951.0,Joel Edmundson Hooking against Nick Schmaltz
-94,penalty,Hi-sticking,Justin Williams,Aaron Ness,[ 79. -34.],2,17:41,CAR,ARI,ARI,53,CAR,12,1,0,8468508,8474604.0,Justin Williams Hi-sticking against Aaron Ness
-144,penalty,Holding,Joel Edmundson,Clayton Keller,[-90.  12.],2,07:14,CAR,ARI,ARI,53,CAR,12,2,3,8476441,8479343.0,Joel Edmundson Holding against Clayton Keller
-152,penalty,Boarding,Brad Richardson,Lucas Wallmark,[ 2. 38.],2,05:01,ARI,CAR,ARI,53,CAR,12,2,3,8470755,8478027.0,Brad Richardson Boarding against Lucas Wallmark
-157,penalty,Hooking,Jake Gardiner,Taylor Hall,[-85.   8.],2,02:57,CAR,ARI,ARI,53,CAR,12,2,3,8474581,8475791.0,Jake Gardiner Hooking against Taylor Hall
-225,penalty,Boarding,Lucas Wallmark,Aaron Ness,[-93.  -7.],3,03:45,CAR,ARI,ARI,53,CAR,12,3,4,8478027,8474604.0,Lucas Wallmark Boarding against Aaron Ness
-111,penalty,Roughing,Brayden McNabb,Warren Foegele,[-96.  18.],2,16:29,VGK,CAR,VGK,54,CAR,12,3,1,8475188,8477998.0,Brayden McNabb Roughing against Warren Foegele
-201,penalty,Hi stick - double minor,Zach Whitecloud,Erik Haula,[-52.  40.],3,17:55,VGK,CAR,VGK,54,CAR,12,3,2,8480727,8475287.0,Zach Whitecloud Hi stick - double minor against Erik Haula
-222,penalty,Holding,Brett Pesce,Ryan Reaves,[-80.   0.],3,14:11,CAR,VGK,VGK,54,CAR,12,4,3,8477488,8471817.0,Brett Pesce Holding against Ryan Reaves
-254,penalty,Tripping,Tomas Nosek,Trevor van Riemsdyk,[-70.   3.],3,07:02,VGK,CAR,VGK,54,CAR,12,4,4,8477931,8477845.0,Tomas Nosek Tripping against Trevor van Riemsdyk
-285,penalty,Holding,Joel Edmundson,Reilly Smith,[-89.  23.],3,00:59,CAR,VGK,VGK,54,CAR,12,5,5,8476441,8475191.0,Joel Edmundson Holding against Reilly Smith
-89,penalty,Boarding,Radek Faksa,Justin Williams,[-91. -31.],1,04:27,DAL,CAR,DAL,25,CAR,12,1,0,8476889,8468508.0,Radek Faksa Boarding against Justin Williams
-125,penalty,Holding the stick,Martin Necas,Stephen Johns,[-99. -10.],2,15:18,CAR,DAL,DAL,25,CAR,12,1,1,8480039,8475730.0,Martin Necas Holding the stick against Stephen Johns
-163,penalty,Hooking,Jordan Staal,Alexander Radulov,[84. -6.],2,09:19,CAR,DAL,DAL,25,CAR,12,1,1,8473533,8471228.0,Jordan Staal Hooking against Alexander Radulov
-180,penalty,Hooking,Brock McGinn,Roope Hintz,[35. 41.],2,06:05,CAR,DAL,DAL,25,CAR,12,2,1,8476934,8478449.0,Brock McGinn Hooking against Roope Hintz
-216,penalty,Tripping,Jake Gardiner,Denis Gurianov,[47.  3.],3,16:20,CAR,DAL,DAL,25,CAR,12,3,1,8474581,8478495.0,Jake Gardiner Tripping against Denis Gurianov
-6,penalty,Holding,Jordan Staal,Miles Wood,[ 48. -38.],1,18:47,CAR,NJD,CAR,12,NJD,1,0,0,8473533,8477425.0,Jordan Staal Holding against Miles Wood
-77,penalty,Holding,Blake Coleman,Martin Necas,[-21. -34.],2,18:45,NJD,CAR,CAR,12,NJD,1,2,1,8476399,8480039.0,Blake Coleman Holding against Martin Necas
-125,penalty,Tripping,Wayne Simmonds,Nino Niederreiter,[ 61. -27.],2,05:32,NJD,CAR,CAR,12,NJD,1,3,1,8474190,8475799.0,Wayne Simmonds Tripping against Nino Niederreiter
-196,penalty,Slashing,Joel Edmundson,Miles Wood,[78. -8.],3,07:32,CAR,NJD,CAR,12,NJD,1,4,1,8476441,8477425.0,Joel Edmundson Slashing against Miles Wood
-209,penalty,Tripping,Brett Pesce,Kevin Rooney,[30. 37.],3,04:43,CAR,NJD,CAR,12,NJD,1,5,2,8477488,8479291.0,Brett Pesce Tripping against Kevin Rooney
-212,penalty,Tripping,Jordan Staal,Pavel Zacha,[31. 38.],3,03:55,CAR,NJD,CAR,12,NJD,1,5,2,8473533,8478401.0,Jordan Staal Tripping against Pavel Zacha
-13,penalty,Hi-sticking,Andrei Svechnikov,Kailer Yamamoto,[-80. -39.],1,15:33,CAR,EDM,CAR,12,EDM,22,1,0,8480830,8479977.0,Andrei Svechnikov Hi-sticking against Kailer Yamamoto
-74,penalty,Slashing,Adam Larsson,Andrei Svechnikov,[-85.  -4.],1,00:46,EDM,CAR,CAR,12,EDM,22,1,1,8476457,8480830.0,Adam Larsson Slashing against Andrei Svechnikov
-106,penalty,Roughing,Josh Archibald,Nino Niederreiter,[-82.  -9.],2,13:42,EDM,CAR,CAR,12,EDM,22,2,1,8476326,8475799.0,Josh Archibald Roughing against Nino Niederreiter
-107,penalty,Roughing,Erik Haula,Josh Archibald,[-81.  -6.],2,13:42,CAR,EDM,CAR,12,EDM,22,2,1,8475287,8476326.0,Erik Haula Roughing against Josh Archibald
-108,penalty,Roughing,Nino Niederreiter,Josh Archibald,[-87.  -9.],2,13:42,CAR,EDM,CAR,12,EDM,22,2,1,8475799,8476326.0,Nino Niederreiter Roughing against Josh Archibald
-131,penalty,Hooking,Erik Haula,Matt Benning,[23. 28.],2,06:26,CAR,EDM,CAR,12,EDM,22,2,1,8475287,8476988.0,Erik Haula Hooking against Matt Benning
-165,penalty,Holding,Jujhar Khaira,Haydn Fleury,[89.  5.],3,14:30,EDM,CAR,CAR,12,EDM,22,2,3,8476915,8477938.0,Jujhar Khaira Holding against Haydn Fleury
-176,penalty,Tripping,Colby Cave,Lucas Wallmark,[51.  8.],3,09:17,EDM,CAR,CAR,12,EDM,22,2,3,8477529,8478027.0,Colby Cave Tripping against Lucas Wallmark
-21,penalty,Slashing,Sebastian Aho,Viktor Arvidsson,[79.  5.],1,15:53,CAR,NSH,NSH,18,CAR,12,0,1,8478427,8478042.0,Sebastian Aho Slashing against Viktor Arvidsson
-88,penalty,Missing key [PD_151],Martin Necas,,[11. 40.],2,19:12,CAR,NSH,NSH,18,CAR,12,1,1,8480039,,Delaying Game - Unsucc. chlg served by Martin Necas
-94,penalty,Slashing,Kyle Turris,Erik Haula,[-81.   8.],2,16:20,NSH,CAR,NSH,18,CAR,12,1,1,8474068,8475287.0,Kyle Turris Slashing against Erik Haula
-140,penalty,Holding,Joel Edmundson,Matt Duchene,[-67.  -3.],2,03:19,CAR,NSH,NSH,18,CAR,12,1,3,8476441,8475168.0,Joel Edmundson Holding against Matt Duchene
-177,penalty,Hooking,Lucas Wallmark,Roman Josi,[94. -9.],3,13:46,CAR,NSH,NSH,18,CAR,12,1,4,8478027,8474600.0,Lucas Wallmark Hooking against Roman Josi
-220,penalty,Hi stick - double minor,Yannick Weber,Lucas Wallmark,[ -3. -33.],3,01:29,NSH,CAR,NSH,18,CAR,12,1,4,8474134,8478027.0,Yannick Weber Hi stick - double minor against Lucas Wallmark
-65,penalty,Interference,Jacob Trouba,Martin Necas,[-89. -28.],1,08:04,NYR,CAR,CAR,12,NYR,3,0,0,8476885,8480039.0,Jacob Trouba Interference against Martin Necas
-96,penalty,Interference,Jacob Trouba,Lucas Wallmark,[-68. -40.],1,02:14,NYR,CAR,CAR,12,NYR,3,0,1,8476885,8478027.0,Jacob Trouba Interference against Lucas Wallmark
-109,penalty,Slashing,Jordan Staal,Mika Zibanejad,[-43.   7.],2,18:46,CAR,NYR,CAR,12,NYR,3,0,1,8473533,8476459.0,Jordan Staal Slashing against Mika Zibanejad
-119,penalty,Tripping,Jesper Fast,Martin Necas,[-71.  30.],2,15:37,NYR,CAR,CAR,12,NYR,3,1,1,8475855,8480039.0,Jesper Fast Tripping against Martin Necas
-154,penalty,Roughing,Andrei Svechnikov,Jacob Trouba,[67. 12.],2,07:09,CAR,NYR,CAR,12,NYR,3,1,2,8480830,8476885.0,Andrei Svechnikov Roughing against Jacob Trouba
-155,penalty,Roughing,Jacob Trouba,Andrei Svechnikov,[62. 12.],2,07:09,NYR,CAR,CAR,12,NYR,3,1,2,8476885,8480830.0,Jacob Trouba Roughing against Andrei Svechnikov
-186,penalty,Slashing,Justin Williams,Mika Zibanejad,[ 77. -37.],2,00:39,CAR,NYR,CAR,12,NYR,3,1,3,8468508,8476459.0,Justin Williams Slashing against Mika Zibanejad
-201,penalty,Delaying Game - Puck over glass,Julien Gauthier,,[-86. -21.],3,16:27,NYR,CAR,CAR,12,NYR,3,1,4,8479328,,Julien Gauthier Delaying Game - Puck over glass
-216,penalty,Tripping,Warren Foegele,Adam Fox,[-49.  23.],3,12:35,CAR,NYR,CAR,12,NYR,3,2,4,8477998,8479323.0,Warren Foegele Tripping against Adam Fox
-235,penalty,Tripping,Sebastian Aho,Brett Howden,[92. 26.],3,07:20,CAR,NYR,CAR,12,NYR,3,2,4,8478427,8479353.0,Sebastian Aho Tripping against Brett Howden
-247,penalty,Slashing,Tony DeAngelo,Nino Niederreiter,[-65. -37.],3,03:41,NYR,CAR,CAR,12,NYR,3,2,4,8477950,8475799.0,Tony DeAngelo Slashing against Nino Niederreiter
-248,penalty,Charging,Nino Niederreiter,Tony DeAngelo,[-57. -35.],3,03:41,CAR,NYR,CAR,12,NYR,3,2,4,8475799,8477950.0,Nino Niederreiter Charging against Tony DeAngelo
-15,penalty,Interference,Zach Hyman,Jaccob Slavin,[-84.   2.],1,16:53,TOR,CAR,TOR,10,CAR,12,0,0,8475786,8476958.0,Zach Hyman Interference against Jaccob Slavin
-36,penalty,Boarding,Andrei Svechnikov,Tyson Barrie,[94. 28.],1,13:50,CAR,TOR,TOR,10,CAR,12,0,0,8480830,8475197.0,Andrei Svechnikov Boarding against Tyson Barrie
-49,penalty,Roughing,Nino Niederreiter,Kasperi Kapanen,[-80. -37.],1,10:29,CAR,TOR,TOR,10,CAR,12,0,0,8475799,8477953.0,Nino Niederreiter Roughing against Kasperi Kapanen
-142,penalty,Hi-sticking,William Nylander,Brett Pesce,[23. 39.],2,11:16,TOR,CAR,TOR,10,CAR,12,1,1,8477939,8477488.0,William Nylander Hi-sticking against Brett Pesce
-155,penalty,Charging,Kyle Clifford,Petr Mrazek,[ 48. -26.],2,08:41,TOR,CAR,TOR,10,CAR,12,1,3,8475160,8475852.0,Kyle Clifford Charging against Petr Mrazek
-172,penalty,Slashing,Erik Haula,Auston Matthews,[36. 11.],2,04:21,CAR,TOR,TOR,10,CAR,12,3,4,8475287,8479318.0,Erik Haula Slashing against Auston Matthews
-181,penalty,Fighting,Joel Edmundson,Kyle Clifford,[70. 36.],2,01:21,CAR,TOR,TOR,10,CAR,12,3,4,8476441,8475160.0,Joel Edmundson Fighting against Kyle Clifford
-182,penalty,Fighting,Kyle Clifford,Joel Edmundson,[68. 36.],2,01:21,TOR,CAR,TOR,10,CAR,12,3,4,8475160,8476441.0,Kyle Clifford Fighting against Joel Edmundson
-224,penalty,Hooking,Warren Foegele,Denis Malgin,[ 32. -24.],3,14:05,CAR,TOR,TOR,10,CAR,12,3,6,8477998,8478843.0,Warren Foegele Hooking against Denis Malgin
-241,penalty,Hooking,Alexander Kerfoot,Trevor van Riemsdyk,[-69.  39.],3,10:29,TOR,CAR,TOR,10,CAR,12,3,6,8477021,8477845.0,Alexander Kerfoot Hooking against Trevor van Riemsdyk
-270,penalty,Roughing,Kasperi Kapanen,Jordan Staal,[ -5. -38.],3,01:23,TOR,CAR,TOR,10,CAR,12,3,6,8477953,8473533.0,Kasperi Kapanen Roughing against Jordan Staal
-271,penalty,Roughing,Jordan Staal,Kasperi Kapanen,[ -5. -37.],3,01:23,CAR,TOR,TOR,10,CAR,12,3,6,8473533,8477953.0,Jordan Staal Roughing against Kasperi Kapanen
-45,penalty,Tripping,Tyler Seguin,Martin Necas,[-94.   5.],1,09:04,DAL,CAR,CAR,12,DAL,25,0,1,8475794,8480039.0,Tyler Seguin Tripping against Martin Necas
-56,penalty,Tripping,Vincent Trocheck,Joe Pavelski,[-46. -38.],1,04:18,CAR,DAL,CAR,12,DAL,25,0,1,8476389,8470794.0,Vincent Trocheck Tripping against Joe Pavelski
-83,penalty,Roughing,Mattias Janmark,Martin Necas,[ 77. -22.],2,17:07,DAL,CAR,CAR,12,DAL,25,1,3,8477406,8480039.0,Mattias Janmark Roughing against Martin Necas
-90,penalty,Hooking,Sebastian Aho,Roope Hintz,[-64.   4.],2,14:59,CAR,DAL,CAR,12,DAL,25,1,3,8478427,8478449.0,Sebastian Aho Hooking against Roope Hintz
-143,penalty,Hi-sticking,Jordan Martinook,Esa Lindell,[ 97. -22.],2,02:56,CAR,DAL,CAR,12,DAL,25,1,4,8476921,8476902.0,Jordan Martinook Hi-sticking against Esa Lindell
-183,penalty,Slashing,Corey Perry,Jordan Martinook,[-61.  37.],3,09:21,DAL,CAR,CAR,12,DAL,25,1,4,8470621,8476921.0,Corey Perry Slashing against Jordan Martinook
-208,penalty,Tripping,Esa Lindell,Jaccob Slavin,[-78.   3.],3,04:13,DAL,CAR,CAR,12,DAL,25,1,4,8476902,8476958.0,Esa Lindell Tripping against Jaccob Slavin
-15,penalty,Hi-sticking,Jordan Martinook,Samuel Girard,[39. 40.],1,17:06,CAR,COL,CAR,12,COL,21,0,0,8476921,8479398.0,Jordan Martinook Hi-sticking against Samuel Girard
-83,penalty,Hi-sticking,Joonas Donskoi,Haydn Fleury,[ 78. -12.],1,03:14,COL,CAR,CAR,12,COL,21,0,1,8475820,8477938.0,Joonas Donskoi Hi-sticking against Haydn Fleury
-120,penalty,Cross checking,Nikita Zadorov,Sebastian Aho,[82.  0.],2,15:25,COL,CAR,CAR,12,COL,21,0,1,8477507,8478427.0,Nikita Zadorov Cross checking against Sebastian Aho
-150,penalty,Tripping,Andrei Svechnikov,Cale Makar,[-29.  26.],2,10:36,CAR,COL,CAR,12,COL,21,0,1,8480830,8480069.0,Andrei Svechnikov Tripping against Cale Makar
-174,penalty,Too many men on the ice,Justin Williams,,[-13.  28.],2,05:25,CAR,COL,CAR,12,COL,21,0,2,8468508,,Too many men/ice served by Justin Williams
-222,penalty,Interference,Nikita Zadorov,Justin Williams,[-96.  12.],3,16:56,COL,CAR,CAR,12,COL,21,0,2,8477507,8468508.0,Nikita Zadorov Interference against Justin Williams
-41,penalty,Hi-sticking,Brett Kulak,Justin Williams,[86. 37.],1,13:59,MTL,CAR,MTL,8,CAR,12,1,0,8476967,8468508.0,Brett Kulak Hi-sticking against Justin Williams
-66,penalty,Too many men on the ice,Martin Necas,,[-14.  41.],1,08:46,CAR,MTL,MTL,8,CAR,12,1,0,8480039,,Too many men/ice served by Martin Necas
-170,penalty,Slashing,Justin Williams,Max Domi,[-36.  33.],2,02:01,CAR,MTL,MTL,8,CAR,12,3,1,8468508,8477503.0,Justin Williams Slashing against Max Domi
-217,penalty,Embellishment,Vincent Trocheck,Ben Chiarot,[ 79. -31.],3,13:22,CAR,MTL,MTL,8,CAR,12,3,2,8476389,8475279.0,Vincent Trocheck Embellishment against Ben Chiarot
-218,penalty,Cross checking,Ben Chiarot,Vincent Trocheck,[ 77. -35.],3,13:22,MTL,CAR,MTL,8,CAR,12,3,2,8475279,8476389.0,Ben Chiarot Cross checking against Vincent Trocheck
-235,penalty,Interference - Goalkeeper,Andrei Svechnikov,Charlie Lindgren,[86.  0.],3,10:24,CAR,MTL,MTL,8,CAR,12,3,2,8480830,8479292.0,Andrei Svechnikov Interference - Goalkeeper against Charlie Lindgren
-241,penalty,Tripping,Phillip Danault,Joel Edmundson,[-87.  25.],3,08:12,MTL,CAR,MTL,8,CAR,12,3,2,8476479,8476441.0,Phillip Danault Tripping against Joel Edmundson
-95,penalty,Holding the stick,Joel Edmundson,Claude Giroux,[71. -4.],2,18:00,CAR,PHI,PHI,4,CAR,12,1,0,8476441,8473512.0,Joel Edmundson Holding the stick against Claude Giroux
-122,penalty,Tripping,Jordan Martinook,Ivan Provorov,[69. 14.],2,12:44,CAR,PHI,PHI,4,CAR,12,1,0,8476921,8478500.0,Jordan Martinook Tripping against Ivan Provorov
-97,penalty,Hi stick - double minor,Leo Komarov,Brady Skjei,[96. -2.],1,03:02,NYI,CAR,NYI,2,CAR,12,0,1,8473463,8476869.0,Leo Komarov Hi stick - double minor against Brady Skjei
-125,penalty,Too many men on the ice,Jordan Eberle,,[-4.  0.],2,17:03,NYI,CAR,NYI,2,CAR,12,0,1,8474586,,Too many men/ice served by Jordan Eberle
-157,penalty,Roughing,Ryan Dzingel,Martin Necas,[-20.  31.],2,08:51,CAR,NYI,NYI,2,CAR,12,1,1,8476288,8480039.0,Ryan Dzingel Roughing against Anthony Beauvillier served by Martin Necas
-158,penalty,Fighting,Ryan Dzingel,Anthony Beauvillier,[-20.  30.],2,08:51,CAR,NYI,NYI,2,CAR,12,1,1,8476288,8478463.0,Ryan Dzingel Fighting against Anthony Beauvillier
-159,penalty,Fighting,Anthony Beauvillier,Ryan Dzingel,[-18.  30.],2,08:51,NYI,CAR,NYI,2,CAR,12,1,1,8478463,8476288.0,Anthony Beauvillier Fighting against Ryan Dzingel
-192,penalty,Delaying Game - Puck over glass,Andrei Svechnikov,,[-95.  -5.],2,02:06,CAR,NYI,NYI,2,CAR,12,1,1,8480830,,Andrei Svechnikov Delaying Game - Puck over glass
-281,penalty,Tripping,Brady Skjei,Mathew Barzal,[88. -8.],3,00:52,CAR,NYI,NYI,2,CAR,12,2,2,8476869,8478445.0,Brady Skjei Tripping against Mathew Barzal
-284,penalty,Hi stick - double minor,Mathew Barzal,Jordan Staal,[50. 39.],3,00:24,NYI,CAR,NYI,2,CAR,12,2,2,8478445,8473533.0,Mathew Barzal Hi stick - double minor against Jordan Staal
-3,penalty,Interference,Evgeni Malkin,Brady Skjei,[ 6. 20.],1,18:45,PIT,CAR,PIT,5,CAR,12,0,0,8471215,8476869.0,Evgeni Malkin Interference against Brady Skjei
-6,penalty,Cross checking,Andrei Svechnikov,Teddy Blueger,[-11.  41.],1,18:01,CAR,PIT,PIT,5,CAR,12,0,0,8480830,8476927.0,Andrei Svechnikov Cross checking against Teddy Blueger
-50,penalty,Hooking,Trevor van Riemsdyk,Jason Zucker,[86.  5.],1,09:39,CAR,PIT,PIT,5,CAR,12,1,1,8477845,8475722.0,Trevor van Riemsdyk Hooking against Jason Zucker
-55,penalty,Holding,Teddy Blueger,Brady Skjei,[98. -1.],1,07:28,PIT,CAR,PIT,5,CAR,12,1,1,8476927,8476869.0,Teddy Blueger Holding against Brady Skjei
-66,penalty,Interference,Morgan Geekie,Evan Rodrigues,[ 42. -18.],1,05:26,CAR,PIT,PIT,5,CAR,12,1,1,8479987,8478542.0,Morgan Geekie Interference against Evan Rodrigues
-70,penalty,Hi-sticking,Jordan Martinook,Jared McCann,[-31.  25.],1,03:48,CAR,PIT,PIT,5,CAR,12,1,1,8476921,8477955.0,Jordan Martinook Hi-sticking against Jared McCann
-119,penalty,Tripping,Warren Foegele,Evan Rodrigues,[-48. -40.],2,14:37,CAR,PIT,PIT,5,CAR,12,2,1,8477998,8478542.0,Warren Foegele Tripping against Evan Rodrigues
-133,penalty,Boarding,Vincent Trocheck,Jared McCann,[-95. -23.],2,11:30,CAR,PIT,PIT,5,CAR,12,2,1,8476389,8477955.0,Vincent Trocheck Boarding against Jared McCann
-166,penalty,Holding,Bryan Rust,Jake Gardiner,[-58. -40.],2,04:17,PIT,CAR,PIT,5,CAR,12,2,2,8475810,8474581.0,Bryan Rust Holding against Jake Gardiner
-172,penalty,Holding,Evan Rodrigues,Sebastian Aho,[ 86. -31.],2,02:38,PIT,CAR,PIT,5,CAR,12,2,2,8478542,8478427.0,Evan Rodrigues Holding against Sebastian Aho
-264,penalty,Hi-sticking,Warren Foegele,Evan Rodrigues,[71. -4.],3,02:26,CAR,PIT,PIT,5,CAR,12,2,6,8477998,8478542.0,Warren Foegele Hi-sticking against Evan Rodrigues
-40,penalty,Tripping,Brock McGinn,Jonathan Ericsson,[ 69. -34.],1,09:33,CAR,DET,DET,17,CAR,12,0,1,8476934,8470318.0,Brock McGinn Tripping against Jonathan Ericsson
-109,penalty,Interference,Jonathan Ericsson,Warren Foegele,[-26. -20.],2,12:19,DET,CAR,DET,17,CAR,12,1,1,8470318,8477998.0,Jonathan Ericsson Interference against Warren Foegele
-129,penalty,Tripping,Jordan Martinook,Jonathan Ericsson,[-53. -18.],2,07:55,CAR,DET,DET,17,CAR,12,1,2,8476921,8470318.0,Jordan Martinook Tripping against Jonathan Ericsson
-147,penalty,Hooking,Nino Niederreiter,Gustav Lindstrom,[-95.  15.],2,02:03,CAR,DET,DET,17,CAR,12,2,2,8475799,8480184.0,Nino Niederreiter Hooking against Gustav Lindstrom
-153,penalty,Interference,Anthony Mantha,Trevor van Riemsdyk,[ 62. -21.],2,00:57,DET,CAR,DET,17,CAR,12,2,2,8477511,8477845.0,Anthony Mantha Interference against Trevor van Riemsdyk
-154,penalty,Roughing,Jordan Staal,Tyler Bertuzzi,[ 50. -22.],2,00:57,CAR,DET,DET,17,CAR,12,2,2,8473533,8477479.0,Jordan Staal Roughing against Tyler Bertuzzi
-156,penalty,Roughing,Tyler Bertuzzi,Jordan Staal,[ 47. -19.],2,00:57,DET,CAR,DET,17,CAR,12,2,2,8477479,8473533.0,Tyler Bertuzzi Roughing against Jordan Staal
-166,penalty,Tripping,Darren Helm,Martin Necas,[ 45. -38.],3,19:25,DET,CAR,DET,17,CAR,12,2,2,8471794,8480039.0,Darren Helm Tripping against Martin Necas
-180,penalty,Boarding,Martin Necas,Sam Gagner,[-38. -40.],3,16:22,CAR,DET,DET,17,CAR,12,2,3,8480039,8474040.0,Martin Necas Boarding against Sam Gagner
-195,penalty,Hooking,Brady Skjei,Dmytro Timashov,[-76.  -4.],3,12:36,CAR,DET,DET,17,CAR,12,2,4,8476869,8478857.0,Brady Skjei Hooking against Dmytro Timashov
-222,penalty,Roughing,Anthony Mantha,Frans Nielsen,[ 52. -35.],3,04:07,DET,CAR,DET,17,CAR,12,2,4,8477511,8470144.0,Anthony Mantha Roughing against Jordan Staal served by Frans Nielsen
-223,penalty,Roughing,Jordan Staal,Anthony Mantha,[ 50. -38.],3,04:07,CAR,DET,DET,17,CAR,12,2,4,8473533,8477511.0,Jordan Staal Roughing against Anthony Mantha
-227,penalty,Interference - Goalkeeper,Robby Fabbri,Petr Mrazek,[-85.  -1.],3,03:00,DET,CAR,DET,17,CAR,12,2,4,8477952,8475852.0,Robby Fabbri Interference - Goalkeeper against Petr Mrazek
-228,penalty,Roughing,Robby Fabbri,Haydn Fleury,[-95. -10.],3,03:00,DET,CAR,DET,17,CAR,12,2,4,8477952,8477938.0,Robby Fabbri Roughing against Haydn Fleury
-229,penalty,Roughing,Haydn Fleury,Robby Fabbri,[-96. -12.],3,03:00,CAR,DET,DET,17,CAR,12,2,4,8477938,8477952.0,Haydn Fleury Roughing against Robby Fabbri
-230,penalty,Misconduct,Vincent Trocheck,,[-98. -11.],3,03:00,CAR,DET,DET,17,CAR,12,2,4,8476389,,Vincent Trocheck Misconduct
-231,penalty,Misconduct,Tyler Bertuzzi,,[-97. -19.],3,03:00,DET,CAR,DET,17,CAR,12,2,4,8477479,,Tyler Bertuzzi Misconduct
-16,penalty,Interference,Jordan Martinook,Artturi Lehkonen,[52. 15.],1,16:48,CAR,MTL,CAR,12,MTL,8,0,0,8476921,8477476.0,Jordan Martinook Interference against Artturi Lehkonen
-119,penalty,Face-off violation,Jesperi Kotkaniemi,,[ 50. -23.],2,19:21,MTL,CAR,CAR,12,MTL,8,1,0,8480829,,Delay Game - Bench – FO viol served by Jesperi Kotkaniemi
-128,penalty,Interference,Brett Pesce,Joel Armia,[-85.  -7.],2,16:44,CAR,MTL,CAR,12,MTL,8,2,0,8477488,8476469.0,Brett Pesce Interference against Joel Armia
-158,penalty,Holding,Ben Chiarot,Jordan Martinook,[72. 10.],2,11:32,MTL,CAR,CAR,12,MTL,8,2,2,8475279,8476921.0,Ben Chiarot Holding against Jordan Martinook
-229,penalty,Boarding,Jordan Martinook,Jesperi Kotkaniemi,[-75.  39.],3,17:06,CAR,MTL,CAR,12,MTL,8,2,3,8476921,8480829.0,Jordan Martinook Boarding against Jesperi Kotkaniemi
-235,penalty,Too many men on the ice,Jesperi Kotkaniemi,,[-39.  38.],3,15:13,MTL,CAR,CAR,12,MTL,8,2,3,8480829,,Too many men/ice served by Jesperi Kotkaniemi
-39,penalty,Interference,Jonas Siegenthaler,Andrei Svechnikov,[ 31. -36.],1,13:15,WSH,CAR,WSH,15,CAR,12,0,0,8478399,8480830.0,Jonas Siegenthaler Interference against Andrei Svechnikov
-48,penalty,Interference,Erik Haula,John Carlson,[ 85. -13.],1,11:49,CAR,WSH,WSH,15,CAR,12,0,0,8475287,8474590.0,Erik Haula Interference against John Carlson
-100,penalty,Slashing,Nino Niederreiter,Nicklas Backstrom,[-34. -27.],1,00:38,CAR,WSH,WSH,15,CAR,12,1,0,8475799,8473563.0,Nino Niederreiter Slashing against Nicklas Backstrom
-116,penalty,Tripping,Jordan Staal,Nick Jensen,[ 93. -31.],2,15:31,CAR,WSH,WSH,15,CAR,12,1,0,8473533,8475324.0,Jordan Staal Tripping against Nick Jensen
-130,penalty,Interference,Jonas Siegenthaler,Erik Haula,[-80.   9.],2,11:41,WSH,CAR,WSH,15,CAR,12,1,0,8478399,8475287.0,Jonas Siegenthaler Interference against Erik Haula
-148,penalty,Tripping,Martin Necas,T.J. Oshie,[31.  7.],2,06:35,CAR,WSH,WSH,15,CAR,12,2,0,8480039,8471698.0,Martin Necas Tripping against T.J. Oshie
-168,penalty,Hi-sticking,Andrei Svechnikov,Nicklas Backstrom,[30.  2.],2,01:09,CAR,WSH,WSH,15,CAR,12,2,0,8480830,8473563.0,Andrei Svechnikov Hi-sticking against Nicklas Backstrom
-177,penalty,Interference,Radko Gudas,Ryan Dzingel,[67. 18.],3,18:01,WSH,CAR,WSH,15,CAR,12,2,0,8475462,8476288.0,Radko Gudas Interference against Ryan Dzingel
-205,penalty,Tripping,Tom Wilson,Jaccob Slavin,[45. 21.],3,12:43,WSH,CAR,WSH,15,CAR,12,2,1,8476880,8476958.0,Tom Wilson Tripping against Jaccob Slavin
-225,penalty,Hi-sticking,Lars Eller,Joel Edmundson,[-85.  11.],3,07:31,WSH,CAR,WSH,15,CAR,12,2,2,8474189,8476441.0,Lars Eller Hi-sticking against Joel Edmundson
-226,penalty,Holding the stick,Joel Edmundson,Lars Eller,[-85.  11.],3,07:31,CAR,WSH,WSH,15,CAR,12,2,2,8476441,8474189.0,Joel Edmundson Holding the stick against Lars Eller
-248,penalty,Hooking,Jordan Staal,Nicklas Backstrom,[69. -3.],4,04:41,CAR,WSH,WSH,15,CAR,12,2,2,8473533,8473563.0,Jordan Staal Hooking against Nicklas Backstrom
-56,penalty,Interference,Joel Edmundson,Steven Stamkos,[72. -1.],1,10:12,CAR,TBL,CAR,12,TBL,14,1,1,8476441,8474564.0,Joel Edmundson Interference against Steven Stamkos
-94,penalty,Hooking,Anthony Cirelli,Nino Niederreiter,[-58.  -3.],1,04:57,TBL,CAR,CAR,12,TBL,14,1,2,8478519,8475799.0,Anthony Cirelli Hooking against Nino Niederreiter
-121,penalty,Tripping,Dougie Hamilton,Mathieu Joseph,[-48. -10.],2,19:05,CAR,TBL,CAR,12,TBL,14,1,3,8476462,8478472.0,Dougie Hamilton Tripping against Mathieu Joseph
-163,penalty,Hooking,Victor Hedman,Jordan Staal,[72.  1.],2,07:29,TBL,CAR,CAR,12,TBL,14,1,3,8475167,8473533.0,Victor Hedman Hooking against Jordan Staal
-185,penalty,Hooking,Steven Stamkos,Andrei Svechnikov,[ 69. -15.],2,04:20,TBL,CAR,CAR,12,TBL,14,2,3,8474564,8480830.0,Steven Stamkos Hooking against Andrei Svechnikov
-188,penalty,Tripping,Teuvo Teravainen,Anthony Cirelli,[ 61. -13.],2,04:10,CAR,TBL,CAR,12,TBL,14,2,3,8476882,8478519.0,Teuvo Teravainen Tripping against Anthony Cirelli
-221,penalty,Hooking,Warren Foegele,Ryan McDonagh,[-95.   7.],3,14:27,CAR,TBL,CAR,12,TBL,14,2,3,8477998,8474151.0,Warren Foegele Hooking against Ryan McDonagh
-243,penalty,Hooking,Braydon Coburn,Warren Foegele,[-81.  -2.],3,07:34,TBL,CAR,CAR,12,TBL,14,2,3,8470601,8477998.0,Braydon Coburn Hooking against Warren Foegele
-271,penalty,Interference,Kevin Shattenkirk,Nino Niederreiter,[-84.   4.],3,00:45,TBL,CAR,CAR,12,TBL,14,3,3,8474031,8475799.0,Kevin Shattenkirk Interference against Nino Niederreiter
-29,penalty,Hooking,Nino Niederreiter,Aaron Ekblad,[-52. -14.],1,12:10,CAR,FLA,FLA,13,CAR,12,0,1,8475799,8477932.0,Nino Niederreiter Hooking against Aaron Ekblad
-35,penalty,Hooking,Sebastian Aho,Aleksander Barkov,[-66.  -1.],1,11:20,CAR,FLA,FLA,13,CAR,12,0,1,8478427,8477493.0,Sebastian Aho Hooking against Aleksander Barkov
-63,penalty,Roughing,Jayce Hawryluk,Lucas Wallmark,[36.  0.],1,05:04,FLA,CAR,FLA,13,CAR,12,0,2,8477963,8478027.0,Jayce Hawryluk Roughing against Lucas Wallmark
-64,penalty,Roughing,Lucas Wallmark,Jordan Martinook,[40. -1.],1,05:04,CAR,FLA,FLA,13,CAR,12,0,2,8478027,8476921.0,Lucas Wallmark Roughing against Jayce Hawryluk served by Jordan Martinook
-77,penalty,Hi-sticking,Dryden Hunt,Haydn Fleury,[-97.  18.],1,02:28,FLA,CAR,FLA,13,CAR,12,0,3,8478211,8477938.0,Dryden Hunt Hi-sticking against Haydn Fleury
-129,penalty,Tripping,Dougie Hamilton,Mike Hoffman,[81. -1.],2,12:52,CAR,FLA,FLA,13,CAR,12,1,5,8476462,8474884.0,Dougie Hamilton Tripping against Mike Hoffman
-150,penalty,Tripping,Jonathan Huberdeau,Jaccob Slavin,[50. -1.],2,07:53,FLA,CAR,FLA,13,CAR,12,1,5,8476456,8476958.0,Jonathan Huberdeau Tripping against Jaccob Slavin
-169,penalty,Interference,Joel Edmundson,Frank Vatrano,[ 92. -12.],2,03:45,CAR,FLA,FLA,13,CAR,12,1,5,8476441,8478366.0,Joel Edmundson Interference against Frank Vatrano
-186,penalty,Hi-sticking,Henrik Borgstrom,Martin Necas,[-17. -29.],2,00:43,FLA,CAR,FLA,13,CAR,12,1,5,8479404,8480039.0,Henrik Borgstrom Hi-sticking against Martin Necas
-215,penalty,Roughing,Andrei Svechnikov,Jonathan Huberdeau,[-66.  10.],3,11:55,CAR,FLA,FLA,13,CAR,12,1,5,8480830,8476456.0,Andrei Svechnikov Roughing against Jonathan Huberdeau
-216,penalty,Roughing,Jonathan Huberdeau,Andrei Svechnikov,[-69.  14.],3,11:55,FLA,CAR,FLA,13,CAR,12,1,5,8476456,8480830.0,Jonathan Huberdeau Roughing against Andrei Svechnikov
-218,penalty,Holding the stick,Nino Niederreiter,Aaron Ekblad,[-67.   7.],3,11:42,CAR,FLA,FLA,13,CAR,12,1,5,8475799,8477932.0,Nino Niederreiter Holding the stick against Aaron Ekblad
-243,penalty,Tripping,Brock McGinn,Jonathan Huberdeau,[-33.   4.],3,06:02,CAR,FLA,FLA,13,CAR,12,2,5,8476934,8476456.0,Brock McGinn Tripping against Jonathan Huberdeau
-45,penalty,Interference,Dougie Hamilton,Matt Martin,[ 83. -10.],1,11:32,CAR,NYI,CAR,12,NYI,2,1,0,8476462,8474709.0,Dougie Hamilton Interference against Matt Martin
-62,penalty,Hi-sticking,Michael Dal Colle,Jake Gardiner,[-26. -30.],1,08:01,NYI,CAR,CAR,12,NYI,2,1,1,8477936,8474581.0,Michael Dal Colle Hi-sticking against Jake Gardiner
-97,penalty,Hi-sticking,Derick Brassard,Brock McGinn,[-87. -38.],1,01:11,NYI,CAR,CAR,12,NYI,2,2,1,8473544,8476934.0,Derick Brassard Hi-sticking against Brock McGinn
-100,penalty,Delay of game,Andrei Svechnikov,,[ 4. 39.],1,00:04,CAR,NYI,CAR,12,NYI,2,2,1,8480830,,Delay of Game - Bench served by Andrei Svechnikov
-138,penalty,Slashing,Ryan Dzingel,Johnny Boychuk,[-47.   7.],2,12:50,CAR,NYI,CAR,12,NYI,2,2,2,8476288,8470187.0,Ryan Dzingel Slashing against Johnny Boychuk
-140,penalty,Holding,Anthony Beauvillier,Joel Edmundson,[-71.   2.],2,12:40,NYI,CAR,CAR,12,NYI,2,2,2,8478463,8476441.0,Anthony Beauvillier Holding against Joel Edmundson
-145,penalty,Holding,Andrei Svechnikov,Anders Lee,[-28.  -1.],2,11:10,CAR,NYI,CAR,12,NYI,2,2,2,8480830,8475314.0,Andrei Svechnikov Holding against Anders Lee
-246,penalty,Hi-sticking,Julien Gauthier,Devon Toews,[-84.  -9.],3,07:03,CAR,NYI,CAR,12,NYI,2,4,2,8479328,8478038.0,Julien Gauthier Hi-sticking against Devon Toews
-11,penalty,Hooking,Alexandre Texier,Haydn Fleury,[96. 34.],1,15:41,CBJ,CAR,CAR,12,CBJ,29,0,0,8480074,8477938.0,Alexandre Texier Hooking against Haydn Fleury
-51,penalty,Tripping,Andrei Svechnikov,David Savard,[-92. -34.],1,08:08,CAR,CBJ,CAR,12,CBJ,29,1,1,8480830,8475233.0,Andrei Svechnikov Tripping against David Savard
-78,penalty,Holding,Jordan Staal,Pierre-Luc Dubois,[82. 17.],1,03:26,CAR,CBJ,CAR,12,CBJ,29,1,1,8473533,8479400.0,Jordan Staal Holding against Pierre-Luc Dubois
-83,penalty,Interference,Seth Jones,Lucas Wallmark,[12.  1.],1,02:23,CBJ,CAR,CAR,12,CBJ,29,1,1,8477495,8478027.0,Seth Jones Interference against Lucas Wallmark
-149,penalty,Tripping,Boone Jenner,Sebastian Aho,[-66.  37.],2,09:50,CBJ,CAR,CAR,12,CBJ,29,2,2,8476432,8478427.0,Boone Jenner Tripping against Sebastian Aho
-164,penalty,Holding,Haydn Fleury,Jakob Lilja,[-70. -39.],2,05:29,CAR,CBJ,CAR,12,CBJ,29,2,2,8477938,8481650.0,Haydn Fleury Holding against Jakob Lilja
-6,penalty,Slashing,Ryan Dzingel,Ilya Kovalchuk,[ 81. -30.],1,18:18,CAR,LAK,LAK,26,CAR,12,0,0,8476288,8469454.0,Ryan Dzingel Slashing against Ilya Kovalchuk
-35,penalty,Interference,Brock McGinn,Blake Lizotte,[  0. -36.],1,11:29,CAR,LAK,LAK,26,CAR,12,0,0,8476934,8481481.0,Brock McGinn Interference against Blake Lizotte
-52,penalty,Hooking,Anze Kopitar,Jordan Staal,[71. -6.],1,07:07,LAK,CAR,LAK,26,CAR,12,0,0,8471685,8473533.0,Anze Kopitar Hooking against Jordan Staal
-70,penalty,Holding,Alec Martinez,Erik Haula,[ 92. -32.],1,03:00,LAK,CAR,LAK,26,CAR,12,0,0,8474166,8475287.0,Alec Martinez Holding against Erik Haula
-107,penalty,Hi-sticking,Adrian Kempe,Joel Edmundson,[ 54. -35.],2,15:02,LAK,CAR,LAK,26,CAR,12,0,1,8477960,8476441.0,Adrian Kempe Hi-sticking against Joel Edmundson
-132,penalty,Tripping,Lucas Wallmark,Trevor Lewis,[67. 32.],2,06:44,CAR,LAK,LAK,26,CAR,12,0,1,8478027,8473453.0,Lucas Wallmark Tripping against Trevor Lewis
-135,penalty,Interference,Drew Doughty,Sebastian Aho,[22. 34.],2,05:41,LAK,CAR,LAK,26,CAR,12,0,1,8474563,8478427.0,Drew Doughty Interference against Sebastian Aho
-198,penalty,Holding,Brett Pesce,Blake Lizotte,[-71.  -8.],3,05:48,CAR,LAK,LAK,26,CAR,12,0,1,8477488,8481481.0,Brett Pesce Holding against Blake Lizotte
-216,penalty,Boarding,Jordan Staal,Drew Doughty,[-95.  27.],3,01:14,CAR,LAK,LAK,26,CAR,12,0,1,8473533,8474563.0,Jordan Staal Boarding against Drew Doughty
-76,penalty,Tripping,Nino Niederreiter,Tomas Hertl,[-41.  25.],1,03:34,CAR,SJS,SJS,28,CAR,12,1,1,8475799,8476881.0,Nino Niederreiter Tripping against Tomas Hertl
-95,penalty,Tripping,Andrei Svechnikov,Erik Karlsson,[-96.  -9.],1,00:23,CAR,SJS,SJS,28,CAR,12,2,1,8480830,8474578.0,Andrei Svechnikov Tripping against Erik Karlsson
-135,penalty,Tripping,Jaccob Slavin,Barclay Goodrow,[-55.  39.],2,12:52,CAR,SJS,SJS,28,CAR,12,3,1,8476958,8476624.0,Jaccob Slavin Tripping against Barclay Goodrow
-138,penalty,Holding the stick,Joe Thornton,Lucas Wallmark,[-89. -27.],2,10:52,SJS,CAR,SJS,28,CAR,12,3,1,8466138,8478027.0,Joe Thornton Holding the stick against Lucas Wallmark
-161,penalty,Hooking,Patrick Marleau,Jaccob Slavin,[45. 34.],2,04:43,SJS,CAR,SJS,28,CAR,12,4,1,8466139,8476958.0,Patrick Marleau Hooking against Jaccob Slavin
-169,penalty,Hooking,Barclay Goodrow,Andrei Svechnikov,[53. 28.],2,03:28,SJS,CAR,SJS,28,CAR,12,4,1,8476624,8480830.0,Barclay Goodrow Hooking against Andrei Svechnikov
-196,penalty,Tripping,Nino Niederreiter,Tomas Hertl,[ 66. -35.],3,13:32,CAR,SJS,SJS,28,CAR,12,4,1,8475799,8476881.0,Nino Niederreiter Tripping against Tomas Hertl
-209,penalty,Holding,Kevin Labanc,Haydn Fleury,[-75. -14.],3,07:48,SJS,CAR,SJS,28,CAR,12,4,1,8478099,8477938.0,Kevin Labanc Holding against Haydn Fleury
-35,penalty,Hooking,Adam Henrique,Jordan Staal,[-80.   9.],1,08:34,ANA,CAR,ANA,24,CAR,12,1,0,8474641,8473533.0,Adam Henrique Hooking against Jordan Staal
-72,penalty,Hooking,Nino Niederreiter,Derek Grant,[88. 26.],2,18:08,CAR,ANA,ANA,24,CAR,12,3,0,8475799,8474683.0,Nino Niederreiter Hooking against Derek Grant
-77,penalty,Holding,Devin Shore,Sebastian Aho,[-65.  38.],2,15:24,ANA,CAR,ANA,24,CAR,12,3,0,8476913,8478427.0,Devin Shore Holding against Sebastian Aho
-95,penalty,Interference,Hampus Lindholm,Martin Necas,[55.  0.],2,11:20,ANA,CAR,ANA,24,CAR,12,4,0,8476854,8480039.0,Hampus Lindholm Interference against Martin Necas
-118,penalty,Fighting,Joel Edmundson,Josh Manson,[53. 23.],2,06:21,CAR,ANA,ANA,24,CAR,12,4,2,8476441,8476312.0,Joel Edmundson Fighting against Josh Manson
-119,penalty,Fighting,Josh Manson,Joel Edmundson,[71. 37.],2,06:21,ANA,CAR,ANA,24,CAR,12,4,2,8476312,8476441.0,Josh Manson Fighting against Joel Edmundson
-46,penalty,Hooking,Jordan Staal,Cam Atkinson,[68. 38.],1,07:05,CAR,CBJ,CBJ,29,CAR,12,1,3,8473533,8474715.0,Jordan Staal Hooking against Cam Atkinson
-85,penalty,Holding,Brett Pesce,Alexandre Texier,[-24.   9.],2,15:25,CAR,CBJ,CBJ,29,CAR,12,1,3,8477488,8480074.0,Brett Pesce Holding against Alexandre Texier
-129,penalty,Tripping,Seth Jones,Nino Niederreiter,[-11.  37.],2,02:30,CBJ,CAR,CBJ,29,CAR,12,3,3,8477495,8475799.0,Seth Jones Tripping against Nino Niederreiter
-147,penalty,Hi-sticking,Sonny Milano,Sebastian Aho,[-97.   8.],3,17:52,CBJ,CAR,CBJ,29,CAR,12,3,3,8477947,8478427.0,Sonny Milano Hi-sticking against Sebastian Aho
-171,penalty,Hooking,Oliver Bjorkstrand,Andrei Svechnikov,[-63.  -1.],3,11:13,CBJ,CAR,CBJ,29,CAR,12,3,3,8477416,8480830.0,Oliver Bjorkstrand Hooking against Andrei Svechnikov
-183,penalty,Slashing,Joel Edmundson,Pierre-Luc Dubois,[ 70. -20.],3,06:54,CAR,CBJ,CBJ,29,CAR,12,3,3,8476441,8479400.0,Joel Edmundson Slashing against Pierre-Luc Dubois
-184,penalty,Slashing,Pierre-Luc Dubois,Joel Edmundson,[ 73. -15.],3,06:54,CBJ,CAR,CBJ,29,CAR,12,3,3,8479400,8476441.0,Pierre-Luc Dubois Slashing against Joel Edmundson
-23,penalty,Hi-sticking,Duncan Keith,Jaccob Slavin,[-99.   9.],1,15:48,CHI,CAR,CAR,12,CHI,16,0,0,8470281,8476958.0,Duncan Keith Hi-sticking against Jaccob Slavin
-30,penalty,Boarding,Jake Gardiner,Alex Nylander,[69. 42.],1,15:01,CAR,CHI,CAR,12,CHI,16,1,0,8474581,8479423.0,Jake Gardiner Boarding against Alex Nylander
-134,penalty,Hooking,Martin Necas,Alex Nylander,[-67.   2.],2,09:06,CAR,CHI,CAR,12,CHI,16,1,0,8480039,8479423.0,Martin Necas Hooking against Alex Nylander
-186,penalty,Holding,Kirby Dach,Warren Foegele,[-58.  31.],3,18:24,CHI,CAR,CAR,12,CHI,16,2,0,8481523,8477998.0,Kirby Dach Holding against Warren Foegele
-239,penalty,Tripping,Joel Edmundson,Alex Nylander,[ 34. -25.],3,06:02,CAR,CHI,CAR,12,CHI,16,3,0,8476441,8479423.0,Joel Edmundson Tripping against Alex Nylander
-31,penalty,Hi-sticking,Warren Foegele,Sean Monahan,[ 93. -25.],1,14:19,CAR,CGY,CAR,12,CGY,20,0,0,8477998,8477497.0,Warren Foegele Hi-sticking against Sean Monahan
-33,penalty,Interference,Mark Giordano,Brian Gibbons,[12. 41.],1,13:16,CGY,CAR,CAR,12,CGY,20,0,0,8470966,8476207.0,Mark Giordano Interference against Brian Gibbons
-121,penalty,Slashing,Brock McGinn,Andrew Mangiapane,[-69.   0.],2,10:38,CAR,CGY,CAR,12,CGY,20,0,1,8476934,8478233.0,Brock McGinn Slashing against Andrew Mangiapane
-196,penalty,Hooking,Mark Giordano,Brock McGinn,[-69.   9.],3,13:52,CGY,CAR,CAR,12,CGY,20,0,1,8470966,8476934.0,Mark Giordano Hooking against Brock McGinn
-215,penalty,Roughing,Matthew Tkachuk,Trevor van Riemsdyk,[16. 41.],3,07:57,CGY,CAR,CAR,12,CGY,20,1,1,8479314,8477845.0,Matthew Tkachuk Roughing against Trevor van Riemsdyk
-232,penalty,Tripping,Dougie Hamilton,Andrew Mangiapane,[41. 40.],3,02:32,CAR,CGY,CAR,12,CGY,20,2,1,8476462,8478233.0,Dougie Hamilton Tripping against Andrew Mangiapane
-8,penalty,Hi-sticking,Erik Haula,Taro Hirose,[-25.  15.],1,18:52,CAR,DET,CAR,12,DET,17,0,0,8475287,8481433.0,Erik Haula Hi-sticking against Taro Hirose
-29,penalty,Interference,Patrik Nemeth,Nino Niederreiter,[  1. -24.],1,14:17,DET,CAR,CAR,12,DET,17,0,0,8475747,8475799.0,Patrik Nemeth Interference against Nino Niederreiter
-30,penalty,Embellishment,Nino Niederreiter,,[-22. -23.],1,14:17,CAR,DET,CAR,12,DET,17,0,0,8475799,,Nino Niederreiter Embellishment
-75,penalty,Tripping,Filip Hronek,Brock McGinn,[-71.  -2.],1,02:45,DET,CAR,CAR,12,DET,17,1,1,8479425,8476934.0,Filip Hronek Tripping against Brock McGinn
-94,penalty,Delay of game,Brendan Perlini,,[-2. 31.],2,19:33,DET,CAR,CAR,12,DET,17,2,1,8477943,,Delay of Game - Bench served by Brendan Perlini
-135,penalty,Hi-sticking,Sebastian Aho,Brendan Perlini,[-46.  -1.],2,12:03,CAR,DET,CAR,12,DET,17,3,1,8478427,8477943.0,Sebastian Aho Hi-sticking against Brendan Perlini
-181,penalty,Tripping,Tyler Bertuzzi,Jaccob Slavin,[-62.  37.],2,00:36,DET,CAR,CAR,12,DET,17,5,3,8477479,8476958.0,Tyler Bertuzzi Tripping against Jaccob Slavin
-188,penalty,Hi-sticking,Jordan Staal,Valtteri Filppula,[-22. -26.],3,19:04,CAR,DET,CAR,12,DET,17,5,3,8473533,8470047.0,Jordan Staal Hi-sticking against Valtteri Filppula
-204,penalty,Holding,Trevor van Riemsdyk,Anthony Mantha,[ 65. -13.],3,13:17,CAR,DET,CAR,12,DET,17,6,3,8477845,8477511.0,Trevor van Riemsdyk Holding against Anthony Mantha
-227,penalty,Hi-sticking,Dougie Hamilton,Tyler Bertuzzi,[77.  2.],3,06:22,CAR,DET,CAR,12,DET,17,6,3,8476462,8477479.0,Dougie Hamilton Hi-sticking against Tyler Bertuzzi
-58,penalty,Hooking,Andrei Svechnikov,Pavel Zacha,[-57. -39.],1,06:44,CAR,NJD,CAR,12,NJD,1,1,1,8480830,8478401.0,Andrei Svechnikov Hooking against Pavel Zacha
-67,penalty,Delaying Game - Puck over glass,Matt Tennyson,,[-86. -34.],1,04:10,NJD,CAR,CAR,12,NJD,1,1,1,8476807,,Matt Tennyson Delaying Game - Puck over glass
-71,penalty,Hooking,Blake Coleman,Andrei Svechnikov,[-97.   1.],1,03:24,NJD,CAR,CAR,12,NJD,1,2,1,8476399,8480830.0,Blake Coleman Hooking against Andrei Svechnikov
-78,penalty,Tripping,Dougie Hamilton,Nico Hischier,[-7. 39.],1,01:32,CAR,NJD,CAR,12,NJD,1,2,1,8476462,8480002.0,Dougie Hamilton Tripping against Nico Hischier
-115,penalty,Hooking,Travis Zajac,Jake Gardiner,[35. 39.],2,14:37,NJD,CAR,CAR,12,NJD,1,2,3,8471233,8474581.0,Travis Zajac Hooking against Jake Gardiner
-174,penalty,Roughing,Kevin Rooney,Andrei Svechnikov,[ 7. 40.],2,00:00,NJD,CAR,CAR,12,NJD,1,3,3,8479291,8480830.0,Kevin Rooney Roughing against Andrei Svechnikov
-175,penalty,Roughing,Andrei Svechnikov,Kevin Rooney,[ 3. 41.],2,00:00,CAR,NJD,CAR,12,NJD,1,3,3,8480830,8479291.0,Andrei Svechnikov Roughing against Kevin Rooney
-177,penalty,Tripping,Dougie Hamilton,Taylor Hall,[-4. 16.],3,19:56,CAR,NJD,CAR,12,NJD,1,3,3,8476462,8475791.0,Dougie Hamilton Tripping against Taylor Hall
-179,penalty,Interference,Kyle Palmieri,Jaccob Slavin,[ 87. -24.],3,19:43,NJD,CAR,CAR,12,NJD,1,3,3,8475151,8476958.0,Kyle Palmieri Interference against Jaccob Slavin
-207,penalty,Roughing,Ryan Dzingel,Pavel Zacha,[ 0. 39.],3,11:56,CAR,NJD,CAR,12,NJD,1,3,4,8476288,8478401.0,Ryan Dzingel Roughing against Pavel Zacha
-208,penalty,Roughing,Pavel Zacha,Ryan Dzingel,[-7. 22.],3,11:56,NJD,CAR,CAR,12,NJD,1,3,4,8478401,8476288.0,Pavel Zacha Roughing against Ryan Dzingel
-217,penalty,Hooking,Warren Foegele,Taylor Hall,[ 28. -16.],3,09:57,CAR,NJD,CAR,12,NJD,1,3,4,8477998,8475791.0,Warren Foegele Hooking against Taylor Hall
-15,penalty,Hi-sticking,Joel Edmundson,Travis Konecny,[-92. -30.],1,17:44,CAR,PHI,PHI,4,CAR,12,0,0,8476441,8478439.0,Joel Edmundson Hi-sticking against Travis Konecny
-29,penalty,Tripping,Joel Farabee,Dougie Hamilton,[-96. -26.],1,13:44,PHI,CAR,PHI,4,CAR,12,1,0,8480797,8476462.0,Joel Farabee Tripping against Dougie Hamilton
-84,penalty,Holding,Jake Gardiner,Michael Raffl,[95. 25.],2,18:52,CAR,PHI,PHI,4,CAR,12,1,0,8474581,8477290.0,Jake Gardiner Holding against Michael Raffl
-88,penalty,Hooking,Ivan Provorov,Sebastian Aho,[-75.  -4.],2,18:43,PHI,CAR,PHI,4,CAR,12,1,0,8478500,8478427.0,Ivan Provorov Hooking against Sebastian Aho
-161,penalty,Cross checking,Joel Edmundson,Tyler Pitlick,[-95. -27.],3,17:57,CAR,PHI,PHI,4,CAR,12,2,1,8476441,8475752.0,Joel Edmundson Cross checking against Tyler Pitlick
-188,penalty,Tripping,Ivan Provorov,Warren Foegele,[89. 23.],3,12:20,PHI,CAR,PHI,4,CAR,12,2,1,8478500,8477998.0,Ivan Provorov Tripping against Warren Foegele
-19,penalty,Roughing,Lias Andersson,Brock McGinn,[ 1. 40.],1,16:28,NYR,CAR,CAR,12,NYR,3,0,0,8480072,8476934.0,Lias Andersson Roughing against Brock McGinn
-43,penalty,Tripping,Marc Staal,Eetu Luostarinen,[-95.  25.],1,10:50,NYR,CAR,CAR,12,NYR,3,0,0,8471686,8480185.0,Marc Staal Tripping against Eetu Luostarinen
-144,penalty,Interference,Jake Gardiner,Brendan Lemieux,[-89.  27.],2,12:15,CAR,NYR,CAR,12,NYR,3,0,1,8474581,8477962.0,Jake Gardiner Interference against Brendan Lemieux
-191,penalty,Tripping,Brett Pesce,Kaapo Kakko,[-79.  -5.],2,02:14,CAR,NYR,CAR,12,NYR,3,1,1,8477488,8481554.0,Brett Pesce Tripping against Kaapo Kakko
-1,penalty,Slashing,Jordan Staal,Anthony Duclair,[82. -6.],1,19:51,CAR,OTT,OTT,9,CAR,12,0,0,8473533,8477407.0,Jordan Staal Slashing against Anthony Duclair
-10,penalty,Slashing,Thomas Chabot,Sebastian Aho,[-67.   2.],1,18:57,OTT,CAR,OTT,9,CAR,12,0,0,8478469,8478427.0,Thomas Chabot Slashing against Sebastian Aho
-21,penalty,Tripping,Dylan DeMelo,Nino Niederreiter,[-91. -11.],1,16:27,OTT,CAR,OTT,9,CAR,12,0,0,8476331,8475799.0,Dylan DeMelo Tripping against Nino Niederreiter
-26,penalty,Fighting,Ryan Dzingel,Vladislav Namestnikov,[-9. 37.],1,15:40,CAR,OTT,OTT,9,CAR,12,0,0,8476288,8476480.0,Ryan Dzingel Fighting against Vladislav Namestnikov
-27,penalty,Fighting,Vladislav Namestnikov,Ryan Dzingel,[-11.  38.],1,15:40,OTT,CAR,OTT,9,CAR,12,0,0,8476480,8476288.0,Vladislav Namestnikov Fighting against Ryan Dzingel
-55,penalty,Slashing,Warren Foegele,Colin White,[64.  2.],1,08:17,CAR,OTT,OTT,9,CAR,12,1,0,8477998,8478400.0,Warren Foegele Slashing against Colin White
-134,penalty,Tripping,Erik Brannstrom,Warren Foegele,[91. 10.],2,16:03,OTT,CAR,OTT,9,CAR,12,3,0,8480073,8477998.0,Erik Brannstrom Tripping against Warren Foegele
-161,penalty,Hi-sticking,Chris Tierney,Jordan Staal,[85. 13.],2,09:45,OTT,CAR,OTT,9,CAR,12,3,0,8476919,8473533.0,Chris Tierney Hi-sticking against Jordan Staal
-213,penalty,Tripping,Warren Foegele,Nick Paul,[-48. -28.],2,00:16,CAR,OTT,OTT,9,CAR,12,3,1,8477998,8477426.0,Warren Foegele Tripping against Nick Paul
-308,penalty,Cross checking,Joel Edmundson,Brady Tkachuk,[ 91. -30.],3,01:34,CAR,OTT,OTT,9,CAR,12,4,1,8476441,8480801.0,Joel Edmundson Cross checking against Brady Tkachuk
-37,penalty,Fighting,Bobby Ryan,Brock McGinn,[ 61. -16.],1,11:22,OTT,CAR,CAR,12,OTT,9,1,0,8471676,8476934.0,Bobby Ryan Fighting against Brock McGinn
-38,penalty,Fighting,Brock McGinn,Bobby Ryan,[ 59. -11.],1,11:22,CAR,OTT,CAR,12,OTT,9,1,0,8476934,8471676.0,Brock McGinn Fighting against Bobby Ryan
-80,penalty,Interference,Jean-Gabriel Pageau,Warren Foegele,[45. 24.],1,03:50,OTT,CAR,CAR,12,OTT,9,1,0,8476419,8477998.0,Jean-Gabriel Pageau Interference against Warren Foegele
-97,penalty,Holding,Teuvo Teravainen,Jean-Gabriel Pageau,[-74.   3.],1,00:47,CAR,OTT,CAR,12,OTT,9,2,0,8476882,8476419.0,Teuvo Teravainen Holding against Jean-Gabriel Pageau
-109,penalty,Holding,Jake Gardiner,Chris Tierney,[-89.  31.],2,17:36,CAR,OTT,CAR,12,OTT,9,2,0,8474581,8476919.0,Jake Gardiner Holding against Chris Tierney
-154,penalty,Tripping,Nick Paul,Brett Pesce,[-19. -19.],2,10:32,OTT,CAR,CAR,12,OTT,9,3,0,8477426,8477488.0,Nick Paul Tripping against Brett Pesce
-211,penalty,Hooking,Erik Brannstrom,Joel Edmundson,[-65.   8.],3,16:35,OTT,CAR,CAR,12,OTT,9,6,1,8480073,8476441.0,Erik Brannstrom Hooking against Joel Edmundson
-224,penalty,Too many men on the ice,Ryan Dzingel,,[10. 41.],3,13:46,CAR,OTT,CAR,12,OTT,9,6,1,8476288,,Too many men/ice served by Ryan Dzingel
-277,penalty,Unsportsmanlike conduct,Ryan Dzingel,Nick Paul,[-14.  14.],3,04:05,CAR,OTT,CAR,12,OTT,9,7,2,8476288,8477426.0,Ryan Dzingel Unsportsmanlike conduct against Nick Paul
-278,penalty,Roughing,Nick Paul,Ryan Dzingel,[-15.  13.],3,04:05,OTT,CAR,CAR,12,OTT,9,7,2,8477426,8476288.0,Nick Paul Roughing against Ryan Dzingel
-31,penalty,Slashing,Sebastian Aho,Jack Eichel,[61.  5.],1,11:22,CAR,BUF,BUF,7,CAR,12,1,0,8478427,8478403.0,Sebastian Aho Slashing against Jack Eichel
-51,penalty,Holding,Brian Gibbons,Jimmy Vesey,[-65. -37.],1,05:51,CAR,BUF,BUF,7,CAR,12,1,1,8476207,8476918.0,Brian Gibbons Holding against Jimmy Vesey
-55,penalty,Hooking,Kyle Okposo,Lucas Wallmark,[41. -8.],1,04:22,BUF,CAR,BUF,7,CAR,12,1,1,8473449,8478027.0,Kyle Okposo Hooking against Lucas Wallmark
-104,penalty,Hi-sticking,Andrei Svechnikov,Henri Jokiharju,[23. 40.],2,12:58,CAR,BUF,BUF,7,CAR,12,1,3,8480830,8480035.0,Andrei Svechnikov Hi-sticking against Henri Jokiharju
-160,penalty,Hi-sticking,Johan Larsson,Ryan Dzingel,[-77.  39.],3,14:57,BUF,CAR,BUF,7,CAR,12,2,3,8475728,8476288.0,Johan Larsson Hi-sticking against Ryan Dzingel
-203,penalty,Hi-sticking,Sam Reinhart,Joel Edmundson,[82. -1.],3,04:27,BUF,CAR,BUF,7,CAR,12,3,3,8477933,8476441.0,Sam Reinhart Hi-sticking against Joel Edmundson
-207,penalty,Misconduct,Sam Reinhart,Andrei Svechnikov,[ -6. -41.],3,03:54,BUF,CAR,BUF,7,CAR,12,3,4,8477933,8480830.0,Sam Reinhart Misconduct against Andrei Svechnikov
-230,penalty,Interference,Rasmus Ristolainen,Andrei Svechnikov,[-36. -23.],4,03:41,BUF,CAR,BUF,7,CAR,12,4,4,8477499,8480830.0,Rasmus Ristolainen Interference against Andrei Svechnikov
-231,penalty,Holding,Andrei Svechnikov,Rasmus Ristolainen,[-37. -18.],4,03:41,CAR,BUF,BUF,7,CAR,12,4,4,8480830,8477499.0,Andrei Svechnikov Holding against Rasmus Ristolainen
-237,penalty,Game misconduct,Rasmus Ristolainen,,[  0. -39.],4,02:32,BUF,CAR,BUF,7,CAR,12,4,5,8477499,,Rasmus Ristolainen Game misconduct
-46,penalty,Tripping,Erik Haula,Mats Zuccarello,[-94.  16.],1,08:26,CAR,MIN,MIN,30,CAR,12,0,2,8475287,8475692.0,Erik Haula Tripping against Mats Zuccarello
-62,penalty,Roughing,Matt Dumba,Joel Edmundson,[-82.  -5.],1,03:55,MIN,CAR,MIN,30,CAR,12,0,2,8476856,8476441.0,Matt Dumba Roughing against Joel Edmundson
-63,penalty,Roughing,Joel Edmundson,Matt Dumba,[-81.  -1.],1,03:55,CAR,MIN,MIN,30,CAR,12,0,2,8476441,8476856.0,Joel Edmundson Roughing against Matt Dumba
-87,penalty,Interference,Trevor van Riemsdyk,Joel Eriksson Ek,[80. -1.],2,18:10,CAR,MIN,MIN,30,CAR,12,0,2,8477845,8478493.0,Trevor van Riemsdyk Interference against Joel Eriksson Ek
-122,penalty,Tripping,Dougie Hamilton,Jordan Greenway,[60. 34.],2,08:31,CAR,MIN,MIN,30,CAR,12,1,3,8476462,8478413.0,Dougie Hamilton Tripping against Jordan Greenway
-131,penalty,Tripping,Kevin Fiala,Martin Necas,[-59.  35.],2,06:09,MIN,CAR,MIN,30,CAR,12,1,3,8477942,8480039.0,Kevin Fiala Tripping against Martin Necas
-175,penalty,Interference,Ryan Hartman,Lucas Wallmark,[-27. -13.],3,12:02,MIN,CAR,MIN,30,CAR,12,3,3,8477451,8478027.0,Ryan Hartman Interference against Lucas Wallmark
-119,penalty,Tripping,Dougie Hamilton,Dominik Kubalik,[-29.   2.],2,11:46,CAR,CHI,CHI,16,CAR,12,0,2,8476462,8477330.0,Dougie Hamilton Tripping against Dominik Kubalik
-148,penalty,Tripping,Patrick Kane,Eetu Luostarinen,[-67. -35.],2,06:27,CHI,CAR,CHI,16,CAR,12,0,3,8474141,8480185.0,Patrick Kane Tripping against Eetu Luostarinen
-202,penalty,Holding,Jake Gardiner,Dylan Strome,[-47.  40.],3,14:14,CAR,CHI,CHI,16,CAR,12,0,3,8474581,8478440.0,Jake Gardiner Holding against Dylan Strome
-238,penalty,Interference,Brett Pesce,Andrew Shaw,[-82.   2.],3,06:11,CAR,CHI,CHI,16,CAR,12,2,3,8477488,8476381.0,Brett Pesce Interference against Andrew Shaw
-276,penalty,Misconduct,Patrick Kane,,[22. -1.],3,00:18,CHI,CAR,CHI,16,CAR,12,2,4,8474141,,Patrick Kane Misconduct
-10,penalty,Tripping,Jakub Voracek,Ryan Dzingel,[ 56. -27.],1,16:06,PHI,CAR,CAR,12,PHI,4,1,0,8474161,8476288.0,Jakub Voracek Tripping against Ryan Dzingel
-21,penalty,Face-off violation,Ryan Dzingel,,[-69.  22.],1,14:47,CAR,PHI,CAR,12,PHI,4,2,0,8476288,,Delay Game - Bench – FO viol served by Ryan Dzingel
-26,penalty,Unsportsmanlike conduct,Jakub Voracek,Jaccob Slavin,[ 21. -34.],1,13:41,PHI,CAR,CAR,12,PHI,4,2,0,8474161,8476958.0,Jakub Voracek Unsportsmanlike conduct against Jaccob Slavin
-43,penalty,Misconduct,Joel Edmundson,,[ 2. 41.],1,07:41,CAR,PHI,CAR,12,PHI,4,2,1,8476441,,Joel Edmundson Misconduct
-44,penalty,Slashing,Joel Edmundson,Ryan Dzingel,[61. 10.],1,07:41,CAR,PHI,CAR,12,PHI,4,2,1,8476441,8476288.0,Joel Edmundson Slashing against Morgan Frost served by Ryan Dzingel
-76,penalty,Slashing,Travis Konecny,Sebastian Aho,[ 62. -33.],2,19:03,PHI,CAR,CAR,12,PHI,4,2,2,8478439,8478427.0,Travis Konecny Slashing against Sebastian Aho
-91,penalty,Interference,Claude Giroux,Andrei Svechnikov,[ 66. -29.],2,14:52,PHI,CAR,CAR,12,PHI,4,2,3,8473512,8480830.0,Claude Giroux Interference against Andrei Svechnikov
-156,penalty,Interference,Nino Niederreiter,Oskar Lindblom,[19.  0.],2,00:19,CAR,PHI,CAR,12,PHI,4,2,3,8475799,8478067.0,Nino Niederreiter Interference against Oskar Lindblom
-198,penalty,Hi-sticking,Joel Farabee,Eetu Luostarinen,[-78.  39.],3,08:23,PHI,CAR,CAR,12,PHI,4,3,4,8480797,8480185.0,Joel Farabee Hi-sticking against Eetu Luostarinen
-21,penalty,Hi-sticking,Ryan Dzingel,Josh Brown,[-90.  10.],1,13:59,CAR,FLA,CAR,12,FLA,13,0,0,8476288,8477384.0,Ryan Dzingel Hi-sticking against Josh Brown
-78,penalty,Tripping,Brett Pesce,Frank Vatrano,[65.  3.],1,00:21,CAR,FLA,CAR,12,FLA,13,2,2,8477488,8478366.0,Brett Pesce Tripping against Frank Vatrano
-220,penalty,Tripping,Brian Boyle,Joel Edmundson,[ 97. -19.],3,07:12,FLA,CAR,CAR,12,FLA,13,3,2,8470619,8476441.0,Brian Boyle Tripping against Joel Edmundson
-229,penalty,Too many men on the ice,Evgenii Dadonov,,[-6. 37.],3,05:00,FLA,CAR,CAR,12,FLA,13,3,2,8474149,,Too many men/ice served by Evgenii Dadonov
-76,penalty,Hi-sticking,Dylan Larkin,Brett Pesce,[-59. -35.],1,05:27,DET,CAR,DET,17,CAR,12,0,0,8477946,8477488.0,Dylan Larkin Hi-sticking against Brett Pesce
-116,penalty,Interference,Valtteri Filppula,Dougie Hamilton,[76. 27.],2,14:07,DET,CAR,DET,17,CAR,12,0,0,8470047,8476462.0,Valtteri Filppula Interference against Dougie Hamilton
-226,penalty,Hooking,Nino Niederreiter,Andreas Athanasiou,[-24.  15.],3,02:27,CAR,DET,DET,17,CAR,12,0,1,8475799,8476960.0,Nino Niederreiter Hooking against Andreas Athanasiou
-3,penalty,Holding,Joel Edmundson,Pavel Buchnevich,[-68.  37.],1,19:12,CAR,NYR,NYR,3,CAR,12,0,0,8476441,8477402.0,Joel Edmundson Holding against Pavel Buchnevich
-17,penalty,Hooking,Jordan Martinook,Kaapo Kakko,[-71.  16.],1,17:21,CAR,NYR,NYR,3,CAR,12,0,0,8476921,8481554.0,Jordan Martinook Hooking against Kaapo Kakko
-79,penalty,Tripping,Mika Zibanejad,Jaccob Slavin,[-62.  21.],1,06:16,NYR,CAR,NYR,3,CAR,12,2,0,8476459,8476958.0,Mika Zibanejad Tripping against Jaccob Slavin
-152,penalty,Slashing,Adam Fox,Haydn Fleury,[-73.   0.],2,09:58,NYR,CAR,NYR,3,CAR,12,3,0,8479323,8477938.0,Adam Fox Slashing against Haydn Fleury
-156,penalty,Hooking,Nino Niederreiter,Mika Zibanejad,[-88. -29.],2,09:06,CAR,NYR,NYR,3,CAR,12,3,0,8475799,8476459.0,Nino Niederreiter Hooking against Mika Zibanejad
-170,penalty,Too many men on the ice,Pavel Buchnevich,,[14. 40.],2,06:33,NYR,CAR,NYR,3,CAR,12,3,0,8477402,,Too many men/ice served by Pavel Buchnevich
-200,penalty,Hi-sticking,Ryan Strome,Dougie Hamilton,[ 69. -37.],2,01:36,NYR,CAR,NYR,3,CAR,12,3,2,8476458,8476462.0,Ryan Strome Hi-sticking against Dougie Hamilton
-255,penalty,Interference,Dougie Hamilton,Ryan Strome,[-94.  19.],3,09:31,CAR,NYR,NYR,3,CAR,12,3,2,8476462,8476458.0,Dougie Hamilton Interference against Ryan Strome
-287,penalty,Tripping,Filip Chytil,Lucas Wallmark,[ 54. -32.],3,03:10,NYR,CAR,NYR,3,CAR,12,3,2,8480078,8478027.0,Filip Chytil Tripping against Lucas Wallmark
-300,penalty,Tripping,Sebastian Aho,Brett Howden,[41. 39.],3,00:36,CAR,NYR,NYR,3,CAR,12,3,2,8478427,8479353.0,Sebastian Aho Tripping against Brett Howden
-61,penalty,Roughing,Andrei Svechnikov,Rocco Grimaldi,[-61. -28.],1,07:25,CAR,NSH,CAR,12,NSH,18,0,1,8480830,8476428.0,Andrei Svechnikov Roughing against Rocco Grimaldi
-83,penalty,Hi-sticking,Colton Sissons,Dougie Hamilton,[61.  2.],1,01:42,NSH,CAR,CAR,12,NSH,18,0,2,8476925,8476462.0,Colton Sissons Hi-sticking against Dougie Hamilton
-145,penalty,Too many men on the ice,Daniel Carr,,[-13.  40.],2,08:46,NSH,CAR,CAR,12,NSH,18,0,3,8477901,,Too many men/ice served by Daniel Carr
-165,penalty,Interference,Jake Gardiner,Craig Smith,[ 6. 29.],2,04:07,CAR,NSH,CAR,12,NSH,18,0,3,8474581,8475225.0,Jake Gardiner Interference against Craig Smith
-194,penalty,Tripping,Jake Gardiner,Filip Forsberg,[81. 35.],3,17:01,CAR,NSH,CAR,12,NSH,18,0,3,8474581,8476887.0,Jake Gardiner Tripping against Filip Forsberg
-211,penalty,Elbowing,Austin Watson,Haydn Fleury,[-32.  31.],3,13:44,NSH,CAR,CAR,12,NSH,18,0,3,8475766,8477938.0,Austin Watson Elbowing against Haydn Fleury
-248,penalty,Holding,Joel Edmundson,Filip Forsberg,[84. 32.],3,02:40,CAR,NSH,CAR,12,NSH,18,0,3,8476441,8476887.0,Joel Edmundson Holding against Filip Forsberg
-13,penalty,Too many men on the ice,Carter Verhaeghe,,[-11.  31.],1,15:49,TBL,CAR,TBL,14,CAR,12,0,0,8477409,,Too many men/ice served by Carter Verhaeghe
-64,penalty,Holding,Trevor van Riemsdyk,Pat Maroon,[92. 16.],1,03:02,CAR,TBL,TBL,14,CAR,12,0,2,8477845,8474034.0,Trevor van Riemsdyk Holding against Pat Maroon
-85,penalty,Roughing,Brock McGinn,Yanni Gourde,[-81.   5.],2,19:21,CAR,TBL,TBL,14,CAR,12,0,3,8476934,8476826.0,Brock McGinn Roughing against Yanni Gourde
-97,penalty,Tripping,Clark Bishop,Cedric Paquette,[78. 29.],2,16:14,CAR,TBL,TBL,14,CAR,12,0,3,8478056,8476975.0,Clark Bishop Tripping against Cedric Paquette
-175,penalty,Holding,Jake Gardiner,Anthony Cirelli,[ 78. -33.],3,17:21,CAR,TBL,TBL,14,CAR,12,0,3,8474581,8478519.0,Jake Gardiner Holding against Anthony Cirelli
-188,penalty,Hi-sticking,Joel Edmundson,Cedric Paquette,[56. 32.],3,14:10,CAR,TBL,TBL,14,CAR,12,1,3,8476441,8476975.0,Joel Edmundson Hi-sticking against Cedric Paquette
-208,penalty,Tripping,Yanni Gourde,Jordan Staal,[ 76. -28.],3,09:58,TBL,CAR,TBL,14,CAR,12,2,3,8476826,8473533.0,Yanni Gourde Tripping against Jordan Staal
-210,penalty,Hooking,Ryan Dzingel,Ryan McDonagh,[-92.  18.],3,09:51,CAR,TBL,TBL,14,CAR,12,2,3,8476288,8474151.0,Ryan Dzingel Hooking against Ryan McDonagh
-226,penalty,Hooking,Steven Stamkos,Jordan Staal,[-95.  18.],3,05:26,TBL,CAR,TBL,14,CAR,12,2,3,8474564,8473533.0,Steven Stamkos Hooking against Jordan Staal
-241,penalty,Slashing,Victor Hedman,Andrei Svechnikov,[54. 41.],3,00:35,TBL,CAR,TBL,14,CAR,12,2,3,8475167,8480830.0,Victor Hedman Slashing against Andrei Svechnikov
-242,penalty,Misconduct,Pat Maroon,,[-30.   3.],3,00:35,TBL,CAR,TBL,14,CAR,12,2,3,8474034,,Pat Maroon Misconduct
-11,penalty,Tripping,Jake Gardiner,Jake DeBrusk,[80. -6.],1,17:35,CAR,BOS,BOS,6,CAR,12,0,0,8474581,8478498.0,Jake Gardiner Tripping against Jake DeBrusk
-47,penalty,Holding,Jordan Martinook,Matt Grzelcyk,[-10.  35.],1,09:14,CAR,BOS,BOS,6,CAR,12,0,0,8476921,8476891.0,Jordan Martinook Holding against Matt Grzelcyk
-73,penalty,Tripping,Jake DeBrusk,Joel Edmundson,[ 78. -35.],1,05:13,BOS,CAR,BOS,6,CAR,12,0,0,8478498,8476441.0,Jake DeBrusk Tripping against Joel Edmundson
-93,penalty,Roughing,David Pastrnak,Warren Foegele,[-54. -20.],1,01:26,BOS,CAR,BOS,6,CAR,12,0,0,8477956,8477998.0,David Pastrnak Roughing against Warren Foegele
-41,penalty,Hooking,Brett Pesce,Kevin Labanc,[78. -1.],1,10:22,CAR,SJS,CAR,12,SJS,28,1,1,8477488,8478099.0,Brett Pesce Hooking against Kevin Labanc
-81,penalty,Slashing,Brent Burns,Nino Niederreiter,[74. -2.],2,16:16,SJS,CAR,CAR,12,SJS,28,1,1,8470613,8475799.0,Brent Burns Slashing against Nino Niederreiter
-119,penalty,Roughing,Joe Thornton,Noah Gregor,[-96.   5.],2,07:10,SJS,CAR,CAR,12,SJS,28,2,1,8466138,8479393.0,Joe Thornton Roughing against Petr Mrazek served by Noah Gregor
-120,penalty,Slashing,Joe Thornton,Petr Mrazek,[-87.   7.],2,07:10,SJS,CAR,CAR,12,SJS,28,2,1,8466138,8475852.0,Joe Thornton Slashing against Petr Mrazek
-121,penalty,Slashing,Petr Mrazek,Warren Foegele,[-89.   5.],2,07:10,CAR,SJS,CAR,12,SJS,28,2,1,8475852,8477998.0,Petr Mrazek Slashing against Joe Thornton served by Warren Foegele
-166,penalty,Too many men on the ice,Andrei Svechnikov,,[-1.  2.],3,15:44,CAR,SJS,CAR,12,SJS,28,2,2,8480830,,Too many men/ice served by Andrei Svechnikov
-182,penalty,Tripping,Erik Karlsson,Andrei Svechnikov,[-57. -14.],3,11:41,SJS,CAR,CAR,12,SJS,28,2,2,8474578,8480830.0,Erik Karlsson Tripping against Andrei Svechnikov
-69,penalty,Holding,Joel Eriksson Ek,Sebastian Aho,[57. 38.],1,05:50,MIN,CAR,CAR,12,MIN,30,1,1,8478493,8478427.0,Joel Eriksson Ek Holding against Sebastian Aho
-70,penalty,Tripping,Jordan Greenway,Sebastian Aho,[56. 40.],1,05:50,MIN,CAR,CAR,12,MIN,30,1,1,8478413,8478427.0,Jordan Greenway Tripping against Sebastian Aho
-82,penalty,Interference,Jaccob Slavin,Eric Staal,[-29. -35.],1,03:35,CAR,MIN,CAR,12,MIN,30,2,1,8476958,8470595.0,Jaccob Slavin Interference against Eric Staal
-137,penalty,Holding the stick,Lucas Wallmark,Victor Rask,[-75.  14.],2,10:30,CAR,MIN,CAR,12,MIN,30,3,2,8478027,8476437.0,Lucas Wallmark Holding the stick against Victor Rask
-160,penalty,Hi-sticking,Kevin Fiala,Ryan Dzingel,[  0. -28.],2,05:30,MIN,CAR,CAR,12,MIN,30,3,2,8477942,8476288.0,Kevin Fiala Hi-sticking against Ryan Dzingel
-166,penalty,Interference,Lucas Wallmark,Mats Zuccarello,[-26.   2.],2,04:06,CAR,MIN,CAR,12,MIN,30,4,2,8478027,8475692.0,Lucas Wallmark Interference against Mats Zuccarello
-250,penalty,Tripping,Clark Bishop,Victor Rask,[-82. -38.],3,02:51,CAR,MIN,CAR,12,MIN,30,5,2,8478056,8476437.0,Clark Bishop Tripping against Victor Rask
-29,penalty,Hooking,Julien Gauthier,Oscar Klefbom,[-91.  25.],1,13:28,CAR,EDM,EDM,22,CAR,12,0,1,8479328,8476472.0,Julien Gauthier Hooking against Oscar Klefbom
-60,penalty,Tripping,Nino Niederreiter,Leon Draisaitl,[-40. -31.],1,06:45,CAR,EDM,EDM,22,CAR,12,0,1,8475799,8477934.0,Nino Niederreiter Tripping against Leon Draisaitl
-74,penalty,Elbowing,Darnell Nurse,Nino Niederreiter,[-92.  -8.],1,03:20,EDM,CAR,EDM,22,CAR,12,0,1,8477498,8475799.0,Darnell Nurse Elbowing against Nino Niederreiter
-90,penalty,Interference,Zack Kassian,Teuvo Teravainen,[-43. -37.],1,00:10,EDM,CAR,EDM,22,CAR,12,0,2,8475178,8476882.0,Zack Kassian Interference against Teuvo Teravainen
-179,penalty,Hooking,Ryan Nugent-Hopkins,Martin Necas,[52. 31.],2,04:08,EDM,CAR,EDM,22,CAR,12,1,3,8476454,8480039.0,Ryan Nugent-Hopkins Hooking against Martin Necas
-203,penalty,Delaying Game - Puck over glass,Jaccob Slavin,,[93. 18.],3,19:39,CAR,EDM,EDM,22,CAR,12,1,3,8476958,,Jaccob Slavin Delaying Game - Puck over glass
-208,penalty,Hi-sticking,Teuvo Teravainen,Connor McDavid,[61. 35.],3,19:01,CAR,EDM,EDM,22,CAR,12,1,3,8476882,8478402.0,Teuvo Teravainen Hi-sticking against Connor McDavid
-214,penalty,PS - Covering puck in crease,Brett Pesce,,[87.  0.],3,18:12,CAR,EDM,EDM,22,CAR,12,1,3,8477488,,Brett Pesce PS - Covering puck in crease
-255,penalty,Roughing,Zack Kassian,James Reimer,[88.  3.],3,09:00,EDM,CAR,EDM,22,CAR,12,3,4,8475178,8473503.0,Zack Kassian Roughing against James Reimer
-261,penalty,Misconduct,Zack Kassian,,[ -5. -38.],3,07:44,EDM,CAR,EDM,22,CAR,12,3,5,8475178,,Zack Kassian Misconduct
-279,penalty,Slashing,Dougie Hamilton,Markus Granlund,[ 71. -14.],3,01:42,CAR,EDM,EDM,22,CAR,12,3,6,8476462,8476440.0,Dougie Hamilton Slashing against Markus Granlund
-15,penalty,Tripping,Dougie Hamilton,Josh Leivo,[-96. -23.],1,15:39,CAR,VAN,VAN,23,CAR,12,0,0,8476462,8476410.0,Dougie Hamilton Tripping against Josh Leivo
-32,penalty,Hooking,Martin Necas,Zack MacEwen,[-26.  24.],1,10:40,CAR,VAN,VAN,23,CAR,12,0,0,8480039,8479772.0,Martin Necas Hooking against Zack MacEwen
-52,penalty,Tripping,Ryan Dzingel,Quinn Hughes,[ 86. -37.],1,03:01,CAR,VAN,VAN,23,CAR,12,0,0,8476288,8480800.0,Ryan Dzingel Tripping against Quinn Hughes
-84,penalty,Tripping,Antoine Roussel,Jordan Martinook,[61. 14.],2,14:41,VAN,CAR,VAN,23,CAR,12,0,0,8474849,8476921.0,Antoine Roussel Tripping against Jordan Martinook
-95,penalty,Tripping,Christopher Tanev,Nino Niederreiter,[-94.   7.],2,12:07,VAN,CAR,VAN,23,CAR,12,0,0,8475690,8475799.0,Christopher Tanev Tripping against Nino Niederreiter
-121,penalty,Holding,Julien Gauthier,Adam Gaudette,[31.  4.],2,07:06,CAR,VAN,VAN,23,CAR,12,0,0,8479328,8478874.0,Julien Gauthier Holding against Adam Gaudette
-137,penalty,Hi-sticking,Tyler Myers,Nino Niederreiter,[-83. -36.],2,02:57,VAN,CAR,VAN,23,CAR,12,0,0,8474574,8475799.0,Tyler Myers Hi-sticking against Nino Niederreiter
-183,penalty,Tripping,Jake Virtanen,Brett Pesce,[39. -7.],3,12:44,VAN,CAR,VAN,23,CAR,12,0,0,8477937,8477488.0,Jake Virtanen Tripping against Brett Pesce
-186,penalty,Interference,Andrei Svechnikov,Jay Beagle,[34. 38.],3,12:32,CAR,VAN,VAN,23,CAR,12,0,0,8480830,8474291.0,Andrei Svechnikov Interference against Jay Beagle
-20,penalty,Hooking,Martin Necas,TJ Brodie,[56. 31.],1,14:44,CAR,CGY,CGY,20,CAR,12,0,0,8480039,8474673.0,Martin Necas Hooking against TJ Brodie
-32,penalty,Interference,Mark Jankowski,Jordan Martinook,[-71. -35.],1,12:10,CGY,CAR,CGY,20,CAR,12,0,0,8476873,8476921.0,Mark Jankowski Interference against Jordan Martinook
-138,penalty,Missing key [PD_151],Matthew Tkachuk,,[10. 40.],2,07:25,CGY,CAR,CGY,20,CAR,12,0,1,8479314,,Delaying Game - Unsucc. chlg served by Matthew Tkachuk
-144,penalty,Hi-sticking,Jordan Staal,Mark Giordano,[-66.  37.],2,06:55,CAR,CGY,CGY,20,CAR,12,0,1,8473533,8470966.0,Jordan Staal Hi-sticking against Mark Giordano
-147,penalty,Slashing,Mark Giordano,Ryan Dzingel,[-66.   0.],2,06:47,CGY,CAR,CGY,20,CAR,12,0,1,8470966,8476288.0,Mark Giordano Slashing against Ryan Dzingel
-201,penalty,Tripping,Martin Necas,TJ Brodie,[69. 35.],3,10:45,CAR,CGY,CGY,20,CAR,12,0,2,8480039,8474673.0,Martin Necas Tripping against TJ Brodie
-209,penalty,Hooking,Haydn Fleury,Derek Ryan,[-80.  -5.],3,08:23,CAR,CGY,CGY,20,CAR,12,0,2,8477938,8478585.0,Haydn Fleury Hooking against Derek Ryan
-220,penalty,Tripping,Jordan Staal,Milan Lucic,[32. 30.],3,06:05,CAR,CGY,CGY,20,CAR,12,0,2,8473533,8473473.0,Jordan Staal Tripping against Milan Lucic
-233,penalty,Slashing,Sean Monahan,Jordan Staal,[-65. -19.],3,03:15,CGY,CAR,CGY,20,CAR,12,0,3,8477497,8473533.0,Sean Monahan Slashing against Jordan Staal
-240,penalty,Hooking,Lucas Wallmark,Elias Lindholm,[-81.   5.],3,00:57,CAR,CGY,CGY,20,CAR,12,0,3,8478027,8477496.0,Lucas Wallmark Hooking against Elias Lindholm
-66,penalty,Holding,Jake Gardiner,Neal Pionk,[-77.   1.],1,06:16,CAR,WPG,WPG,52,CAR,12,0,0,8474581,8480145.0,Jake Gardiner Holding against Neal Pionk
-83,penalty,Delaying Game - Puck over glass,Josh Morrissey,,[98. 20.],1,02:35,WPG,CAR,WPG,52,CAR,12,0,0,8477504,,Josh Morrissey Delaying Game - Puck over glass
-168,penalty,Holding,Anthony Bitetto,Ryan Dzingel,[-46.  13.],2,02:08,WPG,CAR,WPG,52,CAR,12,2,4,8475868,8476288.0,Anthony Bitetto Holding against Ryan Dzingel
-211,penalty,Slashing,Sebastian Aho,Nikolaj Ehlers,[ 33. -23.],3,08:51,CAR,WPG,WPG,52,CAR,12,2,6,8478427,8477940.0,Sebastian Aho Slashing against Nikolaj Ehlers
-2,penalty,Tripping,James Reimer,Nino Niederreiter,[-86.   1.],1,19:04,CAR,COL,COL,21,CAR,12,0,0,8473503,8475799.0,James Reimer Tripping against Valeri Nichushkin served by Nino Niederreiter
-38,penalty,Hi-sticking,Lucas Wallmark,J.T. Compher,[-54. -16.],1,10:26,CAR,COL,COL,21,CAR,12,0,0,8478027,8477456.0,Lucas Wallmark Hi-sticking against J.T. Compher
-51,penalty,Too many men on the ice,Andrei Svechnikov,,[-13.  42.],1,06:57,CAR,COL,COL,21,CAR,12,0,0,8480830,,Too many men/ice served by Andrei Svechnikov
-104,penalty,Too many men on the ice,Tyson Jost,,[ 8. 40.],2,16:06,COL,CAR,COL,21,CAR,12,0,0,8479370,,Too many men/ice served by Tyson Jost
-121,penalty,Hooking,Dougie Hamilton,Andre Burakovsky,[ 59. -37.],2,12:10,CAR,COL,COL,21,CAR,12,0,0,8476462,8477444.0,Dougie Hamilton Hooking against Andre Burakovsky
-131,penalty,Delaying Game - Puck over glass,Warren Foegele,,[ 32. -39.],2,10:30,CAR,COL,COL,21,CAR,12,0,0,8477998,,Warren Foegele Delaying Game - Puck over glass
-157,penalty,Interference,Nazem Kadri,Joel Edmundson,[ 40. -25.],2,05:49,COL,CAR,COL,21,CAR,12,0,0,8475172,8476441.0,Nazem Kadri Interference against Joel Edmundson
-188,penalty,Hi-sticking,Brian Gibbons,Matt Calvert,[-85. -11.],3,17:16,CAR,COL,COL,21,CAR,12,0,0,8476207,8474685.0,Brian Gibbons Hi-sticking against Matt Calvert
-201,penalty,Interference,Gabriel Landeskog,Sebastian Aho,[89. -7.],3,13:06,COL,CAR,COL,21,CAR,12,1,0,8476455,8478427.0,Gabriel Landeskog Interference against Sebastian Aho
-94,penalty,Hi-sticking,Mark Pysyk,Jordan Martinook,[-58.  -2.],1,00:04,FLA,CAR,CAR,12,FLA,13,0,1,8475796,8476921.0,Mark Pysyk Hi-sticking against Jordan Martinook
-139,penalty,Hi-sticking,Andrei Svechnikov,Jonathan Huberdeau,[ 42. -38.],2,10:08,CAR,FLA,CAR,12,FLA,13,0,1,8480830,8476456.0,Andrei Svechnikov Hi-sticking against Jonathan Huberdeau
-158,penalty,Interference,Lucas Wallmark,Mark Pysyk,[61. 35.],2,04:12,CAR,FLA,CAR,12,FLA,13,0,2,8478027,8475796.0,Lucas Wallmark Interference against Mark Pysyk
-169,penalty,Hi-sticking,Andrei Svechnikov,Ryan Dzingel,[-95.   7.],2,00:30,CAR,FLA,CAR,12,FLA,13,0,2,8480830,8476288.0,Andrei Svechnikov Hi-sticking against Brett Connolly served by Ryan Dzingel
-170,penalty,Unsportsmanlike conduct,Josh Brown,Joel Edmundson,[-81. -18.],2,00:30,FLA,CAR,CAR,12,FLA,13,0,2,8477384,8476441.0,Josh Brown Unsportsmanlike conduct against Joel Edmundson
-171,penalty,Unsportsmanlike conduct,Joel Edmundson,Josh Brown,[-85. -32.],2,00:30,CAR,FLA,CAR,12,FLA,13,0,2,8476441,8477384.0,Joel Edmundson Unsportsmanlike conduct against Josh Brown
-172,penalty,Unsportsmanlike conduct,Andrei Svechnikov,Brett Connolly,[-74. -18.],2,00:30,CAR,FLA,CAR,12,FLA,13,0,2,8480830,8475792.0,Andrei Svechnikov Unsportsmanlike conduct against Brett Connolly
-173,penalty,Unsportsmanlike conduct,Brett Connolly,Andrei Svechnikov,[-75. -22.],2,00:30,FLA,CAR,CAR,12,FLA,13,0,2,8475792,8480830.0,Brett Connolly Unsportsmanlike conduct against Andrei Svechnikov
-182,penalty,Tripping,Dominic Toninato,Martin Necas,[-56. -21.],3,18:21,FLA,CAR,CAR,12,FLA,13,0,3,8476952,8480039.0,Dominic Toninato Tripping against Martin Necas
-220,penalty,Tripping,Brian Boyle,Lucas Wallmark,[-96. -18.],3,08:43,FLA,CAR,CAR,12,FLA,13,1,4,8470619,8478027.0,Brian Boyle Tripping against Lucas Wallmark
-19,penalty,Hi stick - double minor,Brett Pesce,Zach Hyman,[-55. -15.],1,16:48,CAR,TOR,TOR,10,CAR,12,1,0,8477488,8475786.0,Brett Pesce Hi stick - double minor against Zach Hyman
-59,penalty,Holding,Warren Foegele,Jake Muzzin,[ 82. -32.],1,06:32,CAR,TOR,TOR,10,CAR,12,3,0,8477998,8474162.0,Warren Foegele Holding against Jake Muzzin
-76,penalty,Tripping,Jake Muzzin,Sebastian Aho,[87. 20.],1,02:04,TOR,CAR,TOR,10,CAR,12,3,1,8474162,8478427.0,Jake Muzzin Tripping against Sebastian Aho
-98,penalty,Tripping,Travis Dermott,Martin Necas,[70. 27.],2,18:00,TOR,CAR,TOR,10,CAR,12,3,2,8478408,8480039.0,Travis Dermott Tripping against Martin Necas
-146,penalty,Slashing,Nino Niederreiter,Jake Muzzin,[63. 39.],2,07:30,CAR,TOR,TOR,10,CAR,12,3,2,8475799,8474162.0,Nino Niederreiter Slashing against Jake Muzzin
-252,penalty,Hooking,Mitchell Marner,Warren Foegele,[26.  1.],3,04:47,TOR,CAR,TOR,10,CAR,12,7,6,8478483,8477998.0,Mitchell Marner Hooking against Warren Foegele
-50,penalty,Tripping,Chris Kreider,Nino Niederreiter,[-71.  40.],1,09:51,NYR,CAR,NYR,3,CAR,12,0,1,8475184,8475799.0,Chris Kreider Tripping against Nino Niederreiter
-61,penalty,Delaying Game - Puck over glass,Adam Fox,Teuvo Teravainen,[36. 41.],1,05:59,NYR,CAR,NYR,3,CAR,12,0,1,8479323,8476882.0,Adam Fox Delaying Game - Puck over glass against Teuvo Teravainen
-78,penalty,Interference,Warren Foegele,Chris Kreider,[62. 38.],1,03:36,CAR,NYR,NYR,3,CAR,12,0,1,8477998,8475184.0,Warren Foegele Interference against Chris Kreider
-110,penalty,Hooking,Ryan Strome,Jaccob Slavin,[95. 15.],2,17:21,NYR,CAR,NYR,3,CAR,12,2,1,8476458,8476958.0,Ryan Strome Hooking against Jaccob Slavin
-114,penalty,Tripping,Brendan Lemieux,James Reimer,[92. -4.],2,15:23,NYR,CAR,NYR,3,CAR,12,2,1,8477962,8473503.0,Brendan Lemieux Tripping against James Reimer
-143,penalty,Slashing,Joel Edmundson,Chris Kreider,[ 65. -40.],2,10:24,CAR,NYR,NYR,3,CAR,12,3,1,8476441,8475184.0,Joel Edmundson Slashing against Chris Kreider
-151,penalty,Interference,Jake Gardiner,Pavel Buchnevich,[-24. -39.],2,07:42,CAR,NYR,NYR,3,CAR,12,3,1,8474581,8477402.0,Jake Gardiner Interference against Pavel Buchnevich
-206,penalty,Slashing,Sebastian Aho,Jesper Fast,[-76.  11.],3,15:48,CAR,NYR,NYR,3,CAR,12,4,3,8478427,8475855.0,Sebastian Aho Slashing against Jesper Fast
-247,penalty,Illegal check to head,Chris Kreider,Dougie Hamilton,[ 68. -14.],3,03:06,NYR,CAR,NYR,3,CAR,12,5,3,8475184,8476462.0,Chris Kreider Illegal check to head against Dougie Hamilton
-36,penalty,Holding the stick,Travis Boyd,Brett Pesce,[-41.  37.],1,11:30,WSH,CAR,CAR,12,WSH,15,0,0,8476329,8477488.0,Travis Boyd Holding the stick against Brett Pesce
-42,penalty,Tripping,Nick Jensen,Martin Necas,[-91. -32.],1,10:25,WSH,CAR,CAR,12,WSH,15,0,0,8475324,8480039.0,Nick Jensen Tripping against Martin Necas
-62,penalty,Hooking,Teuvo Teravainen,Evgeny Kuznetsov,[ 89. -30.],1,08:10,CAR,WSH,CAR,12,WSH,15,1,0,8476882,8475744.0,Teuvo Teravainen Hooking against Evgeny Kuznetsov
-132,penalty,Kneeing,Jordan Staal,Alex Ovechkin,[-49. -33.],2,11:33,CAR,WSH,CAR,12,WSH,15,3,1,8473533,8471214.0,Jordan Staal Kneeing against Alex Ovechkin
-149,penalty,Tripping,Joel Edmundson,Brendan Leipsic,[-85.  35.],2,08:48,CAR,WSH,CAR,12,WSH,15,3,2,8476441,8476894.0,Joel Edmundson Tripping against Brendan Leipsic
-172,penalty,Kneeing,Nick Jensen,Warren Foegele,[13. 26.],2,04:17,WSH,CAR,CAR,12,WSH,15,4,2,8475324,8477998.0,Nick Jensen Kneeing against Warren Foegele
-178,penalty,Slashing,Andrei Svechnikov,Garnet Hathaway,[-6. -5.],2,02:31,CAR,WSH,CAR,12,WSH,15,4,2,8480830,8477903.0,Andrei Svechnikov Slashing against Garnet Hathaway
-192,penalty,Tripping,Warren Foegele,Jonas Siegenthaler,[29. 29.],3,18:49,CAR,WSH,CAR,12,WSH,15,4,2,8477998,8478399.0,Warren Foegele Tripping against Jonas Siegenthaler
-5,penalty,Tripping,Artturi Lehkonen,Sebastian Aho,[ 35. -38.],1,18:40,MTL,CAR,CAR,12,MTL,8,0,0,8477476,8478427.0,Artturi Lehkonen Tripping against Sebastian Aho
-100,penalty,Too many men on the ice,Ryan Dzingel,,[ 10. -21.],1,02:08,CAR,MTL,CAR,12,MTL,8,1,1,8476288,,Too many men/ice served by Ryan Dzingel
-165,penalty,Slashing,Jordan Martinook,Shea Weber,[75. 40.],2,07:05,CAR,MTL,CAR,12,MTL,8,2,1,8476921,8470642.0,Jordan Martinook Slashing against Shea Weber
-196,penalty,Hi-sticking,Ryan Poehling,Joel Edmundson,[-10.  40.],3,18:11,MTL,CAR,CAR,12,MTL,8,2,1,8480068,8476441.0,Ryan Poehling Hi-sticking against Joel Edmundson
-271,penalty,Hi-sticking,Ryan Dzingel,Jeff Petry,[ 25. -41.],3,03:06,CAR,MTL,CAR,12,MTL,8,2,1,8476288,8473507.0,Ryan Dzingel Hi-sticking against Jeff Petry
-35,penalty,Delaying Game - Puck over glass,Jonas Siegenthaler,,[-85.  38.],1,12:46,WSH,CAR,CAR,12,WSH,15,0,0,8478399,,Jonas Siegenthaler Delaying Game - Puck over glass
-44,penalty,Embellishment,Ilya Samsonov,Jakub Vrana,[-90.  -4.],1,08:34,WSH,CAR,CAR,12,WSH,15,0,0,8478492,8477944.0,Ilya Samsonov Embellishment against Nino Niederreiter served by Jakub Vrana
-45,penalty,Interference - Goalkeeper,Nino Niederreiter,Ilya Samsonov,[-86.  -7.],1,08:34,CAR,WSH,CAR,12,WSH,15,0,0,8475799,8478492.0,Nino Niederreiter Interference - Goalkeeper against Ilya Samsonov
-47,penalty,Interference,Lars Eller,Jaccob Slavin,[48. 25.],1,07:44,WSH,CAR,CAR,12,WSH,15,0,0,8474189,8476958.0,Lars Eller Interference against Jaccob Slavin
-87,penalty,Misconduct,Nic Dowd,,[ 45. -36.],1,00:00,WSH,CAR,CAR,12,WSH,15,0,0,8475343,,Nic Dowd Misconduct
-111,penalty,Interference,Sebastian Aho,Garnet Hathaway,[ 31. -30.],2,15:43,CAR,WSH,CAR,12,WSH,15,0,1,8478427,8477903.0,Sebastian Aho Interference against Garnet Hathaway
-128,penalty,Slashing,Alex Ovechkin,Teuvo Teravainen,[-77.  -4.],2,11:48,WSH,CAR,CAR,12,WSH,15,0,2,8471214,8476882.0,Alex Ovechkin Slashing against Teuvo Teravainen
-148,penalty,Interference,Sebastian Aho,Brendan Leipsic,[-65.  -1.],2,06:17,CAR,WSH,CAR,12,WSH,15,0,2,8478427,8476894.0,Sebastian Aho Interference against Brendan Leipsic
-156,penalty,Slashing,Tom Wilson,Martin Necas,[ 54. -10.],2,03:42,WSH,CAR,CAR,12,WSH,15,0,2,8476880,8480039.0,Tom Wilson Slashing against Martin Necas
-176,penalty,Slashing,Erik Haula,Nick Jensen,[-73.   2.],3,19:07,CAR,WSH,CAR,12,WSH,15,1,2,8475287,8475324.0,Erik Haula Slashing against Nick Jensen
-203,penalty,Hooking,Carl Hagelin,Brock McGinn,[-50.  18.],3,13:33,WSH,CAR,CAR,12,WSH,15,1,4,8474176,8476934.0,Carl Hagelin Hooking against Brock McGinn
-226,penalty,Cross checking,T.J. Oshie,Warren Foegele,[-77.   3.],3,09:01,WSH,CAR,CAR,12,WSH,15,2,4,8471698,8477998.0,T.J. Oshie Cross checking against Warren Foegele
-253,penalty,Roughing,Dougie Hamilton,T.J. Oshie,[ 98. -16.],3,02:44,CAR,WSH,CAR,12,WSH,15,3,4,8476462,8471698.0,Dougie Hamilton Roughing against T.J. Oshie
-28,penalty,Hooking,Nino Niederreiter,Ondrej Palat,[32. -8.],1,10:36,CAR,TBL,CAR,12,TBL,14,0,2,8475799,8476292.0,Nino Niederreiter Hooking against Ondrej Palat
-53,penalty,Slashing,Mikhail Sergachev,Martin Necas,[-79. -32.],1,04:05,TBL,CAR,CAR,12,TBL,14,0,2,8479410,8480039.0,Mikhail Sergachev Slashing against Martin Necas
-127,penalty,Tripping,Joel Edmundson,Ondrej Palat,[-96. -20.],2,08:14,CAR,TBL,CAR,12,TBL,14,0,3,8476441,8476292.0,Joel Edmundson Tripping against Ondrej Palat
-203,penalty,Interference,Erik Cernak,Brock McGinn,[-74.  -4.],3,10:30,TBL,CAR,CAR,12,TBL,14,0,3,8478416,8476934.0,Erik Cernak Interference against Brock McGinn
-226,penalty,Unsportsmanlike conduct,Pat Maroon,,[ -1. -41.],3,02:26,TBL,CAR,CAR,12,TBL,14,1,3,8474034,,Pat Maroon Unsportsmanlike conduct
-227,penalty,Holding,Pat Maroon,Jake Gardiner,[-49. -40.],3,02:26,TBL,CAR,CAR,12,TBL,14,1,3,8474034,8474581.0,Pat Maroon Holding against Jake Gardiner
-106,penalty,Tripping,Erik Haula,Jakub Voracek,[-53.  39.],1,00:21,CAR,PHI,CAR,12,PHI,4,2,2,8475287,8474161.0,Erik Haula Tripping against Jakub Voracek
-172,penalty,Delaying Game - Puck over glass,Tyler Pitlick,,[ 28. -38.],2,04:54,PHI,CAR,CAR,12,PHI,4,4,3,8475752,,Tyler Pitlick Delaying Game - Puck over glass
-205,penalty,Slashing,Andrei Svechnikov,Travis Konecny,[-96. -13.],3,16:06,CAR,PHI,CAR,12,PHI,4,4,3,8480830,8478439.0,Andrei Svechnikov Slashing against Travis Konecny
-15,penalty,Tripping,Christian Dvorak,Nino Niederreiter,[ 46. -34.],1,15:43,ARI,CAR,CAR,12,ARI,53,0,0,8477989,8475799.0,Christian Dvorak Tripping against Nino Niederreiter
-42,penalty,Cross checking,Nino Niederreiter,Oliver Ekman-Larsson,[-87.  20.],1,09:02,CAR,ARI,CAR,12,ARI,53,0,0,8475799,8475171.0,Nino Niederreiter Cross checking against Oliver Ekman-Larsson
-110,penalty,Tripping,Erik Haula,Jordan Oesterle,[86. -4.],2,12:44,CAR,ARI,CAR,12,ARI,53,1,0,8475287,8477851.0,Erik Haula Tripping against Jordan Oesterle
-185,penalty,Slashing,Vinnie Hinostroza,Brock McGinn,[-71.  -2.],3,17:17,ARI,CAR,CAR,12,ARI,53,3,0,8476994,8476934.0,Vinnie Hinostroza Slashing against Brock McGinn
-194,penalty,Hooking,Andrei Svechnikov,Conor Garland,[-17.   6.],3,14:37,CAR,ARI,CAR,12,ARI,53,3,0,8480830,8478856.0,Andrei Svechnikov Hooking against Conor Garland
-213,penalty,Boarding,Clayton Keller,Teuvo Teravainen,[-96.  -8.],3,07:13,ARI,CAR,CAR,12,ARI,53,3,0,8479343,8476882.0,Clayton Keller Boarding against Teuvo Teravainen
-47,penalty,Slashing,Martin Necas,Sean Walker,[ 80. -26.],1,10:40,CAR,LAK,CAR,12,LAK,26,1,0,8480039,8480336.0,Martin Necas Slashing against Sean Walker
-155,penalty,Tripping,Michael Amadio,Martin Necas,[-41. -12.],2,08:46,LAK,CAR,CAR,12,LAK,26,1,0,8478020,8480039.0,Michael Amadio Tripping against Martin Necas
-214,penalty,Tripping,Nino Niederreiter,Alec Martinez,[85. 29.],3,15:31,CAR,LAK,CAR,12,LAK,26,1,0,8475799,8474166.0,Nino Niederreiter Tripping against Alec Martinez
-242,penalty,Delaying Game - Puck over glass,Austin Wagner,,[-63. -40.],3,06:43,LAK,CAR,CAR,12,LAK,26,1,0,8478455,,Austin Wagner Delaying Game - Puck over glass
-25,penalty,Tripping,Andrei Svechnikov,Richard Panik,[73. 38.],1,12:49,CAR,WSH,WSH,15,CAR,12,0,0,8480830,8475209.0,Andrei Svechnikov Tripping against Richard Panik
-65,penalty,Slashing,Warren Foegele,Lars Eller,[-69.  21.],1,05:38,CAR,WSH,WSH,15,CAR,12,1,0,8477998,8474189.0,Warren Foegele Slashing against Lars Eller
-75,penalty,Delaying Game - Puck over glass,Dougie Hamilton,,[-85. -32.],1,02:59,CAR,WSH,WSH,15,CAR,12,1,0,8476462,,Dougie Hamilton Delaying Game - Puck over glass
-79,penalty,Tripping,Jordan Staal,T.J. Oshie,[-82.  24.],1,02:42,CAR,WSH,WSH,15,CAR,12,2,0,8473533,8471698.0,Jordan Staal Tripping against T.J. Oshie
-102,penalty,Interference,Dmitry Orlov,Lucas Wallmark,[-71. -19.],2,14:27,WSH,CAR,WSH,15,CAR,12,2,0,8475200,8478027.0,Dmitry Orlov Interference against Lucas Wallmark
-116,penalty,Hooking,Lars Eller,Erik Haula,[ 33. -32.],2,10:28,WSH,CAR,WSH,15,CAR,12,2,0,8474189,8475287.0,Lars Eller Hooking against Erik Haula
-127,penalty,Hooking,Evgeny Kuznetsov,Jordan Staal,[ 37. -39.],2,07:54,WSH,CAR,WSH,15,CAR,12,2,0,8475744,8473533.0,Evgeny Kuznetsov Hooking against Jordan Staal
-180,penalty,Tripping,Jake Gardiner,Michal Kempny,[63. -8.],3,14:37,CAR,WSH,WSH,15,CAR,12,2,0,8474581,8479482.0,Jake Gardiner Tripping against Michal Kempny
-183,penalty,Slashing,Dougie Hamilton,Evgeny Kuznetsov,[-77.  25.],3,13:22,CAR,WSH,WSH,15,CAR,12,2,0,8476462,8475744.0,Dougie Hamilton Slashing against Evgeny Kuznetsov
-14,penalty,Holding,Warren Foegele,David Savard,[80. -4.],1,16:06,CAR,CBJ,CBJ,29,CAR,12,1,0,8477998,8475233.0,Warren Foegele Holding against David Savard
-44,penalty,Tripping,Scott Harrington,Lucas Wallmark,[-86.  -7.],1,08:14,CBJ,CAR,CBJ,29,CAR,12,1,0,8476449,8478027.0,Scott Harrington Tripping against Lucas Wallmark
-66,penalty,Too many men on the ice,Ryan Dzingel,,[14. 39.],1,00:50,CAR,CBJ,CBJ,29,CAR,12,1,0,8476288,,Too many men/ice served by Ryan Dzingel
-53,penalty,Tripping,Rickard Rakell,Jordan Staal,[65. -4.],1,11:09,ANA,CAR,CAR,12,ANA,24,1,0,8476483,8473533.0,Rickard Rakell Tripping against Jordan Staal
-102,penalty,Hi-sticking,Jordan Staal,Cam Fowler,[68.  3.],2,19:01,CAR,ANA,CAR,12,ANA,24,1,1,8473533,8475764.0,Jordan Staal Hi-sticking against Cam Fowler
-132,penalty,Slashing,Ryan Getzlaf,Haydn Fleury,[-91.  24.],2,12:30,ANA,CAR,CAR,12,ANA,24,1,1,8470612,8477938.0,Ryan Getzlaf Slashing against Haydn Fleury
-187,penalty,Holding,Joel Edmundson,Jakob Silfverberg,[-86. -32.],2,00:15,CAR,ANA,CAR,12,ANA,24,1,1,8476441,8475164.0,Joel Edmundson Holding against Jakob Silfverberg
-47,penalty,Holding,Martin Necas,Scott Mayfield,[ 40. -20.],1,09:07,CAR,NYI,CAR,12,NYI,2,1,0,8480039,8476429.0,Martin Necas Holding against Scott Mayfield
-137,penalty,Interference,Noah Dobson,Joel Edmundson,[73. 12.],2,06:40,NYI,CAR,CAR,12,NYI,2,1,0,8480865,8476441.0,Noah Dobson Interference against Joel Edmundson
-152,penalty,Slashing,Jordan Staal,Jordan Eberle,[-56.  14.],2,03:15,CAR,NYI,CAR,12,NYI,2,1,0,8473533,8474586.0,Jordan Staal Slashing against Jordan Eberle
-169,penalty,Holding,Trevor van Riemsdyk,Michael Dal Colle,[76. -6.],3,19:12,CAR,NYI,CAR,12,NYI,2,1,1,8477845,8477936.0,Trevor van Riemsdyk Holding against Michael Dal Colle
-207,penalty,Interference,Casey Cizikas,Martin Necas,[-93.  11.],3,11:34,NYI,CAR,CAR,12,NYI,2,1,1,8475231,8480039.0,Casey Cizikas Interference against Martin Necas
-18,penalty,Hooking,Sami Niku,Martin Necas,[ 42. -12.],1,15:00,WPG,CAR,CAR,12,WPG,52,1,0,8478915,8480039.0,Sami Niku Hooking against Martin Necas
-56,penalty,Delaying Game - Puck over glass,Warren Foegele,,[ 64. -39.],1,05:17,CAR,WPG,CAR,12,WPG,52,2,1,8477998,,Warren Foegele Delaying Game - Puck over glass
-103,penalty,Interference,Ryan Dzingel,Mason Appleton,[-71.  -1.],2,13:49,CAR,WPG,CAR,12,WPG,52,3,1,8476288,8478891.0,Ryan Dzingel Interference against Mason Appleton
-110,penalty,Tripping,Mathieu Perreault,Brock McGinn,[-45. -16.],2,11:51,WPG,CAR,CAR,12,WPG,52,3,1,8473618,8476934.0,Mathieu Perreault Tripping against Brock McGinn
-137,penalty,Hi-sticking,Dmitry Kulikov,Ryan Dzingel,[ 83. -34.],2,04:47,WPG,CAR,CAR,12,WPG,52,3,1,8475179,8476288.0,Dmitry Kulikov Hi-sticking against Ryan Dzingel
-154,penalty,Slashing,Joel Edmundson,Blake Wheeler,[-63. -15.],2,00:17,CAR,WPG,CAR,12,WPG,52,3,1,8476441,8471218.0,Joel Edmundson Slashing against Blake Wheeler
-184,penalty,Interference,Mason Appleton,Justin Williams,[-84.  11.],3,12:50,WPG,CAR,CAR,12,WPG,52,3,1,8478891,8468508.0,Mason Appleton Interference against Justin Williams
-198,penalty,Roughing,Andrei Svechnikov,Mark Scheifele,[-94.  16.],3,09:54,CAR,WPG,CAR,12,WPG,52,4,1,8480830,8476460.0,Andrei Svechnikov Roughing against Mark Scheifele
-199,penalty,Roughing,Mark Scheifele,Andrei Svechnikov,[-93.  18.],3,09:54,WPG,CAR,CAR,12,WPG,52,4,1,8476460,8480830.0,Mark Scheifele Roughing against Andrei Svechnikov
-208,penalty,Hooking,Andrew Copp,Teuvo Teravainen,[-68.  -1.],3,08:20,WPG,CAR,CAR,12,WPG,52,4,1,8477429,8476882.0,Andrew Copp Hooking against Teuvo Teravainen
-232,penalty,Fighting,Brett Pesce,Mark Scheifele,[84. -9.],3,02:40,CAR,WPG,CAR,12,WPG,52,4,1,8477488,8476460.0,Brett Pesce Fighting against Mark Scheifele
-233,penalty,Fighting,Mark Scheifele,Brett Pesce,[89. -7.],3,02:40,WPG,CAR,CAR,12,WPG,52,4,1,8476460,8477488.0,Mark Scheifele Fighting against Brett Pesce
-235,penalty,Tripping,Petr Mrazek,Warren Foegele,[83. -1.],3,02:40,CAR,WPG,CAR,12,WPG,52,4,1,8475852,8477998.0,Petr Mrazek Tripping against Mark Scheifele served by Warren Foegele
-236,penalty,Interference,Mark Scheifele,Brett Pesce,[ 78. -10.],3,02:40,WPG,CAR,CAR,12,WPG,52,4,1,8476460,8477488.0,Mark Scheifele Interference against Brett Pesce
-238,penalty,Delaying Game - Puck over glass,Jaccob Slavin,,[66.  4.],3,01:46,CAR,WPG,CAR,12,WPG,52,4,1,8476958,,Jaccob Slavin Delaying Game - Puck over glass
-245,penalty,Tripping,Neal Pionk,Sebastian Aho,[-38.  41.],3,00:04,WPG,CAR,CAR,12,WPG,52,4,1,8480145,8478427.0,Neal Pionk Tripping against Sebastian Aho
-48,penalty,Slashing,Joel Edmundson,Mark Stone,[65. -4.],1,08:52,CAR,VGK,CAR,12,VGK,54,0,2,8476441,8475913.0,Joel Edmundson Slashing against Mark Stone
-80,penalty,Hi-sticking,Warren Foegele,Jonathan Marchessault,[ 23. -39.],2,19:10,CAR,VGK,CAR,12,VGK,54,0,2,8477998,8476539.0,Warren Foegele Hi-sticking against Jonathan Marchessault
-96,penalty,Tripping,Deryk Engelland,Justin Williams,[71. 39.],2,15:59,VGK,CAR,CAR,12,VGK,54,0,2,8468674,8468508.0,Deryk Engelland Tripping against Justin Williams
-229,penalty,Hooking,Nicolas Roy,Andrei Svechnikov,[-62.  -4.],3,03:47,VGK,CAR,CAR,12,VGK,54,2,3,8478462,8480830.0,Nicolas Roy Hooking against Andrei Svechnikov
-235,penalty,Hooking,Sebastian Aho,Max Pacioretty,[53.  6.],3,02:34,CAR,VGK,CAR,12,VGK,54,3,3,8478427,8474157.0,Sebastian Aho Hooking against Max Pacioretty
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,game_id,winning_team,date,description
+38,penalty,Hi-sticking,Nino Niederreiter,Troy Stecher,[-79.   1.],1,12:20,CAR,VAN,CAR,12,VAN,23,0,1,8475799,8479442.0,2019020808,,2020-02-02,Nino Niederreiter Hi-sticking against Troy Stecher
+92,penalty,Tripping,Erik Haula,Alexander Edler,[56. 18.],1,02:47,CAR,VAN,CAR,12,VAN,23,0,1,8475287,8471303.0,2019020808,,2020-02-02,Erik Haula Tripping against Alexander Edler
+158,penalty,Holding,Jaccob Slavin,J.T. Miller,[-37. -39.],2,08:50,CAR,VAN,CAR,12,VAN,23,2,1,8476958,8476468.0,2019020808,,2020-02-02,Jaccob Slavin Holding against J.T. Miller
+245,penalty,Slashing,J.T. Miller,Nino Niederreiter,[-80.  36.],3,09:06,VAN,CAR,CAR,12,VAN,23,3,3,8476468,8475799.0,2019020808,,2020-02-02,J.T. Miller Slashing against Nino Niederreiter
+255,penalty,Interference,Haydn Fleury,Brandon Sutter,[ 57. -40.],3,06:03,CAR,VAN,CAR,12,VAN,23,3,3,8477938,8474091.0,2019020808,,2020-02-02,Haydn Fleury Interference against Brandon Sutter
+13,penalty,Holding the stick,Brayden Schenn,Jordan Staal,[80. -1.],1,16:18,STL,CAR,STL,19,CAR,12,1,0,8475170,8473533.0,2019020820,,2020-02-05,Brayden Schenn Holding the stick against Jordan Staal
+51,penalty,Roughing,Vince Dunn,Andrei Svechnikov,[-49.  38.],1,04:25,STL,CAR,STL,19,CAR,12,1,0,8478407,8480830.0,2019020820,,2020-02-05,Vince Dunn Roughing against Andrei Svechnikov
+52,penalty,Roughing,Andrei Svechnikov,Vince Dunn,[-40.  39.],1,04:25,CAR,STL,STL,19,CAR,12,1,0,8480830,8478407.0,2019020820,,2020-02-05,Andrei Svechnikov Roughing against Vince Dunn
+56,penalty,Holding,Sebastian Aho,Robert Thomas,[-22.  20.],1,02:51,CAR,STL,STL,19,CAR,12,1,0,8478427,8480023.0,2019020820,,2020-02-05,Sebastian Aho Holding against Robert Thomas
+71,penalty,Hooking,Vince Dunn,Martin Necas,[58. 39.],2,18:08,STL,CAR,STL,19,CAR,12,2,0,8478407,8480039.0,2019020820,,2020-02-05,Vince Dunn Hooking against Martin Necas
+94,penalty,Slashing,Jordan Martinook,Jaden Schwartz,[-36.  -2.],2,12:41,CAR,STL,STL,19,CAR,12,3,1,8476921,8475768.0,2019020820,,2020-02-05,Jordan Martinook Slashing against Jaden Schwartz
+107,penalty,Hooking,Jake Gardiner,David Perron,[-69.   0.],2,09:02,CAR,STL,STL,19,CAR,12,4,1,8474581,8474102.0,2019020820,,2020-02-05,Jake Gardiner Hooking against David Perron
+154,penalty,Tripping,Sammy Blais,Andrei Svechnikov,[-14. -22.],3,12:18,STL,CAR,STL,19,CAR,12,5,1,8478104,8480830.0,2019020820,,2020-02-05,Sammy Blais Tripping against Andrei Svechnikov
+175,penalty,Hooking,Alexander Steen,Martin Necas,[10.  4.],3,04:57,STL,CAR,STL,19,CAR,12,6,2,8470257,8480039.0,2019020820,,2020-02-05,Alexander Steen Hooking against Martin Necas
+186,penalty,Slashing,Martin Necas,Zach Sanford,[ 43. -38.],3,02:20,CAR,STL,STL,19,CAR,12,6,3,8480039,8477482.0,2019020820,,2020-02-05,Martin Necas Slashing against Zach Sanford
+10,penalty,Hooking,Niklas Hjalmarsson,Andrei Svechnikov,[-51.   7.],1,18:10,ARI,CAR,ARI,53,CAR,12,0,0,8471769,8480830.0,2019020838,,2020-02-07,Niklas Hjalmarsson Hooking against Andrei Svechnikov
+18,penalty,Hooking,Joel Edmundson,Nick Schmaltz,[57.  0.],1,15:51,CAR,ARI,ARI,53,CAR,12,0,0,8476441,8477951.0,2019020838,,2020-02-07,Joel Edmundson Hooking against Nick Schmaltz
+94,penalty,Hi-sticking,Justin Williams,Aaron Ness,[ 79. -34.],2,17:41,CAR,ARI,ARI,53,CAR,12,1,0,8468508,8474604.0,2019020838,,2020-02-07,Justin Williams Hi-sticking against Aaron Ness
+144,penalty,Holding,Joel Edmundson,Clayton Keller,[-90.  12.],2,07:14,CAR,ARI,ARI,53,CAR,12,2,3,8476441,8479343.0,2019020838,,2020-02-07,Joel Edmundson Holding against Clayton Keller
+152,penalty,Boarding,Brad Richardson,Lucas Wallmark,[ 2. 38.],2,05:01,ARI,CAR,ARI,53,CAR,12,2,3,8470755,8478027.0,2019020838,,2020-02-07,Brad Richardson Boarding against Lucas Wallmark
+157,penalty,Hooking,Jake Gardiner,Taylor Hall,[-85.   8.],2,02:57,CAR,ARI,ARI,53,CAR,12,2,3,8474581,8475791.0,2019020838,,2020-02-07,Jake Gardiner Hooking against Taylor Hall
+225,penalty,Boarding,Lucas Wallmark,Aaron Ness,[-93.  -7.],3,03:45,CAR,ARI,ARI,53,CAR,12,3,4,8478027,8474604.0,2019020838,,2020-02-07,Lucas Wallmark Boarding against Aaron Ness
+111,penalty,Roughing,Brayden McNabb,Warren Foegele,[-96.  18.],2,16:29,VGK,CAR,VGK,54,CAR,12,3,1,8475188,8477998.0,2019020854,,2020-02-11,Brayden McNabb Roughing against Warren Foegele
+201,penalty,Hi stick - double minor,Zach Whitecloud,Erik Haula,[-52.  40.],3,17:55,VGK,CAR,VGK,54,CAR,12,3,2,8480727,8475287.0,2019020854,,2020-02-11,Zach Whitecloud Hi stick - double minor against Erik Haula
+222,penalty,Holding,Brett Pesce,Ryan Reaves,[-80.   0.],3,14:11,CAR,VGK,VGK,54,CAR,12,4,3,8477488,8471817.0,2019020854,,2020-02-11,Brett Pesce Holding against Ryan Reaves
+254,penalty,Tripping,Tomas Nosek,Trevor van Riemsdyk,[-70.   3.],3,07:02,VGK,CAR,VGK,54,CAR,12,4,4,8477931,8477845.0,2019020854,,2020-02-11,Tomas Nosek Tripping against Trevor van Riemsdyk
+285,penalty,Holding,Joel Edmundson,Reilly Smith,[-89.  23.],3,00:59,CAR,VGK,VGK,54,CAR,12,5,5,8476441,8475191.0,2019020854,,2020-02-11,Joel Edmundson Holding against Reilly Smith
+89,penalty,Boarding,Radek Faksa,Justin Williams,[-91. -31.],1,04:27,DAL,CAR,DAL,25,CAR,12,1,0,8476889,8468508.0,2019020873,,2020-02-12,Radek Faksa Boarding against Justin Williams
+125,penalty,Holding the stick,Martin Necas,Stephen Johns,[-99. -10.],2,15:18,CAR,DAL,DAL,25,CAR,12,1,1,8480039,8475730.0,2019020873,,2020-02-12,Martin Necas Holding the stick against Stephen Johns
+163,penalty,Hooking,Jordan Staal,Alexander Radulov,[84. -6.],2,09:19,CAR,DAL,DAL,25,CAR,12,1,1,8473533,8471228.0,2019020873,,2020-02-12,Jordan Staal Hooking against Alexander Radulov
+180,penalty,Hooking,Brock McGinn,Roope Hintz,[35. 41.],2,06:05,CAR,DAL,DAL,25,CAR,12,2,1,8476934,8478449.0,2019020873,,2020-02-12,Brock McGinn Hooking against Roope Hintz
+216,penalty,Tripping,Jake Gardiner,Denis Gurianov,[47.  3.],3,16:20,CAR,DAL,DAL,25,CAR,12,3,1,8474581,8478495.0,2019020873,,2020-02-12,Jake Gardiner Tripping against Denis Gurianov
+6,penalty,Holding,Jordan Staal,Miles Wood,[ 48. -38.],1,18:47,CAR,NJD,CAR,12,NJD,1,0,0,8473533,8477425.0,2019020894,,2020-02-15,Jordan Staal Holding against Miles Wood
+77,penalty,Holding,Blake Coleman,Martin Necas,[-21. -34.],2,18:45,NJD,CAR,CAR,12,NJD,1,2,1,8476399,8480039.0,2019020894,,2020-02-15,Blake Coleman Holding against Martin Necas
+125,penalty,Tripping,Wayne Simmonds,Nino Niederreiter,[ 61. -27.],2,05:32,NJD,CAR,CAR,12,NJD,1,3,1,8474190,8475799.0,2019020894,,2020-02-15,Wayne Simmonds Tripping against Nino Niederreiter
+196,penalty,Slashing,Joel Edmundson,Miles Wood,[78. -8.],3,07:32,CAR,NJD,CAR,12,NJD,1,4,1,8476441,8477425.0,2019020894,,2020-02-15,Joel Edmundson Slashing against Miles Wood
+209,penalty,Tripping,Brett Pesce,Kevin Rooney,[30. 37.],3,04:43,CAR,NJD,CAR,12,NJD,1,5,2,8477488,8479291.0,2019020894,,2020-02-15,Brett Pesce Tripping against Kevin Rooney
+212,penalty,Tripping,Jordan Staal,Pavel Zacha,[31. 38.],3,03:55,CAR,NJD,CAR,12,NJD,1,5,2,8473533,8478401.0,2019020894,,2020-02-15,Jordan Staal Tripping against Pavel Zacha
+13,penalty,Hi-sticking,Andrei Svechnikov,Kailer Yamamoto,[-80. -39.],1,15:33,CAR,EDM,CAR,12,EDM,22,1,0,8480830,8479977.0,2019020908,,2020-02-16,Andrei Svechnikov Hi-sticking against Kailer Yamamoto
+74,penalty,Slashing,Adam Larsson,Andrei Svechnikov,[-85.  -4.],1,00:46,EDM,CAR,CAR,12,EDM,22,1,1,8476457,8480830.0,2019020908,,2020-02-16,Adam Larsson Slashing against Andrei Svechnikov
+106,penalty,Roughing,Josh Archibald,Nino Niederreiter,[-82.  -9.],2,13:42,EDM,CAR,CAR,12,EDM,22,2,1,8476326,8475799.0,2019020908,,2020-02-16,Josh Archibald Roughing against Nino Niederreiter
+107,penalty,Roughing,Erik Haula,Josh Archibald,[-81.  -6.],2,13:42,CAR,EDM,CAR,12,EDM,22,2,1,8475287,8476326.0,2019020908,,2020-02-16,Erik Haula Roughing against Josh Archibald
+108,penalty,Roughing,Nino Niederreiter,Josh Archibald,[-87.  -9.],2,13:42,CAR,EDM,CAR,12,EDM,22,2,1,8475799,8476326.0,2019020908,,2020-02-16,Nino Niederreiter Roughing against Josh Archibald
+131,penalty,Hooking,Erik Haula,Matt Benning,[23. 28.],2,06:26,CAR,EDM,CAR,12,EDM,22,2,1,8475287,8476988.0,2019020908,,2020-02-16,Erik Haula Hooking against Matt Benning
+165,penalty,Holding,Jujhar Khaira,Haydn Fleury,[89.  5.],3,14:30,EDM,CAR,CAR,12,EDM,22,2,3,8476915,8477938.0,2019020908,,2020-02-16,Jujhar Khaira Holding against Haydn Fleury
+176,penalty,Tripping,Colby Cave,Lucas Wallmark,[51.  8.],3,09:17,EDM,CAR,CAR,12,EDM,22,2,3,8477529,8478027.0,2019020908,,2020-02-16,Colby Cave Tripping against Lucas Wallmark
+21,penalty,Slashing,Sebastian Aho,Viktor Arvidsson,[79.  5.],1,15:53,CAR,NSH,NSH,18,CAR,12,0,1,8478427,8478042.0,2019020925,,2020-02-19,Sebastian Aho Slashing against Viktor Arvidsson
+88,penalty,Missing key [PD_151],Martin Necas,,[11. 40.],2,19:12,CAR,NSH,NSH,18,CAR,12,1,1,8480039,,2019020925,,2020-02-19,Delaying Game - Unsucc. chlg served by Martin Necas
+94,penalty,Slashing,Kyle Turris,Erik Haula,[-81.   8.],2,16:20,NSH,CAR,NSH,18,CAR,12,1,1,8474068,8475287.0,2019020925,,2020-02-19,Kyle Turris Slashing against Erik Haula
+140,penalty,Holding,Joel Edmundson,Matt Duchene,[-67.  -3.],2,03:19,CAR,NSH,NSH,18,CAR,12,1,3,8476441,8475168.0,2019020925,,2020-02-19,Joel Edmundson Holding against Matt Duchene
+177,penalty,Hooking,Lucas Wallmark,Roman Josi,[94. -9.],3,13:46,CAR,NSH,NSH,18,CAR,12,1,4,8478027,8474600.0,2019020925,,2020-02-19,Lucas Wallmark Hooking against Roman Josi
+220,penalty,Hi stick - double minor,Yannick Weber,Lucas Wallmark,[ -3. -33.],3,01:29,NSH,CAR,NSH,18,CAR,12,1,4,8474134,8478027.0,2019020925,,2020-02-19,Yannick Weber Hi stick - double minor against Lucas Wallmark
+65,penalty,Interference,Jacob Trouba,Martin Necas,[-89. -28.],1,08:04,NYR,CAR,CAR,12,NYR,3,0,0,8476885,8480039.0,2019020942,,2020-02-22,Jacob Trouba Interference against Martin Necas
+96,penalty,Interference,Jacob Trouba,Lucas Wallmark,[-68. -40.],1,02:14,NYR,CAR,CAR,12,NYR,3,0,1,8476885,8478027.0,2019020942,,2020-02-22,Jacob Trouba Interference against Lucas Wallmark
+109,penalty,Slashing,Jordan Staal,Mika Zibanejad,[-43.   7.],2,18:46,CAR,NYR,CAR,12,NYR,3,0,1,8473533,8476459.0,2019020942,,2020-02-22,Jordan Staal Slashing against Mika Zibanejad
+119,penalty,Tripping,Jesper Fast,Martin Necas,[-71.  30.],2,15:37,NYR,CAR,CAR,12,NYR,3,1,1,8475855,8480039.0,2019020942,,2020-02-22,Jesper Fast Tripping against Martin Necas
+154,penalty,Roughing,Andrei Svechnikov,Jacob Trouba,[67. 12.],2,07:09,CAR,NYR,CAR,12,NYR,3,1,2,8480830,8476885.0,2019020942,,2020-02-22,Andrei Svechnikov Roughing against Jacob Trouba
+155,penalty,Roughing,Jacob Trouba,Andrei Svechnikov,[62. 12.],2,07:09,NYR,CAR,CAR,12,NYR,3,1,2,8476885,8480830.0,2019020942,,2020-02-22,Jacob Trouba Roughing against Andrei Svechnikov
+186,penalty,Slashing,Justin Williams,Mika Zibanejad,[ 77. -37.],2,00:39,CAR,NYR,CAR,12,NYR,3,1,3,8468508,8476459.0,2019020942,,2020-02-22,Justin Williams Slashing against Mika Zibanejad
+201,penalty,Delaying Game - Puck over glass,Julien Gauthier,,[-86. -21.],3,16:27,NYR,CAR,CAR,12,NYR,3,1,4,8479328,,2019020942,,2020-02-22,Julien Gauthier Delaying Game - Puck over glass
+216,penalty,Tripping,Warren Foegele,Adam Fox,[-49.  23.],3,12:35,CAR,NYR,CAR,12,NYR,3,2,4,8477998,8479323.0,2019020942,,2020-02-22,Warren Foegele Tripping against Adam Fox
+235,penalty,Tripping,Sebastian Aho,Brett Howden,[92. 26.],3,07:20,CAR,NYR,CAR,12,NYR,3,2,4,8478427,8479353.0,2019020942,,2020-02-22,Sebastian Aho Tripping against Brett Howden
+247,penalty,Slashing,Tony DeAngelo,Nino Niederreiter,[-65. -37.],3,03:41,NYR,CAR,CAR,12,NYR,3,2,4,8477950,8475799.0,2019020942,,2020-02-22,Tony DeAngelo Slashing against Nino Niederreiter
+248,penalty,Charging,Nino Niederreiter,Tony DeAngelo,[-57. -35.],3,03:41,CAR,NYR,CAR,12,NYR,3,2,4,8475799,8477950.0,2019020942,,2020-02-22,Nino Niederreiter Charging against Tony DeAngelo
+15,penalty,Interference,Zach Hyman,Jaccob Slavin,[-84.   2.],1,16:53,TOR,CAR,TOR,10,CAR,12,0,0,8475786,8476958.0,2019020951,,2020-02-24,Zach Hyman Interference against Jaccob Slavin
+36,penalty,Boarding,Andrei Svechnikov,Tyson Barrie,[94. 28.],1,13:50,CAR,TOR,TOR,10,CAR,12,0,0,8480830,8475197.0,2019020951,,2020-02-24,Andrei Svechnikov Boarding against Tyson Barrie
+49,penalty,Roughing,Nino Niederreiter,Kasperi Kapanen,[-80. -37.],1,10:29,CAR,TOR,TOR,10,CAR,12,0,0,8475799,8477953.0,2019020951,,2020-02-24,Nino Niederreiter Roughing against Kasperi Kapanen
+142,penalty,Hi-sticking,William Nylander,Brett Pesce,[23. 39.],2,11:16,TOR,CAR,TOR,10,CAR,12,1,1,8477939,8477488.0,2019020951,,2020-02-24,William Nylander Hi-sticking against Brett Pesce
+155,penalty,Charging,Kyle Clifford,Petr Mrazek,[ 48. -26.],2,08:41,TOR,CAR,TOR,10,CAR,12,1,3,8475160,8475852.0,2019020951,,2020-02-24,Kyle Clifford Charging against Petr Mrazek
+172,penalty,Slashing,Erik Haula,Auston Matthews,[36. 11.],2,04:21,CAR,TOR,TOR,10,CAR,12,3,4,8475287,8479318.0,2019020951,,2020-02-24,Erik Haula Slashing against Auston Matthews
+181,penalty,Fighting,Joel Edmundson,Kyle Clifford,[70. 36.],2,01:21,CAR,TOR,TOR,10,CAR,12,3,4,8476441,8475160.0,2019020951,,2020-02-24,Joel Edmundson Fighting against Kyle Clifford
+182,penalty,Fighting,Kyle Clifford,Joel Edmundson,[68. 36.],2,01:21,TOR,CAR,TOR,10,CAR,12,3,4,8475160,8476441.0,2019020951,,2020-02-24,Kyle Clifford Fighting against Joel Edmundson
+224,penalty,Hooking,Warren Foegele,Denis Malgin,[ 32. -24.],3,14:05,CAR,TOR,TOR,10,CAR,12,3,6,8477998,8478843.0,2019020951,,2020-02-24,Warren Foegele Hooking against Denis Malgin
+241,penalty,Hooking,Alexander Kerfoot,Trevor van Riemsdyk,[-69.  39.],3,10:29,TOR,CAR,TOR,10,CAR,12,3,6,8477021,8477845.0,2019020951,,2020-02-24,Alexander Kerfoot Hooking against Trevor van Riemsdyk
+270,penalty,Roughing,Kasperi Kapanen,Jordan Staal,[ -5. -38.],3,01:23,TOR,CAR,TOR,10,CAR,12,3,6,8477953,8473533.0,2019020951,,2020-02-24,Kasperi Kapanen Roughing against Jordan Staal
+271,penalty,Roughing,Jordan Staal,Kasperi Kapanen,[ -5. -37.],3,01:23,CAR,TOR,TOR,10,CAR,12,3,6,8473533,8477953.0,2019020951,,2020-02-24,Jordan Staal Roughing against Kasperi Kapanen
+45,penalty,Tripping,Tyler Seguin,Martin Necas,[-94.   5.],1,09:04,DAL,CAR,CAR,12,DAL,25,0,1,8475794,8480039.0,2019020974,,2020-02-26,Tyler Seguin Tripping against Martin Necas
+56,penalty,Tripping,Vincent Trocheck,Joe Pavelski,[-46. -38.],1,04:18,CAR,DAL,CAR,12,DAL,25,0,1,8476389,8470794.0,2019020974,,2020-02-26,Vincent Trocheck Tripping against Joe Pavelski
+83,penalty,Roughing,Mattias Janmark,Martin Necas,[ 77. -22.],2,17:07,DAL,CAR,CAR,12,DAL,25,1,3,8477406,8480039.0,2019020974,,2020-02-26,Mattias Janmark Roughing against Martin Necas
+90,penalty,Hooking,Sebastian Aho,Roope Hintz,[-64.   4.],2,14:59,CAR,DAL,CAR,12,DAL,25,1,3,8478427,8478449.0,2019020974,,2020-02-26,Sebastian Aho Hooking against Roope Hintz
+143,penalty,Hi-sticking,Jordan Martinook,Esa Lindell,[ 97. -22.],2,02:56,CAR,DAL,CAR,12,DAL,25,1,4,8476921,8476902.0,2019020974,,2020-02-26,Jordan Martinook Hi-sticking against Esa Lindell
+183,penalty,Slashing,Corey Perry,Jordan Martinook,[-61.  37.],3,09:21,DAL,CAR,CAR,12,DAL,25,1,4,8470621,8476921.0,2019020974,,2020-02-26,Corey Perry Slashing against Jordan Martinook
+208,penalty,Tripping,Esa Lindell,Jaccob Slavin,[-78.   3.],3,04:13,DAL,CAR,CAR,12,DAL,25,1,4,8476902,8476958.0,2019020974,,2020-02-26,Esa Lindell Tripping against Jaccob Slavin
+15,penalty,Hi-sticking,Jordan Martinook,Samuel Girard,[39. 40.],1,17:06,CAR,COL,CAR,12,COL,21,0,0,8476921,8479398.0,2019020996,,2020-02-29,Jordan Martinook Hi-sticking against Samuel Girard
+83,penalty,Hi-sticking,Joonas Donskoi,Haydn Fleury,[ 78. -12.],1,03:14,COL,CAR,CAR,12,COL,21,0,1,8475820,8477938.0,2019020996,,2020-02-29,Joonas Donskoi Hi-sticking against Haydn Fleury
+120,penalty,Cross checking,Nikita Zadorov,Sebastian Aho,[82.  0.],2,15:25,COL,CAR,CAR,12,COL,21,0,1,8477507,8478427.0,2019020996,,2020-02-29,Nikita Zadorov Cross checking against Sebastian Aho
+150,penalty,Tripping,Andrei Svechnikov,Cale Makar,[-29.  26.],2,10:36,CAR,COL,CAR,12,COL,21,0,1,8480830,8480069.0,2019020996,,2020-02-29,Andrei Svechnikov Tripping against Cale Makar
+174,penalty,Too many men on the ice,Justin Williams,,[-13.  28.],2,05:25,CAR,COL,CAR,12,COL,21,0,2,8468508,,2019020996,,2020-02-29,Too many men/ice served by Justin Williams
+222,penalty,Interference,Nikita Zadorov,Justin Williams,[-96.  12.],3,16:56,COL,CAR,CAR,12,COL,21,0,2,8477507,8468508.0,2019020996,,2020-02-29,Nikita Zadorov Interference against Justin Williams
+41,penalty,Hi-sticking,Brett Kulak,Justin Williams,[86. 37.],1,13:59,MTL,CAR,MTL,8,CAR,12,1,0,8476967,8468508.0,2019021004,,2020-03-01,Brett Kulak Hi-sticking against Justin Williams
+66,penalty,Too many men on the ice,Martin Necas,,[-14.  41.],1,08:46,CAR,MTL,MTL,8,CAR,12,1,0,8480039,,2019021004,,2020-03-01,Too many men/ice served by Martin Necas
+170,penalty,Slashing,Justin Williams,Max Domi,[-36.  33.],2,02:01,CAR,MTL,MTL,8,CAR,12,3,1,8468508,8477503.0,2019021004,,2020-03-01,Justin Williams Slashing against Max Domi
+217,penalty,Embellishment,Vincent Trocheck,Ben Chiarot,[ 79. -31.],3,13:22,CAR,MTL,MTL,8,CAR,12,3,2,8476389,8475279.0,2019021004,,2020-03-01,Vincent Trocheck Embellishment against Ben Chiarot
+218,penalty,Cross checking,Ben Chiarot,Vincent Trocheck,[ 77. -35.],3,13:22,MTL,CAR,MTL,8,CAR,12,3,2,8475279,8476389.0,2019021004,,2020-03-01,Ben Chiarot Cross checking against Vincent Trocheck
+235,penalty,Interference - Goalkeeper,Andrei Svechnikov,Charlie Lindgren,[86.  0.],3,10:24,CAR,MTL,MTL,8,CAR,12,3,2,8480830,8479292.0,2019021004,,2020-03-01,Andrei Svechnikov Interference - Goalkeeper against Charlie Lindgren
+241,penalty,Tripping,Phillip Danault,Joel Edmundson,[-87.  25.],3,08:12,MTL,CAR,MTL,8,CAR,12,3,2,8476479,8476441.0,2019021004,,2020-03-01,Phillip Danault Tripping against Joel Edmundson
+95,penalty,Holding the stick,Joel Edmundson,Claude Giroux,[71. -4.],2,18:00,CAR,PHI,PHI,4,CAR,12,1,0,8476441,8473512.0,2019021037,,2020-03-06,Joel Edmundson Holding the stick against Claude Giroux
+122,penalty,Tripping,Jordan Martinook,Ivan Provorov,[69. 14.],2,12:44,CAR,PHI,PHI,4,CAR,12,1,0,8476921,8478500.0,2019021037,,2020-03-06,Jordan Martinook Tripping against Ivan Provorov
+97,penalty,Hi stick - double minor,Leo Komarov,Brady Skjei,[96. -2.],1,03:02,NYI,CAR,NYI,2,CAR,12,0,1,8473463,8476869.0,2019021049,,2020-03-08,Leo Komarov Hi stick - double minor against Brady Skjei
+125,penalty,Too many men on the ice,Jordan Eberle,,[-4.  0.],2,17:03,NYI,CAR,NYI,2,CAR,12,0,1,8474586,,2019021049,,2020-03-08,Too many men/ice served by Jordan Eberle
+157,penalty,Roughing,Ryan Dzingel,Martin Necas,[-20.  31.],2,08:51,CAR,NYI,NYI,2,CAR,12,1,1,8476288,8480039.0,2019021049,,2020-03-08,Ryan Dzingel Roughing against Anthony Beauvillier served by Martin Necas
+158,penalty,Fighting,Ryan Dzingel,Anthony Beauvillier,[-20.  30.],2,08:51,CAR,NYI,NYI,2,CAR,12,1,1,8476288,8478463.0,2019021049,,2020-03-08,Ryan Dzingel Fighting against Anthony Beauvillier
+159,penalty,Fighting,Anthony Beauvillier,Ryan Dzingel,[-18.  30.],2,08:51,NYI,CAR,NYI,2,CAR,12,1,1,8478463,8476288.0,2019021049,,2020-03-08,Anthony Beauvillier Fighting against Ryan Dzingel
+192,penalty,Delaying Game - Puck over glass,Andrei Svechnikov,,[-95.  -5.],2,02:06,CAR,NYI,NYI,2,CAR,12,1,1,8480830,,2019021049,,2020-03-08,Andrei Svechnikov Delaying Game - Puck over glass
+281,penalty,Tripping,Brady Skjei,Mathew Barzal,[88. -8.],3,00:52,CAR,NYI,NYI,2,CAR,12,2,2,8476869,8478445.0,2019021049,,2020-03-08,Brady Skjei Tripping against Mathew Barzal
+284,penalty,Hi stick - double minor,Mathew Barzal,Jordan Staal,[50. 39.],3,00:24,NYI,CAR,NYI,2,CAR,12,2,2,8478445,8473533.0,2019021049,,2020-03-08,Mathew Barzal Hi stick - double minor against Jordan Staal
+3,penalty,Interference,Evgeni Malkin,Brady Skjei,[ 6. 20.],1,18:45,PIT,CAR,PIT,5,CAR,12,0,0,8471215,8476869.0,2019021059,,2020-03-08,Evgeni Malkin Interference against Brady Skjei
+6,penalty,Cross checking,Andrei Svechnikov,Teddy Blueger,[-11.  41.],1,18:01,CAR,PIT,PIT,5,CAR,12,0,0,8480830,8476927.0,2019021059,,2020-03-08,Andrei Svechnikov Cross checking against Teddy Blueger
+50,penalty,Hooking,Trevor van Riemsdyk,Jason Zucker,[86.  5.],1,09:39,CAR,PIT,PIT,5,CAR,12,1,1,8477845,8475722.0,2019021059,,2020-03-08,Trevor van Riemsdyk Hooking against Jason Zucker
+55,penalty,Holding,Teddy Blueger,Brady Skjei,[98. -1.],1,07:28,PIT,CAR,PIT,5,CAR,12,1,1,8476927,8476869.0,2019021059,,2020-03-08,Teddy Blueger Holding against Brady Skjei
+66,penalty,Interference,Morgan Geekie,Evan Rodrigues,[ 42. -18.],1,05:26,CAR,PIT,PIT,5,CAR,12,1,1,8479987,8478542.0,2019021059,,2020-03-08,Morgan Geekie Interference against Evan Rodrigues
+70,penalty,Hi-sticking,Jordan Martinook,Jared McCann,[-31.  25.],1,03:48,CAR,PIT,PIT,5,CAR,12,1,1,8476921,8477955.0,2019021059,,2020-03-08,Jordan Martinook Hi-sticking against Jared McCann
+119,penalty,Tripping,Warren Foegele,Evan Rodrigues,[-48. -40.],2,14:37,CAR,PIT,PIT,5,CAR,12,2,1,8477998,8478542.0,2019021059,,2020-03-08,Warren Foegele Tripping against Evan Rodrigues
+133,penalty,Boarding,Vincent Trocheck,Jared McCann,[-95. -23.],2,11:30,CAR,PIT,PIT,5,CAR,12,2,1,8476389,8477955.0,2019021059,,2020-03-08,Vincent Trocheck Boarding against Jared McCann
+166,penalty,Holding,Bryan Rust,Jake Gardiner,[-58. -40.],2,04:17,PIT,CAR,PIT,5,CAR,12,2,2,8475810,8474581.0,2019021059,,2020-03-08,Bryan Rust Holding against Jake Gardiner
+172,penalty,Holding,Evan Rodrigues,Sebastian Aho,[ 86. -31.],2,02:38,PIT,CAR,PIT,5,CAR,12,2,2,8478542,8478427.0,2019021059,,2020-03-08,Evan Rodrigues Holding against Sebastian Aho
+264,penalty,Hi-sticking,Warren Foegele,Evan Rodrigues,[71. -4.],3,02:26,CAR,PIT,PIT,5,CAR,12,2,6,8477998,8478542.0,2019021059,,2020-03-08,Warren Foegele Hi-sticking against Evan Rodrigues
+40,penalty,Tripping,Brock McGinn,Jonathan Ericsson,[ 69. -34.],1,09:33,CAR,DET,DET,17,CAR,12,0,1,8476934,8470318.0,2019021074,,2020-03-11,Brock McGinn Tripping against Jonathan Ericsson
+109,penalty,Interference,Jonathan Ericsson,Warren Foegele,[-26. -20.],2,12:19,DET,CAR,DET,17,CAR,12,1,1,8470318,8477998.0,2019021074,,2020-03-11,Jonathan Ericsson Interference against Warren Foegele
+129,penalty,Tripping,Jordan Martinook,Jonathan Ericsson,[-53. -18.],2,07:55,CAR,DET,DET,17,CAR,12,1,2,8476921,8470318.0,2019021074,,2020-03-11,Jordan Martinook Tripping against Jonathan Ericsson
+147,penalty,Hooking,Nino Niederreiter,Gustav Lindstrom,[-95.  15.],2,02:03,CAR,DET,DET,17,CAR,12,2,2,8475799,8480184.0,2019021074,,2020-03-11,Nino Niederreiter Hooking against Gustav Lindstrom
+153,penalty,Interference,Anthony Mantha,Trevor van Riemsdyk,[ 62. -21.],2,00:57,DET,CAR,DET,17,CAR,12,2,2,8477511,8477845.0,2019021074,,2020-03-11,Anthony Mantha Interference against Trevor van Riemsdyk
+154,penalty,Roughing,Jordan Staal,Tyler Bertuzzi,[ 50. -22.],2,00:57,CAR,DET,DET,17,CAR,12,2,2,8473533,8477479.0,2019021074,,2020-03-11,Jordan Staal Roughing against Tyler Bertuzzi
+156,penalty,Roughing,Tyler Bertuzzi,Jordan Staal,[ 47. -19.],2,00:57,DET,CAR,DET,17,CAR,12,2,2,8477479,8473533.0,2019021074,,2020-03-11,Tyler Bertuzzi Roughing against Jordan Staal
+166,penalty,Tripping,Darren Helm,Martin Necas,[ 45. -38.],3,19:25,DET,CAR,DET,17,CAR,12,2,2,8471794,8480039.0,2019021074,,2020-03-11,Darren Helm Tripping against Martin Necas
+180,penalty,Boarding,Martin Necas,Sam Gagner,[-38. -40.],3,16:22,CAR,DET,DET,17,CAR,12,2,3,8480039,8474040.0,2019021074,,2020-03-11,Martin Necas Boarding against Sam Gagner
+195,penalty,Hooking,Brady Skjei,Dmytro Timashov,[-76.  -4.],3,12:36,CAR,DET,DET,17,CAR,12,2,4,8476869,8478857.0,2019021074,,2020-03-11,Brady Skjei Hooking against Dmytro Timashov
+222,penalty,Roughing,Anthony Mantha,Frans Nielsen,[ 52. -35.],3,04:07,DET,CAR,DET,17,CAR,12,2,4,8477511,8470144.0,2019021074,,2020-03-11,Anthony Mantha Roughing against Jordan Staal served by Frans Nielsen
+223,penalty,Roughing,Jordan Staal,Anthony Mantha,[ 50. -38.],3,04:07,CAR,DET,DET,17,CAR,12,2,4,8473533,8477511.0,2019021074,,2020-03-11,Jordan Staal Roughing against Anthony Mantha
+227,penalty,Interference - Goalkeeper,Robby Fabbri,Petr Mrazek,[-85.  -1.],3,03:00,DET,CAR,DET,17,CAR,12,2,4,8477952,8475852.0,2019021074,,2020-03-11,Robby Fabbri Interference - Goalkeeper against Petr Mrazek
+228,penalty,Roughing,Robby Fabbri,Haydn Fleury,[-95. -10.],3,03:00,DET,CAR,DET,17,CAR,12,2,4,8477952,8477938.0,2019021074,,2020-03-11,Robby Fabbri Roughing against Haydn Fleury
+229,penalty,Roughing,Haydn Fleury,Robby Fabbri,[-96. -12.],3,03:00,CAR,DET,DET,17,CAR,12,2,4,8477938,8477952.0,2019021074,,2020-03-11,Haydn Fleury Roughing against Robby Fabbri
+230,penalty,Misconduct,Vincent Trocheck,,[-98. -11.],3,03:00,CAR,DET,DET,17,CAR,12,2,4,8476389,,2019021074,,2020-03-11,Vincent Trocheck Misconduct
+231,penalty,Misconduct,Tyler Bertuzzi,,[-97. -19.],3,03:00,DET,CAR,DET,17,CAR,12,2,4,8477479,,2019021074,,2020-03-11,Tyler Bertuzzi Misconduct
+16,penalty,Interference,Jordan Martinook,Artturi Lehkonen,[52. 15.],1,16:48,CAR,MTL,CAR,12,MTL,8,0,0,8476921,8477476.0,2019020008,,2019-10-04,Jordan Martinook Interference against Artturi Lehkonen
+119,penalty,Face-off violation,Jesperi Kotkaniemi,,[ 50. -23.],2,19:21,MTL,CAR,CAR,12,MTL,8,1,0,8480829,,2019020008,,2019-10-04,Delay Game - Bench – FO viol served by Jesperi Kotkaniemi
+128,penalty,Interference,Brett Pesce,Joel Armia,[-85.  -7.],2,16:44,CAR,MTL,CAR,12,MTL,8,2,0,8477488,8476469.0,2019020008,,2019-10-04,Brett Pesce Interference against Joel Armia
+158,penalty,Holding,Ben Chiarot,Jordan Martinook,[72. 10.],2,11:32,MTL,CAR,CAR,12,MTL,8,2,2,8475279,8476921.0,2019020008,,2019-10-04,Ben Chiarot Holding against Jordan Martinook
+229,penalty,Boarding,Jordan Martinook,Jesperi Kotkaniemi,[-75.  39.],3,17:06,CAR,MTL,CAR,12,MTL,8,2,3,8476921,8480829.0,2019020008,,2019-10-04,Jordan Martinook Boarding against Jesperi Kotkaniemi
+235,penalty,Too many men on the ice,Jesperi Kotkaniemi,,[-39.  38.],3,15:13,MTL,CAR,CAR,12,MTL,8,2,3,8480829,,2019020008,,2019-10-04,Too many men/ice served by Jesperi Kotkaniemi
+39,penalty,Interference,Jonas Siegenthaler,Andrei Svechnikov,[ 31. -36.],1,13:15,WSH,CAR,WSH,15,CAR,12,0,0,8478399,8480830.0,2019020023,,2019-10-09,Jonas Siegenthaler Interference against Andrei Svechnikov
+48,penalty,Interference,Erik Haula,John Carlson,[ 85. -13.],1,11:49,CAR,WSH,WSH,15,CAR,12,0,0,8475287,8474590.0,2019020023,,2019-10-09,Erik Haula Interference against John Carlson
+100,penalty,Slashing,Nino Niederreiter,Nicklas Backstrom,[-34. -27.],1,00:38,CAR,WSH,WSH,15,CAR,12,1,0,8475799,8473563.0,2019020023,,2019-10-09,Nino Niederreiter Slashing against Nicklas Backstrom
+116,penalty,Tripping,Jordan Staal,Nick Jensen,[ 93. -31.],2,15:31,CAR,WSH,WSH,15,CAR,12,1,0,8473533,8475324.0,2019020023,,2019-10-09,Jordan Staal Tripping against Nick Jensen
+130,penalty,Interference,Jonas Siegenthaler,Erik Haula,[-80.   9.],2,11:41,WSH,CAR,WSH,15,CAR,12,1,0,8478399,8475287.0,2019020023,,2019-10-09,Jonas Siegenthaler Interference against Erik Haula
+148,penalty,Tripping,Martin Necas,T.J. Oshie,[31.  7.],2,06:35,CAR,WSH,WSH,15,CAR,12,2,0,8480039,8471698.0,2019020023,,2019-10-09,Martin Necas Tripping against T.J. Oshie
+168,penalty,Hi-sticking,Andrei Svechnikov,Nicklas Backstrom,[30.  2.],2,01:09,CAR,WSH,WSH,15,CAR,12,2,0,8480830,8473563.0,2019020023,,2019-10-09,Andrei Svechnikov Hi-sticking against Nicklas Backstrom
+177,penalty,Interference,Radko Gudas,Ryan Dzingel,[67. 18.],3,18:01,WSH,CAR,WSH,15,CAR,12,2,0,8475462,8476288.0,2019020023,,2019-10-09,Radko Gudas Interference against Ryan Dzingel
+205,penalty,Tripping,Tom Wilson,Jaccob Slavin,[45. 21.],3,12:43,WSH,CAR,WSH,15,CAR,12,2,1,8476880,8476958.0,2019020023,,2019-10-09,Tom Wilson Tripping against Jaccob Slavin
+225,penalty,Hi-sticking,Lars Eller,Joel Edmundson,[-85.  11.],3,07:31,WSH,CAR,WSH,15,CAR,12,2,2,8474189,8476441.0,2019020023,,2019-10-09,Lars Eller Hi-sticking against Joel Edmundson
+226,penalty,Holding the stick,Joel Edmundson,Lars Eller,[-85.  11.],3,07:31,CAR,WSH,WSH,15,CAR,12,2,2,8476441,8474189.0,2019020023,,2019-10-09,Joel Edmundson Holding the stick against Lars Eller
+248,penalty,Hooking,Jordan Staal,Nicklas Backstrom,[69. -3.],4,04:41,CAR,WSH,WSH,15,CAR,12,2,2,8473533,8473563.0,2019020023,,2019-10-09,Jordan Staal Hooking against Nicklas Backstrom
+56,penalty,Interference,Joel Edmundson,Steven Stamkos,[72. -1.],1,10:12,CAR,TBL,CAR,12,TBL,14,1,1,8476441,8474564.0,2019020031,,2019-10-07,Joel Edmundson Interference against Steven Stamkos
+94,penalty,Hooking,Anthony Cirelli,Nino Niederreiter,[-58.  -3.],1,04:57,TBL,CAR,CAR,12,TBL,14,1,2,8478519,8475799.0,2019020031,,2019-10-07,Anthony Cirelli Hooking against Nino Niederreiter
+121,penalty,Tripping,Dougie Hamilton,Mathieu Joseph,[-48. -10.],2,19:05,CAR,TBL,CAR,12,TBL,14,1,3,8476462,8478472.0,2019020031,,2019-10-07,Dougie Hamilton Tripping against Mathieu Joseph
+163,penalty,Hooking,Victor Hedman,Jordan Staal,[72.  1.],2,07:29,TBL,CAR,CAR,12,TBL,14,1,3,8475167,8473533.0,2019020031,,2019-10-07,Victor Hedman Hooking against Jordan Staal
+185,penalty,Hooking,Steven Stamkos,Andrei Svechnikov,[ 69. -15.],2,04:20,TBL,CAR,CAR,12,TBL,14,2,3,8474564,8480830.0,2019020031,,2019-10-07,Steven Stamkos Hooking against Andrei Svechnikov
+188,penalty,Tripping,Teuvo Teravainen,Anthony Cirelli,[ 61. -13.],2,04:10,CAR,TBL,CAR,12,TBL,14,2,3,8476882,8478519.0,2019020031,,2019-10-07,Teuvo Teravainen Tripping against Anthony Cirelli
+221,penalty,Hooking,Warren Foegele,Ryan McDonagh,[-95.   7.],3,14:27,CAR,TBL,CAR,12,TBL,14,2,3,8477998,8474151.0,2019020031,,2019-10-07,Warren Foegele Hooking against Ryan McDonagh
+243,penalty,Hooking,Braydon Coburn,Warren Foegele,[-81.  -2.],3,07:34,TBL,CAR,CAR,12,TBL,14,2,3,8470601,8477998.0,2019020031,,2019-10-07,Braydon Coburn Hooking against Warren Foegele
+271,penalty,Interference,Kevin Shattenkirk,Nino Niederreiter,[-84.   4.],3,00:45,TBL,CAR,CAR,12,TBL,14,3,3,8474031,8475799.0,2019020031,,2019-10-07,Kevin Shattenkirk Interference against Nino Niederreiter
+29,penalty,Hooking,Nino Niederreiter,Aaron Ekblad,[-52. -14.],1,12:10,CAR,FLA,FLA,13,CAR,12,0,1,8475799,8477932.0,2019020036,,2019-10-09,Nino Niederreiter Hooking against Aaron Ekblad
+35,penalty,Hooking,Sebastian Aho,Aleksander Barkov,[-66.  -1.],1,11:20,CAR,FLA,FLA,13,CAR,12,0,1,8478427,8477493.0,2019020036,,2019-10-09,Sebastian Aho Hooking against Aleksander Barkov
+63,penalty,Roughing,Jayce Hawryluk,Lucas Wallmark,[36.  0.],1,05:04,FLA,CAR,FLA,13,CAR,12,0,2,8477963,8478027.0,2019020036,,2019-10-09,Jayce Hawryluk Roughing against Lucas Wallmark
+64,penalty,Roughing,Lucas Wallmark,Jordan Martinook,[40. -1.],1,05:04,CAR,FLA,FLA,13,CAR,12,0,2,8478027,8476921.0,2019020036,,2019-10-09,Lucas Wallmark Roughing against Jayce Hawryluk served by Jordan Martinook
+77,penalty,Hi-sticking,Dryden Hunt,Haydn Fleury,[-97.  18.],1,02:28,FLA,CAR,FLA,13,CAR,12,0,3,8478211,8477938.0,2019020036,,2019-10-09,Dryden Hunt Hi-sticking against Haydn Fleury
+129,penalty,Tripping,Dougie Hamilton,Mike Hoffman,[81. -1.],2,12:52,CAR,FLA,FLA,13,CAR,12,1,5,8476462,8474884.0,2019020036,,2019-10-09,Dougie Hamilton Tripping against Mike Hoffman
+150,penalty,Tripping,Jonathan Huberdeau,Jaccob Slavin,[50. -1.],2,07:53,FLA,CAR,FLA,13,CAR,12,1,5,8476456,8476958.0,2019020036,,2019-10-09,Jonathan Huberdeau Tripping against Jaccob Slavin
+169,penalty,Interference,Joel Edmundson,Frank Vatrano,[ 92. -12.],2,03:45,CAR,FLA,FLA,13,CAR,12,1,5,8476441,8478366.0,2019020036,,2019-10-09,Joel Edmundson Interference against Frank Vatrano
+186,penalty,Hi-sticking,Henrik Borgstrom,Martin Necas,[-17. -29.],2,00:43,FLA,CAR,FLA,13,CAR,12,1,5,8479404,8480039.0,2019020036,,2019-10-09,Henrik Borgstrom Hi-sticking against Martin Necas
+215,penalty,Roughing,Andrei Svechnikov,Jonathan Huberdeau,[-66.  10.],3,11:55,CAR,FLA,FLA,13,CAR,12,1,5,8480830,8476456.0,2019020036,,2019-10-09,Andrei Svechnikov Roughing against Jonathan Huberdeau
+216,penalty,Roughing,Jonathan Huberdeau,Andrei Svechnikov,[-69.  14.],3,11:55,FLA,CAR,FLA,13,CAR,12,1,5,8476456,8480830.0,2019020036,,2019-10-09,Jonathan Huberdeau Roughing against Andrei Svechnikov
+218,penalty,Holding the stick,Nino Niederreiter,Aaron Ekblad,[-67.   7.],3,11:42,CAR,FLA,FLA,13,CAR,12,1,5,8475799,8477932.0,2019020036,,2019-10-09,Nino Niederreiter Holding the stick against Aaron Ekblad
+243,penalty,Tripping,Brock McGinn,Jonathan Huberdeau,[-33.   4.],3,06:02,CAR,FLA,FLA,13,CAR,12,2,5,8476934,8476456.0,2019020036,,2019-10-09,Brock McGinn Tripping against Jonathan Huberdeau
+45,penalty,Interference,Dougie Hamilton,Matt Martin,[ 83. -10.],1,11:32,CAR,NYI,CAR,12,NYI,2,1,0,8476462,8474709.0,2019020060,,2019-10-12,Dougie Hamilton Interference against Matt Martin
+62,penalty,Hi-sticking,Michael Dal Colle,Jake Gardiner,[-26. -30.],1,08:01,NYI,CAR,CAR,12,NYI,2,1,1,8477936,8474581.0,2019020060,,2019-10-12,Michael Dal Colle Hi-sticking against Jake Gardiner
+97,penalty,Hi-sticking,Derick Brassard,Brock McGinn,[-87. -38.],1,01:11,NYI,CAR,CAR,12,NYI,2,2,1,8473544,8476934.0,2019020060,,2019-10-12,Derick Brassard Hi-sticking against Brock McGinn
+100,penalty,Delay of game,Andrei Svechnikov,,[ 4. 39.],1,00:04,CAR,NYI,CAR,12,NYI,2,2,1,8480830,,2019020060,,2019-10-12,Delay of Game - Bench served by Andrei Svechnikov
+138,penalty,Slashing,Ryan Dzingel,Johnny Boychuk,[-47.   7.],2,12:50,CAR,NYI,CAR,12,NYI,2,2,2,8476288,8470187.0,2019020060,,2019-10-12,Ryan Dzingel Slashing against Johnny Boychuk
+140,penalty,Holding,Anthony Beauvillier,Joel Edmundson,[-71.   2.],2,12:40,NYI,CAR,CAR,12,NYI,2,2,2,8478463,8476441.0,2019020060,,2019-10-12,Anthony Beauvillier Holding against Joel Edmundson
+145,penalty,Holding,Andrei Svechnikov,Anders Lee,[-28.  -1.],2,11:10,CAR,NYI,CAR,12,NYI,2,2,2,8480830,8475314.0,2019020060,,2019-10-12,Andrei Svechnikov Holding against Anders Lee
+246,penalty,Hi-sticking,Julien Gauthier,Devon Toews,[-84.  -9.],3,07:03,CAR,NYI,CAR,12,NYI,2,4,2,8479328,8478038.0,2019020060,,2019-10-12,Julien Gauthier Hi-sticking against Devon Toews
+11,penalty,Hooking,Alexandre Texier,Haydn Fleury,[96. 34.],1,15:41,CBJ,CAR,CAR,12,CBJ,29,0,0,8480074,8477938.0,2019020068,,2019-10-13,Alexandre Texier Hooking against Haydn Fleury
+51,penalty,Tripping,Andrei Svechnikov,David Savard,[-92. -34.],1,08:08,CAR,CBJ,CAR,12,CBJ,29,1,1,8480830,8475233.0,2019020068,,2019-10-13,Andrei Svechnikov Tripping against David Savard
+78,penalty,Holding,Jordan Staal,Pierre-Luc Dubois,[82. 17.],1,03:26,CAR,CBJ,CAR,12,CBJ,29,1,1,8473533,8479400.0,2019020068,,2019-10-13,Jordan Staal Holding against Pierre-Luc Dubois
+83,penalty,Interference,Seth Jones,Lucas Wallmark,[12.  1.],1,02:23,CBJ,CAR,CAR,12,CBJ,29,1,1,8477495,8478027.0,2019020068,,2019-10-13,Seth Jones Interference against Lucas Wallmark
+149,penalty,Tripping,Boone Jenner,Sebastian Aho,[-66.  37.],2,09:50,CBJ,CAR,CAR,12,CBJ,29,2,2,8476432,8478427.0,2019020068,,2019-10-13,Boone Jenner Tripping against Sebastian Aho
+164,penalty,Holding,Haydn Fleury,Jakob Lilja,[-70. -39.],2,05:29,CAR,CBJ,CAR,12,CBJ,29,2,2,8477938,8481650.0,2019020068,,2019-10-13,Haydn Fleury Holding against Jakob Lilja
+6,penalty,Slashing,Ryan Dzingel,Ilya Kovalchuk,[ 81. -30.],1,18:18,CAR,LAK,LAK,26,CAR,12,0,0,8476288,8469454.0,2019020091,,2019-10-16,Ryan Dzingel Slashing against Ilya Kovalchuk
+35,penalty,Interference,Brock McGinn,Blake Lizotte,[  0. -36.],1,11:29,CAR,LAK,LAK,26,CAR,12,0,0,8476934,8481481.0,2019020091,,2019-10-16,Brock McGinn Interference against Blake Lizotte
+52,penalty,Hooking,Anze Kopitar,Jordan Staal,[71. -6.],1,07:07,LAK,CAR,LAK,26,CAR,12,0,0,8471685,8473533.0,2019020091,,2019-10-16,Anze Kopitar Hooking against Jordan Staal
+70,penalty,Holding,Alec Martinez,Erik Haula,[ 92. -32.],1,03:00,LAK,CAR,LAK,26,CAR,12,0,0,8474166,8475287.0,2019020091,,2019-10-16,Alec Martinez Holding against Erik Haula
+107,penalty,Hi-sticking,Adrian Kempe,Joel Edmundson,[ 54. -35.],2,15:02,LAK,CAR,LAK,26,CAR,12,0,1,8477960,8476441.0,2019020091,,2019-10-16,Adrian Kempe Hi-sticking against Joel Edmundson
+132,penalty,Tripping,Lucas Wallmark,Trevor Lewis,[67. 32.],2,06:44,CAR,LAK,LAK,26,CAR,12,0,1,8478027,8473453.0,2019020091,,2019-10-16,Lucas Wallmark Tripping against Trevor Lewis
+135,penalty,Interference,Drew Doughty,Sebastian Aho,[22. 34.],2,05:41,LAK,CAR,LAK,26,CAR,12,0,1,8474563,8478427.0,2019020091,,2019-10-16,Drew Doughty Interference against Sebastian Aho
+198,penalty,Holding,Brett Pesce,Blake Lizotte,[-71.  -8.],3,05:48,CAR,LAK,LAK,26,CAR,12,0,1,8477488,8481481.0,2019020091,,2019-10-16,Brett Pesce Holding against Blake Lizotte
+216,penalty,Boarding,Jordan Staal,Drew Doughty,[-95.  27.],3,01:14,CAR,LAK,LAK,26,CAR,12,0,1,8473533,8474563.0,2019020091,,2019-10-16,Jordan Staal Boarding against Drew Doughty
+76,penalty,Tripping,Nino Niederreiter,Tomas Hertl,[-41.  25.],1,03:34,CAR,SJS,SJS,28,CAR,12,1,1,8475799,8476881.0,2019020097,CAR,2019-10-17,Nino Niederreiter Tripping against Tomas Hertl
+95,penalty,Tripping,Andrei Svechnikov,Erik Karlsson,[-96.  -9.],1,00:23,CAR,SJS,SJS,28,CAR,12,2,1,8480830,8474578.0,2019020097,CAR,2019-10-17,Andrei Svechnikov Tripping against Erik Karlsson
+135,penalty,Tripping,Jaccob Slavin,Barclay Goodrow,[-55.  39.],2,12:52,CAR,SJS,SJS,28,CAR,12,3,1,8476958,8476624.0,2019020097,CAR,2019-10-17,Jaccob Slavin Tripping against Barclay Goodrow
+138,penalty,Holding the stick,Joe Thornton,Lucas Wallmark,[-89. -27.],2,10:52,SJS,CAR,SJS,28,CAR,12,3,1,8466138,8478027.0,2019020097,CAR,2019-10-17,Joe Thornton Holding the stick against Lucas Wallmark
+161,penalty,Hooking,Patrick Marleau,Jaccob Slavin,[45. 34.],2,04:43,SJS,CAR,SJS,28,CAR,12,4,1,8466139,8476958.0,2019020097,CAR,2019-10-17,Patrick Marleau Hooking against Jaccob Slavin
+169,penalty,Hooking,Barclay Goodrow,Andrei Svechnikov,[53. 28.],2,03:28,SJS,CAR,SJS,28,CAR,12,4,1,8476624,8480830.0,2019020097,CAR,2019-10-17,Barclay Goodrow Hooking against Andrei Svechnikov
+196,penalty,Tripping,Nino Niederreiter,Tomas Hertl,[ 66. -35.],3,13:32,CAR,SJS,SJS,28,CAR,12,4,1,8475799,8476881.0,2019020097,CAR,2019-10-17,Nino Niederreiter Tripping against Tomas Hertl
+209,penalty,Holding,Kevin Labanc,Haydn Fleury,[-75. -14.],3,07:48,SJS,CAR,SJS,28,CAR,12,4,1,8478099,8477938.0,2019020097,CAR,2019-10-17,Kevin Labanc Holding against Haydn Fleury
+35,penalty,Hooking,Adam Henrique,Jordan Staal,[-80.   9.],1,08:34,ANA,CAR,ANA,24,CAR,12,1,0,8474641,8473533.0,2019020112,CAR,2019-10-19,Adam Henrique Hooking against Jordan Staal
+72,penalty,Hooking,Nino Niederreiter,Derek Grant,[88. 26.],2,18:08,CAR,ANA,ANA,24,CAR,12,3,0,8475799,8474683.0,2019020112,CAR,2019-10-19,Nino Niederreiter Hooking against Derek Grant
+77,penalty,Holding,Devin Shore,Sebastian Aho,[-65.  38.],2,15:24,ANA,CAR,ANA,24,CAR,12,3,0,8476913,8478427.0,2019020112,CAR,2019-10-19,Devin Shore Holding against Sebastian Aho
+95,penalty,Interference,Hampus Lindholm,Martin Necas,[55.  0.],2,11:20,ANA,CAR,ANA,24,CAR,12,4,0,8476854,8480039.0,2019020112,CAR,2019-10-19,Hampus Lindholm Interference against Martin Necas
+118,penalty,Fighting,Joel Edmundson,Josh Manson,[53. 23.],2,06:21,CAR,ANA,ANA,24,CAR,12,4,2,8476441,8476312.0,2019020112,CAR,2019-10-19,Joel Edmundson Fighting against Josh Manson
+119,penalty,Fighting,Josh Manson,Joel Edmundson,[71. 37.],2,06:21,ANA,CAR,ANA,24,CAR,12,4,2,8476312,8476441.0,2019020112,CAR,2019-10-19,Josh Manson Fighting against Joel Edmundson
+46,penalty,Hooking,Jordan Staal,Cam Atkinson,[68. 38.],1,07:05,CAR,CBJ,CBJ,29,CAR,12,1,3,8473533,8474715.0,2019020148,CAR,2019-10-25,Jordan Staal Hooking against Cam Atkinson
+85,penalty,Holding,Brett Pesce,Alexandre Texier,[-24.   9.],2,15:25,CAR,CBJ,CBJ,29,CAR,12,1,3,8477488,8480074.0,2019020148,CAR,2019-10-25,Brett Pesce Holding against Alexandre Texier
+129,penalty,Tripping,Seth Jones,Nino Niederreiter,[-11.  37.],2,02:30,CBJ,CAR,CBJ,29,CAR,12,3,3,8477495,8475799.0,2019020148,CAR,2019-10-25,Seth Jones Tripping against Nino Niederreiter
+147,penalty,Hi-sticking,Sonny Milano,Sebastian Aho,[-97.   8.],3,17:52,CBJ,CAR,CBJ,29,CAR,12,3,3,8477947,8478427.0,2019020148,CAR,2019-10-25,Sonny Milano Hi-sticking against Sebastian Aho
+171,penalty,Hooking,Oliver Bjorkstrand,Andrei Svechnikov,[-63.  -1.],3,11:13,CBJ,CAR,CBJ,29,CAR,12,3,3,8477416,8480830.0,2019020148,CAR,2019-10-25,Oliver Bjorkstrand Hooking against Andrei Svechnikov
+183,penalty,Slashing,Joel Edmundson,Pierre-Luc Dubois,[ 70. -20.],3,06:54,CAR,CBJ,CBJ,29,CAR,12,3,3,8476441,8479400.0,2019020148,CAR,2019-10-25,Joel Edmundson Slashing against Pierre-Luc Dubois
+184,penalty,Slashing,Pierre-Luc Dubois,Joel Edmundson,[ 73. -15.],3,06:54,CBJ,CAR,CBJ,29,CAR,12,3,3,8479400,8476441.0,2019020148,CAR,2019-10-25,Pierre-Luc Dubois Slashing against Joel Edmundson
+23,penalty,Hi-sticking,Duncan Keith,Jaccob Slavin,[-99.   9.],1,15:48,CHI,CAR,CAR,12,CHI,16,0,0,8470281,8476958.0,2019020161,CHI,2019-10-26,Duncan Keith Hi-sticking against Jaccob Slavin
+30,penalty,Boarding,Jake Gardiner,Alex Nylander,[69. 42.],1,15:01,CAR,CHI,CAR,12,CHI,16,1,0,8474581,8479423.0,2019020161,CHI,2019-10-26,Jake Gardiner Boarding against Alex Nylander
+134,penalty,Hooking,Martin Necas,Alex Nylander,[-67.   2.],2,09:06,CAR,CHI,CAR,12,CHI,16,1,0,8480039,8479423.0,2019020161,CHI,2019-10-26,Martin Necas Hooking against Alex Nylander
+186,penalty,Holding,Kirby Dach,Warren Foegele,[-58.  31.],3,18:24,CHI,CAR,CAR,12,CHI,16,2,0,8481523,8477998.0,2019020161,CHI,2019-10-26,Kirby Dach Holding against Warren Foegele
+239,penalty,Tripping,Joel Edmundson,Alex Nylander,[ 34. -25.],3,06:02,CAR,CHI,CAR,12,CHI,16,3,0,8476441,8479423.0,2019020161,CHI,2019-10-26,Joel Edmundson Tripping against Alex Nylander
+31,penalty,Hi-sticking,Warren Foegele,Sean Monahan,[ 93. -25.],1,14:19,CAR,CGY,CAR,12,CGY,20,0,0,8477998,8477497.0,2019020183,CGY,2019-10-30,Warren Foegele Hi-sticking against Sean Monahan
+33,penalty,Interference,Mark Giordano,Brian Gibbons,[12. 41.],1,13:16,CGY,CAR,CAR,12,CGY,20,0,0,8470966,8476207.0,2019020183,CGY,2019-10-30,Mark Giordano Interference against Brian Gibbons
+121,penalty,Slashing,Brock McGinn,Andrew Mangiapane,[-69.   0.],2,10:38,CAR,CGY,CAR,12,CGY,20,0,1,8476934,8478233.0,2019020183,CGY,2019-10-30,Brock McGinn Slashing against Andrew Mangiapane
+196,penalty,Hooking,Mark Giordano,Brock McGinn,[-69.   9.],3,13:52,CGY,CAR,CAR,12,CGY,20,0,1,8470966,8476934.0,2019020183,CGY,2019-10-30,Mark Giordano Hooking against Brock McGinn
+215,penalty,Roughing,Matthew Tkachuk,Trevor van Riemsdyk,[16. 41.],3,07:57,CGY,CAR,CAR,12,CGY,20,1,1,8479314,8477845.0,2019020183,CGY,2019-10-30,Matthew Tkachuk Roughing against Trevor van Riemsdyk
+232,penalty,Tripping,Dougie Hamilton,Andrew Mangiapane,[41. 40.],3,02:32,CAR,CGY,CAR,12,CGY,20,2,1,8476462,8478233.0,2019020183,CGY,2019-10-30,Dougie Hamilton Tripping against Andrew Mangiapane
+8,penalty,Hi-sticking,Erik Haula,Taro Hirose,[-25.  15.],1,18:52,CAR,DET,CAR,12,DET,17,0,0,8475287,8481433.0,2019020199,,2019-11-04,Erik Haula Hi-sticking against Taro Hirose
+29,penalty,Interference,Patrik Nemeth,Nino Niederreiter,[  1. -24.],1,14:17,DET,CAR,CAR,12,DET,17,0,0,8475747,8475799.0,2019020199,,2019-11-04,Patrik Nemeth Interference against Nino Niederreiter
+30,penalty,Embellishment,Nino Niederreiter,,[-22. -23.],1,14:17,CAR,DET,CAR,12,DET,17,0,0,8475799,,2019020199,,2019-11-04,Nino Niederreiter Embellishment
+75,penalty,Tripping,Filip Hronek,Brock McGinn,[-71.  -2.],1,02:45,DET,CAR,CAR,12,DET,17,1,1,8479425,8476934.0,2019020199,,2019-11-04,Filip Hronek Tripping against Brock McGinn
+94,penalty,Delay of game,Brendan Perlini,,[-2. 31.],2,19:33,DET,CAR,CAR,12,DET,17,2,1,8477943,,2019020199,,2019-11-04,Delay of Game - Bench served by Brendan Perlini
+135,penalty,Hi-sticking,Sebastian Aho,Brendan Perlini,[-46.  -1.],2,12:03,CAR,DET,CAR,12,DET,17,3,1,8478427,8477943.0,2019020199,,2019-11-04,Sebastian Aho Hi-sticking against Brendan Perlini
+181,penalty,Tripping,Tyler Bertuzzi,Jaccob Slavin,[-62.  37.],2,00:36,DET,CAR,CAR,12,DET,17,5,3,8477479,8476958.0,2019020199,,2019-11-04,Tyler Bertuzzi Tripping against Jaccob Slavin
+188,penalty,Hi-sticking,Jordan Staal,Valtteri Filppula,[-22. -26.],3,19:04,CAR,DET,CAR,12,DET,17,5,3,8473533,8470047.0,2019020199,,2019-11-04,Jordan Staal Hi-sticking against Valtteri Filppula
+204,penalty,Holding,Trevor van Riemsdyk,Anthony Mantha,[ 65. -13.],3,13:17,CAR,DET,CAR,12,DET,17,6,3,8477845,8477511.0,2019020199,,2019-11-04,Trevor van Riemsdyk Holding against Anthony Mantha
+227,penalty,Hi-sticking,Dougie Hamilton,Tyler Bertuzzi,[77.  2.],3,06:22,CAR,DET,CAR,12,DET,17,6,3,8476462,8477479.0,2019020199,,2019-11-04,Dougie Hamilton Hi-sticking against Tyler Bertuzzi
+58,penalty,Hooking,Andrei Svechnikov,Pavel Zacha,[-57. -39.],1,06:44,CAR,NJD,CAR,12,NJD,1,1,1,8480830,8478401.0,2019020210,NJD,2019-11-03,Andrei Svechnikov Hooking against Pavel Zacha
+67,penalty,Delaying Game - Puck over glass,Matt Tennyson,,[-86. -34.],1,04:10,NJD,CAR,CAR,12,NJD,1,1,1,8476807,,2019020210,NJD,2019-11-03,Matt Tennyson Delaying Game - Puck over glass
+71,penalty,Hooking,Blake Coleman,Andrei Svechnikov,[-97.   1.],1,03:24,NJD,CAR,CAR,12,NJD,1,2,1,8476399,8480830.0,2019020210,NJD,2019-11-03,Blake Coleman Hooking against Andrei Svechnikov
+78,penalty,Tripping,Dougie Hamilton,Nico Hischier,[-7. 39.],1,01:32,CAR,NJD,CAR,12,NJD,1,2,1,8476462,8480002.0,2019020210,NJD,2019-11-03,Dougie Hamilton Tripping against Nico Hischier
+115,penalty,Hooking,Travis Zajac,Jake Gardiner,[35. 39.],2,14:37,NJD,CAR,CAR,12,NJD,1,2,3,8471233,8474581.0,2019020210,NJD,2019-11-03,Travis Zajac Hooking against Jake Gardiner
+174,penalty,Roughing,Kevin Rooney,Andrei Svechnikov,[ 7. 40.],2,00:00,NJD,CAR,CAR,12,NJD,1,3,3,8479291,8480830.0,2019020210,NJD,2019-11-03,Kevin Rooney Roughing against Andrei Svechnikov
+175,penalty,Roughing,Andrei Svechnikov,Kevin Rooney,[ 3. 41.],2,00:00,CAR,NJD,CAR,12,NJD,1,3,3,8480830,8479291.0,2019020210,NJD,2019-11-03,Andrei Svechnikov Roughing against Kevin Rooney
+177,penalty,Tripping,Dougie Hamilton,Taylor Hall,[-4. 16.],3,19:56,CAR,NJD,CAR,12,NJD,1,3,3,8476462,8475791.0,2019020210,NJD,2019-11-03,Dougie Hamilton Tripping against Taylor Hall
+179,penalty,Interference,Kyle Palmieri,Jaccob Slavin,[ 87. -24.],3,19:43,NJD,CAR,CAR,12,NJD,1,3,3,8475151,8476958.0,2019020210,NJD,2019-11-03,Kyle Palmieri Interference against Jaccob Slavin
+207,penalty,Roughing,Ryan Dzingel,Pavel Zacha,[ 0. 39.],3,11:56,CAR,NJD,CAR,12,NJD,1,3,4,8476288,8478401.0,2019020210,NJD,2019-11-03,Ryan Dzingel Roughing against Pavel Zacha
+208,penalty,Roughing,Pavel Zacha,Ryan Dzingel,[-7. 22.],3,11:56,NJD,CAR,CAR,12,NJD,1,3,4,8478401,8476288.0,2019020210,NJD,2019-11-03,Pavel Zacha Roughing against Ryan Dzingel
+217,penalty,Hooking,Warren Foegele,Taylor Hall,[ 28. -16.],3,09:57,CAR,NJD,CAR,12,NJD,1,3,4,8477998,8475791.0,2019020210,NJD,2019-11-03,Warren Foegele Hooking against Taylor Hall
+15,penalty,Hi-sticking,Joel Edmundson,Travis Konecny,[-92. -30.],1,17:44,CAR,PHI,PHI,4,CAR,12,0,0,8476441,8478439.0,2019020226,,2019-11-06,Joel Edmundson Hi-sticking against Travis Konecny
+29,penalty,Tripping,Joel Farabee,Dougie Hamilton,[-96. -26.],1,13:44,PHI,CAR,PHI,4,CAR,12,1,0,8480797,8476462.0,2019020226,,2019-11-06,Joel Farabee Tripping against Dougie Hamilton
+84,penalty,Holding,Jake Gardiner,Michael Raffl,[95. 25.],2,18:52,CAR,PHI,PHI,4,CAR,12,1,0,8474581,8477290.0,2019020226,,2019-11-06,Jake Gardiner Holding against Michael Raffl
+88,penalty,Hooking,Ivan Provorov,Sebastian Aho,[-75.  -4.],2,18:43,PHI,CAR,PHI,4,CAR,12,1,0,8478500,8478427.0,2019020226,,2019-11-06,Ivan Provorov Hooking against Sebastian Aho
+161,penalty,Cross checking,Joel Edmundson,Tyler Pitlick,[-95. -27.],3,17:57,CAR,PHI,PHI,4,CAR,12,2,1,8476441,8475752.0,2019020226,,2019-11-06,Joel Edmundson Cross checking against Tyler Pitlick
+188,penalty,Tripping,Ivan Provorov,Warren Foegele,[89. 23.],3,12:20,PHI,CAR,PHI,4,CAR,12,2,1,8478500,8477998.0,2019020226,,2019-11-06,Ivan Provorov Tripping against Warren Foegele
+19,penalty,Roughing,Lias Andersson,Brock McGinn,[ 1. 40.],1,16:28,NYR,CAR,CAR,12,NYR,3,0,0,8480072,8476934.0,2019020241,,2019-11-08,Lias Andersson Roughing against Brock McGinn
+43,penalty,Tripping,Marc Staal,Eetu Luostarinen,[-95.  25.],1,10:50,NYR,CAR,CAR,12,NYR,3,0,0,8471686,8480185.0,2019020241,,2019-11-08,Marc Staal Tripping against Eetu Luostarinen
+144,penalty,Interference,Jake Gardiner,Brendan Lemieux,[-89.  27.],2,12:15,CAR,NYR,CAR,12,NYR,3,0,1,8474581,8477962.0,2019020241,,2019-11-08,Jake Gardiner Interference against Brendan Lemieux
+191,penalty,Tripping,Brett Pesce,Kaapo Kakko,[-79.  -5.],2,02:14,CAR,NYR,CAR,12,NYR,3,1,1,8477488,8481554.0,2019020241,,2019-11-08,Brett Pesce Tripping against Kaapo Kakko
+1,penalty,Slashing,Jordan Staal,Anthony Duclair,[82. -6.],1,19:51,CAR,OTT,OTT,9,CAR,12,0,0,8473533,8477407.0,2019020255,CAR,2019-11-10,Jordan Staal Slashing against Anthony Duclair
+10,penalty,Slashing,Thomas Chabot,Sebastian Aho,[-67.   2.],1,18:57,OTT,CAR,OTT,9,CAR,12,0,0,8478469,8478427.0,2019020255,CAR,2019-11-10,Thomas Chabot Slashing against Sebastian Aho
+21,penalty,Tripping,Dylan DeMelo,Nino Niederreiter,[-91. -11.],1,16:27,OTT,CAR,OTT,9,CAR,12,0,0,8476331,8475799.0,2019020255,CAR,2019-11-10,Dylan DeMelo Tripping against Nino Niederreiter
+26,penalty,Fighting,Ryan Dzingel,Vladislav Namestnikov,[-9. 37.],1,15:40,CAR,OTT,OTT,9,CAR,12,0,0,8476288,8476480.0,2019020255,CAR,2019-11-10,Ryan Dzingel Fighting against Vladislav Namestnikov
+27,penalty,Fighting,Vladislav Namestnikov,Ryan Dzingel,[-11.  38.],1,15:40,OTT,CAR,OTT,9,CAR,12,0,0,8476480,8476288.0,2019020255,CAR,2019-11-10,Vladislav Namestnikov Fighting against Ryan Dzingel
+55,penalty,Slashing,Warren Foegele,Colin White,[64.  2.],1,08:17,CAR,OTT,OTT,9,CAR,12,1,0,8477998,8478400.0,2019020255,CAR,2019-11-10,Warren Foegele Slashing against Colin White
+134,penalty,Tripping,Erik Brannstrom,Warren Foegele,[91. 10.],2,16:03,OTT,CAR,OTT,9,CAR,12,3,0,8480073,8477998.0,2019020255,CAR,2019-11-10,Erik Brannstrom Tripping against Warren Foegele
+161,penalty,Hi-sticking,Chris Tierney,Jordan Staal,[85. 13.],2,09:45,OTT,CAR,OTT,9,CAR,12,3,0,8476919,8473533.0,2019020255,CAR,2019-11-10,Chris Tierney Hi-sticking against Jordan Staal
+213,penalty,Tripping,Warren Foegele,Nick Paul,[-48. -28.],2,00:16,CAR,OTT,OTT,9,CAR,12,3,1,8477998,8477426.0,2019020255,CAR,2019-11-10,Warren Foegele Tripping against Nick Paul
+308,penalty,Cross checking,Joel Edmundson,Brady Tkachuk,[ 91. -30.],3,01:34,CAR,OTT,OTT,9,CAR,12,4,1,8476441,8480801.0,2019020255,CAR,2019-11-10,Joel Edmundson Cross checking against Brady Tkachuk
+37,penalty,Fighting,Bobby Ryan,Brock McGinn,[ 61. -16.],1,11:22,OTT,CAR,CAR,12,OTT,9,1,0,8471676,8476934.0,2019020271,OTT,2019-11-12,Bobby Ryan Fighting against Brock McGinn
+38,penalty,Fighting,Brock McGinn,Bobby Ryan,[ 59. -11.],1,11:22,CAR,OTT,CAR,12,OTT,9,1,0,8476934,8471676.0,2019020271,OTT,2019-11-12,Brock McGinn Fighting against Bobby Ryan
+80,penalty,Interference,Jean-Gabriel Pageau,Warren Foegele,[45. 24.],1,03:50,OTT,CAR,CAR,12,OTT,9,1,0,8476419,8477998.0,2019020271,OTT,2019-11-12,Jean-Gabriel Pageau Interference against Warren Foegele
+97,penalty,Holding,Teuvo Teravainen,Jean-Gabriel Pageau,[-74.   3.],1,00:47,CAR,OTT,CAR,12,OTT,9,2,0,8476882,8476419.0,2019020271,OTT,2019-11-12,Teuvo Teravainen Holding against Jean-Gabriel Pageau
+109,penalty,Holding,Jake Gardiner,Chris Tierney,[-89.  31.],2,17:36,CAR,OTT,CAR,12,OTT,9,2,0,8474581,8476919.0,2019020271,OTT,2019-11-12,Jake Gardiner Holding against Chris Tierney
+154,penalty,Tripping,Nick Paul,Brett Pesce,[-19. -19.],2,10:32,OTT,CAR,CAR,12,OTT,9,3,0,8477426,8477488.0,2019020271,OTT,2019-11-12,Nick Paul Tripping against Brett Pesce
+211,penalty,Hooking,Erik Brannstrom,Joel Edmundson,[-65.   8.],3,16:35,OTT,CAR,CAR,12,OTT,9,6,1,8480073,8476441.0,2019020271,OTT,2019-11-12,Erik Brannstrom Hooking against Joel Edmundson
+224,penalty,Too many men on the ice,Ryan Dzingel,,[10. 41.],3,13:46,CAR,OTT,CAR,12,OTT,9,6,1,8476288,,2019020271,OTT,2019-11-12,Too many men/ice served by Ryan Dzingel
+277,penalty,Unsportsmanlike conduct,Ryan Dzingel,Nick Paul,[-14.  14.],3,04:05,CAR,OTT,CAR,12,OTT,9,7,2,8476288,8477426.0,2019020271,OTT,2019-11-12,Ryan Dzingel Unsportsmanlike conduct against Nick Paul
+278,penalty,Roughing,Nick Paul,Ryan Dzingel,[-15.  13.],3,04:05,OTT,CAR,CAR,12,OTT,9,7,2,8477426,8476288.0,2019020271,OTT,2019-11-12,Nick Paul Roughing against Ryan Dzingel
+31,penalty,Slashing,Sebastian Aho,Jack Eichel,[61.  5.],1,11:22,CAR,BUF,BUF,7,CAR,12,1,0,8478427,8478403.0,2019020286,,2019-11-15,Sebastian Aho Slashing against Jack Eichel
+51,penalty,Holding,Brian Gibbons,Jimmy Vesey,[-65. -37.],1,05:51,CAR,BUF,BUF,7,CAR,12,1,1,8476207,8476918.0,2019020286,,2019-11-15,Brian Gibbons Holding against Jimmy Vesey
+55,penalty,Hooking,Kyle Okposo,Lucas Wallmark,[41. -8.],1,04:22,BUF,CAR,BUF,7,CAR,12,1,1,8473449,8478027.0,2019020286,,2019-11-15,Kyle Okposo Hooking against Lucas Wallmark
+104,penalty,Hi-sticking,Andrei Svechnikov,Henri Jokiharju,[23. 40.],2,12:58,CAR,BUF,BUF,7,CAR,12,1,3,8480830,8480035.0,2019020286,,2019-11-15,Andrei Svechnikov Hi-sticking against Henri Jokiharju
+160,penalty,Hi-sticking,Johan Larsson,Ryan Dzingel,[-77.  39.],3,14:57,BUF,CAR,BUF,7,CAR,12,2,3,8475728,8476288.0,2019020286,,2019-11-15,Johan Larsson Hi-sticking against Ryan Dzingel
+203,penalty,Hi-sticking,Sam Reinhart,Joel Edmundson,[82. -1.],3,04:27,BUF,CAR,BUF,7,CAR,12,3,3,8477933,8476441.0,2019020286,,2019-11-15,Sam Reinhart Hi-sticking against Joel Edmundson
+207,penalty,Misconduct,Sam Reinhart,Andrei Svechnikov,[ -6. -41.],3,03:54,BUF,CAR,BUF,7,CAR,12,3,4,8477933,8480830.0,2019020286,,2019-11-15,Sam Reinhart Misconduct against Andrei Svechnikov
+230,penalty,Interference,Rasmus Ristolainen,Andrei Svechnikov,[-36. -23.],4,03:41,BUF,CAR,BUF,7,CAR,12,4,4,8477499,8480830.0,2019020286,,2019-11-15,Rasmus Ristolainen Interference against Andrei Svechnikov
+231,penalty,Holding,Andrei Svechnikov,Rasmus Ristolainen,[-37. -18.],4,03:41,CAR,BUF,BUF,7,CAR,12,4,4,8480830,8477499.0,2019020286,,2019-11-15,Andrei Svechnikov Holding against Rasmus Ristolainen
+237,penalty,Game misconduct,Rasmus Ristolainen,,[  0. -39.],4,02:32,BUF,CAR,BUF,7,CAR,12,4,5,8477499,,2019020286,,2019-11-15,Rasmus Ristolainen Game misconduct
+46,penalty,Tripping,Erik Haula,Mats Zuccarello,[-94.  16.],1,08:26,CAR,MIN,MIN,30,CAR,12,0,2,8475287,8475692.0,2019020299,,2019-11-17,Erik Haula Tripping against Mats Zuccarello
+62,penalty,Roughing,Matt Dumba,Joel Edmundson,[-82.  -5.],1,03:55,MIN,CAR,MIN,30,CAR,12,0,2,8476856,8476441.0,2019020299,,2019-11-17,Matt Dumba Roughing against Joel Edmundson
+63,penalty,Roughing,Joel Edmundson,Matt Dumba,[-81.  -1.],1,03:55,CAR,MIN,MIN,30,CAR,12,0,2,8476441,8476856.0,2019020299,,2019-11-17,Joel Edmundson Roughing against Matt Dumba
+87,penalty,Interference,Trevor van Riemsdyk,Joel Eriksson Ek,[80. -1.],2,18:10,CAR,MIN,MIN,30,CAR,12,0,2,8477845,8478493.0,2019020299,,2019-11-17,Trevor van Riemsdyk Interference against Joel Eriksson Ek
+122,penalty,Tripping,Dougie Hamilton,Jordan Greenway,[60. 34.],2,08:31,CAR,MIN,MIN,30,CAR,12,1,3,8476462,8478413.0,2019020299,,2019-11-17,Dougie Hamilton Tripping against Jordan Greenway
+131,penalty,Tripping,Kevin Fiala,Martin Necas,[-59.  35.],2,06:09,MIN,CAR,MIN,30,CAR,12,1,3,8477942,8480039.0,2019020299,,2019-11-17,Kevin Fiala Tripping against Martin Necas
+175,penalty,Interference,Ryan Hartman,Lucas Wallmark,[-27. -13.],3,12:02,MIN,CAR,MIN,30,CAR,12,3,3,8477451,8478027.0,2019020299,,2019-11-17,Ryan Hartman Interference against Lucas Wallmark
+119,penalty,Tripping,Dougie Hamilton,Dominik Kubalik,[-29.   2.],2,11:46,CAR,CHI,CHI,16,CAR,12,0,2,8476462,8477330.0,2019020326,CAR,2019-11-20,Dougie Hamilton Tripping against Dominik Kubalik
+148,penalty,Tripping,Patrick Kane,Eetu Luostarinen,[-67. -35.],2,06:27,CHI,CAR,CHI,16,CAR,12,0,3,8474141,8480185.0,2019020326,CAR,2019-11-20,Patrick Kane Tripping against Eetu Luostarinen
+202,penalty,Holding,Jake Gardiner,Dylan Strome,[-47.  40.],3,14:14,CAR,CHI,CHI,16,CAR,12,0,3,8474581,8478440.0,2019020326,CAR,2019-11-20,Jake Gardiner Holding against Dylan Strome
+238,penalty,Interference,Brett Pesce,Andrew Shaw,[-82.   2.],3,06:11,CAR,CHI,CHI,16,CAR,12,2,3,8477488,8476381.0,2019020326,CAR,2019-11-20,Brett Pesce Interference against Andrew Shaw
+276,penalty,Misconduct,Patrick Kane,,[22. -1.],3,00:18,CHI,CAR,CHI,16,CAR,12,2,4,8474141,,2019020326,CAR,2019-11-20,Patrick Kane Misconduct
+10,penalty,Tripping,Jakub Voracek,Ryan Dzingel,[ 56. -27.],1,16:06,PHI,CAR,CAR,12,PHI,4,1,0,8474161,8476288.0,2019020336,,2019-11-22,Jakub Voracek Tripping against Ryan Dzingel
+21,penalty,Face-off violation,Ryan Dzingel,,[-69.  22.],1,14:47,CAR,PHI,CAR,12,PHI,4,2,0,8476288,,2019020336,,2019-11-22,Delay Game - Bench – FO viol served by Ryan Dzingel
+26,penalty,Unsportsmanlike conduct,Jakub Voracek,Jaccob Slavin,[ 21. -34.],1,13:41,PHI,CAR,CAR,12,PHI,4,2,0,8474161,8476958.0,2019020336,,2019-11-22,Jakub Voracek Unsportsmanlike conduct against Jaccob Slavin
+43,penalty,Misconduct,Joel Edmundson,,[ 2. 41.],1,07:41,CAR,PHI,CAR,12,PHI,4,2,1,8476441,,2019020336,,2019-11-22,Joel Edmundson Misconduct
+44,penalty,Slashing,Joel Edmundson,Ryan Dzingel,[61. 10.],1,07:41,CAR,PHI,CAR,12,PHI,4,2,1,8476441,8476288.0,2019020336,,2019-11-22,Joel Edmundson Slashing against Morgan Frost served by Ryan Dzingel
+76,penalty,Slashing,Travis Konecny,Sebastian Aho,[ 62. -33.],2,19:03,PHI,CAR,CAR,12,PHI,4,2,2,8478439,8478427.0,2019020336,,2019-11-22,Travis Konecny Slashing against Sebastian Aho
+91,penalty,Interference,Claude Giroux,Andrei Svechnikov,[ 66. -29.],2,14:52,PHI,CAR,CAR,12,PHI,4,2,3,8473512,8480830.0,2019020336,,2019-11-22,Claude Giroux Interference against Andrei Svechnikov
+156,penalty,Interference,Nino Niederreiter,Oskar Lindblom,[19.  0.],2,00:19,CAR,PHI,CAR,12,PHI,4,2,3,8475799,8478067.0,2019020336,,2019-11-22,Nino Niederreiter Interference against Oskar Lindblom
+198,penalty,Hi-sticking,Joel Farabee,Eetu Luostarinen,[-78.  39.],3,08:23,PHI,CAR,CAR,12,PHI,4,3,4,8480797,8480185.0,2019020336,,2019-11-22,Joel Farabee Hi-sticking against Eetu Luostarinen
+21,penalty,Hi-sticking,Ryan Dzingel,Josh Brown,[-90.  10.],1,13:59,CAR,FLA,CAR,12,FLA,13,0,0,8476288,8477384.0,2019020355,,2019-11-24,Ryan Dzingel Hi-sticking against Josh Brown
+78,penalty,Tripping,Brett Pesce,Frank Vatrano,[65.  3.],1,00:21,CAR,FLA,CAR,12,FLA,13,2,2,8477488,8478366.0,2019020355,,2019-11-24,Brett Pesce Tripping against Frank Vatrano
+220,penalty,Tripping,Brian Boyle,Joel Edmundson,[ 97. -19.],3,07:12,FLA,CAR,CAR,12,FLA,13,3,2,8470619,8476441.0,2019020355,,2019-11-24,Brian Boyle Tripping against Joel Edmundson
+229,penalty,Too many men on the ice,Evgenii Dadonov,,[-6. 37.],3,05:00,FLA,CAR,CAR,12,FLA,13,3,2,8474149,,2019020355,,2019-11-24,Too many men/ice served by Evgenii Dadonov
+76,penalty,Hi-sticking,Dylan Larkin,Brett Pesce,[-59. -35.],1,05:27,DET,CAR,DET,17,CAR,12,0,0,8477946,8477488.0,2019020363,,2019-11-25,Dylan Larkin Hi-sticking against Brett Pesce
+116,penalty,Interference,Valtteri Filppula,Dougie Hamilton,[76. 27.],2,14:07,DET,CAR,DET,17,CAR,12,0,0,8470047,8476462.0,2019020363,,2019-11-25,Valtteri Filppula Interference against Dougie Hamilton
+226,penalty,Hooking,Nino Niederreiter,Andreas Athanasiou,[-24.  15.],3,02:27,CAR,DET,DET,17,CAR,12,0,1,8475799,8476960.0,2019020363,,2019-11-25,Nino Niederreiter Hooking against Andreas Athanasiou
+3,penalty,Holding,Joel Edmundson,Pavel Buchnevich,[-68.  37.],1,19:12,CAR,NYR,NYR,3,CAR,12,0,0,8476441,8477402.0,2019020381,,2019-11-28,Joel Edmundson Holding against Pavel Buchnevich
+17,penalty,Hooking,Jordan Martinook,Kaapo Kakko,[-71.  16.],1,17:21,CAR,NYR,NYR,3,CAR,12,0,0,8476921,8481554.0,2019020381,,2019-11-28,Jordan Martinook Hooking against Kaapo Kakko
+79,penalty,Tripping,Mika Zibanejad,Jaccob Slavin,[-62.  21.],1,06:16,NYR,CAR,NYR,3,CAR,12,2,0,8476459,8476958.0,2019020381,,2019-11-28,Mika Zibanejad Tripping against Jaccob Slavin
+152,penalty,Slashing,Adam Fox,Haydn Fleury,[-73.   0.],2,09:58,NYR,CAR,NYR,3,CAR,12,3,0,8479323,8477938.0,2019020381,,2019-11-28,Adam Fox Slashing against Haydn Fleury
+156,penalty,Hooking,Nino Niederreiter,Mika Zibanejad,[-88. -29.],2,09:06,CAR,NYR,NYR,3,CAR,12,3,0,8475799,8476459.0,2019020381,,2019-11-28,Nino Niederreiter Hooking against Mika Zibanejad
+170,penalty,Too many men on the ice,Pavel Buchnevich,,[14. 40.],2,06:33,NYR,CAR,NYR,3,CAR,12,3,0,8477402,,2019020381,,2019-11-28,Too many men/ice served by Pavel Buchnevich
+200,penalty,Hi-sticking,Ryan Strome,Dougie Hamilton,[ 69. -37.],2,01:36,NYR,CAR,NYR,3,CAR,12,3,2,8476458,8476462.0,2019020381,,2019-11-28,Ryan Strome Hi-sticking against Dougie Hamilton
+255,penalty,Interference,Dougie Hamilton,Ryan Strome,[-94.  19.],3,09:31,CAR,NYR,NYR,3,CAR,12,3,2,8476462,8476458.0,2019020381,,2019-11-28,Dougie Hamilton Interference against Ryan Strome
+287,penalty,Tripping,Filip Chytil,Lucas Wallmark,[ 54. -32.],3,03:10,NYR,CAR,NYR,3,CAR,12,3,2,8480078,8478027.0,2019020381,,2019-11-28,Filip Chytil Tripping against Lucas Wallmark
+300,penalty,Tripping,Sebastian Aho,Brett Howden,[41. 39.],3,00:36,CAR,NYR,NYR,3,CAR,12,3,2,8478427,8479353.0,2019020381,,2019-11-28,Sebastian Aho Tripping against Brett Howden
+61,penalty,Roughing,Andrei Svechnikov,Rocco Grimaldi,[-61. -28.],1,07:25,CAR,NSH,CAR,12,NSH,18,0,1,8480830,8476428.0,2019020401,,2019-11-30,Andrei Svechnikov Roughing against Rocco Grimaldi
+83,penalty,Hi-sticking,Colton Sissons,Dougie Hamilton,[61.  2.],1,01:42,NSH,CAR,CAR,12,NSH,18,0,2,8476925,8476462.0,2019020401,,2019-11-30,Colton Sissons Hi-sticking against Dougie Hamilton
+145,penalty,Too many men on the ice,Daniel Carr,,[-13.  40.],2,08:46,NSH,CAR,CAR,12,NSH,18,0,3,8477901,,2019020401,,2019-11-30,Too many men/ice served by Daniel Carr
+165,penalty,Interference,Jake Gardiner,Craig Smith,[ 6. 29.],2,04:07,CAR,NSH,CAR,12,NSH,18,0,3,8474581,8475225.0,2019020401,,2019-11-30,Jake Gardiner Interference against Craig Smith
+194,penalty,Tripping,Jake Gardiner,Filip Forsberg,[81. 35.],3,17:01,CAR,NSH,CAR,12,NSH,18,0,3,8474581,8476887.0,2019020401,,2019-11-30,Jake Gardiner Tripping against Filip Forsberg
+211,penalty,Elbowing,Austin Watson,Haydn Fleury,[-32.  31.],3,13:44,NSH,CAR,CAR,12,NSH,18,0,3,8475766,8477938.0,2019020401,,2019-11-30,Austin Watson Elbowing against Haydn Fleury
+248,penalty,Holding,Joel Edmundson,Filip Forsberg,[84. 32.],3,02:40,CAR,NSH,CAR,12,NSH,18,0,3,8476441,8476887.0,2019020401,,2019-11-30,Joel Edmundson Holding against Filip Forsberg
+13,penalty,Too many men on the ice,Carter Verhaeghe,,[-11.  31.],1,15:49,TBL,CAR,TBL,14,CAR,12,0,0,8477409,,2019020407,,2019-12-01,Too many men/ice served by Carter Verhaeghe
+64,penalty,Holding,Trevor van Riemsdyk,Pat Maroon,[92. 16.],1,03:02,CAR,TBL,TBL,14,CAR,12,0,2,8477845,8474034.0,2019020407,,2019-12-01,Trevor van Riemsdyk Holding against Pat Maroon
+85,penalty,Roughing,Brock McGinn,Yanni Gourde,[-81.   5.],2,19:21,CAR,TBL,TBL,14,CAR,12,0,3,8476934,8476826.0,2019020407,,2019-12-01,Brock McGinn Roughing against Yanni Gourde
+97,penalty,Tripping,Clark Bishop,Cedric Paquette,[78. 29.],2,16:14,CAR,TBL,TBL,14,CAR,12,0,3,8478056,8476975.0,2019020407,,2019-12-01,Clark Bishop Tripping against Cedric Paquette
+175,penalty,Holding,Jake Gardiner,Anthony Cirelli,[ 78. -33.],3,17:21,CAR,TBL,TBL,14,CAR,12,0,3,8474581,8478519.0,2019020407,,2019-12-01,Jake Gardiner Holding against Anthony Cirelli
+188,penalty,Hi-sticking,Joel Edmundson,Cedric Paquette,[56. 32.],3,14:10,CAR,TBL,TBL,14,CAR,12,1,3,8476441,8476975.0,2019020407,,2019-12-01,Joel Edmundson Hi-sticking against Cedric Paquette
+208,penalty,Tripping,Yanni Gourde,Jordan Staal,[ 76. -28.],3,09:58,TBL,CAR,TBL,14,CAR,12,2,3,8476826,8473533.0,2019020407,,2019-12-01,Yanni Gourde Tripping against Jordan Staal
+210,penalty,Hooking,Ryan Dzingel,Ryan McDonagh,[-92.  18.],3,09:51,CAR,TBL,TBL,14,CAR,12,2,3,8476288,8474151.0,2019020407,,2019-12-01,Ryan Dzingel Hooking against Ryan McDonagh
+226,penalty,Hooking,Steven Stamkos,Jordan Staal,[-95.  18.],3,05:26,TBL,CAR,TBL,14,CAR,12,2,3,8474564,8473533.0,2019020407,,2019-12-01,Steven Stamkos Hooking against Jordan Staal
+241,penalty,Slashing,Victor Hedman,Andrei Svechnikov,[54. 41.],3,00:35,TBL,CAR,TBL,14,CAR,12,2,3,8475167,8480830.0,2019020407,,2019-12-01,Victor Hedman Slashing against Andrei Svechnikov
+242,penalty,Misconduct,Pat Maroon,,[-30.   3.],3,00:35,TBL,CAR,TBL,14,CAR,12,2,3,8474034,,2019020407,,2019-12-01,Pat Maroon Misconduct
+11,penalty,Tripping,Jake Gardiner,Jake DeBrusk,[80. -6.],1,17:35,CAR,BOS,BOS,6,CAR,12,0,0,8474581,8478498.0,2019020424,CAR,2019-12-04,Jake Gardiner Tripping against Jake DeBrusk
+47,penalty,Holding,Jordan Martinook,Matt Grzelcyk,[-10.  35.],1,09:14,CAR,BOS,BOS,6,CAR,12,0,0,8476921,8476891.0,2019020424,CAR,2019-12-04,Jordan Martinook Holding against Matt Grzelcyk
+73,penalty,Tripping,Jake DeBrusk,Joel Edmundson,[ 78. -35.],1,05:13,BOS,CAR,BOS,6,CAR,12,0,0,8478498,8476441.0,2019020424,CAR,2019-12-04,Jake DeBrusk Tripping against Joel Edmundson
+93,penalty,Roughing,David Pastrnak,Warren Foegele,[-54. -20.],1,01:26,BOS,CAR,BOS,6,CAR,12,0,0,8477956,8477998.0,2019020424,CAR,2019-12-04,David Pastrnak Roughing against Warren Foegele
+41,penalty,Hooking,Brett Pesce,Kevin Labanc,[78. -1.],1,10:22,CAR,SJS,CAR,12,SJS,28,1,1,8477488,8478099.0,2019020443,,2019-12-07,Brett Pesce Hooking against Kevin Labanc
+81,penalty,Slashing,Brent Burns,Nino Niederreiter,[74. -2.],2,16:16,SJS,CAR,CAR,12,SJS,28,1,1,8470613,8475799.0,2019020443,,2019-12-07,Brent Burns Slashing against Nino Niederreiter
+119,penalty,Roughing,Joe Thornton,Noah Gregor,[-96.   5.],2,07:10,SJS,CAR,CAR,12,SJS,28,2,1,8466138,8479393.0,2019020443,,2019-12-07,Joe Thornton Roughing against Petr Mrazek served by Noah Gregor
+120,penalty,Slashing,Joe Thornton,Petr Mrazek,[-87.   7.],2,07:10,SJS,CAR,CAR,12,SJS,28,2,1,8466138,8475852.0,2019020443,,2019-12-07,Joe Thornton Slashing against Petr Mrazek
+121,penalty,Slashing,Petr Mrazek,Warren Foegele,[-89.   5.],2,07:10,CAR,SJS,CAR,12,SJS,28,2,1,8475852,8477998.0,2019020443,,2019-12-07,Petr Mrazek Slashing against Joe Thornton served by Warren Foegele
+166,penalty,Too many men on the ice,Andrei Svechnikov,,[-1.  2.],3,15:44,CAR,SJS,CAR,12,SJS,28,2,2,8480830,,2019020443,,2019-12-07,Too many men/ice served by Andrei Svechnikov
+182,penalty,Tripping,Erik Karlsson,Andrei Svechnikov,[-57. -14.],3,11:41,SJS,CAR,CAR,12,SJS,28,2,2,8474578,8480830.0,2019020443,,2019-12-07,Erik Karlsson Tripping against Andrei Svechnikov
+69,penalty,Holding,Joel Eriksson Ek,Sebastian Aho,[57. 38.],1,05:50,MIN,CAR,CAR,12,MIN,30,1,1,8478493,8478427.0,2019020458,,2019-12-08,Joel Eriksson Ek Holding against Sebastian Aho
+70,penalty,Tripping,Jordan Greenway,Sebastian Aho,[56. 40.],1,05:50,MIN,CAR,CAR,12,MIN,30,1,1,8478413,8478427.0,2019020458,,2019-12-08,Jordan Greenway Tripping against Sebastian Aho
+82,penalty,Interference,Jaccob Slavin,Eric Staal,[-29. -35.],1,03:35,CAR,MIN,CAR,12,MIN,30,2,1,8476958,8470595.0,2019020458,,2019-12-08,Jaccob Slavin Interference against Eric Staal
+137,penalty,Holding the stick,Lucas Wallmark,Victor Rask,[-75.  14.],2,10:30,CAR,MIN,CAR,12,MIN,30,3,2,8478027,8476437.0,2019020458,,2019-12-08,Lucas Wallmark Holding the stick against Victor Rask
+160,penalty,Hi-sticking,Kevin Fiala,Ryan Dzingel,[  0. -28.],2,05:30,MIN,CAR,CAR,12,MIN,30,3,2,8477942,8476288.0,2019020458,,2019-12-08,Kevin Fiala Hi-sticking against Ryan Dzingel
+166,penalty,Interference,Lucas Wallmark,Mats Zuccarello,[-26.   2.],2,04:06,CAR,MIN,CAR,12,MIN,30,4,2,8478027,8475692.0,2019020458,,2019-12-08,Lucas Wallmark Interference against Mats Zuccarello
+250,penalty,Tripping,Clark Bishop,Victor Rask,[-82. -38.],3,02:51,CAR,MIN,CAR,12,MIN,30,5,2,8478056,8476437.0,2019020458,,2019-12-08,Clark Bishop Tripping against Victor Rask
+29,penalty,Hooking,Julien Gauthier,Oscar Klefbom,[-91.  25.],1,13:28,CAR,EDM,EDM,22,CAR,12,0,1,8479328,8476472.0,2019020479,,2019-12-11,Julien Gauthier Hooking against Oscar Klefbom
+60,penalty,Tripping,Nino Niederreiter,Leon Draisaitl,[-40. -31.],1,06:45,CAR,EDM,EDM,22,CAR,12,0,1,8475799,8477934.0,2019020479,,2019-12-11,Nino Niederreiter Tripping against Leon Draisaitl
+74,penalty,Elbowing,Darnell Nurse,Nino Niederreiter,[-92.  -8.],1,03:20,EDM,CAR,EDM,22,CAR,12,0,1,8477498,8475799.0,2019020479,,2019-12-11,Darnell Nurse Elbowing against Nino Niederreiter
+90,penalty,Interference,Zack Kassian,Teuvo Teravainen,[-43. -37.],1,00:10,EDM,CAR,EDM,22,CAR,12,0,2,8475178,8476882.0,2019020479,,2019-12-11,Zack Kassian Interference against Teuvo Teravainen
+179,penalty,Hooking,Ryan Nugent-Hopkins,Martin Necas,[52. 31.],2,04:08,EDM,CAR,EDM,22,CAR,12,1,3,8476454,8480039.0,2019020479,,2019-12-11,Ryan Nugent-Hopkins Hooking against Martin Necas
+203,penalty,Delaying Game - Puck over glass,Jaccob Slavin,,[93. 18.],3,19:39,CAR,EDM,EDM,22,CAR,12,1,3,8476958,,2019020479,,2019-12-11,Jaccob Slavin Delaying Game - Puck over glass
+208,penalty,Hi-sticking,Teuvo Teravainen,Connor McDavid,[61. 35.],3,19:01,CAR,EDM,EDM,22,CAR,12,1,3,8476882,8478402.0,2019020479,,2019-12-11,Teuvo Teravainen Hi-sticking against Connor McDavid
+214,penalty,PS - Covering puck in crease,Brett Pesce,,[87.  0.],3,18:12,CAR,EDM,EDM,22,CAR,12,1,3,8477488,,2019020479,,2019-12-11,Brett Pesce PS - Covering puck in crease
+255,penalty,Roughing,Zack Kassian,James Reimer,[88.  3.],3,09:00,EDM,CAR,EDM,22,CAR,12,3,4,8475178,8473503.0,2019020479,,2019-12-11,Zack Kassian Roughing against James Reimer
+261,penalty,Misconduct,Zack Kassian,,[ -5. -38.],3,07:44,EDM,CAR,EDM,22,CAR,12,3,5,8475178,,2019020479,,2019-12-11,Zack Kassian Misconduct
+279,penalty,Slashing,Dougie Hamilton,Markus Granlund,[ 71. -14.],3,01:42,CAR,EDM,EDM,22,CAR,12,3,6,8476462,8476440.0,2019020479,,2019-12-11,Dougie Hamilton Slashing against Markus Granlund
+15,penalty,Tripping,Dougie Hamilton,Josh Leivo,[-96. -23.],1,15:39,CAR,VAN,VAN,23,CAR,12,0,0,8476462,8476410.0,2019020496,,2019-12-13,Dougie Hamilton Tripping against Josh Leivo
+32,penalty,Hooking,Martin Necas,Zack MacEwen,[-26.  24.],1,10:40,CAR,VAN,VAN,23,CAR,12,0,0,8480039,8479772.0,2019020496,,2019-12-13,Martin Necas Hooking against Zack MacEwen
+52,penalty,Tripping,Ryan Dzingel,Quinn Hughes,[ 86. -37.],1,03:01,CAR,VAN,VAN,23,CAR,12,0,0,8476288,8480800.0,2019020496,,2019-12-13,Ryan Dzingel Tripping against Quinn Hughes
+84,penalty,Tripping,Antoine Roussel,Jordan Martinook,[61. 14.],2,14:41,VAN,CAR,VAN,23,CAR,12,0,0,8474849,8476921.0,2019020496,,2019-12-13,Antoine Roussel Tripping against Jordan Martinook
+95,penalty,Tripping,Christopher Tanev,Nino Niederreiter,[-94.   7.],2,12:07,VAN,CAR,VAN,23,CAR,12,0,0,8475690,8475799.0,2019020496,,2019-12-13,Christopher Tanev Tripping against Nino Niederreiter
+121,penalty,Holding,Julien Gauthier,Adam Gaudette,[31.  4.],2,07:06,CAR,VAN,VAN,23,CAR,12,0,0,8479328,8478874.0,2019020496,,2019-12-13,Julien Gauthier Holding against Adam Gaudette
+137,penalty,Hi-sticking,Tyler Myers,Nino Niederreiter,[-83. -36.],2,02:57,VAN,CAR,VAN,23,CAR,12,0,0,8474574,8475799.0,2019020496,,2019-12-13,Tyler Myers Hi-sticking against Nino Niederreiter
+183,penalty,Tripping,Jake Virtanen,Brett Pesce,[39. -7.],3,12:44,VAN,CAR,VAN,23,CAR,12,0,0,8477937,8477488.0,2019020496,,2019-12-13,Jake Virtanen Tripping against Brett Pesce
+186,penalty,Interference,Andrei Svechnikov,Jay Beagle,[34. 38.],3,12:32,CAR,VAN,VAN,23,CAR,12,0,0,8480830,8474291.0,2019020496,,2019-12-13,Andrei Svechnikov Interference against Jay Beagle
+20,penalty,Hooking,Martin Necas,TJ Brodie,[56. 31.],1,14:44,CAR,CGY,CGY,20,CAR,12,0,0,8480039,8474673.0,2019020503,,2019-12-14,Martin Necas Hooking against TJ Brodie
+32,penalty,Interference,Mark Jankowski,Jordan Martinook,[-71. -35.],1,12:10,CGY,CAR,CGY,20,CAR,12,0,0,8476873,8476921.0,2019020503,,2019-12-14,Mark Jankowski Interference against Jordan Martinook
+138,penalty,Missing key [PD_151],Matthew Tkachuk,,[10. 40.],2,07:25,CGY,CAR,CGY,20,CAR,12,0,1,8479314,,2019020503,,2019-12-14,Delaying Game - Unsucc. chlg served by Matthew Tkachuk
+144,penalty,Hi-sticking,Jordan Staal,Mark Giordano,[-66.  37.],2,06:55,CAR,CGY,CGY,20,CAR,12,0,1,8473533,8470966.0,2019020503,,2019-12-14,Jordan Staal Hi-sticking against Mark Giordano
+147,penalty,Slashing,Mark Giordano,Ryan Dzingel,[-66.   0.],2,06:47,CGY,CAR,CGY,20,CAR,12,0,1,8470966,8476288.0,2019020503,,2019-12-14,Mark Giordano Slashing against Ryan Dzingel
+201,penalty,Tripping,Martin Necas,TJ Brodie,[69. 35.],3,10:45,CAR,CGY,CGY,20,CAR,12,0,2,8480039,8474673.0,2019020503,,2019-12-14,Martin Necas Tripping against TJ Brodie
+209,penalty,Hooking,Haydn Fleury,Derek Ryan,[-80.  -5.],3,08:23,CAR,CGY,CGY,20,CAR,12,0,2,8477938,8478585.0,2019020503,,2019-12-14,Haydn Fleury Hooking against Derek Ryan
+220,penalty,Tripping,Jordan Staal,Milan Lucic,[32. 30.],3,06:05,CAR,CGY,CGY,20,CAR,12,0,2,8473533,8473473.0,2019020503,,2019-12-14,Jordan Staal Tripping against Milan Lucic
+233,penalty,Slashing,Sean Monahan,Jordan Staal,[-65. -19.],3,03:15,CGY,CAR,CGY,20,CAR,12,0,3,8477497,8473533.0,2019020503,,2019-12-14,Sean Monahan Slashing against Jordan Staal
+240,penalty,Hooking,Lucas Wallmark,Elias Lindholm,[-81.   5.],3,00:57,CAR,CGY,CGY,20,CAR,12,0,3,8478027,8477496.0,2019020503,,2019-12-14,Lucas Wallmark Hooking against Elias Lindholm
+66,penalty,Holding,Jake Gardiner,Neal Pionk,[-77.   1.],1,06:16,CAR,WPG,WPG,52,CAR,12,0,0,8474581,8480145.0,2019020530,,2019-12-18,Jake Gardiner Holding against Neal Pionk
+83,penalty,Delaying Game - Puck over glass,Josh Morrissey,,[98. 20.],1,02:35,WPG,CAR,WPG,52,CAR,12,0,0,8477504,,2019020530,,2019-12-18,Josh Morrissey Delaying Game - Puck over glass
+168,penalty,Holding,Anthony Bitetto,Ryan Dzingel,[-46.  13.],2,02:08,WPG,CAR,WPG,52,CAR,12,2,4,8475868,8476288.0,2019020530,,2019-12-18,Anthony Bitetto Holding against Ryan Dzingel
+211,penalty,Slashing,Sebastian Aho,Nikolaj Ehlers,[ 33. -23.],3,08:51,CAR,WPG,WPG,52,CAR,12,2,6,8478427,8477940.0,2019020530,,2019-12-18,Sebastian Aho Slashing against Nikolaj Ehlers
+2,penalty,Tripping,James Reimer,Nino Niederreiter,[-86.   1.],1,19:04,CAR,COL,COL,21,CAR,12,0,0,8473503,8475799.0,2019020544,,2019-12-20,James Reimer Tripping against Valeri Nichushkin served by Nino Niederreiter
+38,penalty,Hi-sticking,Lucas Wallmark,J.T. Compher,[-54. -16.],1,10:26,CAR,COL,COL,21,CAR,12,0,0,8478027,8477456.0,2019020544,,2019-12-20,Lucas Wallmark Hi-sticking against J.T. Compher
+51,penalty,Too many men on the ice,Andrei Svechnikov,,[-13.  42.],1,06:57,CAR,COL,COL,21,CAR,12,0,0,8480830,,2019020544,,2019-12-20,Too many men/ice served by Andrei Svechnikov
+104,penalty,Too many men on the ice,Tyson Jost,,[ 8. 40.],2,16:06,COL,CAR,COL,21,CAR,12,0,0,8479370,,2019020544,,2019-12-20,Too many men/ice served by Tyson Jost
+121,penalty,Hooking,Dougie Hamilton,Andre Burakovsky,[ 59. -37.],2,12:10,CAR,COL,COL,21,CAR,12,0,0,8476462,8477444.0,2019020544,,2019-12-20,Dougie Hamilton Hooking against Andre Burakovsky
+131,penalty,Delaying Game - Puck over glass,Warren Foegele,,[ 32. -39.],2,10:30,CAR,COL,COL,21,CAR,12,0,0,8477998,,2019020544,,2019-12-20,Warren Foegele Delaying Game - Puck over glass
+157,penalty,Interference,Nazem Kadri,Joel Edmundson,[ 40. -25.],2,05:49,COL,CAR,COL,21,CAR,12,0,0,8475172,8476441.0,2019020544,,2019-12-20,Nazem Kadri Interference against Joel Edmundson
+188,penalty,Hi-sticking,Brian Gibbons,Matt Calvert,[-85. -11.],3,17:16,CAR,COL,COL,21,CAR,12,0,0,8476207,8474685.0,2019020544,,2019-12-20,Brian Gibbons Hi-sticking against Matt Calvert
+201,penalty,Interference,Gabriel Landeskog,Sebastian Aho,[89. -7.],3,13:06,COL,CAR,COL,21,CAR,12,1,0,8476455,8478427.0,2019020544,,2019-12-20,Gabriel Landeskog Interference against Sebastian Aho
+94,penalty,Hi-sticking,Mark Pysyk,Jordan Martinook,[-58.  -2.],1,00:04,FLA,CAR,CAR,12,FLA,13,0,1,8475796,8476921.0,2019020559,,2019-12-22,Mark Pysyk Hi-sticking against Jordan Martinook
+139,penalty,Hi-sticking,Andrei Svechnikov,Jonathan Huberdeau,[ 42. -38.],2,10:08,CAR,FLA,CAR,12,FLA,13,0,1,8480830,8476456.0,2019020559,,2019-12-22,Andrei Svechnikov Hi-sticking against Jonathan Huberdeau
+158,penalty,Interference,Lucas Wallmark,Mark Pysyk,[61. 35.],2,04:12,CAR,FLA,CAR,12,FLA,13,0,2,8478027,8475796.0,2019020559,,2019-12-22,Lucas Wallmark Interference against Mark Pysyk
+169,penalty,Hi-sticking,Andrei Svechnikov,Ryan Dzingel,[-95.   7.],2,00:30,CAR,FLA,CAR,12,FLA,13,0,2,8480830,8476288.0,2019020559,,2019-12-22,Andrei Svechnikov Hi-sticking against Brett Connolly served by Ryan Dzingel
+170,penalty,Unsportsmanlike conduct,Josh Brown,Joel Edmundson,[-81. -18.],2,00:30,FLA,CAR,CAR,12,FLA,13,0,2,8477384,8476441.0,2019020559,,2019-12-22,Josh Brown Unsportsmanlike conduct against Joel Edmundson
+171,penalty,Unsportsmanlike conduct,Joel Edmundson,Josh Brown,[-85. -32.],2,00:30,CAR,FLA,CAR,12,FLA,13,0,2,8476441,8477384.0,2019020559,,2019-12-22,Joel Edmundson Unsportsmanlike conduct against Josh Brown
+172,penalty,Unsportsmanlike conduct,Andrei Svechnikov,Brett Connolly,[-74. -18.],2,00:30,CAR,FLA,CAR,12,FLA,13,0,2,8480830,8475792.0,2019020559,,2019-12-22,Andrei Svechnikov Unsportsmanlike conduct against Brett Connolly
+173,penalty,Unsportsmanlike conduct,Brett Connolly,Andrei Svechnikov,[-75. -22.],2,00:30,FLA,CAR,CAR,12,FLA,13,0,2,8475792,8480830.0,2019020559,,2019-12-22,Brett Connolly Unsportsmanlike conduct against Andrei Svechnikov
+182,penalty,Tripping,Dominic Toninato,Martin Necas,[-56. -21.],3,18:21,FLA,CAR,CAR,12,FLA,13,0,3,8476952,8480039.0,2019020559,,2019-12-22,Dominic Toninato Tripping against Martin Necas
+220,penalty,Tripping,Brian Boyle,Lucas Wallmark,[-96. -18.],3,08:43,FLA,CAR,CAR,12,FLA,13,1,4,8470619,8478027.0,2019020559,,2019-12-22,Brian Boyle Tripping against Lucas Wallmark
+19,penalty,Hi stick - double minor,Brett Pesce,Zach Hyman,[-55. -15.],1,16:48,CAR,TOR,TOR,10,CAR,12,1,0,8477488,8475786.0,2019020569,,2019-12-23,Brett Pesce Hi stick - double minor against Zach Hyman
+59,penalty,Holding,Warren Foegele,Jake Muzzin,[ 82. -32.],1,06:32,CAR,TOR,TOR,10,CAR,12,3,0,8477998,8474162.0,2019020569,,2019-12-23,Warren Foegele Holding against Jake Muzzin
+76,penalty,Tripping,Jake Muzzin,Sebastian Aho,[87. 20.],1,02:04,TOR,CAR,TOR,10,CAR,12,3,1,8474162,8478427.0,2019020569,,2019-12-23,Jake Muzzin Tripping against Sebastian Aho
+98,penalty,Tripping,Travis Dermott,Martin Necas,[70. 27.],2,18:00,TOR,CAR,TOR,10,CAR,12,3,2,8478408,8480039.0,2019020569,,2019-12-23,Travis Dermott Tripping against Martin Necas
+146,penalty,Slashing,Nino Niederreiter,Jake Muzzin,[63. 39.],2,07:30,CAR,TOR,TOR,10,CAR,12,3,2,8475799,8474162.0,2019020569,,2019-12-23,Nino Niederreiter Slashing against Jake Muzzin
+252,penalty,Hooking,Mitchell Marner,Warren Foegele,[26.  1.],3,04:47,TOR,CAR,TOR,10,CAR,12,7,6,8478483,8477998.0,2019020569,,2019-12-23,Mitchell Marner Hooking against Warren Foegele
+50,penalty,Tripping,Chris Kreider,Nino Niederreiter,[-71.  40.],1,09:51,NYR,CAR,NYR,3,CAR,12,0,1,8475184,8475799.0,2019020584,,2019-12-28,Chris Kreider Tripping against Nino Niederreiter
+61,penalty,Delaying Game - Puck over glass,Adam Fox,Teuvo Teravainen,[36. 41.],1,05:59,NYR,CAR,NYR,3,CAR,12,0,1,8479323,8476882.0,2019020584,,2019-12-28,Adam Fox Delaying Game - Puck over glass against Teuvo Teravainen
+78,penalty,Interference,Warren Foegele,Chris Kreider,[62. 38.],1,03:36,CAR,NYR,NYR,3,CAR,12,0,1,8477998,8475184.0,2019020584,,2019-12-28,Warren Foegele Interference against Chris Kreider
+110,penalty,Hooking,Ryan Strome,Jaccob Slavin,[95. 15.],2,17:21,NYR,CAR,NYR,3,CAR,12,2,1,8476458,8476958.0,2019020584,,2019-12-28,Ryan Strome Hooking against Jaccob Slavin
+114,penalty,Tripping,Brendan Lemieux,James Reimer,[92. -4.],2,15:23,NYR,CAR,NYR,3,CAR,12,2,1,8477962,8473503.0,2019020584,,2019-12-28,Brendan Lemieux Tripping against James Reimer
+143,penalty,Slashing,Joel Edmundson,Chris Kreider,[ 65. -40.],2,10:24,CAR,NYR,NYR,3,CAR,12,3,1,8476441,8475184.0,2019020584,,2019-12-28,Joel Edmundson Slashing against Chris Kreider
+151,penalty,Interference,Jake Gardiner,Pavel Buchnevich,[-24. -39.],2,07:42,CAR,NYR,NYR,3,CAR,12,3,1,8474581,8477402.0,2019020584,,2019-12-28,Jake Gardiner Interference against Pavel Buchnevich
+206,penalty,Slashing,Sebastian Aho,Jesper Fast,[-76.  11.],3,15:48,CAR,NYR,NYR,3,CAR,12,4,3,8478427,8475855.0,2019020584,,2019-12-28,Sebastian Aho Slashing against Jesper Fast
+247,penalty,Illegal check to head,Chris Kreider,Dougie Hamilton,[ 68. -14.],3,03:06,NYR,CAR,NYR,3,CAR,12,5,3,8475184,8476462.0,2019020584,,2019-12-28,Chris Kreider Illegal check to head against Dougie Hamilton
+36,penalty,Holding the stick,Travis Boyd,Brett Pesce,[-41.  37.],1,11:30,WSH,CAR,CAR,12,WSH,15,0,0,8476329,8477488.0,2019020597,,2019-12-29,Travis Boyd Holding the stick against Brett Pesce
+42,penalty,Tripping,Nick Jensen,Martin Necas,[-91. -32.],1,10:25,WSH,CAR,CAR,12,WSH,15,0,0,8475324,8480039.0,2019020597,,2019-12-29,Nick Jensen Tripping against Martin Necas
+62,penalty,Hooking,Teuvo Teravainen,Evgeny Kuznetsov,[ 89. -30.],1,08:10,CAR,WSH,CAR,12,WSH,15,1,0,8476882,8475744.0,2019020597,,2019-12-29,Teuvo Teravainen Hooking against Evgeny Kuznetsov
+132,penalty,Kneeing,Jordan Staal,Alex Ovechkin,[-49. -33.],2,11:33,CAR,WSH,CAR,12,WSH,15,3,1,8473533,8471214.0,2019020597,,2019-12-29,Jordan Staal Kneeing against Alex Ovechkin
+149,penalty,Tripping,Joel Edmundson,Brendan Leipsic,[-85.  35.],2,08:48,CAR,WSH,CAR,12,WSH,15,3,2,8476441,8476894.0,2019020597,,2019-12-29,Joel Edmundson Tripping against Brendan Leipsic
+172,penalty,Kneeing,Nick Jensen,Warren Foegele,[13. 26.],2,04:17,WSH,CAR,CAR,12,WSH,15,4,2,8475324,8477998.0,2019020597,,2019-12-29,Nick Jensen Kneeing against Warren Foegele
+178,penalty,Slashing,Andrei Svechnikov,Garnet Hathaway,[-6. -5.],2,02:31,CAR,WSH,CAR,12,WSH,15,4,2,8480830,8477903.0,2019020597,,2019-12-29,Andrei Svechnikov Slashing against Garnet Hathaway
+192,penalty,Tripping,Warren Foegele,Jonas Siegenthaler,[29. 29.],3,18:49,CAR,WSH,CAR,12,WSH,15,4,2,8477998,8478399.0,2019020597,,2019-12-29,Warren Foegele Tripping against Jonas Siegenthaler
+5,penalty,Tripping,Artturi Lehkonen,Sebastian Aho,[ 35. -38.],1,18:40,MTL,CAR,CAR,12,MTL,8,0,0,8477476,8478427.0,2019020618,,2020-01-01,Artturi Lehkonen Tripping against Sebastian Aho
+100,penalty,Too many men on the ice,Ryan Dzingel,,[ 10. -21.],1,02:08,CAR,MTL,CAR,12,MTL,8,1,1,8476288,,2019020618,,2020-01-01,Too many men/ice served by Ryan Dzingel
+165,penalty,Slashing,Jordan Martinook,Shea Weber,[75. 40.],2,07:05,CAR,MTL,CAR,12,MTL,8,2,1,8476921,8470642.0,2019020618,,2020-01-01,Jordan Martinook Slashing against Shea Weber
+196,penalty,Hi-sticking,Ryan Poehling,Joel Edmundson,[-10.  40.],3,18:11,MTL,CAR,CAR,12,MTL,8,2,1,8480068,8476441.0,2019020618,,2020-01-01,Ryan Poehling Hi-sticking against Joel Edmundson
+271,penalty,Hi-sticking,Ryan Dzingel,Jeff Petry,[ 25. -41.],3,03:06,CAR,MTL,CAR,12,MTL,8,2,1,8476288,8473507.0,2019020618,,2020-01-01,Ryan Dzingel Hi-sticking against Jeff Petry
+35,penalty,Delaying Game - Puck over glass,Jonas Siegenthaler,,[-85.  38.],1,12:46,WSH,CAR,CAR,12,WSH,15,0,0,8478399,,2019020639,,2020-01-04,Jonas Siegenthaler Delaying Game - Puck over glass
+44,penalty,Embellishment,Ilya Samsonov,Jakub Vrana,[-90.  -4.],1,08:34,WSH,CAR,CAR,12,WSH,15,0,0,8478492,8477944.0,2019020639,,2020-01-04,Ilya Samsonov Embellishment against Nino Niederreiter served by Jakub Vrana
+45,penalty,Interference - Goalkeeper,Nino Niederreiter,Ilya Samsonov,[-86.  -7.],1,08:34,CAR,WSH,CAR,12,WSH,15,0,0,8475799,8478492.0,2019020639,,2020-01-04,Nino Niederreiter Interference - Goalkeeper against Ilya Samsonov
+47,penalty,Interference,Lars Eller,Jaccob Slavin,[48. 25.],1,07:44,WSH,CAR,CAR,12,WSH,15,0,0,8474189,8476958.0,2019020639,,2020-01-04,Lars Eller Interference against Jaccob Slavin
+87,penalty,Misconduct,Nic Dowd,,[ 45. -36.],1,00:00,WSH,CAR,CAR,12,WSH,15,0,0,8475343,,2019020639,,2020-01-04,Nic Dowd Misconduct
+111,penalty,Interference,Sebastian Aho,Garnet Hathaway,[ 31. -30.],2,15:43,CAR,WSH,CAR,12,WSH,15,0,1,8478427,8477903.0,2019020639,,2020-01-04,Sebastian Aho Interference against Garnet Hathaway
+128,penalty,Slashing,Alex Ovechkin,Teuvo Teravainen,[-77.  -4.],2,11:48,WSH,CAR,CAR,12,WSH,15,0,2,8471214,8476882.0,2019020639,,2020-01-04,Alex Ovechkin Slashing against Teuvo Teravainen
+148,penalty,Interference,Sebastian Aho,Brendan Leipsic,[-65.  -1.],2,06:17,CAR,WSH,CAR,12,WSH,15,0,2,8478427,8476894.0,2019020639,,2020-01-04,Sebastian Aho Interference against Brendan Leipsic
+156,penalty,Slashing,Tom Wilson,Martin Necas,[ 54. -10.],2,03:42,WSH,CAR,CAR,12,WSH,15,0,2,8476880,8480039.0,2019020639,,2020-01-04,Tom Wilson Slashing against Martin Necas
+176,penalty,Slashing,Erik Haula,Nick Jensen,[-73.   2.],3,19:07,CAR,WSH,CAR,12,WSH,15,1,2,8475287,8475324.0,2019020639,,2020-01-04,Erik Haula Slashing against Nick Jensen
+203,penalty,Hooking,Carl Hagelin,Brock McGinn,[-50.  18.],3,13:33,WSH,CAR,CAR,12,WSH,15,1,4,8474176,8476934.0,2019020639,,2020-01-04,Carl Hagelin Hooking against Brock McGinn
+226,penalty,Cross checking,T.J. Oshie,Warren Foegele,[-77.   3.],3,09:01,WSH,CAR,CAR,12,WSH,15,2,4,8471698,8477998.0,2019020639,,2020-01-04,T.J. Oshie Cross checking against Warren Foegele
+253,penalty,Roughing,Dougie Hamilton,T.J. Oshie,[ 98. -16.],3,02:44,CAR,WSH,CAR,12,WSH,15,3,4,8476462,8471698.0,2019020639,,2020-01-04,Dougie Hamilton Roughing against T.J. Oshie
+28,penalty,Hooking,Nino Niederreiter,Ondrej Palat,[32. -8.],1,10:36,CAR,TBL,CAR,12,TBL,14,0,2,8475799,8476292.0,2019020655,,2020-01-06,Nino Niederreiter Hooking against Ondrej Palat
+53,penalty,Slashing,Mikhail Sergachev,Martin Necas,[-79. -32.],1,04:05,TBL,CAR,CAR,12,TBL,14,0,2,8479410,8480039.0,2019020655,,2020-01-06,Mikhail Sergachev Slashing against Martin Necas
+127,penalty,Tripping,Joel Edmundson,Ondrej Palat,[-96. -20.],2,08:14,CAR,TBL,CAR,12,TBL,14,0,3,8476441,8476292.0,2019020655,,2020-01-06,Joel Edmundson Tripping against Ondrej Palat
+203,penalty,Interference,Erik Cernak,Brock McGinn,[-74.  -4.],3,10:30,TBL,CAR,CAR,12,TBL,14,0,3,8478416,8476934.0,2019020655,,2020-01-06,Erik Cernak Interference against Brock McGinn
+226,penalty,Unsportsmanlike conduct,Pat Maroon,,[ -1. -41.],3,02:26,TBL,CAR,CAR,12,TBL,14,1,3,8474034,,2019020655,,2020-01-06,Pat Maroon Unsportsmanlike conduct
+227,penalty,Holding,Pat Maroon,Jake Gardiner,[-49. -40.],3,02:26,TBL,CAR,CAR,12,TBL,14,1,3,8474034,8474581.0,2019020655,,2020-01-06,Pat Maroon Holding against Jake Gardiner
+106,penalty,Tripping,Erik Haula,Jakub Voracek,[-53.  39.],1,00:21,CAR,PHI,CAR,12,PHI,4,2,2,8475287,8474161.0,2019020668,,2020-01-08,Erik Haula Tripping against Jakub Voracek
+172,penalty,Delaying Game - Puck over glass,Tyler Pitlick,,[ 28. -38.],2,04:54,PHI,CAR,CAR,12,PHI,4,4,3,8475752,,2019020668,,2020-01-08,Tyler Pitlick Delaying Game - Puck over glass
+205,penalty,Slashing,Andrei Svechnikov,Travis Konecny,[-96. -13.],3,16:06,CAR,PHI,CAR,12,PHI,4,4,3,8480830,8478439.0,2019020668,,2020-01-08,Andrei Svechnikov Slashing against Travis Konecny
+15,penalty,Tripping,Christian Dvorak,Nino Niederreiter,[ 46. -34.],1,15:43,ARI,CAR,CAR,12,ARI,53,0,0,8477989,8475799.0,2019020690,,2020-01-11,Christian Dvorak Tripping against Nino Niederreiter
+42,penalty,Cross checking,Nino Niederreiter,Oliver Ekman-Larsson,[-87.  20.],1,09:02,CAR,ARI,CAR,12,ARI,53,0,0,8475799,8475171.0,2019020690,,2020-01-11,Nino Niederreiter Cross checking against Oliver Ekman-Larsson
+110,penalty,Tripping,Erik Haula,Jordan Oesterle,[86. -4.],2,12:44,CAR,ARI,CAR,12,ARI,53,1,0,8475287,8477851.0,2019020690,,2020-01-11,Erik Haula Tripping against Jordan Oesterle
+185,penalty,Slashing,Vinnie Hinostroza,Brock McGinn,[-71.  -2.],3,17:17,ARI,CAR,CAR,12,ARI,53,3,0,8476994,8476934.0,2019020690,,2020-01-11,Vinnie Hinostroza Slashing against Brock McGinn
+194,penalty,Hooking,Andrei Svechnikov,Conor Garland,[-17.   6.],3,14:37,CAR,ARI,CAR,12,ARI,53,3,0,8480830,8478856.0,2019020690,,2020-01-11,Andrei Svechnikov Hooking against Conor Garland
+213,penalty,Boarding,Clayton Keller,Teuvo Teravainen,[-96.  -8.],3,07:13,ARI,CAR,CAR,12,ARI,53,3,0,8479343,8476882.0,2019020690,,2020-01-11,Clayton Keller Boarding against Teuvo Teravainen
+47,penalty,Slashing,Martin Necas,Sean Walker,[ 80. -26.],1,10:40,CAR,LAK,CAR,12,LAK,26,1,0,8480039,8480336.0,2019020697,,2020-01-12,Martin Necas Slashing against Sean Walker
+155,penalty,Tripping,Michael Amadio,Martin Necas,[-41. -12.],2,08:46,LAK,CAR,CAR,12,LAK,26,1,0,8478020,8480039.0,2019020697,,2020-01-12,Michael Amadio Tripping against Martin Necas
+214,penalty,Tripping,Nino Niederreiter,Alec Martinez,[85. 29.],3,15:31,CAR,LAK,CAR,12,LAK,26,1,0,8475799,8474166.0,2019020697,,2020-01-12,Nino Niederreiter Tripping against Alec Martinez
+242,penalty,Delaying Game - Puck over glass,Austin Wagner,,[-63. -40.],3,06:43,LAK,CAR,CAR,12,LAK,26,1,0,8478455,,2019020697,,2020-01-12,Austin Wagner Delaying Game - Puck over glass
+25,penalty,Tripping,Andrei Svechnikov,Richard Panik,[73. 38.],1,12:49,CAR,WSH,WSH,15,CAR,12,0,0,8480830,8475209.0,2019020712,,2020-01-14,Andrei Svechnikov Tripping against Richard Panik
+65,penalty,Slashing,Warren Foegele,Lars Eller,[-69.  21.],1,05:38,CAR,WSH,WSH,15,CAR,12,1,0,8477998,8474189.0,2019020712,,2020-01-14,Warren Foegele Slashing against Lars Eller
+75,penalty,Delaying Game - Puck over glass,Dougie Hamilton,,[-85. -32.],1,02:59,CAR,WSH,WSH,15,CAR,12,1,0,8476462,,2019020712,,2020-01-14,Dougie Hamilton Delaying Game - Puck over glass
+79,penalty,Tripping,Jordan Staal,T.J. Oshie,[-82.  24.],1,02:42,CAR,WSH,WSH,15,CAR,12,2,0,8473533,8471698.0,2019020712,,2020-01-14,Jordan Staal Tripping against T.J. Oshie
+102,penalty,Interference,Dmitry Orlov,Lucas Wallmark,[-71. -19.],2,14:27,WSH,CAR,WSH,15,CAR,12,2,0,8475200,8478027.0,2019020712,,2020-01-14,Dmitry Orlov Interference against Lucas Wallmark
+116,penalty,Hooking,Lars Eller,Erik Haula,[ 33. -32.],2,10:28,WSH,CAR,WSH,15,CAR,12,2,0,8474189,8475287.0,2019020712,,2020-01-14,Lars Eller Hooking against Erik Haula
+127,penalty,Hooking,Evgeny Kuznetsov,Jordan Staal,[ 37. -39.],2,07:54,WSH,CAR,WSH,15,CAR,12,2,0,8475744,8473533.0,2019020712,,2020-01-14,Evgeny Kuznetsov Hooking against Jordan Staal
+180,penalty,Tripping,Jake Gardiner,Michal Kempny,[63. -8.],3,14:37,CAR,WSH,WSH,15,CAR,12,2,0,8474581,8479482.0,2019020712,,2020-01-14,Jake Gardiner Tripping against Michal Kempny
+183,penalty,Slashing,Dougie Hamilton,Evgeny Kuznetsov,[-77.  25.],3,13:22,CAR,WSH,WSH,15,CAR,12,2,0,8476462,8475744.0,2019020712,,2020-01-14,Dougie Hamilton Slashing against Evgeny Kuznetsov
+14,penalty,Holding,Warren Foegele,David Savard,[80. -4.],1,16:06,CAR,CBJ,CBJ,29,CAR,12,1,0,8477998,8475233.0,2019020733,,2020-01-17,Warren Foegele Holding against David Savard
+44,penalty,Tripping,Scott Harrington,Lucas Wallmark,[-86.  -7.],1,08:14,CBJ,CAR,CBJ,29,CAR,12,1,0,8476449,8478027.0,2019020733,,2020-01-17,Scott Harrington Tripping against Lucas Wallmark
+66,penalty,Too many men on the ice,Ryan Dzingel,,[14. 39.],1,00:50,CAR,CBJ,CBJ,29,CAR,12,1,0,8476288,,2019020733,,2020-01-17,Too many men/ice served by Ryan Dzingel
+53,penalty,Tripping,Rickard Rakell,Jordan Staal,[65. -4.],1,11:09,ANA,CAR,CAR,12,ANA,24,1,0,8476483,8473533.0,2019020741,,2020-01-18,Rickard Rakell Tripping against Jordan Staal
+102,penalty,Hi-sticking,Jordan Staal,Cam Fowler,[68.  3.],2,19:01,CAR,ANA,CAR,12,ANA,24,1,1,8473533,8475764.0,2019020741,,2020-01-18,Jordan Staal Hi-sticking against Cam Fowler
+132,penalty,Slashing,Ryan Getzlaf,Haydn Fleury,[-91.  24.],2,12:30,ANA,CAR,CAR,12,ANA,24,1,1,8470612,8477938.0,2019020741,,2020-01-18,Ryan Getzlaf Slashing against Haydn Fleury
+187,penalty,Holding,Joel Edmundson,Jakob Silfverberg,[-86. -32.],2,00:15,CAR,ANA,CAR,12,ANA,24,1,1,8476441,8475164.0,2019020741,,2020-01-18,Joel Edmundson Holding against Jakob Silfverberg
+47,penalty,Holding,Martin Necas,Scott Mayfield,[ 40. -20.],1,09:07,CAR,NYI,CAR,12,NYI,2,1,0,8480039,8476429.0,2019020756,,2020-01-20,Martin Necas Holding against Scott Mayfield
+137,penalty,Interference,Noah Dobson,Joel Edmundson,[73. 12.],2,06:40,NYI,CAR,CAR,12,NYI,2,1,0,8480865,8476441.0,2019020756,,2020-01-20,Noah Dobson Interference against Joel Edmundson
+152,penalty,Slashing,Jordan Staal,Jordan Eberle,[-56.  14.],2,03:15,CAR,NYI,CAR,12,NYI,2,1,0,8473533,8474586.0,2019020756,,2020-01-20,Jordan Staal Slashing against Jordan Eberle
+169,penalty,Holding,Trevor van Riemsdyk,Michael Dal Colle,[76. -6.],3,19:12,CAR,NYI,CAR,12,NYI,2,1,1,8477845,8477936.0,2019020756,,2020-01-20,Trevor van Riemsdyk Holding against Michael Dal Colle
+207,penalty,Interference,Casey Cizikas,Martin Necas,[-93.  11.],3,11:34,NYI,CAR,CAR,12,NYI,2,1,1,8475231,8480039.0,2019020756,,2020-01-20,Casey Cizikas Interference against Martin Necas
+18,penalty,Hooking,Sami Niku,Martin Necas,[ 42. -12.],1,15:00,WPG,CAR,CAR,12,WPG,52,1,0,8478915,8480039.0,2019020764,,2020-01-22,Sami Niku Hooking against Martin Necas
+56,penalty,Delaying Game - Puck over glass,Warren Foegele,,[ 64. -39.],1,05:17,CAR,WPG,CAR,12,WPG,52,2,1,8477998,,2019020764,,2020-01-22,Warren Foegele Delaying Game - Puck over glass
+103,penalty,Interference,Ryan Dzingel,Mason Appleton,[-71.  -1.],2,13:49,CAR,WPG,CAR,12,WPG,52,3,1,8476288,8478891.0,2019020764,,2020-01-22,Ryan Dzingel Interference against Mason Appleton
+110,penalty,Tripping,Mathieu Perreault,Brock McGinn,[-45. -16.],2,11:51,WPG,CAR,CAR,12,WPG,52,3,1,8473618,8476934.0,2019020764,,2020-01-22,Mathieu Perreault Tripping against Brock McGinn
+137,penalty,Hi-sticking,Dmitry Kulikov,Ryan Dzingel,[ 83. -34.],2,04:47,WPG,CAR,CAR,12,WPG,52,3,1,8475179,8476288.0,2019020764,,2020-01-22,Dmitry Kulikov Hi-sticking against Ryan Dzingel
+154,penalty,Slashing,Joel Edmundson,Blake Wheeler,[-63. -15.],2,00:17,CAR,WPG,CAR,12,WPG,52,3,1,8476441,8471218.0,2019020764,,2020-01-22,Joel Edmundson Slashing against Blake Wheeler
+184,penalty,Interference,Mason Appleton,Justin Williams,[-84.  11.],3,12:50,WPG,CAR,CAR,12,WPG,52,3,1,8478891,8468508.0,2019020764,,2020-01-22,Mason Appleton Interference against Justin Williams
+198,penalty,Roughing,Andrei Svechnikov,Mark Scheifele,[-94.  16.],3,09:54,CAR,WPG,CAR,12,WPG,52,4,1,8480830,8476460.0,2019020764,,2020-01-22,Andrei Svechnikov Roughing against Mark Scheifele
+199,penalty,Roughing,Mark Scheifele,Andrei Svechnikov,[-93.  18.],3,09:54,WPG,CAR,CAR,12,WPG,52,4,1,8476460,8480830.0,2019020764,,2020-01-22,Mark Scheifele Roughing against Andrei Svechnikov
+208,penalty,Hooking,Andrew Copp,Teuvo Teravainen,[-68.  -1.],3,08:20,WPG,CAR,CAR,12,WPG,52,4,1,8477429,8476882.0,2019020764,,2020-01-22,Andrew Copp Hooking against Teuvo Teravainen
+232,penalty,Fighting,Brett Pesce,Mark Scheifele,[84. -9.],3,02:40,CAR,WPG,CAR,12,WPG,52,4,1,8477488,8476460.0,2019020764,,2020-01-22,Brett Pesce Fighting against Mark Scheifele
+233,penalty,Fighting,Mark Scheifele,Brett Pesce,[89. -7.],3,02:40,WPG,CAR,CAR,12,WPG,52,4,1,8476460,8477488.0,2019020764,,2020-01-22,Mark Scheifele Fighting against Brett Pesce
+235,penalty,Tripping,Petr Mrazek,Warren Foegele,[83. -1.],3,02:40,CAR,WPG,CAR,12,WPG,52,4,1,8475852,8477998.0,2019020764,,2020-01-22,Petr Mrazek Tripping against Mark Scheifele served by Warren Foegele
+236,penalty,Interference,Mark Scheifele,Brett Pesce,[ 78. -10.],3,02:40,WPG,CAR,CAR,12,WPG,52,4,1,8476460,8477488.0,2019020764,,2020-01-22,Mark Scheifele Interference against Brett Pesce
+238,penalty,Delaying Game - Puck over glass,Jaccob Slavin,,[66.  4.],3,01:46,CAR,WPG,CAR,12,WPG,52,4,1,8476958,,2019020764,,2020-01-22,Jaccob Slavin Delaying Game - Puck over glass
+245,penalty,Tripping,Neal Pionk,Sebastian Aho,[-38.  41.],3,00:04,WPG,CAR,CAR,12,WPG,52,4,1,8480145,8478427.0,2019020764,,2020-01-22,Neal Pionk Tripping against Sebastian Aho
+48,penalty,Slashing,Joel Edmundson,Mark Stone,[65. -4.],1,08:52,CAR,VGK,CAR,12,VGK,54,0,2,8476441,8475913.0,2019020788,,2020-02-01,Joel Edmundson Slashing against Mark Stone
+80,penalty,Hi-sticking,Warren Foegele,Jonathan Marchessault,[ 23. -39.],2,19:10,CAR,VGK,CAR,12,VGK,54,0,2,8477998,8476539.0,2019020788,,2020-02-01,Warren Foegele Hi-sticking against Jonathan Marchessault
+96,penalty,Tripping,Deryk Engelland,Justin Williams,[71. 39.],2,15:59,VGK,CAR,CAR,12,VGK,54,0,2,8468674,8468508.0,2019020788,,2020-02-01,Deryk Engelland Tripping against Justin Williams
+229,penalty,Hooking,Nicolas Roy,Andrei Svechnikov,[-62.  -4.],3,03:47,VGK,CAR,CAR,12,VGK,54,2,3,8478462,8480830.0,2019020788,,2020-02-01,Nicolas Roy Hooking against Andrei Svechnikov
+235,penalty,Hooking,Sebastian Aho,Max Pacioretty,[53.  6.],3,02:34,CAR,VGK,CAR,12,VGK,54,3,3,8478427,8474157.0,2019020788,,2020-02-01,Sebastian Aho Hooking against Max Pacioretty

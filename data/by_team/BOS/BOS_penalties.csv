@@ -1,580 +1,580 @@
-,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
-72,penalty,Hooking,Charlie McAvoy,Zach Parise,[-80.  -5.],1,02:35,BOS,MIN,MIN,30,BOS,6,0,1,8479325,8470610.0,Charlie McAvoy Hooking against Zach Parise
-92,penalty,Interference,Ryan Hartman,Torey Krug,[77.  0.],2,16:11,MIN,BOS,MIN,30,BOS,6,0,1,8477451,8476792.0,Ryan Hartman Interference against Torey Krug
-101,penalty,Interference,Eric Staal,Brandon Carlo,[25. 25.],2,14:39,MIN,BOS,MIN,30,BOS,6,0,2,8470595,8478443.0,Eric Staal Interference against Brandon Carlo
-122,penalty,Roughing,Charlie McAvoy,Mats Zuccarello,[80. 26.],2,08:41,BOS,MIN,MIN,30,BOS,6,0,3,8479325,8475692.0,Charlie McAvoy Roughing against Mats Zuccarello
-128,penalty,Interference,Brad Marchand,Mikko Koivu,[-17.  41.],2,07:24,BOS,MIN,MIN,30,BOS,6,0,3,8473419,8469459.0,Brad Marchand Interference against Mikko Koivu
-129,penalty,Roughing,Mikko Koivu,Brad Marchand,[-15.  42.],2,07:24,MIN,BOS,MIN,30,BOS,6,0,3,8469459,8473419.0,Mikko Koivu Roughing against Brad Marchand
-135,penalty,Holding,Joel Eriksson Ek,Torey Krug,[64. 35.],2,05:28,MIN,BOS,MIN,30,BOS,6,0,3,8478493,8476792.0,Joel Eriksson Ek Holding against Torey Krug
-150,penalty,Cross checking,Jake DeBrusk,Jared Spurgeon,[-74.  10.],2,02:20,BOS,MIN,MIN,30,BOS,6,0,4,8478498,8474716.0,Jake DeBrusk Cross checking against Jared Spurgeon
-184,penalty,Hooking,Zdeno Chara,Victor Rask,[-66.  35.],3,13:06,BOS,MIN,MIN,30,BOS,6,0,4,8465009,8476437.0,Zdeno Chara Hooking against Victor Rask
-198,penalty,Hooking,Jonas Brodin,Anders Bjork,[53. 34.],3,08:43,MIN,BOS,MIN,30,BOS,6,0,4,8476463,8478075.0,Jonas Brodin Hooking against Anders Bjork
-63,penalty,Missing key [PD_151],Jake Virtanen,,[35. 35.],1,05:36,VAN,BOS,BOS,6,VAN,23,1,0,8477937,,Delaying Game - Unsucc. chlg served by Jake Virtanen
-109,penalty,Delaying Game - Puck over glass,Troy Stecher,,[-55.  37.],2,14:15,VAN,BOS,BOS,6,VAN,23,1,0,8479442,,Troy Stecher Delaying Game - Puck over glass
-114,penalty,Tripping,Alexander Edler,Brad Marchand,[-96.   1.],2,13:14,VAN,BOS,BOS,6,VAN,23,1,0,8471303,8473419.0,Alexander Edler Tripping against Brad Marchand
-130,penalty,Hooking,Anders Bjork,Bo Horvat,[-5. 38.],2,10:12,BOS,VAN,BOS,6,VAN,23,1,0,8478075,8477500.0,Anders Bjork Hooking against Bo Horvat
-174,penalty,Hooking,Chris Wagner,Oscar Fantenberg,[58. 38.],2,04:03,BOS,VAN,BOS,6,VAN,23,2,0,8475780,8480147.0,Chris Wagner Hooking against Oscar Fantenberg
-246,penalty,Slashing,Torey Krug,Jake Virtanen,[-79. -11.],3,07:22,BOS,VAN,BOS,6,VAN,23,2,0,8476792,8477937.0,Torey Krug Slashing against Jake Virtanen
-251,penalty,Slashing,Quinn Hughes,Sean Kuraly,[68.  8.],3,06:22,VAN,BOS,BOS,6,VAN,23,2,0,8480800,8476374.0,Quinn Hughes Slashing against Sean Kuraly
-261,penalty,Interference - Goalkeeper,Jay Beagle,Brock Boeser,[-82.   7.],3,04:49,VAN,BOS,BOS,6,VAN,23,3,0,8474291,8478444.0,Jay Beagle Interference - Goalkeeper against Tuukka Rask served by Brock Boeser
-262,penalty,Misconduct,Jay Beagle,,[ 9. 39.],3,04:49,VAN,BOS,BOS,6,VAN,23,3,0,8474291,,Jay Beagle Misconduct
-266,penalty,Delaying Game - Puck over glass,Tyler Myers,,[57. 37.],3,03:38,VAN,BOS,BOS,6,VAN,23,3,0,8474574,,Tyler Myers Delaying Game - Puck over glass
-73,penalty,Holding,Slater Koekkoek,Sean Kuraly,[89. -6.],1,04:04,CHI,BOS,CHI,16,BOS,6,0,0,8476886,8476374.0,Slater Koekkoek Holding against Sean Kuraly
-120,penalty,Boarding,David Krejci,Adam Boqvist,[-60. -39.],2,13:47,BOS,CHI,CHI,16,BOS,6,0,0,8471276,8480871.0,David Krejci Boarding against Adam Boqvist
-173,penalty,Hi-sticking,Jeremy Lauzon,Patrick Kane,[84.  7.],2,03:17,BOS,CHI,CHI,16,BOS,6,1,1,8478468,8474141.0,Jeremy Lauzon Hi-sticking against Patrick Kane
-215,penalty,Slashing,Brandon Saad,Anders Bjork,[73.  0.],3,14:07,CHI,BOS,CHI,16,BOS,6,1,1,8476438,8478075.0,Brandon Saad Slashing against Anders Bjork
-236,penalty,Tripping,Alex Nylander,David Pastrnak,[-56. -37.],3,08:19,CHI,BOS,CHI,16,BOS,6,1,1,8479423,8477956.0,Alex Nylander Tripping against David Pastrnak
-237,penalty,Embellishment,David Pastrnak,Alex Nylander,[-58. -38.],3,08:19,BOS,CHI,CHI,16,BOS,6,1,1,8477956,8479423.0,David Pastrnak Embellishment against Alex Nylander
-247,penalty,Slashing,Chris Wagner,Kirby Dach,[-81.   1.],3,05:19,BOS,CHI,CHI,16,BOS,6,1,1,8475780,8481523.0,Chris Wagner Slashing against Kirby Dach
-255,penalty,Illegal check to head,Zack Smith,Torey Krug,[ 37. -37.],3,02:26,CHI,BOS,CHI,16,BOS,6,1,1,8474250,8476792.0,Zack Smith Illegal check to head against Torey Krug
-257,penalty,Misconduct,Ryan Carpenter,,[ 5. 37.],3,02:12,CHI,BOS,CHI,16,BOS,6,1,1,8477846,,Ryan Carpenter Misconduct
-261,penalty,Tripping,Torey Krug,Olli Maatta,[ 33. -39.],3,01:05,BOS,CHI,CHI,16,BOS,6,1,1,8476792,8476874.0,Torey Krug Tripping against Olli Maatta
-33,penalty,Hooking,Charlie McAvoy,Taylor Hall,[-62. -32.],1,10:51,BOS,ARI,BOS,6,ARI,53,0,0,8479325,8475791.0,Charlie McAvoy Hooking against Taylor Hall
-59,penalty,Hi-sticking,Conor Garland,Zdeno Chara,[-79. -33.],1,05:54,ARI,BOS,BOS,6,ARI,53,0,0,8478856,8465009.0,Conor Garland Hi-sticking against Zdeno Chara
-74,penalty,Hi-sticking,Jeremy Lauzon,Vinnie Hinostroza,[-91. -27.],1,02:33,BOS,ARI,BOS,6,ARI,53,0,0,8478468,8476994.0,Jeremy Lauzon Hi-sticking against Vinnie Hinostroza
-83,penalty,Match penalty,Jeremy Lauzon,Anders Bjork,[52. 38.],1,00:21,BOS,ARI,BOS,6,ARI,53,0,0,8478468,8478075.0,Jeremy Lauzon Match penalty against Derek Stepan served by Anders Bjork
-101,penalty,Roughing,Lawson Crouse,Charlie McAvoy,[79. 37.],2,15:14,ARI,BOS,BOS,6,ARI,53,0,1,8478474,8479325.0,Lawson Crouse Roughing against Charlie McAvoy
-130,penalty,Interference,Brad Richardson,Chris Wagner,[-75.   0.],2,08:01,ARI,BOS,BOS,6,ARI,53,1,1,8470755,8475780.0,Brad Richardson Interference against Chris Wagner
-140,penalty,Hooking,Niklas Hjalmarsson,Chris Wagner,[-64.   4.],2,05:47,ARI,BOS,BOS,6,ARI,53,2,1,8471769,8475780.0,Niklas Hjalmarsson Hooking against Chris Wagner
-18,penalty,Tripping,Brad Marchand,Jonathan Bernier,[95. -7.],1,16:59,BOS,DET,DET,17,BOS,6,0,0,8473419,8473541.0,Brad Marchand Tripping against Jonathan Bernier
-39,penalty,Tripping,Sean Kuraly,Valtteri Filppula,[ 24. -24.],1,09:05,BOS,DET,DET,17,BOS,6,0,0,8476374,8470047.0,Sean Kuraly Tripping against Valtteri Filppula
-48,penalty,Holding,Trevor Daley,Sean Kuraly,[95.  8.],1,06:45,DET,BOS,DET,17,BOS,6,0,0,8470110,8476374.0,Trevor Daley Holding against Sean Kuraly
-51,penalty,Tripping,Valtteri Filppula,Jake DeBrusk,[-7. 10.],1,06:03,DET,BOS,DET,17,BOS,6,0,0,8470047,8478498.0,Valtteri Filppula Tripping against Jake DeBrusk
-66,penalty,Tripping,Justin Abdelkader,Charlie Coyle,[ 40. -20.],1,03:50,DET,BOS,DET,17,BOS,6,0,0,8471716,8475745.0,Justin Abdelkader Tripping against Charlie Coyle
-148,penalty,Holding,Patrik Nemeth,Jake DeBrusk,[-66.   5.],2,02:56,DET,BOS,DET,17,BOS,6,1,0,8475747,8478498.0,Patrik Nemeth Holding against Jake DeBrusk
-191,penalty,Tripping,Jake DeBrusk,Trevor Daley,[-97. -13.],3,13:59,BOS,DET,DET,17,BOS,6,1,1,8478498,8470110.0,Jake DeBrusk Tripping against Trevor Daley
-49,penalty,Too many men on the ice,Brendan Gallagher,,[42. 37.],1,09:28,MTL,BOS,BOS,6,MTL,8,1,0,8475848,,Too many men/ice served by Brendan Gallagher
-84,penalty,Slashing,Brad Marchand,Danton Heinen,[14.  4.],1,01:12,BOS,MTL,BOS,6,MTL,8,1,0,8473419,8478046.0,Brad Marchand Slashing against Jeff Petry served by Danton Heinen
-85,penalty,Roughing,Jeff Petry,Brad Marchand,[19. 13.],1,01:12,MTL,BOS,BOS,6,MTL,8,1,0,8473507,8473419.0,Jeff Petry Roughing against Brad Marchand
-86,penalty,Roughing,Brad Marchand,Jeff Petry,[39.  3.],1,01:12,BOS,MTL,BOS,6,MTL,8,1,0,8473419,8473507.0,Brad Marchand Roughing against Jeff Petry
-113,penalty,Slashing,Danton Heinen,Artturi Lehkonen,[53. 30.],2,14:22,BOS,MTL,BOS,6,MTL,8,2,1,8478046,8477476.0,Danton Heinen Slashing against Artturi Lehkonen
-115,penalty,Cross checking,Zdeno Chara,Brendan Gallagher,[53. 35.],2,14:22,BOS,MTL,BOS,6,MTL,8,2,1,8465009,8475848.0,Zdeno Chara Cross checking against Brendan Gallagher
-116,penalty,Roughing,Brendan Gallagher,Zdeno Chara,[38. 35.],2,14:22,MTL,BOS,BOS,6,MTL,8,2,1,8475848,8465009.0,Brendan Gallagher Roughing against Zdeno Chara
-143,penalty,Roughing,Jonathan Drouin,Chris Wagner,[ 81. -34.],2,05:28,MTL,BOS,BOS,6,MTL,8,2,1,8477494,8475780.0,Jonathan Drouin Roughing against Chris Wagner
-144,penalty,Roughing,Chris Wagner,Jonathan Drouin,[ 68. -34.],2,05:28,BOS,MTL,BOS,6,MTL,8,2,1,8475780,8477494.0,Chris Wagner Roughing against Jonathan Drouin
-148,penalty,Roughing,Joel Armia,Torey Krug,[-94. -11.],2,04:46,MTL,BOS,BOS,6,MTL,8,2,1,8476469,8476792.0,Joel Armia Roughing against Torey Krug
-190,penalty,Delaying Game - Puck over glass,Charlie McAvoy,,[-62. -35.],3,15:41,BOS,MTL,BOS,6,MTL,8,3,1,8479325,,Charlie McAvoy Delaying Game - Puck over glass
-203,penalty,Hi-sticking,Brendan Gallagher,John Moore,[-89. -10.],3,13:42,MTL,BOS,BOS,6,MTL,8,3,1,8475848,8475186.0,Brendan Gallagher Hi-sticking against John Moore
-16,penalty,Holding,Gustav Lindstrom,Danton Heinen,[93. 14.],1,17:35,DET,BOS,BOS,6,DET,17,0,0,8480184,8478046.0,Gustav Lindstrom Holding against Danton Heinen
-80,penalty,Cross checking,Adam Erne,Chris Wagner,[12. 36.],1,01:32,DET,BOS,BOS,6,DET,17,0,1,8477454,8475780.0,Adam Erne Cross checking against Chris Wagner
-117,penalty,Hooking,David Krejci,Andreas Athanasiou,[ 66. -29.],2,11:35,BOS,DET,BOS,6,DET,17,1,1,8471276,8476960.0,David Krejci Hooking against Andreas Athanasiou
-137,penalty,Interference,Jeremy Lauzon,Christoffer Ehn,[41. 38.],2,06:50,BOS,DET,BOS,6,DET,17,3,1,8478468,8478036.0,Jeremy Lauzon Interference against Christoffer Ehn
-153,penalty,Holding,Charlie McAvoy,Robby Fabbri,[ 76. -37.],2,01:48,BOS,DET,BOS,6,DET,17,3,1,8479325,8477952.0,Charlie McAvoy Holding against Robby Fabbri
-228,penalty,Fighting,Andreas Athanasiou,Chris Wagner,[-71. -33.],3,03:21,DET,BOS,BOS,6,DET,17,4,1,8476960,8475780.0,Andreas Athanasiou Fighting against Chris Wagner
-229,penalty,Fighting,Chris Wagner,Andreas Athanasiou,[-64. -26.],3,03:21,BOS,DET,BOS,6,DET,17,4,1,8475780,8476960.0,Chris Wagner Fighting against Andreas Athanasiou
-56,penalty,Roughing,Ryan Lindgren,Brad Marchand,[11. 40.],1,08:29,NYR,BOS,NYR,3,BOS,6,0,0,8479324,8473419.0,Ryan Lindgren Roughing against Brad Marchand
-116,penalty,Hi stick - double minor,David Krejci,Ryan Lindgren,[-69.  -4.],2,14:54,BOS,NYR,NYR,3,BOS,6,0,1,8471276,8479324.0,David Krejci Hi stick - double minor against Ryan Lindgren
-170,penalty,Cross checking,Brad Marchand,Ryan Lindgren,[-86.  -2.],2,02:46,BOS,NYR,NYR,3,BOS,6,0,1,8473419,8479324.0,Brad Marchand Cross checking against Ryan Lindgren
-184,penalty,Tripping,Mika Zibanejad,Brad Marchand,[44.  5.],2,00:27,NYR,BOS,NYR,3,BOS,6,0,2,8476459,8473419.0,Mika Zibanejad Tripping against Brad Marchand
-209,penalty,Interference,Karson Kuhlman,Marc Staal,[-58. -28.],3,15:37,BOS,NYR,NYR,3,BOS,6,0,2,8480901,8471686.0,Karson Kuhlman Interference against Marc Staal
-235,penalty,Tripping,Torey Krug,Mika Zibanejad,[-59.   9.],3,10:55,BOS,NYR,NYR,3,BOS,6,0,2,8476792,8476459.0,Torey Krug Tripping against Mika Zibanejad
-49,penalty,Slashing,Ethan Bear,Brad Marchand,[-80. -10.],1,09:04,EDM,BOS,EDM,22,BOS,6,0,1,8478451,8473419.0,Ethan Bear Slashing against Brad Marchand
-71,penalty,Tripping,Joakim Nordstrom,Gaetan Haas,[-90.  31.],1,04:48,BOS,EDM,EDM,22,BOS,6,0,1,8475807,8481813.0,Joakim Nordstrom Tripping against Gaetan Haas
-75,penalty,Hi stick - double minor,Kailer Yamamoto,Charlie Coyle,[34. 36.],1,03:53,EDM,BOS,EDM,22,BOS,6,0,1,8479977,8475745.0,Kailer Yamamoto Hi stick - double minor against Charlie Coyle
-105,penalty,Slashing,Adam Larsson,Brad Marchand,[86. 10.],2,16:23,EDM,BOS,EDM,22,BOS,6,0,1,8476457,8473419.0,Adam Larsson Slashing against Brad Marchand
-126,penalty,Tripping,Torey Krug,Gaetan Haas,[-27.  26.],2,13:11,BOS,EDM,EDM,22,BOS,6,0,1,8476792,8481813.0,Torey Krug Tripping against Gaetan Haas
-147,penalty,Hooking,Patrice Bergeron,Ethan Bear,[-77.  12.],2,09:04,BOS,EDM,EDM,22,BOS,6,0,1,8470638,8478451.0,Patrice Bergeron Hooking against Ethan Bear
-154,penalty,Holding the stick,Ryan Nugent-Hopkins,Charlie Coyle,[-34. -33.],2,07:45,EDM,BOS,EDM,22,BOS,6,0,1,8476454,8475745.0,Ryan Nugent-Hopkins Holding the stick against Charlie Coyle
-201,penalty,Tripping,Karson Kuhlman,Caleb Jones,[-76.   7.],3,18:01,BOS,EDM,EDM,22,BOS,6,0,1,8480901,8478452.0,Karson Kuhlman Tripping against Caleb Jones
-217,penalty,Too many men on the ice,Kailer Yamamoto,,[-10.  40.],3,14:35,EDM,BOS,EDM,22,BOS,6,1,1,8479977,,Too many men/ice served by Kailer Yamamoto
-236,penalty,Roughing,Joakim Nordstrom,Alex Chiasson,[95.  8.],3,10:26,BOS,EDM,EDM,22,BOS,6,1,1,8475807,8475163.0,Joakim Nordstrom Roughing against Alex Chiasson
-243,penalty,Slashing,Darnell Nurse,Charlie Coyle,[-77.  -1.],3,08:50,EDM,BOS,EDM,22,BOS,6,1,1,8477498,8475745.0,Darnell Nurse Slashing against Charlie Coyle
-262,penalty,Tripping,David Pastrnak,William Lagesson,[-65.  31.],3,02:30,BOS,EDM,EDM,22,BOS,6,1,1,8477956,8478021.0,David Pastrnak Tripping against William Lagesson
-38,penalty,Elbowing,Matt Grzelcyk,Tobias Rieder,[ 0. 25.],1,13:27,BOS,CGY,CGY,20,BOS,6,3,2,8476891,8476356.0,Matt Grzelcyk Elbowing against Tobias Rieder
-129,penalty,Fighting,Matthew Tkachuk,Jeremy Lauzon,[70. 36.],2,09:43,CGY,BOS,CGY,20,BOS,6,3,4,8479314,8478468.0,Matthew Tkachuk Fighting against Jeremy Lauzon
-130,penalty,Fighting,Jeremy Lauzon,Matthew Tkachuk,[67. 37.],2,09:43,BOS,CGY,CGY,20,BOS,6,3,4,8478468,8479314.0,Jeremy Lauzon Fighting against Matthew Tkachuk
-183,penalty,Tripping,Patrice Bergeron,Derek Ryan,[-15.  -5.],3,14:05,BOS,CGY,CGY,20,BOS,6,3,4,8470638,8478585.0,Patrice Bergeron Tripping against Derek Ryan
-62,penalty,Holding,Jeremy Lauzon,Elias Pettersson,[-41.   6.],1,09:39,BOS,VAN,VAN,23,BOS,6,1,1,8478468,8480012.0,Jeremy Lauzon Holding against Elias Pettersson
-85,penalty,Holding,Bo Horvat,Brad Marchand,[ 57. -26.],1,04:26,VAN,BOS,VAN,23,BOS,6,2,1,8477500,8473419.0,Bo Horvat Holding against Brad Marchand
-94,penalty,Holding,Patrice Bergeron,Tyler Motte,[-79.   0.],1,02:47,BOS,VAN,VAN,23,BOS,6,2,1,8470638,8477353.0,Patrice Bergeron Holding against Tyler Motte
-192,penalty,Roughing,Tyler Myers,Zdeno Chara,[ 9. 21.],2,03:23,VAN,BOS,VAN,23,BOS,6,5,1,8474574,8465009.0,Tyler Myers Roughing against Zdeno Chara
-193,penalty,Roughing,Zdeno Chara,Danton Heinen,[15. 25.],2,03:23,BOS,VAN,VAN,23,BOS,6,5,1,8465009,8478046.0,Zdeno Chara Roughing against Tyler Myers served by Danton Heinen
-194,penalty,Roughing,Zdeno Chara,Tyler Myers,[12. 12.],2,03:23,BOS,VAN,VAN,23,BOS,6,5,1,8465009,8474574.0,Zdeno Chara Roughing against Tyler Myers
-203,penalty,Fighting,Bo Horvat,Charlie Coyle,[-37.  32.],2,00:30,VAN,BOS,VAN,23,BOS,6,5,1,8477500,8475745.0,Bo Horvat Fighting against Charlie Coyle
-204,penalty,Fighting,Charlie Coyle,Bo Horvat,[-40.  23.],2,00:30,BOS,VAN,VAN,23,BOS,6,5,1,8475745,8477500.0,Charlie Coyle Fighting against Bo Horvat
-233,penalty,Hi-sticking,Antoine Roussel,Torey Krug,[-54.  14.],3,14:35,VAN,BOS,VAN,23,BOS,6,6,1,8474849,8476792.0,Antoine Roussel Hi-sticking against Torey Krug
-41,penalty,Interference,TJ Brodie,Brad Marchand,[75.  0.],1,13:16,CGY,BOS,BOS,6,CGY,20,0,0,8474673,8473419.0,TJ Brodie Interference against Brad Marchand
-78,penalty,Interference,Brad Marchand,TJ Brodie,[ 82. -21.],1,05:10,BOS,CGY,BOS,6,CGY,20,0,1,8473419,8474673.0,Brad Marchand Interference against TJ Brodie
-142,penalty,Slashing,Karson Kuhlman,Noah Hanifin,[-52.   3.],2,11:14,BOS,CGY,BOS,6,CGY,20,0,1,8480901,8478396.0,Karson Kuhlman Slashing against Noah Hanifin
-172,penalty,Roughing,Matt Grzelcyk,Dillon Dube,[20. 33.],2,05:28,BOS,CGY,BOS,6,CGY,20,1,2,8476891,8479346.0,Matt Grzelcyk Roughing against Dillon Dube
-47,penalty,Tripping,Tyler Seguin,Chris Wagner,[14. 14.],1,06:53,DAL,BOS,BOS,6,DAL,25,0,0,8475794,8475780.0,Tyler Seguin Tripping against Chris Wagner
-67,penalty,Hooking,Matt Grzelcyk,Radek Faksa,[-93.  12.],1,02:56,BOS,DAL,BOS,6,DAL,25,0,0,8476891,8476889.0,Matt Grzelcyk Hooking against Radek Faksa
-75,penalty,Slashing,Andrew Cogliano,Charlie Coyle,[55. 38.],1,01:42,DAL,BOS,BOS,6,DAL,25,0,1,8471699,8475745.0,Andrew Cogliano Slashing against Charlie Coyle
-143,penalty,Fighting,Joe Pavelski,David Krejci,[ 63. -13.],2,08:36,DAL,BOS,BOS,6,DAL,25,1,1,8470794,8471276.0,Joe Pavelski Fighting against David Krejci
-144,penalty,Fighting,David Krejci,Joe Pavelski,[ 65. -22.],2,08:36,BOS,DAL,BOS,6,DAL,25,1,1,8471276,8470794.0,David Krejci Fighting against Joe Pavelski
-177,penalty,Roughing,Chris Wagner,Mattias Janmark,[-69. -17.],2,01:11,BOS,DAL,BOS,6,DAL,25,3,1,8475780,8477406.0,Chris Wagner Roughing against Mattias Janmark
-54,penalty,Interference,Nick Ritchie,Anthony Beauvillier,[ 34. -26.],1,05:29,BOS,NYI,NYI,2,BOS,6,0,2,8477941,8478463.0,Nick Ritchie Interference against Anthony Beauvillier
-74,penalty,Tripping,David Pastrnak,Nick Leddy,[-92.  19.],1,01:03,BOS,NYI,NYI,2,BOS,6,0,2,8477956,8475181.0,David Pastrnak Tripping against Nick Leddy
-118,penalty,Tripping,Leo Komarov,Par Lindholm,[-44.  39.],2,11:40,NYI,BOS,NYI,2,BOS,6,0,2,8473463,8480944.0,Leo Komarov Tripping against Par Lindholm
-128,penalty,Hi-sticking,Cal Clutterbuck,David Pastrnak,[75.  0.],2,10:12,NYI,BOS,NYI,2,BOS,6,0,2,8473504,8477956.0,Cal Clutterbuck Hi-sticking against David Pastrnak
-146,penalty,Slashing,Zdeno Chara,Mathew Barzal,[-77.   5.],2,05:28,BOS,NYI,NYI,2,BOS,6,0,2,8465009,8478445.0,Zdeno Chara Slashing against Mathew Barzal
-162,penalty,Cross checking,Nick Ritchie,Johnny Boychuk,[-60.  20.],2,01:58,BOS,NYI,NYI,2,BOS,6,0,2,8477941,8470187.0,Nick Ritchie Cross checking against Johnny Boychuk
-235,penalty,Roughing,David Pastrnak,Leo Komarov,[-53. -40.],3,06:13,BOS,NYI,NYI,2,BOS,6,0,3,8477956,8473463.0,David Pastrnak Roughing against Leo Komarov
-241,penalty,Hooking,Mathew Barzal,Charlie McAvoy,[ 96. -20.],3,05:06,NYI,BOS,NYI,2,BOS,6,0,3,8478445,8479325.0,Mathew Barzal Hooking against Charlie McAvoy
-256,penalty,Holding,Jeremy Lauzon,Leo Komarov,[71.  2.],3,01:13,BOS,NYI,NYI,2,BOS,6,0,4,8478468,8473463.0,Jeremy Lauzon Holding against Leo Komarov
-14,penalty,Hooking,Kevin Shattenkirk,David Krejci,[-66.  -3.],1,17:25,TBL,BOS,TBL,14,BOS,6,0,0,8474031,8471276.0,Kevin Shattenkirk Hooking against David Krejci
-62,penalty,Tripping,Brandon Carlo,Pat Maroon,[87. 32.],1,05:51,BOS,TBL,TBL,14,BOS,6,0,0,8478443,8474034.0,Brandon Carlo Tripping against Pat Maroon
-115,penalty,Tripping,Yanni Gourde,Charlie Coyle,[-77. -35.],2,14:14,TBL,BOS,TBL,14,BOS,6,0,1,8476826,8475745.0,Yanni Gourde Tripping against Charlie Coyle
-140,penalty,Slashing,Mikhail Sergachev,Jake DeBrusk,[ 93. -20.],2,07:06,TBL,BOS,TBL,14,BOS,6,0,2,8479410,8478498.0,Mikhail Sergachev Slashing against Jake DeBrusk
-165,penalty,Fighting,Yanni Gourde,Joakim Nordstrom,[-70.  16.],2,00:04,TBL,BOS,TBL,14,BOS,6,1,2,8476826,8475807.0,Yanni Gourde Fighting against Joakim Nordstrom
-166,penalty,Fighting,Joakim Nordstrom,Yanni Gourde,[-69.  22.],2,00:04,BOS,TBL,TBL,14,BOS,6,1,2,8475807,8476826.0,Joakim Nordstrom Fighting against Yanni Gourde
-55,penalty,Tripping,Ondrej Kase,Jake DeBrusk,[-23.  41.],1,08:19,BOS,FLA,FLA,13,BOS,6,0,0,8478131,8478498.0,Ondrej Kase Tripping against Evgenii Dadonov served by Jake DeBrusk
-66,penalty,Fighting,Riley Stillman,Nick Ritchie,[ 7. 24.],1,05:25,FLA,BOS,FLA,13,BOS,6,0,0,8479388,8477941.0,Riley Stillman Fighting against Nick Ritchie
-68,penalty,Fighting,Nick Ritchie,Riley Stillman,[11. 22.],1,05:25,BOS,FLA,FLA,13,BOS,6,0,0,8477941,8479388.0,Nick Ritchie Fighting against Riley Stillman
-87,penalty,Tripping,Mike Matheson,Jake DeBrusk,[33.  0.],1,00:59,FLA,BOS,FLA,13,BOS,6,0,0,8476875,8478498.0,Mike Matheson Tripping against Jake DeBrusk
-141,penalty,Elbowing,Evgenii Dadonov,Brandon Carlo,[ 72. -38.],2,09:14,FLA,BOS,FLA,13,BOS,6,1,0,8474149,8478443.0,Evgenii Dadonov Elbowing against Brandon Carlo
-147,penalty,Tripping,Aleksander Barkov,Jake DeBrusk,[46. 39.],2,08:12,FLA,BOS,FLA,13,BOS,6,1,1,8477493,8478498.0,Aleksander Barkov Tripping against Jake DeBrusk
-164,penalty,Hooking,Brad Marchand,Mike Hoffman,[-64. -24.],2,04:54,BOS,FLA,FLA,13,BOS,6,1,1,8473419,8474884.0,Brad Marchand Hooking against Mike Hoffman
-199,penalty,Slashing,Frank Vatrano,Jeremy Lauzon,[-83. -37.],3,17:56,FLA,BOS,FLA,13,BOS,6,1,1,8478366,8478468.0,Frank Vatrano Slashing against Jeremy Lauzon
-204,penalty,Tripping,Charlie Coyle,Anton Stralman,[91. -4.],3,17:02,BOS,FLA,FLA,13,BOS,6,1,1,8475745,8471873.0,Charlie Coyle Tripping against Anton Stralman
-211,penalty,Interference,Frank Vatrano,,[ 17. -39.],3,15:54,FLA,BOS,FLA,13,BOS,6,1,1,8478366,,Frank Vatrano Interference
-216,penalty,Tripping,David Pastrnak,Aleksander Barkov,[-76.   6.],3,15:06,BOS,FLA,FLA,13,BOS,6,1,1,8477956,8477493.0,David Pastrnak Tripping against Aleksander Barkov
-18,penalty,Elbowing,Barclay Goodrow,Ondrej Kase,[ 61. -35.],1,14:59,TBL,BOS,BOS,6,TBL,14,0,0,8476624,8478131.0,Barclay Goodrow Elbowing against Ondrej Kase
-33,penalty,Unsportsmanlike conduct,Chris Wagner,Barclay Goodrow,[ 14. -20.],1,11:21,BOS,TBL,BOS,6,TBL,14,0,2,8475780,8476624.0,Chris Wagner Unsportsmanlike conduct against Barclay Goodrow
-34,penalty,Unsportsmanlike conduct,Barclay Goodrow,Chris Wagner,[ 18. -20.],1,11:21,TBL,BOS,BOS,6,TBL,14,0,2,8476624,8475780.0,Barclay Goodrow Unsportsmanlike conduct against Chris Wagner
-40,penalty,Fighting,Chris Wagner,Barclay Goodrow,[-33.  -3.],1,09:15,BOS,TBL,BOS,6,TBL,14,0,2,8475780,8476624.0,Chris Wagner Fighting against Barclay Goodrow
-41,penalty,Fighting,Barclay Goodrow,Chris Wagner,[-36. -22.],1,09:15,TBL,BOS,BOS,6,TBL,14,0,2,8476624,8475780.0,Barclay Goodrow Fighting against Chris Wagner
-49,penalty,Hooking,Braydon Coburn,Jake DeBrusk,[79.  2.],1,07:40,TBL,BOS,BOS,6,TBL,14,0,2,8470601,8478498.0,Braydon Coburn Hooking against Jake DeBrusk
-77,penalty,Interference,Jeremy Lauzon,Yanni Gourde,[-72.  15.],1,00:46,BOS,TBL,BOS,6,TBL,14,0,2,8478468,8476826.0,Jeremy Lauzon Interference against Yanni Gourde
-139,penalty,Roughing,Anthony Cirelli,Brad Marchand,[-82. -20.],2,05:47,TBL,BOS,BOS,6,TBL,14,0,3,8478519,8473419.0,Anthony Cirelli Roughing against Brad Marchand
-140,penalty,Roughing,Brad Marchand,Anthony Cirelli,[-82. -25.],2,05:47,BOS,TBL,BOS,6,TBL,14,0,3,8473419,8478519.0,Brad Marchand Roughing against Anthony Cirelli
-166,penalty,Fighting,Pat Maroon,Zdeno Chara,[15. 28.],2,01:23,TBL,BOS,BOS,6,TBL,14,2,3,8474034,8465009.0,Pat Maroon Fighting against Zdeno Chara
-167,penalty,Misconduct,Erik Cernak,Sean Kuraly,[17. 23.],2,01:23,TBL,BOS,BOS,6,TBL,14,2,3,8478416,8476374.0,Erik Cernak Misconduct against Sean Kuraly
-168,penalty,Game Misconduct - Team staff,Ondrej Palat,,[18. 36.],2,01:23,TBL,BOS,BOS,6,TBL,14,2,3,8476292,,Game Misconduct - Team staff served by Ondrej Palat
-169,penalty,Fighting,Zdeno Chara,Pat Maroon,[16. 29.],2,01:23,BOS,TBL,BOS,6,TBL,14,2,3,8465009,8474034.0,Zdeno Chara Fighting against Pat Maroon
-170,penalty,Misconduct,Sean Kuraly,Erik Cernak,[46. 29.],2,01:23,BOS,TBL,BOS,6,TBL,14,2,3,8476374,8478416.0,Sean Kuraly Misconduct against Erik Cernak
-171,penalty,Delay of game,Ondrej Palat,,[19. 36.],2,01:23,TBL,BOS,BOS,6,TBL,14,2,3,8476292,,Delay of Game - Bench served by Ondrej Palat
-180,penalty,Slashing,Brad Marchand,Blake Coleman,[15. 34.],2,00:00,BOS,TBL,BOS,6,TBL,14,2,3,8473419,8476399.0,Brad Marchand Slashing against Blake Coleman
-181,penalty,Misconduct,Blake Coleman,Brad Marchand,[20. 32.],2,00:00,TBL,BOS,BOS,6,TBL,14,2,3,8476399,8473419.0,Blake Coleman Misconduct against Brad Marchand
-182,penalty,Misconduct,Nick Ritchie,Blake Coleman,[38. 37.],2,00:00,BOS,TBL,BOS,6,TBL,14,2,3,8477941,8476399.0,Nick Ritchie Misconduct against Blake Coleman
-212,penalty,Cross checking,Nikita Kucherov,Matt Grzelcyk,[-74. -31.],3,14:12,TBL,BOS,BOS,6,TBL,14,2,4,8476453,8476891.0,Nikita Kucherov Cross checking against Matt Grzelcyk
-233,penalty,Roughing,Barclay Goodrow,Patrice Bergeron,[-63. -30.],3,11:17,TBL,BOS,BOS,6,TBL,14,3,4,8476624,8470638.0,Barclay Goodrow Roughing against Patrice Bergeron
-235,penalty,Delaying Game - Puck over glass,Patrice Bergeron,,[-78. -31.],3,11:17,BOS,TBL,BOS,6,TBL,14,3,4,8470638,,Patrice Bergeron Delaying Game - Puck over glass
-236,penalty,Roughing,Patrice Bergeron,Barclay Goodrow,[-38.  33.],3,11:17,BOS,TBL,BOS,6,TBL,14,3,4,8470638,8476624.0,Patrice Bergeron Roughing against Barclay Goodrow
-237,penalty,Roughing,Torey Krug,Mitchell Stephens,[-57. -27.],3,11:17,BOS,TBL,BOS,6,TBL,14,3,4,8476792,8478477.0,Torey Krug Roughing against Mitchell Stephens
-238,penalty,Roughing,Mitchell Stephens,Torey Krug,[-71. -28.],3,11:17,TBL,BOS,BOS,6,TBL,14,3,4,8478477,8476792.0,Mitchell Stephens Roughing against Torey Krug
-250,penalty,Hooking,Tyler Johnson,Ondrej Kase,[53.  3.],3,06:50,TBL,BOS,BOS,6,TBL,14,3,4,8474870,8478131.0,Tyler Johnson Hooking against Ondrej Kase
-251,penalty,Embellishment,Ondrej Kase,Tyler Johnson,[ 42. -21.],3,06:50,BOS,TBL,BOS,6,TBL,14,3,4,8478131,8474870.0,Ondrej Kase Embellishment against Tyler Johnson
-26,penalty,Tripping,Chris Wagner,Shayne Gostisbehere,[-57. -23.],1,13:40,BOS,PHI,PHI,4,BOS,6,0,0,8475780,8476906.0,Chris Wagner Tripping against Shayne Gostisbehere
-67,penalty,Holding,Brad Marchand,Jakub Voracek,[23. 19.],1,03:54,BOS,PHI,PHI,4,BOS,6,0,0,8473419,8474161.0,Brad Marchand Holding against Jakub Voracek
-82,penalty,Hi-sticking,Ivan Provorov,Ondrej Kase,[-28. -38.],1,00:10,PHI,BOS,PHI,4,BOS,6,0,0,8478500,8478131.0,Ivan Provorov Hi-sticking against Ondrej Kase
-135,penalty,Holding,Brad Marchand,Sean Couturier,[20. 21.],2,05:48,BOS,PHI,PHI,4,BOS,6,0,0,8473419,8476461.0,Brad Marchand Holding against Sean Couturier
-145,penalty,Interference,Justin Braun,Patrice Bergeron,[-76.   5.],2,03:05,PHI,BOS,PHI,4,BOS,6,0,0,8474027,8470638.0,Justin Braun Interference against Patrice Bergeron
-219,penalty,Hi-sticking,Scott Laughton,David Pastrnak,[-87. -21.],3,05:00,PHI,BOS,PHI,4,BOS,6,0,2,8476872,8477956.0,Scott Laughton Hi-sticking against David Pastrnak
-16,penalty,Holding,Alexander Radulov,Par Lindholm,[-78. -25.],1,15:37,DAL,BOS,DAL,25,BOS,6,0,1,8471228,8480944.0,Alexander Radulov Holding against Par Lindholm
-70,penalty,Hi-sticking,Radek Faksa,Sean Kuraly,[ 59. -39.],1,02:27,DAL,BOS,DAL,25,BOS,6,0,2,8476889,8476374.0,Radek Faksa Hi-sticking against Sean Kuraly
-113,penalty,Tripping,Alexander Radulov,Par Lindholm,[53.  8.],2,10:30,DAL,BOS,DAL,25,BOS,6,1,2,8471228,8480944.0,Alexander Radulov Tripping against Par Lindholm
-137,penalty,Interference,Mattias Janmark,Charlie McAvoy,[-40. -39.],2,04:00,DAL,BOS,DAL,25,BOS,6,1,2,8477406,8479325.0,Mattias Janmark Interference against Charlie McAvoy
-142,penalty,Interference,Charlie McAvoy,Tyler Seguin,[60. -7.],2,02:48,BOS,DAL,DAL,25,BOS,6,1,2,8479325,8475794.0,Charlie McAvoy Interference against Tyler Seguin
-159,penalty,Interference,Zdeno Chara,Andrew Cogliano,[-72.  37.],3,19:15,BOS,DAL,DAL,25,BOS,6,1,2,8465009,8471699.0,Zdeno Chara Interference against Andrew Cogliano
-69,penalty,Interference,Charlie McAvoy,Lawson Crouse,[15. 39.],1,06:59,BOS,ARI,ARI,53,BOS,6,0,0,8479325,8478474.0,Charlie McAvoy Interference against Lawson Crouse
-146,penalty,Roughing,Connor Clifton,Lawson Crouse,[-85. -23.],2,08:55,BOS,ARI,ARI,53,BOS,6,0,1,8477365,8478474.0,Connor Clifton Roughing against Lawson Crouse
-147,penalty,Roughing,Lawson Crouse,Connor Clifton,[-75. -19.],2,08:55,ARI,BOS,ARI,53,BOS,6,0,1,8478474,8477365.0,Lawson Crouse Roughing against Connor Clifton
-173,penalty,Hi-sticking,Christian Fischer,Connor Clifton,[-96.  -6.],2,02:01,ARI,BOS,ARI,53,BOS,6,0,1,8478432,8477365.0,Christian Fischer Hi-sticking against Connor Clifton
-176,penalty,Interference,David Pastrnak,Michael Grabner,[-33.   4.],2,01:53,BOS,ARI,ARI,53,BOS,6,0,1,8477956,8473546.0,David Pastrnak Interference against Michael Grabner
-186,penalty,Interference,Karson Kuhlman,Lawson Crouse,[-68.  20.],3,19:12,BOS,ARI,ARI,53,BOS,6,0,1,8480901,8478474.0,Karson Kuhlman Interference against Lawson Crouse
-195,penalty,Slashing,Jordan Oesterle,Chris Wagner,[-66.   2.],3,16:36,ARI,BOS,ARI,53,BOS,6,0,1,8477851,8475780.0,Jordan Oesterle Slashing against Chris Wagner
-25,penalty,Interference - Goalkeeper,Brett Ritchie,Marc-Andre Fleury,[80.  0.],1,14:45,BOS,VGK,VGK,54,BOS,6,0,0,8476439,8470594.0,Brett Ritchie Interference - Goalkeeper against Marc-Andre Fleury
-90,penalty,Slashing,Brandon Pirri,Danton Heinen,[72.  3.],1,02:22,VGK,BOS,VGK,54,BOS,6,2,1,8475204,8478046.0,Brandon Pirri Slashing against Danton Heinen
-129,penalty,Interference,David Backes,Brayden McNabb,[-46.  40.],2,16:42,BOS,VGK,VGK,54,BOS,6,2,4,8470655,8475188.0,David Backes Interference against Brayden McNabb
-218,penalty,Hooking,Nicolas Hague,Danton Heinen,[96. 14.],3,18:00,VGK,BOS,VGK,54,BOS,6,2,4,8479980,8478046.0,Nicolas Hague Hooking against Danton Heinen
-246,penalty,Holding,Brayden McNabb,David Pastrnak,[ 34. -37.],3,10:26,VGK,BOS,VGK,54,BOS,6,2,4,8475188,8477956.0,Brayden McNabb Holding against David Pastrnak
-269,penalty,Cross checking,Brad Marchand,Brayden McNabb,[65.  1.],3,05:38,BOS,VGK,VGK,54,BOS,6,2,4,8473419,8475188.0,Brad Marchand Cross checking against Brayden McNabb
-88,penalty,Too many men on the ice,Danton Heinen,,[-15.  38.],1,01:32,BOS,COL,COL,21,BOS,6,0,2,8478046,,Too many men/ice served by Danton Heinen
-128,penalty,Tripping,David Backes,Tyson Jost,[ 76. -28.],2,13:41,BOS,COL,COL,21,BOS,6,1,2,8470655,8479370.0,David Backes Tripping against Tyson Jost
-177,penalty,Interference,Nikita Zadorov,Jake DeBrusk,[-83. -34.],2,00:19,COL,BOS,COL,21,BOS,6,2,2,8477507,8478498.0,Nikita Zadorov Interference against Jake DeBrusk
-68,penalty,Hooking,Sean Kuraly,Travis Zajac,[-66. -19.],1,04:36,BOS,NJD,BOS,6,NJD,1,2,0,8476374,8471233.0,Sean Kuraly Hooking against Travis Zajac
-81,penalty,Interference,Mirco Mueller,Charlie Coyle,[ 69. -22.],1,00:17,NJD,BOS,BOS,6,NJD,1,2,0,8477509,8475745.0,Mirco Mueller Interference against Charlie Coyle
-109,penalty,Tripping,Connor Carrick,Karson Kuhlman,[-64.  13.],2,13:48,NJD,BOS,BOS,6,NJD,1,2,0,8476941,8480901.0,Connor Carrick Tripping against Karson Kuhlman
-123,penalty,Hooking,Brandon Carlo,Jack Hughes,[66.  9.],2,10:41,BOS,NJD,BOS,6,NJD,1,2,0,8478443,8481559.0,Brandon Carlo Hooking against Jack Hughes
-144,penalty,Face-off violation,David Pastrnak,,[65. 23.],2,06:08,BOS,NJD,BOS,6,NJD,1,2,0,8477956,,Delay Game - Bench – FO viol served by David Pastrnak
-163,penalty,Tripping,Kyle Palmieri,Charlie McAvoy,[43. 21.],2,01:01,NJD,BOS,BOS,6,NJD,1,2,0,8475151,8479325.0,Kyle Palmieri Tripping against Charlie McAvoy
-207,penalty,Holding,Zdeno Chara,Nico Hischier,[-53.  35.],3,08:45,BOS,NJD,BOS,6,NJD,1,3,0,8465009,8480002.0,Zdeno Chara Holding against Nico Hischier
-20,penalty,Slashing,Michael Del Zotto,Charlie Coyle,[78. 15.],1,15:50,ANA,BOS,BOS,6,ANA,24,0,0,8474584,8475745.0,Michael Del Zotto Slashing against Charlie Coyle
-75,penalty,Slashing,Patrice Bergeron,Ondrej Kase,[-17.  17.],1,02:44,BOS,ANA,BOS,6,ANA,24,1,0,8470638,8478131.0,Patrice Bergeron Slashing against Ondrej Kase
-111,penalty,Tripping,David Pastrnak,Max Comtois,[ 51. -10.],2,15:20,BOS,ANA,BOS,6,ANA,24,1,0,8477956,8480031.0,David Pastrnak Tripping against Max Comtois
-128,penalty,Hooking,Steven Kampfer,Max Jones,[79. -7.],2,10:32,BOS,ANA,BOS,6,ANA,24,1,0,8474000,8479368.0,Steven Kampfer Hooking against Max Jones
-140,penalty,Holding,Sam Steel,Joakim Nordstrom,[-58. -14.],2,07:10,ANA,BOS,BOS,6,ANA,24,2,0,8479351,8475807.0,Sam Steel Holding against Joakim Nordstrom
-162,penalty,Delaying Game - Puck over glass,Charlie McAvoy,,[92. 13.],2,01:07,BOS,ANA,BOS,6,ANA,24,2,1,8479325,,Charlie McAvoy Delaying Game - Puck over glass
-185,penalty,Holding,Max Comtois,Charlie Coyle,[-67.   5.],3,16:23,ANA,BOS,BOS,6,ANA,24,3,1,8480031,8475745.0,Max Comtois Holding against Charlie Coyle
-252,penalty,Roughing,Ryan Getzlaf,Chris Wagner,[-65.  10.],3,00:19,ANA,BOS,BOS,6,ANA,24,4,2,8470612,8475780.0,Ryan Getzlaf Roughing against Chris Wagner
-253,penalty,Roughing,Chris Wagner,Ryan Getzlaf,[-70.   4.],3,00:19,BOS,ANA,BOS,6,ANA,24,4,2,8475780,8470612.0,Chris Wagner Roughing against Ryan Getzlaf
-52,penalty,Holding,Mikhail Sergachev,Brett Ritchie,[76.  0.],1,10:33,TBL,BOS,BOS,6,TBL,14,0,0,8479410,8476439.0,Mikhail Sergachev Holding against Brett Ritchie
-57,penalty,Hooking,Sean Kuraly,Nikita Kucherov,[64. -2.],1,08:56,BOS,TBL,BOS,6,TBL,14,1,0,8476374,8476453.0,Sean Kuraly Hooking against Nikita Kucherov
-77,penalty,Slashing,Patrice Bergeron,Ondrej Palat,[-62. -20.],1,03:51,BOS,TBL,BOS,6,TBL,14,1,0,8470638,8476292.0,Patrice Bergeron Slashing against Ondrej Palat
-102,penalty,Tripping,Carter Verhaeghe,Patrice Bergeron,[-80. -36.],2,17:45,TBL,BOS,BOS,6,TBL,14,1,1,8477409,8470638.0,Carter Verhaeghe Tripping against Patrice Bergeron
-120,penalty,Interference,Yanni Gourde,Patrice Bergeron,[-76.   0.],2,13:37,TBL,BOS,BOS,6,TBL,14,1,1,8476826,8470638.0,Yanni Gourde Interference against Patrice Bergeron
-171,penalty,Interference,Erik Cernak,Karson Kuhlman,[-64. -36.],2,02:04,TBL,BOS,BOS,6,TBL,14,2,2,8478416,8480901.0,Erik Cernak Interference against Karson Kuhlman
-215,penalty,Hooking,Matt Grzelcyk,Pat Maroon,[-85. -32.],3,11:35,BOS,TBL,BOS,6,TBL,14,2,2,8476891,8474034.0,Matt Grzelcyk Hooking against Pat Maroon
-247,penalty,Tripping,Anthony Cirelli,David Pastrnak,[70. 13.],3,03:52,TBL,BOS,BOS,6,TBL,14,2,3,8478519,8477956.0,Anthony Cirelli Tripping against David Pastrnak
-283,penalty,Holding,Brad Marchand,Brayden Point,[73. 28.],4,00:00,BOS,TBL,BOS,6,TBL,14,3,3,8473419,8478010.0,Brad Marchand Holding against Brayden Point
-104,penalty,Holding,Ilya Mikheyev,Brandon Carlo,[ 97. -22.],2,18:04,TOR,BOS,TOR,10,BOS,6,2,1,8481624,8478443.0,Ilya Mikheyev Holding against Brandon Carlo
-133,penalty,Tripping,Nicholas Shore,Par Lindholm,[-39.   5.],2,12:08,TOR,BOS,TOR,10,BOS,6,2,1,8476406,8480944.0,Nicholas Shore Tripping against Par Lindholm
-169,penalty,Interference - Goalkeeper,David Backes,Frederik Andersen,[-97. -15.],2,03:19,BOS,TOR,TOR,10,BOS,6,2,1,8470655,8475883.0,David Backes Interference - Goalkeeper against Frederik Andersen
-170,penalty,Roughing,Martin Marincin,David Backes,[-87.  -8.],2,03:19,TOR,BOS,TOR,10,BOS,6,2,1,8475716,8470655.0,Martin Marincin Roughing against David Backes
-188,penalty,Hooking,Martin Marincin,Jake DeBrusk,[-77.  -3.],2,00:23,TOR,BOS,TOR,10,BOS,6,2,1,8475716,8478498.0,Martin Marincin Hooking against Jake DeBrusk
-18,penalty,Interference,Torey Krug,Frederik Gauthier,[-80.  23.],1,15:57,BOS,TOR,BOS,6,TOR,10,0,0,8476792,8477512.0,Torey Krug Interference against Frederik Gauthier
-68,penalty,Hooking,Andreas Johnsson,Sean Kuraly,[-93. -19.],1,03:34,TOR,BOS,BOS,6,TOR,10,0,0,8477341,8476374.0,Andreas Johnsson Hooking against Sean Kuraly
-73,penalty,Roughing,Andreas Johnsson,Chris Wagner,[-1. 16.],1,02:42,TOR,BOS,BOS,6,TOR,10,1,0,8477341,8475780.0,Andreas Johnsson Roughing against Chris Wagner
-93,penalty,Tripping,Jake Muzzin,Jake DeBrusk,[-44.  23.],2,18:42,TOR,BOS,BOS,6,TOR,10,1,0,8474162,8478498.0,Jake Muzzin Tripping against Jake DeBrusk
-138,penalty,Tripping,Zdeno Chara,Frederik Gauthier,[ 47. -29.],2,08:20,BOS,TOR,BOS,6,TOR,10,2,1,8465009,8477512.0,Zdeno Chara Tripping against Frederik Gauthier
-156,penalty,Tripping,Morgan Rielly,Sean Kuraly,[-80.   0.],2,04:06,TOR,BOS,BOS,6,TOR,10,2,2,8476853,8476374.0,Morgan Rielly Tripping against Sean Kuraly
-241,penalty,Hi-sticking,Sean Kuraly,Andreas Johnsson,[-54.  27.],3,04:12,BOS,TOR,BOS,6,TOR,10,3,2,8476374,8477341.0,Sean Kuraly Hi-sticking against Andreas Johnsson
-254,penalty,Unsportsmanlike conduct,Brad Marchand,,[-9. 19.],3,01:55,BOS,TOR,BOS,6,TOR,10,4,2,8473419,,Brad Marchand Unsportsmanlike conduct
-7,penalty,Roughing,Brayden Schenn,Zdeno Chara,[30. 39.],1,19:22,STL,BOS,BOS,6,STL,19,0,0,8475170,8465009.0,Brayden Schenn Roughing against Zdeno Chara
-8,penalty,Roughing,Zdeno Chara,Brayden Schenn,[23. 41.],1,19:22,BOS,STL,BOS,6,STL,19,0,0,8465009,8475170.0,Zdeno Chara Roughing against Brayden Schenn
-24,penalty,Holding the stick,Torey Krug,David Perron,[37. 32.],1,13:47,BOS,STL,BOS,6,STL,19,0,0,8476792,8474102.0,Torey Krug Holding the stick against David Perron
-25,penalty,Roughing,David Perron,Torey Krug,[35. 38.],1,13:47,STL,BOS,BOS,6,STL,19,0,0,8474102,8476792.0,David Perron Roughing against Torey Krug
-66,penalty,Holding,David Perron,Charlie Coyle,[64. 10.],1,05:52,STL,BOS,BOS,6,STL,19,0,0,8474102,8475745.0,David Perron Holding against Charlie Coyle
-73,penalty,Cross checking,Sean Kuraly,Vince Dunn,[-69. -11.],1,04:11,BOS,STL,BOS,6,STL,19,1,0,8476374,8478407.0,Sean Kuraly Cross checking against Vince Dunn
-85,penalty,Tripping,Oskar Sundqvist,Connor Clifton,[-93. -22.],1,01:48,STL,BOS,BOS,6,STL,19,1,0,8476897,8477365.0,Oskar Sundqvist Tripping against Connor Clifton
-131,penalty,Hooking,Torey Krug,David Perron,[85. 21.],2,10:18,BOS,STL,BOS,6,STL,19,2,0,8476792,8474102.0,Torey Krug Hooking against David Perron
-139,penalty,Boarding,Oskar Sundqvist,Charlie McAvoy,[ 87. -33.],2,07:54,STL,BOS,BOS,6,STL,19,2,0,8476897,8479325.0,Oskar Sundqvist Boarding against Charlie McAvoy
-167,penalty,Interference,Matt Grzelcyk,Alexander Steen,[ 43. -36.],2,00:43,BOS,STL,BOS,6,STL,19,2,0,8476891,8470257.0,Matt Grzelcyk Interference against Alexander Steen
-181,penalty,Hooking,Colton Parayko,Anders Bjork,[ 84. -15.],3,15:58,STL,BOS,BOS,6,STL,19,2,0,8476892,8478075.0,Colton Parayko Hooking against Anders Bjork
-196,penalty,Holding,Torey Krug,Ryan O'Reilly,[-92. -22.],3,11:38,BOS,STL,BOS,6,STL,19,2,0,8476792,8475158.0,Torey Krug Holding against Ryan O'Reilly
-3,penalty,Tripping,Brady Skjei,Patrice Bergeron,[72. 40.],1,19:25,NYR,BOS,NYR,3,BOS,6,0,0,8476869,8470638.0,Brady Skjei Tripping against Patrice Bergeron
-15,penalty,Hooking,Peter Cehlarik,Libor Hajek,[97.  6.],1,17:05,BOS,NYR,NYR,3,BOS,6,0,0,8477417,8479333.0,Peter Cehlarik Hooking against Libor Hajek
-51,penalty,Hi-sticking,Brad Marchand,Jacob Trouba,[17. 38.],1,07:43,BOS,NYR,NYR,3,BOS,6,1,0,8473419,8476885.0,Brad Marchand Hi-sticking against Jacob Trouba
-101,penalty,Hi-sticking,Kaapo Kakko,Charlie McAvoy,[ 35. -38.],2,18:24,NYR,BOS,NYR,3,BOS,6,1,2,8481554,8479325.0,Kaapo Kakko Hi-sticking against Charlie McAvoy
-141,penalty,Roughing,Brad Marchand,Ryan Strome,[-96.   7.],2,09:59,BOS,NYR,NYR,3,BOS,6,1,3,8473419,8476458.0,Brad Marchand Roughing against Ryan Strome
-142,penalty,Roughing,Henrik Lundqvist,Pavel Buchnevich,[-97.   1.],2,09:59,NYR,BOS,NYR,3,BOS,6,1,3,8468685,8477402.0,Henrik Lundqvist Roughing against David Pastrnak served by Pavel Buchnevich
-158,penalty,Tripping,Zdeno Chara,Brendan Lemieux,[96. -5.],2,07:24,BOS,NYR,NYR,3,BOS,6,1,4,8465009,8477962.0,Zdeno Chara Tripping against Brendan Lemieux
-215,penalty,Tripping,David Pastrnak,Pavel Buchnevich,[31. 30.],3,15:42,BOS,NYR,NYR,3,BOS,6,1,5,8477956,8477402.0,David Pastrnak Tripping against Pavel Buchnevich
-266,penalty,Closing hand on puck,Zdeno Chara,,[-21. -17.],3,02:08,BOS,NYR,NYR,3,BOS,6,2,6,8465009,,Zdeno Chara Closing hand on puck
-24,penalty,Tripping,Barclay Goodrow,Brad Marchand,[32. 15.],1,13:45,SJS,BOS,BOS,6,SJS,28,0,0,8476624,8473419.0,Barclay Goodrow Tripping against Brad Marchand
-32,penalty,Delay of game,Lukas Radil,,[ 37. -17.],1,12:11,SJS,BOS,BOS,6,SJS,28,1,0,8480780,,Delay of Game - Bench served by Lukas Radil
-38,penalty,Holding,Matt Grzelcyk,Logan Couture,[-15.  17.],1,10:40,BOS,SJS,BOS,6,SJS,28,1,0,8476891,8474053.0,Matt Grzelcyk Holding against Logan Couture
-72,penalty,Hi-sticking,Tomas Hertl,Charlie McAvoy,[-79. -26.],1,03:35,SJS,BOS,BOS,6,SJS,28,1,0,8476881,8479325.0,Tomas Hertl Hi-sticking against Charlie McAvoy
-87,penalty,Hooking,David Krejci,Erik Karlsson,[ 9. 10.],2,19:08,BOS,SJS,BOS,6,SJS,28,2,0,8471276,8474578.0,David Krejci Hooking against Erik Karlsson
-103,penalty,Tripping,Tomas Hertl,David Pastrnak,[-80.   5.],2,16:51,SJS,BOS,BOS,6,SJS,28,2,1,8476881,8477956.0,Tomas Hertl Tripping against David Pastrnak
-135,penalty,Tripping,Lukas Radil,Matt Grzelcyk,[ 72. -28.],2,10:24,SJS,BOS,BOS,6,SJS,28,4,1,8480780,8476891.0,Lukas Radil Tripping against Matt Grzelcyk
-179,penalty,Hi-sticking,Evander Kane,Charlie McAvoy,[-45. -21.],3,18:52,SJS,BOS,BOS,6,SJS,28,5,1,8475169,8479325.0,Evander Kane Hi-sticking against Charlie McAvoy
-180,penalty,Roughing,Brenden Dillon,Zdeno Chara,[-78. -31.],3,18:52,SJS,BOS,BOS,6,SJS,28,5,1,8475455,8465009.0,Brenden Dillon Roughing against Zdeno Chara
-181,penalty,Roughing,Zdeno Chara,Brenden Dillon,[-62. -35.],3,18:52,BOS,SJS,BOS,6,SJS,28,5,1,8465009,8475455.0,Zdeno Chara Roughing against Brenden Dillon
-198,penalty,Hi-sticking,Lukas Radil,Charlie McAvoy,[-94. -25.],3,14:16,SJS,BOS,BOS,6,SJS,28,5,1,8480780,8479325.0,Lukas Radil Hi-sticking against Charlie McAvoy
-200,penalty,Tripping,Jake DeBrusk,Marc-Edouard Vlasic,[-47.  30.],3,13:58,BOS,SJS,BOS,6,SJS,28,5,1,8478498,8471709.0,Jake DeBrusk Tripping against Marc-Edouard Vlasic
-217,penalty,Game Misconduct - Head coach,Erik Karlsson,,[55. 12.],3,07:50,SJS,BOS,BOS,6,SJS,28,5,1,8474578,,Erik Karlsson Game Misconduct - Head coach
-219,penalty,Fighting,Barclay Goodrow,Brett Ritchie,[ 33. -25.],3,07:21,SJS,BOS,BOS,6,SJS,28,5,1,8476624,8476439.0,Barclay Goodrow Fighting against Brett Ritchie
-220,penalty,Fighting,Brett Ritchie,Barclay Goodrow,[ 17. -33.],3,07:21,BOS,SJS,BOS,6,SJS,28,5,1,8476439,8476624.0,Brett Ritchie Fighting against Barclay Goodrow
-221,penalty,Misconduct,Brett Ritchie,Barclay Goodrow,[ 10. -33.],3,07:21,BOS,SJS,BOS,6,SJS,28,5,1,8476439,8476624.0,Brett Ritchie Misconduct against Barclay Goodrow
-222,penalty,Misconduct,Barclay Goodrow,Brett Ritchie,[ 14. -30.],3,07:21,SJS,BOS,BOS,6,SJS,28,5,1,8476624,8476439.0,Barclay Goodrow Misconduct against Brett Ritchie
-227,penalty,Roughing,Brad Marchand,Logan Couture,[ 89. -16.],3,06:35,BOS,SJS,BOS,6,SJS,28,5,1,8473419,8474053.0,Brad Marchand Roughing against Logan Couture
-229,penalty,Roughing,Logan Couture,Brad Marchand,[ 78. -18.],3,06:35,SJS,BOS,BOS,6,SJS,28,5,1,8474053,8473419.0,Logan Couture Roughing against Brad Marchand
-230,penalty,Misconduct,Logan Couture,Brad Marchand,[ 78. -20.],3,06:35,SJS,BOS,BOS,6,SJS,28,5,1,8474053,8473419.0,Logan Couture Misconduct against Brad Marchand
-231,penalty,Misconduct,Brad Marchand,Logan Couture,[ 71. -20.],3,06:35,BOS,SJS,BOS,6,SJS,28,5,1,8473419,8474053.0,Brad Marchand Misconduct against Logan Couture
-235,penalty,Roughing,Lukas Radil,David Backes,[-18. -32.],3,04:18,SJS,BOS,BOS,6,SJS,28,5,1,8480780,8470655.0,Lukas Radil Roughing against David Backes
-236,penalty,Misconduct,Evander Kane,,[-62. -21.],3,04:18,SJS,BOS,BOS,6,SJS,28,5,1,8475169,,Evander Kane Misconduct
-237,penalty,Misconduct,David Backes,,[-45. -17.],3,04:18,BOS,SJS,BOS,6,SJS,28,5,1,8470655,,David Backes Misconduct
-248,penalty,Interference,Timo Meier,Matt Grzelcyk,[-91. -23.],3,00:17,SJS,BOS,BOS,6,SJS,28,5,1,8478414,8476891.0,Timo Meier Interference against Matt Grzelcyk
-249,penalty,Roughing,Matt Grzelcyk,Timo Meier,[-84. -22.],3,00:17,BOS,SJS,BOS,6,SJS,28,5,1,8476891,8478414.0,Matt Grzelcyk Roughing against Timo Meier
-7,penalty,Too many men on the ice,Brady Tkachuk,,[49. 30.],1,19:14,OTT,BOS,BOS,6,OTT,9,0,0,8480801,,Too many men/ice served by Brady Tkachuk
-37,penalty,Interference,Charlie Coyle,Nick Paul,[-66.   9.],1,12:20,BOS,OTT,BOS,6,OTT,9,1,0,8475745,8477426.0,Charlie Coyle Interference against Nick Paul
-108,penalty,Too many men on the ice,Peter Cehlarik,,[12. 18.],2,14:57,BOS,OTT,BOS,6,OTT,9,2,2,8477417,,Too many men/ice served by Peter Cehlarik
-114,penalty,Hooking,Brad Marchand,Nick Paul,[94.  9.],2,13:52,BOS,OTT,BOS,6,OTT,9,2,2,8473419,8477426.0,Brad Marchand Hooking against Nick Paul
-115,penalty,Spearing - double minor,Brad Marchand,Dylan DeMelo,[88. 17.],2,13:52,BOS,OTT,BOS,6,OTT,9,2,2,8473419,8476331.0,Brad Marchand Spearing - double minor against Dylan DeMelo
-148,penalty,Slashing,Mark Borowiecki,David Pastrnak,[-41.  27.],2,06:07,OTT,BOS,BOS,6,OTT,9,2,2,8474697,8477956.0,Mark Borowiecki Slashing against David Pastrnak
-157,penalty,Tripping,Mark Borowiecki,Brad Marchand,[-56.  28.],2,02:40,OTT,BOS,BOS,6,OTT,9,2,2,8474697,8473419.0,Mark Borowiecki Tripping against Brad Marchand
-194,penalty,Hooking,Mark Borowiecki,Patrice Bergeron,[57. -8.],3,13:49,OTT,BOS,BOS,6,OTT,9,3,2,8474697,8470638.0,Mark Borowiecki Hooking against Patrice Bergeron
-34,penalty,Tripping,David Krejci,Jared McCann,[-81.  19.],1,10:56,BOS,PIT,BOS,6,PIT,5,1,0,8471276,8477955.0,David Krejci Tripping against Jared McCann
-72,penalty,Slashing,Kris Letang,Brad Marchand,[47. 23.],1,01:56,PIT,BOS,BOS,6,PIT,5,2,0,8471724,8473419.0,Kris Letang Slashing against Brad Marchand
-158,penalty,Tripping,John Marino,Patrice Bergeron,[ 33. -20.],2,02:10,PIT,BOS,BOS,6,PIT,5,3,3,8478507,8470638.0,John Marino Tripping against Patrice Bergeron
-201,penalty,Roughing,Zach Aston-Reese,Brandon Carlo,[-96.  11.],3,12:58,PIT,BOS,BOS,6,PIT,5,3,4,8479944,8478443.0,Zach Aston-Reese Roughing against Brandon Carlo
-202,penalty,Roughing,Brandon Carlo,Zach Aston-Reese,[-95.   4.],3,12:58,BOS,PIT,BOS,6,PIT,5,3,4,8478443,8479944.0,Brandon Carlo Roughing against Zach Aston-Reese
-226,penalty,Hi-sticking,Nick Bjugstad,Jake DeBrusk,[80. -5.],3,08:13,PIT,BOS,BOS,6,PIT,5,4,4,8475760,8478498.0,Nick Bjugstad Hi-sticking against Jake DeBrusk
-70,penalty,Hooking,Victor Mete,Zach Senyshyn,[66. -8.],1,05:11,MTL,BOS,MTL,8,BOS,6,1,0,8479376,8478485.0,Victor Mete Hooking against Zach Senyshyn
-109,penalty,Hooking,Patrice Bergeron,Phillip Danault,[96.  9.],2,19:10,BOS,MTL,MTL,8,BOS,6,3,1,8470638,8476479.0,Patrice Bergeron Hooking against Phillip Danault
-122,penalty,Hooking,David Pastrnak,Shea Weber,[61.  5.],2,16:02,BOS,MTL,MTL,8,BOS,6,3,1,8477956,8470642.0,David Pastrnak Hooking against Shea Weber
-220,penalty,Hi-sticking,Shea Weber,Brad Marchand,[83. -8.],3,19:46,MTL,BOS,MTL,8,BOS,6,4,3,8470642,8473419.0,Shea Weber Hi-sticking against Brad Marchand
-15,penalty,Hooking,David Pastrnak,Dennis Cholowski,[ 90. -26.],1,16:20,BOS,DET,DET,17,BOS,6,1,1,8477956,8479395.0,David Pastrnak Hooking against Dennis Cholowski
-49,penalty,Interference,Brad Marchand,Filip Hronek,[97. 13.],1,08:48,BOS,DET,DET,17,BOS,6,1,1,8473419,8479425.0,Brad Marchand Interference against Filip Hronek
-55,penalty,Holding,Madison Bowey,Danton Heinen,[95. 12.],1,07:36,DET,BOS,DET,17,BOS,6,2,1,8477474,8478046.0,Madison Bowey Holding against Danton Heinen
-93,penalty,Hooking,David Pastrnak,Dylan Larkin,[-97.  10.],2,19:32,BOS,DET,DET,17,BOS,6,2,1,8477956,8477946.0,David Pastrnak Hooking against Dylan Larkin
-106,penalty,Delaying Game - Puck over glass,Torey Krug,,[ 42. -37.],2,16:30,BOS,DET,DET,17,BOS,6,3,1,8476792,,Torey Krug Delaying Game - Puck over glass
-110,penalty,Tripping,Dylan Larkin,Zdeno Chara,[ 97. -10.],2,16:10,DET,BOS,DET,17,BOS,6,3,1,8477946,8465009.0,Dylan Larkin Tripping against Zdeno Chara
-140,penalty,Fighting,Filip Hronek,Brad Marchand,[-65.  -6.],2,08:44,DET,BOS,DET,17,BOS,6,3,1,8479425,8473419.0,Filip Hronek Fighting against Brad Marchand
-141,penalty,Fighting,Brad Marchand,Filip Hronek,[-67.  -3.],2,08:44,BOS,DET,DET,17,BOS,6,3,1,8473419,8479425.0,Brad Marchand Fighting against Filip Hronek
-151,penalty,Roughing,David Krejci,Valtteri Filppula,[96. 13.],2,06:25,BOS,DET,DET,17,BOS,6,3,1,8471276,8470047.0,David Krejci Roughing against Valtteri Filppula
-165,penalty,Tripping,Valtteri Filppula,David Pastrnak,[-21. -39.],2,04:04,DET,BOS,DET,17,BOS,6,3,1,8470047,8477956.0,Valtteri Filppula Tripping against David Pastrnak
-207,penalty,Slashing,Madison Bowey,Brad Marchand,[ 46. -21.],3,15:26,DET,BOS,DET,17,BOS,6,3,2,8477474,8473419.0,Madison Bowey Slashing against Brad Marchand
-59,penalty,Hi-sticking,Joel Farabee,Brad Marchand,[-48. -12.],1,05:46,PHI,BOS,BOS,6,PHI,4,0,1,8480797,8473419.0,Joel Farabee Hi-sticking against Brad Marchand
-117,penalty,Hooking,David Pastrnak,Ivan Provorov,[-35.  26.],2,11:49,BOS,PHI,BOS,6,PHI,4,0,2,8477956,8478500.0,David Pastrnak Hooking against Ivan Provorov
-232,penalty,PS - Slash on breakaway,Ivan Provorov,David Pastrnak,[47. -1.],3,04:56,PHI,BOS,BOS,6,PHI,4,2,2,8478500,8477956.0,Ivan Provorov PS - Slash on breakaway against David Pastrnak
-239,penalty,Tripping,Oskar Lindblom,Brad Marchand,[39.  2.],3,03:20,PHI,BOS,BOS,6,PHI,4,2,2,8478067,8473419.0,Oskar Lindblom Tripping against Brad Marchand
-265,penalty,Too many men on the ice,David Krejci,,[42. 30.],4,00:22,BOS,PHI,BOS,6,PHI,4,2,2,8471276,,Too many men/ice served by David Krejci
-85,penalty,Hi-sticking,Charlie McAvoy,Aleksander Barkov,[-93. -12.],1,00:13,BOS,FLA,BOS,6,FLA,13,0,0,8479325,8477493.0,Charlie McAvoy Hi-sticking against Aleksander Barkov
-104,penalty,Holding,Patrice Bergeron,Aleksander Barkov,[ 44. -12.],2,15:39,BOS,FLA,BOS,6,FLA,13,0,0,8470638,8477493.0,Patrice Bergeron Holding against Aleksander Barkov
-140,penalty,Holding,Dryden Hunt,Danton Heinen,[-21.  28.],2,04:27,FLA,BOS,BOS,6,FLA,13,2,0,8478211,8478046.0,Dryden Hunt Holding against Danton Heinen
-164,penalty,Elbowing,Vincent Trocheck,David Pastrnak,[ 67. -30.],3,18:52,FLA,BOS,BOS,6,FLA,13,4,1,8476389,8477956.0,Vincent Trocheck Elbowing against David Pastrnak
-165,penalty,Roughing,Brad Marchand,Vincent Trocheck,[  6. -30.],3,18:52,BOS,FLA,BOS,6,FLA,13,4,1,8473419,8476389.0,Brad Marchand Roughing against Vincent Trocheck
-166,penalty,Roughing,Brad Marchand,Vincent Trocheck,[ 32. -29.],3,18:52,BOS,FLA,BOS,6,FLA,13,4,1,8473419,8476389.0,Brad Marchand Roughing against Vincent Trocheck
-168,penalty,Roughing,Vincent Trocheck,Brad Marchand,[ 38. -34.],3,18:52,FLA,BOS,BOS,6,FLA,13,4,1,8476389,8473419.0,Vincent Trocheck Roughing against Brad Marchand
-176,penalty,Slashing,Chris Wagner,Josh Brown,[64.  6.],3,16:11,BOS,FLA,BOS,6,FLA,13,4,1,8475780,8477384.0,Chris Wagner Slashing against Josh Brown
-191,penalty,Hooking,Sean Kuraly,Dryden Hunt,[-71.  31.],3,11:28,BOS,FLA,BOS,6,FLA,13,4,2,8476374,8478211.0,Sean Kuraly Hooking against Dryden Hunt
-216,penalty,Tripping,Noel Acciari,Sean Kuraly,[97.  4.],3,06:28,FLA,BOS,BOS,6,FLA,13,4,3,8478569,8476374.0,Noel Acciari Tripping against Sean Kuraly
-79,penalty,Interference,David Pastrnak,John Tavares,[-69. -30.],1,05:51,BOS,TOR,TOR,10,BOS,6,0,1,8477956,8475166.0,David Pastrnak Interference against John Tavares
-89,penalty,Holding,Nicholas Shore,David Pastrnak,[ 29. -19.],1,03:23,TOR,BOS,TOR,10,BOS,6,0,1,8476406,8477956.0,Nicholas Shore Holding against David Pastrnak
-166,penalty,Tripping,Andreas Johnsson,Charlie McAvoy,[30.  3.],2,08:49,TOR,BOS,TOR,10,BOS,6,1,1,8477341,8479325.0,Andreas Johnsson Tripping against Charlie McAvoy
-197,penalty,Slashing,Patrice Bergeron,John Tavares,[64. 14.],2,03:08,BOS,TOR,TOR,10,BOS,6,1,1,8470638,8475166.0,Patrice Bergeron Slashing against John Tavares
-37,penalty,Hooking,David Pastrnak,Jakub Vrana,[-54. -13.],1,11:57,BOS,WSH,BOS,6,WSH,15,0,0,8477956,8477944.0,David Pastrnak Hooking against Jakub Vrana
-94,penalty,Holding,Radko Gudas,Brad Marchand,[31. 31.],1,00:39,WSH,BOS,BOS,6,WSH,15,1,1,8475462,8473419.0,Radko Gudas Holding against Brad Marchand
-120,penalty,Hooking,Danton Heinen,Brendan Leipsic,[ 11. -22.],2,15:18,BOS,WSH,BOS,6,WSH,15,2,1,8478046,8476894.0,Danton Heinen Hooking against Brendan Leipsic
-143,penalty,Tripping,Braden Holtby,Brendan Leipsic,[-96.  -3.],2,09:55,WSH,BOS,BOS,6,WSH,15,2,1,8474651,8476894.0,Braden Holtby Tripping against Paul Carey served by Brendan Leipsic
-186,penalty,Cross checking,Evgeny Kuznetsov,Charlie McAvoy,[89. 13.],2,00:16,WSH,BOS,BOS,6,WSH,15,2,1,8475744,8479325.0,Evgeny Kuznetsov Cross checking against Charlie McAvoy
-240,penalty,Roughing,Zdeno Chara,Tom Wilson,[-67.  34.],3,06:01,BOS,WSH,BOS,6,WSH,15,2,1,8465009,8476880.0,Zdeno Chara Roughing against Tom Wilson
-241,penalty,Roughing,Tom Wilson,Zdeno Chara,[-31.  37.],3,06:01,WSH,BOS,BOS,6,WSH,15,2,1,8476880,8465009.0,Tom Wilson Roughing against Zdeno Chara
-40,penalty,Tripping,Jake DeBrusk,Pavel Zacha,[-76. -13.],1,07:48,BOS,NJD,NJD,1,BOS,6,0,0,8478498,8478401.0,Jake DeBrusk Tripping against Pavel Zacha
-51,penalty,Tripping,Danton Heinen,Blake Coleman,[-4. 38.],1,05:13,BOS,NJD,NJD,1,BOS,6,0,2,8478046,8476399.0,Danton Heinen Tripping against Blake Coleman
-61,penalty,Tripping,Taylor Hall,Charlie McAvoy,[ 94. -16.],1,01:54,NJD,BOS,NJD,1,BOS,6,0,2,8475791,8479325.0,Taylor Hall Tripping against Charlie McAvoy
-166,penalty,Tripping,P.K. Subban,David Pastrnak,[-65.  18.],3,16:49,NJD,BOS,NJD,1,BOS,6,1,2,8474056,8477956.0,P.K. Subban Tripping against David Pastrnak
-20,penalty,Tripping,Sean Kuraly,Evan Rodrigues,[-22.  19.],1,14:55,BOS,BUF,BOS,6,BUF,7,0,0,8476374,8478542.0,Sean Kuraly Tripping against Evan Rodrigues
-70,penalty,Roughing,Chris Wagner,Curtis Lazar,[-78.   3.],1,05:46,BOS,BUF,BOS,6,BUF,7,1,1,8475780,8477508.0,Chris Wagner Roughing against Curtis Lazar
-71,penalty,Fighting,Chris Wagner,Curtis Lazar,[-78.  -2.],1,05:46,BOS,BUF,BOS,6,BUF,7,1,1,8475780,8477508.0,Chris Wagner Fighting against Curtis Lazar
-72,penalty,Roughing,Curtis Lazar,Chris Wagner,[-73.   1.],1,05:46,BUF,BOS,BOS,6,BUF,7,1,1,8477508,8475780.0,Curtis Lazar Roughing against Chris Wagner
-73,penalty,Fighting,Curtis Lazar,Chris Wagner,[-78.  -2.],1,05:46,BUF,BOS,BOS,6,BUF,7,1,1,8477508,8475780.0,Curtis Lazar Fighting against Chris Wagner
-114,penalty,Hooking,Matt Grzelcyk,Zemgus Girgensons,[58.  0.],2,15:16,BOS,BUF,BOS,6,BUF,7,1,1,8476891,8476878.0,Matt Grzelcyk Hooking against Zemgus Girgensons
-148,penalty,Holding,Rasmus Asplund,David Krejci,[-54. -34.],2,06:45,BUF,BOS,BOS,6,BUF,7,1,1,8479335,8471276.0,Rasmus Asplund Holding against David Krejci
-156,penalty,Hooking,Charlie Coyle,Jack Eichel,[13. 34.],2,04:44,BOS,BUF,BOS,6,BUF,7,2,1,8475745,8478403.0,Charlie Coyle Hooking against Jack Eichel
-177,penalty,Holding,Jake McCabe,Danton Heinen,[-32. -34.],3,19:28,BUF,BOS,BOS,6,BUF,7,2,1,8476931,8478046.0,Jake McCabe Holding against Danton Heinen
-186,penalty,Tripping,Joakim Nordstrom,Rasmus Dahlin,[80. 27.],3,16:27,BOS,BUF,BOS,6,BUF,7,3,1,8475807,8480839.0,Joakim Nordstrom Tripping against Rasmus Dahlin
-5,penalty,Hooking,Jared Spurgeon,Anders Bjork,[43. 21.],1,18:53,MIN,BOS,BOS,6,MIN,30,0,0,8474716,8478075.0,Jared Spurgeon Hooking against Anders Bjork
-18,penalty,Hooking,Zdeno Chara,Jason Zucker,[-62.  -2.],1,16:05,BOS,MIN,BOS,6,MIN,30,0,0,8465009,8475722.0,Zdeno Chara Hooking against Jason Zucker
-38,penalty,Slashing,Torey Krug,Kevin Fiala,[-22.  33.],1,11:14,BOS,MIN,BOS,6,MIN,30,0,0,8476792,8477942.0,Torey Krug Slashing against Kevin Fiala
-57,penalty,Roughing,Brad Marchand,Matt Dumba,[44. 37.],1,08:35,BOS,MIN,BOS,6,MIN,30,0,1,8473419,8476856.0,Brad Marchand Roughing against Matt Dumba
-58,penalty,Roughing,Matt Dumba,Brad Marchand,[54. 38.],1,08:35,MIN,BOS,BOS,6,MIN,30,0,1,8476856,8473419.0,Matt Dumba Roughing against Brad Marchand
-64,penalty,Tripping,Charlie McAvoy,Jason Zucker,[-53.  20.],1,07:04,BOS,MIN,BOS,6,MIN,30,0,1,8479325,8475722.0,Charlie McAvoy Tripping against Jason Zucker
-154,penalty,Hi stick - double minor,Zdeno Chara,Jason Zucker,[ 91. -22.],2,07:17,BOS,MIN,BOS,6,MIN,30,1,2,8465009,8475722.0,Zdeno Chara Hi stick - double minor against Jason Zucker
-168,penalty,Cross checking,Brad Marchand,Jonas Brodin,[-70.  -8.],2,02:46,BOS,MIN,BOS,6,MIN,30,1,3,8473419,8476463.0,Brad Marchand Cross checking against Jonas Brodin
-179,penalty,Tripping,Patrice Bergeron,Jonas Brodin,[92. 20.],3,19:30,BOS,MIN,BOS,6,MIN,30,2,3,8470638,8476463.0,Patrice Bergeron Tripping against Jonas Brodin
-250,penalty,Holding,Victor Rask,Charlie Coyle,[95. 18.],3,05:21,MIN,BOS,BOS,6,MIN,30,2,4,8476437,8475745.0,Victor Rask Holding against Charlie Coyle
-264,penalty,Tripping,Luke Kunin,Charlie McAvoy,[ 10. -15.],3,01:31,MIN,BOS,BOS,6,MIN,30,3,4,8479316,8479325.0,Luke Kunin Tripping against Charlie McAvoy
-37,penalty,Tripping,Brendan Gallagher,David Pastrnak,[-72.  33.],1,13:50,MTL,BOS,MTL,8,BOS,6,0,0,8475848,8477956.0,Brendan Gallagher Tripping against David Pastrnak
-78,penalty,Tripping,Nate Thompson,Connor Clifton,[-98.   4.],1,06:04,MTL,BOS,MTL,8,BOS,6,1,1,8470775,8477365.0,Nate Thompson Tripping against Connor Clifton
-82,penalty,Interference,Charlie McAvoy,Nick Suzuki,[-61. -19.],1,05:28,BOS,MTL,MTL,8,BOS,6,1,2,8479325,8480018.0,Charlie McAvoy Interference against Nick Suzuki
-184,penalty,Hi-sticking,Connor Clifton,Tomas Tatar,[34. 11.],2,07:17,BOS,MTL,MTL,8,BOS,6,1,6,8477365,8475193.0,Connor Clifton Hi-sticking against Tomas Tatar
-277,penalty,Cross checking,Max Domi,Jack Studnicka,[ 8. 39.],3,04:22,MTL,BOS,MTL,8,BOS,6,1,7,8477503,8480021.0,Max Domi Cross checking against Jack Studnicka
-278,penalty,Roughing,Jack Studnicka,Max Domi,[-3. 41.],3,04:22,BOS,MTL,MTL,8,BOS,6,1,7,8480021,8477503.0,Jack Studnicka Roughing against Max Domi
-65,penalty,Too many men on the ice,Brady Tkachuk,,[-17.  40.],1,05:10,OTT,BOS,OTT,9,BOS,6,0,0,8480801,,Too many men/ice served by Brady Tkachuk
-81,penalty,Slashing,Brendan Gaunce,Jean-Gabriel Pageau,[ 77. -11.],1,01:18,BOS,OTT,OTT,9,BOS,6,0,0,8476867,8476419.0,Brendan Gaunce Slashing against Jean-Gabriel Pageau
-186,penalty,Interference,Anthony Duclair,David Pastrnak,[46.  0.],3,17:51,OTT,BOS,OTT,9,BOS,6,1,0,8477407,8477956.0,Anthony Duclair Interference against David Pastrnak
-216,penalty,Cross checking,Chris Wagner,Tyler Ennis,[74. 40.],3,11:07,BOS,OTT,OTT,9,BOS,6,1,2,8475780,8474589.0,Chris Wagner Cross checking against Tyler Ennis
-43,penalty,Tripping,Sean Kuraly,Libor Hajek,[43. 39.],1,07:51,BOS,NYR,BOS,6,NYR,3,0,0,8476374,8479333.0,Sean Kuraly Tripping against Libor Hajek
-74,penalty,Tripping,Connor Clifton,Jesper Fast,[89. -7.],2,17:30,BOS,NYR,BOS,6,NYR,3,0,1,8477365,8475855.0,Connor Clifton Tripping against Jesper Fast
-112,penalty,Fighting,Brendan Smith,Charlie McAvoy,[74. -2.],2,09:09,NYR,BOS,BOS,6,NYR,3,0,2,8474090,8479325.0,Brendan Smith Fighting against Charlie McAvoy
-113,penalty,Fighting,Charlie McAvoy,Brendan Smith,[68. 11.],2,09:09,BOS,NYR,BOS,6,NYR,3,0,2,8479325,8474090.0,Charlie McAvoy Fighting against Brendan Smith
-124,penalty,Hi-sticking,Matt Grzelcyk,Mika Zibanejad,[70.  0.],2,07:08,BOS,NYR,BOS,6,NYR,3,0,2,8476891,8476459.0,Matt Grzelcyk Hi-sticking against Mika Zibanejad
-128,penalty,Cross checking,Sean Kuraly,Adam Fox,[-93. -12.],2,06:09,BOS,NYR,BOS,6,NYR,3,0,2,8476374,8479323.0,Sean Kuraly Cross checking against Adam Fox
-197,penalty,Hooking,Brendan Smith,David Krejci,[24.  4.],3,09:25,NYR,BOS,BOS,6,NYR,3,2,2,8474090,8471276.0,Brendan Smith Hooking against David Krejci
-205,penalty,Hi stick - double minor,Par Lindholm,Brendan Smith,[ 57. -37.],3,07:02,BOS,NYR,BOS,6,NYR,3,2,2,8480944,8474090.0,Par Lindholm Hi stick - double minor against Brendan Smith
-66,penalty,Hi-sticking,Charlie McAvoy,Charles Hudon,[-88.  24.],1,05:22,BOS,MTL,BOS,6,MTL,8,0,1,8479325,8476948.0,Charlie McAvoy Hi-sticking against Charles Hudon
-156,penalty,Interference,Shea Weber,David Pastrnak,[-2.  4.],2,02:47,MTL,BOS,BOS,6,MTL,8,0,1,8470642,8477956.0,Shea Weber Interference against David Pastrnak
-157,penalty,Roughing,Brendan Gallagher,Jake DeBrusk,[5. 1.],2,02:47,MTL,BOS,BOS,6,MTL,8,0,1,8475848,8478498.0,Brendan Gallagher Roughing against Jake DeBrusk
-158,penalty,Roughing,Jake DeBrusk,Brendan Gallagher,[1. 2.],2,02:47,BOS,MTL,BOS,6,MTL,8,0,1,8478498,8475848.0,Jake DeBrusk Roughing against Brendan Gallagher
-214,penalty,Holding,Nick Cousins,Torey Krug,[-96.  13.],3,11:22,MTL,BOS,BOS,6,MTL,8,1,1,8476393,8476792.0,Nick Cousins Holding against Torey Krug
-260,penalty,Too many men on the ice,Nick Cousins,,[33. 36.],3,01:51,MTL,BOS,BOS,6,MTL,8,3,1,8476393,,Too many men/ice served by Nick Cousins
-11,penalty,Tripping,Jake Gardiner,Jake DeBrusk,[80. -6.],1,17:35,CAR,BOS,BOS,6,CAR,12,0,0,8474581,8478498.0,Jake Gardiner Tripping against Jake DeBrusk
-47,penalty,Holding,Jordan Martinook,Matt Grzelcyk,[-10.  35.],1,09:14,CAR,BOS,BOS,6,CAR,12,0,0,8476921,8476891.0,Jordan Martinook Holding against Matt Grzelcyk
-73,penalty,Tripping,Jake DeBrusk,Joel Edmundson,[ 78. -35.],1,05:13,BOS,CAR,BOS,6,CAR,12,0,0,8478498,8476441.0,Jake DeBrusk Tripping against Joel Edmundson
-93,penalty,Roughing,David Pastrnak,Warren Foegele,[-54. -20.],1,01:26,BOS,CAR,BOS,6,CAR,12,0,0,8477956,8477998.0,David Pastrnak Roughing against Warren Foegele
-2,penalty,Hooking,Patrick Kane,Brad Marchand,[73.  2.],1,19:27,CHI,BOS,BOS,6,CHI,16,0,0,8474141,8473419.0,Patrick Kane Hooking against Brad Marchand
-72,penalty,Tripping,Anton Wedin,Charlie Coyle,[-47.  -2.],1,03:25,CHI,BOS,BOS,6,CHI,16,0,0,8481637,8475745.0,Anton Wedin Tripping against Charlie Coyle
-85,penalty,Interference,David Pastrnak,Dennis Gilbert,[ 11. -28.],1,01:19,BOS,CHI,BOS,6,CHI,16,0,1,8477956,8478502.0,David Pastrnak Interference against Dennis Gilbert
-99,penalty,Too many men on the ice,Alex Nylander,,[-80.  21.],2,19:07,CHI,BOS,BOS,6,CHI,16,0,2,8479423,,Too many men/ice served by Alex Nylander
-148,penalty,Hi-sticking,Alex Nylander,Charlie McAvoy,[65. 34.],2,09:25,CHI,BOS,BOS,6,CHI,16,0,2,8479423,8479325.0,Alex Nylander Hi-sticking against Charlie McAvoy
-163,penalty,Roughing,David Pastrnak,Connor Murphy,[-78.   2.],2,07:02,BOS,CHI,BOS,6,CHI,16,0,2,8477956,8476473.0,David Pastrnak Roughing against Connor Murphy
-253,penalty,Fighting,Zack Smith,John Moore,[-31. -23.],3,08:14,CHI,BOS,BOS,6,CHI,16,1,3,8474250,8475186.0,Zack Smith Fighting against John Moore
-254,penalty,Fighting,John Moore,Zack Smith,[-32. -24.],3,08:14,BOS,CHI,BOS,6,CHI,16,1,3,8475186,8474250.0,John Moore Fighting against Zack Smith
-263,penalty,Roughing,Charlie Coyle,Slater Koekkoek,[57. -7.],3,06:20,BOS,CHI,BOS,6,CHI,16,1,3,8475745,8476886.0,Charlie Coyle Roughing against Slater Koekkoek
-184,penalty,Hi-sticking,Ryan Graves,Sean Kuraly,[ 49. -33.],3,14:06,COL,BOS,BOS,6,COL,21,1,3,8477435,8476374.0,Ryan Graves Hi-sticking against Sean Kuraly
-195,penalty,Hooking,Brad Marchand,Ryan Graves,[-71.  -3.],3,11:58,BOS,COL,BOS,6,COL,21,1,3,8473419,8477435.0,Brad Marchand Hooking against Ryan Graves
-197,penalty,Hi-sticking,Joonas Donskoi,Zdeno Chara,[-75.  -2.],3,11:33,COL,BOS,BOS,6,COL,21,1,3,8475820,8465009.0,Joonas Donskoi Hi-sticking against Zdeno Chara
-235,penalty,Hi-sticking,Gabriel Landeskog,David Pastrnak,[ 70. -13.],3,02:21,COL,BOS,BOS,6,COL,21,1,3,8476455,8477956.0,Gabriel Landeskog Hi-sticking against David Pastrnak
-104,penalty,Tripping,Charlie Coyle,Logan Brown,[-63. -27.],2,17:27,BOS,OTT,OTT,9,BOS,6,3,1,8475745,8479366.0,Charlie Coyle Tripping against Logan Brown
-116,penalty,Tripping,Vladislav Namestnikov,Charlie Coyle,[ 11. -30.],2,14:39,OTT,BOS,OTT,9,BOS,6,3,1,8476480,8475745.0,Vladislav Namestnikov Tripping against Charlie Coyle
-148,penalty,Hi-sticking,Dylan DeMelo,David Pastrnak,[ 69. -38.],2,06:52,OTT,BOS,OTT,9,BOS,6,3,1,8476331,8477956.0,Dylan DeMelo Hi-sticking against David Pastrnak
-173,penalty,Tripping,Dylan DeMelo,Brad Marchand,[67.  5.],2,02:07,OTT,BOS,OTT,9,BOS,6,3,1,8476331,8473419.0,Dylan DeMelo Tripping against Brad Marchand
-217,penalty,Tripping,Brandon Carlo,Tyler Ennis,[-31.  28.],3,10:25,BOS,OTT,OTT,9,BOS,6,3,1,8478443,8474589.0,Brandon Carlo Tripping against Tyler Ennis
-219,penalty,Hi-sticking,Thomas Chabot,Charlie McAvoy,[ 66. -34.],3,10:02,OTT,BOS,OTT,9,BOS,6,3,1,8478469,8479325.0,Thomas Chabot Hi-sticking against Charlie McAvoy
-243,penalty,Tripping,David Pastrnak,Jean-Gabriel Pageau,[73. 22.],3,05:14,BOS,OTT,OTT,9,BOS,6,3,1,8477956,8476419.0,David Pastrnak Tripping against Jean-Gabriel Pageau
-248,penalty,Tripping,Colin White,Brandon Carlo,[ 97. -18.],3,04:14,OTT,BOS,OTT,9,BOS,6,3,1,8478400,8478443.0,Colin White Tripping against Brandon Carlo
-57,penalty,Fighting,Zdeno Chara,Tom Wilson,[-92.  22.],1,09:46,BOS,WSH,WSH,15,BOS,6,0,1,8465009,8476880.0,Zdeno Chara Fighting against Tom Wilson
-58,penalty,Cross checking,Tom Wilson,Brendan Leipsic,[-94.  15.],1,09:46,WSH,BOS,WSH,15,BOS,6,0,1,8476880,8476894.0,Tom Wilson Cross checking against Zdeno Chara served by Brendan Leipsic
-59,penalty,Fighting,Tom Wilson,Zdeno Chara,[-93.  20.],1,09:46,WSH,BOS,WSH,15,BOS,6,0,1,8476880,8465009.0,Tom Wilson Fighting against Zdeno Chara
-73,penalty,Tripping,Jakub Vrana,Torey Krug,[69. -1.],1,05:43,WSH,BOS,WSH,15,BOS,6,0,1,8477944,8476792.0,Jakub Vrana Tripping against Torey Krug
-92,penalty,Hi-sticking,Joakim Nordstrom,Nicklas Backstrom,[36. 15.],1,00:34,BOS,WSH,WSH,15,BOS,6,0,1,8475807,8473563.0,Joakim Nordstrom Hi-sticking against Nicklas Backstrom
-100,penalty,Too many men on the ice,Brendan Leipsic,,[36. 20.],2,18:29,WSH,BOS,WSH,15,BOS,6,0,1,8476894,,Too many men/ice served by Brendan Leipsic
-115,penalty,Interference,Chris Wagner,Garnet Hathaway,[69. 10.],2,16:12,BOS,WSH,WSH,15,BOS,6,0,1,8475780,8477903.0,Chris Wagner Interference against Garnet Hathaway
-182,penalty,Holding,Charlie Coyle,Dmitry Orlov,[-57. -18.],2,02:32,BOS,WSH,WSH,15,BOS,6,2,1,8475745,8475200.0,Charlie Coyle Holding against Dmitry Orlov
-191,penalty,Interference,Tom Wilson,David Pastrnak,[-22.  30.],3,19:41,WSH,BOS,WSH,15,BOS,6,2,1,8476880,8477956.0,Tom Wilson Interference against David Pastrnak
-223,penalty,Tripping,John Carlson,David Pastrnak,[ 91. -26.],3,13:56,WSH,BOS,WSH,15,BOS,6,3,2,8474590,8477956.0,John Carlson Tripping against David Pastrnak
-240,penalty,Roughing,Brett Ritchie,Garnet Hathaway,[ 92. -13.],3,09:47,BOS,WSH,WSH,15,BOS,6,3,2,8476439,8477903.0,Brett Ritchie Roughing against Garnet Hathaway
-241,penalty,Roughing,Garnet Hathaway,Brett Ritchie,[ 93. -17.],3,09:47,WSH,BOS,WSH,15,BOS,6,3,2,8477903,8476439.0,Garnet Hathaway Roughing against Brett Ritchie
-3,penalty,Fighting,Pat Maroon,Zdeno Chara,[7. 1.],1,19:33,TBL,BOS,TBL,14,BOS,6,0,0,8474034,8465009.0,Pat Maroon Fighting against Zdeno Chara
-4,penalty,Fighting,Zdeno Chara,Pat Maroon,[ 26. -15.],1,19:33,BOS,TBL,TBL,14,BOS,6,0,0,8465009,8474034.0,Zdeno Chara Fighting against Pat Maroon
-50,penalty,Tripping,John Moore,Alex Killorn,[ 81. -19.],1,07:16,BOS,TBL,TBL,14,BOS,6,0,1,8475186,8473986.0,John Moore Tripping against Alex Killorn
-81,penalty,Interference,Ryan McDonagh,David Krejci,[26. 17.],2,17:48,TBL,BOS,TBL,14,BOS,6,0,1,8474151,8471276.0,Ryan McDonagh Interference against David Krejci
-94,penalty,Tripping,Matt Grzelcyk,Anthony Cirelli,[-15.  18.],2,15:12,BOS,TBL,TBL,14,BOS,6,0,1,8476891,8478519.0,Matt Grzelcyk Tripping against Anthony Cirelli
-95,penalty,Roughing,Kevin Shattenkirk,Matt Grzelcyk,[-9. 18.],2,15:12,TBL,BOS,TBL,14,BOS,6,0,1,8474031,8476891.0,Kevin Shattenkirk Roughing against Matt Grzelcyk
-127,penalty,Tripping,John Moore,Alex Killorn,[-85.  17.],2,07:31,BOS,TBL,TBL,14,BOS,6,0,1,8475186,8473986.0,John Moore Tripping against Alex Killorn
-188,penalty,Hooking,Sean Kuraly,Mathieu Joseph,[-41.  31.],3,17:17,BOS,TBL,TBL,14,BOS,6,1,1,8476374,8478472.0,Sean Kuraly Hooking against Mathieu Joseph
-233,penalty,Hooking,Steven Stamkos,Charlie McAvoy,[-59.  -7.],3,09:32,TBL,BOS,TBL,14,BOS,6,2,1,8474564,8479325.0,Steven Stamkos Hooking against Charlie McAvoy
-13,penalty,Hi-sticking,Anders Bjork,Anton Stralman,[95. 24.],1,17:50,BOS,FLA,FLA,13,BOS,6,0,0,8478075,8471873.0,Anders Bjork Hi-sticking against Anton Stralman
-63,penalty,Tripping,Mark Pysyk,Brad Marchand,[13. 36.],1,08:47,FLA,BOS,FLA,13,BOS,6,0,0,8475796,8473419.0,Mark Pysyk Tripping against Brad Marchand
-87,penalty,Interference,Matt Grzelcyk,Frank Vatrano,[-74. -36.],1,03:57,BOS,FLA,FLA,13,BOS,6,0,1,8476891,8478366.0,Matt Grzelcyk Interference against Frank Vatrano
-102,penalty,Tripping,Brett Connolly,John Moore,[-87. -32.],1,01:21,FLA,BOS,FLA,13,BOS,6,0,1,8475792,8475186.0,Brett Connolly Tripping against John Moore
-138,penalty,Delaying Game - Puck over glass,Vincent Trocheck,,[-41. -40.],2,13:10,FLA,BOS,FLA,13,BOS,6,0,2,8476389,,Vincent Trocheck Delaying Game - Puck over glass
-231,penalty,PS - Hooking on breakaway,Aaron Ekblad,David Pastrnak,[78.  1.],3,13:31,FLA,BOS,FLA,13,BOS,6,1,3,8477932,8477956.0,Aaron Ekblad PS - Hooking on breakaway against David Pastrnak
-289,penalty,Interference,Charlie McAvoy,Aleksander Barkov,[-82. -36.],3,01:23,BOS,FLA,FLA,13,BOS,6,2,4,8479325,8477493.0,Charlie McAvoy Interference against Aleksander Barkov
-4,penalty,Too many men on the ice,David Backes,,[-13.  34.],1,19:00,BOS,LAK,BOS,6,LAK,26,0,0,8470655,,Too many men/ice served by David Backes
-69,penalty,Interference,Kyle Clifford,Chris Wagner,[ 75. -25.],1,01:46,LAK,BOS,BOS,6,LAK,26,0,1,8475160,8475780.0,Kyle Clifford Interference against Chris Wagner
-98,penalty,Hooking,Trevor Lewis,Jake DeBrusk,[-13. -24.],2,18:01,LAK,BOS,BOS,6,LAK,26,1,1,8473453,8478498.0,Trevor Lewis Hooking against Jake DeBrusk
-164,penalty,Slashing,Dustin Brown,Charlie McAvoy,[60. 39.],2,03:53,LAK,BOS,BOS,6,LAK,26,2,2,8470606,8479325.0,Dustin Brown Slashing against Charlie McAvoy
-28,penalty,Too many men on the ice,Jordan Eberle,,[19. 30.],1,14:00,NYI,BOS,BOS,6,NYI,2,1,0,8474586,,Too many men/ice served by Jordan Eberle
-41,penalty,Tripping,Connor Clifton,Anders Lee,[ 18. -21.],1,10:51,BOS,NYI,BOS,6,NYI,2,1,0,8477365,8475314.0,Connor Clifton Tripping against Anders Lee
-83,penalty,Tripping,Casey Cizikas,David Pastrnak,[12. 22.],1,00:47,NYI,BOS,BOS,6,NYI,2,1,0,8475231,8477956.0,Casey Cizikas Tripping against David Pastrnak
-133,penalty,Hi-sticking,Derick Brassard,Connor Clifton,[-60.  40.],2,07:36,NYI,BOS,BOS,6,NYI,2,1,1,8473544,8477365.0,Derick Brassard Hi-sticking against Connor Clifton
-167,penalty,Tripping,Brandon Carlo,Jordan Eberle,[79. 15.],2,00:16,BOS,NYI,BOS,6,NYI,2,1,2,8478443,8474586.0,Brandon Carlo Tripping against Jordan Eberle
-205,penalty,Hi-sticking,Adam Pelech,Brad Marchand,[83. 16.],3,13:28,NYI,BOS,BOS,6,NYI,2,1,2,8476917,8473419.0,Adam Pelech Hi-sticking against Brad Marchand
-215,penalty,Delaying Game - Puck over glass,Brock Nelson,,[60. 34.],3,12:44,NYI,BOS,BOS,6,NYI,2,1,2,8475754,,Brock Nelson Delaying Game - Puck over glass
-1,penalty,Holding,Viktor Arvidsson,Brad Marchand,[48. 36.],1,19:34,NSH,BOS,BOS,6,NSH,18,0,0,8478042,8473419.0,Viktor Arvidsson Holding against Brad Marchand
-33,penalty,Slashing,Anders Bjork,Ryan Ellis,[58. 34.],1,12:47,BOS,NSH,BOS,6,NSH,18,0,0,8478075,8475176.0,Anders Bjork Slashing against Ryan Ellis
-62,penalty,Tripping,David Krejci,Matt Duchene,[-65.  26.],1,04:50,BOS,NSH,BOS,6,NSH,18,0,0,8471276,8475168.0,David Krejci Tripping against Matt Duchene
-106,penalty,Tripping,Dan Hamhuis,Brett Ritchie,[-72. -15.],2,15:37,NSH,BOS,BOS,6,NSH,18,0,0,8469465,8476439.0,Dan Hamhuis Tripping against Brett Ritchie
-132,penalty,Slashing,Matt Grzelcyk,Matt Duchene,[81.  7.],2,09:41,BOS,NSH,BOS,6,NSH,18,1,0,8476891,8475168.0,Matt Grzelcyk Slashing against Matt Duchene
-138,penalty,Tripping,Craig Smith,Brandon Carlo,[72.  1.],2,08:33,NSH,BOS,BOS,6,NSH,18,1,0,8475225,8478443.0,Craig Smith Tripping against Brandon Carlo
-175,penalty,Roughing,Filip Forsberg,Charlie McAvoy,[19. 38.],2,02:04,NSH,BOS,BOS,6,NSH,18,1,1,8476887,8479325.0,Filip Forsberg Roughing against Charlie McAvoy
-9,penalty,Hi-sticking,Nick Jensen,Sean Kuraly,[91. 17.],1,18:30,WSH,BOS,BOS,6,WSH,15,0,0,8475324,8476374.0,Nick Jensen Hi-sticking against Sean Kuraly
-27,penalty,Hooking,Radko Gudas,Brad Marchand,[84. 14.],1,14:32,WSH,BOS,BOS,6,WSH,15,0,0,8475462,8473419.0,Radko Gudas Hooking against Brad Marchand
-45,penalty,Tripping,Charlie McAvoy,Lars Eller,[-47. -16.],1,11:06,BOS,WSH,BOS,6,WSH,15,1,0,8479325,8474189.0,Charlie McAvoy Tripping against Lars Eller
-73,penalty,Slashing,Connor Clifton,Garnet Hathaway,[-29. -13.],1,05:14,BOS,WSH,BOS,6,WSH,15,3,0,8477365,8477903.0,Connor Clifton Slashing against Garnet Hathaway
-74,penalty,Cross checking,Garnet Hathaway,Connor Clifton,[-29. -17.],1,05:14,WSH,BOS,BOS,6,WSH,15,3,0,8477903,8477365.0,Garnet Hathaway Cross checking against Connor Clifton
-87,penalty,Tripping,Jakub Vrana,David Pastrnak,[79.  8.],1,02:35,WSH,BOS,BOS,6,WSH,15,3,0,8477944,8477956.0,Jakub Vrana Tripping against David Pastrnak
-88,penalty,Slashing,Evgeny Kuznetsov,David Krejci,[ 45. -22.],1,02:35,WSH,BOS,BOS,6,WSH,15,3,0,8475744,8471276.0,Evgeny Kuznetsov Slashing against David Krejci
-106,penalty,Slashing,Jake DeBrusk,Garnet Hathaway,[ 36. -11.],2,17:55,BOS,WSH,BOS,6,WSH,15,4,0,8478498,8477903.0,Jake DeBrusk Slashing against Garnet Hathaway
-119,penalty,Tripping,David Krejci,Dmitry Orlov,[-96.   0.],2,14:54,BOS,WSH,BOS,6,WSH,15,4,0,8471276,8475200.0,David Krejci Tripping against Dmitry Orlov
-166,penalty,Slashing,John Carlson,Sean Kuraly,[-35. -15.],2,05:07,WSH,BOS,BOS,6,WSH,15,5,1,8474590,8476374.0,John Carlson Slashing against Sean Kuraly
-199,penalty,Holding,Alex Ovechkin,Matt Grzelcyk,[-77.   3.],3,15:01,WSH,BOS,BOS,6,WSH,15,5,1,8471214,8476891.0,Alex Ovechkin Holding against Matt Grzelcyk
-211,penalty,Too many men on the ice,Jake DeBrusk,,[-49.  27.],3,12:32,BOS,WSH,BOS,6,WSH,15,5,1,8478498,,Too many men/ice served by Jake DeBrusk
-236,penalty,Roughing,David Pastrnak,Tom Wilson,[37. 35.],3,06:34,BOS,WSH,BOS,6,WSH,15,5,1,8477956,8476880.0,David Pastrnak Roughing against Tom Wilson
-237,penalty,Roughing,Tom Wilson,David Pastrnak,[35. 21.],3,06:34,WSH,BOS,BOS,6,WSH,15,5,1,8476880,8477956.0,Tom Wilson Roughing against David Pastrnak
-238,penalty,Too many men on the ice,Jake DeBrusk,,[-83.  23.],3,06:34,BOS,WSH,BOS,6,WSH,15,5,1,8478498,,Too many men/ice served by Jake DeBrusk
-239,penalty,Misconduct,Tom Wilson,,[36. 22.],3,06:34,WSH,BOS,BOS,6,WSH,15,5,1,8476880,,Tom Wilson Misconduct
-21,penalty,Hooking,David Pastrnak,Jack Eichel,[ 77. -27.],1,13:22,BOS,BUF,BUF,7,BOS,6,0,0,8477956,8478403.0,David Pastrnak Hooking against Jack Eichel
-33,penalty,Holding,Evan Rodrigues,Steven Kampfer,[-95. -21.],1,10:23,BUF,BOS,BUF,7,BOS,6,0,0,8478542,8474000.0,Evan Rodrigues Holding against Steven Kampfer
-58,penalty,Holding,Marcus Johansson,Charlie Coyle,[-35. -40.],1,00:29,BUF,BOS,BUF,7,BOS,6,0,0,8475149,8475745.0,Marcus Johansson Holding against Charlie Coyle
-114,penalty,Holding,Brandon Montour,Brad Marchand,[-43. -41.],2,05:19,BUF,BOS,BUF,7,BOS,6,0,1,8477986,8473419.0,Brandon Montour Holding against Brad Marchand
-158,penalty,Roughing,Sam Reinhart,Connor Clifton,[85. -4.],3,14:48,BUF,BOS,BUF,7,BOS,6,0,2,8477933,8477365.0,Sam Reinhart Roughing against Connor Clifton
-159,penalty,Roughing,Connor Clifton,Sam Reinhart,[85. -5.],3,14:48,BOS,BUF,BUF,7,BOS,6,0,2,8477365,8477933.0,Connor Clifton Roughing against Sam Reinhart
-168,penalty,Tripping,Linus Ullmark,Kyle Okposo,[-85.  -1.],3,12:01,BUF,BOS,BUF,7,BOS,6,0,2,8476999,8473449.0,Linus Ullmark Tripping against Connor Clifton served by Kyle Okposo
-172,penalty,Interference - Goalkeeper,Danton Heinen,Linus Ullmark,[-83.  -6.],3,11:11,BOS,BUF,BUF,7,BOS,6,0,2,8478046,8476999.0,Danton Heinen Interference - Goalkeeper against Linus Ullmark
-7,penalty,Too many men on the ice,Jake DeBrusk,,[-59.  30.],1,17:10,BOS,BUF,BOS,6,BUF,7,0,0,8478498,,Too many men/ice served by Jake DeBrusk
-64,penalty,Tripping,Chris Wagner,Brandon Montour,[39. 35.],1,03:25,BOS,BUF,BOS,6,BUF,7,1,0,8475780,8477986.0,Chris Wagner Tripping against Brandon Montour
-77,penalty,Tripping,Henri Jokiharju,Brad Marchand,[-44. -19.],2,19:45,BUF,BOS,BOS,6,BUF,7,1,0,8480035,8473419.0,Henri Jokiharju Tripping against Brad Marchand
-128,penalty,Delaying Game - Puck over glass,Jimmy Vesey,,[-66. -33.],2,08:58,BUF,BOS,BOS,6,BUF,7,1,1,8476918,,Jimmy Vesey Delaying Game - Puck over glass
-139,penalty,Tripping,Evan Rodrigues,Steven Kampfer,[47. 37.],2,05:49,BUF,BOS,BOS,6,BUF,7,1,1,8478542,8474000.0,Evan Rodrigues Tripping against Steven Kampfer
-168,penalty,Tripping,Johan Larsson,Jake DeBrusk,[ 23. -24.],3,18:37,BUF,BOS,BOS,6,BUF,7,1,1,8475728,8478498.0,Johan Larsson Tripping against Jake DeBrusk
-169,penalty,Hooking,Johan Larsson,Brad Marchand,[ 66. -19.],3,18:37,BUF,BOS,BOS,6,BUF,7,1,1,8475728,8473419.0,Johan Larsson Hooking against Brad Marchand
-232,penalty,Tripping,Brett Ritchie,Rasmus Dahlin,[75.  9.],3,04:09,BOS,BUF,BOS,6,BUF,7,3,2,8476439,8480839.0,Brett Ritchie Tripping against Rasmus Dahlin
-245,penalty,Slashing,Sam Reinhart,Brandon Carlo,[-72. -35.],3,00:17,BUF,BOS,BOS,6,BUF,7,3,2,8477933,8478443.0,Sam Reinhart Slashing against Brandon Carlo
-246,penalty,Misconduct,Jack Eichel,,[43. 35.],3,00:17,BUF,BOS,BOS,6,BUF,7,3,2,8478403,,Jack Eichel Misconduct
-2,penalty,Interference,P.K. Subban,Sean Kuraly,[-63. -40.],1,18:43,NJD,BOS,NJD,1,BOS,6,0,0,8474056,8476374.0,P.K. Subban Interference against Sean Kuraly
-86,penalty,Tripping,Brad Marchand,Nikita Gusev,[-26.  17.],2,19:51,BOS,NJD,NJD,1,BOS,6,0,1,8473419,8477038.0,Brad Marchand Tripping against Nikita Gusev
-125,penalty,Tripping,Travis Zajac,Brad Marchand,[ 55. -39.],2,10:53,NJD,BOS,NJD,1,BOS,6,1,2,8471233,8473419.0,Travis Zajac Tripping against Brad Marchand
-127,penalty,Tripping,Matt Grzelcyk,Nico Hischier,[-71.   2.],2,10:40,BOS,NJD,NJD,1,BOS,6,1,2,8476891,8480002.0,Matt Grzelcyk Tripping against Nico Hischier
-173,penalty,Interference,Jeremy Lauzon,Miles Wood,[87.  2.],3,17:26,BOS,NJD,NJD,1,BOS,6,1,2,8478468,8477425.0,Jeremy Lauzon Interference against Miles Wood
-190,penalty,Tripping,Joakim Nordstrom,Mirco Mueller,[30.  2.],3,12:05,BOS,NJD,NJD,1,BOS,6,1,2,8475807,8477509.0,Joakim Nordstrom Tripping against Mirco Mueller
-262,penalty,Hooking,Jesper Bratt,Sean Kuraly,[73.  1.],4,00:12,NJD,BOS,NJD,1,BOS,6,2,2,8479407,8476374.0,Jesper Bratt Hooking against Sean Kuraly
-98,penalty,Hooking,Nick Foligno,Brad Marchand,[-73.  10.],2,15:12,CBJ,BOS,BOS,6,CBJ,29,0,0,8473422,8473419.0,Nick Foligno Hooking against Brad Marchand
-126,penalty,Tripping,Dean Kukan,Jake DeBrusk,[-50. -19.],2,08:58,CBJ,BOS,BOS,6,CBJ,29,0,0,8478567,8478498.0,Dean Kukan Tripping against Jake DeBrusk
-135,penalty,Interference,Charlie McAvoy,Kevin Stenlund,[86. 18.],2,07:24,BOS,CBJ,BOS,6,CBJ,29,1,0,8479325,8478831.0,Charlie McAvoy Interference against Kevin Stenlund
-164,penalty,Holding,Zdeno Chara,Gustav Nyquist,[55. 24.],2,00:45,BOS,CBJ,BOS,6,CBJ,29,1,0,8465009,8474679.0,Zdeno Chara Holding against Gustav Nyquist
-15,penalty,Elbowing,Leon Draisaitl,Torey Krug,[-77. -30.],1,16:55,EDM,BOS,BOS,6,EDM,22,0,0,8477934,8476792.0,Leon Draisaitl Elbowing against Torey Krug
-66,penalty,Slashing,Gaetan Haas,Brad Marchand,[ 40. -22.],1,04:34,EDM,BOS,BOS,6,EDM,22,1,0,8481813,8473419.0,Gaetan Haas Slashing against Brad Marchand
-97,penalty,Tripping,Sean Kuraly,Gaetan Haas,[-33.  19.],2,17:35,BOS,EDM,BOS,6,EDM,22,1,0,8476374,8481813.0,Sean Kuraly Tripping against Gaetan Haas
-143,penalty,Holding,Zdeno Chara,Joakim Nygard,[ 86. -27.],2,07:57,BOS,EDM,BOS,6,EDM,22,1,1,8465009,8481638.0,Zdeno Chara Holding against Joakim Nygard
-205,penalty,Hi-sticking,Ethan Bear,Charlie Coyle,[79.  8.],3,15:58,EDM,BOS,BOS,6,EDM,22,1,3,8478451,8475745.0,Ethan Bear Hi-sticking against Charlie Coyle
-2,penalty,Cross checking,Brad Marchand,Viktor Arvidsson,[ 61. -16.],1,19:46,BOS,NSH,NSH,18,BOS,6,0,0,8473419,8478042.0,Brad Marchand Cross checking against Viktor Arvidsson
-4,penalty,Embellishment,Viktor Arvidsson,Brad Marchand,[ 75. -28.],1,19:46,NSH,BOS,NSH,18,BOS,6,0,0,8478042,8473419.0,Viktor Arvidsson Embellishment against Brad Marchand
-26,penalty,Boarding,Sean Kuraly,Matt Duchene,[-93.  26.],1,13:50,BOS,NSH,NSH,18,BOS,6,0,1,8476374,8475168.0,Sean Kuraly Boarding against Matt Duchene
-78,penalty,Too many men on the ice,Brett Ritchie,,[ 9. 37.],2,17:41,BOS,NSH,NSH,18,BOS,6,0,1,8476439,,Too many men/ice served by Brett Ritchie
-117,penalty,Tripping,Brandon Carlo,Viktor Arvidsson,[-41. -23.],2,10:59,BOS,NSH,NSH,18,BOS,6,0,2,8478443,8478042.0,Brandon Carlo Tripping against Viktor Arvidsson
-122,penalty,Hi-sticking,Matt Grzelcyk,Craig Smith,[-90.  10.],2,09:32,BOS,NSH,NSH,18,BOS,6,0,2,8476891,8475225.0,Matt Grzelcyk Hi-sticking against Craig Smith
-150,penalty,Too many men on the ice,Kyle Turris,,[12. 36.],2,03:31,NSH,BOS,NSH,18,BOS,6,1,2,8474068,,Too many men/ice served by Kyle Turris
-182,penalty,Tripping,Rocco Grimaldi,Zdeno Chara,[96. 19.],3,16:08,NSH,BOS,NSH,18,BOS,6,1,4,8476428,8465009.0,Rocco Grimaldi Tripping against Zdeno Chara
-207,penalty,Roughing,Zdeno Chara,Brett Ritchie,[95. -3.],3,08:20,BOS,NSH,NSH,18,BOS,6,1,4,8465009,8476439.0,Zdeno Chara Roughing against Yakov Trenin served by Brett Ritchie
-208,penalty,Fighting,Yakov Trenin,Zdeno Chara,[94.  7.],3,08:20,NSH,BOS,NSH,18,BOS,6,1,4,8478508,8465009.0,Yakov Trenin Fighting against Zdeno Chara
-209,penalty,Fighting,Zdeno Chara,Yakov Trenin,[95. 10.],3,08:20,BOS,NSH,NSH,18,BOS,6,1,4,8465009,8478508.0,Zdeno Chara Fighting against Yakov Trenin
-211,penalty,Hooking,John Moore,Viktor Arvidsson,[84. -9.],3,08:16,BOS,NSH,NSH,18,BOS,6,1,4,8475186,8478042.0,John Moore Hooking against Viktor Arvidsson
-234,penalty,Hooking,Roman Josi,Par Lindholm,[-28.  -1.],3,04:22,NSH,BOS,NSH,18,BOS,6,1,4,8474600,8480944.0,Roman Josi Hooking against Par Lindholm
-241,penalty,Tripping,Charlie Coyle,Mikael Granlund,[-16.  21.],3,02:14,BOS,NSH,NSH,18,BOS,6,1,4,8475745,8475798.0,Charlie Coyle Tripping against Mikael Granlund
-80,penalty,Tripping,Luca Sbisa,Brad Marchand,[-87. -23.],2,19:31,WPG,BOS,BOS,6,WPG,52,1,1,8474579,8473419.0,Luca Sbisa Tripping against Brad Marchand
-96,penalty,Too many men on the ice,David Backes,,[18. 34.],2,15:37,BOS,WPG,BOS,6,WPG,52,1,1,8470655,,Too many men/ice served by David Backes
-128,penalty,Tripping,Blake Wheeler,David Krejci,[45. 30.],2,10:24,WPG,BOS,BOS,6,WPG,52,1,2,8471218,8471276.0,Blake Wheeler Tripping against David Krejci
-175,penalty,Interference,Matt Grzelcyk,Nikolaj Ehlers,[ 69. -13.],2,00:43,BOS,WPG,BOS,6,WPG,52,3,2,8476891,8477940.0,Matt Grzelcyk Interference against Nikolaj Ehlers
-184,penalty,Tripping,Josh Morrissey,Charlie Coyle,[98.  7.],3,16:51,WPG,BOS,BOS,6,WPG,52,3,3,8477504,8475745.0,Josh Morrissey Tripping against Charlie Coyle
-214,penalty,Hooking,Nikolaj Ehlers,Torey Krug,[ 18. -12.],3,07:48,WPG,BOS,BOS,6,WPG,52,5,4,8477940,8476792.0,Nikolaj Ehlers Hooking against Torey Krug
-60,penalty,Hooking,Charlie McAvoy,Brock Nelson,[81.  2.],1,07:29,BOS,NYI,NYI,2,BOS,6,1,0,8479325,8475754.0,Charlie McAvoy Hooking against Brock Nelson
-156,penalty,Roughing,Scott Mayfield,Charlie Coyle,[ 50. -23.],2,05:53,NYI,BOS,NYI,2,BOS,6,1,1,8476429,8475745.0,Scott Mayfield Roughing against Charlie Coyle
-288,penalty,Tripping,Brock Nelson,Brad Marchand,[ 78. -14.],4,04:20,NYI,BOS,NYI,2,BOS,6,2,2,8475754,8473419.0,Brock Nelson Tripping against Brad Marchand
-60,penalty,Roughing,Mark Friedman,Anders Bjork,[96. 14.],1,08:05,PHI,BOS,PHI,4,BOS,6,0,1,8478017,8478075.0,Mark Friedman Roughing against Anders Bjork
-61,penalty,Roughing,Anders Bjork,Mark Friedman,[91. 24.],1,08:05,BOS,PHI,PHI,4,BOS,6,0,1,8478075,8478017.0,Anders Bjork Roughing against Mark Friedman
-72,penalty,Tripping,Michael Raffl,Patrice Bergeron,[-74. -17.],1,04:30,PHI,BOS,PHI,4,BOS,6,0,1,8477290,8470638.0,Michael Raffl Tripping against Patrice Bergeron
-84,penalty,Hi stick - double minor,Patrice Bergeron,Scott Laughton,[70.  0.],1,02:00,BOS,PHI,PHI,4,BOS,6,0,2,8470638,8476872.0,Patrice Bergeron Hi stick - double minor against Scott Laughton
-141,penalty,Roughing,Chris Wagner,Travis Konecny,[86. 35.],2,10:58,BOS,PHI,PHI,4,BOS,6,2,5,8475780,8478439.0,Chris Wagner Roughing against Travis Konecny
-186,penalty,Interference,Matt Niskanen,Brad Marchand,[28. 38.],3,19:32,PHI,BOS,PHI,4,BOS,6,4,5,8471702,8473419.0,Matt Niskanen Interference against Brad Marchand
-231,penalty,Roughing,Joel Farabee,Torey Krug,[ 4. 39.],3,07:30,PHI,BOS,PHI,4,BOS,6,4,5,8480797,8476792.0,Joel Farabee Roughing against Torey Krug
-232,penalty,Roughing,Torey Krug,Joel Farabee,[ 4. 39.],3,07:30,BOS,PHI,PHI,4,BOS,6,4,5,8476792,8480797.0,Torey Krug Roughing against Joel Farabee
-24,penalty,Cross checking,Pierre-Luc Dubois,Torey Krug,[ 59. -13.],1,14:07,CBJ,BOS,CBJ,29,BOS,6,0,0,8479400,8476792.0,Pierre-Luc Dubois Cross checking against Torey Krug
-67,penalty,Holding,Charlie McAvoy,Gustav Nyquist,[-33. -21.],1,01:01,BOS,CBJ,CBJ,29,BOS,6,1,0,8479325,8474679.0,Charlie McAvoy Holding against Gustav Nyquist
-119,penalty,Holding,Vladislav Gavrikov,Anders Bjork,[66. 26.],2,10:24,CBJ,BOS,CBJ,29,BOS,6,1,0,8478882,8478075.0,Vladislav Gavrikov Holding against Anders Bjork
-131,penalty,Unsportsmanlike conduct,Joakim Nordstrom,Pierre-Luc Dubois,[40. 41.],2,07:25,BOS,CBJ,CBJ,29,BOS,6,1,0,8475807,8479400.0,Joakim Nordstrom Unsportsmanlike conduct against Pierre-Luc Dubois
-132,penalty,Roughing,Pierre-Luc Dubois,Joakim Nordstrom,[38. 40.],2,07:25,CBJ,BOS,CBJ,29,BOS,6,1,0,8479400,8475807.0,Pierre-Luc Dubois Roughing against Joakim Nordstrom
-168,penalty,Slashing,Sonny Milano,Charlie Coyle,[-73.  -1.],3,18:26,CBJ,BOS,CBJ,29,BOS,6,1,0,8477947,8475745.0,Sonny Milano Slashing against Charlie Coyle
-179,penalty,Hi-sticking,Brad Marchand,Vladislav Gavrikov,[-66.  38.],3,15:19,BOS,CBJ,CBJ,29,BOS,6,1,0,8473419,8478882.0,Brad Marchand Hi-sticking against Vladislav Gavrikov
-183,penalty,Interference,Eric Robinson,Anders Bjork,[-7. 25.],3,14:11,CBJ,BOS,CBJ,29,BOS,6,2,0,8480762,8478075.0,Eric Robinson Interference against Anders Bjork
-9,penalty,Roughing,Zach Aston-Reese,Charlie McAvoy,[-38. -36.],1,18:44,PIT,BOS,BOS,6,PIT,5,0,1,8479944,8479325.0,Zach Aston-Reese Roughing against Charlie McAvoy
-17,penalty,Boarding,John Marino,Chris Wagner,[94. 28.],1,16:37,PIT,BOS,BOS,6,PIT,5,0,1,8478507,8475780.0,John Marino Boarding against Chris Wagner
-40,penalty,Roughing,Kris Letang,Chris Wagner,[69. 11.],1,12:27,PIT,BOS,BOS,6,PIT,5,0,1,8471724,8475780.0,Kris Letang Roughing against Chris Wagner
-41,penalty,Roughing,Chris Wagner,Kris Letang,[61. 13.],1,12:27,BOS,PIT,BOS,6,PIT,5,0,1,8475780,8471724.0,Chris Wagner Roughing against Kris Letang
-69,penalty,Tripping,Patrice Bergeron,Evgeni Malkin,[-70.  27.],1,06:41,BOS,PIT,BOS,6,PIT,5,2,1,8470638,8471215.0,Patrice Bergeron Tripping against Evgeni Malkin
-100,penalty,Tripping,Chris Wagner,John Marino,[-92.  25.],2,18:21,BOS,PIT,BOS,6,PIT,5,2,1,8475780,8478507.0,Chris Wagner Tripping against John Marino
-130,penalty,Slashing,Anders Bjork,Dominik Kahun,[69. 11.],2,10:13,BOS,PIT,BOS,6,PIT,5,2,1,8478075,8480946.0,Anders Bjork Slashing against Dominik Kahun
-163,penalty,Roughing,Patric Hornqvist,Torey Krug,[-8. 38.],2,03:55,PIT,BOS,BOS,6,PIT,5,2,1,8471887,8476792.0,Patric Hornqvist Roughing against Torey Krug
-164,penalty,Roughing,Torey Krug,Patric Hornqvist,[-19.  39.],2,03:55,BOS,PIT,BOS,6,PIT,5,2,1,8476792,8471887.0,Torey Krug Roughing against Patric Hornqvist
-171,penalty,Fighting,Patric Hornqvist,Torey Krug,[45. 19.],2,01:49,PIT,BOS,BOS,6,PIT,5,2,1,8471887,8476792.0,Patric Hornqvist Fighting against Torey Krug
-172,penalty,Fighting,Torey Krug,Patric Hornqvist,[50. 10.],2,01:49,BOS,PIT,BOS,6,PIT,5,2,1,8476792,8471887.0,Torey Krug Fighting against Patric Hornqvist
-174,penalty,Holding,Marcus Pettersson,David Pastrnak,[-92.  21.],2,01:19,PIT,BOS,BOS,6,PIT,5,2,1,8477969,8477956.0,Marcus Pettersson Holding against David Pastrnak
-236,penalty,Too many men on the ice,Patric Hornqvist,,[41. 21.],3,08:18,PIT,BOS,BOS,6,PIT,5,3,1,8471887,,Too many men/ice served by Patric Hornqvist
-81,penalty,Hooking,Teddy Blueger,Brandon Carlo,[95. 13.],1,01:37,PIT,BOS,PIT,5,BOS,6,1,3,8476927,8478443.0,Teddy Blueger Hooking against Brandon Carlo
-142,penalty,Interference,Chris Wagner,Evgeni Malkin,[43.  0.],2,07:51,BOS,PIT,PIT,5,BOS,6,2,3,8475780,8471215.0,Chris Wagner Interference against Evgeni Malkin
-148,penalty,Roughing,Brad Marchand,Kris Letang,[ 83. -37.],2,07:00,BOS,PIT,PIT,5,BOS,6,2,3,8473419,8471724.0,Brad Marchand Roughing against Kris Letang
-149,penalty,Roughing,Kris Letang,Brad Marchand,[ 75. -26.],2,07:00,PIT,BOS,PIT,5,BOS,6,2,3,8471724,8473419.0,Kris Letang Roughing against Brad Marchand
-183,penalty,Elbowing,Kris Letang,Brad Marchand,[-97.  -8.],3,19:40,PIT,BOS,PIT,5,BOS,6,2,3,8471724,8473419.0,Kris Letang Elbowing against Brad Marchand
-273,penalty,Tripping,Matt Grzelcyk,Brandon Tanev,[ 82. -31.],3,00:56,BOS,PIT,PIT,5,BOS,6,4,3,8476891,8479293.0,Matt Grzelcyk Tripping against Brandon Tanev
-7,penalty,Interference,Nicolas Hague,Danton Heinen,[54. 11.],1,18:21,VGK,BOS,BOS,6,VGK,54,0,1,8479980,8478046.0,Nicolas Hague Interference against Danton Heinen
-33,penalty,Tripping,Mark Stone,Karson Kuhlman,[ 97. -10.],1,12:45,VGK,BOS,BOS,6,VGK,54,0,1,8475913,8480901.0,Mark Stone Tripping against Karson Kuhlman
-68,penalty,Tripping,Zdeno Chara,Ryan Reaves,[-12.   4.],1,04:05,BOS,VGK,BOS,6,VGK,54,1,1,8465009,8471817.0,Zdeno Chara Tripping against Ryan Reaves
-87,penalty,Interference,William Carrier,David Pastrnak,[16. 36.],2,18:18,VGK,BOS,BOS,6,VGK,54,1,1,8477478,8477956.0,William Carrier Interference against David Pastrnak
-92,penalty,Too many men on the ice,Jonathan Marchessault,,[13. 38.],2,15:53,VGK,BOS,BOS,6,VGK,54,1,1,8476539,,Too many men/ice served by Jonathan Marchessault
-113,penalty,Hi-sticking,Brandon Carlo,Reilly Smith,[-22.  31.],2,10:45,BOS,VGK,BOS,6,VGK,54,1,1,8478443,8475191.0,Brandon Carlo Hi-sticking against Reilly Smith
-138,penalty,Boarding,Chandler Stephenson,Charlie McAvoy,[69. 38.],2,04:56,VGK,BOS,BOS,6,VGK,54,1,2,8476905,8479325.0,Chandler Stephenson Boarding against Charlie McAvoy
-78,penalty,Roughing,Charlie McAvoy,Neal Pionk,[-72.  -1.],1,02:48,BOS,WPG,WPG,52,BOS,6,1,0,8479325,8480145.0,Charlie McAvoy Roughing against Neal Pionk
-79,penalty,Roughing,Neal Pionk,Charlie McAvoy,[-73.   0.],1,02:48,WPG,BOS,WPG,52,BOS,6,1,0,8480145,8479325.0,Neal Pionk Roughing against Charlie McAvoy
-80,penalty,Roughing,Neal Pionk,Mathieu Perreault,[-73.  -2.],1,02:48,WPG,BOS,WPG,52,BOS,6,1,0,8480145,8473618.0,Neal Pionk Roughing against Charlie McAvoy served by Mathieu Perreault
-88,penalty,Slashing,Josh Morrissey,David Krejci,[ 74. -24.],1,01:28,WPG,BOS,WPG,52,BOS,6,1,0,8477504,8471276.0,Josh Morrissey Slashing against David Krejci
-105,penalty,Hooking,Matt Grzelcyk,Blake Wheeler,[ 79. -10.],2,17:49,BOS,WPG,WPG,52,BOS,6,1,1,8476891,8471218.0,Matt Grzelcyk Hooking against Blake Wheeler
-114,penalty,Roughing,Brad Marchand,Danton Heinen,[-14.  27.],2,16:32,BOS,WPG,WPG,52,BOS,6,1,1,8473419,8478046.0,Brad Marchand Roughing against Nikolaj Ehlers served by Danton Heinen
-115,penalty,Fighting,Brad Marchand,Nikolaj Ehlers,[-11.  20.],2,16:32,BOS,WPG,WPG,52,BOS,6,1,1,8473419,8477940.0,Brad Marchand Fighting against Nikolaj Ehlers
-116,penalty,Fighting,Nikolaj Ehlers,Brad Marchand,[-14.  28.],2,16:32,WPG,BOS,WPG,52,BOS,6,1,1,8477940,8473419.0,Nikolaj Ehlers Fighting against Brad Marchand
-121,penalty,Delaying Game - Puck over glass,Brandon Carlo,,[67. 36.],2,15:43,BOS,WPG,WPG,52,BOS,6,1,1,8478443,,Brandon Carlo Delaying Game - Puck over glass
-136,penalty,Tripping,Charlie Coyle,Jack Roslovic,[71. 39.],2,12:53,BOS,WPG,WPG,52,BOS,6,1,1,8475745,8478458.0,Charlie Coyle Tripping against Jack Roslovic
-148,penalty,Instigator,Brandon Carlo,Danton Heinen,[-4.  5.],2,09:50,BOS,WPG,WPG,52,BOS,6,1,1,8478443,8478046.0,Brandon Carlo Instigator against Gabriel Bourque served by Danton Heinen
-149,penalty,Fighting,Brandon Carlo,Gabriel Bourque,[-4.  4.],2,09:50,BOS,WPG,WPG,52,BOS,6,1,1,8478443,8475268.0,Brandon Carlo Fighting against Gabriel Bourque
-150,penalty,Misconduct,Brandon Carlo,Gabriel Bourque,[-4.  2.],2,09:50,BOS,WPG,WPG,52,BOS,6,1,1,8478443,8475268.0,Brandon Carlo Misconduct against Gabriel Bourque
-151,penalty,Fighting,Gabriel Bourque,Brandon Carlo,[-4.  4.],2,09:50,WPG,BOS,WPG,52,BOS,6,1,1,8475268,8478443.0,Gabriel Bourque Fighting against Brandon Carlo
-168,penalty,Fighting,Karson Kuhlman,Luca Sbisa,[-33.   0.],2,04:24,BOS,WPG,WPG,52,BOS,6,1,1,8480901,8474579.0,Karson Kuhlman Fighting against Luca Sbisa
-169,penalty,Instigator,Luca Sbisa,Jansen Harkins,[-5.  2.],2,04:24,WPG,BOS,WPG,52,BOS,6,1,1,8474579,8478424.0,Luca Sbisa Instigator against Karson Kuhlman served by Jansen Harkins
-170,penalty,Fighting,Luca Sbisa,Karson Kuhlman,[-7.  3.],2,04:24,WPG,BOS,WPG,52,BOS,6,1,1,8474579,8480901.0,Luca Sbisa Fighting against Karson Kuhlman
-171,penalty,Misconduct,Luca Sbisa,Karson Kuhlman,[-5.  3.],2,04:24,WPG,BOS,WPG,52,BOS,6,1,1,8474579,8480901.0,Luca Sbisa Misconduct against Karson Kuhlman
-184,penalty,Holding,Torey Krug,Patrik Laine,[79.  3.],2,00:00,BOS,WPG,WPG,52,BOS,6,1,1,8476792,8479339.0,Torey Krug Holding against Patrik Laine
-194,penalty,Slashing,Sami Niku,Brad Marchand,[79. 17.],3,17:25,WPG,BOS,WPG,52,BOS,6,1,1,8478915,8473419.0,Sami Niku Slashing against Brad Marchand
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,game_id,winning_team,date,description
+72,penalty,Hooking,Charlie McAvoy,Zach Parise,[-80.  -5.],1,02:35,BOS,MIN,MIN,30,BOS,6,0,1,8479325,8470610.0,2019020801,BOS,2020-02-02,Charlie McAvoy Hooking against Zach Parise
+92,penalty,Interference,Ryan Hartman,Torey Krug,[77.  0.],2,16:11,MIN,BOS,MIN,30,BOS,6,0,1,8477451,8476792.0,2019020801,BOS,2020-02-02,Ryan Hartman Interference against Torey Krug
+101,penalty,Interference,Eric Staal,Brandon Carlo,[25. 25.],2,14:39,MIN,BOS,MIN,30,BOS,6,0,2,8470595,8478443.0,2019020801,BOS,2020-02-02,Eric Staal Interference against Brandon Carlo
+122,penalty,Roughing,Charlie McAvoy,Mats Zuccarello,[80. 26.],2,08:41,BOS,MIN,MIN,30,BOS,6,0,3,8479325,8475692.0,2019020801,BOS,2020-02-02,Charlie McAvoy Roughing against Mats Zuccarello
+128,penalty,Interference,Brad Marchand,Mikko Koivu,[-17.  41.],2,07:24,BOS,MIN,MIN,30,BOS,6,0,3,8473419,8469459.0,2019020801,BOS,2020-02-02,Brad Marchand Interference against Mikko Koivu
+129,penalty,Roughing,Mikko Koivu,Brad Marchand,[-15.  42.],2,07:24,MIN,BOS,MIN,30,BOS,6,0,3,8469459,8473419.0,2019020801,BOS,2020-02-02,Mikko Koivu Roughing against Brad Marchand
+135,penalty,Holding,Joel Eriksson Ek,Torey Krug,[64. 35.],2,05:28,MIN,BOS,MIN,30,BOS,6,0,3,8478493,8476792.0,2019020801,BOS,2020-02-02,Joel Eriksson Ek Holding against Torey Krug
+150,penalty,Cross checking,Jake DeBrusk,Jared Spurgeon,[-74.  10.],2,02:20,BOS,MIN,MIN,30,BOS,6,0,4,8478498,8474716.0,2019020801,BOS,2020-02-02,Jake DeBrusk Cross checking against Jared Spurgeon
+184,penalty,Hooking,Zdeno Chara,Victor Rask,[-66.  35.],3,13:06,BOS,MIN,MIN,30,BOS,6,0,4,8465009,8476437.0,2019020801,BOS,2020-02-02,Zdeno Chara Hooking against Victor Rask
+198,penalty,Hooking,Jonas Brodin,Anders Bjork,[53. 34.],3,08:43,MIN,BOS,MIN,30,BOS,6,0,4,8476463,8478075.0,2019020801,BOS,2020-02-02,Jonas Brodin Hooking against Anders Bjork
+63,penalty,Missing key [PD_151],Jake Virtanen,,[35. 35.],1,05:36,VAN,BOS,BOS,6,VAN,23,1,0,8477937,,2019020812,,2020-02-05,Delaying Game - Unsucc. chlg served by Jake Virtanen
+109,penalty,Delaying Game - Puck over glass,Troy Stecher,,[-55.  37.],2,14:15,VAN,BOS,BOS,6,VAN,23,1,0,8479442,,2019020812,,2020-02-05,Troy Stecher Delaying Game - Puck over glass
+114,penalty,Tripping,Alexander Edler,Brad Marchand,[-96.   1.],2,13:14,VAN,BOS,BOS,6,VAN,23,1,0,8471303,8473419.0,2019020812,,2020-02-05,Alexander Edler Tripping against Brad Marchand
+130,penalty,Hooking,Anders Bjork,Bo Horvat,[-5. 38.],2,10:12,BOS,VAN,BOS,6,VAN,23,1,0,8478075,8477500.0,2019020812,,2020-02-05,Anders Bjork Hooking against Bo Horvat
+174,penalty,Hooking,Chris Wagner,Oscar Fantenberg,[58. 38.],2,04:03,BOS,VAN,BOS,6,VAN,23,2,0,8475780,8480147.0,2019020812,,2020-02-05,Chris Wagner Hooking against Oscar Fantenberg
+246,penalty,Slashing,Torey Krug,Jake Virtanen,[-79. -11.],3,07:22,BOS,VAN,BOS,6,VAN,23,2,0,8476792,8477937.0,2019020812,,2020-02-05,Torey Krug Slashing against Jake Virtanen
+251,penalty,Slashing,Quinn Hughes,Sean Kuraly,[68.  8.],3,06:22,VAN,BOS,BOS,6,VAN,23,2,0,8480800,8476374.0,2019020812,,2020-02-05,Quinn Hughes Slashing against Sean Kuraly
+261,penalty,Interference - Goalkeeper,Jay Beagle,Brock Boeser,[-82.   7.],3,04:49,VAN,BOS,BOS,6,VAN,23,3,0,8474291,8478444.0,2019020812,,2020-02-05,Jay Beagle Interference - Goalkeeper against Tuukka Rask served by Brock Boeser
+262,penalty,Misconduct,Jay Beagle,,[ 9. 39.],3,04:49,VAN,BOS,BOS,6,VAN,23,3,0,8474291,,2019020812,,2020-02-05,Jay Beagle Misconduct
+266,penalty,Delaying Game - Puck over glass,Tyler Myers,,[57. 37.],3,03:38,VAN,BOS,BOS,6,VAN,23,3,0,8474574,,2019020812,,2020-02-05,Tyler Myers Delaying Game - Puck over glass
+73,penalty,Holding,Slater Koekkoek,Sean Kuraly,[89. -6.],1,04:04,CHI,BOS,CHI,16,BOS,6,0,0,8476886,8476374.0,2019020826,,2020-02-06,Slater Koekkoek Holding against Sean Kuraly
+120,penalty,Boarding,David Krejci,Adam Boqvist,[-60. -39.],2,13:47,BOS,CHI,CHI,16,BOS,6,0,0,8471276,8480871.0,2019020826,,2020-02-06,David Krejci Boarding against Adam Boqvist
+173,penalty,Hi-sticking,Jeremy Lauzon,Patrick Kane,[84.  7.],2,03:17,BOS,CHI,CHI,16,BOS,6,1,1,8478468,8474141.0,2019020826,,2020-02-06,Jeremy Lauzon Hi-sticking against Patrick Kane
+215,penalty,Slashing,Brandon Saad,Anders Bjork,[73.  0.],3,14:07,CHI,BOS,CHI,16,BOS,6,1,1,8476438,8478075.0,2019020826,,2020-02-06,Brandon Saad Slashing against Anders Bjork
+236,penalty,Tripping,Alex Nylander,David Pastrnak,[-56. -37.],3,08:19,CHI,BOS,CHI,16,BOS,6,1,1,8479423,8477956.0,2019020826,,2020-02-06,Alex Nylander Tripping against David Pastrnak
+237,penalty,Embellishment,David Pastrnak,Alex Nylander,[-58. -38.],3,08:19,BOS,CHI,CHI,16,BOS,6,1,1,8477956,8479423.0,2019020826,,2020-02-06,David Pastrnak Embellishment against Alex Nylander
+247,penalty,Slashing,Chris Wagner,Kirby Dach,[-81.   1.],3,05:19,BOS,CHI,CHI,16,BOS,6,1,1,8475780,8481523.0,2019020826,,2020-02-06,Chris Wagner Slashing against Kirby Dach
+255,penalty,Illegal check to head,Zack Smith,Torey Krug,[ 37. -37.],3,02:26,CHI,BOS,CHI,16,BOS,6,1,1,8474250,8476792.0,2019020826,,2020-02-06,Zack Smith Illegal check to head against Torey Krug
+257,penalty,Misconduct,Ryan Carpenter,,[ 5. 37.],3,02:12,CHI,BOS,CHI,16,BOS,6,1,1,8477846,,2019020826,,2020-02-06,Ryan Carpenter Misconduct
+261,penalty,Tripping,Torey Krug,Olli Maatta,[ 33. -39.],3,01:05,BOS,CHI,CHI,16,BOS,6,1,1,8476792,8476874.0,2019020826,,2020-02-06,Torey Krug Tripping against Olli Maatta
+33,penalty,Hooking,Charlie McAvoy,Taylor Hall,[-62. -32.],1,10:51,BOS,ARI,BOS,6,ARI,53,0,0,8479325,8475791.0,2019020844,,2020-02-08,Charlie McAvoy Hooking against Taylor Hall
+59,penalty,Hi-sticking,Conor Garland,Zdeno Chara,[-79. -33.],1,05:54,ARI,BOS,BOS,6,ARI,53,0,0,8478856,8465009.0,2019020844,,2020-02-08,Conor Garland Hi-sticking against Zdeno Chara
+74,penalty,Hi-sticking,Jeremy Lauzon,Vinnie Hinostroza,[-91. -27.],1,02:33,BOS,ARI,BOS,6,ARI,53,0,0,8478468,8476994.0,2019020844,,2020-02-08,Jeremy Lauzon Hi-sticking against Vinnie Hinostroza
+83,penalty,Match penalty,Jeremy Lauzon,Anders Bjork,[52. 38.],1,00:21,BOS,ARI,BOS,6,ARI,53,0,0,8478468,8478075.0,2019020844,,2020-02-08,Jeremy Lauzon Match penalty against Derek Stepan served by Anders Bjork
+101,penalty,Roughing,Lawson Crouse,Charlie McAvoy,[79. 37.],2,15:14,ARI,BOS,BOS,6,ARI,53,0,1,8478474,8479325.0,2019020844,,2020-02-08,Lawson Crouse Roughing against Charlie McAvoy
+130,penalty,Interference,Brad Richardson,Chris Wagner,[-75.   0.],2,08:01,ARI,BOS,BOS,6,ARI,53,1,1,8470755,8475780.0,2019020844,,2020-02-08,Brad Richardson Interference against Chris Wagner
+140,penalty,Hooking,Niklas Hjalmarsson,Chris Wagner,[-64.   4.],2,05:47,ARI,BOS,BOS,6,ARI,53,2,1,8471769,8475780.0,2019020844,,2020-02-08,Niklas Hjalmarsson Hooking against Chris Wagner
+18,penalty,Tripping,Brad Marchand,Jonathan Bernier,[95. -7.],1,16:59,BOS,DET,DET,17,BOS,6,0,0,8473419,8473541.0,2019020855,,2020-02-10,Brad Marchand Tripping against Jonathan Bernier
+39,penalty,Tripping,Sean Kuraly,Valtteri Filppula,[ 24. -24.],1,09:05,BOS,DET,DET,17,BOS,6,0,0,8476374,8470047.0,2019020855,,2020-02-10,Sean Kuraly Tripping against Valtteri Filppula
+48,penalty,Holding,Trevor Daley,Sean Kuraly,[95.  8.],1,06:45,DET,BOS,DET,17,BOS,6,0,0,8470110,8476374.0,2019020855,,2020-02-10,Trevor Daley Holding against Sean Kuraly
+51,penalty,Tripping,Valtteri Filppula,Jake DeBrusk,[-7. 10.],1,06:03,DET,BOS,DET,17,BOS,6,0,0,8470047,8478498.0,2019020855,,2020-02-10,Valtteri Filppula Tripping against Jake DeBrusk
+66,penalty,Tripping,Justin Abdelkader,Charlie Coyle,[ 40. -20.],1,03:50,DET,BOS,DET,17,BOS,6,0,0,8471716,8475745.0,2019020855,,2020-02-10,Justin Abdelkader Tripping against Charlie Coyle
+148,penalty,Holding,Patrik Nemeth,Jake DeBrusk,[-66.   5.],2,02:56,DET,BOS,DET,17,BOS,6,1,0,8475747,8478498.0,2019020855,,2020-02-10,Patrik Nemeth Holding against Jake DeBrusk
+191,penalty,Tripping,Jake DeBrusk,Trevor Daley,[-97. -13.],3,13:59,BOS,DET,DET,17,BOS,6,1,1,8478498,8470110.0,2019020855,,2020-02-10,Jake DeBrusk Tripping against Trevor Daley
+49,penalty,Too many men on the ice,Brendan Gallagher,,[42. 37.],1,09:28,MTL,BOS,BOS,6,MTL,8,1,0,8475848,,2019020877,,2020-02-13,Too many men/ice served by Brendan Gallagher
+84,penalty,Slashing,Brad Marchand,Danton Heinen,[14.  4.],1,01:12,BOS,MTL,BOS,6,MTL,8,1,0,8473419,8478046.0,2019020877,,2020-02-13,Brad Marchand Slashing against Jeff Petry served by Danton Heinen
+85,penalty,Roughing,Jeff Petry,Brad Marchand,[19. 13.],1,01:12,MTL,BOS,BOS,6,MTL,8,1,0,8473507,8473419.0,2019020877,,2020-02-13,Jeff Petry Roughing against Brad Marchand
+86,penalty,Roughing,Brad Marchand,Jeff Petry,[39.  3.],1,01:12,BOS,MTL,BOS,6,MTL,8,1,0,8473419,8473507.0,2019020877,,2020-02-13,Brad Marchand Roughing against Jeff Petry
+113,penalty,Slashing,Danton Heinen,Artturi Lehkonen,[53. 30.],2,14:22,BOS,MTL,BOS,6,MTL,8,2,1,8478046,8477476.0,2019020877,,2020-02-13,Danton Heinen Slashing against Artturi Lehkonen
+115,penalty,Cross checking,Zdeno Chara,Brendan Gallagher,[53. 35.],2,14:22,BOS,MTL,BOS,6,MTL,8,2,1,8465009,8475848.0,2019020877,,2020-02-13,Zdeno Chara Cross checking against Brendan Gallagher
+116,penalty,Roughing,Brendan Gallagher,Zdeno Chara,[38. 35.],2,14:22,MTL,BOS,BOS,6,MTL,8,2,1,8475848,8465009.0,2019020877,,2020-02-13,Brendan Gallagher Roughing against Zdeno Chara
+143,penalty,Roughing,Jonathan Drouin,Chris Wagner,[ 81. -34.],2,05:28,MTL,BOS,BOS,6,MTL,8,2,1,8477494,8475780.0,2019020877,,2020-02-13,Jonathan Drouin Roughing against Chris Wagner
+144,penalty,Roughing,Chris Wagner,Jonathan Drouin,[ 68. -34.],2,05:28,BOS,MTL,BOS,6,MTL,8,2,1,8475780,8477494.0,2019020877,,2020-02-13,Chris Wagner Roughing against Jonathan Drouin
+148,penalty,Roughing,Joel Armia,Torey Krug,[-94. -11.],2,04:46,MTL,BOS,BOS,6,MTL,8,2,1,8476469,8476792.0,2019020877,,2020-02-13,Joel Armia Roughing against Torey Krug
+190,penalty,Delaying Game - Puck over glass,Charlie McAvoy,,[-62. -35.],3,15:41,BOS,MTL,BOS,6,MTL,8,3,1,8479325,,2019020877,,2020-02-13,Charlie McAvoy Delaying Game - Puck over glass
+203,penalty,Hi-sticking,Brendan Gallagher,John Moore,[-89. -10.],3,13:42,MTL,BOS,BOS,6,MTL,8,3,1,8475848,8475186.0,2019020877,,2020-02-13,Brendan Gallagher Hi-sticking against John Moore
+16,penalty,Holding,Gustav Lindstrom,Danton Heinen,[93. 14.],1,17:35,DET,BOS,BOS,6,DET,17,0,0,8480184,8478046.0,2019020895,,2020-02-15,Gustav Lindstrom Holding against Danton Heinen
+80,penalty,Cross checking,Adam Erne,Chris Wagner,[12. 36.],1,01:32,DET,BOS,BOS,6,DET,17,0,1,8477454,8475780.0,2019020895,,2020-02-15,Adam Erne Cross checking against Chris Wagner
+117,penalty,Hooking,David Krejci,Andreas Athanasiou,[ 66. -29.],2,11:35,BOS,DET,BOS,6,DET,17,1,1,8471276,8476960.0,2019020895,,2020-02-15,David Krejci Hooking against Andreas Athanasiou
+137,penalty,Interference,Jeremy Lauzon,Christoffer Ehn,[41. 38.],2,06:50,BOS,DET,BOS,6,DET,17,3,1,8478468,8478036.0,2019020895,,2020-02-15,Jeremy Lauzon Interference against Christoffer Ehn
+153,penalty,Holding,Charlie McAvoy,Robby Fabbri,[ 76. -37.],2,01:48,BOS,DET,BOS,6,DET,17,3,1,8479325,8477952.0,2019020895,,2020-02-15,Charlie McAvoy Holding against Robby Fabbri
+228,penalty,Fighting,Andreas Athanasiou,Chris Wagner,[-71. -33.],3,03:21,DET,BOS,BOS,6,DET,17,4,1,8476960,8475780.0,2019020895,,2020-02-15,Andreas Athanasiou Fighting against Chris Wagner
+229,penalty,Fighting,Chris Wagner,Andreas Athanasiou,[-64. -26.],3,03:21,BOS,DET,BOS,6,DET,17,4,1,8475780,8476960.0,2019020895,,2020-02-15,Chris Wagner Fighting against Andreas Athanasiou
+56,penalty,Roughing,Ryan Lindgren,Brad Marchand,[11. 40.],1,08:29,NYR,BOS,NYR,3,BOS,6,0,0,8479324,8473419.0,2019020907,,2020-02-16,Ryan Lindgren Roughing against Brad Marchand
+116,penalty,Hi stick - double minor,David Krejci,Ryan Lindgren,[-69.  -4.],2,14:54,BOS,NYR,NYR,3,BOS,6,0,1,8471276,8479324.0,2019020907,,2020-02-16,David Krejci Hi stick - double minor against Ryan Lindgren
+170,penalty,Cross checking,Brad Marchand,Ryan Lindgren,[-86.  -2.],2,02:46,BOS,NYR,NYR,3,BOS,6,0,1,8473419,8479324.0,2019020907,,2020-02-16,Brad Marchand Cross checking against Ryan Lindgren
+184,penalty,Tripping,Mika Zibanejad,Brad Marchand,[44.  5.],2,00:27,NYR,BOS,NYR,3,BOS,6,0,2,8476459,8473419.0,2019020907,,2020-02-16,Mika Zibanejad Tripping against Brad Marchand
+209,penalty,Interference,Karson Kuhlman,Marc Staal,[-58. -28.],3,15:37,BOS,NYR,NYR,3,BOS,6,0,2,8480901,8471686.0,2019020907,,2020-02-16,Karson Kuhlman Interference against Marc Staal
+235,penalty,Tripping,Torey Krug,Mika Zibanejad,[-59.   9.],3,10:55,BOS,NYR,NYR,3,BOS,6,0,2,8476792,8476459.0,2019020907,,2020-02-16,Torey Krug Tripping against Mika Zibanejad
+49,penalty,Slashing,Ethan Bear,Brad Marchand,[-80. -10.],1,09:04,EDM,BOS,EDM,22,BOS,6,0,1,8478451,8473419.0,2019020929,,2020-02-20,Ethan Bear Slashing against Brad Marchand
+71,penalty,Tripping,Joakim Nordstrom,Gaetan Haas,[-90.  31.],1,04:48,BOS,EDM,EDM,22,BOS,6,0,1,8475807,8481813.0,2019020929,,2020-02-20,Joakim Nordstrom Tripping against Gaetan Haas
+75,penalty,Hi stick - double minor,Kailer Yamamoto,Charlie Coyle,[34. 36.],1,03:53,EDM,BOS,EDM,22,BOS,6,0,1,8479977,8475745.0,2019020929,,2020-02-20,Kailer Yamamoto Hi stick - double minor against Charlie Coyle
+105,penalty,Slashing,Adam Larsson,Brad Marchand,[86. 10.],2,16:23,EDM,BOS,EDM,22,BOS,6,0,1,8476457,8473419.0,2019020929,,2020-02-20,Adam Larsson Slashing against Brad Marchand
+126,penalty,Tripping,Torey Krug,Gaetan Haas,[-27.  26.],2,13:11,BOS,EDM,EDM,22,BOS,6,0,1,8476792,8481813.0,2019020929,,2020-02-20,Torey Krug Tripping against Gaetan Haas
+147,penalty,Hooking,Patrice Bergeron,Ethan Bear,[-77.  12.],2,09:04,BOS,EDM,EDM,22,BOS,6,0,1,8470638,8478451.0,2019020929,,2020-02-20,Patrice Bergeron Hooking against Ethan Bear
+154,penalty,Holding the stick,Ryan Nugent-Hopkins,Charlie Coyle,[-34. -33.],2,07:45,EDM,BOS,EDM,22,BOS,6,0,1,8476454,8475745.0,2019020929,,2020-02-20,Ryan Nugent-Hopkins Holding the stick against Charlie Coyle
+201,penalty,Tripping,Karson Kuhlman,Caleb Jones,[-76.   7.],3,18:01,BOS,EDM,EDM,22,BOS,6,0,1,8480901,8478452.0,2019020929,,2020-02-20,Karson Kuhlman Tripping against Caleb Jones
+217,penalty,Too many men on the ice,Kailer Yamamoto,,[-10.  40.],3,14:35,EDM,BOS,EDM,22,BOS,6,1,1,8479977,,2019020929,,2020-02-20,Too many men/ice served by Kailer Yamamoto
+236,penalty,Roughing,Joakim Nordstrom,Alex Chiasson,[95.  8.],3,10:26,BOS,EDM,EDM,22,BOS,6,1,1,8475807,8475163.0,2019020929,,2020-02-20,Joakim Nordstrom Roughing against Alex Chiasson
+243,penalty,Slashing,Darnell Nurse,Charlie Coyle,[-77.  -1.],3,08:50,EDM,BOS,EDM,22,BOS,6,1,1,8477498,8475745.0,2019020929,,2020-02-20,Darnell Nurse Slashing against Charlie Coyle
+262,penalty,Tripping,David Pastrnak,William Lagesson,[-65.  31.],3,02:30,BOS,EDM,EDM,22,BOS,6,1,1,8477956,8478021.0,2019020929,,2020-02-20,David Pastrnak Tripping against William Lagesson
+38,penalty,Elbowing,Matt Grzelcyk,Tobias Rieder,[ 0. 25.],1,13:27,BOS,CGY,CGY,20,BOS,6,3,2,8476891,8476356.0,2019020945,,2020-02-22,Matt Grzelcyk Elbowing against Tobias Rieder
+129,penalty,Fighting,Matthew Tkachuk,Jeremy Lauzon,[70. 36.],2,09:43,CGY,BOS,CGY,20,BOS,6,3,4,8479314,8478468.0,2019020945,,2020-02-22,Matthew Tkachuk Fighting against Jeremy Lauzon
+130,penalty,Fighting,Jeremy Lauzon,Matthew Tkachuk,[67. 37.],2,09:43,BOS,CGY,CGY,20,BOS,6,3,4,8478468,8479314.0,2019020945,,2020-02-22,Jeremy Lauzon Fighting against Matthew Tkachuk
+183,penalty,Tripping,Patrice Bergeron,Derek Ryan,[-15.  -5.],3,14:05,BOS,CGY,CGY,20,BOS,6,3,4,8470638,8478585.0,2019020945,,2020-02-22,Patrice Bergeron Tripping against Derek Ryan
+62,penalty,Holding,Jeremy Lauzon,Elias Pettersson,[-41.   6.],1,09:39,BOS,VAN,VAN,23,BOS,6,1,1,8478468,8480012.0,2019020956,,2020-02-23,Jeremy Lauzon Holding against Elias Pettersson
+85,penalty,Holding,Bo Horvat,Brad Marchand,[ 57. -26.],1,04:26,VAN,BOS,VAN,23,BOS,6,2,1,8477500,8473419.0,2019020956,,2020-02-23,Bo Horvat Holding against Brad Marchand
+94,penalty,Holding,Patrice Bergeron,Tyler Motte,[-79.   0.],1,02:47,BOS,VAN,VAN,23,BOS,6,2,1,8470638,8477353.0,2019020956,,2020-02-23,Patrice Bergeron Holding against Tyler Motte
+192,penalty,Roughing,Tyler Myers,Zdeno Chara,[ 9. 21.],2,03:23,VAN,BOS,VAN,23,BOS,6,5,1,8474574,8465009.0,2019020956,,2020-02-23,Tyler Myers Roughing against Zdeno Chara
+193,penalty,Roughing,Zdeno Chara,Danton Heinen,[15. 25.],2,03:23,BOS,VAN,VAN,23,BOS,6,5,1,8465009,8478046.0,2019020956,,2020-02-23,Zdeno Chara Roughing against Tyler Myers served by Danton Heinen
+194,penalty,Roughing,Zdeno Chara,Tyler Myers,[12. 12.],2,03:23,BOS,VAN,VAN,23,BOS,6,5,1,8465009,8474574.0,2019020956,,2020-02-23,Zdeno Chara Roughing against Tyler Myers
+203,penalty,Fighting,Bo Horvat,Charlie Coyle,[-37.  32.],2,00:30,VAN,BOS,VAN,23,BOS,6,5,1,8477500,8475745.0,2019020956,,2020-02-23,Bo Horvat Fighting against Charlie Coyle
+204,penalty,Fighting,Charlie Coyle,Bo Horvat,[-40.  23.],2,00:30,BOS,VAN,VAN,23,BOS,6,5,1,8475745,8477500.0,2019020956,,2020-02-23,Charlie Coyle Fighting against Bo Horvat
+233,penalty,Hi-sticking,Antoine Roussel,Torey Krug,[-54.  14.],3,14:35,VAN,BOS,VAN,23,BOS,6,6,1,8474849,8476792.0,2019020956,,2020-02-23,Antoine Roussel Hi-sticking against Torey Krug
+41,penalty,Interference,TJ Brodie,Brad Marchand,[75.  0.],1,13:16,CGY,BOS,BOS,6,CGY,20,0,0,8474673,8473419.0,2019020968,,2020-02-26,TJ Brodie Interference against Brad Marchand
+78,penalty,Interference,Brad Marchand,TJ Brodie,[ 82. -21.],1,05:10,BOS,CGY,BOS,6,CGY,20,0,1,8473419,8474673.0,2019020968,,2020-02-26,Brad Marchand Interference against TJ Brodie
+142,penalty,Slashing,Karson Kuhlman,Noah Hanifin,[-52.   3.],2,11:14,BOS,CGY,BOS,6,CGY,20,0,1,8480901,8478396.0,2019020968,,2020-02-26,Karson Kuhlman Slashing against Noah Hanifin
+172,penalty,Roughing,Matt Grzelcyk,Dillon Dube,[20. 33.],2,05:28,BOS,CGY,BOS,6,CGY,20,1,2,8476891,8479346.0,2019020968,,2020-02-26,Matt Grzelcyk Roughing against Dillon Dube
+47,penalty,Tripping,Tyler Seguin,Chris Wagner,[14. 14.],1,06:53,DAL,BOS,BOS,6,DAL,25,0,0,8475794,8475780.0,2019020984,,2020-02-28,Tyler Seguin Tripping against Chris Wagner
+67,penalty,Hooking,Matt Grzelcyk,Radek Faksa,[-93.  12.],1,02:56,BOS,DAL,BOS,6,DAL,25,0,0,8476891,8476889.0,2019020984,,2020-02-28,Matt Grzelcyk Hooking against Radek Faksa
+75,penalty,Slashing,Andrew Cogliano,Charlie Coyle,[55. 38.],1,01:42,DAL,BOS,BOS,6,DAL,25,0,1,8471699,8475745.0,2019020984,,2020-02-28,Andrew Cogliano Slashing against Charlie Coyle
+143,penalty,Fighting,Joe Pavelski,David Krejci,[ 63. -13.],2,08:36,DAL,BOS,BOS,6,DAL,25,1,1,8470794,8471276.0,2019020984,,2020-02-28,Joe Pavelski Fighting against David Krejci
+144,penalty,Fighting,David Krejci,Joe Pavelski,[ 65. -22.],2,08:36,BOS,DAL,BOS,6,DAL,25,1,1,8471276,8470794.0,2019020984,,2020-02-28,David Krejci Fighting against Joe Pavelski
+177,penalty,Roughing,Chris Wagner,Mattias Janmark,[-69. -17.],2,01:11,BOS,DAL,BOS,6,DAL,25,3,1,8475780,8477406.0,2019020984,,2020-02-28,Chris Wagner Roughing against Mattias Janmark
+54,penalty,Interference,Nick Ritchie,Anthony Beauvillier,[ 34. -26.],1,05:29,BOS,NYI,NYI,2,BOS,6,0,2,8477941,8478463.0,2019020999,,2020-02-29,Nick Ritchie Interference against Anthony Beauvillier
+74,penalty,Tripping,David Pastrnak,Nick Leddy,[-92.  19.],1,01:03,BOS,NYI,NYI,2,BOS,6,0,2,8477956,8475181.0,2019020999,,2020-02-29,David Pastrnak Tripping against Nick Leddy
+118,penalty,Tripping,Leo Komarov,Par Lindholm,[-44.  39.],2,11:40,NYI,BOS,NYI,2,BOS,6,0,2,8473463,8480944.0,2019020999,,2020-02-29,Leo Komarov Tripping against Par Lindholm
+128,penalty,Hi-sticking,Cal Clutterbuck,David Pastrnak,[75.  0.],2,10:12,NYI,BOS,NYI,2,BOS,6,0,2,8473504,8477956.0,2019020999,,2020-02-29,Cal Clutterbuck Hi-sticking against David Pastrnak
+146,penalty,Slashing,Zdeno Chara,Mathew Barzal,[-77.   5.],2,05:28,BOS,NYI,NYI,2,BOS,6,0,2,8465009,8478445.0,2019020999,,2020-02-29,Zdeno Chara Slashing against Mathew Barzal
+162,penalty,Cross checking,Nick Ritchie,Johnny Boychuk,[-60.  20.],2,01:58,BOS,NYI,NYI,2,BOS,6,0,2,8477941,8470187.0,2019020999,,2020-02-29,Nick Ritchie Cross checking against Johnny Boychuk
+235,penalty,Roughing,David Pastrnak,Leo Komarov,[-53. -40.],3,06:13,BOS,NYI,NYI,2,BOS,6,0,3,8477956,8473463.0,2019020999,,2020-02-29,David Pastrnak Roughing against Leo Komarov
+241,penalty,Hooking,Mathew Barzal,Charlie McAvoy,[ 96. -20.],3,05:06,NYI,BOS,NYI,2,BOS,6,0,3,8478445,8479325.0,2019020999,,2020-02-29,Mathew Barzal Hooking against Charlie McAvoy
+256,penalty,Holding,Jeremy Lauzon,Leo Komarov,[71.  2.],3,01:13,BOS,NYI,NYI,2,BOS,6,0,4,8478468,8473463.0,2019020999,,2020-02-29,Jeremy Lauzon Holding against Leo Komarov
+14,penalty,Hooking,Kevin Shattenkirk,David Krejci,[-66.  -3.],1,17:25,TBL,BOS,TBL,14,BOS,6,0,0,8474031,8471276.0,2019021019,,2020-03-04,Kevin Shattenkirk Hooking against David Krejci
+62,penalty,Tripping,Brandon Carlo,Pat Maroon,[87. 32.],1,05:51,BOS,TBL,TBL,14,BOS,6,0,0,8478443,8474034.0,2019021019,,2020-03-04,Brandon Carlo Tripping against Pat Maroon
+115,penalty,Tripping,Yanni Gourde,Charlie Coyle,[-77. -35.],2,14:14,TBL,BOS,TBL,14,BOS,6,0,1,8476826,8475745.0,2019021019,,2020-03-04,Yanni Gourde Tripping against Charlie Coyle
+140,penalty,Slashing,Mikhail Sergachev,Jake DeBrusk,[ 93. -20.],2,07:06,TBL,BOS,TBL,14,BOS,6,0,2,8479410,8478498.0,2019021019,,2020-03-04,Mikhail Sergachev Slashing against Jake DeBrusk
+165,penalty,Fighting,Yanni Gourde,Joakim Nordstrom,[-70.  16.],2,00:04,TBL,BOS,TBL,14,BOS,6,1,2,8476826,8475807.0,2019021019,,2020-03-04,Yanni Gourde Fighting against Joakim Nordstrom
+166,penalty,Fighting,Joakim Nordstrom,Yanni Gourde,[-69.  22.],2,00:04,BOS,TBL,TBL,14,BOS,6,1,2,8475807,8476826.0,2019021019,,2020-03-04,Joakim Nordstrom Fighting against Yanni Gourde
+55,penalty,Tripping,Ondrej Kase,Jake DeBrusk,[-23.  41.],1,08:19,BOS,FLA,FLA,13,BOS,6,0,0,8478131,8478498.0,2019021035,,2020-03-06,Ondrej Kase Tripping against Evgenii Dadonov served by Jake DeBrusk
+66,penalty,Fighting,Riley Stillman,Nick Ritchie,[ 7. 24.],1,05:25,FLA,BOS,FLA,13,BOS,6,0,0,8479388,8477941.0,2019021035,,2020-03-06,Riley Stillman Fighting against Nick Ritchie
+68,penalty,Fighting,Nick Ritchie,Riley Stillman,[11. 22.],1,05:25,BOS,FLA,FLA,13,BOS,6,0,0,8477941,8479388.0,2019021035,,2020-03-06,Nick Ritchie Fighting against Riley Stillman
+87,penalty,Tripping,Mike Matheson,Jake DeBrusk,[33.  0.],1,00:59,FLA,BOS,FLA,13,BOS,6,0,0,8476875,8478498.0,2019021035,,2020-03-06,Mike Matheson Tripping against Jake DeBrusk
+141,penalty,Elbowing,Evgenii Dadonov,Brandon Carlo,[ 72. -38.],2,09:14,FLA,BOS,FLA,13,BOS,6,1,0,8474149,8478443.0,2019021035,,2020-03-06,Evgenii Dadonov Elbowing against Brandon Carlo
+147,penalty,Tripping,Aleksander Barkov,Jake DeBrusk,[46. 39.],2,08:12,FLA,BOS,FLA,13,BOS,6,1,1,8477493,8478498.0,2019021035,,2020-03-06,Aleksander Barkov Tripping against Jake DeBrusk
+164,penalty,Hooking,Brad Marchand,Mike Hoffman,[-64. -24.],2,04:54,BOS,FLA,FLA,13,BOS,6,1,1,8473419,8474884.0,2019021035,,2020-03-06,Brad Marchand Hooking against Mike Hoffman
+199,penalty,Slashing,Frank Vatrano,Jeremy Lauzon,[-83. -37.],3,17:56,FLA,BOS,FLA,13,BOS,6,1,1,8478366,8478468.0,2019021035,,2020-03-06,Frank Vatrano Slashing against Jeremy Lauzon
+204,penalty,Tripping,Charlie Coyle,Anton Stralman,[91. -4.],3,17:02,BOS,FLA,FLA,13,BOS,6,1,1,8475745,8471873.0,2019021035,,2020-03-06,Charlie Coyle Tripping against Anton Stralman
+211,penalty,Interference,Frank Vatrano,,[ 17. -39.],3,15:54,FLA,BOS,FLA,13,BOS,6,1,1,8478366,,2019021035,,2020-03-06,Frank Vatrano Interference
+216,penalty,Tripping,David Pastrnak,Aleksander Barkov,[-76.   6.],3,15:06,BOS,FLA,FLA,13,BOS,6,1,1,8477956,8477493.0,2019021035,,2020-03-06,David Pastrnak Tripping against Aleksander Barkov
+18,penalty,Elbowing,Barclay Goodrow,Ondrej Kase,[ 61. -35.],1,14:59,TBL,BOS,BOS,6,TBL,14,0,0,8476624,8478131.0,2019021053,,2020-03-08,Barclay Goodrow Elbowing against Ondrej Kase
+33,penalty,Unsportsmanlike conduct,Chris Wagner,Barclay Goodrow,[ 14. -20.],1,11:21,BOS,TBL,BOS,6,TBL,14,0,2,8475780,8476624.0,2019021053,,2020-03-08,Chris Wagner Unsportsmanlike conduct against Barclay Goodrow
+34,penalty,Unsportsmanlike conduct,Barclay Goodrow,Chris Wagner,[ 18. -20.],1,11:21,TBL,BOS,BOS,6,TBL,14,0,2,8476624,8475780.0,2019021053,,2020-03-08,Barclay Goodrow Unsportsmanlike conduct against Chris Wagner
+40,penalty,Fighting,Chris Wagner,Barclay Goodrow,[-33.  -3.],1,09:15,BOS,TBL,BOS,6,TBL,14,0,2,8475780,8476624.0,2019021053,,2020-03-08,Chris Wagner Fighting against Barclay Goodrow
+41,penalty,Fighting,Barclay Goodrow,Chris Wagner,[-36. -22.],1,09:15,TBL,BOS,BOS,6,TBL,14,0,2,8476624,8475780.0,2019021053,,2020-03-08,Barclay Goodrow Fighting against Chris Wagner
+49,penalty,Hooking,Braydon Coburn,Jake DeBrusk,[79.  2.],1,07:40,TBL,BOS,BOS,6,TBL,14,0,2,8470601,8478498.0,2019021053,,2020-03-08,Braydon Coburn Hooking against Jake DeBrusk
+77,penalty,Interference,Jeremy Lauzon,Yanni Gourde,[-72.  15.],1,00:46,BOS,TBL,BOS,6,TBL,14,0,2,8478468,8476826.0,2019021053,,2020-03-08,Jeremy Lauzon Interference against Yanni Gourde
+139,penalty,Roughing,Anthony Cirelli,Brad Marchand,[-82. -20.],2,05:47,TBL,BOS,BOS,6,TBL,14,0,3,8478519,8473419.0,2019021053,,2020-03-08,Anthony Cirelli Roughing against Brad Marchand
+140,penalty,Roughing,Brad Marchand,Anthony Cirelli,[-82. -25.],2,05:47,BOS,TBL,BOS,6,TBL,14,0,3,8473419,8478519.0,2019021053,,2020-03-08,Brad Marchand Roughing against Anthony Cirelli
+166,penalty,Fighting,Pat Maroon,Zdeno Chara,[15. 28.],2,01:23,TBL,BOS,BOS,6,TBL,14,2,3,8474034,8465009.0,2019021053,,2020-03-08,Pat Maroon Fighting against Zdeno Chara
+167,penalty,Misconduct,Erik Cernak,Sean Kuraly,[17. 23.],2,01:23,TBL,BOS,BOS,6,TBL,14,2,3,8478416,8476374.0,2019021053,,2020-03-08,Erik Cernak Misconduct against Sean Kuraly
+168,penalty,Game Misconduct - Team staff,Ondrej Palat,,[18. 36.],2,01:23,TBL,BOS,BOS,6,TBL,14,2,3,8476292,,2019021053,,2020-03-08,Game Misconduct - Team staff served by Ondrej Palat
+169,penalty,Fighting,Zdeno Chara,Pat Maroon,[16. 29.],2,01:23,BOS,TBL,BOS,6,TBL,14,2,3,8465009,8474034.0,2019021053,,2020-03-08,Zdeno Chara Fighting against Pat Maroon
+170,penalty,Misconduct,Sean Kuraly,Erik Cernak,[46. 29.],2,01:23,BOS,TBL,BOS,6,TBL,14,2,3,8476374,8478416.0,2019021053,,2020-03-08,Sean Kuraly Misconduct against Erik Cernak
+171,penalty,Delay of game,Ondrej Palat,,[19. 36.],2,01:23,TBL,BOS,BOS,6,TBL,14,2,3,8476292,,2019021053,,2020-03-08,Delay of Game - Bench served by Ondrej Palat
+180,penalty,Slashing,Brad Marchand,Blake Coleman,[15. 34.],2,00:00,BOS,TBL,BOS,6,TBL,14,2,3,8473419,8476399.0,2019021053,,2020-03-08,Brad Marchand Slashing against Blake Coleman
+181,penalty,Misconduct,Blake Coleman,Brad Marchand,[20. 32.],2,00:00,TBL,BOS,BOS,6,TBL,14,2,3,8476399,8473419.0,2019021053,,2020-03-08,Blake Coleman Misconduct against Brad Marchand
+182,penalty,Misconduct,Nick Ritchie,Blake Coleman,[38. 37.],2,00:00,BOS,TBL,BOS,6,TBL,14,2,3,8477941,8476399.0,2019021053,,2020-03-08,Nick Ritchie Misconduct against Blake Coleman
+212,penalty,Cross checking,Nikita Kucherov,Matt Grzelcyk,[-74. -31.],3,14:12,TBL,BOS,BOS,6,TBL,14,2,4,8476453,8476891.0,2019021053,,2020-03-08,Nikita Kucherov Cross checking against Matt Grzelcyk
+233,penalty,Roughing,Barclay Goodrow,Patrice Bergeron,[-63. -30.],3,11:17,TBL,BOS,BOS,6,TBL,14,3,4,8476624,8470638.0,2019021053,,2020-03-08,Barclay Goodrow Roughing against Patrice Bergeron
+235,penalty,Delaying Game - Puck over glass,Patrice Bergeron,,[-78. -31.],3,11:17,BOS,TBL,BOS,6,TBL,14,3,4,8470638,,2019021053,,2020-03-08,Patrice Bergeron Delaying Game - Puck over glass
+236,penalty,Roughing,Patrice Bergeron,Barclay Goodrow,[-38.  33.],3,11:17,BOS,TBL,BOS,6,TBL,14,3,4,8470638,8476624.0,2019021053,,2020-03-08,Patrice Bergeron Roughing against Barclay Goodrow
+237,penalty,Roughing,Torey Krug,Mitchell Stephens,[-57. -27.],3,11:17,BOS,TBL,BOS,6,TBL,14,3,4,8476792,8478477.0,2019021053,,2020-03-08,Torey Krug Roughing against Mitchell Stephens
+238,penalty,Roughing,Mitchell Stephens,Torey Krug,[-71. -28.],3,11:17,TBL,BOS,BOS,6,TBL,14,3,4,8478477,8476792.0,2019021053,,2020-03-08,Mitchell Stephens Roughing against Torey Krug
+250,penalty,Hooking,Tyler Johnson,Ondrej Kase,[53.  3.],3,06:50,TBL,BOS,BOS,6,TBL,14,3,4,8474870,8478131.0,2019021053,,2020-03-08,Tyler Johnson Hooking against Ondrej Kase
+251,penalty,Embellishment,Ondrej Kase,Tyler Johnson,[ 42. -21.],3,06:50,BOS,TBL,BOS,6,TBL,14,3,4,8478131,8474870.0,2019021053,,2020-03-08,Ondrej Kase Embellishment against Tyler Johnson
+26,penalty,Tripping,Chris Wagner,Shayne Gostisbehere,[-57. -23.],1,13:40,BOS,PHI,PHI,4,BOS,6,0,0,8475780,8476906.0,2019021073,,2020-03-11,Chris Wagner Tripping against Shayne Gostisbehere
+67,penalty,Holding,Brad Marchand,Jakub Voracek,[23. 19.],1,03:54,BOS,PHI,PHI,4,BOS,6,0,0,8473419,8474161.0,2019021073,,2020-03-11,Brad Marchand Holding against Jakub Voracek
+82,penalty,Hi-sticking,Ivan Provorov,Ondrej Kase,[-28. -38.],1,00:10,PHI,BOS,PHI,4,BOS,6,0,0,8478500,8478131.0,2019021073,,2020-03-11,Ivan Provorov Hi-sticking against Ondrej Kase
+135,penalty,Holding,Brad Marchand,Sean Couturier,[20. 21.],2,05:48,BOS,PHI,PHI,4,BOS,6,0,0,8473419,8476461.0,2019021073,,2020-03-11,Brad Marchand Holding against Sean Couturier
+145,penalty,Interference,Justin Braun,Patrice Bergeron,[-76.   5.],2,03:05,PHI,BOS,PHI,4,BOS,6,0,0,8474027,8470638.0,2019021073,,2020-03-11,Justin Braun Interference against Patrice Bergeron
+219,penalty,Hi-sticking,Scott Laughton,David Pastrnak,[-87. -21.],3,05:00,PHI,BOS,PHI,4,BOS,6,0,2,8476872,8477956.0,2019021073,,2020-03-11,Scott Laughton Hi-sticking against David Pastrnak
+16,penalty,Holding,Alexander Radulov,Par Lindholm,[-78. -25.],1,15:37,DAL,BOS,DAL,25,BOS,6,0,1,8471228,8480944.0,2019020010,,2019-10-08,Alexander Radulov Holding against Par Lindholm
+70,penalty,Hi-sticking,Radek Faksa,Sean Kuraly,[ 59. -39.],1,02:27,DAL,BOS,DAL,25,BOS,6,0,2,8476889,8476374.0,2019020010,,2019-10-08,Radek Faksa Hi-sticking against Sean Kuraly
+113,penalty,Tripping,Alexander Radulov,Par Lindholm,[53.  8.],2,10:30,DAL,BOS,DAL,25,BOS,6,1,2,8471228,8480944.0,2019020010,,2019-10-08,Alexander Radulov Tripping against Par Lindholm
+137,penalty,Interference,Mattias Janmark,Charlie McAvoy,[-40. -39.],2,04:00,DAL,BOS,DAL,25,BOS,6,1,2,8477406,8479325.0,2019020010,,2019-10-08,Mattias Janmark Interference against Charlie McAvoy
+142,penalty,Interference,Charlie McAvoy,Tyler Seguin,[60. -7.],2,02:48,BOS,DAL,DAL,25,BOS,6,1,2,8479325,8475794.0,2019020010,,2019-10-08,Charlie McAvoy Interference against Tyler Seguin
+159,penalty,Interference,Zdeno Chara,Andrew Cogliano,[-72.  37.],3,19:15,BOS,DAL,DAL,25,BOS,6,1,2,8465009,8471699.0,2019020010,,2019-10-08,Zdeno Chara Interference against Andrew Cogliano
+69,penalty,Interference,Charlie McAvoy,Lawson Crouse,[15. 39.],1,06:59,BOS,ARI,ARI,53,BOS,6,0,0,8479325,8478474.0,2019020027,,2019-10-06,Charlie McAvoy Interference against Lawson Crouse
+146,penalty,Roughing,Connor Clifton,Lawson Crouse,[-85. -23.],2,08:55,BOS,ARI,ARI,53,BOS,6,0,1,8477365,8478474.0,2019020027,,2019-10-06,Connor Clifton Roughing against Lawson Crouse
+147,penalty,Roughing,Lawson Crouse,Connor Clifton,[-75. -19.],2,08:55,ARI,BOS,ARI,53,BOS,6,0,1,8478474,8477365.0,2019020027,,2019-10-06,Lawson Crouse Roughing against Connor Clifton
+173,penalty,Hi-sticking,Christian Fischer,Connor Clifton,[-96.  -6.],2,02:01,ARI,BOS,ARI,53,BOS,6,0,1,8478432,8477365.0,2019020027,,2019-10-06,Christian Fischer Hi-sticking against Connor Clifton
+176,penalty,Interference,David Pastrnak,Michael Grabner,[-33.   4.],2,01:53,BOS,ARI,ARI,53,BOS,6,0,1,8477956,8473546.0,2019020027,,2019-10-06,David Pastrnak Interference against Michael Grabner
+186,penalty,Interference,Karson Kuhlman,Lawson Crouse,[-68.  20.],3,19:12,BOS,ARI,ARI,53,BOS,6,0,1,8480901,8478474.0,2019020027,,2019-10-06,Karson Kuhlman Interference against Lawson Crouse
+195,penalty,Slashing,Jordan Oesterle,Chris Wagner,[-66.   2.],3,16:36,ARI,BOS,ARI,53,BOS,6,0,1,8477851,8475780.0,2019020027,,2019-10-06,Jordan Oesterle Slashing against Chris Wagner
+25,penalty,Interference - Goalkeeper,Brett Ritchie,Marc-Andre Fleury,[80.  0.],1,14:45,BOS,VGK,VGK,54,BOS,6,0,0,8476439,8470594.0,2019020043,,2019-10-10,Brett Ritchie Interference - Goalkeeper against Marc-Andre Fleury
+90,penalty,Slashing,Brandon Pirri,Danton Heinen,[72.  3.],1,02:22,VGK,BOS,VGK,54,BOS,6,2,1,8475204,8478046.0,2019020043,,2019-10-10,Brandon Pirri Slashing against Danton Heinen
+129,penalty,Interference,David Backes,Brayden McNabb,[-46.  40.],2,16:42,BOS,VGK,VGK,54,BOS,6,2,4,8470655,8475188.0,2019020043,,2019-10-10,David Backes Interference against Brayden McNabb
+218,penalty,Hooking,Nicolas Hague,Danton Heinen,[96. 14.],3,18:00,VGK,BOS,VGK,54,BOS,6,2,4,8479980,8478046.0,2019020043,,2019-10-10,Nicolas Hague Hooking against Danton Heinen
+246,penalty,Holding,Brayden McNabb,David Pastrnak,[ 34. -37.],3,10:26,VGK,BOS,VGK,54,BOS,6,2,4,8475188,8477956.0,2019020043,,2019-10-10,Brayden McNabb Holding against David Pastrnak
+269,penalty,Cross checking,Brad Marchand,Brayden McNabb,[65.  1.],3,05:38,BOS,VGK,VGK,54,BOS,6,2,4,8473419,8475188.0,2019020043,,2019-10-10,Brad Marchand Cross checking against Brayden McNabb
+88,penalty,Too many men on the ice,Danton Heinen,,[-15.  38.],1,01:32,BOS,COL,COL,21,BOS,6,0,2,8478046,,2019020056,,2019-10-11,Too many men/ice served by Danton Heinen
+128,penalty,Tripping,David Backes,Tyson Jost,[ 76. -28.],2,13:41,BOS,COL,COL,21,BOS,6,1,2,8470655,8479370.0,2019020056,,2019-10-11,David Backes Tripping against Tyson Jost
+177,penalty,Interference,Nikita Zadorov,Jake DeBrusk,[-83. -34.],2,00:19,COL,BOS,COL,21,BOS,6,2,2,8477507,8478498.0,2019020056,,2019-10-11,Nikita Zadorov Interference against Jake DeBrusk
+68,penalty,Hooking,Sean Kuraly,Travis Zajac,[-66. -19.],1,04:36,BOS,NJD,BOS,6,NJD,1,2,0,8476374,8471233.0,2019020064,,2019-10-13,Sean Kuraly Hooking against Travis Zajac
+81,penalty,Interference,Mirco Mueller,Charlie Coyle,[ 69. -22.],1,00:17,NJD,BOS,BOS,6,NJD,1,2,0,8477509,8475745.0,2019020064,,2019-10-13,Mirco Mueller Interference against Charlie Coyle
+109,penalty,Tripping,Connor Carrick,Karson Kuhlman,[-64.  13.],2,13:48,NJD,BOS,BOS,6,NJD,1,2,0,8476941,8480901.0,2019020064,,2019-10-13,Connor Carrick Tripping against Karson Kuhlman
+123,penalty,Hooking,Brandon Carlo,Jack Hughes,[66.  9.],2,10:41,BOS,NJD,BOS,6,NJD,1,2,0,8478443,8481559.0,2019020064,,2019-10-13,Brandon Carlo Hooking against Jack Hughes
+144,penalty,Face-off violation,David Pastrnak,,[65. 23.],2,06:08,BOS,NJD,BOS,6,NJD,1,2,0,8477956,,2019020064,,2019-10-13,Delay Game - Bench – FO viol served by David Pastrnak
+163,penalty,Tripping,Kyle Palmieri,Charlie McAvoy,[43. 21.],2,01:01,NJD,BOS,BOS,6,NJD,1,2,0,8475151,8479325.0,2019020064,,2019-10-13,Kyle Palmieri Tripping against Charlie McAvoy
+207,penalty,Holding,Zdeno Chara,Nico Hischier,[-53.  35.],3,08:45,BOS,NJD,BOS,6,NJD,1,3,0,8465009,8480002.0,2019020064,,2019-10-13,Zdeno Chara Holding against Nico Hischier
+20,penalty,Slashing,Michael Del Zotto,Charlie Coyle,[78. 15.],1,15:50,ANA,BOS,BOS,6,ANA,24,0,0,8474584,8475745.0,2019020078,,2019-10-14,Michael Del Zotto Slashing against Charlie Coyle
+75,penalty,Slashing,Patrice Bergeron,Ondrej Kase,[-17.  17.],1,02:44,BOS,ANA,BOS,6,ANA,24,1,0,8470638,8478131.0,2019020078,,2019-10-14,Patrice Bergeron Slashing against Ondrej Kase
+111,penalty,Tripping,David Pastrnak,Max Comtois,[ 51. -10.],2,15:20,BOS,ANA,BOS,6,ANA,24,1,0,8477956,8480031.0,2019020078,,2019-10-14,David Pastrnak Tripping against Max Comtois
+128,penalty,Hooking,Steven Kampfer,Max Jones,[79. -7.],2,10:32,BOS,ANA,BOS,6,ANA,24,1,0,8474000,8479368.0,2019020078,,2019-10-14,Steven Kampfer Hooking against Max Jones
+140,penalty,Holding,Sam Steel,Joakim Nordstrom,[-58. -14.],2,07:10,ANA,BOS,BOS,6,ANA,24,2,0,8479351,8475807.0,2019020078,,2019-10-14,Sam Steel Holding against Joakim Nordstrom
+162,penalty,Delaying Game - Puck over glass,Charlie McAvoy,,[92. 13.],2,01:07,BOS,ANA,BOS,6,ANA,24,2,1,8479325,,2019020078,,2019-10-14,Charlie McAvoy Delaying Game - Puck over glass
+185,penalty,Holding,Max Comtois,Charlie Coyle,[-67.   5.],3,16:23,ANA,BOS,BOS,6,ANA,24,3,1,8480031,8475745.0,2019020078,,2019-10-14,Max Comtois Holding against Charlie Coyle
+252,penalty,Roughing,Ryan Getzlaf,Chris Wagner,[-65.  10.],3,00:19,ANA,BOS,BOS,6,ANA,24,4,2,8470612,8475780.0,2019020078,,2019-10-14,Ryan Getzlaf Roughing against Chris Wagner
+253,penalty,Roughing,Chris Wagner,Ryan Getzlaf,[-70.   4.],3,00:19,BOS,ANA,BOS,6,ANA,24,4,2,8475780,8470612.0,2019020078,,2019-10-14,Chris Wagner Roughing against Ryan Getzlaf
+52,penalty,Holding,Mikhail Sergachev,Brett Ritchie,[76.  0.],1,10:33,TBL,BOS,BOS,6,TBL,14,0,0,8479410,8476439.0,2019020098,,2019-10-18,Mikhail Sergachev Holding against Brett Ritchie
+57,penalty,Hooking,Sean Kuraly,Nikita Kucherov,[64. -2.],1,08:56,BOS,TBL,BOS,6,TBL,14,1,0,8476374,8476453.0,2019020098,,2019-10-18,Sean Kuraly Hooking against Nikita Kucherov
+77,penalty,Slashing,Patrice Bergeron,Ondrej Palat,[-62. -20.],1,03:51,BOS,TBL,BOS,6,TBL,14,1,0,8470638,8476292.0,2019020098,,2019-10-18,Patrice Bergeron Slashing against Ondrej Palat
+102,penalty,Tripping,Carter Verhaeghe,Patrice Bergeron,[-80. -36.],2,17:45,TBL,BOS,BOS,6,TBL,14,1,1,8477409,8470638.0,2019020098,,2019-10-18,Carter Verhaeghe Tripping against Patrice Bergeron
+120,penalty,Interference,Yanni Gourde,Patrice Bergeron,[-76.   0.],2,13:37,TBL,BOS,BOS,6,TBL,14,1,1,8476826,8470638.0,2019020098,,2019-10-18,Yanni Gourde Interference against Patrice Bergeron
+171,penalty,Interference,Erik Cernak,Karson Kuhlman,[-64. -36.],2,02:04,TBL,BOS,BOS,6,TBL,14,2,2,8478416,8480901.0,2019020098,,2019-10-18,Erik Cernak Interference against Karson Kuhlman
+215,penalty,Hooking,Matt Grzelcyk,Pat Maroon,[-85. -32.],3,11:35,BOS,TBL,BOS,6,TBL,14,2,2,8476891,8474034.0,2019020098,,2019-10-18,Matt Grzelcyk Hooking against Pat Maroon
+247,penalty,Tripping,Anthony Cirelli,David Pastrnak,[70. 13.],3,03:52,TBL,BOS,BOS,6,TBL,14,2,3,8478519,8477956.0,2019020098,,2019-10-18,Anthony Cirelli Tripping against David Pastrnak
+283,penalty,Holding,Brad Marchand,Brayden Point,[73. 28.],4,00:00,BOS,TBL,BOS,6,TBL,14,3,3,8473419,8478010.0,2019020098,,2019-10-18,Brad Marchand Holding against Brayden Point
+104,penalty,Holding,Ilya Mikheyev,Brandon Carlo,[ 97. -22.],2,18:04,TOR,BOS,TOR,10,BOS,6,2,1,8481624,8478443.0,2019020115,BOS,2019-10-20,Ilya Mikheyev Holding against Brandon Carlo
+133,penalty,Tripping,Nicholas Shore,Par Lindholm,[-39.   5.],2,12:08,TOR,BOS,TOR,10,BOS,6,2,1,8476406,8480944.0,2019020115,BOS,2019-10-20,Nicholas Shore Tripping against Par Lindholm
+169,penalty,Interference - Goalkeeper,David Backes,Frederik Andersen,[-97. -15.],2,03:19,BOS,TOR,TOR,10,BOS,6,2,1,8470655,8475883.0,2019020115,BOS,2019-10-20,David Backes Interference - Goalkeeper against Frederik Andersen
+170,penalty,Roughing,Martin Marincin,David Backes,[-87.  -8.],2,03:19,TOR,BOS,TOR,10,BOS,6,2,1,8475716,8470655.0,2019020115,BOS,2019-10-20,Martin Marincin Roughing against David Backes
+188,penalty,Hooking,Martin Marincin,Jake DeBrusk,[-77.  -3.],2,00:23,TOR,BOS,TOR,10,BOS,6,2,1,8475716,8478498.0,2019020115,BOS,2019-10-20,Martin Marincin Hooking against Jake DeBrusk
+18,penalty,Interference,Torey Krug,Frederik Gauthier,[-80.  23.],1,15:57,BOS,TOR,BOS,6,TOR,10,0,0,8476792,8477512.0,2019020133,,2019-10-23,Torey Krug Interference against Frederik Gauthier
+68,penalty,Hooking,Andreas Johnsson,Sean Kuraly,[-93. -19.],1,03:34,TOR,BOS,BOS,6,TOR,10,0,0,8477341,8476374.0,2019020133,,2019-10-23,Andreas Johnsson Hooking against Sean Kuraly
+73,penalty,Roughing,Andreas Johnsson,Chris Wagner,[-1. 16.],1,02:42,TOR,BOS,BOS,6,TOR,10,1,0,8477341,8475780.0,2019020133,,2019-10-23,Andreas Johnsson Roughing against Chris Wagner
+93,penalty,Tripping,Jake Muzzin,Jake DeBrusk,[-44.  23.],2,18:42,TOR,BOS,BOS,6,TOR,10,1,0,8474162,8478498.0,2019020133,,2019-10-23,Jake Muzzin Tripping against Jake DeBrusk
+138,penalty,Tripping,Zdeno Chara,Frederik Gauthier,[ 47. -29.],2,08:20,BOS,TOR,BOS,6,TOR,10,2,1,8465009,8477512.0,2019020133,,2019-10-23,Zdeno Chara Tripping against Frederik Gauthier
+156,penalty,Tripping,Morgan Rielly,Sean Kuraly,[-80.   0.],2,04:06,TOR,BOS,BOS,6,TOR,10,2,2,8476853,8476374.0,2019020133,,2019-10-23,Morgan Rielly Tripping against Sean Kuraly
+241,penalty,Hi-sticking,Sean Kuraly,Andreas Johnsson,[-54.  27.],3,04:12,BOS,TOR,BOS,6,TOR,10,3,2,8476374,8477341.0,2019020133,,2019-10-23,Sean Kuraly Hi-sticking against Andreas Johnsson
+254,penalty,Unsportsmanlike conduct,Brad Marchand,,[-9. 19.],3,01:55,BOS,TOR,BOS,6,TOR,10,4,2,8473419,,2019020133,,2019-10-23,Brad Marchand Unsportsmanlike conduct
+7,penalty,Roughing,Brayden Schenn,Zdeno Chara,[30. 39.],1,19:22,STL,BOS,BOS,6,STL,19,0,0,8475170,8465009.0,2019020162,,2019-10-27,Brayden Schenn Roughing against Zdeno Chara
+8,penalty,Roughing,Zdeno Chara,Brayden Schenn,[23. 41.],1,19:22,BOS,STL,BOS,6,STL,19,0,0,8465009,8475170.0,2019020162,,2019-10-27,Zdeno Chara Roughing against Brayden Schenn
+24,penalty,Holding the stick,Torey Krug,David Perron,[37. 32.],1,13:47,BOS,STL,BOS,6,STL,19,0,0,8476792,8474102.0,2019020162,,2019-10-27,Torey Krug Holding the stick against David Perron
+25,penalty,Roughing,David Perron,Torey Krug,[35. 38.],1,13:47,STL,BOS,BOS,6,STL,19,0,0,8474102,8476792.0,2019020162,,2019-10-27,David Perron Roughing against Torey Krug
+66,penalty,Holding,David Perron,Charlie Coyle,[64. 10.],1,05:52,STL,BOS,BOS,6,STL,19,0,0,8474102,8475745.0,2019020162,,2019-10-27,David Perron Holding against Charlie Coyle
+73,penalty,Cross checking,Sean Kuraly,Vince Dunn,[-69. -11.],1,04:11,BOS,STL,BOS,6,STL,19,1,0,8476374,8478407.0,2019020162,,2019-10-27,Sean Kuraly Cross checking against Vince Dunn
+85,penalty,Tripping,Oskar Sundqvist,Connor Clifton,[-93. -22.],1,01:48,STL,BOS,BOS,6,STL,19,1,0,8476897,8477365.0,2019020162,,2019-10-27,Oskar Sundqvist Tripping against Connor Clifton
+131,penalty,Hooking,Torey Krug,David Perron,[85. 21.],2,10:18,BOS,STL,BOS,6,STL,19,2,0,8476792,8474102.0,2019020162,,2019-10-27,Torey Krug Hooking against David Perron
+139,penalty,Boarding,Oskar Sundqvist,Charlie McAvoy,[ 87. -33.],2,07:54,STL,BOS,BOS,6,STL,19,2,0,8476897,8479325.0,2019020162,,2019-10-27,Oskar Sundqvist Boarding against Charlie McAvoy
+167,penalty,Interference,Matt Grzelcyk,Alexander Steen,[ 43. -36.],2,00:43,BOS,STL,BOS,6,STL,19,2,0,8476891,8470257.0,2019020162,,2019-10-27,Matt Grzelcyk Interference against Alexander Steen
+181,penalty,Hooking,Colton Parayko,Anders Bjork,[ 84. -15.],3,15:58,STL,BOS,BOS,6,STL,19,2,0,8476892,8478075.0,2019020162,,2019-10-27,Colton Parayko Hooking against Anders Bjork
+196,penalty,Holding,Torey Krug,Ryan O'Reilly,[-92. -22.],3,11:38,BOS,STL,BOS,6,STL,19,2,0,8476792,8475158.0,2019020162,,2019-10-27,Torey Krug Holding against Ryan O'Reilly
+3,penalty,Tripping,Brady Skjei,Patrice Bergeron,[72. 40.],1,19:25,NYR,BOS,NYR,3,BOS,6,0,0,8476869,8470638.0,2019020174,,2019-10-28,Brady Skjei Tripping against Patrice Bergeron
+15,penalty,Hooking,Peter Cehlarik,Libor Hajek,[97.  6.],1,17:05,BOS,NYR,NYR,3,BOS,6,0,0,8477417,8479333.0,2019020174,,2019-10-28,Peter Cehlarik Hooking against Libor Hajek
+51,penalty,Hi-sticking,Brad Marchand,Jacob Trouba,[17. 38.],1,07:43,BOS,NYR,NYR,3,BOS,6,1,0,8473419,8476885.0,2019020174,,2019-10-28,Brad Marchand Hi-sticking against Jacob Trouba
+101,penalty,Hi-sticking,Kaapo Kakko,Charlie McAvoy,[ 35. -38.],2,18:24,NYR,BOS,NYR,3,BOS,6,1,2,8481554,8479325.0,2019020174,,2019-10-28,Kaapo Kakko Hi-sticking against Charlie McAvoy
+141,penalty,Roughing,Brad Marchand,Ryan Strome,[-96.   7.],2,09:59,BOS,NYR,NYR,3,BOS,6,1,3,8473419,8476458.0,2019020174,,2019-10-28,Brad Marchand Roughing against Ryan Strome
+142,penalty,Roughing,Henrik Lundqvist,Pavel Buchnevich,[-97.   1.],2,09:59,NYR,BOS,NYR,3,BOS,6,1,3,8468685,8477402.0,2019020174,,2019-10-28,Henrik Lundqvist Roughing against David Pastrnak served by Pavel Buchnevich
+158,penalty,Tripping,Zdeno Chara,Brendan Lemieux,[96. -5.],2,07:24,BOS,NYR,NYR,3,BOS,6,1,4,8465009,8477962.0,2019020174,,2019-10-28,Zdeno Chara Tripping against Brendan Lemieux
+215,penalty,Tripping,David Pastrnak,Pavel Buchnevich,[31. 30.],3,15:42,BOS,NYR,NYR,3,BOS,6,1,5,8477956,8477402.0,2019020174,,2019-10-28,David Pastrnak Tripping against Pavel Buchnevich
+266,penalty,Closing hand on puck,Zdeno Chara,,[-21. -17.],3,02:08,BOS,NYR,NYR,3,BOS,6,2,6,8465009,,2019020174,,2019-10-28,Zdeno Chara Closing hand on puck
+24,penalty,Tripping,Barclay Goodrow,Brad Marchand,[32. 15.],1,13:45,SJS,BOS,BOS,6,SJS,28,0,0,8476624,8473419.0,2019020179,SJS,2019-10-30,Barclay Goodrow Tripping against Brad Marchand
+32,penalty,Delay of game,Lukas Radil,,[ 37. -17.],1,12:11,SJS,BOS,BOS,6,SJS,28,1,0,8480780,,2019020179,SJS,2019-10-30,Delay of Game - Bench served by Lukas Radil
+38,penalty,Holding,Matt Grzelcyk,Logan Couture,[-15.  17.],1,10:40,BOS,SJS,BOS,6,SJS,28,1,0,8476891,8474053.0,2019020179,SJS,2019-10-30,Matt Grzelcyk Holding against Logan Couture
+72,penalty,Hi-sticking,Tomas Hertl,Charlie McAvoy,[-79. -26.],1,03:35,SJS,BOS,BOS,6,SJS,28,1,0,8476881,8479325.0,2019020179,SJS,2019-10-30,Tomas Hertl Hi-sticking against Charlie McAvoy
+87,penalty,Hooking,David Krejci,Erik Karlsson,[ 9. 10.],2,19:08,BOS,SJS,BOS,6,SJS,28,2,0,8471276,8474578.0,2019020179,SJS,2019-10-30,David Krejci Hooking against Erik Karlsson
+103,penalty,Tripping,Tomas Hertl,David Pastrnak,[-80.   5.],2,16:51,SJS,BOS,BOS,6,SJS,28,2,1,8476881,8477956.0,2019020179,SJS,2019-10-30,Tomas Hertl Tripping against David Pastrnak
+135,penalty,Tripping,Lukas Radil,Matt Grzelcyk,[ 72. -28.],2,10:24,SJS,BOS,BOS,6,SJS,28,4,1,8480780,8476891.0,2019020179,SJS,2019-10-30,Lukas Radil Tripping against Matt Grzelcyk
+179,penalty,Hi-sticking,Evander Kane,Charlie McAvoy,[-45. -21.],3,18:52,SJS,BOS,BOS,6,SJS,28,5,1,8475169,8479325.0,2019020179,SJS,2019-10-30,Evander Kane Hi-sticking against Charlie McAvoy
+180,penalty,Roughing,Brenden Dillon,Zdeno Chara,[-78. -31.],3,18:52,SJS,BOS,BOS,6,SJS,28,5,1,8475455,8465009.0,2019020179,SJS,2019-10-30,Brenden Dillon Roughing against Zdeno Chara
+181,penalty,Roughing,Zdeno Chara,Brenden Dillon,[-62. -35.],3,18:52,BOS,SJS,BOS,6,SJS,28,5,1,8465009,8475455.0,2019020179,SJS,2019-10-30,Zdeno Chara Roughing against Brenden Dillon
+198,penalty,Hi-sticking,Lukas Radil,Charlie McAvoy,[-94. -25.],3,14:16,SJS,BOS,BOS,6,SJS,28,5,1,8480780,8479325.0,2019020179,SJS,2019-10-30,Lukas Radil Hi-sticking against Charlie McAvoy
+200,penalty,Tripping,Jake DeBrusk,Marc-Edouard Vlasic,[-47.  30.],3,13:58,BOS,SJS,BOS,6,SJS,28,5,1,8478498,8471709.0,2019020179,SJS,2019-10-30,Jake DeBrusk Tripping against Marc-Edouard Vlasic
+217,penalty,Game Misconduct - Head coach,Erik Karlsson,,[55. 12.],3,07:50,SJS,BOS,BOS,6,SJS,28,5,1,8474578,,2019020179,SJS,2019-10-30,Erik Karlsson Game Misconduct - Head coach
+219,penalty,Fighting,Barclay Goodrow,Brett Ritchie,[ 33. -25.],3,07:21,SJS,BOS,BOS,6,SJS,28,5,1,8476624,8476439.0,2019020179,SJS,2019-10-30,Barclay Goodrow Fighting against Brett Ritchie
+220,penalty,Fighting,Brett Ritchie,Barclay Goodrow,[ 17. -33.],3,07:21,BOS,SJS,BOS,6,SJS,28,5,1,8476439,8476624.0,2019020179,SJS,2019-10-30,Brett Ritchie Fighting against Barclay Goodrow
+221,penalty,Misconduct,Brett Ritchie,Barclay Goodrow,[ 10. -33.],3,07:21,BOS,SJS,BOS,6,SJS,28,5,1,8476439,8476624.0,2019020179,SJS,2019-10-30,Brett Ritchie Misconduct against Barclay Goodrow
+222,penalty,Misconduct,Barclay Goodrow,Brett Ritchie,[ 14. -30.],3,07:21,SJS,BOS,BOS,6,SJS,28,5,1,8476624,8476439.0,2019020179,SJS,2019-10-30,Barclay Goodrow Misconduct against Brett Ritchie
+227,penalty,Roughing,Brad Marchand,Logan Couture,[ 89. -16.],3,06:35,BOS,SJS,BOS,6,SJS,28,5,1,8473419,8474053.0,2019020179,SJS,2019-10-30,Brad Marchand Roughing against Logan Couture
+229,penalty,Roughing,Logan Couture,Brad Marchand,[ 78. -18.],3,06:35,SJS,BOS,BOS,6,SJS,28,5,1,8474053,8473419.0,2019020179,SJS,2019-10-30,Logan Couture Roughing against Brad Marchand
+230,penalty,Misconduct,Logan Couture,Brad Marchand,[ 78. -20.],3,06:35,SJS,BOS,BOS,6,SJS,28,5,1,8474053,8473419.0,2019020179,SJS,2019-10-30,Logan Couture Misconduct against Brad Marchand
+231,penalty,Misconduct,Brad Marchand,Logan Couture,[ 71. -20.],3,06:35,BOS,SJS,BOS,6,SJS,28,5,1,8473419,8474053.0,2019020179,SJS,2019-10-30,Brad Marchand Misconduct against Logan Couture
+235,penalty,Roughing,Lukas Radil,David Backes,[-18. -32.],3,04:18,SJS,BOS,BOS,6,SJS,28,5,1,8480780,8470655.0,2019020179,SJS,2019-10-30,Lukas Radil Roughing against David Backes
+236,penalty,Misconduct,Evander Kane,,[-62. -21.],3,04:18,SJS,BOS,BOS,6,SJS,28,5,1,8475169,,2019020179,SJS,2019-10-30,Evander Kane Misconduct
+237,penalty,Misconduct,David Backes,,[-45. -17.],3,04:18,BOS,SJS,BOS,6,SJS,28,5,1,8470655,,2019020179,SJS,2019-10-30,David Backes Misconduct
+248,penalty,Interference,Timo Meier,Matt Grzelcyk,[-91. -23.],3,00:17,SJS,BOS,BOS,6,SJS,28,5,1,8478414,8476891.0,2019020179,SJS,2019-10-30,Timo Meier Interference against Matt Grzelcyk
+249,penalty,Roughing,Matt Grzelcyk,Timo Meier,[-84. -22.],3,00:17,BOS,SJS,BOS,6,SJS,28,5,1,8476891,8478414.0,2019020179,SJS,2019-10-30,Matt Grzelcyk Roughing against Timo Meier
+7,penalty,Too many men on the ice,Brady Tkachuk,,[49. 30.],1,19:14,OTT,BOS,BOS,6,OTT,9,0,0,8480801,,2019020206,,2019-11-06,Too many men/ice served by Brady Tkachuk
+37,penalty,Interference,Charlie Coyle,Nick Paul,[-66.   9.],1,12:20,BOS,OTT,BOS,6,OTT,9,1,0,8475745,8477426.0,2019020206,,2019-11-06,Charlie Coyle Interference against Nick Paul
+108,penalty,Too many men on the ice,Peter Cehlarik,,[12. 18.],2,14:57,BOS,OTT,BOS,6,OTT,9,2,2,8477417,,2019020206,,2019-11-06,Too many men/ice served by Peter Cehlarik
+114,penalty,Hooking,Brad Marchand,Nick Paul,[94.  9.],2,13:52,BOS,OTT,BOS,6,OTT,9,2,2,8473419,8477426.0,2019020206,,2019-11-06,Brad Marchand Hooking against Nick Paul
+115,penalty,Spearing - double minor,Brad Marchand,Dylan DeMelo,[88. 17.],2,13:52,BOS,OTT,BOS,6,OTT,9,2,2,8473419,8476331.0,2019020206,,2019-11-06,Brad Marchand Spearing - double minor against Dylan DeMelo
+148,penalty,Slashing,Mark Borowiecki,David Pastrnak,[-41.  27.],2,06:07,OTT,BOS,BOS,6,OTT,9,2,2,8474697,8477956.0,2019020206,,2019-11-06,Mark Borowiecki Slashing against David Pastrnak
+157,penalty,Tripping,Mark Borowiecki,Brad Marchand,[-56.  28.],2,02:40,OTT,BOS,BOS,6,OTT,9,2,2,8474697,8473419.0,2019020206,,2019-11-06,Mark Borowiecki Tripping against Brad Marchand
+194,penalty,Hooking,Mark Borowiecki,Patrice Bergeron,[57. -8.],3,13:49,OTT,BOS,BOS,6,OTT,9,3,2,8474697,8470638.0,2019020206,,2019-11-06,Mark Borowiecki Hooking against Patrice Bergeron
+34,penalty,Tripping,David Krejci,Jared McCann,[-81.  19.],1,10:56,BOS,PIT,BOS,6,PIT,5,1,0,8471276,8477955.0,2019020220,PIT,2019-11-05,David Krejci Tripping against Jared McCann
+72,penalty,Slashing,Kris Letang,Brad Marchand,[47. 23.],1,01:56,PIT,BOS,BOS,6,PIT,5,2,0,8471724,8473419.0,2019020220,PIT,2019-11-05,Kris Letang Slashing against Brad Marchand
+158,penalty,Tripping,John Marino,Patrice Bergeron,[ 33. -20.],2,02:10,PIT,BOS,BOS,6,PIT,5,3,3,8478507,8470638.0,2019020220,PIT,2019-11-05,John Marino Tripping against Patrice Bergeron
+201,penalty,Roughing,Zach Aston-Reese,Brandon Carlo,[-96.  11.],3,12:58,PIT,BOS,BOS,6,PIT,5,3,4,8479944,8478443.0,2019020220,PIT,2019-11-05,Zach Aston-Reese Roughing against Brandon Carlo
+202,penalty,Roughing,Brandon Carlo,Zach Aston-Reese,[-95.   4.],3,12:58,BOS,PIT,BOS,6,PIT,5,3,4,8478443,8479944.0,2019020220,PIT,2019-11-05,Brandon Carlo Roughing against Zach Aston-Reese
+226,penalty,Hi-sticking,Nick Bjugstad,Jake DeBrusk,[80. -5.],3,08:13,PIT,BOS,BOS,6,PIT,5,4,4,8475760,8478498.0,2019020220,PIT,2019-11-05,Nick Bjugstad Hi-sticking against Jake DeBrusk
+70,penalty,Hooking,Victor Mete,Zach Senyshyn,[66. -8.],1,05:11,MTL,BOS,MTL,8,BOS,6,1,0,8479376,8478485.0,2019020224,,2019-11-07,Victor Mete Hooking against Zach Senyshyn
+109,penalty,Hooking,Patrice Bergeron,Phillip Danault,[96.  9.],2,19:10,BOS,MTL,MTL,8,BOS,6,3,1,8470638,8476479.0,2019020224,,2019-11-07,Patrice Bergeron Hooking against Phillip Danault
+122,penalty,Hooking,David Pastrnak,Shea Weber,[61.  5.],2,16:02,BOS,MTL,MTL,8,BOS,6,3,1,8477956,8470642.0,2019020224,,2019-11-07,David Pastrnak Hooking against Shea Weber
+220,penalty,Hi-sticking,Shea Weber,Brad Marchand,[83. -8.],3,19:46,MTL,BOS,MTL,8,BOS,6,4,3,8470642,8473419.0,2019020224,,2019-11-07,Shea Weber Hi-sticking against Brad Marchand
+15,penalty,Hooking,David Pastrnak,Dennis Cholowski,[ 90. -26.],1,16:20,BOS,DET,DET,17,BOS,6,1,1,8477956,8479395.0,2019020248,,2019-11-09,David Pastrnak Hooking against Dennis Cholowski
+49,penalty,Interference,Brad Marchand,Filip Hronek,[97. 13.],1,08:48,BOS,DET,DET,17,BOS,6,1,1,8473419,8479425.0,2019020248,,2019-11-09,Brad Marchand Interference against Filip Hronek
+55,penalty,Holding,Madison Bowey,Danton Heinen,[95. 12.],1,07:36,DET,BOS,DET,17,BOS,6,2,1,8477474,8478046.0,2019020248,,2019-11-09,Madison Bowey Holding against Danton Heinen
+93,penalty,Hooking,David Pastrnak,Dylan Larkin,[-97.  10.],2,19:32,BOS,DET,DET,17,BOS,6,2,1,8477956,8477946.0,2019020248,,2019-11-09,David Pastrnak Hooking against Dylan Larkin
+106,penalty,Delaying Game - Puck over glass,Torey Krug,,[ 42. -37.],2,16:30,BOS,DET,DET,17,BOS,6,3,1,8476792,,2019020248,,2019-11-09,Torey Krug Delaying Game - Puck over glass
+110,penalty,Tripping,Dylan Larkin,Zdeno Chara,[ 97. -10.],2,16:10,DET,BOS,DET,17,BOS,6,3,1,8477946,8465009.0,2019020248,,2019-11-09,Dylan Larkin Tripping against Zdeno Chara
+140,penalty,Fighting,Filip Hronek,Brad Marchand,[-65.  -6.],2,08:44,DET,BOS,DET,17,BOS,6,3,1,8479425,8473419.0,2019020248,,2019-11-09,Filip Hronek Fighting against Brad Marchand
+141,penalty,Fighting,Brad Marchand,Filip Hronek,[-67.  -3.],2,08:44,BOS,DET,DET,17,BOS,6,3,1,8473419,8479425.0,2019020248,,2019-11-09,Brad Marchand Fighting against Filip Hronek
+151,penalty,Roughing,David Krejci,Valtteri Filppula,[96. 13.],2,06:25,BOS,DET,DET,17,BOS,6,3,1,8471276,8470047.0,2019020248,,2019-11-09,David Krejci Roughing against Valtteri Filppula
+165,penalty,Tripping,Valtteri Filppula,David Pastrnak,[-21. -39.],2,04:04,DET,BOS,DET,17,BOS,6,3,1,8470047,8477956.0,2019020248,,2019-11-09,Valtteri Filppula Tripping against David Pastrnak
+207,penalty,Slashing,Madison Bowey,Brad Marchand,[ 46. -21.],3,15:26,DET,BOS,DET,17,BOS,6,3,2,8477474,8473419.0,2019020248,,2019-11-09,Madison Bowey Slashing against Brad Marchand
+59,penalty,Hi-sticking,Joel Farabee,Brad Marchand,[-48. -12.],1,05:46,PHI,BOS,BOS,6,PHI,4,0,1,8480797,8473419.0,2019020267,PHI,2019-11-11,Joel Farabee Hi-sticking against Brad Marchand
+117,penalty,Hooking,David Pastrnak,Ivan Provorov,[-35.  26.],2,11:49,BOS,PHI,BOS,6,PHI,4,0,2,8477956,8478500.0,2019020267,PHI,2019-11-11,David Pastrnak Hooking against Ivan Provorov
+232,penalty,PS - Slash on breakaway,Ivan Provorov,David Pastrnak,[47. -1.],3,04:56,PHI,BOS,BOS,6,PHI,4,2,2,8478500,8477956.0,2019020267,PHI,2019-11-11,Ivan Provorov PS - Slash on breakaway against David Pastrnak
+239,penalty,Tripping,Oskar Lindblom,Brad Marchand,[39.  2.],3,03:20,PHI,BOS,BOS,6,PHI,4,2,2,8478067,8473419.0,2019020267,PHI,2019-11-11,Oskar Lindblom Tripping against Brad Marchand
+265,penalty,Too many men on the ice,David Krejci,,[42. 30.],4,00:22,BOS,PHI,BOS,6,PHI,4,2,2,8471276,,2019020267,PHI,2019-11-11,Too many men/ice served by David Krejci
+85,penalty,Hi-sticking,Charlie McAvoy,Aleksander Barkov,[-93. -12.],1,00:13,BOS,FLA,BOS,6,FLA,13,0,0,8479325,8477493.0,2019020272,,2019-11-13,Charlie McAvoy Hi-sticking against Aleksander Barkov
+104,penalty,Holding,Patrice Bergeron,Aleksander Barkov,[ 44. -12.],2,15:39,BOS,FLA,BOS,6,FLA,13,0,0,8470638,8477493.0,2019020272,,2019-11-13,Patrice Bergeron Holding against Aleksander Barkov
+140,penalty,Holding,Dryden Hunt,Danton Heinen,[-21.  28.],2,04:27,FLA,BOS,BOS,6,FLA,13,2,0,8478211,8478046.0,2019020272,,2019-11-13,Dryden Hunt Holding against Danton Heinen
+164,penalty,Elbowing,Vincent Trocheck,David Pastrnak,[ 67. -30.],3,18:52,FLA,BOS,BOS,6,FLA,13,4,1,8476389,8477956.0,2019020272,,2019-11-13,Vincent Trocheck Elbowing against David Pastrnak
+165,penalty,Roughing,Brad Marchand,Vincent Trocheck,[  6. -30.],3,18:52,BOS,FLA,BOS,6,FLA,13,4,1,8473419,8476389.0,2019020272,,2019-11-13,Brad Marchand Roughing against Vincent Trocheck
+166,penalty,Roughing,Brad Marchand,Vincent Trocheck,[ 32. -29.],3,18:52,BOS,FLA,BOS,6,FLA,13,4,1,8473419,8476389.0,2019020272,,2019-11-13,Brad Marchand Roughing against Vincent Trocheck
+168,penalty,Roughing,Vincent Trocheck,Brad Marchand,[ 38. -34.],3,18:52,FLA,BOS,BOS,6,FLA,13,4,1,8476389,8473419.0,2019020272,,2019-11-13,Vincent Trocheck Roughing against Brad Marchand
+176,penalty,Slashing,Chris Wagner,Josh Brown,[64.  6.],3,16:11,BOS,FLA,BOS,6,FLA,13,4,1,8475780,8477384.0,2019020272,,2019-11-13,Chris Wagner Slashing against Josh Brown
+191,penalty,Hooking,Sean Kuraly,Dryden Hunt,[-71.  31.],3,11:28,BOS,FLA,BOS,6,FLA,13,4,2,8476374,8478211.0,2019020272,,2019-11-13,Sean Kuraly Hooking against Dryden Hunt
+216,penalty,Tripping,Noel Acciari,Sean Kuraly,[97.  4.],3,06:28,FLA,BOS,BOS,6,FLA,13,4,3,8478569,8476374.0,2019020272,,2019-11-13,Noel Acciari Tripping against Sean Kuraly
+79,penalty,Interference,David Pastrnak,John Tavares,[-69. -30.],1,05:51,BOS,TOR,TOR,10,BOS,6,0,1,8477956,8475166.0,2019020294,BOS,2019-11-16,David Pastrnak Interference against John Tavares
+89,penalty,Holding,Nicholas Shore,David Pastrnak,[ 29. -19.],1,03:23,TOR,BOS,TOR,10,BOS,6,0,1,8476406,8477956.0,2019020294,BOS,2019-11-16,Nicholas Shore Holding against David Pastrnak
+166,penalty,Tripping,Andreas Johnsson,Charlie McAvoy,[30.  3.],2,08:49,TOR,BOS,TOR,10,BOS,6,1,1,8477341,8479325.0,2019020294,BOS,2019-11-16,Andreas Johnsson Tripping against Charlie McAvoy
+197,penalty,Slashing,Patrice Bergeron,John Tavares,[64. 14.],2,03:08,BOS,TOR,TOR,10,BOS,6,1,1,8470638,8475166.0,2019020294,BOS,2019-11-16,Patrice Bergeron Slashing against John Tavares
+37,penalty,Hooking,David Pastrnak,Jakub Vrana,[-54. -13.],1,11:57,BOS,WSH,BOS,6,WSH,15,0,0,8477956,8477944.0,2019020303,WSH,2019-11-17,David Pastrnak Hooking against Jakub Vrana
+94,penalty,Holding,Radko Gudas,Brad Marchand,[31. 31.],1,00:39,WSH,BOS,BOS,6,WSH,15,1,1,8475462,8473419.0,2019020303,WSH,2019-11-17,Radko Gudas Holding against Brad Marchand
+120,penalty,Hooking,Danton Heinen,Brendan Leipsic,[ 11. -22.],2,15:18,BOS,WSH,BOS,6,WSH,15,2,1,8478046,8476894.0,2019020303,WSH,2019-11-17,Danton Heinen Hooking against Brendan Leipsic
+143,penalty,Tripping,Braden Holtby,Brendan Leipsic,[-96.  -3.],2,09:55,WSH,BOS,BOS,6,WSH,15,2,1,8474651,8476894.0,2019020303,WSH,2019-11-17,Braden Holtby Tripping against Paul Carey served by Brendan Leipsic
+186,penalty,Cross checking,Evgeny Kuznetsov,Charlie McAvoy,[89. 13.],2,00:16,WSH,BOS,BOS,6,WSH,15,2,1,8475744,8479325.0,2019020303,WSH,2019-11-17,Evgeny Kuznetsov Cross checking against Charlie McAvoy
+240,penalty,Roughing,Zdeno Chara,Tom Wilson,[-67.  34.],3,06:01,BOS,WSH,BOS,6,WSH,15,2,1,8465009,8476880.0,2019020303,WSH,2019-11-17,Zdeno Chara Roughing against Tom Wilson
+241,penalty,Roughing,Tom Wilson,Zdeno Chara,[-31.  37.],3,06:01,WSH,BOS,BOS,6,WSH,15,2,1,8476880,8465009.0,2019020303,WSH,2019-11-17,Tom Wilson Roughing against Zdeno Chara
+40,penalty,Tripping,Jake DeBrusk,Pavel Zacha,[-76. -13.],1,07:48,BOS,NJD,NJD,1,BOS,6,0,0,8478498,8478401.0,2019020320,BOS,2019-11-20,Jake DeBrusk Tripping against Pavel Zacha
+51,penalty,Tripping,Danton Heinen,Blake Coleman,[-4. 38.],1,05:13,BOS,NJD,NJD,1,BOS,6,0,2,8478046,8476399.0,2019020320,BOS,2019-11-20,Danton Heinen Tripping against Blake Coleman
+61,penalty,Tripping,Taylor Hall,Charlie McAvoy,[ 94. -16.],1,01:54,NJD,BOS,NJD,1,BOS,6,0,2,8475791,8479325.0,2019020320,BOS,2019-11-20,Taylor Hall Tripping against Charlie McAvoy
+166,penalty,Tripping,P.K. Subban,David Pastrnak,[-65.  18.],3,16:49,NJD,BOS,NJD,1,BOS,6,1,2,8474056,8477956.0,2019020320,BOS,2019-11-20,P.K. Subban Tripping against David Pastrnak
+20,penalty,Tripping,Sean Kuraly,Evan Rodrigues,[-22.  19.],1,14:55,BOS,BUF,BOS,6,BUF,7,0,0,8476374,8478542.0,2019020333,,2019-11-22,Sean Kuraly Tripping against Evan Rodrigues
+70,penalty,Roughing,Chris Wagner,Curtis Lazar,[-78.   3.],1,05:46,BOS,BUF,BOS,6,BUF,7,1,1,8475780,8477508.0,2019020333,,2019-11-22,Chris Wagner Roughing against Curtis Lazar
+71,penalty,Fighting,Chris Wagner,Curtis Lazar,[-78.  -2.],1,05:46,BOS,BUF,BOS,6,BUF,7,1,1,8475780,8477508.0,2019020333,,2019-11-22,Chris Wagner Fighting against Curtis Lazar
+72,penalty,Roughing,Curtis Lazar,Chris Wagner,[-73.   1.],1,05:46,BUF,BOS,BOS,6,BUF,7,1,1,8477508,8475780.0,2019020333,,2019-11-22,Curtis Lazar Roughing against Chris Wagner
+73,penalty,Fighting,Curtis Lazar,Chris Wagner,[-78.  -2.],1,05:46,BUF,BOS,BOS,6,BUF,7,1,1,8477508,8475780.0,2019020333,,2019-11-22,Curtis Lazar Fighting against Chris Wagner
+114,penalty,Hooking,Matt Grzelcyk,Zemgus Girgensons,[58.  0.],2,15:16,BOS,BUF,BOS,6,BUF,7,1,1,8476891,8476878.0,2019020333,,2019-11-22,Matt Grzelcyk Hooking against Zemgus Girgensons
+148,penalty,Holding,Rasmus Asplund,David Krejci,[-54. -34.],2,06:45,BUF,BOS,BOS,6,BUF,7,1,1,8479335,8471276.0,2019020333,,2019-11-22,Rasmus Asplund Holding against David Krejci
+156,penalty,Hooking,Charlie Coyle,Jack Eichel,[13. 34.],2,04:44,BOS,BUF,BOS,6,BUF,7,2,1,8475745,8478403.0,2019020333,,2019-11-22,Charlie Coyle Hooking against Jack Eichel
+177,penalty,Holding,Jake McCabe,Danton Heinen,[-32. -34.],3,19:28,BUF,BOS,BOS,6,BUF,7,2,1,8476931,8478046.0,2019020333,,2019-11-22,Jake McCabe Holding against Danton Heinen
+186,penalty,Tripping,Joakim Nordstrom,Rasmus Dahlin,[80. 27.],3,16:27,BOS,BUF,BOS,6,BUF,7,3,1,8475807,8480839.0,2019020333,,2019-11-22,Joakim Nordstrom Tripping against Rasmus Dahlin
+5,penalty,Hooking,Jared Spurgeon,Anders Bjork,[43. 21.],1,18:53,MIN,BOS,BOS,6,MIN,30,0,0,8474716,8478075.0,2019020351,MIN,2019-11-24,Jared Spurgeon Hooking against Anders Bjork
+18,penalty,Hooking,Zdeno Chara,Jason Zucker,[-62.  -2.],1,16:05,BOS,MIN,BOS,6,MIN,30,0,0,8465009,8475722.0,2019020351,MIN,2019-11-24,Zdeno Chara Hooking against Jason Zucker
+38,penalty,Slashing,Torey Krug,Kevin Fiala,[-22.  33.],1,11:14,BOS,MIN,BOS,6,MIN,30,0,0,8476792,8477942.0,2019020351,MIN,2019-11-24,Torey Krug Slashing against Kevin Fiala
+57,penalty,Roughing,Brad Marchand,Matt Dumba,[44. 37.],1,08:35,BOS,MIN,BOS,6,MIN,30,0,1,8473419,8476856.0,2019020351,MIN,2019-11-24,Brad Marchand Roughing against Matt Dumba
+58,penalty,Roughing,Matt Dumba,Brad Marchand,[54. 38.],1,08:35,MIN,BOS,BOS,6,MIN,30,0,1,8476856,8473419.0,2019020351,MIN,2019-11-24,Matt Dumba Roughing against Brad Marchand
+64,penalty,Tripping,Charlie McAvoy,Jason Zucker,[-53.  20.],1,07:04,BOS,MIN,BOS,6,MIN,30,0,1,8479325,8475722.0,2019020351,MIN,2019-11-24,Charlie McAvoy Tripping against Jason Zucker
+154,penalty,Hi stick - double minor,Zdeno Chara,Jason Zucker,[ 91. -22.],2,07:17,BOS,MIN,BOS,6,MIN,30,1,2,8465009,8475722.0,2019020351,MIN,2019-11-24,Zdeno Chara Hi stick - double minor against Jason Zucker
+168,penalty,Cross checking,Brad Marchand,Jonas Brodin,[-70.  -8.],2,02:46,BOS,MIN,BOS,6,MIN,30,1,3,8473419,8476463.0,2019020351,MIN,2019-11-24,Brad Marchand Cross checking against Jonas Brodin
+179,penalty,Tripping,Patrice Bergeron,Jonas Brodin,[92. 20.],3,19:30,BOS,MIN,BOS,6,MIN,30,2,3,8470638,8476463.0,2019020351,MIN,2019-11-24,Patrice Bergeron Tripping against Jonas Brodin
+250,penalty,Holding,Victor Rask,Charlie Coyle,[95. 18.],3,05:21,MIN,BOS,BOS,6,MIN,30,2,4,8476437,8475745.0,2019020351,MIN,2019-11-24,Victor Rask Holding against Charlie Coyle
+264,penalty,Tripping,Luke Kunin,Charlie McAvoy,[ 10. -15.],3,01:31,MIN,BOS,BOS,6,MIN,30,3,4,8479316,8479325.0,2019020351,MIN,2019-11-24,Luke Kunin Tripping against Charlie McAvoy
+37,penalty,Tripping,Brendan Gallagher,David Pastrnak,[-72.  33.],1,13:50,MTL,BOS,MTL,8,BOS,6,0,0,8475848,8477956.0,2019020374,,2019-11-27,Brendan Gallagher Tripping against David Pastrnak
+78,penalty,Tripping,Nate Thompson,Connor Clifton,[-98.   4.],1,06:04,MTL,BOS,MTL,8,BOS,6,1,1,8470775,8477365.0,2019020374,,2019-11-27,Nate Thompson Tripping against Connor Clifton
+82,penalty,Interference,Charlie McAvoy,Nick Suzuki,[-61. -19.],1,05:28,BOS,MTL,MTL,8,BOS,6,1,2,8479325,8480018.0,2019020374,,2019-11-27,Charlie McAvoy Interference against Nick Suzuki
+184,penalty,Hi-sticking,Connor Clifton,Tomas Tatar,[34. 11.],2,07:17,BOS,MTL,MTL,8,BOS,6,1,6,8477365,8475193.0,2019020374,,2019-11-27,Connor Clifton Hi-sticking against Tomas Tatar
+277,penalty,Cross checking,Max Domi,Jack Studnicka,[ 8. 39.],3,04:22,MTL,BOS,MTL,8,BOS,6,1,7,8477503,8480021.0,2019020374,,2019-11-27,Max Domi Cross checking against Jack Studnicka
+278,penalty,Roughing,Jack Studnicka,Max Domi,[-3. 41.],3,04:22,BOS,MTL,MTL,8,BOS,6,1,7,8480021,8477503.0,2019020374,,2019-11-27,Jack Studnicka Roughing against Max Domi
+65,penalty,Too many men on the ice,Brady Tkachuk,,[-17.  40.],1,05:10,OTT,BOS,OTT,9,BOS,6,0,0,8480801,,2019020378,,2019-11-28,Too many men/ice served by Brady Tkachuk
+81,penalty,Slashing,Brendan Gaunce,Jean-Gabriel Pageau,[ 77. -11.],1,01:18,BOS,OTT,OTT,9,BOS,6,0,0,8476867,8476419.0,2019020378,,2019-11-28,Brendan Gaunce Slashing against Jean-Gabriel Pageau
+186,penalty,Interference,Anthony Duclair,David Pastrnak,[46.  0.],3,17:51,OTT,BOS,OTT,9,BOS,6,1,0,8477407,8477956.0,2019020378,,2019-11-28,Anthony Duclair Interference against David Pastrnak
+216,penalty,Cross checking,Chris Wagner,Tyler Ennis,[74. 40.],3,11:07,BOS,OTT,OTT,9,BOS,6,1,2,8475780,8474589.0,2019020378,,2019-11-28,Chris Wagner Cross checking against Tyler Ennis
+43,penalty,Tripping,Sean Kuraly,Libor Hajek,[43. 39.],1,07:51,BOS,NYR,BOS,6,NYR,3,0,0,8476374,8479333.0,2019020391,,2019-12-02,Sean Kuraly Tripping against Libor Hajek
+74,penalty,Tripping,Connor Clifton,Jesper Fast,[89. -7.],2,17:30,BOS,NYR,BOS,6,NYR,3,0,1,8477365,8475855.0,2019020391,,2019-12-02,Connor Clifton Tripping against Jesper Fast
+112,penalty,Fighting,Brendan Smith,Charlie McAvoy,[74. -2.],2,09:09,NYR,BOS,BOS,6,NYR,3,0,2,8474090,8479325.0,2019020391,,2019-12-02,Brendan Smith Fighting against Charlie McAvoy
+113,penalty,Fighting,Charlie McAvoy,Brendan Smith,[68. 11.],2,09:09,BOS,NYR,BOS,6,NYR,3,0,2,8479325,8474090.0,2019020391,,2019-12-02,Charlie McAvoy Fighting against Brendan Smith
+124,penalty,Hi-sticking,Matt Grzelcyk,Mika Zibanejad,[70.  0.],2,07:08,BOS,NYR,BOS,6,NYR,3,0,2,8476891,8476459.0,2019020391,,2019-12-02,Matt Grzelcyk Hi-sticking against Mika Zibanejad
+128,penalty,Cross checking,Sean Kuraly,Adam Fox,[-93. -12.],2,06:09,BOS,NYR,BOS,6,NYR,3,0,2,8476374,8479323.0,2019020391,,2019-12-02,Sean Kuraly Cross checking against Adam Fox
+197,penalty,Hooking,Brendan Smith,David Krejci,[24.  4.],3,09:25,NYR,BOS,BOS,6,NYR,3,2,2,8474090,8471276.0,2019020391,,2019-12-02,Brendan Smith Hooking against David Krejci
+205,penalty,Hi stick - double minor,Par Lindholm,Brendan Smith,[ 57. -37.],3,07:02,BOS,NYR,BOS,6,NYR,3,2,2,8480944,8474090.0,2019020391,,2019-12-02,Par Lindholm Hi stick - double minor against Brendan Smith
+66,penalty,Hi-sticking,Charlie McAvoy,Charles Hudon,[-88.  24.],1,05:22,BOS,MTL,BOS,6,MTL,8,0,1,8479325,8476948.0,2019020417,MTL,2019-12-02,Charlie McAvoy Hi-sticking against Charles Hudon
+156,penalty,Interference,Shea Weber,David Pastrnak,[-2.  4.],2,02:47,MTL,BOS,BOS,6,MTL,8,0,1,8470642,8477956.0,2019020417,MTL,2019-12-02,Shea Weber Interference against David Pastrnak
+157,penalty,Roughing,Brendan Gallagher,Jake DeBrusk,[5. 1.],2,02:47,MTL,BOS,BOS,6,MTL,8,0,1,8475848,8478498.0,2019020417,MTL,2019-12-02,Brendan Gallagher Roughing against Jake DeBrusk
+158,penalty,Roughing,Jake DeBrusk,Brendan Gallagher,[1. 2.],2,02:47,BOS,MTL,BOS,6,MTL,8,0,1,8478498,8475848.0,2019020417,MTL,2019-12-02,Jake DeBrusk Roughing against Brendan Gallagher
+214,penalty,Holding,Nick Cousins,Torey Krug,[-96.  13.],3,11:22,MTL,BOS,BOS,6,MTL,8,1,1,8476393,8476792.0,2019020417,MTL,2019-12-02,Nick Cousins Holding against Torey Krug
+260,penalty,Too many men on the ice,Nick Cousins,,[33. 36.],3,01:51,MTL,BOS,BOS,6,MTL,8,3,1,8476393,,2019020417,MTL,2019-12-02,Too many men/ice served by Nick Cousins
+11,penalty,Tripping,Jake Gardiner,Jake DeBrusk,[80. -6.],1,17:35,CAR,BOS,BOS,6,CAR,12,0,0,8474581,8478498.0,2019020424,CAR,2019-12-04,Jake Gardiner Tripping against Jake DeBrusk
+47,penalty,Holding,Jordan Martinook,Matt Grzelcyk,[-10.  35.],1,09:14,CAR,BOS,BOS,6,CAR,12,0,0,8476921,8476891.0,2019020424,CAR,2019-12-04,Jordan Martinook Holding against Matt Grzelcyk
+73,penalty,Tripping,Jake DeBrusk,Joel Edmundson,[ 78. -35.],1,05:13,BOS,CAR,BOS,6,CAR,12,0,0,8478498,8476441.0,2019020424,CAR,2019-12-04,Jake DeBrusk Tripping against Joel Edmundson
+93,penalty,Roughing,David Pastrnak,Warren Foegele,[-54. -20.],1,01:26,BOS,CAR,BOS,6,CAR,12,0,0,8477956,8477998.0,2019020424,CAR,2019-12-04,David Pastrnak Roughing against Warren Foegele
+2,penalty,Hooking,Patrick Kane,Brad Marchand,[73.  2.],1,19:27,CHI,BOS,BOS,6,CHI,16,0,0,8474141,8473419.0,2019020438,,2019-12-06,Patrick Kane Hooking against Brad Marchand
+72,penalty,Tripping,Anton Wedin,Charlie Coyle,[-47.  -2.],1,03:25,CHI,BOS,BOS,6,CHI,16,0,0,8481637,8475745.0,2019020438,,2019-12-06,Anton Wedin Tripping against Charlie Coyle
+85,penalty,Interference,David Pastrnak,Dennis Gilbert,[ 11. -28.],1,01:19,BOS,CHI,BOS,6,CHI,16,0,1,8477956,8478502.0,2019020438,,2019-12-06,David Pastrnak Interference against Dennis Gilbert
+99,penalty,Too many men on the ice,Alex Nylander,,[-80.  21.],2,19:07,CHI,BOS,BOS,6,CHI,16,0,2,8479423,,2019020438,,2019-12-06,Too many men/ice served by Alex Nylander
+148,penalty,Hi-sticking,Alex Nylander,Charlie McAvoy,[65. 34.],2,09:25,CHI,BOS,BOS,6,CHI,16,0,2,8479423,8479325.0,2019020438,,2019-12-06,Alex Nylander Hi-sticking against Charlie McAvoy
+163,penalty,Roughing,David Pastrnak,Connor Murphy,[-78.   2.],2,07:02,BOS,CHI,BOS,6,CHI,16,0,2,8477956,8476473.0,2019020438,,2019-12-06,David Pastrnak Roughing against Connor Murphy
+253,penalty,Fighting,Zack Smith,John Moore,[-31. -23.],3,08:14,CHI,BOS,BOS,6,CHI,16,1,3,8474250,8475186.0,2019020438,,2019-12-06,Zack Smith Fighting against John Moore
+254,penalty,Fighting,John Moore,Zack Smith,[-32. -24.],3,08:14,BOS,CHI,BOS,6,CHI,16,1,3,8475186,8474250.0,2019020438,,2019-12-06,John Moore Fighting against Zack Smith
+263,penalty,Roughing,Charlie Coyle,Slater Koekkoek,[57. -7.],3,06:20,BOS,CHI,BOS,6,CHI,16,1,3,8475745,8476886.0,2019020438,,2019-12-06,Charlie Coyle Roughing against Slater Koekkoek
+184,penalty,Hi-sticking,Ryan Graves,Sean Kuraly,[ 49. -33.],3,14:06,COL,BOS,BOS,6,COL,21,1,3,8477435,8476374.0,2019020454,,2019-12-08,Ryan Graves Hi-sticking against Sean Kuraly
+195,penalty,Hooking,Brad Marchand,Ryan Graves,[-71.  -3.],3,11:58,BOS,COL,BOS,6,COL,21,1,3,8473419,8477435.0,2019020454,,2019-12-08,Brad Marchand Hooking against Ryan Graves
+197,penalty,Hi-sticking,Joonas Donskoi,Zdeno Chara,[-75.  -2.],3,11:33,COL,BOS,BOS,6,COL,21,1,3,8475820,8465009.0,2019020454,,2019-12-08,Joonas Donskoi Hi-sticking against Zdeno Chara
+235,penalty,Hi-sticking,Gabriel Landeskog,David Pastrnak,[ 70. -13.],3,02:21,COL,BOS,BOS,6,COL,21,1,3,8476455,8477956.0,2019020454,,2019-12-08,Gabriel Landeskog Hi-sticking against David Pastrnak
+104,penalty,Tripping,Charlie Coyle,Logan Brown,[-63. -27.],2,17:27,BOS,OTT,OTT,9,BOS,6,3,1,8475745,8479366.0,2019020470,,2019-12-10,Charlie Coyle Tripping against Logan Brown
+116,penalty,Tripping,Vladislav Namestnikov,Charlie Coyle,[ 11. -30.],2,14:39,OTT,BOS,OTT,9,BOS,6,3,1,8476480,8475745.0,2019020470,,2019-12-10,Vladislav Namestnikov Tripping against Charlie Coyle
+148,penalty,Hi-sticking,Dylan DeMelo,David Pastrnak,[ 69. -38.],2,06:52,OTT,BOS,OTT,9,BOS,6,3,1,8476331,8477956.0,2019020470,,2019-12-10,Dylan DeMelo Hi-sticking against David Pastrnak
+173,penalty,Tripping,Dylan DeMelo,Brad Marchand,[67.  5.],2,02:07,OTT,BOS,OTT,9,BOS,6,3,1,8476331,8473419.0,2019020470,,2019-12-10,Dylan DeMelo Tripping against Brad Marchand
+217,penalty,Tripping,Brandon Carlo,Tyler Ennis,[-31.  28.],3,10:25,BOS,OTT,OTT,9,BOS,6,3,1,8478443,8474589.0,2019020470,,2019-12-10,Brandon Carlo Tripping against Tyler Ennis
+219,penalty,Hi-sticking,Thomas Chabot,Charlie McAvoy,[ 66. -34.],3,10:02,OTT,BOS,OTT,9,BOS,6,3,1,8478469,8479325.0,2019020470,,2019-12-10,Thomas Chabot Hi-sticking against Charlie McAvoy
+243,penalty,Tripping,David Pastrnak,Jean-Gabriel Pageau,[73. 22.],3,05:14,BOS,OTT,OTT,9,BOS,6,3,1,8477956,8476419.0,2019020470,,2019-12-10,David Pastrnak Tripping against Jean-Gabriel Pageau
+248,penalty,Tripping,Colin White,Brandon Carlo,[ 97. -18.],3,04:14,OTT,BOS,OTT,9,BOS,6,3,1,8478400,8478443.0,2019020470,,2019-12-10,Colin White Tripping against Brandon Carlo
+57,penalty,Fighting,Zdeno Chara,Tom Wilson,[-92.  22.],1,09:46,BOS,WSH,WSH,15,BOS,6,0,1,8465009,8476880.0,2019020484,,2019-12-12,Zdeno Chara Fighting against Tom Wilson
+58,penalty,Cross checking,Tom Wilson,Brendan Leipsic,[-94.  15.],1,09:46,WSH,BOS,WSH,15,BOS,6,0,1,8476880,8476894.0,2019020484,,2019-12-12,Tom Wilson Cross checking against Zdeno Chara served by Brendan Leipsic
+59,penalty,Fighting,Tom Wilson,Zdeno Chara,[-93.  20.],1,09:46,WSH,BOS,WSH,15,BOS,6,0,1,8476880,8465009.0,2019020484,,2019-12-12,Tom Wilson Fighting against Zdeno Chara
+73,penalty,Tripping,Jakub Vrana,Torey Krug,[69. -1.],1,05:43,WSH,BOS,WSH,15,BOS,6,0,1,8477944,8476792.0,2019020484,,2019-12-12,Jakub Vrana Tripping against Torey Krug
+92,penalty,Hi-sticking,Joakim Nordstrom,Nicklas Backstrom,[36. 15.],1,00:34,BOS,WSH,WSH,15,BOS,6,0,1,8475807,8473563.0,2019020484,,2019-12-12,Joakim Nordstrom Hi-sticking against Nicklas Backstrom
+100,penalty,Too many men on the ice,Brendan Leipsic,,[36. 20.],2,18:29,WSH,BOS,WSH,15,BOS,6,0,1,8476894,,2019020484,,2019-12-12,Too many men/ice served by Brendan Leipsic
+115,penalty,Interference,Chris Wagner,Garnet Hathaway,[69. 10.],2,16:12,BOS,WSH,WSH,15,BOS,6,0,1,8475780,8477903.0,2019020484,,2019-12-12,Chris Wagner Interference against Garnet Hathaway
+182,penalty,Holding,Charlie Coyle,Dmitry Orlov,[-57. -18.],2,02:32,BOS,WSH,WSH,15,BOS,6,2,1,8475745,8475200.0,2019020484,,2019-12-12,Charlie Coyle Holding against Dmitry Orlov
+191,penalty,Interference,Tom Wilson,David Pastrnak,[-22.  30.],3,19:41,WSH,BOS,WSH,15,BOS,6,2,1,8476880,8477956.0,2019020484,,2019-12-12,Tom Wilson Interference against David Pastrnak
+223,penalty,Tripping,John Carlson,David Pastrnak,[ 91. -26.],3,13:56,WSH,BOS,WSH,15,BOS,6,3,2,8474590,8477956.0,2019020484,,2019-12-12,John Carlson Tripping against David Pastrnak
+240,penalty,Roughing,Brett Ritchie,Garnet Hathaway,[ 92. -13.],3,09:47,BOS,WSH,WSH,15,BOS,6,3,2,8476439,8477903.0,2019020484,,2019-12-12,Brett Ritchie Roughing against Garnet Hathaway
+241,penalty,Roughing,Garnet Hathaway,Brett Ritchie,[ 93. -17.],3,09:47,WSH,BOS,WSH,15,BOS,6,3,2,8477903,8476439.0,2019020484,,2019-12-12,Garnet Hathaway Roughing against Brett Ritchie
+3,penalty,Fighting,Pat Maroon,Zdeno Chara,[7. 1.],1,19:33,TBL,BOS,TBL,14,BOS,6,0,0,8474034,8465009.0,2019020488,,2019-12-13,Pat Maroon Fighting against Zdeno Chara
+4,penalty,Fighting,Zdeno Chara,Pat Maroon,[ 26. -15.],1,19:33,BOS,TBL,TBL,14,BOS,6,0,0,8465009,8474034.0,2019020488,,2019-12-13,Zdeno Chara Fighting against Pat Maroon
+50,penalty,Tripping,John Moore,Alex Killorn,[ 81. -19.],1,07:16,BOS,TBL,TBL,14,BOS,6,0,1,8475186,8473986.0,2019020488,,2019-12-13,John Moore Tripping against Alex Killorn
+81,penalty,Interference,Ryan McDonagh,David Krejci,[26. 17.],2,17:48,TBL,BOS,TBL,14,BOS,6,0,1,8474151,8471276.0,2019020488,,2019-12-13,Ryan McDonagh Interference against David Krejci
+94,penalty,Tripping,Matt Grzelcyk,Anthony Cirelli,[-15.  18.],2,15:12,BOS,TBL,TBL,14,BOS,6,0,1,8476891,8478519.0,2019020488,,2019-12-13,Matt Grzelcyk Tripping against Anthony Cirelli
+95,penalty,Roughing,Kevin Shattenkirk,Matt Grzelcyk,[-9. 18.],2,15:12,TBL,BOS,TBL,14,BOS,6,0,1,8474031,8476891.0,2019020488,,2019-12-13,Kevin Shattenkirk Roughing against Matt Grzelcyk
+127,penalty,Tripping,John Moore,Alex Killorn,[-85.  17.],2,07:31,BOS,TBL,TBL,14,BOS,6,0,1,8475186,8473986.0,2019020488,,2019-12-13,John Moore Tripping against Alex Killorn
+188,penalty,Hooking,Sean Kuraly,Mathieu Joseph,[-41.  31.],3,17:17,BOS,TBL,TBL,14,BOS,6,1,1,8476374,8478472.0,2019020488,,2019-12-13,Sean Kuraly Hooking against Mathieu Joseph
+233,penalty,Hooking,Steven Stamkos,Charlie McAvoy,[-59.  -7.],3,09:32,TBL,BOS,TBL,14,BOS,6,2,1,8474564,8479325.0,2019020488,,2019-12-13,Steven Stamkos Hooking against Charlie McAvoy
+13,penalty,Hi-sticking,Anders Bjork,Anton Stralman,[95. 24.],1,17:50,BOS,FLA,FLA,13,BOS,6,0,0,8478075,8471873.0,2019020508,,2019-12-15,Anders Bjork Hi-sticking against Anton Stralman
+63,penalty,Tripping,Mark Pysyk,Brad Marchand,[13. 36.],1,08:47,FLA,BOS,FLA,13,BOS,6,0,0,8475796,8473419.0,2019020508,,2019-12-15,Mark Pysyk Tripping against Brad Marchand
+87,penalty,Interference,Matt Grzelcyk,Frank Vatrano,[-74. -36.],1,03:57,BOS,FLA,FLA,13,BOS,6,0,1,8476891,8478366.0,2019020508,,2019-12-15,Matt Grzelcyk Interference against Frank Vatrano
+102,penalty,Tripping,Brett Connolly,John Moore,[-87. -32.],1,01:21,FLA,BOS,FLA,13,BOS,6,0,1,8475792,8475186.0,2019020508,,2019-12-15,Brett Connolly Tripping against John Moore
+138,penalty,Delaying Game - Puck over glass,Vincent Trocheck,,[-41. -40.],2,13:10,FLA,BOS,FLA,13,BOS,6,0,2,8476389,,2019020508,,2019-12-15,Vincent Trocheck Delaying Game - Puck over glass
+231,penalty,PS - Hooking on breakaway,Aaron Ekblad,David Pastrnak,[78.  1.],3,13:31,FLA,BOS,FLA,13,BOS,6,1,3,8477932,8477956.0,2019020508,,2019-12-15,Aaron Ekblad PS - Hooking on breakaway against David Pastrnak
+289,penalty,Interference,Charlie McAvoy,Aleksander Barkov,[-82. -36.],3,01:23,BOS,FLA,FLA,13,BOS,6,2,4,8479325,8477493.0,2019020508,,2019-12-15,Charlie McAvoy Interference against Aleksander Barkov
+4,penalty,Too many men on the ice,David Backes,,[-13.  34.],1,19:00,BOS,LAK,BOS,6,LAK,26,0,0,8470655,,2019020524,,2019-12-18,Too many men/ice served by David Backes
+69,penalty,Interference,Kyle Clifford,Chris Wagner,[ 75. -25.],1,01:46,LAK,BOS,BOS,6,LAK,26,0,1,8475160,8475780.0,2019020524,,2019-12-18,Kyle Clifford Interference against Chris Wagner
+98,penalty,Hooking,Trevor Lewis,Jake DeBrusk,[-13. -24.],2,18:01,LAK,BOS,BOS,6,LAK,26,1,1,8473453,8478498.0,2019020524,,2019-12-18,Trevor Lewis Hooking against Jake DeBrusk
+164,penalty,Slashing,Dustin Brown,Charlie McAvoy,[60. 39.],2,03:53,LAK,BOS,BOS,6,LAK,26,2,2,8470606,8479325.0,2019020524,,2019-12-18,Dustin Brown Slashing against Charlie McAvoy
+28,penalty,Too many men on the ice,Jordan Eberle,,[19. 30.],1,14:00,NYI,BOS,BOS,6,NYI,2,1,0,8474586,,2019020538,,2019-12-20,Too many men/ice served by Jordan Eberle
+41,penalty,Tripping,Connor Clifton,Anders Lee,[ 18. -21.],1,10:51,BOS,NYI,BOS,6,NYI,2,1,0,8477365,8475314.0,2019020538,,2019-12-20,Connor Clifton Tripping against Anders Lee
+83,penalty,Tripping,Casey Cizikas,David Pastrnak,[12. 22.],1,00:47,NYI,BOS,BOS,6,NYI,2,1,0,8475231,8477956.0,2019020538,,2019-12-20,Casey Cizikas Tripping against David Pastrnak
+133,penalty,Hi-sticking,Derick Brassard,Connor Clifton,[-60.  40.],2,07:36,NYI,BOS,BOS,6,NYI,2,1,1,8473544,8477365.0,2019020538,,2019-12-20,Derick Brassard Hi-sticking against Connor Clifton
+167,penalty,Tripping,Brandon Carlo,Jordan Eberle,[79. 15.],2,00:16,BOS,NYI,BOS,6,NYI,2,1,2,8478443,8474586.0,2019020538,,2019-12-20,Brandon Carlo Tripping against Jordan Eberle
+205,penalty,Hi-sticking,Adam Pelech,Brad Marchand,[83. 16.],3,13:28,NYI,BOS,BOS,6,NYI,2,1,2,8476917,8473419.0,2019020538,,2019-12-20,Adam Pelech Hi-sticking against Brad Marchand
+215,penalty,Delaying Game - Puck over glass,Brock Nelson,,[60. 34.],3,12:44,NYI,BOS,BOS,6,NYI,2,1,2,8475754,,2019020538,,2019-12-20,Brock Nelson Delaying Game - Puck over glass
+1,penalty,Holding,Viktor Arvidsson,Brad Marchand,[48. 36.],1,19:34,NSH,BOS,BOS,6,NSH,18,0,0,8478042,8473419.0,2019020555,,2019-12-22,Viktor Arvidsson Holding against Brad Marchand
+33,penalty,Slashing,Anders Bjork,Ryan Ellis,[58. 34.],1,12:47,BOS,NSH,BOS,6,NSH,18,0,0,8478075,8475176.0,2019020555,,2019-12-22,Anders Bjork Slashing against Ryan Ellis
+62,penalty,Tripping,David Krejci,Matt Duchene,[-65.  26.],1,04:50,BOS,NSH,BOS,6,NSH,18,0,0,8471276,8475168.0,2019020555,,2019-12-22,David Krejci Tripping against Matt Duchene
+106,penalty,Tripping,Dan Hamhuis,Brett Ritchie,[-72. -15.],2,15:37,NSH,BOS,BOS,6,NSH,18,0,0,8469465,8476439.0,2019020555,,2019-12-22,Dan Hamhuis Tripping against Brett Ritchie
+132,penalty,Slashing,Matt Grzelcyk,Matt Duchene,[81.  7.],2,09:41,BOS,NSH,BOS,6,NSH,18,1,0,8476891,8475168.0,2019020555,,2019-12-22,Matt Grzelcyk Slashing against Matt Duchene
+138,penalty,Tripping,Craig Smith,Brandon Carlo,[72.  1.],2,08:33,NSH,BOS,BOS,6,NSH,18,1,0,8475225,8478443.0,2019020555,,2019-12-22,Craig Smith Tripping against Brandon Carlo
+175,penalty,Roughing,Filip Forsberg,Charlie McAvoy,[19. 38.],2,02:04,NSH,BOS,BOS,6,NSH,18,1,1,8476887,8479325.0,2019020555,,2019-12-22,Filip Forsberg Roughing against Charlie McAvoy
+9,penalty,Hi-sticking,Nick Jensen,Sean Kuraly,[91. 17.],1,18:30,WSH,BOS,BOS,6,WSH,15,0,0,8475324,8476374.0,2019020571,,2019-12-27,Nick Jensen Hi-sticking against Sean Kuraly
+27,penalty,Hooking,Radko Gudas,Brad Marchand,[84. 14.],1,14:32,WSH,BOS,BOS,6,WSH,15,0,0,8475462,8473419.0,2019020571,,2019-12-27,Radko Gudas Hooking against Brad Marchand
+45,penalty,Tripping,Charlie McAvoy,Lars Eller,[-47. -16.],1,11:06,BOS,WSH,BOS,6,WSH,15,1,0,8479325,8474189.0,2019020571,,2019-12-27,Charlie McAvoy Tripping against Lars Eller
+73,penalty,Slashing,Connor Clifton,Garnet Hathaway,[-29. -13.],1,05:14,BOS,WSH,BOS,6,WSH,15,3,0,8477365,8477903.0,2019020571,,2019-12-27,Connor Clifton Slashing against Garnet Hathaway
+74,penalty,Cross checking,Garnet Hathaway,Connor Clifton,[-29. -17.],1,05:14,WSH,BOS,BOS,6,WSH,15,3,0,8477903,8477365.0,2019020571,,2019-12-27,Garnet Hathaway Cross checking against Connor Clifton
+87,penalty,Tripping,Jakub Vrana,David Pastrnak,[79.  8.],1,02:35,WSH,BOS,BOS,6,WSH,15,3,0,8477944,8477956.0,2019020571,,2019-12-27,Jakub Vrana Tripping against David Pastrnak
+88,penalty,Slashing,Evgeny Kuznetsov,David Krejci,[ 45. -22.],1,02:35,WSH,BOS,BOS,6,WSH,15,3,0,8475744,8471276.0,2019020571,,2019-12-27,Evgeny Kuznetsov Slashing against David Krejci
+106,penalty,Slashing,Jake DeBrusk,Garnet Hathaway,[ 36. -11.],2,17:55,BOS,WSH,BOS,6,WSH,15,4,0,8478498,8477903.0,2019020571,,2019-12-27,Jake DeBrusk Slashing against Garnet Hathaway
+119,penalty,Tripping,David Krejci,Dmitry Orlov,[-96.   0.],2,14:54,BOS,WSH,BOS,6,WSH,15,4,0,8471276,8475200.0,2019020571,,2019-12-27,David Krejci Tripping against Dmitry Orlov
+166,penalty,Slashing,John Carlson,Sean Kuraly,[-35. -15.],2,05:07,WSH,BOS,BOS,6,WSH,15,5,1,8474590,8476374.0,2019020571,,2019-12-27,John Carlson Slashing against Sean Kuraly
+199,penalty,Holding,Alex Ovechkin,Matt Grzelcyk,[-77.   3.],3,15:01,WSH,BOS,BOS,6,WSH,15,5,1,8471214,8476891.0,2019020571,,2019-12-27,Alex Ovechkin Holding against Matt Grzelcyk
+211,penalty,Too many men on the ice,Jake DeBrusk,,[-49.  27.],3,12:32,BOS,WSH,BOS,6,WSH,15,5,1,8478498,,2019020571,,2019-12-27,Too many men/ice served by Jake DeBrusk
+236,penalty,Roughing,David Pastrnak,Tom Wilson,[37. 35.],3,06:34,BOS,WSH,BOS,6,WSH,15,5,1,8477956,8476880.0,2019020571,,2019-12-27,David Pastrnak Roughing against Tom Wilson
+237,penalty,Roughing,Tom Wilson,David Pastrnak,[35. 21.],3,06:34,WSH,BOS,BOS,6,WSH,15,5,1,8476880,8477956.0,2019020571,,2019-12-27,Tom Wilson Roughing against David Pastrnak
+238,penalty,Too many men on the ice,Jake DeBrusk,,[-83.  23.],3,06:34,BOS,WSH,BOS,6,WSH,15,5,1,8478498,,2019020571,,2019-12-27,Too many men/ice served by Jake DeBrusk
+239,penalty,Misconduct,Tom Wilson,,[36. 22.],3,06:34,WSH,BOS,BOS,6,WSH,15,5,1,8476880,,2019020571,,2019-12-27,Tom Wilson Misconduct
+21,penalty,Hooking,David Pastrnak,Jack Eichel,[ 77. -27.],1,13:22,BOS,BUF,BUF,7,BOS,6,0,0,8477956,8478403.0,2019020582,,2019-12-28,David Pastrnak Hooking against Jack Eichel
+33,penalty,Holding,Evan Rodrigues,Steven Kampfer,[-95. -21.],1,10:23,BUF,BOS,BUF,7,BOS,6,0,0,8478542,8474000.0,2019020582,,2019-12-28,Evan Rodrigues Holding against Steven Kampfer
+58,penalty,Holding,Marcus Johansson,Charlie Coyle,[-35. -40.],1,00:29,BUF,BOS,BUF,7,BOS,6,0,0,8475149,8475745.0,2019020582,,2019-12-28,Marcus Johansson Holding against Charlie Coyle
+114,penalty,Holding,Brandon Montour,Brad Marchand,[-43. -41.],2,05:19,BUF,BOS,BUF,7,BOS,6,0,1,8477986,8473419.0,2019020582,,2019-12-28,Brandon Montour Holding against Brad Marchand
+158,penalty,Roughing,Sam Reinhart,Connor Clifton,[85. -4.],3,14:48,BUF,BOS,BUF,7,BOS,6,0,2,8477933,8477365.0,2019020582,,2019-12-28,Sam Reinhart Roughing against Connor Clifton
+159,penalty,Roughing,Connor Clifton,Sam Reinhart,[85. -5.],3,14:48,BOS,BUF,BUF,7,BOS,6,0,2,8477365,8477933.0,2019020582,,2019-12-28,Connor Clifton Roughing against Sam Reinhart
+168,penalty,Tripping,Linus Ullmark,Kyle Okposo,[-85.  -1.],3,12:01,BUF,BOS,BUF,7,BOS,6,0,2,8476999,8473449.0,2019020582,,2019-12-28,Linus Ullmark Tripping against Connor Clifton served by Kyle Okposo
+172,penalty,Interference - Goalkeeper,Danton Heinen,Linus Ullmark,[-83.  -6.],3,11:11,BOS,BUF,BUF,7,BOS,6,0,2,8478046,8476999.0,2019020582,,2019-12-28,Danton Heinen Interference - Goalkeeper against Linus Ullmark
+7,penalty,Too many men on the ice,Jake DeBrusk,,[-59.  30.],1,17:10,BOS,BUF,BOS,6,BUF,7,0,0,8478498,,2019020606,,2019-12-30,Too many men/ice served by Jake DeBrusk
+64,penalty,Tripping,Chris Wagner,Brandon Montour,[39. 35.],1,03:25,BOS,BUF,BOS,6,BUF,7,1,0,8475780,8477986.0,2019020606,,2019-12-30,Chris Wagner Tripping against Brandon Montour
+77,penalty,Tripping,Henri Jokiharju,Brad Marchand,[-44. -19.],2,19:45,BUF,BOS,BOS,6,BUF,7,1,0,8480035,8473419.0,2019020606,,2019-12-30,Henri Jokiharju Tripping against Brad Marchand
+128,penalty,Delaying Game - Puck over glass,Jimmy Vesey,,[-66. -33.],2,08:58,BUF,BOS,BOS,6,BUF,7,1,1,8476918,,2019020606,,2019-12-30,Jimmy Vesey Delaying Game - Puck over glass
+139,penalty,Tripping,Evan Rodrigues,Steven Kampfer,[47. 37.],2,05:49,BUF,BOS,BOS,6,BUF,7,1,1,8478542,8474000.0,2019020606,,2019-12-30,Evan Rodrigues Tripping against Steven Kampfer
+168,penalty,Tripping,Johan Larsson,Jake DeBrusk,[ 23. -24.],3,18:37,BUF,BOS,BOS,6,BUF,7,1,1,8475728,8478498.0,2019020606,,2019-12-30,Johan Larsson Tripping against Jake DeBrusk
+169,penalty,Hooking,Johan Larsson,Brad Marchand,[ 66. -19.],3,18:37,BUF,BOS,BOS,6,BUF,7,1,1,8475728,8473419.0,2019020606,,2019-12-30,Johan Larsson Hooking against Brad Marchand
+232,penalty,Tripping,Brett Ritchie,Rasmus Dahlin,[75.  9.],3,04:09,BOS,BUF,BOS,6,BUF,7,3,2,8476439,8480839.0,2019020606,,2019-12-30,Brett Ritchie Tripping against Rasmus Dahlin
+245,penalty,Slashing,Sam Reinhart,Brandon Carlo,[-72. -35.],3,00:17,BUF,BOS,BOS,6,BUF,7,3,2,8477933,8478443.0,2019020606,,2019-12-30,Sam Reinhart Slashing against Brandon Carlo
+246,penalty,Misconduct,Jack Eichel,,[43. 35.],3,00:17,BUF,BOS,BOS,6,BUF,7,3,2,8478403,,2019020606,,2019-12-30,Jack Eichel Misconduct
+2,penalty,Interference,P.K. Subban,Sean Kuraly,[-63. -40.],1,18:43,NJD,BOS,NJD,1,BOS,6,0,0,8474056,8476374.0,2019020613,,2019-12-31,P.K. Subban Interference against Sean Kuraly
+86,penalty,Tripping,Brad Marchand,Nikita Gusev,[-26.  17.],2,19:51,BOS,NJD,NJD,1,BOS,6,0,1,8473419,8477038.0,2019020613,,2019-12-31,Brad Marchand Tripping against Nikita Gusev
+125,penalty,Tripping,Travis Zajac,Brad Marchand,[ 55. -39.],2,10:53,NJD,BOS,NJD,1,BOS,6,1,2,8471233,8473419.0,2019020613,,2019-12-31,Travis Zajac Tripping against Brad Marchand
+127,penalty,Tripping,Matt Grzelcyk,Nico Hischier,[-71.   2.],2,10:40,BOS,NJD,NJD,1,BOS,6,1,2,8476891,8480002.0,2019020613,,2019-12-31,Matt Grzelcyk Tripping against Nico Hischier
+173,penalty,Interference,Jeremy Lauzon,Miles Wood,[87.  2.],3,17:26,BOS,NJD,NJD,1,BOS,6,1,2,8478468,8477425.0,2019020613,,2019-12-31,Jeremy Lauzon Interference against Miles Wood
+190,penalty,Tripping,Joakim Nordstrom,Mirco Mueller,[30.  2.],3,12:05,BOS,NJD,NJD,1,BOS,6,1,2,8475807,8477509.0,2019020613,,2019-12-31,Joakim Nordstrom Tripping against Mirco Mueller
+262,penalty,Hooking,Jesper Bratt,Sean Kuraly,[73.  1.],4,00:12,NJD,BOS,NJD,1,BOS,6,2,2,8479407,8476374.0,2019020613,,2019-12-31,Jesper Bratt Hooking against Sean Kuraly
+98,penalty,Hooking,Nick Foligno,Brad Marchand,[-73.  10.],2,15:12,CBJ,BOS,BOS,6,CBJ,29,0,0,8473422,8473419.0,2019020627,,2020-01-06,Nick Foligno Hooking against Brad Marchand
+126,penalty,Tripping,Dean Kukan,Jake DeBrusk,[-50. -19.],2,08:58,CBJ,BOS,BOS,6,CBJ,29,0,0,8478567,8478498.0,2019020627,,2020-01-06,Dean Kukan Tripping against Jake DeBrusk
+135,penalty,Interference,Charlie McAvoy,Kevin Stenlund,[86. 18.],2,07:24,BOS,CBJ,BOS,6,CBJ,29,1,0,8479325,8478831.0,2019020627,,2020-01-06,Charlie McAvoy Interference against Kevin Stenlund
+164,penalty,Holding,Zdeno Chara,Gustav Nyquist,[55. 24.],2,00:45,BOS,CBJ,BOS,6,CBJ,29,1,0,8465009,8474679.0,2019020627,,2020-01-06,Zdeno Chara Holding against Gustav Nyquist
+15,penalty,Elbowing,Leon Draisaitl,Torey Krug,[-77. -30.],1,16:55,EDM,BOS,BOS,6,EDM,22,0,0,8477934,8476792.0,2019020641,,2020-01-04,Leon Draisaitl Elbowing against Torey Krug
+66,penalty,Slashing,Gaetan Haas,Brad Marchand,[ 40. -22.],1,04:34,EDM,BOS,BOS,6,EDM,22,1,0,8481813,8473419.0,2019020641,,2020-01-04,Gaetan Haas Slashing against Brad Marchand
+97,penalty,Tripping,Sean Kuraly,Gaetan Haas,[-33.  19.],2,17:35,BOS,EDM,BOS,6,EDM,22,1,0,8476374,8481813.0,2019020641,,2020-01-04,Sean Kuraly Tripping against Gaetan Haas
+143,penalty,Holding,Zdeno Chara,Joakim Nygard,[ 86. -27.],2,07:57,BOS,EDM,BOS,6,EDM,22,1,1,8465009,8481638.0,2019020641,,2020-01-04,Zdeno Chara Holding against Joakim Nygard
+205,penalty,Hi-sticking,Ethan Bear,Charlie Coyle,[79.  8.],3,15:58,EDM,BOS,BOS,6,EDM,22,1,3,8478451,8475745.0,2019020641,,2020-01-04,Ethan Bear Hi-sticking against Charlie Coyle
+2,penalty,Cross checking,Brad Marchand,Viktor Arvidsson,[ 61. -16.],1,19:46,BOS,NSH,NSH,18,BOS,6,0,0,8473419,8478042.0,2019020671,,2020-01-10,Brad Marchand Cross checking against Viktor Arvidsson
+4,penalty,Embellishment,Viktor Arvidsson,Brad Marchand,[ 75. -28.],1,19:46,NSH,BOS,NSH,18,BOS,6,0,0,8478042,8473419.0,2019020671,,2020-01-10,Viktor Arvidsson Embellishment against Brad Marchand
+26,penalty,Boarding,Sean Kuraly,Matt Duchene,[-93.  26.],1,13:50,BOS,NSH,NSH,18,BOS,6,0,1,8476374,8475168.0,2019020671,,2020-01-10,Sean Kuraly Boarding against Matt Duchene
+78,penalty,Too many men on the ice,Brett Ritchie,,[ 9. 37.],2,17:41,BOS,NSH,NSH,18,BOS,6,0,1,8476439,,2019020671,,2020-01-10,Too many men/ice served by Brett Ritchie
+117,penalty,Tripping,Brandon Carlo,Viktor Arvidsson,[-41. -23.],2,10:59,BOS,NSH,NSH,18,BOS,6,0,2,8478443,8478042.0,2019020671,,2020-01-10,Brandon Carlo Tripping against Viktor Arvidsson
+122,penalty,Hi-sticking,Matt Grzelcyk,Craig Smith,[-90.  10.],2,09:32,BOS,NSH,NSH,18,BOS,6,0,2,8476891,8475225.0,2019020671,,2020-01-10,Matt Grzelcyk Hi-sticking against Craig Smith
+150,penalty,Too many men on the ice,Kyle Turris,,[12. 36.],2,03:31,NSH,BOS,NSH,18,BOS,6,1,2,8474068,,2019020671,,2020-01-10,Too many men/ice served by Kyle Turris
+182,penalty,Tripping,Rocco Grimaldi,Zdeno Chara,[96. 19.],3,16:08,NSH,BOS,NSH,18,BOS,6,1,4,8476428,8465009.0,2019020671,,2020-01-10,Rocco Grimaldi Tripping against Zdeno Chara
+207,penalty,Roughing,Zdeno Chara,Brett Ritchie,[95. -3.],3,08:20,BOS,NSH,NSH,18,BOS,6,1,4,8465009,8476439.0,2019020671,,2020-01-10,Zdeno Chara Roughing against Yakov Trenin served by Brett Ritchie
+208,penalty,Fighting,Yakov Trenin,Zdeno Chara,[94.  7.],3,08:20,NSH,BOS,NSH,18,BOS,6,1,4,8478508,8465009.0,2019020671,,2020-01-10,Yakov Trenin Fighting against Zdeno Chara
+209,penalty,Fighting,Zdeno Chara,Yakov Trenin,[95. 10.],3,08:20,BOS,NSH,NSH,18,BOS,6,1,4,8465009,8478508.0,2019020671,,2020-01-10,Zdeno Chara Fighting against Yakov Trenin
+211,penalty,Hooking,John Moore,Viktor Arvidsson,[84. -9.],3,08:16,BOS,NSH,NSH,18,BOS,6,1,4,8475186,8478042.0,2019020671,,2020-01-10,John Moore Hooking against Viktor Arvidsson
+234,penalty,Hooking,Roman Josi,Par Lindholm,[-28.  -1.],3,04:22,NSH,BOS,NSH,18,BOS,6,1,4,8474600,8480944.0,2019020671,,2020-01-10,Roman Josi Hooking against Par Lindholm
+241,penalty,Tripping,Charlie Coyle,Mikael Granlund,[-16.  21.],3,02:14,BOS,NSH,NSH,18,BOS,6,1,4,8475745,8475798.0,2019020671,,2020-01-10,Charlie Coyle Tripping against Mikael Granlund
+80,penalty,Tripping,Luca Sbisa,Brad Marchand,[-87. -23.],2,19:31,WPG,BOS,BOS,6,WPG,52,1,1,8474579,8473419.0,2019020678,,2020-01-11,Luca Sbisa Tripping against Brad Marchand
+96,penalty,Too many men on the ice,David Backes,,[18. 34.],2,15:37,BOS,WPG,BOS,6,WPG,52,1,1,8470655,,2019020678,,2020-01-11,Too many men/ice served by David Backes
+128,penalty,Tripping,Blake Wheeler,David Krejci,[45. 30.],2,10:24,WPG,BOS,BOS,6,WPG,52,1,2,8471218,8471276.0,2019020678,,2020-01-11,Blake Wheeler Tripping against David Krejci
+175,penalty,Interference,Matt Grzelcyk,Nikolaj Ehlers,[ 69. -13.],2,00:43,BOS,WPG,BOS,6,WPG,52,3,2,8476891,8477940.0,2019020678,,2020-01-11,Matt Grzelcyk Interference against Nikolaj Ehlers
+184,penalty,Tripping,Josh Morrissey,Charlie Coyle,[98.  7.],3,16:51,WPG,BOS,BOS,6,WPG,52,3,3,8477504,8475745.0,2019020678,,2020-01-11,Josh Morrissey Tripping against Charlie Coyle
+214,penalty,Hooking,Nikolaj Ehlers,Torey Krug,[ 18. -12.],3,07:48,WPG,BOS,BOS,6,WPG,52,5,4,8477940,8476792.0,2019020678,,2020-01-11,Nikolaj Ehlers Hooking against Torey Krug
+60,penalty,Hooking,Charlie McAvoy,Brock Nelson,[81.  2.],1,07:29,BOS,NYI,NYI,2,BOS,6,1,0,8479325,8475754.0,2019020694,,2020-01-12,Charlie McAvoy Hooking against Brock Nelson
+156,penalty,Roughing,Scott Mayfield,Charlie Coyle,[ 50. -23.],2,05:53,NYI,BOS,NYI,2,BOS,6,1,1,8476429,8475745.0,2019020694,,2020-01-12,Scott Mayfield Roughing against Charlie Coyle
+288,penalty,Tripping,Brock Nelson,Brad Marchand,[ 78. -14.],4,04:20,NYI,BOS,NYI,2,BOS,6,2,2,8475754,8473419.0,2019020694,,2020-01-12,Brock Nelson Tripping against Brad Marchand
+60,penalty,Roughing,Mark Friedman,Anders Bjork,[96. 14.],1,08:05,PHI,BOS,PHI,4,BOS,6,0,1,8478017,8478075.0,2019020711,,2020-01-14,Mark Friedman Roughing against Anders Bjork
+61,penalty,Roughing,Anders Bjork,Mark Friedman,[91. 24.],1,08:05,BOS,PHI,PHI,4,BOS,6,0,1,8478075,8478017.0,2019020711,,2020-01-14,Anders Bjork Roughing against Mark Friedman
+72,penalty,Tripping,Michael Raffl,Patrice Bergeron,[-74. -17.],1,04:30,PHI,BOS,PHI,4,BOS,6,0,1,8477290,8470638.0,2019020711,,2020-01-14,Michael Raffl Tripping against Patrice Bergeron
+84,penalty,Hi stick - double minor,Patrice Bergeron,Scott Laughton,[70.  0.],1,02:00,BOS,PHI,PHI,4,BOS,6,0,2,8470638,8476872.0,2019020711,,2020-01-14,Patrice Bergeron Hi stick - double minor against Scott Laughton
+141,penalty,Roughing,Chris Wagner,Travis Konecny,[86. 35.],2,10:58,BOS,PHI,PHI,4,BOS,6,2,5,8475780,8478439.0,2019020711,,2020-01-14,Chris Wagner Roughing against Travis Konecny
+186,penalty,Interference,Matt Niskanen,Brad Marchand,[28. 38.],3,19:32,PHI,BOS,PHI,4,BOS,6,4,5,8471702,8473419.0,2019020711,,2020-01-14,Matt Niskanen Interference against Brad Marchand
+231,penalty,Roughing,Joel Farabee,Torey Krug,[ 4. 39.],3,07:30,PHI,BOS,PHI,4,BOS,6,4,5,8480797,8476792.0,2019020711,,2020-01-14,Joel Farabee Roughing against Torey Krug
+232,penalty,Roughing,Torey Krug,Joel Farabee,[ 4. 39.],3,07:30,BOS,PHI,PHI,4,BOS,6,4,5,8476792,8480797.0,2019020711,,2020-01-14,Torey Krug Roughing against Joel Farabee
+24,penalty,Cross checking,Pierre-Luc Dubois,Torey Krug,[ 59. -13.],1,14:07,CBJ,BOS,CBJ,29,BOS,6,0,0,8479400,8476792.0,2019020719,,2020-01-15,Pierre-Luc Dubois Cross checking against Torey Krug
+67,penalty,Holding,Charlie McAvoy,Gustav Nyquist,[-33. -21.],1,01:01,BOS,CBJ,CBJ,29,BOS,6,1,0,8479325,8474679.0,2019020719,,2020-01-15,Charlie McAvoy Holding against Gustav Nyquist
+119,penalty,Holding,Vladislav Gavrikov,Anders Bjork,[66. 26.],2,10:24,CBJ,BOS,CBJ,29,BOS,6,1,0,8478882,8478075.0,2019020719,,2020-01-15,Vladislav Gavrikov Holding against Anders Bjork
+131,penalty,Unsportsmanlike conduct,Joakim Nordstrom,Pierre-Luc Dubois,[40. 41.],2,07:25,BOS,CBJ,CBJ,29,BOS,6,1,0,8475807,8479400.0,2019020719,,2020-01-15,Joakim Nordstrom Unsportsmanlike conduct against Pierre-Luc Dubois
+132,penalty,Roughing,Pierre-Luc Dubois,Joakim Nordstrom,[38. 40.],2,07:25,CBJ,BOS,CBJ,29,BOS,6,1,0,8479400,8475807.0,2019020719,,2020-01-15,Pierre-Luc Dubois Roughing against Joakim Nordstrom
+168,penalty,Slashing,Sonny Milano,Charlie Coyle,[-73.  -1.],3,18:26,CBJ,BOS,CBJ,29,BOS,6,1,0,8477947,8475745.0,2019020719,,2020-01-15,Sonny Milano Slashing against Charlie Coyle
+179,penalty,Hi-sticking,Brad Marchand,Vladislav Gavrikov,[-66.  38.],3,15:19,BOS,CBJ,CBJ,29,BOS,6,1,0,8473419,8478882.0,2019020719,,2020-01-15,Brad Marchand Hi-sticking against Vladislav Gavrikov
+183,penalty,Interference,Eric Robinson,Anders Bjork,[-7. 25.],3,14:11,CBJ,BOS,CBJ,29,BOS,6,2,0,8480762,8478075.0,2019020719,,2020-01-15,Eric Robinson Interference against Anders Bjork
+9,penalty,Roughing,Zach Aston-Reese,Charlie McAvoy,[-38. -36.],1,18:44,PIT,BOS,BOS,6,PIT,5,0,1,8479944,8479325.0,2019020727,,2020-01-17,Zach Aston-Reese Roughing against Charlie McAvoy
+17,penalty,Boarding,John Marino,Chris Wagner,[94. 28.],1,16:37,PIT,BOS,BOS,6,PIT,5,0,1,8478507,8475780.0,2019020727,,2020-01-17,John Marino Boarding against Chris Wagner
+40,penalty,Roughing,Kris Letang,Chris Wagner,[69. 11.],1,12:27,PIT,BOS,BOS,6,PIT,5,0,1,8471724,8475780.0,2019020727,,2020-01-17,Kris Letang Roughing against Chris Wagner
+41,penalty,Roughing,Chris Wagner,Kris Letang,[61. 13.],1,12:27,BOS,PIT,BOS,6,PIT,5,0,1,8475780,8471724.0,2019020727,,2020-01-17,Chris Wagner Roughing against Kris Letang
+69,penalty,Tripping,Patrice Bergeron,Evgeni Malkin,[-70.  27.],1,06:41,BOS,PIT,BOS,6,PIT,5,2,1,8470638,8471215.0,2019020727,,2020-01-17,Patrice Bergeron Tripping against Evgeni Malkin
+100,penalty,Tripping,Chris Wagner,John Marino,[-92.  25.],2,18:21,BOS,PIT,BOS,6,PIT,5,2,1,8475780,8478507.0,2019020727,,2020-01-17,Chris Wagner Tripping against John Marino
+130,penalty,Slashing,Anders Bjork,Dominik Kahun,[69. 11.],2,10:13,BOS,PIT,BOS,6,PIT,5,2,1,8478075,8480946.0,2019020727,,2020-01-17,Anders Bjork Slashing against Dominik Kahun
+163,penalty,Roughing,Patric Hornqvist,Torey Krug,[-8. 38.],2,03:55,PIT,BOS,BOS,6,PIT,5,2,1,8471887,8476792.0,2019020727,,2020-01-17,Patric Hornqvist Roughing against Torey Krug
+164,penalty,Roughing,Torey Krug,Patric Hornqvist,[-19.  39.],2,03:55,BOS,PIT,BOS,6,PIT,5,2,1,8476792,8471887.0,2019020727,,2020-01-17,Torey Krug Roughing against Patric Hornqvist
+171,penalty,Fighting,Patric Hornqvist,Torey Krug,[45. 19.],2,01:49,PIT,BOS,BOS,6,PIT,5,2,1,8471887,8476792.0,2019020727,,2020-01-17,Patric Hornqvist Fighting against Torey Krug
+172,penalty,Fighting,Torey Krug,Patric Hornqvist,[50. 10.],2,01:49,BOS,PIT,BOS,6,PIT,5,2,1,8476792,8471887.0,2019020727,,2020-01-17,Torey Krug Fighting against Patric Hornqvist
+174,penalty,Holding,Marcus Pettersson,David Pastrnak,[-92.  21.],2,01:19,PIT,BOS,BOS,6,PIT,5,2,1,8477969,8477956.0,2019020727,,2020-01-17,Marcus Pettersson Holding against David Pastrnak
+236,penalty,Too many men on the ice,Patric Hornqvist,,[41. 21.],3,08:18,PIT,BOS,BOS,6,PIT,5,3,1,8471887,,2019020727,,2020-01-17,Too many men/ice served by Patric Hornqvist
+81,penalty,Hooking,Teddy Blueger,Brandon Carlo,[95. 13.],1,01:37,PIT,BOS,PIT,5,BOS,6,1,3,8476927,8478443.0,2019020755,,2020-01-20,Teddy Blueger Hooking against Brandon Carlo
+142,penalty,Interference,Chris Wagner,Evgeni Malkin,[43.  0.],2,07:51,BOS,PIT,PIT,5,BOS,6,2,3,8475780,8471215.0,2019020755,,2020-01-20,Chris Wagner Interference against Evgeni Malkin
+148,penalty,Roughing,Brad Marchand,Kris Letang,[ 83. -37.],2,07:00,BOS,PIT,PIT,5,BOS,6,2,3,8473419,8471724.0,2019020755,,2020-01-20,Brad Marchand Roughing against Kris Letang
+149,penalty,Roughing,Kris Letang,Brad Marchand,[ 75. -26.],2,07:00,PIT,BOS,PIT,5,BOS,6,2,3,8471724,8473419.0,2019020755,,2020-01-20,Kris Letang Roughing against Brad Marchand
+183,penalty,Elbowing,Kris Letang,Brad Marchand,[-97.  -8.],3,19:40,PIT,BOS,PIT,5,BOS,6,2,3,8471724,8473419.0,2019020755,,2020-01-20,Kris Letang Elbowing against Brad Marchand
+273,penalty,Tripping,Matt Grzelcyk,Brandon Tanev,[ 82. -31.],3,00:56,BOS,PIT,PIT,5,BOS,6,4,3,8476891,8479293.0,2019020755,,2020-01-20,Matt Grzelcyk Tripping against Brandon Tanev
+7,penalty,Interference,Nicolas Hague,Danton Heinen,[54. 11.],1,18:21,VGK,BOS,BOS,6,VGK,54,0,1,8479980,8478046.0,2019020761,,2020-01-22,Nicolas Hague Interference against Danton Heinen
+33,penalty,Tripping,Mark Stone,Karson Kuhlman,[ 97. -10.],1,12:45,VGK,BOS,BOS,6,VGK,54,0,1,8475913,8480901.0,2019020761,,2020-01-22,Mark Stone Tripping against Karson Kuhlman
+68,penalty,Tripping,Zdeno Chara,Ryan Reaves,[-12.   4.],1,04:05,BOS,VGK,BOS,6,VGK,54,1,1,8465009,8471817.0,2019020761,,2020-01-22,Zdeno Chara Tripping against Ryan Reaves
+87,penalty,Interference,William Carrier,David Pastrnak,[16. 36.],2,18:18,VGK,BOS,BOS,6,VGK,54,1,1,8477478,8477956.0,2019020761,,2020-01-22,William Carrier Interference against David Pastrnak
+92,penalty,Too many men on the ice,Jonathan Marchessault,,[13. 38.],2,15:53,VGK,BOS,BOS,6,VGK,54,1,1,8476539,,2019020761,,2020-01-22,Too many men/ice served by Jonathan Marchessault
+113,penalty,Hi-sticking,Brandon Carlo,Reilly Smith,[-22.  31.],2,10:45,BOS,VGK,BOS,6,VGK,54,1,1,8478443,8475191.0,2019020761,,2020-01-22,Brandon Carlo Hi-sticking against Reilly Smith
+138,penalty,Boarding,Chandler Stephenson,Charlie McAvoy,[69. 38.],2,04:56,VGK,BOS,BOS,6,VGK,54,1,2,8476905,8479325.0,2019020761,,2020-01-22,Chandler Stephenson Boarding against Charlie McAvoy
+78,penalty,Roughing,Charlie McAvoy,Neal Pionk,[-72.  -1.],1,02:48,BOS,WPG,WPG,52,BOS,6,1,0,8479325,8480145.0,2019020789,,2020-02-01,Charlie McAvoy Roughing against Neal Pionk
+79,penalty,Roughing,Neal Pionk,Charlie McAvoy,[-73.   0.],1,02:48,WPG,BOS,WPG,52,BOS,6,1,0,8480145,8479325.0,2019020789,,2020-02-01,Neal Pionk Roughing against Charlie McAvoy
+80,penalty,Roughing,Neal Pionk,Mathieu Perreault,[-73.  -2.],1,02:48,WPG,BOS,WPG,52,BOS,6,1,0,8480145,8473618.0,2019020789,,2020-02-01,Neal Pionk Roughing against Charlie McAvoy served by Mathieu Perreault
+88,penalty,Slashing,Josh Morrissey,David Krejci,[ 74. -24.],1,01:28,WPG,BOS,WPG,52,BOS,6,1,0,8477504,8471276.0,2019020789,,2020-02-01,Josh Morrissey Slashing against David Krejci
+105,penalty,Hooking,Matt Grzelcyk,Blake Wheeler,[ 79. -10.],2,17:49,BOS,WPG,WPG,52,BOS,6,1,1,8476891,8471218.0,2019020789,,2020-02-01,Matt Grzelcyk Hooking against Blake Wheeler
+114,penalty,Roughing,Brad Marchand,Danton Heinen,[-14.  27.],2,16:32,BOS,WPG,WPG,52,BOS,6,1,1,8473419,8478046.0,2019020789,,2020-02-01,Brad Marchand Roughing against Nikolaj Ehlers served by Danton Heinen
+115,penalty,Fighting,Brad Marchand,Nikolaj Ehlers,[-11.  20.],2,16:32,BOS,WPG,WPG,52,BOS,6,1,1,8473419,8477940.0,2019020789,,2020-02-01,Brad Marchand Fighting against Nikolaj Ehlers
+116,penalty,Fighting,Nikolaj Ehlers,Brad Marchand,[-14.  28.],2,16:32,WPG,BOS,WPG,52,BOS,6,1,1,8477940,8473419.0,2019020789,,2020-02-01,Nikolaj Ehlers Fighting against Brad Marchand
+121,penalty,Delaying Game - Puck over glass,Brandon Carlo,,[67. 36.],2,15:43,BOS,WPG,WPG,52,BOS,6,1,1,8478443,,2019020789,,2020-02-01,Brandon Carlo Delaying Game - Puck over glass
+136,penalty,Tripping,Charlie Coyle,Jack Roslovic,[71. 39.],2,12:53,BOS,WPG,WPG,52,BOS,6,1,1,8475745,8478458.0,2019020789,,2020-02-01,Charlie Coyle Tripping against Jack Roslovic
+148,penalty,Instigator,Brandon Carlo,Danton Heinen,[-4.  5.],2,09:50,BOS,WPG,WPG,52,BOS,6,1,1,8478443,8478046.0,2019020789,,2020-02-01,Brandon Carlo Instigator against Gabriel Bourque served by Danton Heinen
+149,penalty,Fighting,Brandon Carlo,Gabriel Bourque,[-4.  4.],2,09:50,BOS,WPG,WPG,52,BOS,6,1,1,8478443,8475268.0,2019020789,,2020-02-01,Brandon Carlo Fighting against Gabriel Bourque
+150,penalty,Misconduct,Brandon Carlo,Gabriel Bourque,[-4.  2.],2,09:50,BOS,WPG,WPG,52,BOS,6,1,1,8478443,8475268.0,2019020789,,2020-02-01,Brandon Carlo Misconduct against Gabriel Bourque
+151,penalty,Fighting,Gabriel Bourque,Brandon Carlo,[-4.  4.],2,09:50,WPG,BOS,WPG,52,BOS,6,1,1,8475268,8478443.0,2019020789,,2020-02-01,Gabriel Bourque Fighting against Brandon Carlo
+168,penalty,Fighting,Karson Kuhlman,Luca Sbisa,[-33.   0.],2,04:24,BOS,WPG,WPG,52,BOS,6,1,1,8480901,8474579.0,2019020789,,2020-02-01,Karson Kuhlman Fighting against Luca Sbisa
+169,penalty,Instigator,Luca Sbisa,Jansen Harkins,[-5.  2.],2,04:24,WPG,BOS,WPG,52,BOS,6,1,1,8474579,8478424.0,2019020789,,2020-02-01,Luca Sbisa Instigator against Karson Kuhlman served by Jansen Harkins
+170,penalty,Fighting,Luca Sbisa,Karson Kuhlman,[-7.  3.],2,04:24,WPG,BOS,WPG,52,BOS,6,1,1,8474579,8480901.0,2019020789,,2020-02-01,Luca Sbisa Fighting against Karson Kuhlman
+171,penalty,Misconduct,Luca Sbisa,Karson Kuhlman,[-5.  3.],2,04:24,WPG,BOS,WPG,52,BOS,6,1,1,8474579,8480901.0,2019020789,,2020-02-01,Luca Sbisa Misconduct against Karson Kuhlman
+184,penalty,Holding,Torey Krug,Patrik Laine,[79.  3.],2,00:00,BOS,WPG,WPG,52,BOS,6,1,1,8476792,8479339.0,2019020789,,2020-02-01,Torey Krug Holding against Patrik Laine
+194,penalty,Slashing,Sami Niku,Brad Marchand,[79. 17.],3,17:25,WPG,BOS,WPG,52,BOS,6,1,1,8478915,8473419.0,2019020789,,2020-02-01,Sami Niku Slashing against Brad Marchand

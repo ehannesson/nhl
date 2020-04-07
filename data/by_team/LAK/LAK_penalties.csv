@@ -1,444 +1,444 @@
-,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,description
-119,penalty,Holding,Michael Del Zotto,Matt Luff,[97.  6.],2,15:54,ANA,LAK,LAK,26,ANA,24,0,2,8474584,8479644.0,Michael Del Zotto Holding against Matt Luff
-131,penalty,Holding,Adrian Kempe,Michael Del Zotto,[-51.  -1.],2,12:49,LAK,ANA,LAK,26,ANA,24,0,3,8477960,8474584.0,Adrian Kempe Holding against Michael Del Zotto
-140,penalty,Fighting,Kurtis MacDermid,Nicolas Deslauriers,[-59.  -1.],2,10:23,LAK,ANA,LAK,26,ANA,24,0,3,8477073,8475235.0,Kurtis MacDermid Fighting against Nicolas Deslauriers
-141,penalty,Fighting,Nicolas Deslauriers,Kurtis MacDermid,[-69.  -2.],2,10:23,ANA,LAK,LAK,26,ANA,24,0,3,8475235,8477073.0,Nicolas Deslauriers Fighting against Kurtis MacDermid
-166,penalty,Holding,Cam Fowler,Jeff Carter,[ 79. -15.],2,03:42,ANA,LAK,LAK,26,ANA,24,0,3,8475764,8470604.0,Cam Fowler Holding against Jeff Carter
-12,penalty,Hooking,Carl Hagelin,Blake Lizotte,[ 61. -10.],1,16:27,WSH,LAK,WSH,15,LAK,26,0,0,8474176,8481481.0,Carl Hagelin Hooking against Blake Lizotte
-27,penalty,Slashing,Kurtis MacDermid,T.J. Oshie,[-55.  31.],1,10:24,LAK,WSH,WSH,15,LAK,26,0,0,8477073,8471698.0,Kurtis MacDermid Slashing against T.J. Oshie
-138,penalty,Holding,Martin Fehervary,Austin Wagner,[87. 16.],2,00:21,WSH,LAK,WSH,15,LAK,26,1,1,8480796,8478455.0,Martin Fehervary Holding against Austin Wagner
-139,penalty,Hooking,Mathew Barzal,Dustin Brown,[95. 21.],2,07:06,NYI,LAK,NYI,2,LAK,26,2,3,8478445,8470606.0,Mathew Barzal Hooking against Dustin Brown
-147,penalty,Slashing,Anthony Beauvillier,Anze Kopitar,[ 1. -4.],2,03:58,NYI,LAK,NYI,2,LAK,26,2,3,8478463,8471685.0,Anthony Beauvillier Slashing against Anze Kopitar
-202,penalty,Hooking,Sean Walker,Michael Dal Colle,[85.  8.],3,12:05,LAK,NYI,NYI,2,LAK,26,3,3,8480336,8477936.0,Sean Walker Hooking against Michael Dal Colle
-216,penalty,Fighting,Alec Martinez,Casey Cizikas,[67. 25.],3,08:57,LAK,NYI,NYI,2,LAK,26,3,3,8474166,8475231.0,Alec Martinez Fighting against Casey Cizikas
-217,penalty,Roughing,Casey Cizikas,Alec Martinez,[73. 29.],3,08:57,NYI,LAK,NYI,2,LAK,26,3,3,8475231,8474166.0,Casey Cizikas Roughing against Alec Martinez
-218,penalty,Roughing,Drew Doughty,Casey Cizikas,[65. 27.],3,08:57,LAK,NYI,NYI,2,LAK,26,3,3,8474563,8475231.0,Drew Doughty Roughing against Casey Cizikas
-219,penalty,Fighting,Casey Cizikas,Alec Martinez,[69. 30.],3,08:57,NYI,LAK,NYI,2,LAK,26,3,3,8475231,8474166.0,Casey Cizikas Fighting against Alec Martinez
-11,penalty,Hooking,Carl Grundstrom,Jesper Bratt,[-44.  40.],1,17:39,LAK,NJD,NJD,1,LAK,26,0,0,8479336,8479407.0,Carl Grundstrom Hooking against Jesper Bratt
-70,penalty,Cross checking,Damon Severson,Austin Wagner,[-80. -36.],1,01:54,NJD,LAK,NJD,1,LAK,26,0,0,8476923,8478455.0,Damon Severson Cross checking against Austin Wagner
-90,penalty,Hooking,Blake Lizotte,Wayne Simmonds,[-69. -13.],2,17:20,LAK,NJD,NJD,1,LAK,26,0,0,8481481,8474190.0,Blake Lizotte Hooking against Wayne Simmonds
-106,penalty,Hi-sticking,Carl Grundstrom,Connor Carrick,[55. 22.],2,13:48,LAK,NJD,NJD,1,LAK,26,1,0,8479336,8476941.0,Carl Grundstrom Hi-sticking against Connor Carrick
-127,penalty,Interference,P.K. Subban,Carl Grundstrom,[ 8. 35.],2,07:48,NJD,LAK,NJD,1,LAK,26,3,0,8474056,8479336.0,P.K. Subban Interference against Carl Grundstrom
-129,penalty,PS - Hooking on breakaway,Damon Severson,Anze Kopitar,[65.  2.],2,07:23,NJD,LAK,NJD,1,LAK,26,3,0,8476923,8471685.0,Damon Severson PS - Hooking on breakaway against Anze Kopitar
-188,penalty,Holding,Wayne Simmonds,Austin Wagner,[-41.   4.],3,13:55,NJD,LAK,NJD,1,LAK,26,3,0,8474190,8478455.0,Wayne Simmonds Holding against Austin Wagner
-195,penalty,Hooking,Trevor Lewis,Jack Hughes,[94. -9.],3,11:08,LAK,NJD,NJD,1,LAK,26,3,0,8473453,8481559.0,Trevor Lewis Hooking against Jack Hughes
-106,penalty,Tripping,Tony DeAngelo,Blake Lizotte,[-97.   3.],2,18:16,NYR,LAK,NYR,3,LAK,26,1,0,8477950,8481481.0,Tony DeAngelo Tripping against Blake Lizotte
-171,penalty,Hi-sticking,Blake Lizotte,Ryan Lindgren,[-87.  35.],2,04:26,LAK,NYR,NYR,3,LAK,26,1,0,8481481,8479324.0,Blake Lizotte Hi-sticking against Ryan Lindgren
-199,penalty,Interference,Jesper Fast,Sean Walker,[-96.  -4.],3,18:36,NYR,LAK,NYR,3,LAK,26,1,0,8475855,8480336.0,Jesper Fast Interference against Sean Walker
-19,penalty,Tripping,Derek Forbort,Elias Lindholm,[96. -7.],1,15:12,LAK,CGY,LAK,26,CGY,20,0,0,8475762,8477496.0,Derek Forbort Tripping against Elias Lindholm
-114,penalty,Fighting,Milan Lucic,Kurtis MacDermid,[35.  5.],2,13:37,CGY,LAK,LAK,26,CGY,20,0,0,8473473,8477073.0,Milan Lucic Fighting against Kurtis MacDermid
-115,penalty,Fighting,Kurtis MacDermid,Milan Lucic,[42.  8.],2,13:37,LAK,CGY,LAK,26,CGY,20,0,0,8477073,8473473.0,Kurtis MacDermid Fighting against Milan Lucic
-162,penalty,Tripping,Matthew Tkachuk,Alec Martinez,[-93.  21.],2,03:19,CGY,LAK,LAK,26,CGY,20,2,1,8479314,8474166.0,Matthew Tkachuk Tripping against Alec Martinez
-163,penalty,Roughing,Alec Martinez,Matthew Tkachuk,[-95.  22.],2,03:19,LAK,CGY,LAK,26,CGY,20,2,1,8474166,8479314.0,Alec Martinez Roughing against Matthew Tkachuk
-164,penalty,Roughing,Matthew Tkachuk,Johnny Gaudreau,[-92.  20.],2,03:19,CGY,LAK,LAK,26,CGY,20,2,1,8479314,8476346.0,Matthew Tkachuk Roughing against Alec Martinez served by Johnny Gaudreau
-210,penalty,Tripping,Drew Doughty,Andrew Mangiapane,[32. 33.],3,12:30,LAK,CGY,LAK,26,CGY,20,3,2,8474563,8478233.0,Drew Doughty Tripping against Andrew Mangiapane
-213,penalty,Tripping,Alex Iafallo,Matthew Tkachuk,[13. -1.],3,11:32,LAK,CGY,LAK,26,CGY,20,3,2,8480113,8479314.0,Alex Iafallo Tripping against Matthew Tkachuk
-262,penalty,Misconduct,Rasmus Andersson,,[-22.  -5.],3,00:03,CGY,LAK,LAK,26,CGY,20,5,3,8478397,,Rasmus Andersson Misconduct
-27,penalty,Hooking,Jeff Carter,Vladislav Kamenev,[71.  4.],1,12:53,LAK,COL,COL,21,LAK,26,0,0,8470604,8477973.0,Jeff Carter Hooking against Vladislav Kamenev
-29,penalty,Tripping,Gabriel Landeskog,Anze Kopitar,[66. 24.],1,12:50,COL,LAK,COL,21,LAK,26,0,0,8476455,8471685.0,Gabriel Landeskog Tripping against Anze Kopitar
-197,penalty,Holding,Blake Lizotte,J.T. Compher,[ 83. -25.],3,10:50,LAK,COL,COL,21,LAK,26,1,1,8481481,8477456.0,Blake Lizotte Holding against J.T. Compher
-199,penalty,Interference,Andre Burakovsky,Drew Doughty,[20.  1.],3,10:33,COL,LAK,COL,21,LAK,26,1,1,8477444,8474563.0,Andre Burakovsky Interference against Drew Doughty
-39,penalty,Hooking,Sean Walker,Blake Wheeler,[-68.   1.],1,09:14,LAK,WPG,WPG,52,LAK,26,0,1,8480336,8471218.0,Sean Walker Hooking against Blake Wheeler
-102,penalty,Tripping,Tucker Poolman,Anze Kopitar,[-51.  32.],2,10:49,WPG,LAK,WPG,52,LAK,26,0,1,8477359,8471685.0,Tucker Poolman Tripping against Anze Kopitar
-158,penalty,Delaying Game - Puck over glass,Nathan Beaulieu,,[50. 40.],3,18:17,WPG,LAK,WPG,52,LAK,26,3,2,8476470,,Nathan Beaulieu Delaying Game - Puck over glass
-192,penalty,Interference,Dustin Brown,Blake Wheeler,[-20. -27.],3,08:20,LAK,WPG,WPG,52,LAK,26,4,2,8470606,8471218.0,Dustin Brown Interference against Blake Wheeler
-51,penalty,Holding,Drew Doughty,Frank Vatrano,[78. -3.],1,08:58,LAK,FLA,LAK,26,FLA,13,1,2,8474563,8478366.0,Drew Doughty Holding against Frank Vatrano
-64,penalty,Interference,Mike Hoffman,Trevor Moore,[-67.  15.],1,05:01,FLA,LAK,LAK,26,FLA,13,1,2,8474884,8479675.0,Mike Hoffman Interference against Trevor Moore
-72,penalty,Roughing,Riley Stillman,Trevor Lewis,[-74. -40.],1,04:01,FLA,LAK,LAK,26,FLA,13,2,2,8479388,8473453.0,Riley Stillman Roughing against Trevor Lewis
-81,penalty,Hi-sticking,Vincent Trocheck,Gabriel Vilardi,[57. 31.],1,01:27,FLA,LAK,LAK,26,FLA,13,2,2,8476389,8480014.0,Vincent Trocheck Hi-sticking against Gabriel Vilardi
-89,penalty,Hooking,Sean Walker,Noel Acciari,[ 62. -13.],1,00:00,LAK,FLA,LAK,26,FLA,13,2,2,8480336,8478569.0,Sean Walker Hooking against Noel Acciari
-92,penalty,Tripping,Adrian Kempe,Jonathan Huberdeau,[-35. -10.],2,18:24,LAK,FLA,LAK,26,FLA,13,2,2,8477960,8476456.0,Adrian Kempe Tripping against Jonathan Huberdeau
-118,penalty,Tripping,Frank Vatrano,Sean Walker,[-47.  39.],2,12:33,FLA,LAK,LAK,26,FLA,13,2,3,8478366,8480336.0,Frank Vatrano Tripping against Sean Walker
-179,penalty,Hooking,Drew Doughty,Jonathan Huberdeau,[-29. -29.],2,00:34,LAK,FLA,LAK,26,FLA,13,4,3,8474563,8476456.0,Drew Doughty Hooking against Jonathan Huberdeau
-184,penalty,Roughing,Adrian Kempe,Keith Yandle,[-17. -15.],2,00:00,LAK,FLA,LAK,26,FLA,13,4,3,8477960,8471735.0,Adrian Kempe Roughing against Keith Yandle
-185,penalty,Roughing,Keith Yandle,Adrian Kempe,[-19. -20.],2,00:00,FLA,LAK,LAK,26,FLA,13,4,3,8471735,8477960.0,Keith Yandle Roughing against Adrian Kempe
-227,penalty,Hooking,Noel Acciari,Trevor Lewis,[44. 16.],3,09:22,FLA,LAK,LAK,26,FLA,13,4,4,8478569,8473453.0,Noel Acciari Hooking against Trevor Lewis
-20,penalty,PS - Hooking on breakaway,Nikita Zadorov,Austin Wagner,[-69.   0.],1,15:13,COL,LAK,LAK,26,COL,21,0,0,8477507,8478455.0,Nikita Zadorov PS - Hooking on breakaway against Austin Wagner
-26,penalty,Roughing,Austin Wagner,J.T. Compher,[-40.  36.],1,13:21,LAK,COL,LAK,26,COL,21,1,0,8478455,8477456.0,Austin Wagner Roughing against J.T. Compher
-78,penalty,Holding,Derek Forbort,Gabriel Landeskog,[70.  0.],1,03:13,LAK,COL,LAK,26,COL,21,1,0,8475762,8476455.0,Derek Forbort Holding against Gabriel Landeskog
-106,penalty,Holding,Ben Hutton,Tyson Jost,[-81.  -5.],2,15:38,LAK,COL,LAK,26,COL,21,1,0,8477018,8479370.0,Ben Hutton Holding against Tyson Jost
-117,penalty,Tripping,Cale Makar,Trevor Moore,[-21. -25.],2,13:44,COL,LAK,LAK,26,COL,21,1,0,8480069,8479675.0,Cale Makar Tripping against Trevor Moore
-140,penalty,Tripping,Gabriel Vilardi,Joonas Donskoi,[44. 25.],2,08:33,LAK,COL,LAK,26,COL,21,1,0,8480014,8475820.0,Gabriel Vilardi Tripping against Joonas Donskoi
-168,penalty,Slashing,Dustin Brown,Cale Makar,[ 94. -21.],2,00:27,LAK,COL,LAK,26,COL,21,1,1,8470606,8480069.0,Dustin Brown Slashing against Cale Makar
-169,penalty,Embellishment,Cale Makar,Dustin Brown,[ 93. -17.],2,00:27,COL,LAK,LAK,26,COL,21,1,1,8480069,8470606.0,Cale Makar Embellishment against Dustin Brown
-191,penalty,Abusive language,Martin Frk,,[17. 40.],3,14:46,LAK,COL,LAK,26,COL,21,1,1,8476924,,Abusive language served by Martin Frk
-246,penalty,Hooking,J.T. Compher,Adrian Kempe,[71.  0.],4,01:15,COL,LAK,LAK,26,COL,21,1,1,8477456,8477960.0,J.T. Compher Hooking against Adrian Kempe
-62,penalty,Slashing,Josh Archibald,Gabriel Vilardi,[-53.  -2.],1,02:38,EDM,LAK,LAK,26,EDM,22,0,0,8476326,8480014.0,Josh Archibald Slashing against Gabriel Vilardi
-65,penalty,Hooking,Sean Walker,Ryan Nugent-Hopkins,[-19.  -6.],1,02:06,LAK,EDM,LAK,26,EDM,22,0,0,8480336,8476454.0,Sean Walker Hooking against Ryan Nugent-Hopkins
-150,penalty,Hi-sticking,Leon Draisaitl,Matt Roy,[ 12. -35.],2,02:04,EDM,LAK,LAK,26,EDM,22,0,3,8477934,8478911.0,Leon Draisaitl Hi-sticking against Matt Roy
-197,penalty,Tripping,Dustin Brown,Gaetan Haas,[ 93. -19.],3,07:52,LAK,EDM,LAK,26,EDM,22,2,3,8470606,8481813.0,Dustin Brown Tripping against Gaetan Haas
-220,penalty,Holding,Jujhar Khaira,Kurtis MacDermid,[74.  5.],3,00:22,EDM,LAK,LAK,26,EDM,22,2,4,8476915,8477073.0,Jujhar Khaira Holding against Kurtis MacDermid
-5,penalty,Tripping,Kris Letang,Dustin Brown,[-70.  34.],1,19:00,PIT,LAK,LAK,26,PIT,5,0,0,8471724,8470606.0,Kris Letang Tripping against Dustin Brown
-23,penalty,Hooking,Michael Amadio,Dominik Simon,[75.  2.],1,15:58,LAK,PIT,LAK,26,PIT,5,1,0,8478020,8478866.0,Michael Amadio Hooking against Dominik Simon
-61,penalty,Holding,Jack Johnson,Alex Iafallo,[-97. -12.],1,05:01,PIT,LAK,LAK,26,PIT,5,1,0,8471677,8480113.0,Jack Johnson Holding against Alex Iafallo
-100,penalty,Interference,Blake Lizotte,Bryan Rust,[-11. -31.],2,14:47,LAK,PIT,LAK,26,PIT,5,1,0,8481481,8475810.0,Blake Lizotte Interference against Bryan Rust
-130,penalty,Tripping,Gabriel Vilardi,Patrick Marleau,[75. -6.],2,07:52,LAK,PIT,LAK,26,PIT,5,1,0,8480014,8466139.0,Gabriel Vilardi Tripping against Patrick Marleau
-113,penalty,Tripping,Kurtis MacDermid,Michael McLeod,[ 48. -31.],2,12:23,LAK,NJD,LAK,26,NJD,1,0,1,8477073,8479415.0,Kurtis MacDermid Tripping against Michael McLeod
-24,penalty,Cross checking,William Carrier,Austin Wagner,[87.  1.],1,13:25,VGK,LAK,VGK,54,LAK,26,0,1,8477478,8478455.0,William Carrier Cross checking against Austin Wagner
-58,penalty,Hooking,Drew Doughty,Paul Stastny,[-78.   3.],1,04:23,LAK,VGK,VGK,54,LAK,26,0,2,8474563,8471669.0,Drew Doughty Hooking against Paul Stastny
-74,penalty,Interference - Goalkeeper,Drew Doughty,Marc-Andre Fleury,[86.  1.],1,01:59,LAK,VGK,VGK,54,LAK,26,0,2,8474563,8470594.0,Drew Doughty Interference - Goalkeeper against Marc-Andre Fleury
-75,penalty,Interference,Nate Schmidt,Dustin Brown,[-62.  40.],1,01:59,VGK,LAK,VGK,54,LAK,26,0,2,8477220,8470606.0,Nate Schmidt Interference against Dustin Brown
-139,penalty,Slashing,Martin Frk,Max Pacioretty,[85.  1.],2,07:31,LAK,VGK,VGK,54,LAK,26,0,3,8476924,8474157.0,Martin Frk Slashing against Max Pacioretty
-172,penalty,Interference - Goalkeeper,Alec Martinez,Calvin Petersen,[88. -2.],2,01:06,VGK,LAK,VGK,54,LAK,26,1,3,8474166,8477361.0,Alec Martinez Interference - Goalkeeper against Calvin Petersen
-207,penalty,Interference,Kurtis MacDermid,Nick Cousins,[50.  0.],3,15:53,LAK,VGK,VGK,54,LAK,26,1,4,8477073,8476393.0,Kurtis MacDermid Interference against Nick Cousins
-225,penalty,Too many men on the ice,Martin Frk,,[-12.  41.],3,11:39,LAK,VGK,VGK,54,LAK,26,1,4,8476924,,Too many men/ice served by Martin Frk
-37,penalty,Holding,Trevor Lewis,William Nylander,[75. -3.],1,11:27,LAK,TOR,LAK,26,TOR,10,0,0,8473453,8477939.0,Trevor Lewis Holding against William Nylander
-53,penalty,Slashing,Martin Marincin,Adrian Kempe,[-87.  14.],1,05:37,TOR,LAK,LAK,26,TOR,10,0,0,8475716,8477960.0,Martin Marincin Slashing against Adrian Kempe
-69,penalty,Holding,Timothy Liljegren,Martin Frk,[-96.  19.],1,02:41,TOR,LAK,LAK,26,TOR,10,0,0,8480043,8476924.0,Timothy Liljegren Holding against Martin Frk
-137,penalty,Tripping,Drew Doughty,John Tavares,[-51.  22.],2,03:36,LAK,TOR,LAK,26,TOR,10,0,0,8474563,8475166.0,Drew Doughty Tripping against John Tavares
-158,penalty,Slashing,Adrian Kempe,William Nylander,[71. -3.],3,18:47,LAK,TOR,LAK,26,TOR,10,0,0,8477960,8477939.0,Adrian Kempe Slashing against William Nylander
-221,penalty,Hooking,John Tavares,Alex Iafallo,[33.  3.],4,04:29,TOR,LAK,LAK,26,TOR,10,0,0,8475166,8480113.0,John Tavares Hooking against Alex Iafallo
-32,penalty,Hi-sticking,Blake Lizotte,Ryan Suter,[-95.  17.],1,12:19,LAK,MIN,LAK,26,MIN,30,1,0,8481481,8470600.0,Blake Lizotte Hi-sticking against Ryan Suter
-98,penalty,Slashing,Jordan Greenway,Gabriel Vilardi,[87. 12.],2,17:25,MIN,LAK,LAK,26,MIN,30,1,1,8478413,8480014.0,Jordan Greenway Slashing against Gabriel Vilardi
-112,penalty,Hi-sticking,Trevor Moore,Mats Zuccarello,[-10. -35.],2,13:41,LAK,MIN,LAK,26,MIN,30,1,1,8479675,8475692.0,Trevor Moore Hi-sticking against Mats Zuccarello
-121,penalty,Tripping,Joel Eriksson Ek,Gabriel Vilardi,[47. 14.],2,11:12,MIN,LAK,LAK,26,MIN,30,3,1,8478493,8480014.0,Joel Eriksson Ek Tripping against Gabriel Vilardi
-134,penalty,Holding,Alex Iafallo,Zach Parise,[-96.  -2.],2,08:51,LAK,MIN,LAK,26,MIN,30,3,1,8480113,8470610.0,Alex Iafallo Holding against Zach Parise
-164,penalty,Too many men on the ice,Kevin Fiala,,[ -7. -40.],3,18:29,MIN,LAK,LAK,26,MIN,30,3,1,8477942,,Too many men/ice served by Kevin Fiala
-196,penalty,Slashing,Kevin Fiala,Kurtis MacDermid,[ 20. -19.],3,09:03,MIN,LAK,LAK,26,MIN,30,4,2,8477942,8477073.0,Kevin Fiala Slashing against Kurtis MacDermid
-19,penalty,Cross checking,Samuel Girard,Blake Lizotte,[-93. -24.],1,13:30,COL,LAK,LAK,26,COL,21,0,0,8479398,8481481.0,Samuel Girard Cross checking against Blake Lizotte
-100,penalty,Interference,Matt Roy,Gabriel Landeskog,[-16. -13.],2,13:56,LAK,COL,LAK,26,COL,21,2,0,8478911,8476455.0,Matt Roy Interference against Gabriel Landeskog
-132,penalty,PS - Hooking on breakaway,Sean Walker,Valeri Nichushkin,[-76.  -2.],2,06:45,LAK,COL,LAK,26,COL,21,2,0,8480336,8477501.0,Sean Walker PS - Hooking on breakaway against Valeri Nichushkin
-177,penalty,Holding,Nikita Zadorov,Austin Wagner,[-76.  -9.],3,17:05,COL,LAK,LAK,26,COL,21,2,1,8477507,8478455.0,Nikita Zadorov Holding against Austin Wagner
-46,penalty,Too many men on the ice,Brady Tkachuk,,[-47.  39.],1,08:36,OTT,LAK,LAK,26,OTT,9,1,1,8480801,,Too many men/ice served by Brady Tkachuk
-49,penalty,Delaying Game - Puck over glass,Nikita Zaitsev,,[-68.  18.],1,07:41,OTT,LAK,LAK,26,OTT,9,1,1,8479458,,Nikita Zaitsev Delaying Game - Puck over glass
-74,penalty,Fighting,Colin White,Austin Wagner,[79.  5.],1,01:52,OTT,LAK,LAK,26,OTT,9,1,1,8478400,8478455.0,Colin White Fighting against Austin Wagner
-75,penalty,Fighting,Austin Wagner,Colin White,[80.  5.],1,01:52,LAK,OTT,LAK,26,OTT,9,1,1,8478455,8478400.0,Austin Wagner Fighting against Colin White
-102,penalty,Tripping,Drew Doughty,Bobby Ryan,[48. 36.],2,16:16,LAK,OTT,LAK,26,OTT,9,1,1,8474563,8471676.0,Drew Doughty Tripping against Bobby Ryan
-176,penalty,Tripping,Drew Doughty,Brady Tkachuk,[ 97. -24.],3,16:37,LAK,OTT,LAK,26,OTT,9,1,2,8474563,8480801.0,Drew Doughty Tripping against Brady Tkachuk
-190,penalty,Holding,Nikita Zaitsev,Dustin Brown,[-79.   6.],3,12:44,OTT,LAK,LAK,26,OTT,9,1,2,8479458,8470606.0,Nikita Zaitsev Holding against Dustin Brown
-212,penalty,Holding,Thomas Chabot,Dustin Brown,[-86.  22.],3,06:46,OTT,LAK,LAK,26,OTT,9,2,2,8478469,8470606.0,Thomas Chabot Holding against Dustin Brown
-27,penalty,Slashing,Drew Doughty,Connor McDavid,[64. 12.],1,14:56,LAK,EDM,EDM,22,LAK,26,1,1,8474563,8478402.0,Drew Doughty Slashing against Connor McDavid
-46,penalty,Tripping,Jeff Carter,Joakim Nygard,[ 93. -12.],1,10:32,LAK,EDM,EDM,22,LAK,26,1,2,8470604,8481638.0,Jeff Carter Tripping against Joakim Nygard
-90,penalty,Holding,Alec Martinez,Jujhar Khaira,[-58.  17.],1,00:09,LAK,EDM,EDM,22,LAK,26,2,3,8474166,8476915.0,Alec Martinez Holding against Jujhar Khaira
-125,penalty,Slashing,Matt Benning,Trevor Lewis,[80. 22.],2,14:29,EDM,LAK,EDM,22,LAK,26,3,3,8476988,8473453.0,Matt Benning Slashing against Trevor Lewis
-177,penalty,Hi-sticking,Anze Kopitar,Leon Draisaitl,[-62. -18.],2,03:03,LAK,EDM,EDM,22,LAK,26,3,3,8471685,8477934.0,Anze Kopitar Hi-sticking against Leon Draisaitl
-203,penalty,Hooking,Connor McDavid,Sean Walker,[-12.  36.],3,15:53,EDM,LAK,EDM,22,LAK,26,3,4,8478402,8480336.0,Connor McDavid Hooking against Sean Walker
-211,penalty,Interference,Dustin Brown,Leon Draisaitl,[-69.   1.],3,14:38,LAK,EDM,EDM,22,LAK,26,3,4,8470606,8477934.0,Dustin Brown Interference against Leon Draisaitl
-216,penalty,Holding,Ethan Bear,Michael Amadio,[-57. -36.],3,14:13,EDM,LAK,EDM,22,LAK,26,4,4,8478451,8478020.0,Ethan Bear Holding against Michael Amadio
-224,penalty,Too many men on the ice,Joel Persson,,[-19.  19.],3,12:46,EDM,LAK,EDM,22,LAK,26,4,4,8480940,,Too many men/ice served by Joel Persson
-251,penalty,Interference,Sean Walker,Connor McDavid,[24.  1.],3,07:23,LAK,EDM,EDM,22,LAK,26,5,5,8480336,8478402.0,Sean Walker Interference against Connor McDavid
-282,penalty,Tripping,James Neal,Anze Kopitar,[ 64. -23.],3,00:46,EDM,LAK,EDM,22,LAK,26,6,5,8471707,8471685.0,James Neal Tripping against Anze Kopitar
-57,penalty,Roughing,Kurtis MacDermid,Matthew Tkachuk,[51. -9.],1,07:34,LAK,CGY,CGY,20,LAK,26,0,1,8477073,8479314.0,Kurtis MacDermid Roughing against Matthew Tkachuk
-93,penalty,Tripping,Dustin Brown,Johnny Gaudreau,[11. 26.],2,19:16,LAK,CGY,CGY,20,LAK,26,0,2,8470606,8476346.0,Dustin Brown Tripping against Johnny Gaudreau
-112,penalty,Fighting,Milan Lucic,Kurtis MacDermid,[ 64. -20.],2,13:51,CGY,LAK,CGY,20,LAK,26,0,3,8473473,8477073.0,Milan Lucic Fighting against Kurtis MacDermid
-113,penalty,Fighting,Kurtis MacDermid,Milan Lucic,[13.  2.],2,13:51,LAK,CGY,CGY,20,LAK,26,0,3,8477073,8473473.0,Kurtis MacDermid Fighting against Milan Lucic
-192,penalty,Tripping,Sam Bennett,Drew Doughty,[-93. -33.],3,17:56,CGY,LAK,CGY,20,LAK,26,2,3,8477935,8474563.0,Sam Bennett Tripping against Drew Doughty
-257,penalty,Tripping,Sam Bennett,Anze Kopitar,[46. 32.],3,00:28,CGY,LAK,CGY,20,LAK,26,3,3,8477935,8471685.0,Sam Bennett Tripping against Anze Kopitar
-18,penalty,Tripping,Sean Walker,Tim Schaller,[-98.  29.],1,16:26,LAK,VAN,VAN,23,LAK,26,0,0,8480336,8477213.0,Sean Walker Tripping against Tim Schaller
-67,penalty,Hi-sticking,Alexander Edler,Dustin Brown,[-24. -31.],1,07:23,VAN,LAK,VAN,23,LAK,26,2,0,8471303,8470606.0,Alexander Edler Hi-sticking against Dustin Brown
-145,penalty,Hi-sticking,Jay Beagle,Anze Kopitar,[-82.  20.],2,11:13,VAN,LAK,VAN,23,LAK,26,3,1,8474291,8471685.0,Jay Beagle Hi-sticking against Anze Kopitar
-174,penalty,Interference,Bo Horvat,Anze Kopitar,[-89.   5.],2,04:46,VAN,LAK,VAN,23,LAK,26,4,1,8477500,8471685.0,Bo Horvat Interference against Anze Kopitar
-179,penalty,Roughing,Tanner Pearson,Adrian Kempe,[-11. -38.],2,03:30,VAN,LAK,VAN,23,LAK,26,4,1,8476871,8477960.0,Tanner Pearson Roughing against Adrian Kempe
-192,penalty,Holding the stick,Michael Amadio,Tanner Pearson,[-83.  17.],2,00:58,LAK,VAN,VAN,23,LAK,26,4,1,8478020,8476871.0,Michael Amadio Holding the stick against Tanner Pearson
-23,penalty,Hooking,Dan Hamhuis,Adrian Kempe,[-85.  25.],1,14:29,NSH,LAK,LAK,26,NSH,18,0,1,8469465,8477960.0,Dan Hamhuis Hooking against Adrian Kempe
-62,penalty,Holding,Ilya Kovalchuk,Viktor Arvidsson,[ -6. -22.],1,04:23,LAK,NSH,LAK,26,NSH,18,2,1,8469454,8478042.0,Ilya Kovalchuk Holding against Viktor Arvidsson
-127,penalty,Tripping,Sean Walker,Matt Duchene,[-13. -31.],2,09:30,LAK,NSH,LAK,26,NSH,18,3,1,8480336,8475168.0,Sean Walker Tripping against Matt Duchene
-149,penalty,Holding,Dan Hamhuis,Trevor Lewis,[95. 32.],2,04:51,NSH,LAK,LAK,26,NSH,18,3,1,8469465,8473453.0,Dan Hamhuis Holding against Trevor Lewis
-153,penalty,Slashing,Alec Martinez,Nick Bonino,[-73.   5.],2,04:31,LAK,NSH,LAK,26,NSH,18,3,1,8474166,8474009.0,Alec Martinez Slashing against Nick Bonino
-217,penalty,Tripping,Austin Wagner,Matt Duchene,[-44. -15.],3,09:55,LAK,NSH,LAK,26,NSH,18,4,2,8478455,8475168.0,Austin Wagner Tripping against Matt Duchene
-2,penalty,Slashing,Jonathan Marchessault,Blake Lizotte,[-53.  21.],1,19:24,VGK,LAK,LAK,26,VGK,54,0,0,8476539,8481481.0,Jonathan Marchessault Slashing against Blake Lizotte
-33,penalty,Holding the stick,Dustin Brown,Shea Theodore,[-96.  12.],1,13:51,LAK,VGK,LAK,26,VGK,54,0,1,8470606,8477447.0,Dustin Brown Holding the stick against Shea Theodore
-51,penalty,Interference,Nicolas Hague,Kyle Clifford,[-96.  11.],1,09:01,VGK,LAK,LAK,26,VGK,54,1,2,8479980,8475160.0,Nicolas Hague Interference against Kyle Clifford
-152,penalty,Interference,Jeff Carter,Jon Merrill,[80.  3.],2,06:31,LAK,VGK,LAK,26,VGK,54,1,2,8470604,8475750.0,Jeff Carter Interference against Jon Merrill
-168,penalty,Hooking,Joakim Ryan,Ryan Reaves,[-39.  26.],2,04:40,LAK,VGK,LAK,26,VGK,54,1,3,8477046,8471817.0,Joakim Ryan Hooking against Ryan Reaves
-252,penalty,Hooking,William Carrier,Joakim Ryan,[-33. -27.],3,06:57,VGK,LAK,LAK,26,VGK,54,2,5,8477478,8477046.0,William Carrier Hooking against Joakim Ryan
-6,penalty,Slashing,Ryan Dzingel,Ilya Kovalchuk,[ 81. -30.],1,18:18,CAR,LAK,LAK,26,CAR,12,0,0,8476288,8469454.0,Ryan Dzingel Slashing against Ilya Kovalchuk
-35,penalty,Interference,Brock McGinn,Blake Lizotte,[  0. -36.],1,11:29,CAR,LAK,LAK,26,CAR,12,0,0,8476934,8481481.0,Brock McGinn Interference against Blake Lizotte
-52,penalty,Hooking,Anze Kopitar,Jordan Staal,[71. -6.],1,07:07,LAK,CAR,LAK,26,CAR,12,0,0,8471685,8473533.0,Anze Kopitar Hooking against Jordan Staal
-70,penalty,Holding,Alec Martinez,Erik Haula,[ 92. -32.],1,03:00,LAK,CAR,LAK,26,CAR,12,0,0,8474166,8475287.0,Alec Martinez Holding against Erik Haula
-107,penalty,Hi-sticking,Adrian Kempe,Joel Edmundson,[ 54. -35.],2,15:02,LAK,CAR,LAK,26,CAR,12,0,1,8477960,8476441.0,Adrian Kempe Hi-sticking against Joel Edmundson
-132,penalty,Tripping,Lucas Wallmark,Trevor Lewis,[67. 32.],2,06:44,CAR,LAK,LAK,26,CAR,12,0,1,8478027,8473453.0,Lucas Wallmark Tripping against Trevor Lewis
-135,penalty,Interference,Drew Doughty,Sebastian Aho,[22. 34.],2,05:41,LAK,CAR,LAK,26,CAR,12,0,1,8474563,8478427.0,Drew Doughty Interference against Sebastian Aho
-198,penalty,Holding,Brett Pesce,Blake Lizotte,[-71.  -8.],3,05:48,CAR,LAK,LAK,26,CAR,12,0,1,8477488,8481481.0,Brett Pesce Holding against Blake Lizotte
-216,penalty,Boarding,Jordan Staal,Drew Doughty,[-95.  27.],3,01:14,CAR,LAK,LAK,26,CAR,12,0,1,8473533,8474563.0,Jordan Staal Boarding against Drew Doughty
-63,penalty,Hi-sticking,Ilya Kovalchuk,Kyle Okposo,[-1. 16.],1,05:48,LAK,BUF,LAK,26,BUF,7,0,2,8469454,8473449.0,Ilya Kovalchuk Hi-sticking against Kyle Okposo
-91,penalty,Cross checking,Ilya Kovalchuk,Rasmus Ristolainen,[-21.  39.],2,19:15,LAK,BUF,LAK,26,BUF,7,0,2,8469454,8477499.0,Ilya Kovalchuk Cross checking against Rasmus Ristolainen
-133,penalty,Tripping,Marcus Johansson,Trevor Lewis,[-20.   3.],2,11:20,BUF,LAK,LAK,26,BUF,7,0,3,8475149,8473453.0,Marcus Johansson Tripping against Trevor Lewis
-181,penalty,Hi-sticking,Jake McCabe,Anze Kopitar,[76.  0.],2,00:49,BUF,LAK,LAK,26,BUF,7,0,3,8476931,8471685.0,Jake McCabe Hi-sticking against Anze Kopitar
-187,penalty,Slashing,Johan Larsson,Tyler Toffoli,[37.  1.],2,00:21,BUF,LAK,LAK,26,BUF,7,0,3,8475728,8475726.0,Johan Larsson Slashing against Tyler Toffoli
-269,penalty,Hi-sticking,Ilya Kovalchuk,Colin Miller,[-75.  -2.],3,02:57,LAK,BUF,LAK,26,BUF,7,0,3,8469454,8476525.0,Ilya Kovalchuk Hi-sticking against Colin Miller
-22,penalty,Hooking,Anze Kopitar,Elias Lindholm,[69.  4.],1,14:09,LAK,CGY,LAK,26,CGY,20,1,0,8471685,8477496.0,Anze Kopitar Hooking against Elias Lindholm
-30,penalty,Tripping,Kurtis MacDermid,Sam Bennett,[ 55. -12.],1,11:50,LAK,CGY,LAK,26,CGY,20,1,0,8477073,8477935.0,Kurtis MacDermid Tripping against Sam Bennett
-43,penalty,Hooking,Michael Frolik,Anze Kopitar,[36. 39.],1,08:04,CGY,LAK,LAK,26,CGY,20,1,0,8473564,8471685.0,Michael Frolik Hooking against Anze Kopitar
-62,penalty,Tripping,David Rittich,Matthew Tkachuk,[-87.  -6.],1,03:56,CGY,LAK,LAK,26,CGY,20,1,0,8479496,8479314.0,David Rittich Tripping against Blake Lizotte served by Matthew Tkachuk
-69,penalty,Holding,Jeff Carter,Travis Hamonic,[-94.  16.],1,02:13,LAK,CGY,LAK,26,CGY,20,1,0,8470604,8474612.0,Jeff Carter Holding against Travis Hamonic
-103,penalty,Roughing,Kurtis MacDermid,Sam Bennett,[-8. 13.],2,15:29,LAK,CGY,LAK,26,CGY,20,2,0,8477073,8477935.0,Kurtis MacDermid Roughing against Sam Bennett
-117,penalty,Roughing,Travis Hamonic,Alex Iafallo,[67. -8.],2,11:29,CGY,LAK,LAK,26,CGY,20,3,0,8474612,8480113.0,Travis Hamonic Roughing against Alex Iafallo
-122,penalty,Roughing,Rasmus Andersson,Kyle Clifford,[89. 18.],2,10:35,CGY,LAK,LAK,26,CGY,20,4,0,8478397,8475160.0,Rasmus Andersson Roughing against Kyle Clifford
-123,penalty,Unsportsmanlike conduct,Kyle Clifford,Rasmus Andersson,[88. 19.],2,10:35,LAK,CGY,LAK,26,CGY,20,4,0,8475160,8478397.0,Kyle Clifford Unsportsmanlike conduct against Rasmus Andersson
-124,penalty,Holding the stick,Oliver Kylington,Austin Wagner,[84. 22.],2,10:35,CGY,LAK,LAK,26,CGY,20,4,0,8478430,8478455.0,Oliver Kylington Holding the stick against Austin Wagner
-133,penalty,Slashing,David Rittich,Derek Ryan,[83. -2.],2,08:34,CGY,LAK,LAK,26,CGY,20,4,0,8479496,8478585.0,David Rittich Slashing against Alex Iafallo served by Derek Ryan
-197,penalty,Roughing,Austin Wagner,Rasmus Andersson,[56. 37.],3,09:35,LAK,CGY,LAK,26,CGY,20,4,0,8478455,8478397.0,Austin Wagner Roughing against Rasmus Andersson
-198,penalty,Roughing,Rasmus Andersson,Austin Wagner,[55. 35.],3,09:35,CGY,LAK,LAK,26,CGY,20,4,0,8478397,8478455.0,Rasmus Andersson Roughing against Austin Wagner
-199,penalty,Tripping,Matthew Tkachuk,Austin Czarnik,[54. 39.],3,09:35,CGY,LAK,LAK,26,CGY,20,4,0,8479314,8478512.0,Matthew Tkachuk Tripping against Drew Doughty served by Austin Czarnik
-200,penalty,Roughing,Matthew Tkachuk,Austin Czarnik,[50. 37.],3,09:35,CGY,LAK,LAK,26,CGY,20,4,0,8479314,8478512.0,Matthew Tkachuk Roughing against Drew Doughty served by Austin Czarnik
-201,penalty,Misconduct,Matthew Tkachuk,Drew Doughty,[50. 36.],3,09:35,CGY,LAK,LAK,26,CGY,20,4,0,8479314,8474563.0,Matthew Tkachuk Misconduct against Drew Doughty
-208,penalty,Too many men on the ice,Ilya Kovalchuk,,[14. 40.],3,08:07,LAK,CGY,LAK,26,CGY,20,4,0,8469454,,Too many men/ice served by Ilya Kovalchuk
-221,penalty,Interference,Mikael Backlund,Matt Roy,[62. 33.],3,04:18,CGY,LAK,LAK,26,CGY,20,4,0,8474150,8478911.0,Mikael Backlund Interference against Matt Roy
-228,penalty,PS - Tripping on breakaway,Drew Doughty,Mikael Backlund,[79.  1.],3,02:10,LAK,CGY,LAK,26,CGY,20,4,0,8474563,8474150.0,Drew Doughty PS - Tripping on breakaway against Mikael Backlund
-5,penalty,Holding,Ville Heinola,Tyler Toffoli,[79. 37.],1,18:39,WPG,LAK,WPG,52,LAK,26,0,0,8481572,8475726.0,Ville Heinola Holding against Tyler Toffoli
-29,penalty,Slashing,Kyle Connor,Alex Iafallo,[60.  7.],1,14:53,WPG,LAK,WPG,52,LAK,26,0,0,8478398,8480113.0,Kyle Connor Slashing against Alex Iafallo
-101,penalty,Tripping,Alec Martinez,Nikolaj Ehlers,[-89.  33.],1,00:32,LAK,WPG,WPG,52,LAK,26,1,1,8474166,8477940.0,Alec Martinez Tripping against Nikolaj Ehlers
-109,penalty,Roughing,Kurtis MacDermid,Adam Lowry,[14. 32.],2,17:54,LAK,WPG,WPG,52,LAK,26,1,1,8477073,8476392.0,Kurtis MacDermid Roughing against Adam Lowry
-165,penalty,Tripping,Trevor Lewis,Bryan Little,[  5. -39.],2,05:57,LAK,WPG,WPG,52,LAK,26,2,2,8473453,8473412.0,Trevor Lewis Tripping against Bryan Little
-181,penalty,Hooking,Michael Amadio,David Gustafsson,[ 75. -20.],2,03:10,LAK,WPG,WPG,52,LAK,26,2,2,8478020,8481019.0,Michael Amadio Hooking against David Gustafsson
-211,penalty,Holding,Carl Dahlstrom,Jeff Carter,[ 63. -19.],3,14:47,WPG,LAK,WPG,52,LAK,26,2,2,8477472,8470604.0,Carl Dahlstrom Holding against Jeff Carter
-263,penalty,Hooking,Neal Pionk,Austin Wagner,[81. -1.],3,04:26,WPG,LAK,WPG,52,LAK,26,2,3,8480145,8478455.0,Neal Pionk Hooking against Austin Wagner
-269,penalty,Tripping,Jeff Carter,Patrik Laine,[  5. -38.],3,00:58,LAK,WPG,WPG,52,LAK,26,2,3,8470604,8479339.0,Jeff Carter Tripping against Patrik Laine
-75,penalty,Slashing,Tyler Toffoli,David Perron,[41. 25.],1,02:22,LAK,STL,STL,19,LAK,26,0,1,8475726,8474102.0,Tyler Toffoli Slashing against David Perron
-116,penalty,Slashing,Jeff Carter,Zach Sanford,[-56. -22.],2,12:48,LAK,STL,STL,19,LAK,26,1,2,8470604,8477482.0,Jeff Carter Slashing against Zach Sanford
-129,penalty,Interference,Kyle Clifford,Ivan Barbashev,[88. -9.],2,10:05,LAK,STL,STL,19,LAK,26,1,2,8475160,8477964.0,Kyle Clifford Interference against Ivan Barbashev
-142,penalty,Tripping,Justin Faulk,Ilya Kovalchuk,[-59.  40.],2,07:32,STL,LAK,STL,19,LAK,26,3,2,8475753,8469454.0,Justin Faulk Tripping against Ilya Kovalchuk
-176,penalty,Hooking,Tyler Bozak,Michael Amadio,[-58. -39.],3,17:42,STL,LAK,STL,19,LAK,26,3,2,8475098,8478020.0,Tyler Bozak Hooking against Michael Amadio
-189,penalty,Hooking,Alex Iafallo,Tyler Bozak,[ 85. -34.],3,14:07,LAK,STL,STL,19,LAK,26,3,2,8480113,8475098.0,Alex Iafallo Hooking against Tyler Bozak
-221,penalty,Slashing,Justin Faulk,Blake Lizotte,[ -4. -34.],3,04:44,STL,LAK,STL,19,LAK,26,4,2,8475753,8481481.0,Justin Faulk Slashing against Blake Lizotte
-240,penalty,Fighting,Ivan Barbashev,Austin Wagner,[-50.  -9.],3,00:23,STL,LAK,STL,19,LAK,26,5,2,8477964,8478455.0,Ivan Barbashev Fighting against Austin Wagner
-241,penalty,Fighting,Austin Wagner,Ivan Barbashev,[-53. -14.],3,00:23,LAK,STL,STL,19,LAK,26,5,2,8478455,8477964.0,Austin Wagner Fighting against Ivan Barbashev
-30,penalty,Tripping,Matt Dumba,Ilya Kovalchuk,[-58. -36.],1,11:29,MIN,LAK,MIN,30,LAK,26,1,0,8476856,8469454.0,Matt Dumba Tripping against Ilya Kovalchuk
-96,penalty,Hooking,Blake Lizotte,Eric Staal,[41.  3.],2,13:15,LAK,MIN,MIN,30,LAK,26,1,1,8481481,8470595.0,Blake Lizotte Hooking against Eric Staal
-108,penalty,Tripping,Adrian Kempe,Joel Eriksson Ek,[47. 31.],2,09:25,LAK,MIN,MIN,30,LAK,26,1,1,8477960,8478493.0,Adrian Kempe Tripping against Joel Eriksson Ek
-114,penalty,Tripping,Ryan Suter,Dustin Brown,[-16.  34.],2,07:48,MIN,LAK,MIN,30,LAK,26,1,1,8470600,8470606.0,Ryan Suter Tripping against Dustin Brown
-119,penalty,Tripping,Mikko Koivu,Alec Martinez,[-69.  40.],2,06:02,MIN,LAK,MIN,30,LAK,26,1,1,8469459,8474166.0,Mikko Koivu Tripping against Alec Martinez
-168,penalty,Interference,Tyler Toffoli,Joel Eriksson Ek,[-24. -21.],3,11:41,LAK,MIN,MIN,30,LAK,26,4,1,8475726,8478493.0,Tyler Toffoli Interference against Joel Eriksson Ek
-27,penalty,Tripping,Blake Lizotte,David Kampf,[76. 14.],1,16:24,LAK,CHI,CHI,16,LAK,26,1,0,8481481,8480144.0,Blake Lizotte Tripping against David Kampf
-68,penalty,Delaying Game - Puck over glass,Calvin de Haan,,[79. 22.],1,09:04,CHI,LAK,CHI,16,LAK,26,1,0,8475177,,Calvin de Haan Delaying Game - Puck over glass
-77,penalty,Tripping,Ilya Kovalchuk,Olli Maatta,[94.  8.],1,07:46,LAK,CHI,CHI,16,LAK,26,1,0,8469454,8476874.0,Ilya Kovalchuk Tripping against Olli Maatta
-145,penalty,Holding,Andrew Shaw,Matt Roy,[-47.  34.],2,14:36,CHI,LAK,CHI,16,LAK,26,2,0,8476381,8478911.0,Andrew Shaw Holding against Matt Roy
-271,penalty,Hooking,Jonathan Toews,Dustin Brown,[ 39. -19.],3,07:42,CHI,LAK,CHI,16,LAK,26,4,1,8473604,8470606.0,Jonathan Toews Hooking against Dustin Brown
-281,penalty,Roughing,Kyle Clifford,Slater Koekkoek,[ 84. -28.],3,05:26,LAK,CHI,CHI,16,LAK,26,4,1,8475160,8476886.0,Kyle Clifford Roughing against Slater Koekkoek
-282,penalty,Roughing,Slater Koekkoek,Kyle Clifford,[ 87. -28.],3,05:26,CHI,LAK,CHI,16,LAK,26,4,1,8476886,8475160.0,Slater Koekkoek Roughing against Kyle Clifford
-31,penalty,Fighting,Kyle Clifford,Micheal Ferland,[65. 13.],1,13:32,LAK,VAN,LAK,26,VAN,23,1,0,8475160,8475907.0,Kyle Clifford Fighting against Micheal Ferland
-32,penalty,Fighting,Micheal Ferland,Kyle Clifford,[64. 11.],1,13:32,VAN,LAK,LAK,26,VAN,23,1,0,8475907,8475160.0,Micheal Ferland Fighting against Kyle Clifford
-43,penalty,Slashing,Brock Boeser,Austin Wagner,[-74. -10.],1,10:12,VAN,LAK,LAK,26,VAN,23,1,0,8478444,8478455.0,Brock Boeser Slashing against Austin Wagner
-54,penalty,Slashing,Trevor Lewis,Elias Pettersson,[41. 31.],1,07:42,LAK,VAN,LAK,26,VAN,23,1,0,8473453,8480012.0,Trevor Lewis Slashing against Elias Pettersson
-77,penalty,Hooking,Adrian Kempe,Elias Pettersson,[85. 10.],1,02:51,LAK,VAN,LAK,26,VAN,23,1,0,8477960,8480012.0,Adrian Kempe Hooking against Elias Pettersson
-94,penalty,Hooking,Drew Doughty,Tanner Pearson,[68. 18.],1,00:36,LAK,VAN,LAK,26,VAN,23,1,1,8474563,8476871.0,Drew Doughty Hooking against Tanner Pearson
-98,penalty,Tripping,Jeff Carter,Alexander Edler,[-95.  19.],1,00:00,LAK,VAN,LAK,26,VAN,23,1,2,8470604,8471303.0,Jeff Carter Tripping against Alexander Edler
-139,penalty,Interference,Jay Beagle,Anze Kopitar,[69. 35.],2,10:29,VAN,LAK,LAK,26,VAN,23,1,2,8474291,8471685.0,Jay Beagle Interference against Anze Kopitar
-151,penalty,Hooking,Josh Leivo,Dustin Brown,[47. 33.],2,07:55,VAN,LAK,LAK,26,VAN,23,2,2,8476410,8470606.0,Josh Leivo Hooking against Dustin Brown
-179,penalty,Slashing,Austin Wagner,Christopher Tanev,[-74.  21.],2,01:00,LAK,VAN,LAK,26,VAN,23,2,3,8478455,8475690.0,Austin Wagner Slashing against Christopher Tanev
-192,penalty,Tripping,Alexander Edler,Nikolai Prokhorkin,[-60.  32.],3,18:18,VAN,LAK,LAK,26,VAN,23,2,4,8471303,8476947.0,Alexander Edler Tripping against Nikolai Prokhorkin
-216,penalty,Tripping,Alexander Edler,Trevor Lewis,[-68. -20.],3,12:53,VAN,LAK,LAK,26,VAN,23,2,4,8471303,8473453.0,Alexander Edler Tripping against Trevor Lewis
-237,penalty,Hooking,Tyler Myers,Trevor Lewis,[-42.   7.],3,06:47,VAN,LAK,LAK,26,VAN,23,2,4,8474574,8473453.0,Tyler Myers Hooking against Trevor Lewis
-245,penalty,Tripping,Trevor Lewis,Josh Leivo,[83. -8.],3,04:32,LAK,VAN,LAK,26,VAN,23,2,4,8473453,8476410.0,Trevor Lewis Tripping against Josh Leivo
-21,penalty,Delaying Game - Puck over glass,Slater Koekkoek,,[-40.  36.],1,14:57,CHI,LAK,LAK,26,CHI,16,2,0,8476886,,Slater Koekkoek Delaying Game - Puck over glass
-37,penalty,Interference,Adrian Kempe,Duncan Keith,[ 2. 20.],1,11:52,LAK,CHI,LAK,26,CHI,16,2,0,8477960,8470281.0,Adrian Kempe Interference against Duncan Keith
-92,penalty,Interference,Calvin de Haan,Trevor Lewis,[-59. -39.],1,00:18,CHI,LAK,LAK,26,CHI,16,2,2,8475177,8473453.0,Calvin de Haan Interference against Trevor Lewis
-134,penalty,Hooking,Ryan Carpenter,Jeff Carter,[43. 41.],2,08:10,CHI,LAK,LAK,26,CHI,16,2,2,8477846,8470604.0,Ryan Carpenter Hooking against Jeff Carter
-159,penalty,Hooking,Olli Maatta,Dustin Brown,[ 86. -11.],2,03:42,CHI,LAK,LAK,26,CHI,16,2,2,8476874,8470606.0,Olli Maatta Hooking against Dustin Brown
-74,penalty,Roughing,Tyler Toffoli,Travis Dermott,[ 68. -23.],1,04:18,LAK,TOR,TOR,10,LAK,26,0,0,8475726,8478408.0,Tyler Toffoli Roughing against Travis Dermott
-113,penalty,Interference,Alexander Kerfoot,Carl Grundstrom,[-81.   5.],2,15:58,TOR,LAK,TOR,10,LAK,26,0,0,8477021,8479336.0,Alexander Kerfoot Interference against Carl Grundstrom
-163,penalty,Interference,Adrian Kempe,Mitchell Marner,[-11.   0.],2,04:55,LAK,TOR,TOR,10,LAK,26,1,1,8477960,8478483.0,Adrian Kempe Interference against Mitchell Marner
-176,penalty,Interference,Jake Muzzin,Ilya Kovalchuk,[16. 30.],2,01:27,TOR,LAK,TOR,10,LAK,26,1,1,8474162,8469454.0,Jake Muzzin Interference against Ilya Kovalchuk
-183,penalty,Tripping,Alec Martinez,Trevor Moore,[38. 40.],2,00:00,LAK,TOR,TOR,10,LAK,26,1,1,8474166,8479675.0,Alec Martinez Tripping against Trevor Moore
-193,penalty,Tripping,Nicholas Shore,Jonathan Quick,[-92.   7.],3,17:11,TOR,LAK,TOR,10,LAK,26,1,1,8476406,8471734.0,Nicholas Shore Tripping against Jonathan Quick
-261,penalty,Tripping,Ben Hutton,Ilya Mikheyev,[23. 28.],3,00:13,LAK,TOR,TOR,10,LAK,26,3,1,8477018,8481624.0,Ben Hutton Tripping against Ilya Mikheyev
-13,penalty,Holding,Chris Tierney,Blake Lizotte,[-98.  17.],1,17:11,OTT,LAK,OTT,9,LAK,26,0,0,8476919,8481481.0,Chris Tierney Holding against Blake Lizotte
-50,penalty,Interference,Filip Chlapik,Ilya Kovalchuk,[ 66. -13.],1,09:45,OTT,LAK,OTT,9,LAK,26,0,0,8478488,8469454.0,Filip Chlapik Interference against Ilya Kovalchuk
-64,penalty,Tripping,Drew Doughty,Tyler Ennis,[ 20. -30.],1,05:18,LAK,OTT,OTT,9,LAK,26,0,0,8474563,8474589.0,Drew Doughty Tripping against Tyler Ennis
-135,penalty,Interference,Ilya Kovalchuk,Erik Brannstrom,[  6. -31.],2,09:45,LAK,OTT,OTT,9,LAK,26,0,1,8469454,8480073.0,Ilya Kovalchuk Interference against Erik Brannstrom
-50,penalty,Hooking,Jeff Carter,Jonathan Drouin,[-96.  14.],1,10:38,LAK,MTL,MTL,8,LAK,26,0,0,8470604,8477494.0,Jeff Carter Hooking against Jonathan Drouin
-64,penalty,Slashing,Nick Suzuki,Ilya Kovalchuk,[53.  1.],1,08:22,MTL,LAK,MTL,8,LAK,26,2,0,8480018,8469454.0,Nick Suzuki Slashing against Ilya Kovalchuk
-87,penalty,Tripping,Austin Wagner,Victor Mete,[-75.  30.],1,03:18,LAK,MTL,MTL,8,LAK,26,2,0,8478455,8479376.0,Austin Wagner Tripping against Victor Mete
-96,penalty,Interference,Nick Cousins,Blake Lizotte,[-31.  27.],1,02:17,MTL,LAK,MTL,8,LAK,26,3,0,8476393,8481481.0,Nick Cousins Interference against Blake Lizotte
-110,penalty,Tripping,Jeff Petry,Blake Lizotte,[-40.  11.],2,18:48,MTL,LAK,MTL,8,LAK,26,3,0,8473507,8481481.0,Jeff Petry Tripping against Blake Lizotte
-152,penalty,Hi-sticking,Carl Grundstrom,Jonathan Drouin,[52. 13.],2,08:34,LAK,MTL,MTL,8,LAK,26,3,1,8479336,8477494.0,Carl Grundstrom Hi-sticking against Jonathan Drouin
-164,penalty,Hi stick - double minor,Kyle Clifford,Jeff Petry,[-81. -28.],2,05:47,LAK,MTL,MTL,8,LAK,26,3,1,8475160,8473507.0,Kyle Clifford Hi stick - double minor against Jeff Petry
-226,penalty,Interference,Ben Hutton,Joel Armia,[-68.   9.],3,11:38,LAK,MTL,MTL,8,LAK,26,3,1,8477018,8476469.0,Ben Hutton Interference against Joel Armia
-24,penalty,Cross checking,Kyle Clifford,Ryan Hartman,[ 19. -27.],1,15:28,LAK,MIN,LAK,26,MIN,30,1,0,8475160,8477451.0,Kyle Clifford Cross checking against Ryan Hartman
-85,penalty,Tripping,Matt Roy,Zach Parise,[75. 23.],1,03:04,LAK,MIN,LAK,26,MIN,30,1,0,8478911,8470610.0,Matt Roy Tripping against Zach Parise
-108,penalty,Hooking,Jeff Carter,Kevin Fiala,[-75. -20.],2,18:06,LAK,MIN,LAK,26,MIN,30,1,0,8470604,8477942.0,Jeff Carter Hooking against Kevin Fiala
-238,penalty,Holding,Jordan Greenway,Matt Luff,[-69. -41.],3,05:07,MIN,LAK,LAK,26,MIN,30,2,1,8478413,8479644.0,Jordan Greenway Holding against Matt Luff
-252,penalty,Unsportsmanlike conduct,Eric Staal,Ryan Donato,[-45.  35.],3,00:47,MIN,LAK,LAK,26,MIN,30,3,1,8470595,8477987.0,Eric Staal Unsportsmanlike conduct served by Ryan Donato
-253,penalty,Misconduct,Eric Staal,,[-46.  34.],3,00:47,MIN,LAK,LAK,26,MIN,30,3,1,8470595,,Eric Staal Misconduct
-13,penalty,Slashing,Darren Helm,Kyle Clifford,[-66.  10.],1,17:46,DET,LAK,LAK,26,DET,17,0,0,8471794,8475160.0,Darren Helm Slashing against Kyle Clifford
-37,penalty,Holding,Dylan McIlrath,Adrian Kempe,[-27. -23.],1,08:42,DET,LAK,LAK,26,DET,17,1,0,8475795,8477960.0,Dylan McIlrath Holding against Adrian Kempe
-152,penalty,Tripping,Joakim Ryan,Anthony Mantha,[-80.   2.],2,00:01,LAK,DET,LAK,26,DET,17,1,1,8477046,8477511.0,Joakim Ryan Tripping against Anthony Mantha
-176,penalty,Holding,Robby Fabbri,Drew Doughty,[ -1. -39.],3,12:17,DET,LAK,LAK,26,DET,17,1,2,8477952,8474563.0,Robby Fabbri Holding against Drew Doughty
-8,penalty,Slashing,Paul Stastny,Anze Kopitar,[-36.  -2.],1,18:35,VGK,LAK,LAK,26,VGK,54,0,0,8471669,8471685.0,Paul Stastny Slashing against Anze Kopitar
-21,penalty,Hooking,Dustin Brown,Jonathan Marchessault,[-56. -35.],1,15:10,LAK,VGK,LAK,26,VGK,54,0,0,8470606,8476539.0,Dustin Brown Hooking against Jonathan Marchessault
-49,penalty,Roughing,Matt Roy,Alex Tuch,[98. -4.],1,09:52,LAK,VGK,LAK,26,VGK,54,0,0,8478911,8477949.0,Matt Roy Roughing against Alex Tuch
-67,penalty,Hooking,Mark Stone,Sean Walker,[-58. -39.],1,06:17,VGK,LAK,LAK,26,VGK,54,1,0,8475913,8480336.0,Mark Stone Hooking against Sean Walker
-77,penalty,Slashing,Sean Walker,Alex Tuch,[79.  9.],1,04:25,LAK,VGK,LAK,26,VGK,54,2,0,8480336,8477949.0,Sean Walker Slashing against Alex Tuch
-52,penalty,Interference,Ben Hutton,Lawson Crouse,[ 42. -40.],1,06:00,LAK,ARI,ARI,53,LAK,26,1,0,8477018,8478474.0,Ben Hutton Interference against Lawson Crouse
-69,penalty,Interference,Alex Iafallo,Christian Fischer,[-56. -30.],1,02:32,LAK,ARI,ARI,53,LAK,26,2,0,8480113,8478432.0,Alex Iafallo Interference against Christian Fischer
-94,penalty,Holding,Michael Grabner,Alex Iafallo,[51. 39.],2,16:51,ARI,LAK,ARI,53,LAK,26,2,0,8473546,8480113.0,Michael Grabner Holding against Alex Iafallo
-102,penalty,Slashing,Christian Dvorak,Anze Kopitar,[69.  3.],2,13:30,ARI,LAK,ARI,53,LAK,26,2,0,8477989,8471685.0,Christian Dvorak Slashing against Anze Kopitar
-120,penalty,Tripping,Nikolai Prokhorkin,Nick Schmaltz,[ 77. -40.],2,10:30,LAK,ARI,ARI,53,LAK,26,2,0,8476947,8477951.0,Nikolai Prokhorkin Tripping against Nick Schmaltz
-126,penalty,Hi-sticking,Blake Lizotte,Brad Richardson,[0. 1.],2,09:00,LAK,ARI,ARI,53,LAK,26,3,0,8481481,8470755.0,Blake Lizotte Hi-sticking against Brad Richardson
-133,penalty,Hooking,Jakob Chychrun,Kyle Clifford,[ 37. -39.],2,06:30,ARI,LAK,ARI,53,LAK,26,3,0,8479345,8475160.0,Jakob Chychrun Hooking against Kyle Clifford
-156,penalty,Tripping,Brad Richardson,Michael Amadio,[ 84. -11.],2,00:32,ARI,LAK,ARI,53,LAK,26,3,0,8470755,8478020.0,Brad Richardson Tripping against Michael Amadio
-34,penalty,Tripping,Josh Archibald,Adrian Kempe,[-44. -20.],1,12:06,EDM,LAK,LAK,26,EDM,22,1,0,8476326,8477960.0,Josh Archibald Tripping against Adrian Kempe
-72,penalty,Tripping,Carl Grundstrom,Jujhar Khaira,[2. 1.],1,05:06,LAK,EDM,LAK,26,EDM,22,2,0,8479336,8476915.0,Carl Grundstrom Tripping against Jujhar Khaira
-109,penalty,Tripping,Ryan Nugent-Hopkins,Tyler Toffoli,[ 6. -7.],2,17:30,EDM,LAK,LAK,26,EDM,22,3,1,8476454,8475726.0,Ryan Nugent-Hopkins Tripping against Tyler Toffoli
-143,penalty,Missing key [PD_151],Gaetan Haas,,[-60.  11.],2,08:44,EDM,LAK,LAK,26,EDM,22,4,1,8481813,,Delaying Game - Unsucc. chlg served by Gaetan Haas
-151,penalty,Holding,Adrian Kempe,Gaetan Haas,[ 41. -37.],2,05:15,LAK,EDM,LAK,26,EDM,22,4,1,8477960,8481813.0,Adrian Kempe Holding against Gaetan Haas
-171,penalty,Hooking,Jujhar Khaira,Alex Iafallo,[ 35. -16.],2,00:31,EDM,LAK,LAK,26,EDM,22,4,1,8476915,8480113.0,Jujhar Khaira Hooking against Alex Iafallo
-205,penalty,Cross checking,Alex Chiasson,Alec Martinez,[92.  8.],3,13:19,EDM,LAK,LAK,26,EDM,22,4,1,8475163,8474166.0,Alex Chiasson Cross checking against Alec Martinez
-220,penalty,Misconduct,Alex Chiasson,,[ -1. -41.],3,08:33,EDM,LAK,LAK,26,EDM,22,4,1,8475163,,Alex Chiasson Misconduct
-227,penalty,Holding,Markus Granlund,Carl Grundstrom,[-5. 40.],3,04:41,EDM,LAK,LAK,26,EDM,22,4,1,8476440,8479336.0,Markus Granlund Holding against Carl Grundstrom
-40,penalty,Hooking,Alex Iafallo,Conor Garland,[62. -6.],1,10:24,LAK,ARI,LAK,26,ARI,53,0,0,8480113,8478856.0,Alex Iafallo Hooking against Conor Garland
-90,penalty,Tripping,Christian Fischer,Nikolai Prokhorkin,[ 44. -26.],2,18:44,ARI,LAK,LAK,26,ARI,53,0,1,8478432,8476947.0,Christian Fischer Tripping against Nikolai Prokhorkin
-149,penalty,Hooking,Clayton Keller,Ben Hutton,[-94.   6.],2,04:04,ARI,LAK,LAK,26,ARI,53,1,2,8479343,8477018.0,Clayton Keller Hooking against Ben Hutton
-185,penalty,Hooking,Jordan Oesterle,Dustin Brown,[-81.  12.],3,13:15,ARI,LAK,LAK,26,ARI,53,1,2,8477851,8470606.0,Jordan Oesterle Hooking against Dustin Brown
-26,penalty,Too many men on the ice,Austin Wagner,,[ 0. 40.],1,12:29,LAK,SJS,LAK,26,SJS,28,0,1,8478455,,Too many men/ice served by Austin Wagner
-71,penalty,Hooking,Radim Simek,Blake Lizotte,[-69.   5.],1,02:06,SJS,LAK,LAK,26,SJS,28,0,1,8480160,8481481.0,Radim Simek Hooking against Blake Lizotte
-93,penalty,Slashing,Drew Doughty,Kevin Labanc,[-72.  -3.],2,19:09,LAK,SJS,LAK,26,SJS,28,0,1,8474563,8478099.0,Drew Doughty Slashing against Kevin Labanc
-102,penalty,Tripping,Brenden Dillon,Blake Lizotte,[76. 35.],2,16:22,SJS,LAK,LAK,26,SJS,28,0,1,8475455,8481481.0,Brenden Dillon Tripping against Blake Lizotte
-136,penalty,Hooking,Dylan Gambrell,Michael Amadio,[ 61. -39.],2,06:14,SJS,LAK,LAK,26,SJS,28,0,3,8479580,8478020.0,Dylan Gambrell Hooking against Michael Amadio
-211,penalty,Interference,Marcus Sorensen,Tyler Toffoli,[-80.  16.],3,09:10,SJS,LAK,LAK,26,SJS,28,2,3,8475834,8475726.0,Marcus Sorensen Interference against Tyler Toffoli
-240,penalty,Too many men on the ice,Dylan Gambrell,,[-20.  37.],3,01:04,SJS,LAK,LAK,26,SJS,28,3,3,8479580,,Too many men/ice served by Dylan Gambrell
-12,penalty,Hi-sticking,Anze Kopitar,Jordan Eberle,[ 51. -20.],1,17:07,LAK,NYI,LAK,26,NYI,2,0,0,8471685,8474586.0,Anze Kopitar Hi-sticking against Jordan Eberle
-76,penalty,Hooking,Adam Pelech,Anze Kopitar,[-50.  10.],1,03:55,NYI,LAK,LAK,26,NYI,2,1,1,8476917,8471685.0,Adam Pelech Hooking against Anze Kopitar
-82,penalty,Slashing,Cal Clutterbuck,Tyler Toffoli,[-80.  -2.],1,01:25,NYI,LAK,LAK,26,NYI,2,1,1,8473504,8475726.0,Cal Clutterbuck Slashing against Tyler Toffoli
-143,penalty,Tripping,Dustin Brown,Jordan Eberle,[-75. -40.],2,08:41,LAK,NYI,LAK,26,NYI,2,1,1,8470606,8474586.0,Dustin Brown Tripping against Jordan Eberle
-156,penalty,Tripping,Noah Dobson,Kyle Clifford,[ 36. -34.],2,05:27,NYI,LAK,LAK,26,NYI,2,1,1,8480865,8475160.0,Noah Dobson Tripping against Kyle Clifford
-193,penalty,Holding,Sean Walker,Mathew Barzal,[ 66. -37.],3,15:25,LAK,NYI,LAK,26,NYI,2,2,1,8480336,8478445.0,Sean Walker Holding against Mathew Barzal
-197,penalty,Hi-sticking,Josh Bailey,Jeff Carter,[ 51. -27.],3,14:27,NYI,LAK,LAK,26,NYI,2,2,1,8474573,8470604.0,Josh Bailey Hi-sticking against Jeff Carter
-209,penalty,Slashing,Jeff Carter,Mathew Barzal,[17. 40.],3,11:20,LAK,NYI,LAK,26,NYI,2,2,1,8470604,8478445.0,Jeff Carter Slashing against Mathew Barzal
-210,penalty,Embellishment,Mathew Barzal,,[17. 40.],3,11:20,NYI,LAK,LAK,26,NYI,2,2,1,8478445,,Mathew Barzal Embellishment
-19,penalty,Hooking,Jeff Carter,Marcus Sorensen,[32. -6.],1,14:51,LAK,SJS,SJS,28,LAK,26,0,0,8470604,8475834.0,Jeff Carter Hooking against Marcus Sorensen
-35,penalty,Hooking,Patrick Marleau,Sean Walker,[-67.  12.],1,09:47,SJS,LAK,SJS,28,LAK,26,1,0,8466139,8480336.0,Patrick Marleau Hooking against Sean Walker
-176,penalty,Slashing,Kyle Clifford,Erik Karlsson,[ 87. -20.],3,13:43,LAK,SJS,SJS,28,LAK,26,4,0,8475160,8474578.0,Kyle Clifford Slashing against Erik Karlsson
-205,penalty,Interference,Kurtis MacDermid,Antti Suomela,[ 16. -42.],3,07:06,LAK,SJS,SJS,28,LAK,26,4,0,8477073,8480965.0,Kurtis MacDermid Interference against Antti Suomela
-122,penalty,Hooking,Jeff Carter,Andrew Copp,[-80.  -7.],2,11:55,LAK,WPG,LAK,26,WPG,52,2,0,8470604,8477429.0,Jeff Carter Hooking against Andrew Copp
-140,penalty,Hooking,Trevor Lewis,Jack Roslovic,[-69.   1.],2,07:49,LAK,WPG,LAK,26,WPG,52,2,0,8473453,8478458.0,Trevor Lewis Hooking against Jack Roslovic
-176,penalty,Holding,Sean Walker,Nikolaj Ehlers,[91. 23.],3,19:29,LAK,WPG,LAK,26,WPG,52,2,0,8480336,8477940.0,Sean Walker Holding against Nikolaj Ehlers
-30,penalty,Slashing,Tyler Toffoli,Carter Rowney,[46. 25.],1,11:59,LAK,ANA,ANA,24,LAK,26,1,0,8475726,8477240.0,Tyler Toffoli Slashing against Carter Rowney
-117,penalty,Interference,Hampus Lindholm,Blake Lizotte,[61. 41.],2,12:07,ANA,LAK,ANA,24,LAK,26,3,1,8476854,8481481.0,Hampus Lindholm Interference against Blake Lizotte
-124,penalty,Delay of game,Erik Gudbranson,,[83.  0.],2,10:27,ANA,LAK,ANA,24,LAK,26,3,1,8475790,,Erik Gudbranson Delay of game
-83,penalty,Closing hand on puck,Michal Kempny,,[-60.  38.],1,00:39,WSH,LAK,LAK,26,WSH,15,0,2,8479482,,Michal Kempny Closing hand on puck
-128,penalty,Slashing,Evgeny Kuznetsov,Alex Iafallo,[67.  4.],2,09:01,WSH,LAK,LAK,26,WSH,15,0,2,8475744,8480113.0,Evgeny Kuznetsov Slashing against Alex Iafallo
-158,penalty,Slashing,T.J. Oshie,Anze Kopitar,[68. 24.],2,01:18,WSH,LAK,LAK,26,WSH,15,0,2,8471698,8471685.0,T.J. Oshie Slashing against Anze Kopitar
-181,penalty,Hooking,Anze Kopitar,Evgeny Kuznetsov,[65. 12.],3,12:28,LAK,WSH,LAK,26,WSH,15,1,2,8471685,8475744.0,Anze Kopitar Hooking against Evgeny Kuznetsov
-214,penalty,Illegal check to head,Tyler Toffoli,Garnet Hathaway,[13. 30.],3,04:43,LAK,WSH,LAK,26,WSH,15,1,2,8475726,8477903.0,Tyler Toffoli Illegal check to head against Garnet Hathaway
-46,penalty,Holding,Adrian Kempe,Kris Russell,[-7. 37.],1,09:50,LAK,EDM,EDM,22,LAK,26,0,0,8477960,8471729.0,Adrian Kempe Holding against Kris Russell
-72,penalty,Hooking,Sean Walker,Joakim Nygard,[68. -1.],1,05:39,LAK,EDM,EDM,22,LAK,26,1,0,8480336,8481638.0,Sean Walker Hooking against Joakim Nygard
-94,penalty,Hooking,Markus Granlund,Adrian Kempe,[-72. -18.],1,01:39,EDM,LAK,EDM,22,LAK,26,2,0,8476440,8477960.0,Markus Granlund Hooking against Adrian Kempe
-178,penalty,Tripping,Jeff Carter,Ethan Bear,[-66. -33.],3,18:35,LAK,EDM,EDM,22,LAK,26,2,0,8470604,8478451.0,Jeff Carter Tripping against Ethan Bear
-201,penalty,Hooking,Kris Russell,Tyler Toffoli,[-68.  23.],3,14:50,EDM,LAK,EDM,22,LAK,26,2,0,8471729,8475726.0,Kris Russell Hooking against Tyler Toffoli
-36,penalty,Interference,Tobias Rieder,Anze Kopitar,[18. 35.],1,08:57,CGY,LAK,CGY,20,LAK,26,0,0,8476356,8471685.0,Tobias Rieder Interference against Anze Kopitar
-43,penalty,Hooking,Blake Lizotte,Milan Lucic,[-31.  35.],1,07:20,LAK,CGY,CGY,20,LAK,26,0,1,8481481,8473473.0,Blake Lizotte Hooking against Milan Lucic
-49,penalty,Slashing,Mikael Backlund,Adrian Kempe,[-38. -15.],1,05:30,CGY,LAK,CGY,20,LAK,26,0,1,8474150,8477960.0,Mikael Backlund Slashing against Adrian Kempe
-63,penalty,Tripping,Michael Amadio,Dillon Dube,[-83.  13.],1,03:12,LAK,CGY,CGY,20,LAK,26,0,2,8478020,8479346.0,Michael Amadio Tripping against Dillon Dube
-109,penalty,Too many men on the ice,Matthew Tkachuk,,[15. 42.],2,14:35,CGY,LAK,CGY,20,LAK,26,2,2,8479314,,Too many men/ice served by Matthew Tkachuk
-160,penalty,Fighting,Kyle Clifford,Zac Rinaldo,[64. -8.],2,02:53,LAK,CGY,CGY,20,LAK,26,3,2,8475160,8474736.0,Kyle Clifford Fighting against Zac Rinaldo
-161,penalty,Fighting,Zac Rinaldo,Kyle Clifford,[60. -4.],2,02:53,CGY,LAK,CGY,20,LAK,26,3,2,8474736,8475160.0,Zac Rinaldo Fighting against Kyle Clifford
-162,penalty,Game misconduct,Kyle Clifford,Zac Rinaldo,[67. -1.],2,02:53,LAK,CGY,CGY,20,LAK,26,3,2,8475160,8474736.0,Kyle Clifford Game misconduct against Zac Rinaldo
-163,penalty,Game misconduct,Zac Rinaldo,Kyle Clifford,[64.  0.],2,02:53,CGY,LAK,CGY,20,LAK,26,3,2,8474736,8475160.0,Zac Rinaldo Game misconduct against Kyle Clifford
-216,penalty,Tripping,Trevor Lewis,Michael Frolik,[-9. -1.],3,10:54,LAK,CGY,CGY,20,LAK,26,4,3,8473453,8473564.0,Trevor Lewis Tripping against Michael Frolik
-246,penalty,Tripping,Tyler Toffoli,Sean Monahan,[ 31. -20.],3,03:25,LAK,CGY,CGY,20,LAK,26,4,3,8475726,8477497.0,Tyler Toffoli Tripping against Sean Monahan
-19,penalty,Hi-sticking,Matt Luff,Pavel Buchnevich,[ 94. -16.],1,15:28,LAK,NYR,LAK,26,NYR,3,0,0,8479644,8477402.0,Matt Luff Hi-sticking against Pavel Buchnevich
-101,penalty,Delaying Game - Puck over glass,Chris Kreider,,[56. 12.],2,13:52,NYR,LAK,LAK,26,NYR,3,1,0,8475184,,Chris Kreider Delaying Game - Puck over glass
-137,penalty,Fighting,Brady Skjei,Austin Wagner,[84. 22.],2,05:51,NYR,LAK,LAK,26,NYR,3,2,0,8476869,8478455.0,Brady Skjei Fighting against Austin Wagner
-138,penalty,Fighting,Austin Wagner,Brady Skjei,[90. 22.],2,05:51,LAK,NYR,LAK,26,NYR,3,2,0,8478455,8476869.0,Austin Wagner Fighting against Brady Skjei
-189,penalty,Fighting,Kurtis MacDermid,Brendan Smith,[-51. -12.],3,13:10,LAK,NYR,LAK,26,NYR,3,2,0,8477073,8474090.0,Kurtis MacDermid Fighting against Brendan Smith
-190,penalty,Fighting,Brendan Smith,Kurtis MacDermid,[-58. -20.],3,13:10,NYR,LAK,LAK,26,NYR,3,2,0,8474090,8477073.0,Brendan Smith Fighting against Kurtis MacDermid
-229,penalty,Tripping,Dustin Brown,Mika Zibanejad,[41. 40.],3,02:05,LAK,NYR,LAK,26,NYR,3,2,0,8470606,8476459.0,Dustin Brown Tripping against Mika Zibanejad
-57,penalty,Hooking,Max Comtois,Tyler Toffoli,[ 82. -35.],1,06:35,ANA,LAK,ANA,24,LAK,26,0,0,8480031,8475726.0,Max Comtois Hooking against Tyler Toffoli
-59,penalty,Slashing,Alex Iafallo,Josh Manson,[-71. -35.],1,06:28,LAK,ANA,ANA,24,LAK,26,0,0,8480113,8476312.0,Alex Iafallo Slashing against Josh Manson
-110,penalty,Tripping,Derek Grant,Dustin Brown,[70. 38.],2,16:51,ANA,LAK,ANA,24,LAK,26,0,1,8474683,8470606.0,Derek Grant Tripping against Dustin Brown
-115,penalty,Holding,Adam Henrique,Anze Kopitar,[ 26. -16.],2,15:39,ANA,LAK,ANA,24,LAK,26,0,1,8474641,8471685.0,Adam Henrique Holding against Anze Kopitar
-141,penalty,Fighting,Kurtis MacDermid,Nicolas Deslauriers,[-23.   0.],2,09:40,LAK,ANA,ANA,24,LAK,26,0,2,8477073,8475235.0,Kurtis MacDermid Fighting against Nicolas Deslauriers
-142,penalty,Fighting,Nicolas Deslauriers,Kurtis MacDermid,[2. 2.],2,09:40,ANA,LAK,ANA,24,LAK,26,0,2,8475235,8477073.0,Nicolas Deslauriers Fighting against Kurtis MacDermid
-155,penalty,Slashing,Jeff Carter,Jakob Silfverberg,[-14.  -8.],2,05:12,LAK,ANA,ANA,24,LAK,26,0,2,8470604,8475164.0,Jeff Carter Slashing against Jakob Silfverberg
-190,penalty,Cross checking,Austin Wagner,Sam Carrick,[ -5. -35.],3,16:03,LAK,ANA,ANA,24,LAK,26,0,2,8478455,8475842.0,Austin Wagner Cross checking against Sam Carrick
-41,penalty,Tripping,Alex Iafallo,John Marino,[ 34. -39.],1,11:20,LAK,PIT,PIT,5,LAK,26,0,0,8480113,8478507.0,Alex Iafallo Tripping against John Marino
-113,penalty,Slashing,Kyle Clifford,Tristan Jarry,[81. -5.],2,15:42,LAK,PIT,PIT,5,LAK,26,1,2,8475160,8477465.0,Kyle Clifford Slashing against Tristan Jarry
-117,penalty,Boarding,Zach Aston-Reese,Ben Hutton,[-72.  39.],2,14:09,PIT,LAK,PIT,5,LAK,26,1,2,8479944,8477018.0,Zach Aston-Reese Boarding against Ben Hutton
-128,penalty,Interference,Jack Johnson,Tyler Toffoli,[88. -9.],2,12:26,PIT,LAK,PIT,5,LAK,26,1,2,8471677,8475726.0,Jack Johnson Interference against Tyler Toffoli
-167,penalty,Holding,Tyler Toffoli,Sam Lafferty,[-68.  39.],2,03:48,LAK,PIT,PIT,5,LAK,26,1,2,8475726,8478043.0,Tyler Toffoli Holding against Sam Lafferty
-171,penalty,Hi-sticking,Joakim Ryan,Jake Guentzel,[-86.   5.],2,03:19,LAK,PIT,PIT,5,LAK,26,1,2,8477046,8477404.0,Joakim Ryan Hi-sticking against Jake Guentzel
-181,penalty,Hooking,Alex Galchenyuk,Drew Doughty,[82. 39.],3,19:25,PIT,LAK,PIT,5,LAK,26,2,2,8476851,8474563.0,Alex Galchenyuk Hooking against Drew Doughty
-191,penalty,Fighting,Sam Lafferty,Adrian Kempe,[-78. -13.],3,15:55,PIT,LAK,PIT,5,LAK,26,2,2,8478043,8477960.0,Sam Lafferty Fighting against Adrian Kempe
-192,penalty,Fighting,Adrian Kempe,Sam Lafferty,[-64. -11.],3,15:55,LAK,PIT,PIT,5,LAK,26,2,2,8477960,8478043.0,Adrian Kempe Fighting against Sam Lafferty
-221,penalty,Unsportsmanlike conduct,Joseph Blandisi,Austin Wagner,[-78.  20.],3,09:02,PIT,LAK,PIT,5,LAK,26,3,2,8477010,8478455.0,Joseph Blandisi Unsportsmanlike conduct against Austin Wagner
-222,penalty,Unsportsmanlike conduct,Austin Wagner,Joseph Blandisi,[-80.  16.],3,09:02,LAK,PIT,PIT,5,LAK,26,3,2,8478455,8477010.0,Austin Wagner Unsportsmanlike conduct against Joseph Blandisi
-227,penalty,PS - Slash on breakaway,Kris Letang,Anze Kopitar,[-76.   0.],3,08:31,PIT,LAK,PIT,5,LAK,26,3,2,8471724,8471685.0,Kris Letang PS - Slash on breakaway against Anze Kopitar
-3,penalty,Too many men on the ice,Austin Wagner,,[-9. 40.],1,19:16,LAK,DET,DET,17,LAK,26,0,0,8478455,,Too many men/ice served by Austin Wagner
-37,penalty,Hooking,Andreas Athanasiou,Anze Kopitar,[ 1. 26.],1,10:25,DET,LAK,DET,17,LAK,26,0,0,8476960,8471685.0,Andreas Athanasiou Hooking against Anze Kopitar
-56,penalty,Hi-sticking,Drew Doughty,Robby Fabbri,[-95.  12.],1,06:47,LAK,DET,DET,17,LAK,26,0,1,8474563,8477952.0,Drew Doughty Hi-sticking against Robby Fabbri
-66,penalty,Hooking,Kurtis MacDermid,Justin Abdelkader,[-81.  -4.],1,03:22,LAK,DET,DET,17,LAK,26,0,1,8477073,8471716.0,Kurtis MacDermid Hooking against Justin Abdelkader
-84,penalty,Hooking,Alex Biega,Jeff Carter,[-81. -37.],2,17:47,DET,LAK,DET,17,LAK,26,0,2,8473415,8470604.0,Alex Biega Hooking against Jeff Carter
-89,penalty,Tripping,Madison Bowey,Nikolai Prokhorkin,[-76. -23.],2,15:11,DET,LAK,DET,17,LAK,26,0,2,8477474,8476947.0,Madison Bowey Tripping against Nikolai Prokhorkin
-4,penalty,Too many men on the ice,David Backes,,[-13.  34.],1,19:00,BOS,LAK,BOS,6,LAK,26,0,0,8470655,,Too many men/ice served by David Backes
-69,penalty,Interference,Kyle Clifford,Chris Wagner,[ 75. -25.],1,01:46,LAK,BOS,BOS,6,LAK,26,0,1,8475160,8475780.0,Kyle Clifford Interference against Chris Wagner
-98,penalty,Hooking,Trevor Lewis,Jake DeBrusk,[-13. -24.],2,18:01,LAK,BOS,BOS,6,LAK,26,1,1,8473453,8478498.0,Trevor Lewis Hooking against Jake DeBrusk
-164,penalty,Slashing,Dustin Brown,Charlie McAvoy,[60. 39.],2,03:53,LAK,BOS,BOS,6,LAK,26,2,2,8470606,8479325.0,Dustin Brown Slashing against Charlie McAvoy
-10,penalty,Holding,Kurtis MacDermid,Pierre-Luc Dubois,[80. 38.],1,18:06,LAK,CBJ,CBJ,29,LAK,26,0,1,8477073,8479400.0,Kurtis MacDermid Holding against Pierre-Luc Dubois
-64,penalty,Hooking,Gabriel Carlsson,Blake Lizotte,[-87. -31.],1,03:04,CBJ,LAK,CBJ,29,LAK,26,1,1,8478506,8481481.0,Gabriel Carlsson Hooking against Blake Lizotte
-76,penalty,Delaying Game - Puck over glass,Seth Jones,,[86. 32.],2,19:07,CBJ,LAK,CBJ,29,LAK,26,1,1,8477495,,Seth Jones Delaying Game - Puck over glass
-104,penalty,Hooking,Sean Walker,Cam Atkinson,[-69.   2.],2,11:55,LAK,CBJ,CBJ,29,LAK,26,1,1,8480336,8474715.0,Sean Walker Hooking against Cam Atkinson
-147,penalty,Hooking,Sean Walker,Pierre-Luc Dubois,[-79.  11.],2,03:15,LAK,CBJ,CBJ,29,LAK,26,1,2,8480336,8479400.0,Sean Walker Hooking against Pierre-Luc Dubois
-200,penalty,Holding,Jeff Carter,Nick Foligno,[ 51. -28.],3,11:14,LAK,CBJ,CBJ,29,LAK,26,1,2,8470604,8473422.0,Jeff Carter Holding against Nick Foligno
-60,penalty,Interference,Brandon Montour,Nikolai Prokhorkin,[ 13. -39.],1,04:08,BUF,LAK,BUF,7,LAK,26,0,0,8477986,8476947.0,Brandon Montour Interference against Nikolai Prokhorkin
-62,penalty,Tripping,Tyler Toffoli,Marcus Johansson,[-37.   2.],1,02:52,LAK,BUF,BUF,7,LAK,26,0,0,8475726,8475149.0,Tyler Toffoli Tripping against Marcus Johansson
-129,penalty,Holding,Joakim Ryan,Jack Eichel,[-96.   8.],2,01:27,LAK,BUF,BUF,7,LAK,26,2,1,8477046,8478403.0,Joakim Ryan Holding against Jack Eichel
-148,penalty,Tripping,Jeff Carter,Rasmus Dahlin,[49. -3.],3,14:23,LAK,BUF,BUF,7,LAK,26,2,1,8470604,8480839.0,Jeff Carter Tripping against Rasmus Dahlin
-156,penalty,Interference,Sam Reinhart,Drew Doughty,[90. 34.],3,13:23,BUF,LAK,BUF,7,LAK,26,2,1,8477933,8474563.0,Sam Reinhart Interference against Drew Doughty
-27,penalty,Slashing,Ben Hutton,Jordan Kyrou,[80.  3.],1,14:24,LAK,STL,LAK,26,STL,19,0,1,8477018,8479385.0,Ben Hutton Slashing against Jordan Kyrou
-51,penalty,Holding the stick,Anze Kopitar,Oskar Sundqvist,[94. 11.],1,08:05,LAK,STL,LAK,26,STL,19,0,3,8471685,8476897.0,Anze Kopitar Holding the stick against Oskar Sundqvist
-74,penalty,Holding,Justin Faulk,Blake Lizotte,[-52. -32.],1,01:25,STL,LAK,LAK,26,STL,19,0,4,8475753,8481481.0,Justin Faulk Holding against Blake Lizotte
-138,penalty,Interference,Jay Bouwmeester,Tyler Toffoli,[ 34. -36.],2,04:01,STL,LAK,LAK,26,STL,19,1,4,8470151,8475726.0,Jay Bouwmeester Interference against Tyler Toffoli
-158,penalty,Hooking,Tyler Bozak,Nikolai Prokhorkin,[-56.   4.],3,17:38,STL,LAK,LAK,26,STL,19,1,4,8475098,8476947.0,Tyler Bozak Hooking against Nikolai Prokhorkin
-170,penalty,Tripping,Alex Pietrangelo,Tyler Toffoli,[-43. -18.],3,15:55,STL,LAK,LAK,26,STL,19,1,4,8474565,8475726.0,Alex Pietrangelo Tripping against Tyler Toffoli
-196,penalty,Slashing,Oskar Sundqvist,Adrian Kempe,[-56.  -5.],3,08:45,STL,LAK,LAK,26,STL,19,1,4,8476897,8477960.0,Oskar Sundqvist Slashing against Adrian Kempe
-21,penalty,Interference,Stefan Noesen,Ben Hutton,[73.  4.],1,14:14,SJS,LAK,SJS,28,LAK,26,0,0,8476474,8477018.0,Stefan Noesen Interference against Ben Hutton
-66,penalty,Tripping,Nikolai Prokhorkin,Joel Kellman,[ 83. -18.],1,03:20,LAK,SJS,SJS,28,LAK,26,0,0,8476947,8481516.0,Nikolai Prokhorkin Tripping against Joel Kellman
-48,penalty,Holding,Kale Clague,Tanner Pearson,[-70. -33.],1,08:13,LAK,VAN,VAN,23,LAK,26,1,0,8479348,8476871.0,Kale Clague Holding against Tanner Pearson
-56,penalty,Tripping,Tyler Motte,Michael Amadio,[ 76. -36.],1,05:28,VAN,LAK,VAN,23,LAK,26,1,0,8477353,8478020.0,Tyler Motte Tripping against Michael Amadio
-103,penalty,Hooking,Brock Boeser,Jeff Carter,[-51. -24.],2,14:16,VAN,LAK,VAN,23,LAK,26,2,0,8478444,8470604.0,Brock Boeser Hooking against Jeff Carter
-161,penalty,Delaying Game - Puck over glass,Tanner Pearson,,[ 56. -41.],3,19:39,VAN,LAK,VAN,23,LAK,26,2,1,8476871,,Tanner Pearson Delaying Game - Puck over glass
-25,penalty,Holding,Robert Hagg,Kyle Clifford,[-61.  36.],1,13:50,PHI,LAK,LAK,26,PHI,4,1,0,8477462,8475160.0,Robert Hagg Holding against Kyle Clifford
-33,penalty,Roughing,Scott Laughton,Michael Amadio,[72. 33.],1,11:53,PHI,LAK,LAK,26,PHI,4,2,0,8476872,8478020.0,Scott Laughton Roughing against Michael Amadio
-69,penalty,Hi-sticking,Anze Kopitar,Jakub Voracek,[-94.  19.],1,03:37,LAK,PHI,LAK,26,PHI,4,3,0,8471685,8474161.0,Anze Kopitar Hi-sticking against Jakub Voracek
-135,penalty,Roughing,Austin Wagner,Matt Niskanen,[-13. -27.],2,03:01,LAK,PHI,LAK,26,PHI,4,4,1,8478455,8471702.0,Austin Wagner Roughing against Matt Niskanen
-145,penalty,Boarding,Scott Laughton,Blake Lizotte,[-67.  42.],2,00:24,PHI,LAK,LAK,26,PHI,4,4,1,8476872,8481481.0,Scott Laughton Boarding against Blake Lizotte
-163,penalty,Holding the stick,Anze Kopitar,Claude Giroux,[ 0. 33.],3,13:46,LAK,PHI,LAK,26,PHI,4,5,1,8471685,8473512.0,Anze Kopitar Holding the stick against Claude Giroux
-16,penalty,Holding,Calle Jarnkrok,Blake Lizotte,[-91.  32.],1,16:44,NSH,LAK,LAK,26,NSH,18,0,0,8475714,8481481.0,Calle Jarnkrok Holding against Blake Lizotte
-67,penalty,Delaying Game - Puck over glass,Austin Wagner,,[ 69. -38.],1,06:40,LAK,NSH,LAK,26,NSH,18,0,1,8478455,,Austin Wagner Delaying Game - Puck over glass
-72,penalty,Holding the stick,Mikael Granlund,Matt Roy,[85. 38.],1,05:36,NSH,LAK,LAK,26,NSH,18,0,1,8475798,8478911.0,Mikael Granlund Holding the stick against Matt Roy
-95,penalty,Fighting,Kyle Clifford,Jarred Tinordi,[-40.  15.],1,00:44,LAK,NSH,LAK,26,NSH,18,0,2,8475160,8475797.0,Kyle Clifford Fighting against Jarred Tinordi
-96,penalty,Fighting,Jarred Tinordi,Kyle Clifford,[-36.  21.],1,00:44,NSH,LAK,LAK,26,NSH,18,0,2,8475797,8475160.0,Jarred Tinordi Fighting against Kyle Clifford
-104,penalty,Slashing,Martin Frk,Mikael Granlund,[-13.  29.],2,17:44,LAK,NSH,LAK,26,NSH,18,0,2,8476924,8475798.0,Martin Frk Slashing against Mikael Granlund
-122,penalty,Interference,Craig Smith,Adrian Kempe,[66. 10.],2,14:27,NSH,LAK,LAK,26,NSH,18,0,2,8475225,8477960.0,Craig Smith Interference against Adrian Kempe
-156,penalty,Slashing,Blake Lizotte,Roman Josi,[  9. -26.],2,06:41,LAK,NSH,LAK,26,NSH,18,1,2,8481481,8474600.0,Blake Lizotte Slashing against Roman Josi
-241,penalty,Tripping,Ben Hutton,Colin Blackwell,[57. 14.],3,07:00,LAK,NSH,LAK,26,NSH,18,1,4,8477018,8476278.0,Ben Hutton Tripping against Colin Blackwell
-246,penalty,Delaying Game - Puck over glass,Matt Roy,,[ 55. -20.],3,05:39,LAK,NSH,LAK,26,NSH,18,1,4,8478911,,Matt Roy Delaying Game - Puck over glass
-248,penalty,Hooking,Nick Bonino,Alex Iafallo,[52. 37.],3,05:12,NSH,LAK,LAK,26,NSH,18,1,4,8474009,8480113.0,Nick Bonino Hooking against Alex Iafallo
-11,penalty,Too many men on the ice,Michael Amadio,,[ 7. 39.],1,15:58,LAK,CBJ,LAK,26,CBJ,29,1,0,8478020,,Too many men/ice served by Michael Amadio
-23,penalty,Tripping,Mattias Janmark,Trevor Lewis,[11. 39.],1,12:00,DAL,LAK,LAK,26,DAL,25,1,0,8477406,8473453.0,Mattias Janmark Tripping against Trevor Lewis
-54,penalty,Tripping,Austin Wagner,Roope Hintz,[-51. -30.],1,01:42,LAK,DAL,LAK,26,DAL,25,1,0,8478455,8478449.0,Austin Wagner Tripping against Roope Hintz
-116,penalty,Slashing,Drew Doughty,Jamie Benn,[-79. -15.],2,06:45,LAK,DAL,LAK,26,DAL,25,1,0,8474563,8473994.0,Drew Doughty Slashing against Jamie Benn
-182,penalty,Holding,Roman Polak,Anze Kopitar,[-77.   0.],3,10:09,DAL,LAK,LAK,26,DAL,25,1,2,8471392,8471685.0,Roman Polak Holding against Anze Kopitar
-244,penalty,Slashing,Drew Doughty,Mark Stone,[-75.   2.],3,13:02,LAK,VGK,VGK,54,LAK,26,2,4,8474563,8475913.0,Drew Doughty Slashing against Mark Stone
-282,penalty,Slashing,Paul Stastny,Jeff Carter,[22. -1.],3,00:10,VGK,LAK,VGK,54,LAK,26,2,4,8471669,8470604.0,Paul Stastny Slashing against Jeff Carter
-47,penalty,Slashing,Martin Necas,Sean Walker,[ 80. -26.],1,10:40,CAR,LAK,CAR,12,LAK,26,1,0,8480039,8480336.0,Martin Necas Slashing against Sean Walker
-155,penalty,Tripping,Michael Amadio,Martin Necas,[-41. -12.],2,08:46,LAK,CAR,CAR,12,LAK,26,1,0,8478020,8480039.0,Michael Amadio Tripping against Martin Necas
-214,penalty,Tripping,Nino Niederreiter,Alec Martinez,[85. 29.],3,15:31,CAR,LAK,CAR,12,LAK,26,1,0,8475799,8474166.0,Nino Niederreiter Tripping against Alec Martinez
-242,penalty,Delaying Game - Puck over glass,Austin Wagner,,[-63. -40.],3,06:43,LAK,CAR,CAR,12,LAK,26,1,0,8478455,,Austin Wagner Delaying Game - Puck over glass
-123,penalty,Slashing,Jeff Carter,Victor Hedman,[-69. -30.],2,09:57,LAK,TBL,TBL,14,LAK,26,2,2,8470604,8475167.0,Jeff Carter Slashing against Victor Hedman
-132,penalty,Tripping,Tyler Johnson,Kyle Clifford,[ 32. -36.],2,07:40,TBL,LAK,TBL,14,LAK,26,2,2,8474870,8475160.0,Tyler Johnson Tripping against Kyle Clifford
-182,penalty,Broken stick,Alexander Volkov,,[ 97. -11.],3,14:50,TBL,LAK,TBL,14,LAK,26,2,2,8480186,,Alexander Volkov Broken stick
-203,penalty,Hooking,Alexander Volkov,Trevor Lewis,[ 53. -29.],3,09:46,TBL,LAK,TBL,14,LAK,26,2,2,8480186,8473453.0,Alexander Volkov Hooking against Trevor Lewis
-243,penalty,Hi-sticking,Kyle Clifford,Jan Rutta,[-64. -12.],3,00:59,LAK,TBL,TBL,14,LAK,26,3,3,8475160,8480172.0,Kyle Clifford Hi-sticking against Jan Rutta
-26,penalty,Holding,Austin Wagner,Josh Brown,[58. 25.],1,14:37,LAK,FLA,FLA,13,LAK,26,0,0,8478455,8477384.0,Austin Wagner Holding against Josh Brown
-79,penalty,Hooking,Dominic Toninato,Dustin Brown,[37. 37.],1,00:39,FLA,LAK,FLA,13,LAK,26,1,0,8476952,8470606.0,Dominic Toninato Hooking against Dustin Brown
-104,penalty,Delaying Game - Puck over glass,Brett Connolly,,[-30. -36.],2,15:08,FLA,LAK,FLA,13,LAK,26,2,0,8475792,,Brett Connolly Delaying Game - Puck over glass
-154,penalty,Slashing,Ben Hutton,Colton Sceviour,[ 82. -31.],2,00:29,LAK,FLA,FLA,13,LAK,26,2,0,8477018,8474098.0,Ben Hutton Slashing against Colton Sceviour
-170,penalty,Hi-sticking,Matt Roy,Jonathan Huberdeau,[-11. -38.],3,17:03,LAK,FLA,FLA,13,LAK,26,2,0,8478911,8476456.0,Matt Roy Hi-sticking against Jonathan Huberdeau
-210,penalty,Hooking,Brian Boyle,Michael Amadio,[ 36. -26.],3,05:50,FLA,LAK,FLA,13,LAK,26,4,1,8470619,8478020.0,Brian Boyle Hooking against Michael Amadio
-221,penalty,Holding,Josh Brown,Adrian Kempe,[ 63. -17.],3,03:52,FLA,LAK,FLA,13,LAK,26,4,2,8477384,8477960.0,Josh Brown Holding against Adrian Kempe
-87,penalty,Missing key [PD_151],James van Riemsdyk,,[ 12. -34.],2,19:07,PHI,LAK,PHI,4,LAK,26,1,0,8474037,,Delaying Game - Unsucc. chlg served by James van Riemsdyk
-123,penalty,Hi-sticking,Drew Doughty,Joel Farabee,[95. -7.],2,09:26,LAK,PHI,PHI,4,LAK,26,2,0,8474563,8480797.0,Drew Doughty Hi-sticking against Joel Farabee
-156,penalty,Holding the stick,Claude Giroux,Anze Kopitar,[-71. -21.],2,03:53,PHI,LAK,PHI,4,LAK,26,3,0,8473512,8471685.0,Claude Giroux Holding the stick against Anze Kopitar
-213,penalty,Hooking,Nikolai Prokhorkin,Matt Niskanen,[81. 36.],3,12:22,LAK,PHI,PHI,4,LAK,26,3,1,8476947,8471702.0,Nikolai Prokhorkin Hooking against Matt Niskanen
-37,penalty,Slashing,Kevin Shattenkirk,Anze Kopitar,[-94. -10.],1,13:39,TBL,LAK,LAK,26,TBL,14,0,0,8474031,8471685.0,Kevin Shattenkirk Slashing against Anze Kopitar
-65,penalty,Hooking,Adrian Kempe,Ondrej Palat,[ 94. -23.],1,07:28,LAK,TBL,LAK,26,TBL,14,1,0,8477960,8476292.0,Adrian Kempe Hooking against Ondrej Palat
-142,penalty,Slashing,Kurtis MacDermid,Yanni Gourde,[-77.   5.],2,10:15,LAK,TBL,LAK,26,TBL,14,2,1,8477073,8476826.0,Kurtis MacDermid Slashing against Yanni Gourde
-53,penalty,Hooking,Joakim Ryan,Nick Schmaltz,[ 73. -36.],1,07:12,LAK,ARI,ARI,53,LAK,26,0,1,8477046,8477951.0,Joakim Ryan Hooking against Nick Schmaltz
-98,penalty,PS - Tripping on breakaway,Oliver Ekman-Larsson,Austin Wagner,[70. -6.],2,17:17,ARI,LAK,ARI,53,LAK,26,0,1,8475171,8478455.0,Oliver Ekman-Larsson PS - Tripping on breakaway against Austin Wagner
-104,penalty,Hi-sticking,Conor Garland,Dustin Brown,[ 7. -2.],2,15:41,ARI,LAK,ARI,53,LAK,26,0,1,8478856,8470606.0,Conor Garland Hi-sticking against Dustin Brown
-105,penalty,Interference,Dustin Brown,Conor Garland,[6. 0.],2,15:41,LAK,ARI,ARI,53,LAK,26,0,1,8470606,8478856.0,Dustin Brown Interference against Conor Garland
-120,penalty,Interference,Jeff Carter,Clayton Keller,[-66.   5.],2,10:45,LAK,ARI,ARI,53,LAK,26,0,1,8470604,8479343.0,Jeff Carter Interference against Clayton Keller
-229,penalty,Tripping,Jakob Chychrun,Blake Lizotte,[-87. -34.],3,04:12,ARI,LAK,ARI,53,LAK,26,2,1,8479345,8481481.0,Jakob Chychrun Tripping against Blake Lizotte
+,event,penalty,penalty_on,drew_by,coords,period,period_time_remaining,penalty_team,drew_by_team,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,penalty_on_id,drew_by_id,game_id,winning_team,date,description
+119,penalty,Holding,Michael Del Zotto,Matt Luff,[97.  6.],2,15:54,ANA,LAK,LAK,26,ANA,24,0,2,8474584,8479644.0,2019020804,ANA,2020-02-02,Michael Del Zotto Holding against Matt Luff
+131,penalty,Holding,Adrian Kempe,Michael Del Zotto,[-51.  -1.],2,12:49,LAK,ANA,LAK,26,ANA,24,0,3,8477960,8474584.0,2019020804,ANA,2020-02-02,Adrian Kempe Holding against Michael Del Zotto
+140,penalty,Fighting,Kurtis MacDermid,Nicolas Deslauriers,[-59.  -1.],2,10:23,LAK,ANA,LAK,26,ANA,24,0,3,8477073,8475235.0,2019020804,ANA,2020-02-02,Kurtis MacDermid Fighting against Nicolas Deslauriers
+141,penalty,Fighting,Nicolas Deslauriers,Kurtis MacDermid,[-69.  -2.],2,10:23,ANA,LAK,LAK,26,ANA,24,0,3,8475235,8477073.0,2019020804,ANA,2020-02-02,Nicolas Deslauriers Fighting against Kurtis MacDermid
+166,penalty,Holding,Cam Fowler,Jeff Carter,[ 79. -15.],2,03:42,ANA,LAK,LAK,26,ANA,24,0,3,8475764,8470604.0,2019020804,ANA,2020-02-02,Cam Fowler Holding against Jeff Carter
+12,penalty,Hooking,Carl Hagelin,Blake Lizotte,[ 61. -10.],1,16:27,WSH,LAK,WSH,15,LAK,26,0,0,8474176,8481481.0,2019020817,,2020-02-05,Carl Hagelin Hooking against Blake Lizotte
+27,penalty,Slashing,Kurtis MacDermid,T.J. Oshie,[-55.  31.],1,10:24,LAK,WSH,WSH,15,LAK,26,0,0,8477073,8471698.0,2019020817,,2020-02-05,Kurtis MacDermid Slashing against T.J. Oshie
+138,penalty,Holding,Martin Fehervary,Austin Wagner,[87. 16.],2,00:21,WSH,LAK,WSH,15,LAK,26,1,1,8480796,8478455.0,2019020817,,2020-02-05,Martin Fehervary Holding against Austin Wagner
+139,penalty,Hooking,Mathew Barzal,Dustin Brown,[95. 21.],2,07:06,NYI,LAK,NYI,2,LAK,26,2,3,8478445,8470606.0,2019020831,,2020-02-07,Mathew Barzal Hooking against Dustin Brown
+147,penalty,Slashing,Anthony Beauvillier,Anze Kopitar,[ 1. -4.],2,03:58,NYI,LAK,NYI,2,LAK,26,2,3,8478463,8471685.0,2019020831,,2020-02-07,Anthony Beauvillier Slashing against Anze Kopitar
+202,penalty,Hooking,Sean Walker,Michael Dal Colle,[85.  8.],3,12:05,LAK,NYI,NYI,2,LAK,26,3,3,8480336,8477936.0,2019020831,,2020-02-07,Sean Walker Hooking against Michael Dal Colle
+216,penalty,Fighting,Alec Martinez,Casey Cizikas,[67. 25.],3,08:57,LAK,NYI,NYI,2,LAK,26,3,3,8474166,8475231.0,2019020831,,2020-02-07,Alec Martinez Fighting against Casey Cizikas
+217,penalty,Roughing,Casey Cizikas,Alec Martinez,[73. 29.],3,08:57,NYI,LAK,NYI,2,LAK,26,3,3,8475231,8474166.0,2019020831,,2020-02-07,Casey Cizikas Roughing against Alec Martinez
+218,penalty,Roughing,Drew Doughty,Casey Cizikas,[65. 27.],3,08:57,LAK,NYI,NYI,2,LAK,26,3,3,8474563,8475231.0,2019020831,,2020-02-07,Drew Doughty Roughing against Casey Cizikas
+219,penalty,Fighting,Casey Cizikas,Alec Martinez,[69. 30.],3,08:57,NYI,LAK,NYI,2,LAK,26,3,3,8475231,8474166.0,2019020831,,2020-02-07,Casey Cizikas Fighting against Alec Martinez
+11,penalty,Hooking,Carl Grundstrom,Jesper Bratt,[-44.  40.],1,17:39,LAK,NJD,NJD,1,LAK,26,0,0,8479336,8479407.0,2019020848,,2020-02-09,Carl Grundstrom Hooking against Jesper Bratt
+70,penalty,Cross checking,Damon Severson,Austin Wagner,[-80. -36.],1,01:54,NJD,LAK,NJD,1,LAK,26,0,0,8476923,8478455.0,2019020848,,2020-02-09,Damon Severson Cross checking against Austin Wagner
+90,penalty,Hooking,Blake Lizotte,Wayne Simmonds,[-69. -13.],2,17:20,LAK,NJD,NJD,1,LAK,26,0,0,8481481,8474190.0,2019020848,,2020-02-09,Blake Lizotte Hooking against Wayne Simmonds
+106,penalty,Hi-sticking,Carl Grundstrom,Connor Carrick,[55. 22.],2,13:48,LAK,NJD,NJD,1,LAK,26,1,0,8479336,8476941.0,2019020848,,2020-02-09,Carl Grundstrom Hi-sticking against Connor Carrick
+127,penalty,Interference,P.K. Subban,Carl Grundstrom,[ 8. 35.],2,07:48,NJD,LAK,NJD,1,LAK,26,3,0,8474056,8479336.0,2019020848,,2020-02-09,P.K. Subban Interference against Carl Grundstrom
+129,penalty,PS - Hooking on breakaway,Damon Severson,Anze Kopitar,[65.  2.],2,07:23,NJD,LAK,NJD,1,LAK,26,3,0,8476923,8471685.0,2019020848,,2020-02-09,Damon Severson PS - Hooking on breakaway against Anze Kopitar
+188,penalty,Holding,Wayne Simmonds,Austin Wagner,[-41.   4.],3,13:55,NJD,LAK,NJD,1,LAK,26,3,0,8474190,8478455.0,2019020848,,2020-02-09,Wayne Simmonds Holding against Austin Wagner
+195,penalty,Hooking,Trevor Lewis,Jack Hughes,[94. -9.],3,11:08,LAK,NJD,NJD,1,LAK,26,3,0,8473453,8481559.0,2019020848,,2020-02-09,Trevor Lewis Hooking against Jack Hughes
+106,penalty,Tripping,Tony DeAngelo,Blake Lizotte,[-97.   3.],2,18:16,NYR,LAK,NYR,3,LAK,26,1,0,8477950,8481481.0,2019020857,,2020-02-10,Tony DeAngelo Tripping against Blake Lizotte
+171,penalty,Hi-sticking,Blake Lizotte,Ryan Lindgren,[-87.  35.],2,04:26,LAK,NYR,NYR,3,LAK,26,1,0,8481481,8479324.0,2019020857,,2020-02-10,Blake Lizotte Hi-sticking against Ryan Lindgren
+199,penalty,Interference,Jesper Fast,Sean Walker,[-96.  -4.],3,18:36,NYR,LAK,NYR,3,LAK,26,1,0,8475855,8480336.0,2019020857,,2020-02-10,Jesper Fast Interference against Sean Walker
+19,penalty,Tripping,Derek Forbort,Elias Lindholm,[96. -7.],1,15:12,LAK,CGY,LAK,26,CGY,20,0,0,8475762,8477496.0,2019020878,,2020-02-13,Derek Forbort Tripping against Elias Lindholm
+114,penalty,Fighting,Milan Lucic,Kurtis MacDermid,[35.  5.],2,13:37,CGY,LAK,LAK,26,CGY,20,0,0,8473473,8477073.0,2019020878,,2020-02-13,Milan Lucic Fighting against Kurtis MacDermid
+115,penalty,Fighting,Kurtis MacDermid,Milan Lucic,[42.  8.],2,13:37,LAK,CGY,LAK,26,CGY,20,0,0,8477073,8473473.0,2019020878,,2020-02-13,Kurtis MacDermid Fighting against Milan Lucic
+162,penalty,Tripping,Matthew Tkachuk,Alec Martinez,[-93.  21.],2,03:19,CGY,LAK,LAK,26,CGY,20,2,1,8479314,8474166.0,2019020878,,2020-02-13,Matthew Tkachuk Tripping against Alec Martinez
+163,penalty,Roughing,Alec Martinez,Matthew Tkachuk,[-95.  22.],2,03:19,LAK,CGY,LAK,26,CGY,20,2,1,8474166,8479314.0,2019020878,,2020-02-13,Alec Martinez Roughing against Matthew Tkachuk
+164,penalty,Roughing,Matthew Tkachuk,Johnny Gaudreau,[-92.  20.],2,03:19,CGY,LAK,LAK,26,CGY,20,2,1,8479314,8476346.0,2019020878,,2020-02-13,Matthew Tkachuk Roughing against Alec Martinez served by Johnny Gaudreau
+210,penalty,Tripping,Drew Doughty,Andrew Mangiapane,[32. 33.],3,12:30,LAK,CGY,LAK,26,CGY,20,3,2,8474563,8478233.0,2019020878,,2020-02-13,Drew Doughty Tripping against Andrew Mangiapane
+213,penalty,Tripping,Alex Iafallo,Matthew Tkachuk,[13. -1.],3,11:32,LAK,CGY,LAK,26,CGY,20,3,2,8480113,8479314.0,2019020878,,2020-02-13,Alex Iafallo Tripping against Matthew Tkachuk
+262,penalty,Misconduct,Rasmus Andersson,,[-22.  -5.],3,00:03,CGY,LAK,LAK,26,CGY,20,5,3,8478397,,2019020878,,2020-02-13,Rasmus Andersson Misconduct
+27,penalty,Hooking,Jeff Carter,Vladislav Kamenev,[71.  4.],1,12:53,LAK,COL,COL,21,LAK,26,0,0,8470604,8477973.0,2019020902,,2020-02-16,Jeff Carter Hooking against Vladislav Kamenev
+29,penalty,Tripping,Gabriel Landeskog,Anze Kopitar,[66. 24.],1,12:50,COL,LAK,COL,21,LAK,26,0,0,8476455,8471685.0,2019020902,,2020-02-16,Gabriel Landeskog Tripping against Anze Kopitar
+197,penalty,Holding,Blake Lizotte,J.T. Compher,[ 83. -25.],3,10:50,LAK,COL,COL,21,LAK,26,1,1,8481481,8477456.0,2019020902,,2020-02-16,Blake Lizotte Holding against J.T. Compher
+199,penalty,Interference,Andre Burakovsky,Drew Doughty,[20.  1.],3,10:33,COL,LAK,COL,21,LAK,26,1,1,8477444,8474563.0,2019020902,,2020-02-16,Andre Burakovsky Interference against Drew Doughty
+39,penalty,Hooking,Sean Walker,Blake Wheeler,[-68.   1.],1,09:14,LAK,WPG,WPG,52,LAK,26,0,1,8480336,8471218.0,2019020926,,2020-02-19,Sean Walker Hooking against Blake Wheeler
+102,penalty,Tripping,Tucker Poolman,Anze Kopitar,[-51.  32.],2,10:49,WPG,LAK,WPG,52,LAK,26,0,1,8477359,8471685.0,2019020926,,2020-02-19,Tucker Poolman Tripping against Anze Kopitar
+158,penalty,Delaying Game - Puck over glass,Nathan Beaulieu,,[50. 40.],3,18:17,WPG,LAK,WPG,52,LAK,26,3,2,8476470,,2019020926,,2020-02-19,Nathan Beaulieu Delaying Game - Puck over glass
+192,penalty,Interference,Dustin Brown,Blake Wheeler,[-20. -27.],3,08:20,LAK,WPG,WPG,52,LAK,26,4,2,8470606,8471218.0,2019020926,,2020-02-19,Dustin Brown Interference against Blake Wheeler
+51,penalty,Holding,Drew Doughty,Frank Vatrano,[78. -3.],1,08:58,LAK,FLA,LAK,26,FLA,13,1,2,8474563,8478366.0,2019020940,,2020-02-21,Drew Doughty Holding against Frank Vatrano
+64,penalty,Interference,Mike Hoffman,Trevor Moore,[-67.  15.],1,05:01,FLA,LAK,LAK,26,FLA,13,1,2,8474884,8479675.0,2019020940,,2020-02-21,Mike Hoffman Interference against Trevor Moore
+72,penalty,Roughing,Riley Stillman,Trevor Lewis,[-74. -40.],1,04:01,FLA,LAK,LAK,26,FLA,13,2,2,8479388,8473453.0,2019020940,,2020-02-21,Riley Stillman Roughing against Trevor Lewis
+81,penalty,Hi-sticking,Vincent Trocheck,Gabriel Vilardi,[57. 31.],1,01:27,FLA,LAK,LAK,26,FLA,13,2,2,8476389,8480014.0,2019020940,,2020-02-21,Vincent Trocheck Hi-sticking against Gabriel Vilardi
+89,penalty,Hooking,Sean Walker,Noel Acciari,[ 62. -13.],1,00:00,LAK,FLA,LAK,26,FLA,13,2,2,8480336,8478569.0,2019020940,,2020-02-21,Sean Walker Hooking against Noel Acciari
+92,penalty,Tripping,Adrian Kempe,Jonathan Huberdeau,[-35. -10.],2,18:24,LAK,FLA,LAK,26,FLA,13,2,2,8477960,8476456.0,2019020940,,2020-02-21,Adrian Kempe Tripping against Jonathan Huberdeau
+118,penalty,Tripping,Frank Vatrano,Sean Walker,[-47.  39.],2,12:33,FLA,LAK,LAK,26,FLA,13,2,3,8478366,8480336.0,2019020940,,2020-02-21,Frank Vatrano Tripping against Sean Walker
+179,penalty,Hooking,Drew Doughty,Jonathan Huberdeau,[-29. -29.],2,00:34,LAK,FLA,LAK,26,FLA,13,4,3,8474563,8476456.0,2019020940,,2020-02-21,Drew Doughty Hooking against Jonathan Huberdeau
+184,penalty,Roughing,Adrian Kempe,Keith Yandle,[-17. -15.],2,00:00,LAK,FLA,LAK,26,FLA,13,4,3,8477960,8471735.0,2019020940,,2020-02-21,Adrian Kempe Roughing against Keith Yandle
+185,penalty,Roughing,Keith Yandle,Adrian Kempe,[-19. -20.],2,00:00,FLA,LAK,LAK,26,FLA,13,4,3,8471735,8477960.0,2019020940,,2020-02-21,Keith Yandle Roughing against Adrian Kempe
+227,penalty,Hooking,Noel Acciari,Trevor Lewis,[44. 16.],3,09:22,FLA,LAK,LAK,26,FLA,13,4,4,8478569,8473453.0,2019020940,,2020-02-21,Noel Acciari Hooking against Trevor Lewis
+20,penalty,PS - Hooking on breakaway,Nikita Zadorov,Austin Wagner,[-69.   0.],1,15:13,COL,LAK,LAK,26,COL,21,0,0,8477507,8478455.0,2019020958,,2020-02-23,Nikita Zadorov PS - Hooking on breakaway against Austin Wagner
+26,penalty,Roughing,Austin Wagner,J.T. Compher,[-40.  36.],1,13:21,LAK,COL,LAK,26,COL,21,1,0,8478455,8477456.0,2019020958,,2020-02-23,Austin Wagner Roughing against J.T. Compher
+78,penalty,Holding,Derek Forbort,Gabriel Landeskog,[70.  0.],1,03:13,LAK,COL,LAK,26,COL,21,1,0,8475762,8476455.0,2019020958,,2020-02-23,Derek Forbort Holding against Gabriel Landeskog
+106,penalty,Holding,Ben Hutton,Tyson Jost,[-81.  -5.],2,15:38,LAK,COL,LAK,26,COL,21,1,0,8477018,8479370.0,2019020958,,2020-02-23,Ben Hutton Holding against Tyson Jost
+117,penalty,Tripping,Cale Makar,Trevor Moore,[-21. -25.],2,13:44,COL,LAK,LAK,26,COL,21,1,0,8480069,8479675.0,2019020958,,2020-02-23,Cale Makar Tripping against Trevor Moore
+140,penalty,Tripping,Gabriel Vilardi,Joonas Donskoi,[44. 25.],2,08:33,LAK,COL,LAK,26,COL,21,1,0,8480014,8475820.0,2019020958,,2020-02-23,Gabriel Vilardi Tripping against Joonas Donskoi
+168,penalty,Slashing,Dustin Brown,Cale Makar,[ 94. -21.],2,00:27,LAK,COL,LAK,26,COL,21,1,1,8470606,8480069.0,2019020958,,2020-02-23,Dustin Brown Slashing against Cale Makar
+169,penalty,Embellishment,Cale Makar,Dustin Brown,[ 93. -17.],2,00:27,COL,LAK,LAK,26,COL,21,1,1,8480069,8470606.0,2019020958,,2020-02-23,Cale Makar Embellishment against Dustin Brown
+191,penalty,Abusive language,Martin Frk,,[17. 40.],3,14:46,LAK,COL,LAK,26,COL,21,1,1,8476924,,2019020958,,2020-02-23,Abusive language served by Martin Frk
+246,penalty,Hooking,J.T. Compher,Adrian Kempe,[71.  0.],4,01:15,COL,LAK,LAK,26,COL,21,1,1,8477456,8477960.0,2019020958,,2020-02-23,J.T. Compher Hooking against Adrian Kempe
+62,penalty,Slashing,Josh Archibald,Gabriel Vilardi,[-53.  -2.],1,02:38,EDM,LAK,LAK,26,EDM,22,0,0,8476326,8480014.0,2019020966,,2020-02-26,Josh Archibald Slashing against Gabriel Vilardi
+65,penalty,Hooking,Sean Walker,Ryan Nugent-Hopkins,[-19.  -6.],1,02:06,LAK,EDM,LAK,26,EDM,22,0,0,8480336,8476454.0,2019020966,,2020-02-26,Sean Walker Hooking against Ryan Nugent-Hopkins
+150,penalty,Hi-sticking,Leon Draisaitl,Matt Roy,[ 12. -35.],2,02:04,EDM,LAK,LAK,26,EDM,22,0,3,8477934,8478911.0,2019020966,,2020-02-26,Leon Draisaitl Hi-sticking against Matt Roy
+197,penalty,Tripping,Dustin Brown,Gaetan Haas,[ 93. -19.],3,07:52,LAK,EDM,LAK,26,EDM,22,2,3,8470606,8481813.0,2019020966,,2020-02-26,Dustin Brown Tripping against Gaetan Haas
+220,penalty,Holding,Jujhar Khaira,Kurtis MacDermid,[74.  5.],3,00:22,EDM,LAK,LAK,26,EDM,22,2,4,8476915,8477073.0,2019020966,,2020-02-26,Jujhar Khaira Holding against Kurtis MacDermid
+5,penalty,Tripping,Kris Letang,Dustin Brown,[-70.  34.],1,19:00,PIT,LAK,LAK,26,PIT,5,0,0,8471724,8470606.0,2019020983,,2020-02-27,Kris Letang Tripping against Dustin Brown
+23,penalty,Hooking,Michael Amadio,Dominik Simon,[75.  2.],1,15:58,LAK,PIT,LAK,26,PIT,5,1,0,8478020,8478866.0,2019020983,,2020-02-27,Michael Amadio Hooking against Dominik Simon
+61,penalty,Holding,Jack Johnson,Alex Iafallo,[-97. -12.],1,05:01,PIT,LAK,LAK,26,PIT,5,1,0,8471677,8480113.0,2019020983,,2020-02-27,Jack Johnson Holding against Alex Iafallo
+100,penalty,Interference,Blake Lizotte,Bryan Rust,[-11. -31.],2,14:47,LAK,PIT,LAK,26,PIT,5,1,0,8481481,8475810.0,2019020983,,2020-02-27,Blake Lizotte Interference against Bryan Rust
+130,penalty,Tripping,Gabriel Vilardi,Patrick Marleau,[75. -6.],2,07:52,LAK,PIT,LAK,26,PIT,5,1,0,8480014,8466139.0,2019020983,,2020-02-27,Gabriel Vilardi Tripping against Patrick Marleau
+113,penalty,Tripping,Kurtis MacDermid,Michael McLeod,[ 48. -31.],2,12:23,LAK,NJD,LAK,26,NJD,1,0,1,8477073,8479415.0,2019021001,,2020-02-29,Kurtis MacDermid Tripping against Michael McLeod
+24,penalty,Cross checking,William Carrier,Austin Wagner,[87.  1.],1,13:25,VGK,LAK,VGK,54,LAK,26,0,1,8477478,8478455.0,2019021016,,2020-03-02,William Carrier Cross checking against Austin Wagner
+58,penalty,Hooking,Drew Doughty,Paul Stastny,[-78.   3.],1,04:23,LAK,VGK,VGK,54,LAK,26,0,2,8474563,8471669.0,2019021016,,2020-03-02,Drew Doughty Hooking against Paul Stastny
+74,penalty,Interference - Goalkeeper,Drew Doughty,Marc-Andre Fleury,[86.  1.],1,01:59,LAK,VGK,VGK,54,LAK,26,0,2,8474563,8470594.0,2019021016,,2020-03-02,Drew Doughty Interference - Goalkeeper against Marc-Andre Fleury
+75,penalty,Interference,Nate Schmidt,Dustin Brown,[-62.  40.],1,01:59,VGK,LAK,VGK,54,LAK,26,0,2,8477220,8470606.0,2019021016,,2020-03-02,Nate Schmidt Interference against Dustin Brown
+139,penalty,Slashing,Martin Frk,Max Pacioretty,[85.  1.],2,07:31,LAK,VGK,VGK,54,LAK,26,0,3,8476924,8474157.0,2019021016,,2020-03-02,Martin Frk Slashing against Max Pacioretty
+172,penalty,Interference - Goalkeeper,Alec Martinez,Calvin Petersen,[88. -2.],2,01:06,VGK,LAK,VGK,54,LAK,26,1,3,8474166,8477361.0,2019021016,,2020-03-02,Alec Martinez Interference - Goalkeeper against Calvin Petersen
+207,penalty,Interference,Kurtis MacDermid,Nick Cousins,[50.  0.],3,15:53,LAK,VGK,VGK,54,LAK,26,1,4,8477073,8476393.0,2019021016,,2020-03-02,Kurtis MacDermid Interference against Nick Cousins
+225,penalty,Too many men on the ice,Martin Frk,,[-12.  41.],3,11:39,LAK,VGK,VGK,54,LAK,26,1,4,8476924,,2019021016,,2020-03-02,Too many men/ice served by Martin Frk
+37,penalty,Holding,Trevor Lewis,William Nylander,[75. -3.],1,11:27,LAK,TOR,LAK,26,TOR,10,0,0,8473453,8477939.0,2019021041,,2020-03-06,Trevor Lewis Holding against William Nylander
+53,penalty,Slashing,Martin Marincin,Adrian Kempe,[-87.  14.],1,05:37,TOR,LAK,LAK,26,TOR,10,0,0,8475716,8477960.0,2019021041,,2020-03-06,Martin Marincin Slashing against Adrian Kempe
+69,penalty,Holding,Timothy Liljegren,Martin Frk,[-96.  19.],1,02:41,TOR,LAK,LAK,26,TOR,10,0,0,8480043,8476924.0,2019021041,,2020-03-06,Timothy Liljegren Holding against Martin Frk
+137,penalty,Tripping,Drew Doughty,John Tavares,[-51.  22.],2,03:36,LAK,TOR,LAK,26,TOR,10,0,0,8474563,8475166.0,2019021041,,2020-03-06,Drew Doughty Tripping against John Tavares
+158,penalty,Slashing,Adrian Kempe,William Nylander,[71. -3.],3,18:47,LAK,TOR,LAK,26,TOR,10,0,0,8477960,8477939.0,2019021041,,2020-03-06,Adrian Kempe Slashing against William Nylander
+221,penalty,Hooking,John Tavares,Alex Iafallo,[33.  3.],4,04:29,TOR,LAK,LAK,26,TOR,10,0,0,8475166,8480113.0,2019021041,,2020-03-06,John Tavares Hooking against Alex Iafallo
+32,penalty,Hi-sticking,Blake Lizotte,Ryan Suter,[-95.  17.],1,12:19,LAK,MIN,LAK,26,MIN,30,1,0,8481481,8470600.0,2019021052,,2020-03-08,Blake Lizotte Hi-sticking against Ryan Suter
+98,penalty,Slashing,Jordan Greenway,Gabriel Vilardi,[87. 12.],2,17:25,MIN,LAK,LAK,26,MIN,30,1,1,8478413,8480014.0,2019021052,,2020-03-08,Jordan Greenway Slashing against Gabriel Vilardi
+112,penalty,Hi-sticking,Trevor Moore,Mats Zuccarello,[-10. -35.],2,13:41,LAK,MIN,LAK,26,MIN,30,1,1,8479675,8475692.0,2019021052,,2020-03-08,Trevor Moore Hi-sticking against Mats Zuccarello
+121,penalty,Tripping,Joel Eriksson Ek,Gabriel Vilardi,[47. 14.],2,11:12,MIN,LAK,LAK,26,MIN,30,3,1,8478493,8480014.0,2019021052,,2020-03-08,Joel Eriksson Ek Tripping against Gabriel Vilardi
+134,penalty,Holding,Alex Iafallo,Zach Parise,[-96.  -2.],2,08:51,LAK,MIN,LAK,26,MIN,30,3,1,8480113,8470610.0,2019021052,,2020-03-08,Alex Iafallo Holding against Zach Parise
+164,penalty,Too many men on the ice,Kevin Fiala,,[ -7. -40.],3,18:29,MIN,LAK,LAK,26,MIN,30,3,1,8477942,,2019021052,,2020-03-08,Too many men/ice served by Kevin Fiala
+196,penalty,Slashing,Kevin Fiala,Kurtis MacDermid,[ 20. -19.],3,09:03,MIN,LAK,LAK,26,MIN,30,4,2,8477942,8477073.0,2019021052,,2020-03-08,Kevin Fiala Slashing against Kurtis MacDermid
+19,penalty,Cross checking,Samuel Girard,Blake Lizotte,[-93. -24.],1,13:30,COL,LAK,LAK,26,COL,21,0,0,8479398,8481481.0,2019021069,,2020-03-12,Samuel Girard Cross checking against Blake Lizotte
+100,penalty,Interference,Matt Roy,Gabriel Landeskog,[-16. -13.],2,13:56,LAK,COL,LAK,26,COL,21,2,0,8478911,8476455.0,2019021069,,2020-03-12,Matt Roy Interference against Gabriel Landeskog
+132,penalty,PS - Hooking on breakaway,Sean Walker,Valeri Nichushkin,[-76.  -2.],2,06:45,LAK,COL,LAK,26,COL,21,2,0,8480336,8477501.0,2019021069,,2020-03-12,Sean Walker PS - Hooking on breakaway against Valeri Nichushkin
+177,penalty,Holding,Nikita Zadorov,Austin Wagner,[-76.  -9.],3,17:05,COL,LAK,LAK,26,COL,21,2,1,8477507,8478455.0,2019021069,,2020-03-12,Nikita Zadorov Holding against Austin Wagner
+46,penalty,Too many men on the ice,Brady Tkachuk,,[-47.  39.],1,08:36,OTT,LAK,LAK,26,OTT,9,1,1,8480801,,2019021082,,2020-03-12,Too many men/ice served by Brady Tkachuk
+49,penalty,Delaying Game - Puck over glass,Nikita Zaitsev,,[-68.  18.],1,07:41,OTT,LAK,LAK,26,OTT,9,1,1,8479458,,2019021082,,2020-03-12,Nikita Zaitsev Delaying Game - Puck over glass
+74,penalty,Fighting,Colin White,Austin Wagner,[79.  5.],1,01:52,OTT,LAK,LAK,26,OTT,9,1,1,8478400,8478455.0,2019021082,,2020-03-12,Colin White Fighting against Austin Wagner
+75,penalty,Fighting,Austin Wagner,Colin White,[80.  5.],1,01:52,LAK,OTT,LAK,26,OTT,9,1,1,8478455,8478400.0,2019021082,,2020-03-12,Austin Wagner Fighting against Colin White
+102,penalty,Tripping,Drew Doughty,Bobby Ryan,[48. 36.],2,16:16,LAK,OTT,LAK,26,OTT,9,1,1,8474563,8471676.0,2019021082,,2020-03-12,Drew Doughty Tripping against Bobby Ryan
+176,penalty,Tripping,Drew Doughty,Brady Tkachuk,[ 97. -24.],3,16:37,LAK,OTT,LAK,26,OTT,9,1,2,8474563,8480801.0,2019021082,,2020-03-12,Drew Doughty Tripping against Brady Tkachuk
+190,penalty,Holding,Nikita Zaitsev,Dustin Brown,[-79.   6.],3,12:44,OTT,LAK,LAK,26,OTT,9,1,2,8479458,8470606.0,2019021082,,2020-03-12,Nikita Zaitsev Holding against Dustin Brown
+212,penalty,Holding,Thomas Chabot,Dustin Brown,[-86.  22.],3,06:46,OTT,LAK,LAK,26,OTT,9,2,2,8478469,8470606.0,2019021082,,2020-03-12,Thomas Chabot Holding against Dustin Brown
+27,penalty,Slashing,Drew Doughty,Connor McDavid,[64. 12.],1,14:56,LAK,EDM,EDM,22,LAK,26,1,1,8474563,8478402.0,2019020029,,2019-10-07,Drew Doughty Slashing against Connor McDavid
+46,penalty,Tripping,Jeff Carter,Joakim Nygard,[ 93. -12.],1,10:32,LAK,EDM,EDM,22,LAK,26,1,2,8470604,8481638.0,2019020029,,2019-10-07,Jeff Carter Tripping against Joakim Nygard
+90,penalty,Holding,Alec Martinez,Jujhar Khaira,[-58.  17.],1,00:09,LAK,EDM,EDM,22,LAK,26,2,3,8474166,8476915.0,2019020029,,2019-10-07,Alec Martinez Holding against Jujhar Khaira
+125,penalty,Slashing,Matt Benning,Trevor Lewis,[80. 22.],2,14:29,EDM,LAK,EDM,22,LAK,26,3,3,8476988,8473453.0,2019020029,,2019-10-07,Matt Benning Slashing against Trevor Lewis
+177,penalty,Hi-sticking,Anze Kopitar,Leon Draisaitl,[-62. -18.],2,03:03,LAK,EDM,EDM,22,LAK,26,3,3,8471685,8477934.0,2019020029,,2019-10-07,Anze Kopitar Hi-sticking against Leon Draisaitl
+203,penalty,Hooking,Connor McDavid,Sean Walker,[-12.  36.],3,15:53,EDM,LAK,EDM,22,LAK,26,3,4,8478402,8480336.0,2019020029,,2019-10-07,Connor McDavid Hooking against Sean Walker
+211,penalty,Interference,Dustin Brown,Leon Draisaitl,[-69.   1.],3,14:38,LAK,EDM,EDM,22,LAK,26,3,4,8470606,8477934.0,2019020029,,2019-10-07,Dustin Brown Interference against Leon Draisaitl
+216,penalty,Holding,Ethan Bear,Michael Amadio,[-57. -36.],3,14:13,EDM,LAK,EDM,22,LAK,26,4,4,8478451,8478020.0,2019020029,,2019-10-07,Ethan Bear Holding against Michael Amadio
+224,penalty,Too many men on the ice,Joel Persson,,[-19.  19.],3,12:46,EDM,LAK,EDM,22,LAK,26,4,4,8480940,,2019020029,,2019-10-07,Too many men/ice served by Joel Persson
+251,penalty,Interference,Sean Walker,Connor McDavid,[24.  1.],3,07:23,LAK,EDM,EDM,22,LAK,26,5,5,8480336,8478402.0,2019020029,,2019-10-07,Sean Walker Interference against Connor McDavid
+282,penalty,Tripping,James Neal,Anze Kopitar,[ 64. -23.],3,00:46,EDM,LAK,EDM,22,LAK,26,6,5,8471707,8471685.0,2019020029,,2019-10-07,James Neal Tripping against Anze Kopitar
+57,penalty,Roughing,Kurtis MacDermid,Matthew Tkachuk,[51. -9.],1,07:34,LAK,CGY,CGY,20,LAK,26,0,1,8477073,8479314.0,2019020042,,2019-10-10,Kurtis MacDermid Roughing against Matthew Tkachuk
+93,penalty,Tripping,Dustin Brown,Johnny Gaudreau,[11. 26.],2,19:16,LAK,CGY,CGY,20,LAK,26,0,2,8470606,8476346.0,2019020042,,2019-10-10,Dustin Brown Tripping against Johnny Gaudreau
+112,penalty,Fighting,Milan Lucic,Kurtis MacDermid,[ 64. -20.],2,13:51,CGY,LAK,CGY,20,LAK,26,0,3,8473473,8477073.0,2019020042,,2019-10-10,Milan Lucic Fighting against Kurtis MacDermid
+113,penalty,Fighting,Kurtis MacDermid,Milan Lucic,[13.  2.],2,13:51,LAK,CGY,CGY,20,LAK,26,0,3,8477073,8473473.0,2019020042,,2019-10-10,Kurtis MacDermid Fighting against Milan Lucic
+192,penalty,Tripping,Sam Bennett,Drew Doughty,[-93. -33.],3,17:56,CGY,LAK,CGY,20,LAK,26,2,3,8477935,8474563.0,2019020042,,2019-10-10,Sam Bennett Tripping against Drew Doughty
+257,penalty,Tripping,Sam Bennett,Anze Kopitar,[46. 32.],3,00:28,CGY,LAK,CGY,20,LAK,26,3,3,8477935,8471685.0,2019020042,,2019-10-10,Sam Bennett Tripping against Anze Kopitar
+18,penalty,Tripping,Sean Walker,Tim Schaller,[-98.  29.],1,16:26,LAK,VAN,VAN,23,LAK,26,0,0,8480336,8477213.0,2019020046,,2019-10-10,Sean Walker Tripping against Tim Schaller
+67,penalty,Hi-sticking,Alexander Edler,Dustin Brown,[-24. -31.],1,07:23,VAN,LAK,VAN,23,LAK,26,2,0,8471303,8470606.0,2019020046,,2019-10-10,Alexander Edler Hi-sticking against Dustin Brown
+145,penalty,Hi-sticking,Jay Beagle,Anze Kopitar,[-82.  20.],2,11:13,VAN,LAK,VAN,23,LAK,26,3,1,8474291,8471685.0,2019020046,,2019-10-10,Jay Beagle Hi-sticking against Anze Kopitar
+174,penalty,Interference,Bo Horvat,Anze Kopitar,[-89.   5.],2,04:46,VAN,LAK,VAN,23,LAK,26,4,1,8477500,8471685.0,2019020046,,2019-10-10,Bo Horvat Interference against Anze Kopitar
+179,penalty,Roughing,Tanner Pearson,Adrian Kempe,[-11. -38.],2,03:30,VAN,LAK,VAN,23,LAK,26,4,1,8476871,8477960.0,2019020046,,2019-10-10,Tanner Pearson Roughing against Adrian Kempe
+192,penalty,Holding the stick,Michael Amadio,Tanner Pearson,[-83.  17.],2,00:58,LAK,VAN,VAN,23,LAK,26,4,1,8478020,8476871.0,2019020046,,2019-10-10,Michael Amadio Holding the stick against Tanner Pearson
+23,penalty,Hooking,Dan Hamhuis,Adrian Kempe,[-85.  25.],1,14:29,NSH,LAK,LAK,26,NSH,18,0,1,8469465,8477960.0,2019020063,,2019-10-13,Dan Hamhuis Hooking against Adrian Kempe
+62,penalty,Holding,Ilya Kovalchuk,Viktor Arvidsson,[ -6. -22.],1,04:23,LAK,NSH,LAK,26,NSH,18,2,1,8469454,8478042.0,2019020063,,2019-10-13,Ilya Kovalchuk Holding against Viktor Arvidsson
+127,penalty,Tripping,Sean Walker,Matt Duchene,[-13. -31.],2,09:30,LAK,NSH,LAK,26,NSH,18,3,1,8480336,8475168.0,2019020063,,2019-10-13,Sean Walker Tripping against Matt Duchene
+149,penalty,Holding,Dan Hamhuis,Trevor Lewis,[95. 32.],2,04:51,NSH,LAK,LAK,26,NSH,18,3,1,8469465,8473453.0,2019020063,,2019-10-13,Dan Hamhuis Holding against Trevor Lewis
+153,penalty,Slashing,Alec Martinez,Nick Bonino,[-73.   5.],2,04:31,LAK,NSH,LAK,26,NSH,18,3,1,8474166,8474009.0,2019020063,,2019-10-13,Alec Martinez Slashing against Nick Bonino
+217,penalty,Tripping,Austin Wagner,Matt Duchene,[-44. -15.],3,09:55,LAK,NSH,LAK,26,NSH,18,4,2,8478455,8475168.0,2019020063,,2019-10-13,Austin Wagner Tripping against Matt Duchene
+2,penalty,Slashing,Jonathan Marchessault,Blake Lizotte,[-53.  21.],1,19:24,VGK,LAK,LAK,26,VGK,54,0,0,8476539,8481481.0,2019020076,,2019-10-14,Jonathan Marchessault Slashing against Blake Lizotte
+33,penalty,Holding the stick,Dustin Brown,Shea Theodore,[-96.  12.],1,13:51,LAK,VGK,LAK,26,VGK,54,0,1,8470606,8477447.0,2019020076,,2019-10-14,Dustin Brown Holding the stick against Shea Theodore
+51,penalty,Interference,Nicolas Hague,Kyle Clifford,[-96.  11.],1,09:01,VGK,LAK,LAK,26,VGK,54,1,2,8479980,8475160.0,2019020076,,2019-10-14,Nicolas Hague Interference against Kyle Clifford
+152,penalty,Interference,Jeff Carter,Jon Merrill,[80.  3.],2,06:31,LAK,VGK,LAK,26,VGK,54,1,2,8470604,8475750.0,2019020076,,2019-10-14,Jeff Carter Interference against Jon Merrill
+168,penalty,Hooking,Joakim Ryan,Ryan Reaves,[-39.  26.],2,04:40,LAK,VGK,LAK,26,VGK,54,1,3,8477046,8471817.0,2019020076,,2019-10-14,Joakim Ryan Hooking against Ryan Reaves
+252,penalty,Hooking,William Carrier,Joakim Ryan,[-33. -27.],3,06:57,VGK,LAK,LAK,26,VGK,54,2,5,8477478,8477046.0,2019020076,,2019-10-14,William Carrier Hooking against Joakim Ryan
+6,penalty,Slashing,Ryan Dzingel,Ilya Kovalchuk,[ 81. -30.],1,18:18,CAR,LAK,LAK,26,CAR,12,0,0,8476288,8469454.0,2019020091,,2019-10-16,Ryan Dzingel Slashing against Ilya Kovalchuk
+35,penalty,Interference,Brock McGinn,Blake Lizotte,[  0. -36.],1,11:29,CAR,LAK,LAK,26,CAR,12,0,0,8476934,8481481.0,2019020091,,2019-10-16,Brock McGinn Interference against Blake Lizotte
+52,penalty,Hooking,Anze Kopitar,Jordan Staal,[71. -6.],1,07:07,LAK,CAR,LAK,26,CAR,12,0,0,8471685,8473533.0,2019020091,,2019-10-16,Anze Kopitar Hooking against Jordan Staal
+70,penalty,Holding,Alec Martinez,Erik Haula,[ 92. -32.],1,03:00,LAK,CAR,LAK,26,CAR,12,0,0,8474166,8475287.0,2019020091,,2019-10-16,Alec Martinez Holding against Erik Haula
+107,penalty,Hi-sticking,Adrian Kempe,Joel Edmundson,[ 54. -35.],2,15:02,LAK,CAR,LAK,26,CAR,12,0,1,8477960,8476441.0,2019020091,,2019-10-16,Adrian Kempe Hi-sticking against Joel Edmundson
+132,penalty,Tripping,Lucas Wallmark,Trevor Lewis,[67. 32.],2,06:44,CAR,LAK,LAK,26,CAR,12,0,1,8478027,8473453.0,2019020091,,2019-10-16,Lucas Wallmark Tripping against Trevor Lewis
+135,penalty,Interference,Drew Doughty,Sebastian Aho,[22. 34.],2,05:41,LAK,CAR,LAK,26,CAR,12,0,1,8474563,8478427.0,2019020091,,2019-10-16,Drew Doughty Interference against Sebastian Aho
+198,penalty,Holding,Brett Pesce,Blake Lizotte,[-71.  -8.],3,05:48,CAR,LAK,LAK,26,CAR,12,0,1,8477488,8481481.0,2019020091,,2019-10-16,Brett Pesce Holding against Blake Lizotte
+216,penalty,Boarding,Jordan Staal,Drew Doughty,[-95.  27.],3,01:14,CAR,LAK,LAK,26,CAR,12,0,1,8473533,8474563.0,2019020091,,2019-10-16,Jordan Staal Boarding against Drew Doughty
+63,penalty,Hi-sticking,Ilya Kovalchuk,Kyle Okposo,[-1. 16.],1,05:48,LAK,BUF,LAK,26,BUF,7,0,2,8469454,8473449.0,2019020106,,2019-10-18,Ilya Kovalchuk Hi-sticking against Kyle Okposo
+91,penalty,Cross checking,Ilya Kovalchuk,Rasmus Ristolainen,[-21.  39.],2,19:15,LAK,BUF,LAK,26,BUF,7,0,2,8469454,8477499.0,2019020106,,2019-10-18,Ilya Kovalchuk Cross checking against Rasmus Ristolainen
+133,penalty,Tripping,Marcus Johansson,Trevor Lewis,[-20.   3.],2,11:20,BUF,LAK,LAK,26,BUF,7,0,3,8475149,8473453.0,2019020106,,2019-10-18,Marcus Johansson Tripping against Trevor Lewis
+181,penalty,Hi-sticking,Jake McCabe,Anze Kopitar,[76.  0.],2,00:49,BUF,LAK,LAK,26,BUF,7,0,3,8476931,8471685.0,2019020106,,2019-10-18,Jake McCabe Hi-sticking against Anze Kopitar
+187,penalty,Slashing,Johan Larsson,Tyler Toffoli,[37.  1.],2,00:21,BUF,LAK,LAK,26,BUF,7,0,3,8475728,8475726.0,2019020106,,2019-10-18,Johan Larsson Slashing against Tyler Toffoli
+269,penalty,Hi-sticking,Ilya Kovalchuk,Colin Miller,[-75.  -2.],3,02:57,LAK,BUF,LAK,26,BUF,7,0,3,8469454,8476525.0,2019020106,,2019-10-18,Ilya Kovalchuk Hi-sticking against Colin Miller
+22,penalty,Hooking,Anze Kopitar,Elias Lindholm,[69.  4.],1,14:09,LAK,CGY,LAK,26,CGY,20,1,0,8471685,8477496.0,2019020122,,2019-10-20,Anze Kopitar Hooking against Elias Lindholm
+30,penalty,Tripping,Kurtis MacDermid,Sam Bennett,[ 55. -12.],1,11:50,LAK,CGY,LAK,26,CGY,20,1,0,8477073,8477935.0,2019020122,,2019-10-20,Kurtis MacDermid Tripping against Sam Bennett
+43,penalty,Hooking,Michael Frolik,Anze Kopitar,[36. 39.],1,08:04,CGY,LAK,LAK,26,CGY,20,1,0,8473564,8471685.0,2019020122,,2019-10-20,Michael Frolik Hooking against Anze Kopitar
+62,penalty,Tripping,David Rittich,Matthew Tkachuk,[-87.  -6.],1,03:56,CGY,LAK,LAK,26,CGY,20,1,0,8479496,8479314.0,2019020122,,2019-10-20,David Rittich Tripping against Blake Lizotte served by Matthew Tkachuk
+69,penalty,Holding,Jeff Carter,Travis Hamonic,[-94.  16.],1,02:13,LAK,CGY,LAK,26,CGY,20,1,0,8470604,8474612.0,2019020122,,2019-10-20,Jeff Carter Holding against Travis Hamonic
+103,penalty,Roughing,Kurtis MacDermid,Sam Bennett,[-8. 13.],2,15:29,LAK,CGY,LAK,26,CGY,20,2,0,8477073,8477935.0,2019020122,,2019-10-20,Kurtis MacDermid Roughing against Sam Bennett
+117,penalty,Roughing,Travis Hamonic,Alex Iafallo,[67. -8.],2,11:29,CGY,LAK,LAK,26,CGY,20,3,0,8474612,8480113.0,2019020122,,2019-10-20,Travis Hamonic Roughing against Alex Iafallo
+122,penalty,Roughing,Rasmus Andersson,Kyle Clifford,[89. 18.],2,10:35,CGY,LAK,LAK,26,CGY,20,4,0,8478397,8475160.0,2019020122,,2019-10-20,Rasmus Andersson Roughing against Kyle Clifford
+123,penalty,Unsportsmanlike conduct,Kyle Clifford,Rasmus Andersson,[88. 19.],2,10:35,LAK,CGY,LAK,26,CGY,20,4,0,8475160,8478397.0,2019020122,,2019-10-20,Kyle Clifford Unsportsmanlike conduct against Rasmus Andersson
+124,penalty,Holding the stick,Oliver Kylington,Austin Wagner,[84. 22.],2,10:35,CGY,LAK,LAK,26,CGY,20,4,0,8478430,8478455.0,2019020122,,2019-10-20,Oliver Kylington Holding the stick against Austin Wagner
+133,penalty,Slashing,David Rittich,Derek Ryan,[83. -2.],2,08:34,CGY,LAK,LAK,26,CGY,20,4,0,8479496,8478585.0,2019020122,,2019-10-20,David Rittich Slashing against Alex Iafallo served by Derek Ryan
+197,penalty,Roughing,Austin Wagner,Rasmus Andersson,[56. 37.],3,09:35,LAK,CGY,LAK,26,CGY,20,4,0,8478455,8478397.0,2019020122,,2019-10-20,Austin Wagner Roughing against Rasmus Andersson
+198,penalty,Roughing,Rasmus Andersson,Austin Wagner,[55. 35.],3,09:35,CGY,LAK,LAK,26,CGY,20,4,0,8478397,8478455.0,2019020122,,2019-10-20,Rasmus Andersson Roughing against Austin Wagner
+199,penalty,Tripping,Matthew Tkachuk,Austin Czarnik,[54. 39.],3,09:35,CGY,LAK,LAK,26,CGY,20,4,0,8479314,8478512.0,2019020122,,2019-10-20,Matthew Tkachuk Tripping against Drew Doughty served by Austin Czarnik
+200,penalty,Roughing,Matthew Tkachuk,Austin Czarnik,[50. 37.],3,09:35,CGY,LAK,LAK,26,CGY,20,4,0,8479314,8478512.0,2019020122,,2019-10-20,Matthew Tkachuk Roughing against Drew Doughty served by Austin Czarnik
+201,penalty,Misconduct,Matthew Tkachuk,Drew Doughty,[50. 36.],3,09:35,CGY,LAK,LAK,26,CGY,20,4,0,8479314,8474563.0,2019020122,,2019-10-20,Matthew Tkachuk Misconduct against Drew Doughty
+208,penalty,Too many men on the ice,Ilya Kovalchuk,,[14. 40.],3,08:07,LAK,CGY,LAK,26,CGY,20,4,0,8469454,,2019020122,,2019-10-20,Too many men/ice served by Ilya Kovalchuk
+221,penalty,Interference,Mikael Backlund,Matt Roy,[62. 33.],3,04:18,CGY,LAK,LAK,26,CGY,20,4,0,8474150,8478911.0,2019020122,,2019-10-20,Mikael Backlund Interference against Matt Roy
+228,penalty,PS - Tripping on breakaway,Drew Doughty,Mikael Backlund,[79.  1.],3,02:10,LAK,CGY,LAK,26,CGY,20,4,0,8474563,8474150.0,2019020122,,2019-10-20,Drew Doughty PS - Tripping on breakaway against Mikael Backlund
+5,penalty,Holding,Ville Heinola,Tyler Toffoli,[79. 37.],1,18:39,WPG,LAK,WPG,52,LAK,26,0,0,8481572,8475726.0,2019020140,,2019-10-23,Ville Heinola Holding against Tyler Toffoli
+29,penalty,Slashing,Kyle Connor,Alex Iafallo,[60.  7.],1,14:53,WPG,LAK,WPG,52,LAK,26,0,0,8478398,8480113.0,2019020140,,2019-10-23,Kyle Connor Slashing against Alex Iafallo
+101,penalty,Tripping,Alec Martinez,Nikolaj Ehlers,[-89.  33.],1,00:32,LAK,WPG,WPG,52,LAK,26,1,1,8474166,8477940.0,2019020140,,2019-10-23,Alec Martinez Tripping against Nikolaj Ehlers
+109,penalty,Roughing,Kurtis MacDermid,Adam Lowry,[14. 32.],2,17:54,LAK,WPG,WPG,52,LAK,26,1,1,8477073,8476392.0,2019020140,,2019-10-23,Kurtis MacDermid Roughing against Adam Lowry
+165,penalty,Tripping,Trevor Lewis,Bryan Little,[  5. -39.],2,05:57,LAK,WPG,WPG,52,LAK,26,2,2,8473453,8473412.0,2019020140,,2019-10-23,Trevor Lewis Tripping against Bryan Little
+181,penalty,Hooking,Michael Amadio,David Gustafsson,[ 75. -20.],2,03:10,LAK,WPG,WPG,52,LAK,26,2,2,8478020,8481019.0,2019020140,,2019-10-23,Michael Amadio Hooking against David Gustafsson
+211,penalty,Holding,Carl Dahlstrom,Jeff Carter,[ 63. -19.],3,14:47,WPG,LAK,WPG,52,LAK,26,2,2,8477472,8470604.0,2019020140,,2019-10-23,Carl Dahlstrom Holding against Jeff Carter
+263,penalty,Hooking,Neal Pionk,Austin Wagner,[81. -1.],3,04:26,WPG,LAK,WPG,52,LAK,26,2,3,8480145,8478455.0,2019020140,,2019-10-23,Neal Pionk Hooking against Austin Wagner
+269,penalty,Tripping,Jeff Carter,Patrik Laine,[  5. -38.],3,00:58,LAK,WPG,WPG,52,LAK,26,2,3,8470604,8479339.0,2019020140,,2019-10-23,Jeff Carter Tripping against Patrik Laine
+75,penalty,Slashing,Tyler Toffoli,David Perron,[41. 25.],1,02:22,LAK,STL,STL,19,LAK,26,0,1,8475726,8474102.0,2019020149,LAK,2019-10-25,Tyler Toffoli Slashing against David Perron
+116,penalty,Slashing,Jeff Carter,Zach Sanford,[-56. -22.],2,12:48,LAK,STL,STL,19,LAK,26,1,2,8470604,8477482.0,2019020149,LAK,2019-10-25,Jeff Carter Slashing against Zach Sanford
+129,penalty,Interference,Kyle Clifford,Ivan Barbashev,[88. -9.],2,10:05,LAK,STL,STL,19,LAK,26,1,2,8475160,8477964.0,2019020149,LAK,2019-10-25,Kyle Clifford Interference against Ivan Barbashev
+142,penalty,Tripping,Justin Faulk,Ilya Kovalchuk,[-59.  40.],2,07:32,STL,LAK,STL,19,LAK,26,3,2,8475753,8469454.0,2019020149,LAK,2019-10-25,Justin Faulk Tripping against Ilya Kovalchuk
+176,penalty,Hooking,Tyler Bozak,Michael Amadio,[-58. -39.],3,17:42,STL,LAK,STL,19,LAK,26,3,2,8475098,8478020.0,2019020149,LAK,2019-10-25,Tyler Bozak Hooking against Michael Amadio
+189,penalty,Hooking,Alex Iafallo,Tyler Bozak,[ 85. -34.],3,14:07,LAK,STL,STL,19,LAK,26,3,2,8480113,8475098.0,2019020149,LAK,2019-10-25,Alex Iafallo Hooking against Tyler Bozak
+221,penalty,Slashing,Justin Faulk,Blake Lizotte,[ -4. -34.],3,04:44,STL,LAK,STL,19,LAK,26,4,2,8475753,8481481.0,2019020149,LAK,2019-10-25,Justin Faulk Slashing against Blake Lizotte
+240,penalty,Fighting,Ivan Barbashev,Austin Wagner,[-50.  -9.],3,00:23,STL,LAK,STL,19,LAK,26,5,2,8477964,8478455.0,2019020149,LAK,2019-10-25,Ivan Barbashev Fighting against Austin Wagner
+241,penalty,Fighting,Austin Wagner,Ivan Barbashev,[-53. -14.],3,00:23,LAK,STL,STL,19,LAK,26,5,2,8478455,8477964.0,2019020149,LAK,2019-10-25,Austin Wagner Fighting against Ivan Barbashev
+30,penalty,Tripping,Matt Dumba,Ilya Kovalchuk,[-58. -36.],1,11:29,MIN,LAK,MIN,30,LAK,26,1,0,8476856,8469454.0,2019020167,LAK,2019-10-27,Matt Dumba Tripping against Ilya Kovalchuk
+96,penalty,Hooking,Blake Lizotte,Eric Staal,[41.  3.],2,13:15,LAK,MIN,MIN,30,LAK,26,1,1,8481481,8470595.0,2019020167,LAK,2019-10-27,Blake Lizotte Hooking against Eric Staal
+108,penalty,Tripping,Adrian Kempe,Joel Eriksson Ek,[47. 31.],2,09:25,LAK,MIN,MIN,30,LAK,26,1,1,8477960,8478493.0,2019020167,LAK,2019-10-27,Adrian Kempe Tripping against Joel Eriksson Ek
+114,penalty,Tripping,Ryan Suter,Dustin Brown,[-16.  34.],2,07:48,MIN,LAK,MIN,30,LAK,26,1,1,8470600,8470606.0,2019020167,LAK,2019-10-27,Ryan Suter Tripping against Dustin Brown
+119,penalty,Tripping,Mikko Koivu,Alec Martinez,[-69.  40.],2,06:02,MIN,LAK,MIN,30,LAK,26,1,1,8469459,8474166.0,2019020167,LAK,2019-10-27,Mikko Koivu Tripping against Alec Martinez
+168,penalty,Interference,Tyler Toffoli,Joel Eriksson Ek,[-24. -21.],3,11:41,LAK,MIN,MIN,30,LAK,26,4,1,8475726,8478493.0,2019020167,LAK,2019-10-27,Tyler Toffoli Interference against Joel Eriksson Ek
+27,penalty,Tripping,Blake Lizotte,David Kampf,[76. 14.],1,16:24,LAK,CHI,CHI,16,LAK,26,1,0,8481481,8480144.0,2019020175,LAK,2019-10-28,Blake Lizotte Tripping against David Kampf
+68,penalty,Delaying Game - Puck over glass,Calvin de Haan,,[79. 22.],1,09:04,CHI,LAK,CHI,16,LAK,26,1,0,8475177,,2019020175,LAK,2019-10-28,Calvin de Haan Delaying Game - Puck over glass
+77,penalty,Tripping,Ilya Kovalchuk,Olli Maatta,[94.  8.],1,07:46,LAK,CHI,CHI,16,LAK,26,1,0,8469454,8476874.0,2019020175,LAK,2019-10-28,Ilya Kovalchuk Tripping against Olli Maatta
+145,penalty,Holding,Andrew Shaw,Matt Roy,[-47.  34.],2,14:36,CHI,LAK,CHI,16,LAK,26,2,0,8476381,8478911.0,2019020175,LAK,2019-10-28,Andrew Shaw Holding against Matt Roy
+271,penalty,Hooking,Jonathan Toews,Dustin Brown,[ 39. -19.],3,07:42,CHI,LAK,CHI,16,LAK,26,4,1,8473604,8470606.0,2019020175,LAK,2019-10-28,Jonathan Toews Hooking against Dustin Brown
+281,penalty,Roughing,Kyle Clifford,Slater Koekkoek,[ 84. -28.],3,05:26,LAK,CHI,CHI,16,LAK,26,4,1,8475160,8476886.0,2019020175,LAK,2019-10-28,Kyle Clifford Roughing against Slater Koekkoek
+282,penalty,Roughing,Slater Koekkoek,Kyle Clifford,[ 87. -28.],3,05:26,CHI,LAK,CHI,16,LAK,26,4,1,8476886,8475160.0,2019020175,LAK,2019-10-28,Slater Koekkoek Roughing against Kyle Clifford
+31,penalty,Fighting,Kyle Clifford,Micheal Ferland,[65. 13.],1,13:32,LAK,VAN,LAK,26,VAN,23,1,0,8475160,8475907.0,2019020193,VAN,2019-10-31,Kyle Clifford Fighting against Micheal Ferland
+32,penalty,Fighting,Micheal Ferland,Kyle Clifford,[64. 11.],1,13:32,VAN,LAK,LAK,26,VAN,23,1,0,8475907,8475160.0,2019020193,VAN,2019-10-31,Micheal Ferland Fighting against Kyle Clifford
+43,penalty,Slashing,Brock Boeser,Austin Wagner,[-74. -10.],1,10:12,VAN,LAK,LAK,26,VAN,23,1,0,8478444,8478455.0,2019020193,VAN,2019-10-31,Brock Boeser Slashing against Austin Wagner
+54,penalty,Slashing,Trevor Lewis,Elias Pettersson,[41. 31.],1,07:42,LAK,VAN,LAK,26,VAN,23,1,0,8473453,8480012.0,2019020193,VAN,2019-10-31,Trevor Lewis Slashing against Elias Pettersson
+77,penalty,Hooking,Adrian Kempe,Elias Pettersson,[85. 10.],1,02:51,LAK,VAN,LAK,26,VAN,23,1,0,8477960,8480012.0,2019020193,VAN,2019-10-31,Adrian Kempe Hooking against Elias Pettersson
+94,penalty,Hooking,Drew Doughty,Tanner Pearson,[68. 18.],1,00:36,LAK,VAN,LAK,26,VAN,23,1,1,8474563,8476871.0,2019020193,VAN,2019-10-31,Drew Doughty Hooking against Tanner Pearson
+98,penalty,Tripping,Jeff Carter,Alexander Edler,[-95.  19.],1,00:00,LAK,VAN,LAK,26,VAN,23,1,2,8470604,8471303.0,2019020193,VAN,2019-10-31,Jeff Carter Tripping against Alexander Edler
+139,penalty,Interference,Jay Beagle,Anze Kopitar,[69. 35.],2,10:29,VAN,LAK,LAK,26,VAN,23,1,2,8474291,8471685.0,2019020193,VAN,2019-10-31,Jay Beagle Interference against Anze Kopitar
+151,penalty,Hooking,Josh Leivo,Dustin Brown,[47. 33.],2,07:55,VAN,LAK,LAK,26,VAN,23,2,2,8476410,8470606.0,2019020193,VAN,2019-10-31,Josh Leivo Hooking against Dustin Brown
+179,penalty,Slashing,Austin Wagner,Christopher Tanev,[-74.  21.],2,01:00,LAK,VAN,LAK,26,VAN,23,2,3,8478455,8475690.0,2019020193,VAN,2019-10-31,Austin Wagner Slashing against Christopher Tanev
+192,penalty,Tripping,Alexander Edler,Nikolai Prokhorkin,[-60.  32.],3,18:18,VAN,LAK,LAK,26,VAN,23,2,4,8471303,8476947.0,2019020193,VAN,2019-10-31,Alexander Edler Tripping against Nikolai Prokhorkin
+216,penalty,Tripping,Alexander Edler,Trevor Lewis,[-68. -20.],3,12:53,VAN,LAK,LAK,26,VAN,23,2,4,8471303,8473453.0,2019020193,VAN,2019-10-31,Alexander Edler Tripping against Trevor Lewis
+237,penalty,Hooking,Tyler Myers,Trevor Lewis,[-42.   7.],3,06:47,VAN,LAK,LAK,26,VAN,23,2,4,8474574,8473453.0,2019020193,VAN,2019-10-31,Tyler Myers Hooking against Trevor Lewis
+245,penalty,Tripping,Trevor Lewis,Josh Leivo,[83. -8.],3,04:32,LAK,VAN,LAK,26,VAN,23,2,4,8473453,8476410.0,2019020193,VAN,2019-10-31,Trevor Lewis Tripping against Josh Leivo
+21,penalty,Delaying Game - Puck over glass,Slater Koekkoek,,[-40.  36.],1,14:57,CHI,LAK,LAK,26,CHI,16,2,0,8476886,,2019020217,CHI,2019-11-03,Slater Koekkoek Delaying Game - Puck over glass
+37,penalty,Interference,Adrian Kempe,Duncan Keith,[ 2. 20.],1,11:52,LAK,CHI,LAK,26,CHI,16,2,0,8477960,8470281.0,2019020217,CHI,2019-11-03,Adrian Kempe Interference against Duncan Keith
+92,penalty,Interference,Calvin de Haan,Trevor Lewis,[-59. -39.],1,00:18,CHI,LAK,LAK,26,CHI,16,2,2,8475177,8473453.0,2019020217,CHI,2019-11-03,Calvin de Haan Interference against Trevor Lewis
+134,penalty,Hooking,Ryan Carpenter,Jeff Carter,[43. 41.],2,08:10,CHI,LAK,LAK,26,CHI,16,2,2,8477846,8470604.0,2019020217,CHI,2019-11-03,Ryan Carpenter Hooking against Jeff Carter
+159,penalty,Hooking,Olli Maatta,Dustin Brown,[ 86. -11.],2,03:42,CHI,LAK,LAK,26,CHI,16,2,2,8476874,8470606.0,2019020217,CHI,2019-11-03,Olli Maatta Hooking against Dustin Brown
+74,penalty,Roughing,Tyler Toffoli,Travis Dermott,[ 68. -23.],1,04:18,LAK,TOR,TOR,10,LAK,26,0,0,8475726,8478408.0,2019020228,LAK,2019-11-06,Tyler Toffoli Roughing against Travis Dermott
+113,penalty,Interference,Alexander Kerfoot,Carl Grundstrom,[-81.   5.],2,15:58,TOR,LAK,TOR,10,LAK,26,0,0,8477021,8479336.0,2019020228,LAK,2019-11-06,Alexander Kerfoot Interference against Carl Grundstrom
+163,penalty,Interference,Adrian Kempe,Mitchell Marner,[-11.   0.],2,04:55,LAK,TOR,TOR,10,LAK,26,1,1,8477960,8478483.0,2019020228,LAK,2019-11-06,Adrian Kempe Interference against Mitchell Marner
+176,penalty,Interference,Jake Muzzin,Ilya Kovalchuk,[16. 30.],2,01:27,TOR,LAK,TOR,10,LAK,26,1,1,8474162,8469454.0,2019020228,LAK,2019-11-06,Jake Muzzin Interference against Ilya Kovalchuk
+183,penalty,Tripping,Alec Martinez,Trevor Moore,[38. 40.],2,00:00,LAK,TOR,TOR,10,LAK,26,1,1,8474166,8479675.0,2019020228,LAK,2019-11-06,Alec Martinez Tripping against Trevor Moore
+193,penalty,Tripping,Nicholas Shore,Jonathan Quick,[-92.   7.],3,17:11,TOR,LAK,TOR,10,LAK,26,1,1,8476406,8471734.0,2019020228,LAK,2019-11-06,Nicholas Shore Tripping against Jonathan Quick
+261,penalty,Tripping,Ben Hutton,Ilya Mikheyev,[23. 28.],3,00:13,LAK,TOR,TOR,10,LAK,26,3,1,8477018,8481624.0,2019020228,LAK,2019-11-06,Ben Hutton Tripping against Ilya Mikheyev
+13,penalty,Holding,Chris Tierney,Blake Lizotte,[-98.  17.],1,17:11,OTT,LAK,OTT,9,LAK,26,0,0,8476919,8481481.0,2019020242,,2019-11-08,Chris Tierney Holding against Blake Lizotte
+50,penalty,Interference,Filip Chlapik,Ilya Kovalchuk,[ 66. -13.],1,09:45,OTT,LAK,OTT,9,LAK,26,0,0,8478488,8469454.0,2019020242,,2019-11-08,Filip Chlapik Interference against Ilya Kovalchuk
+64,penalty,Tripping,Drew Doughty,Tyler Ennis,[ 20. -30.],1,05:18,LAK,OTT,OTT,9,LAK,26,0,0,8474563,8474589.0,2019020242,,2019-11-08,Drew Doughty Tripping against Tyler Ennis
+135,penalty,Interference,Ilya Kovalchuk,Erik Brannstrom,[  6. -31.],2,09:45,LAK,OTT,OTT,9,LAK,26,0,1,8469454,8480073.0,2019020242,,2019-11-08,Ilya Kovalchuk Interference against Erik Brannstrom
+50,penalty,Hooking,Jeff Carter,Jonathan Drouin,[-96.  14.],1,10:38,LAK,MTL,MTL,8,LAK,26,0,0,8470604,8477494.0,2019020254,LAK,2019-11-10,Jeff Carter Hooking against Jonathan Drouin
+64,penalty,Slashing,Nick Suzuki,Ilya Kovalchuk,[53.  1.],1,08:22,MTL,LAK,MTL,8,LAK,26,2,0,8480018,8469454.0,2019020254,LAK,2019-11-10,Nick Suzuki Slashing against Ilya Kovalchuk
+87,penalty,Tripping,Austin Wagner,Victor Mete,[-75.  30.],1,03:18,LAK,MTL,MTL,8,LAK,26,2,0,8478455,8479376.0,2019020254,LAK,2019-11-10,Austin Wagner Tripping against Victor Mete
+96,penalty,Interference,Nick Cousins,Blake Lizotte,[-31.  27.],1,02:17,MTL,LAK,MTL,8,LAK,26,3,0,8476393,8481481.0,2019020254,LAK,2019-11-10,Nick Cousins Interference against Blake Lizotte
+110,penalty,Tripping,Jeff Petry,Blake Lizotte,[-40.  11.],2,18:48,MTL,LAK,MTL,8,LAK,26,3,0,8473507,8481481.0,2019020254,LAK,2019-11-10,Jeff Petry Tripping against Blake Lizotte
+152,penalty,Hi-sticking,Carl Grundstrom,Jonathan Drouin,[52. 13.],2,08:34,LAK,MTL,MTL,8,LAK,26,3,1,8479336,8477494.0,2019020254,LAK,2019-11-10,Carl Grundstrom Hi-sticking against Jonathan Drouin
+164,penalty,Hi stick - double minor,Kyle Clifford,Jeff Petry,[-81. -28.],2,05:47,LAK,MTL,MTL,8,LAK,26,3,1,8475160,8473507.0,2019020254,LAK,2019-11-10,Kyle Clifford Hi stick - double minor against Jeff Petry
+226,penalty,Interference,Ben Hutton,Joel Armia,[-68.   9.],3,11:38,LAK,MTL,MTL,8,LAK,26,3,1,8477018,8476469.0,2019020254,LAK,2019-11-10,Ben Hutton Interference against Joel Armia
+24,penalty,Cross checking,Kyle Clifford,Ryan Hartman,[ 19. -27.],1,15:28,LAK,MIN,LAK,26,MIN,30,1,0,8475160,8477451.0,2019020279,,2019-11-13,Kyle Clifford Cross checking against Ryan Hartman
+85,penalty,Tripping,Matt Roy,Zach Parise,[75. 23.],1,03:04,LAK,MIN,LAK,26,MIN,30,1,0,8478911,8470610.0,2019020279,,2019-11-13,Matt Roy Tripping against Zach Parise
+108,penalty,Hooking,Jeff Carter,Kevin Fiala,[-75. -20.],2,18:06,LAK,MIN,LAK,26,MIN,30,1,0,8470604,8477942.0,2019020279,,2019-11-13,Jeff Carter Hooking against Kevin Fiala
+238,penalty,Holding,Jordan Greenway,Matt Luff,[-69. -41.],3,05:07,MIN,LAK,LAK,26,MIN,30,2,1,8478413,8479644.0,2019020279,,2019-11-13,Jordan Greenway Holding against Matt Luff
+252,penalty,Unsportsmanlike conduct,Eric Staal,Ryan Donato,[-45.  35.],3,00:47,MIN,LAK,LAK,26,MIN,30,3,1,8470595,8477987.0,2019020279,,2019-11-13,Eric Staal Unsportsmanlike conduct served by Ryan Donato
+253,penalty,Misconduct,Eric Staal,,[-46.  34.],3,00:47,MIN,LAK,LAK,26,MIN,30,3,1,8470595,,2019020279,,2019-11-13,Eric Staal Misconduct
+13,penalty,Slashing,Darren Helm,Kyle Clifford,[-66.  10.],1,17:46,DET,LAK,LAK,26,DET,17,0,0,8471794,8475160.0,2019020293,DET,2019-11-15,Darren Helm Slashing against Kyle Clifford
+37,penalty,Holding,Dylan McIlrath,Adrian Kempe,[-27. -23.],1,08:42,DET,LAK,LAK,26,DET,17,1,0,8475795,8477960.0,2019020293,DET,2019-11-15,Dylan McIlrath Holding against Adrian Kempe
+152,penalty,Tripping,Joakim Ryan,Anthony Mantha,[-80.   2.],2,00:01,LAK,DET,LAK,26,DET,17,1,1,8477046,8477511.0,2019020293,DET,2019-11-15,Joakim Ryan Tripping against Anthony Mantha
+176,penalty,Holding,Robby Fabbri,Drew Doughty,[ -1. -39.],3,12:17,DET,LAK,LAK,26,DET,17,1,2,8477952,8474563.0,2019020293,DET,2019-11-15,Robby Fabbri Holding against Drew Doughty
+8,penalty,Slashing,Paul Stastny,Anze Kopitar,[-36.  -2.],1,18:35,VGK,LAK,LAK,26,VGK,54,0,0,8471669,8471685.0,2019020312,VGK,2019-11-16,Paul Stastny Slashing against Anze Kopitar
+21,penalty,Hooking,Dustin Brown,Jonathan Marchessault,[-56. -35.],1,15:10,LAK,VGK,LAK,26,VGK,54,0,0,8470606,8476539.0,2019020312,VGK,2019-11-16,Dustin Brown Hooking against Jonathan Marchessault
+49,penalty,Roughing,Matt Roy,Alex Tuch,[98. -4.],1,09:52,LAK,VGK,LAK,26,VGK,54,0,0,8478911,8477949.0,2019020312,VGK,2019-11-16,Matt Roy Roughing against Alex Tuch
+67,penalty,Hooking,Mark Stone,Sean Walker,[-58. -39.],1,06:17,VGK,LAK,LAK,26,VGK,54,1,0,8475913,8480336.0,2019020312,VGK,2019-11-16,Mark Stone Hooking against Sean Walker
+77,penalty,Slashing,Sean Walker,Alex Tuch,[79.  9.],1,04:25,LAK,VGK,LAK,26,VGK,54,2,0,8480336,8477949.0,2019020312,VGK,2019-11-16,Sean Walker Slashing against Alex Tuch
+52,penalty,Interference,Ben Hutton,Lawson Crouse,[ 42. -40.],1,06:00,LAK,ARI,ARI,53,LAK,26,1,0,8477018,8478474.0,2019020317,LAK,2019-11-19,Ben Hutton Interference against Lawson Crouse
+69,penalty,Interference,Alex Iafallo,Christian Fischer,[-56. -30.],1,02:32,LAK,ARI,ARI,53,LAK,26,2,0,8480113,8478432.0,2019020317,LAK,2019-11-19,Alex Iafallo Interference against Christian Fischer
+94,penalty,Holding,Michael Grabner,Alex Iafallo,[51. 39.],2,16:51,ARI,LAK,ARI,53,LAK,26,2,0,8473546,8480113.0,2019020317,LAK,2019-11-19,Michael Grabner Holding against Alex Iafallo
+102,penalty,Slashing,Christian Dvorak,Anze Kopitar,[69.  3.],2,13:30,ARI,LAK,ARI,53,LAK,26,2,0,8477989,8471685.0,2019020317,LAK,2019-11-19,Christian Dvorak Slashing against Anze Kopitar
+120,penalty,Tripping,Nikolai Prokhorkin,Nick Schmaltz,[ 77. -40.],2,10:30,LAK,ARI,ARI,53,LAK,26,2,0,8476947,8477951.0,2019020317,LAK,2019-11-19,Nikolai Prokhorkin Tripping against Nick Schmaltz
+126,penalty,Hi-sticking,Blake Lizotte,Brad Richardson,[0. 1.],2,09:00,LAK,ARI,ARI,53,LAK,26,3,0,8481481,8470755.0,2019020317,LAK,2019-11-19,Blake Lizotte Hi-sticking against Brad Richardson
+133,penalty,Hooking,Jakob Chychrun,Kyle Clifford,[ 37. -39.],2,06:30,ARI,LAK,ARI,53,LAK,26,3,0,8479345,8475160.0,2019020317,LAK,2019-11-19,Jakob Chychrun Hooking against Kyle Clifford
+156,penalty,Tripping,Brad Richardson,Michael Amadio,[ 84. -11.],2,00:32,ARI,LAK,ARI,53,LAK,26,3,0,8470755,8478020.0,2019020317,LAK,2019-11-19,Brad Richardson Tripping against Michael Amadio
+34,penalty,Tripping,Josh Archibald,Adrian Kempe,[-44. -20.],1,12:06,EDM,LAK,LAK,26,EDM,22,1,0,8476326,8477960.0,2019020345,,2019-11-22,Josh Archibald Tripping against Adrian Kempe
+72,penalty,Tripping,Carl Grundstrom,Jujhar Khaira,[2. 1.],1,05:06,LAK,EDM,LAK,26,EDM,22,2,0,8479336,8476915.0,2019020345,,2019-11-22,Carl Grundstrom Tripping against Jujhar Khaira
+109,penalty,Tripping,Ryan Nugent-Hopkins,Tyler Toffoli,[ 6. -7.],2,17:30,EDM,LAK,LAK,26,EDM,22,3,1,8476454,8475726.0,2019020345,,2019-11-22,Ryan Nugent-Hopkins Tripping against Tyler Toffoli
+143,penalty,Missing key [PD_151],Gaetan Haas,,[-60.  11.],2,08:44,EDM,LAK,LAK,26,EDM,22,4,1,8481813,,2019020345,,2019-11-22,Delaying Game - Unsucc. chlg served by Gaetan Haas
+151,penalty,Holding,Adrian Kempe,Gaetan Haas,[ 41. -37.],2,05:15,LAK,EDM,LAK,26,EDM,22,4,1,8477960,8481813.0,2019020345,,2019-11-22,Adrian Kempe Holding against Gaetan Haas
+171,penalty,Hooking,Jujhar Khaira,Alex Iafallo,[ 35. -16.],2,00:31,EDM,LAK,LAK,26,EDM,22,4,1,8476915,8480113.0,2019020345,,2019-11-22,Jujhar Khaira Hooking against Alex Iafallo
+205,penalty,Cross checking,Alex Chiasson,Alec Martinez,[92.  8.],3,13:19,EDM,LAK,LAK,26,EDM,22,4,1,8475163,8474166.0,2019020345,,2019-11-22,Alex Chiasson Cross checking against Alec Martinez
+220,penalty,Misconduct,Alex Chiasson,,[ -1. -41.],3,08:33,EDM,LAK,LAK,26,EDM,22,4,1,8475163,,2019020345,,2019-11-22,Alex Chiasson Misconduct
+227,penalty,Holding,Markus Granlund,Carl Grundstrom,[-5. 40.],3,04:41,EDM,LAK,LAK,26,EDM,22,4,1,8476440,8479336.0,2019020345,,2019-11-22,Markus Granlund Holding against Carl Grundstrom
+40,penalty,Hooking,Alex Iafallo,Conor Garland,[62. -6.],1,10:24,LAK,ARI,LAK,26,ARI,53,0,0,8480113,8478856.0,2019020350,,2019-11-24,Alex Iafallo Hooking against Conor Garland
+90,penalty,Tripping,Christian Fischer,Nikolai Prokhorkin,[ 44. -26.],2,18:44,ARI,LAK,LAK,26,ARI,53,0,1,8478432,8476947.0,2019020350,,2019-11-24,Christian Fischer Tripping against Nikolai Prokhorkin
+149,penalty,Hooking,Clayton Keller,Ben Hutton,[-94.   6.],2,04:04,ARI,LAK,LAK,26,ARI,53,1,2,8479343,8477018.0,2019020350,,2019-11-24,Clayton Keller Hooking against Ben Hutton
+185,penalty,Hooking,Jordan Oesterle,Dustin Brown,[-81.  12.],3,13:15,ARI,LAK,LAK,26,ARI,53,1,2,8477851,8470606.0,2019020350,,2019-11-24,Jordan Oesterle Hooking against Dustin Brown
+26,penalty,Too many men on the ice,Austin Wagner,,[ 0. 40.],1,12:29,LAK,SJS,LAK,26,SJS,28,0,1,8478455,,2019020373,,2019-11-27,Too many men/ice served by Austin Wagner
+71,penalty,Hooking,Radim Simek,Blake Lizotte,[-69.   5.],1,02:06,SJS,LAK,LAK,26,SJS,28,0,1,8480160,8481481.0,2019020373,,2019-11-27,Radim Simek Hooking against Blake Lizotte
+93,penalty,Slashing,Drew Doughty,Kevin Labanc,[-72.  -3.],2,19:09,LAK,SJS,LAK,26,SJS,28,0,1,8474563,8478099.0,2019020373,,2019-11-27,Drew Doughty Slashing against Kevin Labanc
+102,penalty,Tripping,Brenden Dillon,Blake Lizotte,[76. 35.],2,16:22,SJS,LAK,LAK,26,SJS,28,0,1,8475455,8481481.0,2019020373,,2019-11-27,Brenden Dillon Tripping against Blake Lizotte
+136,penalty,Hooking,Dylan Gambrell,Michael Amadio,[ 61. -39.],2,06:14,SJS,LAK,LAK,26,SJS,28,0,3,8479580,8478020.0,2019020373,,2019-11-27,Dylan Gambrell Hooking against Michael Amadio
+211,penalty,Interference,Marcus Sorensen,Tyler Toffoli,[-80.  16.],3,09:10,SJS,LAK,LAK,26,SJS,28,2,3,8475834,8475726.0,2019020373,,2019-11-27,Marcus Sorensen Interference against Tyler Toffoli
+240,penalty,Too many men on the ice,Dylan Gambrell,,[-20.  37.],3,01:04,SJS,LAK,LAK,26,SJS,28,3,3,8479580,,2019020373,,2019-11-27,Too many men/ice served by Dylan Gambrell
+12,penalty,Hi-sticking,Anze Kopitar,Jordan Eberle,[ 51. -20.],1,17:07,LAK,NYI,LAK,26,NYI,2,0,0,8471685,8474586.0,2019020388,,2019-11-28,Anze Kopitar Hi-sticking against Jordan Eberle
+76,penalty,Hooking,Adam Pelech,Anze Kopitar,[-50.  10.],1,03:55,NYI,LAK,LAK,26,NYI,2,1,1,8476917,8471685.0,2019020388,,2019-11-28,Adam Pelech Hooking against Anze Kopitar
+82,penalty,Slashing,Cal Clutterbuck,Tyler Toffoli,[-80.  -2.],1,01:25,NYI,LAK,LAK,26,NYI,2,1,1,8473504,8475726.0,2019020388,,2019-11-28,Cal Clutterbuck Slashing against Tyler Toffoli
+143,penalty,Tripping,Dustin Brown,Jordan Eberle,[-75. -40.],2,08:41,LAK,NYI,LAK,26,NYI,2,1,1,8470606,8474586.0,2019020388,,2019-11-28,Dustin Brown Tripping against Jordan Eberle
+156,penalty,Tripping,Noah Dobson,Kyle Clifford,[ 36. -34.],2,05:27,NYI,LAK,LAK,26,NYI,2,1,1,8480865,8475160.0,2019020388,,2019-11-28,Noah Dobson Tripping against Kyle Clifford
+193,penalty,Holding,Sean Walker,Mathew Barzal,[ 66. -37.],3,15:25,LAK,NYI,LAK,26,NYI,2,2,1,8480336,8478445.0,2019020388,,2019-11-28,Sean Walker Holding against Mathew Barzal
+197,penalty,Hi-sticking,Josh Bailey,Jeff Carter,[ 51. -27.],3,14:27,NYI,LAK,LAK,26,NYI,2,2,1,8474573,8470604.0,2019020388,,2019-11-28,Josh Bailey Hi-sticking against Jeff Carter
+209,penalty,Slashing,Jeff Carter,Mathew Barzal,[17. 40.],3,11:20,LAK,NYI,LAK,26,NYI,2,2,1,8470604,8478445.0,2019020388,,2019-11-28,Jeff Carter Slashing against Mathew Barzal
+210,penalty,Embellishment,Mathew Barzal,,[17. 40.],3,11:20,NYI,LAK,LAK,26,NYI,2,2,1,8478445,,2019020388,,2019-11-28,Mathew Barzal Embellishment
+19,penalty,Hooking,Jeff Carter,Marcus Sorensen,[32. -6.],1,14:51,LAK,SJS,SJS,28,LAK,26,0,0,8470604,8475834.0,2019020397,,2019-12-03,Jeff Carter Hooking against Marcus Sorensen
+35,penalty,Hooking,Patrick Marleau,Sean Walker,[-67.  12.],1,09:47,SJS,LAK,SJS,28,LAK,26,1,0,8466139,8480336.0,2019020397,,2019-12-03,Patrick Marleau Hooking against Sean Walker
+176,penalty,Slashing,Kyle Clifford,Erik Karlsson,[ 87. -20.],3,13:43,LAK,SJS,SJS,28,LAK,26,4,0,8475160,8474578.0,2019020397,,2019-12-03,Kyle Clifford Slashing against Erik Karlsson
+205,penalty,Interference,Kurtis MacDermid,Antti Suomela,[ 16. -42.],3,07:06,LAK,SJS,SJS,28,LAK,26,4,0,8477073,8480965.0,2019020397,,2019-12-03,Kurtis MacDermid Interference against Antti Suomela
+122,penalty,Hooking,Jeff Carter,Andrew Copp,[-80.  -7.],2,11:55,LAK,WPG,LAK,26,WPG,52,2,0,8470604,8477429.0,2019020415,,2019-12-01,Jeff Carter Hooking against Andrew Copp
+140,penalty,Hooking,Trevor Lewis,Jack Roslovic,[-69.   1.],2,07:49,LAK,WPG,LAK,26,WPG,52,2,0,8473453,8478458.0,2019020415,,2019-12-01,Trevor Lewis Hooking against Jack Roslovic
+176,penalty,Holding,Sean Walker,Nikolaj Ehlers,[91. 23.],3,19:29,LAK,WPG,LAK,26,WPG,52,2,0,8480336,8477940.0,2019020415,,2019-12-01,Sean Walker Holding against Nikolaj Ehlers
+30,penalty,Slashing,Tyler Toffoli,Carter Rowney,[46. 25.],1,11:59,LAK,ANA,ANA,24,LAK,26,1,0,8475726,8477240.0,2019020423,,2019-12-03,Tyler Toffoli Slashing against Carter Rowney
+117,penalty,Interference,Hampus Lindholm,Blake Lizotte,[61. 41.],2,12:07,ANA,LAK,ANA,24,LAK,26,3,1,8476854,8481481.0,2019020423,,2019-12-03,Hampus Lindholm Interference against Blake Lizotte
+124,penalty,Delay of game,Erik Gudbranson,,[83.  0.],2,10:27,ANA,LAK,ANA,24,LAK,26,3,1,8475790,,2019020423,,2019-12-03,Erik Gudbranson Delay of game
+83,penalty,Closing hand on puck,Michal Kempny,,[-60.  38.],1,00:39,WSH,LAK,LAK,26,WSH,15,0,2,8479482,,2019020437,,2019-12-05,Michal Kempny Closing hand on puck
+128,penalty,Slashing,Evgeny Kuznetsov,Alex Iafallo,[67.  4.],2,09:01,WSH,LAK,LAK,26,WSH,15,0,2,8475744,8480113.0,2019020437,,2019-12-05,Evgeny Kuznetsov Slashing against Alex Iafallo
+158,penalty,Slashing,T.J. Oshie,Anze Kopitar,[68. 24.],2,01:18,WSH,LAK,LAK,26,WSH,15,0,2,8471698,8471685.0,2019020437,,2019-12-05,T.J. Oshie Slashing against Anze Kopitar
+181,penalty,Hooking,Anze Kopitar,Evgeny Kuznetsov,[65. 12.],3,12:28,LAK,WSH,LAK,26,WSH,15,1,2,8471685,8475744.0,2019020437,,2019-12-05,Anze Kopitar Hooking against Evgeny Kuznetsov
+214,penalty,Illegal check to head,Tyler Toffoli,Garnet Hathaway,[13. 30.],3,04:43,LAK,WSH,LAK,26,WSH,15,1,2,8475726,8477903.0,2019020437,,2019-12-05,Tyler Toffoli Illegal check to head against Garnet Hathaway
+46,penalty,Holding,Adrian Kempe,Kris Russell,[-7. 37.],1,09:50,LAK,EDM,EDM,22,LAK,26,0,0,8477960,8471729.0,2019020450,,2019-12-07,Adrian Kempe Holding against Kris Russell
+72,penalty,Hooking,Sean Walker,Joakim Nygard,[68. -1.],1,05:39,LAK,EDM,EDM,22,LAK,26,1,0,8480336,8481638.0,2019020450,,2019-12-07,Sean Walker Hooking against Joakim Nygard
+94,penalty,Hooking,Markus Granlund,Adrian Kempe,[-72. -18.],1,01:39,EDM,LAK,EDM,22,LAK,26,2,0,8476440,8477960.0,2019020450,,2019-12-07,Markus Granlund Hooking against Adrian Kempe
+178,penalty,Tripping,Jeff Carter,Ethan Bear,[-66. -33.],3,18:35,LAK,EDM,EDM,22,LAK,26,2,0,8470604,8478451.0,2019020450,,2019-12-07,Jeff Carter Tripping against Ethan Bear
+201,penalty,Hooking,Kris Russell,Tyler Toffoli,[-68.  23.],3,14:50,EDM,LAK,EDM,22,LAK,26,2,0,8471729,8475726.0,2019020450,,2019-12-07,Kris Russell Hooking against Tyler Toffoli
+36,penalty,Interference,Tobias Rieder,Anze Kopitar,[18. 35.],1,08:57,CGY,LAK,CGY,20,LAK,26,0,0,8476356,8471685.0,2019020462,,2019-12-08,Tobias Rieder Interference against Anze Kopitar
+43,penalty,Hooking,Blake Lizotte,Milan Lucic,[-31.  35.],1,07:20,LAK,CGY,CGY,20,LAK,26,0,1,8481481,8473473.0,2019020462,,2019-12-08,Blake Lizotte Hooking against Milan Lucic
+49,penalty,Slashing,Mikael Backlund,Adrian Kempe,[-38. -15.],1,05:30,CGY,LAK,CGY,20,LAK,26,0,1,8474150,8477960.0,2019020462,,2019-12-08,Mikael Backlund Slashing against Adrian Kempe
+63,penalty,Tripping,Michael Amadio,Dillon Dube,[-83.  13.],1,03:12,LAK,CGY,CGY,20,LAK,26,0,2,8478020,8479346.0,2019020462,,2019-12-08,Michael Amadio Tripping against Dillon Dube
+109,penalty,Too many men on the ice,Matthew Tkachuk,,[15. 42.],2,14:35,CGY,LAK,CGY,20,LAK,26,2,2,8479314,,2019020462,,2019-12-08,Too many men/ice served by Matthew Tkachuk
+160,penalty,Fighting,Kyle Clifford,Zac Rinaldo,[64. -8.],2,02:53,LAK,CGY,CGY,20,LAK,26,3,2,8475160,8474736.0,2019020462,,2019-12-08,Kyle Clifford Fighting against Zac Rinaldo
+161,penalty,Fighting,Zac Rinaldo,Kyle Clifford,[60. -4.],2,02:53,CGY,LAK,CGY,20,LAK,26,3,2,8474736,8475160.0,2019020462,,2019-12-08,Zac Rinaldo Fighting against Kyle Clifford
+162,penalty,Game misconduct,Kyle Clifford,Zac Rinaldo,[67. -1.],2,02:53,LAK,CGY,CGY,20,LAK,26,3,2,8475160,8474736.0,2019020462,,2019-12-08,Kyle Clifford Game misconduct against Zac Rinaldo
+163,penalty,Game misconduct,Zac Rinaldo,Kyle Clifford,[64.  0.],2,02:53,CGY,LAK,CGY,20,LAK,26,3,2,8474736,8475160.0,2019020462,,2019-12-08,Zac Rinaldo Game misconduct against Kyle Clifford
+216,penalty,Tripping,Trevor Lewis,Michael Frolik,[-9. -1.],3,10:54,LAK,CGY,CGY,20,LAK,26,4,3,8473453,8473564.0,2019020462,,2019-12-08,Trevor Lewis Tripping against Michael Frolik
+246,penalty,Tripping,Tyler Toffoli,Sean Monahan,[ 31. -20.],3,03:25,LAK,CGY,CGY,20,LAK,26,4,3,8475726,8477497.0,2019020462,,2019-12-08,Tyler Toffoli Tripping against Sean Monahan
+19,penalty,Hi-sticking,Matt Luff,Pavel Buchnevich,[ 94. -16.],1,15:28,LAK,NYR,LAK,26,NYR,3,0,0,8479644,8477402.0,2019020483,,2019-12-11,Matt Luff Hi-sticking against Pavel Buchnevich
+101,penalty,Delaying Game - Puck over glass,Chris Kreider,,[56. 12.],2,13:52,NYR,LAK,LAK,26,NYR,3,1,0,8475184,,2019020483,,2019-12-11,Chris Kreider Delaying Game - Puck over glass
+137,penalty,Fighting,Brady Skjei,Austin Wagner,[84. 22.],2,05:51,NYR,LAK,LAK,26,NYR,3,2,0,8476869,8478455.0,2019020483,,2019-12-11,Brady Skjei Fighting against Austin Wagner
+138,penalty,Fighting,Austin Wagner,Brady Skjei,[90. 22.],2,05:51,LAK,NYR,LAK,26,NYR,3,2,0,8478455,8476869.0,2019020483,,2019-12-11,Austin Wagner Fighting against Brady Skjei
+189,penalty,Fighting,Kurtis MacDermid,Brendan Smith,[-51. -12.],3,13:10,LAK,NYR,LAK,26,NYR,3,2,0,8477073,8474090.0,2019020483,,2019-12-11,Kurtis MacDermid Fighting against Brendan Smith
+190,penalty,Fighting,Brendan Smith,Kurtis MacDermid,[-58. -20.],3,13:10,NYR,LAK,LAK,26,NYR,3,2,0,8474090,8477073.0,2019020483,,2019-12-11,Brendan Smith Fighting against Kurtis MacDermid
+229,penalty,Tripping,Dustin Brown,Mika Zibanejad,[41. 40.],3,02:05,LAK,NYR,LAK,26,NYR,3,2,0,8470606,8476459.0,2019020483,,2019-12-11,Dustin Brown Tripping against Mika Zibanejad
+57,penalty,Hooking,Max Comtois,Tyler Toffoli,[ 82. -35.],1,06:35,ANA,LAK,ANA,24,LAK,26,0,0,8480031,8475726.0,2019020497,,2019-12-14,Max Comtois Hooking against Tyler Toffoli
+59,penalty,Slashing,Alex Iafallo,Josh Manson,[-71. -35.],1,06:28,LAK,ANA,ANA,24,LAK,26,0,0,8480113,8476312.0,2019020497,,2019-12-14,Alex Iafallo Slashing against Josh Manson
+110,penalty,Tripping,Derek Grant,Dustin Brown,[70. 38.],2,16:51,ANA,LAK,ANA,24,LAK,26,0,1,8474683,8470606.0,2019020497,,2019-12-14,Derek Grant Tripping against Dustin Brown
+115,penalty,Holding,Adam Henrique,Anze Kopitar,[ 26. -16.],2,15:39,ANA,LAK,ANA,24,LAK,26,0,1,8474641,8471685.0,2019020497,,2019-12-14,Adam Henrique Holding against Anze Kopitar
+141,penalty,Fighting,Kurtis MacDermid,Nicolas Deslauriers,[-23.   0.],2,09:40,LAK,ANA,ANA,24,LAK,26,0,2,8477073,8475235.0,2019020497,,2019-12-14,Kurtis MacDermid Fighting against Nicolas Deslauriers
+142,penalty,Fighting,Nicolas Deslauriers,Kurtis MacDermid,[2. 2.],2,09:40,ANA,LAK,ANA,24,LAK,26,0,2,8475235,8477073.0,2019020497,,2019-12-14,Nicolas Deslauriers Fighting against Kurtis MacDermid
+155,penalty,Slashing,Jeff Carter,Jakob Silfverberg,[-14.  -8.],2,05:12,LAK,ANA,ANA,24,LAK,26,0,2,8470604,8475164.0,2019020497,,2019-12-14,Jeff Carter Slashing against Jakob Silfverberg
+190,penalty,Cross checking,Austin Wagner,Sam Carrick,[ -5. -35.],3,16:03,LAK,ANA,ANA,24,LAK,26,0,2,8478455,8475842.0,2019020497,,2019-12-14,Austin Wagner Cross checking against Sam Carrick
+41,penalty,Tripping,Alex Iafallo,John Marino,[ 34. -39.],1,11:20,LAK,PIT,PIT,5,LAK,26,0,0,8480113,8478507.0,2019020509,,2019-12-15,Alex Iafallo Tripping against John Marino
+113,penalty,Slashing,Kyle Clifford,Tristan Jarry,[81. -5.],2,15:42,LAK,PIT,PIT,5,LAK,26,1,2,8475160,8477465.0,2019020509,,2019-12-15,Kyle Clifford Slashing against Tristan Jarry
+117,penalty,Boarding,Zach Aston-Reese,Ben Hutton,[-72.  39.],2,14:09,PIT,LAK,PIT,5,LAK,26,1,2,8479944,8477018.0,2019020509,,2019-12-15,Zach Aston-Reese Boarding against Ben Hutton
+128,penalty,Interference,Jack Johnson,Tyler Toffoli,[88. -9.],2,12:26,PIT,LAK,PIT,5,LAK,26,1,2,8471677,8475726.0,2019020509,,2019-12-15,Jack Johnson Interference against Tyler Toffoli
+167,penalty,Holding,Tyler Toffoli,Sam Lafferty,[-68.  39.],2,03:48,LAK,PIT,PIT,5,LAK,26,1,2,8475726,8478043.0,2019020509,,2019-12-15,Tyler Toffoli Holding against Sam Lafferty
+171,penalty,Hi-sticking,Joakim Ryan,Jake Guentzel,[-86.   5.],2,03:19,LAK,PIT,PIT,5,LAK,26,1,2,8477046,8477404.0,2019020509,,2019-12-15,Joakim Ryan Hi-sticking against Jake Guentzel
+181,penalty,Hooking,Alex Galchenyuk,Drew Doughty,[82. 39.],3,19:25,PIT,LAK,PIT,5,LAK,26,2,2,8476851,8474563.0,2019020509,,2019-12-15,Alex Galchenyuk Hooking against Drew Doughty
+191,penalty,Fighting,Sam Lafferty,Adrian Kempe,[-78. -13.],3,15:55,PIT,LAK,PIT,5,LAK,26,2,2,8478043,8477960.0,2019020509,,2019-12-15,Sam Lafferty Fighting against Adrian Kempe
+192,penalty,Fighting,Adrian Kempe,Sam Lafferty,[-64. -11.],3,15:55,LAK,PIT,PIT,5,LAK,26,2,2,8477960,8478043.0,2019020509,,2019-12-15,Adrian Kempe Fighting against Sam Lafferty
+221,penalty,Unsportsmanlike conduct,Joseph Blandisi,Austin Wagner,[-78.  20.],3,09:02,PIT,LAK,PIT,5,LAK,26,3,2,8477010,8478455.0,2019020509,,2019-12-15,Joseph Blandisi Unsportsmanlike conduct against Austin Wagner
+222,penalty,Unsportsmanlike conduct,Austin Wagner,Joseph Blandisi,[-80.  16.],3,09:02,LAK,PIT,PIT,5,LAK,26,3,2,8478455,8477010.0,2019020509,,2019-12-15,Austin Wagner Unsportsmanlike conduct against Joseph Blandisi
+227,penalty,PS - Slash on breakaway,Kris Letang,Anze Kopitar,[-76.   0.],3,08:31,PIT,LAK,PIT,5,LAK,26,3,2,8471724,8471685.0,2019020509,,2019-12-15,Kris Letang PS - Slash on breakaway against Anze Kopitar
+3,penalty,Too many men on the ice,Austin Wagner,,[-9. 40.],1,19:16,LAK,DET,DET,17,LAK,26,0,0,8478455,,2019020516,,2019-12-16,Too many men/ice served by Austin Wagner
+37,penalty,Hooking,Andreas Athanasiou,Anze Kopitar,[ 1. 26.],1,10:25,DET,LAK,DET,17,LAK,26,0,0,8476960,8471685.0,2019020516,,2019-12-16,Andreas Athanasiou Hooking against Anze Kopitar
+56,penalty,Hi-sticking,Drew Doughty,Robby Fabbri,[-95.  12.],1,06:47,LAK,DET,DET,17,LAK,26,0,1,8474563,8477952.0,2019020516,,2019-12-16,Drew Doughty Hi-sticking against Robby Fabbri
+66,penalty,Hooking,Kurtis MacDermid,Justin Abdelkader,[-81.  -4.],1,03:22,LAK,DET,DET,17,LAK,26,0,1,8477073,8471716.0,2019020516,,2019-12-16,Kurtis MacDermid Hooking against Justin Abdelkader
+84,penalty,Hooking,Alex Biega,Jeff Carter,[-81. -37.],2,17:47,DET,LAK,DET,17,LAK,26,0,2,8473415,8470604.0,2019020516,,2019-12-16,Alex Biega Hooking against Jeff Carter
+89,penalty,Tripping,Madison Bowey,Nikolai Prokhorkin,[-76. -23.],2,15:11,DET,LAK,DET,17,LAK,26,0,2,8477474,8476947.0,2019020516,,2019-12-16,Madison Bowey Tripping against Nikolai Prokhorkin
+4,penalty,Too many men on the ice,David Backes,,[-13.  34.],1,19:00,BOS,LAK,BOS,6,LAK,26,0,0,8470655,,2019020524,,2019-12-18,Too many men/ice served by David Backes
+69,penalty,Interference,Kyle Clifford,Chris Wagner,[ 75. -25.],1,01:46,LAK,BOS,BOS,6,LAK,26,0,1,8475160,8475780.0,2019020524,,2019-12-18,Kyle Clifford Interference against Chris Wagner
+98,penalty,Hooking,Trevor Lewis,Jake DeBrusk,[-13. -24.],2,18:01,LAK,BOS,BOS,6,LAK,26,1,1,8473453,8478498.0,2019020524,,2019-12-18,Trevor Lewis Hooking against Jake DeBrusk
+164,penalty,Slashing,Dustin Brown,Charlie McAvoy,[60. 39.],2,03:53,LAK,BOS,BOS,6,LAK,26,2,2,8470606,8479325.0,2019020524,,2019-12-18,Dustin Brown Slashing against Charlie McAvoy
+10,penalty,Holding,Kurtis MacDermid,Pierre-Luc Dubois,[80. 38.],1,18:06,LAK,CBJ,CBJ,29,LAK,26,0,1,8477073,8479400.0,2019020541,,2019-12-20,Kurtis MacDermid Holding against Pierre-Luc Dubois
+64,penalty,Hooking,Gabriel Carlsson,Blake Lizotte,[-87. -31.],1,03:04,CBJ,LAK,CBJ,29,LAK,26,1,1,8478506,8481481.0,2019020541,,2019-12-20,Gabriel Carlsson Hooking against Blake Lizotte
+76,penalty,Delaying Game - Puck over glass,Seth Jones,,[86. 32.],2,19:07,CBJ,LAK,CBJ,29,LAK,26,1,1,8477495,,2019020541,,2019-12-20,Seth Jones Delaying Game - Puck over glass
+104,penalty,Hooking,Sean Walker,Cam Atkinson,[-69.   2.],2,11:55,LAK,CBJ,CBJ,29,LAK,26,1,1,8480336,8474715.0,2019020541,,2019-12-20,Sean Walker Hooking against Cam Atkinson
+147,penalty,Hooking,Sean Walker,Pierre-Luc Dubois,[-79.  11.],2,03:15,LAK,CBJ,CBJ,29,LAK,26,1,2,8480336,8479400.0,2019020541,,2019-12-20,Sean Walker Hooking against Pierre-Luc Dubois
+200,penalty,Holding,Jeff Carter,Nick Foligno,[ 51. -28.],3,11:14,LAK,CBJ,CBJ,29,LAK,26,1,2,8470604,8473422.0,2019020541,,2019-12-20,Jeff Carter Holding against Nick Foligno
+60,penalty,Interference,Brandon Montour,Nikolai Prokhorkin,[ 13. -39.],1,04:08,BUF,LAK,BUF,7,LAK,26,0,0,8477986,8476947.0,2019020552,,2019-12-21,Brandon Montour Interference against Nikolai Prokhorkin
+62,penalty,Tripping,Tyler Toffoli,Marcus Johansson,[-37.   2.],1,02:52,LAK,BUF,BUF,7,LAK,26,0,0,8475726,8475149.0,2019020552,,2019-12-21,Tyler Toffoli Tripping against Marcus Johansson
+129,penalty,Holding,Joakim Ryan,Jack Eichel,[-96.   8.],2,01:27,LAK,BUF,BUF,7,LAK,26,2,1,8477046,8478403.0,2019020552,,2019-12-21,Joakim Ryan Holding against Jack Eichel
+148,penalty,Tripping,Jeff Carter,Rasmus Dahlin,[49. -3.],3,14:23,LAK,BUF,BUF,7,LAK,26,2,1,8470604,8480839.0,2019020552,,2019-12-21,Jeff Carter Tripping against Rasmus Dahlin
+156,penalty,Interference,Sam Reinhart,Drew Doughty,[90. 34.],3,13:23,BUF,LAK,BUF,7,LAK,26,2,1,8477933,8474563.0,2019020552,,2019-12-21,Sam Reinhart Interference against Drew Doughty
+27,penalty,Slashing,Ben Hutton,Jordan Kyrou,[80.  3.],1,14:24,LAK,STL,LAK,26,STL,19,0,1,8477018,8479385.0,2019020581,,2019-12-24,Ben Hutton Slashing against Jordan Kyrou
+51,penalty,Holding the stick,Anze Kopitar,Oskar Sundqvist,[94. 11.],1,08:05,LAK,STL,LAK,26,STL,19,0,3,8471685,8476897.0,2019020581,,2019-12-24,Anze Kopitar Holding the stick against Oskar Sundqvist
+74,penalty,Holding,Justin Faulk,Blake Lizotte,[-52. -32.],1,01:25,STL,LAK,LAK,26,STL,19,0,4,8475753,8481481.0,2019020581,,2019-12-24,Justin Faulk Holding against Blake Lizotte
+138,penalty,Interference,Jay Bouwmeester,Tyler Toffoli,[ 34. -36.],2,04:01,STL,LAK,LAK,26,STL,19,1,4,8470151,8475726.0,2019020581,,2019-12-24,Jay Bouwmeester Interference against Tyler Toffoli
+158,penalty,Hooking,Tyler Bozak,Nikolai Prokhorkin,[-56.   4.],3,17:38,STL,LAK,LAK,26,STL,19,1,4,8475098,8476947.0,2019020581,,2019-12-24,Tyler Bozak Hooking against Nikolai Prokhorkin
+170,penalty,Tripping,Alex Pietrangelo,Tyler Toffoli,[-43. -18.],3,15:55,STL,LAK,LAK,26,STL,19,1,4,8474565,8475726.0,2019020581,,2019-12-24,Alex Pietrangelo Tripping against Tyler Toffoli
+196,penalty,Slashing,Oskar Sundqvist,Adrian Kempe,[-56.  -5.],3,08:45,STL,LAK,LAK,26,STL,19,1,4,8476897,8477960.0,2019020581,,2019-12-24,Oskar Sundqvist Slashing against Adrian Kempe
+21,penalty,Interference,Stefan Noesen,Ben Hutton,[73.  4.],1,14:14,SJS,LAK,SJS,28,LAK,26,0,0,8476474,8477018.0,2019020592,,2019-12-28,Stefan Noesen Interference against Ben Hutton
+66,penalty,Tripping,Nikolai Prokhorkin,Joel Kellman,[ 83. -18.],1,03:20,LAK,SJS,SJS,28,LAK,26,0,0,8476947,8481516.0,2019020592,,2019-12-28,Nikolai Prokhorkin Tripping against Joel Kellman
+48,penalty,Holding,Kale Clague,Tanner Pearson,[-70. -33.],1,08:13,LAK,VAN,VAN,23,LAK,26,1,0,8479348,8476871.0,2019020599,,2019-12-29,Kale Clague Holding against Tanner Pearson
+56,penalty,Tripping,Tyler Motte,Michael Amadio,[ 76. -36.],1,05:28,VAN,LAK,VAN,23,LAK,26,1,0,8477353,8478020.0,2019020599,,2019-12-29,Tyler Motte Tripping against Michael Amadio
+103,penalty,Hooking,Brock Boeser,Jeff Carter,[-51. -24.],2,14:16,VAN,LAK,VAN,23,LAK,26,2,0,8478444,8470604.0,2019020599,,2019-12-29,Brock Boeser Hooking against Jeff Carter
+161,penalty,Delaying Game - Puck over glass,Tanner Pearson,,[ 56. -41.],3,19:39,VAN,LAK,VAN,23,LAK,26,2,1,8476871,,2019020599,,2019-12-29,Tanner Pearson Delaying Game - Puck over glass
+25,penalty,Holding,Robert Hagg,Kyle Clifford,[-61.  36.],1,13:50,PHI,LAK,LAK,26,PHI,4,1,0,8477462,8475160.0,2019020625,,2020-01-01,Robert Hagg Holding against Kyle Clifford
+33,penalty,Roughing,Scott Laughton,Michael Amadio,[72. 33.],1,11:53,PHI,LAK,LAK,26,PHI,4,2,0,8476872,8478020.0,2019020625,,2020-01-01,Scott Laughton Roughing against Michael Amadio
+69,penalty,Hi-sticking,Anze Kopitar,Jakub Voracek,[-94.  19.],1,03:37,LAK,PHI,LAK,26,PHI,4,3,0,8471685,8474161.0,2019020625,,2020-01-01,Anze Kopitar Hi-sticking against Jakub Voracek
+135,penalty,Roughing,Austin Wagner,Matt Niskanen,[-13. -27.],2,03:01,LAK,PHI,LAK,26,PHI,4,4,1,8478455,8471702.0,2019020625,,2020-01-01,Austin Wagner Roughing against Matt Niskanen
+145,penalty,Boarding,Scott Laughton,Blake Lizotte,[-67.  42.],2,00:24,PHI,LAK,LAK,26,PHI,4,4,1,8476872,8481481.0,2019020625,,2020-01-01,Scott Laughton Boarding against Blake Lizotte
+163,penalty,Holding the stick,Anze Kopitar,Claude Giroux,[ 0. 33.],3,13:46,LAK,PHI,LAK,26,PHI,4,5,1,8471685,8473512.0,2019020625,,2020-01-01,Anze Kopitar Holding the stick against Claude Giroux
+16,penalty,Holding,Calle Jarnkrok,Blake Lizotte,[-91.  32.],1,16:44,NSH,LAK,LAK,26,NSH,18,0,0,8475714,8481481.0,2019020652,,2020-01-05,Calle Jarnkrok Holding against Blake Lizotte
+67,penalty,Delaying Game - Puck over glass,Austin Wagner,,[ 69. -38.],1,06:40,LAK,NSH,LAK,26,NSH,18,0,1,8478455,,2019020652,,2020-01-05,Austin Wagner Delaying Game - Puck over glass
+72,penalty,Holding the stick,Mikael Granlund,Matt Roy,[85. 38.],1,05:36,NSH,LAK,LAK,26,NSH,18,0,1,8475798,8478911.0,2019020652,,2020-01-05,Mikael Granlund Holding the stick against Matt Roy
+95,penalty,Fighting,Kyle Clifford,Jarred Tinordi,[-40.  15.],1,00:44,LAK,NSH,LAK,26,NSH,18,0,2,8475160,8475797.0,2019020652,,2020-01-05,Kyle Clifford Fighting against Jarred Tinordi
+96,penalty,Fighting,Jarred Tinordi,Kyle Clifford,[-36.  21.],1,00:44,NSH,LAK,LAK,26,NSH,18,0,2,8475797,8475160.0,2019020652,,2020-01-05,Jarred Tinordi Fighting against Kyle Clifford
+104,penalty,Slashing,Martin Frk,Mikael Granlund,[-13.  29.],2,17:44,LAK,NSH,LAK,26,NSH,18,0,2,8476924,8475798.0,2019020652,,2020-01-05,Martin Frk Slashing against Mikael Granlund
+122,penalty,Interference,Craig Smith,Adrian Kempe,[66. 10.],2,14:27,NSH,LAK,LAK,26,NSH,18,0,2,8475225,8477960.0,2019020652,,2020-01-05,Craig Smith Interference against Adrian Kempe
+156,penalty,Slashing,Blake Lizotte,Roman Josi,[  9. -26.],2,06:41,LAK,NSH,LAK,26,NSH,18,1,2,8481481,8474600.0,2019020652,,2020-01-05,Blake Lizotte Slashing against Roman Josi
+241,penalty,Tripping,Ben Hutton,Colin Blackwell,[57. 14.],3,07:00,LAK,NSH,LAK,26,NSH,18,1,4,8477018,8476278.0,2019020652,,2020-01-05,Ben Hutton Tripping against Colin Blackwell
+246,penalty,Delaying Game - Puck over glass,Matt Roy,,[ 55. -20.],3,05:39,LAK,NSH,LAK,26,NSH,18,1,4,8478911,,2019020652,,2020-01-05,Matt Roy Delaying Game - Puck over glass
+248,penalty,Hooking,Nick Bonino,Alex Iafallo,[52. 37.],3,05:12,NSH,LAK,LAK,26,NSH,18,1,4,8474009,8480113.0,2019020652,,2020-01-05,Nick Bonino Hooking against Alex Iafallo
+11,penalty,Too many men on the ice,Michael Amadio,,[ 7. 39.],1,15:58,LAK,CBJ,LAK,26,CBJ,29,1,0,8478020,,2019020662,,2020-01-07,Too many men/ice served by Michael Amadio
+23,penalty,Tripping,Mattias Janmark,Trevor Lewis,[11. 39.],1,12:00,DAL,LAK,LAK,26,DAL,25,1,0,8477406,8473453.0,2019020677,,2020-01-09,Mattias Janmark Tripping against Trevor Lewis
+54,penalty,Tripping,Austin Wagner,Roope Hintz,[-51. -30.],1,01:42,LAK,DAL,LAK,26,DAL,25,1,0,8478455,8478449.0,2019020677,,2020-01-09,Austin Wagner Tripping against Roope Hintz
+116,penalty,Slashing,Drew Doughty,Jamie Benn,[-79. -15.],2,06:45,LAK,DAL,LAK,26,DAL,25,1,0,8474563,8473994.0,2019020677,,2020-01-09,Drew Doughty Slashing against Jamie Benn
+182,penalty,Holding,Roman Polak,Anze Kopitar,[-77.   0.],3,10:09,DAL,LAK,LAK,26,DAL,25,1,2,8471392,8471685.0,2019020677,,2020-01-09,Roman Polak Holding against Anze Kopitar
+244,penalty,Slashing,Drew Doughty,Mark Stone,[-75.   2.],3,13:02,LAK,VGK,VGK,54,LAK,26,2,4,8474563,8475913.0,2019020686,,2020-01-10,Drew Doughty Slashing against Mark Stone
+282,penalty,Slashing,Paul Stastny,Jeff Carter,[22. -1.],3,00:10,VGK,LAK,VGK,54,LAK,26,2,4,8471669,8470604.0,2019020686,,2020-01-10,Paul Stastny Slashing against Jeff Carter
+47,penalty,Slashing,Martin Necas,Sean Walker,[ 80. -26.],1,10:40,CAR,LAK,CAR,12,LAK,26,1,0,8480039,8480336.0,2019020697,,2020-01-12,Martin Necas Slashing against Sean Walker
+155,penalty,Tripping,Michael Amadio,Martin Necas,[-41. -12.],2,08:46,LAK,CAR,CAR,12,LAK,26,1,0,8478020,8480039.0,2019020697,,2020-01-12,Michael Amadio Tripping against Martin Necas
+214,penalty,Tripping,Nino Niederreiter,Alec Martinez,[85. 29.],3,15:31,CAR,LAK,CAR,12,LAK,26,1,0,8475799,8474166.0,2019020697,,2020-01-12,Nino Niederreiter Tripping against Alec Martinez
+242,penalty,Delaying Game - Puck over glass,Austin Wagner,,[-63. -40.],3,06:43,LAK,CAR,CAR,12,LAK,26,1,0,8478455,,2019020697,,2020-01-12,Austin Wagner Delaying Game - Puck over glass
+123,penalty,Slashing,Jeff Carter,Victor Hedman,[-69. -30.],2,09:57,LAK,TBL,TBL,14,LAK,26,2,2,8470604,8475167.0,2019020716,,2020-01-16,Jeff Carter Slashing against Victor Hedman
+132,penalty,Tripping,Tyler Johnson,Kyle Clifford,[ 32. -36.],2,07:40,TBL,LAK,TBL,14,LAK,26,2,2,8474870,8475160.0,2019020716,,2020-01-16,Tyler Johnson Tripping against Kyle Clifford
+182,penalty,Broken stick,Alexander Volkov,,[ 97. -11.],3,14:50,TBL,LAK,TBL,14,LAK,26,2,2,8480186,,2019020716,,2020-01-16,Alexander Volkov Broken stick
+203,penalty,Hooking,Alexander Volkov,Trevor Lewis,[ 53. -29.],3,09:46,TBL,LAK,TBL,14,LAK,26,2,2,8480186,8473453.0,2019020716,,2020-01-16,Alexander Volkov Hooking against Trevor Lewis
+243,penalty,Hi-sticking,Kyle Clifford,Jan Rutta,[-64. -12.],3,00:59,LAK,TBL,TBL,14,LAK,26,3,3,8475160,8480172.0,2019020716,,2020-01-16,Kyle Clifford Hi-sticking against Jan Rutta
+26,penalty,Holding,Austin Wagner,Josh Brown,[58. 25.],1,14:37,LAK,FLA,FLA,13,LAK,26,0,0,8478455,8477384.0,2019020729,,2020-01-17,Austin Wagner Holding against Josh Brown
+79,penalty,Hooking,Dominic Toninato,Dustin Brown,[37. 37.],1,00:39,FLA,LAK,FLA,13,LAK,26,1,0,8476952,8470606.0,2019020729,,2020-01-17,Dominic Toninato Hooking against Dustin Brown
+104,penalty,Delaying Game - Puck over glass,Brett Connolly,,[-30. -36.],2,15:08,FLA,LAK,FLA,13,LAK,26,2,0,8475792,,2019020729,,2020-01-17,Brett Connolly Delaying Game - Puck over glass
+154,penalty,Slashing,Ben Hutton,Colton Sceviour,[ 82. -31.],2,00:29,LAK,FLA,FLA,13,LAK,26,2,0,8477018,8474098.0,2019020729,,2020-01-17,Ben Hutton Slashing against Colton Sceviour
+170,penalty,Hi-sticking,Matt Roy,Jonathan Huberdeau,[-11. -38.],3,17:03,LAK,FLA,FLA,13,LAK,26,2,0,8478911,8476456.0,2019020729,,2020-01-17,Matt Roy Hi-sticking against Jonathan Huberdeau
+210,penalty,Hooking,Brian Boyle,Michael Amadio,[ 36. -26.],3,05:50,FLA,LAK,FLA,13,LAK,26,4,1,8470619,8478020.0,2019020729,,2020-01-17,Brian Boyle Hooking against Michael Amadio
+221,penalty,Holding,Josh Brown,Adrian Kempe,[ 63. -17.],3,03:52,FLA,LAK,FLA,13,LAK,26,4,2,8477384,8477960.0,2019020729,,2020-01-17,Josh Brown Holding against Adrian Kempe
+87,penalty,Missing key [PD_151],James van Riemsdyk,,[ 12. -34.],2,19:07,PHI,LAK,PHI,4,LAK,26,1,0,8474037,,2019020750,,2020-01-19,Delaying Game - Unsucc. chlg served by James van Riemsdyk
+123,penalty,Hi-sticking,Drew Doughty,Joel Farabee,[95. -7.],2,09:26,LAK,PHI,PHI,4,LAK,26,2,0,8474563,8480797.0,2019020750,,2020-01-19,Drew Doughty Hi-sticking against Joel Farabee
+156,penalty,Holding the stick,Claude Giroux,Anze Kopitar,[-71. -21.],2,03:53,PHI,LAK,PHI,4,LAK,26,3,0,8473512,8471685.0,2019020750,,2020-01-19,Claude Giroux Holding the stick against Anze Kopitar
+213,penalty,Hooking,Nikolai Prokhorkin,Matt Niskanen,[81. 36.],3,12:22,LAK,PHI,PHI,4,LAK,26,3,1,8476947,8471702.0,2019020750,,2020-01-19,Nikolai Prokhorkin Hooking against Matt Niskanen
+37,penalty,Slashing,Kevin Shattenkirk,Anze Kopitar,[-94. -10.],1,13:39,TBL,LAK,LAK,26,TBL,14,0,0,8474031,8471685.0,2019020780,,2020-01-30,Kevin Shattenkirk Slashing against Anze Kopitar
+65,penalty,Hooking,Adrian Kempe,Ondrej Palat,[ 94. -23.],1,07:28,LAK,TBL,LAK,26,TBL,14,1,0,8477960,8476292.0,2019020780,,2020-01-30,Adrian Kempe Hooking against Ondrej Palat
+142,penalty,Slashing,Kurtis MacDermid,Yanni Gourde,[-77.   5.],2,10:15,LAK,TBL,LAK,26,TBL,14,2,1,8477073,8476826.0,2019020780,,2020-01-30,Kurtis MacDermid Slashing against Yanni Gourde
+53,penalty,Hooking,Joakim Ryan,Nick Schmaltz,[ 73. -36.],1,07:12,LAK,ARI,ARI,53,LAK,26,0,1,8477046,8477951.0,2019020784,,2020-01-31,Joakim Ryan Hooking against Nick Schmaltz
+98,penalty,PS - Tripping on breakaway,Oliver Ekman-Larsson,Austin Wagner,[70. -6.],2,17:17,ARI,LAK,ARI,53,LAK,26,0,1,8475171,8478455.0,2019020784,,2020-01-31,Oliver Ekman-Larsson PS - Tripping on breakaway against Austin Wagner
+104,penalty,Hi-sticking,Conor Garland,Dustin Brown,[ 7. -2.],2,15:41,ARI,LAK,ARI,53,LAK,26,0,1,8478856,8470606.0,2019020784,,2020-01-31,Conor Garland Hi-sticking against Dustin Brown
+105,penalty,Interference,Dustin Brown,Conor Garland,[6. 0.],2,15:41,LAK,ARI,ARI,53,LAK,26,0,1,8470606,8478856.0,2019020784,,2020-01-31,Dustin Brown Interference against Conor Garland
+120,penalty,Interference,Jeff Carter,Clayton Keller,[-66.   5.],2,10:45,LAK,ARI,ARI,53,LAK,26,0,1,8470604,8479343.0,2019020784,,2020-01-31,Jeff Carter Interference against Clayton Keller
+229,penalty,Tripping,Jakob Chychrun,Blake Lizotte,[-87. -34.],3,04:12,ARI,LAK,ARI,53,LAK,26,2,1,8479345,8481481.0,2019020784,,2020-01-31,Jakob Chychrun Tripping against Blake Lizotte
