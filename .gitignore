@@ -105,4 +105,4 @@ venv.bak/
 
 # scrape file
 scrape.py
-data/evolving-hockey
+data/evolving-hockey/pbp_query.csv
