@@ -5,7 +5,7 @@ Houses scripts used to obtain, clean, and present NHL data.
 The following is a basic rundown of some main functionality of the NHL API.
 
 ```bash
-base_url = 'https:/statsapi.web.nhl.com/api/v1'
+base_url = 'https://statsapi.web.nhl.com/api/v1'
 
 Stats Types:
     base_url/statTypes          # returns all stat types used in order to get
